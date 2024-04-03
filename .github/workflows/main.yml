@@ -1,0 +1,38 @@
+name: Fetch new data
+
+on: 
+  schedule: 
+    - cron: '0 * * * *' # Berjalan setiap jam
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout ke repo main
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: install python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.2' # install the python version needed
+
+      - name: install library python
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: menjalankan scrapping
+        run: python main.py
+
+      - name: commit files
+        run: |
+          git config --local user.email "hlfeyexist@proton.me"
+          git config --local user.name "Yobel D. ( GitHub Actions )"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
