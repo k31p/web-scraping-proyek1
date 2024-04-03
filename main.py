@@ -1,0 +1,149 @@
+import requests
+import json
+import re
+from bs4 import BeautifulSoup
+from os.path import exists
+from datetime import datetime, timedelta
+from timeit import default_timer as timer
+
+# NOTE: Setiap tahap eksekusi dilacak waktu eksekusinya
+waktu_scraping = 0
+waktu_cleansing = 0
+waktu_menyimpan = 0
+
+def clean_text(text: str) -> str:
+    '''
+        Fungsi untuk membersihkan teks
+        
+        Author: Yobel El'Roy Doloksaribu - 231524029
+    '''
+
+    kumpulanKata = text.strip().split()
+
+    return ' '.join(kumpulanKata)
+
+def convert_history_to_time(text: str) -> str:
+    '''
+        Melakukan konversi dari teks seperti
+        "8 menit yang lalu"
+        Menjadi waktu terbit berita
+
+        Author: Yobel El'Roy Doloksaribu - 231524029
+    '''
+
+    pattern = r"(\d+)\s+(\w+)"
+    match = re.search(pattern, text)
+
+    if match:
+        angka = int(match.group(1))
+        satuanWaktu = match.group(2)
+        
+        waktuSekarang = datetime.now()
+        if satuanWaktu == 'jam':
+            date = timedelta(hours=angka)
+        elif satuanWaktu == 'menit':
+            date = timedelta(minutes=angka)
+        elif satuanWaktu == 'detik':
+            date = timedelta(seconds=angka)
+        else:
+            date = timedelta(seconds=0)
+
+        waktuTerbit = waktuSekarang - date
+        return waktuTerbit.strftime("%Y/%m/%d %H:%M:%S")
+    else:
+        return ''
+
+# ---------------------------------------------------------------------------- #
+#                     TAHAP 1: Mengambil html dari website                     #
+# ---------------------------------------------------------------------------- #
+
+start = timer()
+
+URL = 'https://www.republika.co.id/'
+SAVED_WEBSITE_PATH = 'website.html'
+
+request = requests.get(URL)
+page = BeautifulSoup(request.text, features='html.parser')
+
+end = timer()
+
+waktu_scraping = end - start
+print(f'Waktu untuk scrapping data: {waktu_scraping} detik')
+
+# ---------------------------------------------------------------------------- #
+#                            TAHAP 2: Cleansing data                           #
+# ---------------------------------------------------------------------------- #
+        
+# ------------------- BAGIAN 1 -- Mengambil berita headline ------------------ #
+
+start = timer()
+rawHeadline = page.find_all('a', { 'class': 'link-headline' })
+listBeritaHeadline = []
+
+for item in rawHeadline:
+    judul = clean_text(item.find('div', { 'class': 'title-headline' }).text)
+    link_berita = item['href']
+    
+    listBeritaHeadline.append({
+        'judul': judul,
+        'link_berita': link_berita
+    })
+
+
+# ------------------- BAGIAN 2 -- Mengambil berita unggulan ------------------ #
+
+rawBeritaUnggulan = page.find('div', { 'id': 'wrap-unggulan-carousel' })
+listBeritaUnggulan = []
+
+for item in rawBeritaUnggulan.find_all('a'):
+    judul = clean_text(item.find('div', { 'class': 'title' }).text)
+    link_berita = item['href']
+
+    listBeritaUnggulan.append({
+        'judul': judul,
+        'link_berita': link_berita
+    })
+
+# ------------------- BAGIAN 3 -- Mengambil berita lainnya ------------------- #
+    
+rawBeritaLainnya = page.select('li.list-group-item.list-border.conten1:not(.eksternal)')
+listBeritaLainnya = []
+
+for item in rawBeritaLainnya:
+    judul = clean_text(item.find('h3').text)
+    link_berita = item.find('a').get('href')
+    kategori = item.find('span', { 'class': 'kanal-info' }).get_text(strip=True)
+    waktuTerbit = convert_history_to_time(item.find('div', { 'class': 'date' }).get_text(strip=True).split('-')[1].strip())
+
+    listBeritaLainnya.append({
+        'judul': judul,
+        'link_berita': link_berita,
+        'kategori': kategori,
+        'tanggal_terbit': waktuTerbit
+    })
+
+end = timer()
+waktu_cleansing = end - start
+print(f'Waktu untuk cleansing data: {waktu_cleansing} detik')
+
+# ---------------------------------------------------------------------------- #
+#              TAHAP 3: Menyatukan semua data dalam satu file json             #
+# ---------------------------------------------------------------------------- #
+
+start = timer()
+
+hasilCleansing = {
+    'berita_headline': listBeritaHeadline,
+    'berita_unggulan': listBeritaUnggulan,
+    'berita_lainnya': listBeritaLainnya,
+}
+
+with open('serve/result.json', 'w') as jsonfile:
+    json.dump(hasilCleansing, jsonfile, indent=2)
+    jsonfile.close()
+
+end = timer()
+waktu_menyimpan = end - start
+
+print(f'Waktu untuk menyimpan data: {waktu_menyimpan} detik')
+print(f'Total waktu: {waktu_scraping + waktu_cleansing + waktu_menyimpan} detik')
