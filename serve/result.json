@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Uniknya Tradisi Membangunkan Sahur di Sejumlah Negara",
+      "link_berita": "https://tv.republika.co.id/berita/sblq16418/uniknya-tradisi-membangunkan-sahur-di-sejumlah-negara"
+    },
+    {
+      "judul": "Lebih dari 600 Ribu Anak di Rafah Kelaparan dan Ketakutan di Tengah Serangan Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/sbkzls366/lebih-dari-600-ribu-anak-di-rafah-kelaparan-dan-ketakutan-di-tengah-serangan-israel"
+    },
+    {
       "judul": "Misteri Banyaknya Pasukan Israel yang Angkat Kaki dari Gaza Selatan",
       "link_berita": "https://internasional.republika.co.id/berita/sblkcn488/misteri-banyaknya-pasukan-israel-yang-angkat-kaki-dari-gaza-selatan"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Trik Masak dan Menyimpan Ketupat Agar tak Benyek, Apek, dan Berlendir",
       "link_berita": "https://ramadhan.republika.co.id/berita/sblh93425/trik-masak-dan-menyimpan-ketupat-agar-tak-benyek-apek-dan-berlendir"
-    },
-    {
-      "judul": "Gedung Kantor LBH-YLBHI Jakarta Terbakar Ahad Malam",
-      "link_berita": "https://news.republika.co.id/berita/sblcaa436/gedung-kantor-lbhylbhi-jakarta-terbakar-ahad-malam"
-    },
-    {
-      "judul": "Pengamat Sebut Ridwan Kamil Lebih Berpotensi Diusung Golkar untuk Maju di Pilkada Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sbks1i436/pengamat-sebut-ridwan-kamil-lebih-berpotensi-diusung-golkar-untuk-maju-di-pilkada-jakarta"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Tanpa Sungkan, Klopp Minta MU Kalahkan Arsenal Agar Liverpool Bisa Juara Liga",
+      "link_berita": "https://sport.republika.co.id/berita/sblq2l456/tanpa-sungkan-klopp-minta-mu-kalahkan-arsenal-agar-liverpool-bisa-juara-liga"
+    },
+    {
+      "judul": "Supermarket Inggris Tarik Viennetta Vanilla, Terkait Boikot?",
+      "link_berita": "https://ameera.republika.co.id/berita/sblmun414/supermarket-inggris-tarik-viennetta-vanilla-terkait-boikot"
+    },
     {
       "judul": "Klasemen Liga Italia: Juventus Mantapkan Posisi di Peringkat Ketiga",
       "link_berita": "https://sport.republika.co.id/berita/sblksc348/klasemen-liga-italia-juventus-mantapkan-posisi-di-peringkat-ketiga"
@@ -73,316 +81,308 @@
     {
       "judul": "Pemain Senior Munchen Berambisi Jadikan Arsenal Tempat Pelampiasan Amarah",
       "link_berita": "https://sport.republika.co.id/berita/sbkfrc456/pemain-senior-munchen-berambisi-jadikan-arsenal-tempat-pelampiasan-amarah"
-    },
-    {
-      "judul": "Sidang Gugatan Pilpres, Haedar Nashir: Sembilan Hakim MK Harus Bermoral Malaikat",
-      "link_berita": "https://news.republika.co.id/berita/sbkc1k377/sidang-gugatan-pilpres-haedar-nashir-sembilan-hakim-mk-harus-bermoral-malaikat"
-    },
-    {
-      "judul": "Warga Palestina Berusaha Meraih Malam Lailatul Qadar di Reruntuhan Masjid",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbk8sa366/warga-palestina-berusaha-meraih-malam-lailatul-qadar-di-reruntuhan-masjid"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Buntut Serangan ke WCK, Kongres AS Desak Biden Stop Kirim Senjata ke Israel",
+      "link_berita": "https://internasional.republika.co.id/berita/sblqjf488/buntut-serangan-ke-wck-kongres-as-desak-biden-stop-kirim-senjata-ke-israel",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 02:21:30"
+    },
+    {
+      "judul": "MUI Imbau Umat Islam Segera Tunaikan Zakat Fitrah dan Mal",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sblqca366/mui-imbau-umat-islam-segera-tunaikan-zakat-fitrah-dan-mal",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 02:16:30"
+    },
+    {
+      "judul": "Cyber Empathy: Edukasi Islam dan Santun Anak Yatim di Bulan Suci",
+      "link_berita": "https://news.republika.co.id/berita/sblq6f423/cyber-empathy-edukasi-islam-dan-santun-anak-yatim-di-bulan-suci",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 02:13:30"
+    },
+    {
+      "judul": "Tanpa Sungkan, Klopp Minta MU Kalahkan Arsenal Agar Liverpool Bisa Juara Liga",
+      "link_berita": "https://sport.republika.co.id/berita/sblq2l456/tanpa-sungkan-klopp-minta-mu-kalahkan-arsenal-agar-liverpool-bisa-juara-liga",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 02:11:30"
+    },
+    {
+      "judul": "Uniknya Tradisi Membangunkan Sahur di Sejumlah Negara",
+      "link_berita": "https://tv.republika.co.id/berita/sblq16418/uniknya-tradisi-membangunkan-sahur-di-sejumlah-negara",
+      "kategori": "Video",
+      "tanggal_terbit": "2024/04/08 02:10:30"
+    },
+    {
+      "judul": "Konflik Berkepanjangan, Myanmar Jadi Negara Paling Terkontaminasi Ranjau Darat",
+      "link_berita": "https://internasional.republika.co.id/berita/sblpyi488/konflik-berkepanjangan-myanmar-jadi-negara-paling-terkontaminasi-ranjau-darat",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 02:08:30"
+    },
+    {
+      "judul": "Redam Krisis Kesehatan, Korsel Tegaskan Fleksibel Soal Peningkatan Kuota Mahasiswa",
+      "link_berita": "https://internasional.republika.co.id/berita/sblpnd488/redam-krisis-kesehatan-korsel-tegaskan-fleksibel-soal-peningkatan-kuota-mahasiswa",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 02:02:30"
+    },
+    {
+      "judul": "Tinggal Serumah dengan Anak Kecil, Lansia Berisiko Ketularan Pneumonia",
+      "link_berita": "https://ameera.republika.co.id/berita/sblpkd414/tinggal-serumah-dengan-anak-kecil-lansia-berisiko-ketularan-pneumonia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "2024/04/08 02:00:30"
+    },
+    {
+      "judul": "Intip Peternakan Halal di Maryland, Amerika Serikat",
+      "link_berita": "https://tv.republika.co.id/berita/sblpci418/intip-peternakan-halal-di-maryland-amerika-serikat",
+      "kategori": "Video",
+      "tanggal_terbit": "2024/04/08 01:55:30"
+    },
+    {
+      "judul": "Ancaman Korut Jadi Pembahasan Utama Korsel dan NATO",
+      "link_berita": "https://internasional.republika.co.id/berita/sblpc0488/ancaman-korut-jadi-pembahasan-utama-korsel-dan-nato",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 01:55:30"
+    },
+    {
+      "judul": "Atasi Kemacetan, Kenali Sistem Contraflow di Jalan Raya",
+      "link_berita": "https://motoresto.id/posts/300287/atasi-kemacetan-kenali-sistem-contraflow-di-jalan-raya",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 01:48:30"
+    },
+    {
+      "judul": "Seberapa Cepat Kanker Payudara Menyebar?",
+      "link_berita": "https://impresiupdate.id/posts/300283/seberapa-cepat-kanker-payudara-menyebar-",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 01:48:30"
+    },
+    {
+      "judul": "Amerika Didesak Keluar dari NATO jika Ukraina Bergabung",
+      "link_berita": "https://internasional.republika.co.id/berita/sblowg488/amerika-didesak-keluar-dari-nato-jika-ukraina-bergabung",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 01:45:30"
+    },
+    {
+      "judul": "Semangat Zelenskyy Dukung Ide Macron Kirim Pasukan ke Ukraina",
+      "link_berita": "https://internasional.republika.co.id/berita/sblopo488/semangat-zelenskyy-dukung-ide-macron-kirim-pasukan-ke-ukraina",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 01:41:30"
+    },
+    {
+      "judul": "Personel JKT48 Masih Makan McD, Siapa Lagi Publik Figur yang tidak Peduli Gerakan Boikot?",
+      "link_berita": "https://ameera.republika.co.id/berita/sblon4414/personel-jkt48-masih-makan-mcd-siapa-lagi-publik-figur-yang-tidak-peduli-gerakan-boikot",
+      "kategori": "Ameera",
+      "tanggal_terbit": "2024/04/08 01:40:30"
+    },
+    {
+      "judul": "Jay Idzes Masih Gagal Persembahkan Kemenangan untuk Venezia",
+      "link_berita": "https://sport.republika.co.id/berita/sblol1348/jay-idzes-masih-gagal-persembahkan-kemenangan-untuk-venezia",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 01:39:30"
+    },
+    {
+      "judul": "Saat Aksi Doa untuk Gaza, Din Ajak Negara Islam Kirim Pasukan ke Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/sblohx366/saat-aksi-doa-untuk-gaza-din-ajak-negara-islam-kirim-pasukan-ke-israel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "2024/04/08 01:37:30"
+    },
+    {
+      "judul": "Hasto Tantang Jokowi Berjanji tak Ambil Alih PDIP dan Golkar",
+      "link_berita": "https://news.republika.co.id/berita/sblg9a436/hasto-tantang-jokowi-berjanji-tak-ambil-alih-pdip-dan-golkar",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 01:36:30"
+    },
+    {
+      "judul": "Tiket Go Show Pelabuhan Merak Dinilai Rugikan Pemudik yang Sudah Punya Jadwal Naik Kapal",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sblnz3414/tiket-go-show-pelabuhan-merak-dinilai-rugikan-pemudik-yang-sudah-punya-jadwal-naik-kapal",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 01:25:30"
+    },
+    {
+      "judul": "Pelita Jaya Sapu Bersih Tiga Laga Kualifikasi BCL Asia 2024 di Mongolia",
+      "link_berita": "https://sport.republika.co.id/berita/sblnv6348/pelita-jaya-sapu-bersih-tiga-laga-kualifikasi-bcl-asia-2024-di-mongolia",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 01:24:30"
+    },
+    {
+      "judul": "Sisi: Mesir akan Berupaya Penuh Akhiri Konflik di Gaza",
+      "link_berita": "https://internasional.republika.co.id/berita/sblnt3488/sisi-mesir-akan-berupaya-penuh-akhiri-konflik-di-gaza",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 01:24:30"
+    },
+    {
+      "judul": "Tetap Profesional, Simak Lagi Cara Jisoo Blackpink Melakukan Adegan Mesra dalam Drakor",
+      "link_berita": "https://impresi.republika.co.id/leisure/1694527530/tetap-profesional-simak-lagi-cara-jisoo-blackpink-melakukan-adegan-mesra-dalam-drakor",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 01:24:30"
+    },
+    {
+      "judul": "Lebih dari 600 Ribu Anak di Rafah Kelaparan dan Ketakutan di Tengah Serangan Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/sbkzls366/lebih-dari-600-ribu-anak-di-rafah-kelaparan-dan-ketakutan-di-tengah-serangan-israel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "2024/04/08 01:24:30"
+    },
+    {
+      "judul": "Manusia tak Punya Imunitas, Flu Burung Berpotensi Jadi Pandemi",
+      "link_berita": "https://ameera.republika.co.id/berita/sblnco414/manusia-tak-punya-imunitas-flu-burung-berpotensi-jadi-pandemi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "2024/04/08 01:24:30"
+    },
+    {
+      "judul": "UNICEF: Laju Kehancuran di Gaza Sangat Mengejutkan",
+      "link_berita": "https://internasional.republika.co.id/berita/sbln9r488/unicef-laju-kehancuran-di-gaza-sangat-mengejutkan",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 01:24:30"
+    },
+    {
       "judul": "Israel tak akan Setujui Gencatan Senjata tanpa Pembebasan Sandera",
       "link_berita": "https://khazanah.republika.co.id/berita/sbkzeb366/israel-tak-akan-setujui-gencatan-senjata-tanpa-pembebasan-sandera",
       "kategori": "Khazanah",
-      "tanggal_terbit": "2024/04/08 01:03:00"
+      "tanggal_terbit": "2024/04/08 01:24:30"
     },
     {
       "judul": "Supermarket Inggris Tarik Viennetta Vanilla, Terkait Boikot?",
       "link_berita": "https://ameera.republika.co.id/berita/sblmun414/supermarket-inggris-tarik-viennetta-vanilla-terkait-boikot",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 01:02:00"
+      "tanggal_terbit": "2024/04/08 01:24:30"
     },
     {
       "judul": "Protes Pendudukan Palestina, Irlandia Divestasi Enam Perusahaan Israel",
       "link_berita": "https://internasional.republika.co.id/berita/sblmq2488/protes-pendudukan-palestina-irlandia-divestasi-enam-perusahaan-israel",
       "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 00:59:00"
+      "tanggal_terbit": "2024/04/08 01:24:30"
     },
     {
       "judul": "Kiat Mudah Memotret Gerhana Matahari dengan Ponsel Android",
       "link_berita": "https://impresi.republika.co.id/tangsel/1694527507/kiat-mudah-memotret-gerhana-matahari-dengan-ponsel-android",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 00:56:00"
+      "tanggal_terbit": "2024/04/08 01:24:30"
     },
     {
       "judul": "PDIP Pastikan tak Usung Bobby di Pilkada Sumut",
       "link_berita": "https://pemilukita.republika.co.id/berita/sblg3x436/pdip-pastikan-tak-usung-bobby-di-pilkada-sumut",
       "kategori": "Pemilu Kita",
-      "tanggal_terbit": "2024/04/08 00:55:00"
+      "tanggal_terbit": "2024/04/08 01:24:30"
     },
     {
       "judul": "H-2 Lebaran, Wilayah DKI Diprakirakan Cerah Berawan",
       "link_berita": "https://news.republika.co.id/berita/sblmc7488/h2-lebaran-wilayah-dki-diprakirakan-cerah-berawan",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 00:51:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Penyakit Mentalnya tak Bakal Sembuh, Wanita Belanda Pilih Jalani Euthanasia",
       "link_berita": "https://ameera.republika.co.id/berita/sbllyo414/penyakit-mentalnya-tak-bakal-sembuh-wanita-belanda-pilih-jalani-euthanasia",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 00:42:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Pihak Harvey Moeis dan Sandra Dewi Bantah Sitaan Rp 76 Miliar dan 1 Kg Emas",
       "link_berita": "https://news.republika.co.id/berita/sblfxw436/pihak-harvey-moeis-dan-sandra-dewi-bantah-sitaan-rp-76-miliar-dan-1-kg-emas",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 00:40:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Ponsel iQOO 12 Hadirkan Promo Spesial, Simak Tawaran Menarik Ini",
       "link_berita": "https://impresi.republika.co.id/news/1694527489/ponsel-iqoo-12-hadirkan-promo-spesial-simak-tawaran-menarik-ini",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 00:34:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Hasto: Harun Masiku adalah Korban Pemerasan Oknum KPU",
       "link_berita": "https://news.republika.co.id/berita/sblfgj436/hasto-harun-masiku-adalah-korban-pemerasan-oknum-kpu",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 00:32:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Partai di Korsel Bersaing Rayu Pemilih Jelang Pemungutan Suara",
       "link_berita": "https://internasional.republika.co.id/berita/sblle7488/partai-di-korsel-bersaing-rayu-pemilih-jelang-pemungutan-suara",
       "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 00:30:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Tetap Semangat Jelang Lebaran, Begini Cara Penuhi Nutrisi dan Hidrasi Tubuh",
       "link_berita": "https://impresi.republika.co.id/didaktika/1694527475/tetap-semangat-jelang-lebaran-begini-cara-penuhi-nutrisi-dan-hidrasi-tubuh",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 00:20:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Politikus PDIP Klaim Risma Masih Miliki Pengaruh di Pilkada Surabaya",
       "link_berita": "https://pemilukita.republika.co.id/berita/sble7y436/politikus-pdip-klaim-risma-masih-miliki-pengaruh-di-pilkada-surabaya",
       "kategori": "Pemilu Kita",
-      "tanggal_terbit": "2024/04/08 00:18:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Klasemen Liga Italia: Juventus Mantapkan Posisi di Peringkat Ketiga",
       "link_berita": "https://sport.republika.co.id/berita/sblksc348/klasemen-liga-italia-juventus-mantapkan-posisi-di-peringkat-ketiga",
       "kategori": "Sport",
-      "tanggal_terbit": "2024/04/08 00:17:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Asa Warga Gaza Merayakan Idul Fitri tanpa Perang",
       "link_berita": "https://internasional.republika.co.id/berita/sblkjt488/asa-warga-gaza-merayakan-idul-fitri-tanpa-perang",
       "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 00:12:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Misteri Banyaknya Pasukan Israel yang Angkat Kaki dari Gaza Selatan",
       "link_berita": "https://internasional.republika.co.id/berita/sblkcn488/misteri-banyaknya-pasukan-israel-yang-angkat-kaki-dari-gaza-selatan",
       "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 00:09:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Arus Mudik via Garut Didominasi Sepeda Motor",
       "link_berita": "https://news.republika.co.id/berita/sbldyd436/arus-mudik-via-garut-didominasi-sepeda-motor",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 00:09:00"
+      "tanggal_terbit": "2024/04/08 00:24:30"
     },
     {
       "judul": "Cinta Laura Kiehl Berlebaran di Bali, tak Pusingkan Baju, tanpa Makanan Spesial Hari Raya",
       "link_berita": "https://ameera.republika.co.id/berita/sbljrh414/cinta-laura-kiehl-berlebaran-di-bali-tak-pusingkan-baju-tanpa-makanan-spesial-hari-raya",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 00:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "Makanan Sehari-hari Ini Bisa Mencegah Tekanan Darah Tinggi dan Penyakit Jantung",
       "link_berita": "https://impresiupdate.id/posts/300279/makanan-sehari-hari-ini-bisa-mencegah-tekanan-darah-tinggi-dan-penyakit-jantung",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 00:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "Para Ilmuwan Menemukan Bahan Baterai Super Aman dan Efisien",
       "link_berita": "https://impresiupdate.id/posts/300281/para-ilmuwan-menemukan-bahan-baterai-super-aman-dan-efisien",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 00:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "Golkar Sebut Surat Rekomendasi Eri Cahyadi untuk Pilkada Surabaya Keluar Setelah Lebaran",
       "link_berita": "https://pemilukita.republika.co.id/berita/sbldp4436/golkar-sebut-surat-rekomendasi-eri-cahyadi-untuk-pilkada-surabaya-keluar-setelah-lebaran",
       "kategori": "Pemilu Kita",
-      "tanggal_terbit": "2024/04/08 00:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "Jelang Idul Fitri 1445, Umat Islam Dihimbau Segera Bayarkan Zakat Fitrah",
       "link_berita": "https://matapantura.republika.co.id/posts/300280/jelang-idul-fitri-1445-umat-islam-dihimbau-segera-bayarkan-zakat-fitrah",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "PDIP akan Ajukan Kembali Puan Maharani Jadi Ketua DPR 2024-2029",
       "link_berita": "https://news.republika.co.id/berita/sbleom436/pdip-akan-ajukan-kembali-puan-maharani-jadi-ketua-dpr-20242029",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/07 23:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "Filmnya Tayang Saat Libur Lebaran, Joko Anwar Harap Siksa Kubur Jadi Bahan Diskusi",
       "link_berita": "https://ameera.republika.co.id/berita/sbju2u414/filmnya-tayang-saat-libur-lebaran-joko-anwar-harap-siksa-kubur-jadi-bahan-diskusi",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/07 23:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     },
     {
       "judul": "Risalah Jakarta Serukan Aksi Nyata untuk Kemerdekaan Palestina, Ini Isi Lengkapnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sblimj414/risalah-jakarta-serukan-aksi-nyata-untuk-kemerdekaan-palestina-ini-isi-lengkapnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Jumlah Penumpang di Bandara Kertajati Naik 20 Persen saat Mudik Lebaran",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sblbib490/jumlah-penumpang-di-bandara-kertajati-naik-20-persen-saat-mudik-lebaran",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "ITB Buka Lowongan Dosen Tetap, Ada 73 Formasi yang Dibutuhkan",
-      "link_berita": "https://kampus.republika.co.id/lowongan-kerja/1624527395/itb-buka-lowongan-dosen-tetap-ada-73-formasi-yang-dibutuhkan",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Tas Penumpang Kereta Bernilai Ratusan Juta Dikembalikan ke Pemilik",
-      "link_berita": "https://news.republika.co.id/berita/sbldg3436/tas-penumpang-kereta-bernilai-ratusan-juta-dikembalikan-ke-pemilik",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Apakah Mesin Bertenaga Air Itu Nyata? NASA Mengatakan 'Ya', Tapi Ini Rumit",
-      "link_berita": "https://impresi.republika.co.id/news/1694527390/apakah-mesin-bertenaga-air-itu-nyata-nasa-mengatakan-ya-tapi-ini-rumit",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Antisipasi Antrian di Pelabuhan Merak Berulang, Pemudik Bisa Isi BBM Rest Area KM 43A dan 68A Tol Ja",
-      "link_berita": "https://matapantura.republika.co.id/posts/300277/antisipasi-antrian-di-pelabuhan-merak-berulang-pemudik-bisa-isi-bbm-rest-area-km-43a-dan-68a-tol-jakarta-merak",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Babymonster Pecahkan Rekor Pejualan Album Tertinggi di Hanteo",
-      "link_berita": "https://ameera.republika.co.id/berita/sblgz4414/babymonster-pecahkan-rekor-pejualan-album-tertinggi-di-hanteo",
-      "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Ini Resep Rendang Maknyus, Sehari Jadi!",
-      "link_berita": "https://ibuwarung.republika.co.id/news/1724526996/ini-resep-rendang-maknyus-sehari-jadi",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Kementerian ESDM: Penyaluran Gas Bumi Niaga Capai 842,9 BBTUD",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sblb6c490/kementerian-esdm-penyaluran-gas-bumi-niaga-capai-8429-bbtud",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Soal Peluang Aklamasi di Munas Golkar, Ini Jawaban Airlangga Hartarto",
-      "link_berita": "https://news.republika.co.id/berita/sbld5z436/soal-peluang-aklamasi-di-munas-golkar-ini-jawaban-airlangga-hartarto",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Trik Masak dan Menyimpan Ketupat Agar tak Benyek, Apek, dan Berlendir",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sblh93425/trik-masak-dan-menyimpan-ketupat-agar-tak-benyek-apek-dan-berlendir",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Jenderal Gatot Klarifikasi Kabar Hoaks akan Demo MK dan Istana",
-      "link_berita": "https://seputarmiliter.id/posts/300276/jenderal-gatot-klarifikasi-kabar-hoaks-akan-demo-mk-dan-istana",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Wisata Liburan Lebaran: Menikmati Kebun Binatang Ragunan",
-      "link_berita": "https://topnews62.com/posts/300272/wisata-liburan-lebaran-menikmati-kebun-binatang-ragunan",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Gerhana Matahari 8 April 2024 tak akan Terlihat di Indonesia, Ini Jalurnya",
-      "link_berita": "https://antariksa.republika.co.id/news/1714527315/gerhana-matahari-8-april-2024-tak-akan-terlihat-di-indonesia-ini-jalurnya",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Seorang Petugas Gugur usai Padamkan Kebakaran di Gedung LBH Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sblgqj436/seorang-petugas-gugur-usai-padamkan-kebakaran-di-gedung-lbh-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Satu Arah Masih Diterapkan di GT Cikampek-Kalikangkung Hingga Senin Malam",
-      "link_berita": "https://news.republika.co.id/berita/sblcxc436/satu-arah-masih-diterapkan-di-gt-cikampekkalikangkung-hingga-senin-malam",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "Gol Tunggal Federico Gatti Bawa Juventus Menang atas Fiorentina",
-      "link_berita": "https://visual.republika.co.id/berita/sbldyh491/gol-tunggal-federico-gatti-bawa-juventus-menang-atas-fiorentina",
-      "kategori": "Visual",
-      "tanggal_terbit": "2024/04/07 23:09:00"
-    },
-    {
-      "judul": "KSAL Nilai Pembelian Scorpene Evolved Sesuai Kebutuhan TNI AL",
-      "link_berita": "https://news.republika.co.id/berita/sblg56484/ksal-nilai-pembelian-scorpene-evolved-sesuai-kebutuhan-tni-al",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Artis yang Putuskan Berhijab di Tengah Karier dan Istiqomah Hingga Kini",
-      "link_berita": "https://ameera.republika.co.id/berita/sblfyc425/artis-yang-putuskan-berhijab-di-tengah-karier-dan-istiqomah-hingga-kini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Menteri Palestina: Pasukan Israel Sengaja Targetkan Perempuan dan Anak-Anak",
-      "link_berita": "https://internasional.republika.co.id/berita/sblflh370/menteri-palestina-pasukan-israel-sengaja-targetkan-perempuan-dan-anakanak",
-      "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Pemain Timnas Indonesia Lakoni Debut yang Sukses di Liga Jepang",
-      "link_berita": "https://sport.republika.co.id/berita/sblcv2456/pemain-timnas-indonesia-lakoni-debut-yang-sukses-di-liga-jepang",
-      "kategori": "Sport",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Planet Raksasa Mirip Jupiter Ditemukan Berputar di Sekitar Bintang yang Telah Mati",
-      "link_berita": "https://antariksa.republika.co.id/news/1714525885/planet-raksasa-mirip-jupiter-ditemukan-berputar-di-sekitar-bintang-yang-telah-mati",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Lima Tahapan Gerhana Matahari Total 2024 pada 8 April",
-      "link_berita": "https://tekno.republika.co.id/berita/sblf14370/lima-tahapan-gerhana-matahari-total-2024-pada-8-april",
-      "kategori": "Tekno",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Buku Baru Beatles Ungkap Pertemuan John Lennon yang Bikin Mick Jagger Merasa 'Tidak Nyaman'",
-      "link_berita": "https://impresi.republika.co.id/sana-sini/1694527310/buku-baru-beatles-ungkap-pertemuan-john-lennon-yang-bikin-mick-jagger-merasa-tidak-nyaman",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "79 Tahun Setelah Nazi, Jerman kembali Disidang Mahkamah Internasional",
-      "link_berita": "https://www.republika.id/posts/51882/79-tahun-setelah-nazi-jerman-kembali-digugat-ke-mahkamah-internasional",
-      "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/07 22:09:00"
-    },
-    {
-      "judul": "Agar Lolos 'Uji Mobil', Ice Spice Putar Album Baru di Mobil dengan Volume Gaspol",
-      "link_berita": "https://impresi.republika.co.id/musik/1694527284/agar-lolos-uji-mobil-ice-spice-putar-album-baru-di-mobil-dengan-volume-gaspol",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/07 22:09:00"
+      "tanggal_terbit": "2024/04/07 23:24:30"
     }
   ]
 }
