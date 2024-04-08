@@ -1,12 +1,12 @@
 {
   "berita_headline": [
     {
-      "judul": "Kapolri: Empat Keluarga Jalani Antemortem Terkait Kecelakaan Tol Cikampek",
-      "link_berita": "https://news.republika.co.id/berita/sbmjco370/kapolri-empat-keluarga-jalani-antemortem-terkait-kecelakaan-tol-cikampek"
+      "judul": "Mengapa Jalur Contraflow Sangat Bahaya? Pengendara Kerap tak Menyadari Risikonya",
+      "link_berita": "https://news.republika.co.id/berita/sbmm16425/mengapa-jalur-contraflow-sangat-bahaya-pengendara-kerap-tak-menyadari-risikonya"
     },
     {
-      "judul": "YKMI Apresiasi Langkah Baznas Tolak Donasi dari Perusahaan Terafiliasi Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/sbmgpx370/ykmi-apresiasi-langkah-baznas-tolak-donasi-dari-perusahaan-terafiliasi-israel"
+      "judul": "Kapolri: Empat Keluarga Jalani Antemortem Terkait Kecelakaan Tol Cikampek",
+      "link_berita": "https://news.republika.co.id/berita/sbmjco370/kapolri-empat-keluarga-jalani-antemortem-terkait-kecelakaan-tol-cikampek"
     },
     {
       "judul": "Pengguna Tol Diimbau Tetap Berada di Jalur Saat Ikut Jalur Contraflow",
@@ -22,6 +22,14 @@
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Gempa di Dompu, Pertamina Pastikan Penyaluran Produk Tetap Aman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbmffg490/gempa-di-dompu-pertamina-pastikan-penyaluran-produk-tetap-aman"
+    },
+    {
+      "judul": "UNRWA: Israel Langgar Semua Batas di Gaza",
+      "link_berita": "https://internasional.republika.co.id/berita/sbmkh5423/unrwa-israel-langgar-semua-batas-di-gaza"
+    },
     {
       "judul": "Kecelakaan Maut Tol KM 58, Polisi Evaluasi Rekayasa Contraflow",
       "link_berita": "https://news.republika.co.id/berita/sbmewd377/kecelakaan-maut-tol-km-58-polisi-evaluasi-rekayasa-contraflow"
@@ -73,316 +81,308 @@
     {
       "judul": "Jalan Raya Sukabumi Macet Total Setelah Longsor di Tol Bocimi, Begini Antisipasinya",
       "link_berita": "https://news.republika.co.id/berita/sblt4x502/jalan-raya-sukabumi-macet-total-setelah-longsor-di-tol-bocimi-begini-antisipasinya"
-    },
-    {
-      "judul": "Tanpa Sungkan, Klopp Minta MU Kalahkan Arsenal Agar Liverpool Bisa Juara Liga",
-      "link_berita": "https://sport.republika.co.id/berita/sblq2l456/tanpa-sungkan-klopp-minta-mu-kalahkan-arsenal-agar-liverpool-bisa-juara-liga"
-    },
-    {
-      "judul": "Personel JKT48 Masih Makan McD, Siapa Lagi Publik Figur yang tidak Peduli Gerakan Boikot?",
-      "link_berita": "https://ameera.republika.co.id/berita/sblon4414/personel-jkt48-masih-makan-mcd-siapa-lagi-publik-figur-yang-tidak-peduli-gerakan-boikot"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Sebab Pati Memberontak Sultan Agung dan Panembahan Senopati, Dua Raja Mataram",
+      "link_berita": "https://oohya.republika.co.id/pitan/1744529783/sebab-pati-memberontak-sultan-agung-dan-panembahan-senopati-dua-raja-mataram",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 14:14:44"
+    },
+    {
+      "judul": "H-2 Lebaran, Okupansi Penumpang KAI di Daop 8 Surabaya Masih Tinggi",
+      "link_berita": "https://news.republika.co.id/berita/sbmkt0456/h2-lebaran-okupansi-penumpang-kai-di-daop-8-surabaya-masih-tinggi",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 14:12:29"
+    },
+    {
+      "judul": "Tol Bocimi Amblas, Pakar: Akibat Cuaca Ekstrem",
+      "link_berita": "https://rejabar.republika.co.id/berita/sbmna4463/tol-bocimi-amblas-pakar-akibat-cuaca-ekstrem",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "2024/04/08 14:08:29"
+    },
+    {
+      "judul": "LBH Surabaya Terima 26 Aduan Masalah Pembayaran THR",
+      "link_berita": "https://rejogja.republika.co.id/berita/sbmn82432/lbh-surabaya-terima-26-aduan-masalah-pembayaran-thr",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "2024/04/08 14:07:29"
+    },
+    {
+      "judul": "Polda Aceh Ingatkan Masyarakat tak Gunakan Mobil Barang untuk Angkut Pemudik",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbmn5y425/polda-aceh-ingatkan-masyarakat-tak-gunakan-mobil-barang-untuk-angkut-pemudik",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 14:05:29"
+    },
+    {
+      "judul": "Cetak Gol Indah ke Gawang Liverpool, Wonderkid MU Ini tak Terlalu Bergembira, Kok Bisa?",
+      "link_berita": "https://sport.republika.co.id/berita/sbmmdl348/cetak-gol-indah-ke-gawang-liverpool-wonderkid-mu-ini-tak-terlalu-bergembira-kok-bisa",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 14:03:29"
+    },
+    {
+      "judul": "Panduan Sholat Idul Fitri",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sbmmf1430/panduan-sholat-idul-fitri",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "2024/04/08 14:03:29"
+    },
+    {
+      "judul": "Korsel Temukan Produk Anak Mengandung Zat Penyebab Kanker di AliExpress",
+      "link_berita": "https://internasional.republika.co.id/berita/sbmn0t463/korsel-temukan-produk-anak-mengandung-zat-penyebab-kanker-di-aliexpress",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 14:02:29"
+    },
+    {
+      "judul": "Gempa di Dompu, Pertamina Pastikan Penyaluran Produk Tetap Aman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbmffg490/gempa-di-dompu-pertamina-pastikan-penyaluran-produk-tetap-aman",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "2024/04/08 14:00:29"
+    },
+    {
+      "judul": "Melihat Proses Perbaikan Tol Bocimi yang Amblas",
+      "link_berita": "https://visual.republika.co.id/berita/sbmlnf375/melihat-proses-perbaikan-tol-bocimi-yang-amblas",
+      "kategori": "Visual",
+      "tanggal_terbit": "2024/04/08 14:00:29"
+    },
+    {
+      "judul": "Ini Hasil Silaturrahim PWNU DIY dengan Pimpinan Jamaah Aolia Soal Penetapan Idul Fitri",
+      "link_berita": "https://khazanah.republika.co.id/berita/sbmmsz430/ini-hasil-silaturrahim-pwnu-diy-dengan-pimpinan-jamaah-aolia-soal-penetapan-idul-fitri",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "2024/04/08 14:00:29"
+    },
+    {
+      "judul": "Ini Desakan Joe Biden Terkait Hamas",
+      "link_berita": "https://khazanah.republika.co.id/berita/sbmm4l430/ini-desakan-joe-biden-terkait-hamas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "2024/04/08 13:54:29"
+    },
+    {
+      "judul": "Tafsir Ayat tentang Pentingnya Saling Memaafkan",
+      "link_berita": "https://iqra.republika.co.id/berita/sbmmbo430/tafsir-ayat-tentang-pentingnya-saling-memaafkan",
+      "kategori": "Iqra",
+      "tanggal_terbit": "2024/04/08 13:53:29"
+    },
+    {
+      "judul": "Jebolan Indonesian Idol Melitha Sidabutar Meninggal Dunia pada Usia 23 Tahun",
+      "link_berita": "https://ameera.republika.co.id/berita/sbmmis425/jebolan-indonesian-idol-melitha-sidabutar-meninggal-dunia-pada-usia-23-tahun",
+      "kategori": "Ameera",
+      "tanggal_terbit": "2024/04/08 13:52:29"
+    },
+    {
+      "judul": "Sambut Libur Lebaran, Pj Bupati Temanggung Cek Kesiapan Objek Wisata",
+      "link_berita": "https://rejogja.republika.co.id/berita/sbmmgj432/sambut-libur-lebaran-pj-bupati-temanggung-cek-kesiapan-objek-wisata",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "2024/04/08 13:50:29"
+    },
+    {
+      "judul": "Klopp Yakin Jarell Quansah akan Belajar Setelah Buat Blunder Fatal Lawan MU",
+      "link_berita": "https://sport.republika.co.id/berita/sbmm3o348/klopp-yakin-jarell-quansah-akan-belajar-setelah-buat-blunder-fatal-lawan-mu",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 13:45:29"
+    },
+    {
+      "judul": "Jelang Lebaran, Penjualan Bedug Alami Peningkatan",
+      "link_berita": "https://visual.republika.co.id/berita/sbmlkl375/jelang-lebaran-penjualan-bedug-alami-peningkatan",
+      "kategori": "Visual",
+      "tanggal_terbit": "2024/04/08 13:45:29"
+    },
+    {
+      "judul": "Doa untuk Gaza",
+      "link_berita": "https://tv.republika.co.id/berita/sbmgrc313/doa-untuk-gaza",
+      "kategori": "Video",
+      "tanggal_terbit": "2024/04/08 13:45:29"
+    },
+    {
+      "judul": "Pemerintah Arab Saudi Siap Menerima Lonjakan Jamaah pada Hari Terakhir Ramadhan",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbml1v430/pemerintah-arab-saudi-siap-menerima-lonjakan-jamaah-pada-hari-terakhir-ramadhan",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 13:42:29"
+    },
+    {
+      "judul": "Mengapa Jalur Contraflow Sangat Bahaya? Pengendara Kerap tak Menyadari Risikonya",
+      "link_berita": "https://news.republika.co.id/berita/sbmm16425/mengapa-jalur-contraflow-sangat-bahaya-pengendara-kerap-tak-menyadari-risikonya",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 13:41:29"
+    },
+    {
+      "judul": "Mengais Harapan di Bawah Sinar Rembulan",
+      "link_berita": "https://retizen.republika.co.id/posts/300524/mengais-harapan-di-bawah-sinar-rembulan",
+      "kategori": "Retizen",
+      "tanggal_terbit": "2024/04/08 13:38:29"
+    },
+    {
+      "judul": "Inflasi, Antara Ancaman dan Peluang",
+      "link_berita": "https://retizen.republika.co.id/posts/300528/inflasi-antara-ancaman-dan-peluang",
+      "kategori": "Retizen",
+      "tanggal_terbit": "2024/04/08 13:38:29"
+    },
+    {
+      "judul": "Pesan Pj Heru untuk Warga yang Akan Adu Nasib di Ibukota: Jadi Warga Jakarta yang Disiplin",
+      "link_berita": "https://news.republika.co.id/berita/sbmlmx349/pesan-pj-heru-untuk-warga-yang-akan-adu-nasib-di-ibukota-jadi-warga-jakarta-yang-disiplin",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 13:32:29"
+    },
+    {
+      "judul": "Juventus Berpotensi Lepas Chiesa ke Newcastle United",
+      "link_berita": "https://sport.republika.co.id/berita/sbmlju348/juventus-berpotensi-lepas-chiesa-ke-newcastle-united",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 13:31:29"
+    },
+    {
+      "judul": "Hari ke Hari, Sepak Bola Indonesia Terus Mencatatkan Progres",
+      "link_berita": "https://sport.republika.co.id/berita/sbmlf4456/hari-ke-hari-sepak-bola-indonesia-terus-mencatatkan-progres",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 13:28:29"
+    },
+    {
+      "judul": "Pemudik Sebaiknya tak Gelar Kasur di Mobil Selama Perjalanan Mudik, Ini Bahayanya",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbmld9425/pemudik-sebaiknya-tak-gelar-kasur-di-mobil-selama-perjalanan-mudik-ini-bahayanya",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 13:27:29"
+    },
+    {
+      "judul": "Suasana Duka Keluarga Korban Kecelakaan Tol Japek di RSUD Karawang",
+      "link_berita": "https://visual.republika.co.id/berita/sbmlck375/suasana-duka-keluarga-korban-kecelakaan-tol-japek-di-rsud-karawang",
+      "kategori": "Visual",
+      "tanggal_terbit": "2024/04/08 13:26:29"
+    },
+    {
+      "judul": "Dubai Kerahkan Lebih dari 3.000 Orang untuk Mengelola Kebersihan Selama Liburan Idul FItri",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbmkxd430/dubai-kerahkan-lebih-dari-3000-orang-untuk-mengelola-kebersihan-selama-liburan-idul-fitri",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 13:25:29"
+    },
+    {
+      "judul": "Imigrasi Bali Tolak 318 WNA Masuk, Satu Diantaranya Punya Catatan Pedofilia",
+      "link_berita": "https://news.republika.co.id/berita/sbmk8c456/imigrasi-bali-tolak-318-wna-masuk-satu-diantaranya-punya-catatan-pedofilia",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 13:23:29"
+    },
+    {
+      "judul": "24 Ribu Kendaraan Masuk GT Kalikangkung, Lalu Lintas Terpantau Lancar",
+      "link_berita": "https://rejogja.republika.co.id/berita/sbmkx8432/24-ribu-kendaraan-masuk-gt-kalikangkung-lalu-lintas-terpantau-lancar",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "2024/04/08 13:17:29"
+    },
+    {
+      "judul": "Harga Daging Sapi Segar di Daerah Ini Capai Rp 180 Ribu per Kilogram",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbmkwu423/harga-daging-sapi-segar-di-daerah-ini-capai-rp-180-ribu-per-kilogram",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 13:17:29"
+    },
+    {
       "judul": "Terjadi Kecelakaan di KM 58 Tol Japek, Ditjen Hubdat Imbau Pemudik Utamakan Keselamatan",
       "link_berita": "https://ruzkaindonesia.id/posts/300523/terjadi-kecelakaan-di-km-58-tol-japek-ditjen-hubdat-imbau-pemudik-utamakan-keselamatan",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 13:13:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Spanyol Bereaksi atas Penyerbuan Kedutaan Meksiko di Ekuador",
       "link_berita": "https://internasional.republika.co.id/berita/sbmkm4456/spanyol-bereaksi-atas-penyerbuan-kedutaan-meksiko-di-ekuador",
       "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 13:11:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "5 Hal Penting yang Harus Diperhatikan Pemudik dengan Kendaraan Pribadi",
       "link_berita": "https://ameera.republika.co.id/berita/sbmkkf425/5-hal-penting-yang-harus-diperhatikan-pemudik-dengan-kendaraan-pribadi",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 13:10:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "UNRWA: Israel Langgar Semua Batas di Gaza",
       "link_berita": "https://internasional.republika.co.id/berita/sbmkh5423/unrwa-israel-langgar-semua-batas-di-gaza",
       "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 13:08:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Train Passenger Bags Worth Hundreds of Millions Returned to Owner",
       "link_berita": "https://en.republika.co.id/berita/sbmes7451/train-passenger-bags-worth-hundreds-of-millions-returned-to-owner",
       "kategori": "En",
-      "tanggal_terbit": "2024/04/08 13:17:00"
+      "tanggal_terbit": "2024/04/08 14:15:29"
     },
     {
       "judul": "Polda Lampung Imbau Masyarakat tak Rayakan Malam Takbiran dengan Petasan",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbmk6q425/polda-lampung-imbau-masyarakat-tak-rayakan-malam-takbiran-dengan-petasan",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 13:02:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Makhluk Laut Misterius Terdampar di Malaysia Jadi Tontonan",
       "link_berita": "https://oceania.id/posts/300511/makhluk-laut-misterius-terdampar-di-malaysia-jadi-tontonan",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 13:02:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Kapolri: Penyebab Pasti Lakalantas KM 58 Cikampek Masih Didalami",
       "link_berita": "https://news.republika.co.id/berita/sbmk17456/kapolri-penyebab-pasti-lakalantas-km-58-cikampek-masih-didalami",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 12:58:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Mudik Naik Whoosh? Sekarang Ada Fasilitas Kereta Makan",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbmk15423/mudik-naik-whoosh-sekarang-ada-fasilitas-kereta-makan",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 12:58:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Berkendara Mudik dengan Balita? Jangan Lupakan Benda Penting Ini",
       "link_berita": "https://ameera.republika.co.id/berita/sbmk02370/berkendara-mudik-dengan-balita-jangan-lupakan-benda-penting-ini",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 12:58:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Kasus DBD di Tulungagung Melonjak, 9 Orang Meninggal, Warga Diminta Waspada",
       "link_berita": "https://rejogja.republika.co.id/berita/sbmjz5432/kasus-dbd-di-tulungagung-melonjak-9-orang-meninggal-warga-diminta-waspada",
       "kategori": "Rejogja",
-      "tanggal_terbit": "2024/04/08 12:57:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Perusahaan Teknologi Ini Amankan Data untuk Latih Kecerdasan Buatan Mereka",
       "link_berita": "https://tekno.republika.co.id/berita/sbmjq1370/perusahaan-teknologi-ini-amankan-data-untuk-latih-kecerdasan-buatan-mereka",
       "kategori": "Tekno",
-      "tanggal_terbit": "2024/04/08 12:52:00"
+      "tanggal_terbit": "2024/04/08 13:15:29"
     },
     {
       "judul": "Film Superhero DC yang akan 'Tinggalkan' Netflix, Apa Saja?",
       "link_berita": "https://ameera.republika.co.id/berita/sbmjfc425/film-superhero-dc-yang-akan-tinggalkan-netflix-apa-saja",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 12:45:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     },
     {
       "judul": "Kapolri: Empat Keluarga Jalani Antemortem Terkait Kecelakaan Tol Cikampek",
       "link_berita": "https://news.republika.co.id/berita/sbmjco370/kapolri-empat-keluarga-jalani-antemortem-terkait-kecelakaan-tol-cikampek",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 12:44:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     },
     {
       "judul": "Mudik Lewat Kudus, Tersedia Posko dengan Tempat Tidur dan Tempat Shalat",
       "link_berita": "https://rejogja.republika.co.id/berita/sbmj9d432/mudik-lewat-kudus-tersedia-posko-dengan-tempat-tidur-dan-tempat-shalat",
       "kategori": "Rejogja",
-      "tanggal_terbit": "2024/04/08 12:42:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     },
     {
       "judul": "TransJakarta Tambah Operasional di Terminal Kalideres Selama Mudik",
       "link_berita": "https://news.republika.co.id/berita/sbmj8s423/transjakarta-tambah-operasional-di-terminal-kalideres-selama-mudik",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 12:41:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     },
     {
       "judul": "Kenapa TikTok Populer Sekaligus Diwaspadai di AS dan Eropa?",
       "link_berita": "https://ekonomi.republika.co.id/berita/sbmj40472/kenapa-tiktok-populer-sekaligus-diwaspadai-di-as-dan-eropa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 12:38:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     },
     {
       "judul": "Pemudik Mulai Padati Pusat Oleh-Oleh di Semarang",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbmj37425/pemudik-mulai-padati-pusat-oleholeh-di-semarang",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 12:38:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     },
     {
       "judul": "Tur Toilet Umum Jadi Atraksi Wisata Populer di Tokyo",
       "link_berita": "https://ameera.republika.co.id/berita/sbmj0y370/tur-toilet-umum-jadi-atraksi-wisata-populer-di-tokyo",
       "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 12:37:00"
-    },
-    {
-      "judul": "IPW Desak Polisi Usut Kebakaran di Kantor YLBHI",
-      "link_berita": "https://news.republika.co.id/berita/sbmf29377/ipw-desak-polisi-usut-kebakaran-di-kantor-ylbhi",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 12:30:00"
-    },
-    {
-      "judul": "H-3 Lebaran, Pengguna Angkutan Penyeberangan Catatkan Angka Tertinggi",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbmipt423/h3-lebaranpengguna-angkutan-penyeberangan-catatkan-angka-tertinggi",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 12:30:00"
-    },
-    {
-      "judul": "Number of Passengers at Kertajati Airport Increased by 20 Percent",
-      "link_berita": "https://en.republika.co.id/berita/sbmer1451/number-of-passengers-at-kertajati-airport-increased-by-20-percent",
-      "kategori": "En",
-      "tanggal_terbit": "2024/04/08 13:17:00"
-    },
-    {
-      "judul": "Wings Food Sediakan Pondok Rehat Bagi Pemudik di Sejumlah Titik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbmc1s457/wings-food-sediakan-pondok-rehat-bagi-pemudik-di-sejumlah-titik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Ini Tata Tertib UTBK SNBT 2024, Cek Apa yang Boleh dan Tidak Boleh Dilakukan",
-      "link_berita": "https://kampus.republika.co.id/info-kampus/1624529487/ini-tata-tertib-utbk-snbt-2024-cek-apa-yang-boleh-dan-tidak-boleh-dilakukan",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Kecelakaan Maut Tol KM 58, Polisi Evaluasi Rekayasa Contraflow",
-      "link_berita": "https://news.republika.co.id/berita/sbmewd377/kecelakaan-maut-tol-km-58-polisi-evaluasi-rekayasa-contraflow",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Jakarta Real Action for Palestinian Independence",
-      "link_berita": "https://en.republika.co.id/berita/sbmepc451/jakarta-real-action-for-palestinian-independence",
-      "kategori": "En",
-      "tanggal_terbit": "2024/04/08 13:17:00"
-    },
-    {
-      "judul": "Jokowi Bagi-Bagi Sembako di Depan Istana",
-      "link_berita": "https://news.republika.co.id/berita/sbmha6423/jokowi-bagibagi-sembako-di-depan-istana",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Italia Desak Gencatan Senjata di Gaza",
-      "link_berita": "https://internasional.republika.co.id/berita/sbmh5m370/italia-desak-gencatan-senjata-di-gaza",
-      "kategori": "Internasional",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Senator DPD: Pengangkatan Guru P3K Justru Harus Berdayakan Sekolah Swasta",
-      "link_berita": "https://algebra.republika.co.id/posts/300508/senator-dpd-pengangkatan-guru-p3k-justru-harus-berdayakan-sekolah-swasta",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Menjajal Angkot Listrik di Kota Hujan",
-      "link_berita": "https://visual.republika.co.id/berita/sbmgzp375/menjajal-angkot-listrik-di-kota-hujan",
-      "kategori": "Visual",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Viral Penumpang Kehilangan Uang di Bagasi, Ini Tips Aman Naik Pesawat",
-      "link_berita": "https://ameera.republika.co.id/berita/sbmgz5370/viral-penumpang-kehilangan-uang-di-bagasi-ini-tips-aman-naik-pesawat",
-      "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "Puncak Arus Mudik di Pelabuhan Bakauheni tak Sesuai Prediksi",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbmbfs457/puncak-arus-mudik-di-pelabuhan-bakauheni-tak-sesuai-prediksi",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 12:17:00"
-    },
-    {
-      "judul": "YKMI Apresiasi Langkah Baznas Tolak Donasi dari Perusahaan Terafiliasi Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/sbmgpx370/ykmi-apresiasi-langkah-baznas-tolak-donasi-dari-perusahaan-terafiliasi-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Angkot Hilang Kendali Tabrak Tiga Pemotor di Bogor",
-      "link_berita": "https://news.republika.co.id/berita/sbmenr377/angkot-hilang-kendali-tabrak-tiga-pemotor-di-bogor",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Unhas Gandeng MUI Tes Calon Mahasiswa Baru Jalur Hafidz",
-      "link_berita": "https://khazanah.republika.co.id/berita/sbmb1s457/unhas-gandeng-mui-tes-calon-mahasiswa-baru-jalur-hafidz",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "OJK Sebut Pasar Obligasi Domestik Menguat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbmg70490/ojk-sebut-pasar-obligasi-domestik-menguat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Bappebti Terbitkan Surat Edaran Implementasi Perdagangan Aset Kripto",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbmg1u490/bappebti-terbitkan-surat-edaran-implementasi-perdagangan-aset-kripto",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "DPR Buka Kemungkinan Kirim Bantuan untuk Gaza Lewat UNRWA",
-      "link_berita": "https://tv.republika.co.id/berita/sbmdd7313/dpr-buka-kemungkinan-kirim-bantuan-untuk-gaza-lewat-unrwa",
-      "kategori": "Video",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Economic Movements During Homecoming are Projected to Reach IDR 386 Trillion",
-      "link_berita": "https://en.republika.co.id/berita/sbmemj451/economic-movements-during-homecoming-are-projected-to-reach-idr-386-trillion",
-      "kategori": "En",
-      "tanggal_terbit": "2024/04/08 13:17:00"
-    },
-    {
-      "judul": "Thamrin City Jadi Alternatif Warga Beli Baju Lebaran Terjangkau",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbmaot457/thamrin-city-jadi-alternatif-warga-beli-baju-lebaran-terjangkau",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Kecelakaan di Tol Jakarta-Cikampek, ini Doa Selamat dalam Perjalanan Mudik",
-      "link_berita": "https://iqra.republika.co.id/berita/sbmfvp451/kecelakaan-di-tol-jakartacikampek-ini-doa-selamat-dalam-perjalanan-mudik",
-      "kategori": "Iqra",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "H-3 Lebaran, 6,5 Juta Pemudik Motor Keluar dan Masuk Wilayah Jabodetabek",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbmdv5463/h3-lebaran-65-juta-pemudik-motor-keluar-dan-masuk-wilayah-jabodetabek",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Open House Digelar, Masyarakat Bisa Bertemu Jokowi di Istana",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbmfj8423/open-house-digelar-masyarakat-bisa-bertemu-jokowi-di-istana",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Bunga Bangkai Raksasa Mekar Sempurna Saat Libur Lebaran",
-      "link_berita": "https://sharia.republika.co.id/berita/sbm7pu457/bunga-bangkai-raksasa-mekar-sempurna-saat-libur-lebaran",
-      "kategori": "Sharia",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Kunjungi KM 58, Muhadjir: Sudah Disinggung Jangan Angkut Penumpang Berlebih",
-      "link_berita": "https://news.republika.co.id/berita/sbmehq377/kunjungi-km-58-muhadjir-sudah-disinggung-jangan-angkut-penumpang-berlebih",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "AMG dan DMMX Resmi Berkolaborasi",
-      "link_berita": "https://tekno.republika.co.id/berita/sbm4by456/amg-dan-dmmx-resmi-berkolaborasi",
-      "kategori": "Tekno",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "LBH-YLBHI Jakarta Office Building Burned Sunday Night",
-      "link_berita": "https://en.republika.co.id/berita/sbmel5451/lbhylbhi-jakarta-office-building-burned-sunday-night",
-      "kategori": "En",
-      "tanggal_terbit": "2024/04/08 13:17:00"
-    },
-    {
-      "judul": "Terumbu Karang Bisa Pulih Kembali Dampak dari Gelombang Panas",
-      "link_berita": "https://esgnow.republika.co.id/berita/sbmdo8463/terumbu-karang-bisa-pulih-kembali-dampak-dari-gelombang-panas",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "Nelayan Watodiri Lembata Jaga Keseimbangan Laut Lewat Tradisi Badu",
-      "link_berita": "https://esgnow.republika.co.id/berita/sbm7ej457/nelayan-watodiri-lembata-jaga-keseimbangan-laut-lewat-tradisi-badu",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "2024/04/08 11:17:00"
-    },
-    {
-      "judul": "PLN Dukung Pelayanan Angkot Listrik di Bogor",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbmeuk490/pln-dukung-pelayanan-angkot-listrik-di-bogor",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 11:17:00"
+      "tanggal_terbit": "2024/04/08 12:15:29"
     }
   ]
 }
