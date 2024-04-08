@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Balas Serangan Israel, Iran Pastikan tak Ada Kedutaan Israel yang Aman",
+      "link_berita": "https://khazanah.republika.co.id/berita/sbm64s451/balas-serangan-israel-iran-pastikan-tak-ada-kedutaan-israel-yang-aman"
+    },
+    {
       "judul": "9 Korban Tewas Kecelakaan Tol Cikampek Alami Luka Bakar",
       "link_berita": "https://news.republika.co.id/berita/sbm3mt456/9-korban-tewas-kecelakaan-tol-cikampek-alami-luka-bakar"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Apresiasi Arus Mudik Tahun Ini, Jokowi: Tidak Ada Antrean Panjang",
       "link_berita": "https://ramadhan.republika.co.id/berita/sblzci490/apresiasi-arus-mudik-tahun-ini-jokowi-tidak-ada-antrean-panjang"
-    },
-    {
-      "judul": "Urai Kepadatan Imbas Kecelakaan Maut di KM 58, Jasamarga Operasikan Tol Fungsional Japek 2",
-      "link_berita": "https://news.republika.co.id/berita/sblxqe370/urai-kepadatan-imbas-kecelakaan-maut-di-km-58-jasamarga-operasikan-tol-fungsional-japek-2"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Dua Korban Luka Dalam Kecelakaan di KM 58 Masih Dirawat di RS Rosela",
+      "link_berita": "https://news.republika.co.id/berita/sbm92l377/dua-korban-luka-dalam-kecelakaan-di-km-58-masih-dirawat-di-rs-rosela"
+    },
+    {
+      "judul": "Polisi: Dalam Grandmgrandax Terbakar di KM 58 Ada STNK Atas Nama Yanti Setyawan",
+      "link_berita": "https://news.republika.co.id/berita/sbm6zb377/polisi-dalam-grandmgrandax-terbakar-di-km-58-ada-stnk-atas-nama-yanti-setyawan"
+    },
     {
       "judul": "Ketua DPP PAN: Benny Lagi Caper karena Capresnya Kalah, Nyalegnya Juga Gagal",
       "link_berita": "https://news.republika.co.id/berita/sbm448318/ketua-dpp-pan-benny-lagi-caper-karena-capresnya-kalah-nyalegnya-juga-gagal"
@@ -73,316 +81,308 @@
     {
       "judul": "Risalah Jakarta Serukan Aksi Nyata untuk Kemerdekaan Palestina, Ini Isi Lengkapnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sblimj414/risalah-jakarta-serukan-aksi-nyata-untuk-kemerdekaan-palestina-ini-isi-lengkapnya"
-    },
-    {
-      "judul": "Seorang Petugas Gugur usai Padamkan Kebakaran di Gedung LBH Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sblgqj436/seorang-petugas-gugur-usai-padamkan-kebakaran-di-gedung-lbh-jakarta"
-    },
-    {
-      "judul": "Terjadi Lonjakan Jumlah Pemudik Roda Dua di Jalur Puncak",
-      "link_berita": "https://news.republika.co.id/berita/sblbp5456/terjadi-lonjakan-jumlah-pemudik-roda-dua-di-jalur-puncak"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "13 Kantong Mayat Dibawa Petugas dari Lokasi Kecelakaan KM 58",
+      "link_berita": "https://news.republika.co.id/berita/sbm9ly425/13-kantong-mayat-dibawa-petugas-dari-lokasi-kecelakaan-km-58",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 09:12:51"
+    },
+    {
+      "judul": "Libur Lebaran Panjang, Hanya 4 Persen Karyawan Ambil Cuti",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbj8za457/libur-lebaran-panjang-hanya-4-persen-karyawan-ambil-cuti",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "2024/04/08 09:09:51"
+    },
+    {
+      "judul": "Yang Mudik via Jalur Puncak, Ini Sembilan Titik Rawan Macet di Jalur Puncak Bogor",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm6y4451/yang-mudik-via-jalur-puncak-ini-sembilan-titik-rawan-macet-di-jalur-puncak-bogor",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 09:09:51"
+    },
+    {
+      "judul": "Rusia Kembali Tuduh Ukraina Serang PLTN Zaporizhzhia",
+      "link_berita": "https://internasional.republika.co.id/berita/sbm97h349/rusia-kembali-tuduh-ukraina-serang-pltn-zaporizhzhia",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 09:04:51"
+    },
+    {
+      "judul": "Dua Korban Luka Dalam Kecelakaan di KM 58 Masih Dirawat di RS Rosela",
+      "link_berita": "https://news.republika.co.id/berita/sbm92l377/dua-korban-luka-dalam-kecelakaan-di-km-58-masih-dirawat-di-rs-rosela",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 09:01:51"
+    },
+    {
+      "judul": "Mobil tak Kunjung Masuk Kapal, Pemudik di Pelabuhan Merak Protes",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm915490/mobil-tak-kunjung-masuk-kapal-pemudik-di-pelabuhan-merak-protes",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 09:00:51"
+    },
+    {
+      "judul": "Satpol PP DKI Kerahkan Ribuan Personel Selama Libur Idul Fitri",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm6en451/satpol-pp-dki-kerahkan-ribuan-personel-selama-libur-idul-fitri",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 08:59:51"
+    },
+    {
+      "judul": "WhatsApp Versi Beta Luncurkan Tampilan Tanpa Warna",
+      "link_berita": "https://tekno.republika.co.id/berita/sbm8tm370/whatsapp-versi-beta-luncurkan-tampilan-tanpa-warna",
+      "kategori": "Tekno",
+      "tanggal_terbit": "2024/04/08 08:55:51"
+    },
+    {
+      "judul": "Kesedihan Generasi Salaf Ketika Ditinggalkan Ramadhan",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm8bm451/kesedihan-generasi-salaf-ketika-ditinggalkan-ramadhan",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 08:45:51"
+    },
+    {
+      "judul": "Pengamat Tata Kota Ajak Masyarakat Lestarikan Lebaran Hijau",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm6at451/pengamat-tata-kota-ajak-masyarakat-lestarikan-lebaran-hijau",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 08:44:51"
+    },
+    {
+      "judul": "Survei Lingkar UI, Elektabilitas Imam Budi Hartono Seng Ada Lawan di Pilkada Depok, Supian Suri Paling Buncit",
+      "link_berita": "https://ruzka.republika.co.id/nasional/1674528923/survei-lingkar-ui-elektabilitas-imam-budi-hartono-seng-ada-lawan-di-pilkada-depok-supian-suri-paling-buncit",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 08:43:51"
+    },
+    {
+      "judul": "Kemenhub Investigasi Mendalam Kecelakaan Maut di Tol Japek",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm1hd330/kemenhub-investigasi-mendalam-kecelakaan-maut-di-tol-japek",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 08:43:51"
+    },
+    {
+      "judul": "Bos Mercedes Yakin Max Verstappen Jadi Pembalap Tercepat Musim Ini",
+      "link_berita": "https://sport.republika.co.id/berita/sbm7cz463/bos-mercedes-yakin-max-verstappen-jadi-pembalap-tercepat-musim-ini",
+      "kategori": "Sport",
+      "tanggal_terbit": "2024/04/08 08:39:51"
+    },
+    {
+      "judul": "Menko PMK: Inafis Proses Identifikasi 12 Korban Tewas Terbakar di Grandmax",
+      "link_berita": "https://news.republika.co.id/berita/sbm7tp377/menko-pmk-inafis-proses-identifikasi-12-korban-tewas-terbakar-di-grandmax",
+      "kategori": "News",
+      "tanggal_terbit": "2024/04/08 08:34:51"
+    },
+    {
+      "judul": "Balas Serangan Israel, Iran Pastikan tak Ada Kedutaan Israel yang Aman",
+      "link_berita": "https://khazanah.republika.co.id/berita/sbm64s451/balas-serangan-israel-iran-pastikan-tak-ada-kedutaan-israel-yang-aman",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "2024/04/08 08:29:51"
+    },
+    {
+      "judul": "Pakar Jelaskan Alasan Pantai Timur Australia Diguyur Hujan Deras Ekstrem",
+      "link_berita": "https://esgnow.republika.co.id/berita/sbm71x463/pakar-jelaskan-alasan-pantai-timur-australia-diguyur-hujan-deras-ekstrem",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "2024/04/08 08:29:51"
+    },
+    {
+      "judul": "Hamas-Intelijen Mesir Bahas Upaya Gencatan Senjata di Gaza",
+      "link_berita": "https://internasional.republika.co.id/berita/sbm7l5370/hamasintelijen-mesir-bahas-upaya-gencatan-senjata-di-gaza",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 08:29:51"
+    },
+    {
+      "judul": "Pengaruh Pajak Terhadap Perekonomian",
+      "link_berita": "https://retizen.republika.co.id/posts/300483/pengaruh-pajak-terhadap-perekonomian",
+      "kategori": "Retizen",
+      "tanggal_terbit": "2024/04/08 08:27:51"
+    },
+    {
+      "judul": "Perkembangan Studi Islam di Amerika",
+      "link_berita": "https://retizen.republika.co.id/posts/300486/perkembangan-studi-islam-di-amerika",
+      "kategori": "Retizen",
+      "tanggal_terbit": "2024/04/08 08:27:51"
+    },
+    {
+      "judul": "Menlu Inggris: Dukungan untuk Israel Bukan Tanpa Syarat",
+      "link_berita": "https://internasional.republika.co.id/berita/sbm7fy370/menlu-inggris-dukungan-untuk-israel-bukan-tanpa-syarat",
+      "kategori": "Internasional",
+      "tanggal_terbit": "2024/04/08 08:26:51"
+    },
+    {
+      "judul": "HK Ungkap Pengguna Tol di Bengkulu Didominasi Wisatawan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbm7d4490/hk-ungkap-pengguna-tol-di-bengkulu-didominasi-wisatawan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "2024/04/08 08:24:51"
+    },
+    {
+      "judul": "Kemacetan Dampak Kecelakaan Maut, Tol Japek II Selatan Dioperasikan",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm14b330/kemacetan-dampak-kecelakaan-maut-tol-japek-ii-selatan-dioperasikan",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 08:23:51"
+    },
+    {
+      "judul": "Lokasi Khutbah Idul Fitri 2024 Jajaran Pimpinan Pusat Muhammadiyah",
+      "link_berita": "https://magentatoday.id/posts/300479/lokasi-khutbah-idul-fitri-2024-jajaran-pimpinan-pusat-muhammadiyah",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 08:22:51"
+    },
+    {
+      "judul": "Ini Resep Opor Ayam, Hidangan Wajib Saat Lebaran Tiba",
+      "link_berita": "https://ibuwarung.republika.co.id/teknologi/1724528914/ini-resep-opor-ayam-hidangan-wajib-saat-lebaran-tiba",
+      "kategori": "Network",
+      "tanggal_terbit": "2024/04/08 08:22:51"
+    },
+    {
+      "judul": "Basarnas Siagakan Helikopter Patroli Udara Ketapang-Gilimanuk",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbm752490/basarnas-siagakan-helikopter-patroli-udara-ketapanggilimanuk",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "2024/04/08 08:19:51"
+    },
+    {
       "judul": "H-3, Jasa Marga Catat Lebih Dari 1 Juta Kendaraan Tinggalkan Jabotabek",
       "link_berita": "https://ekonomi.republika.co.id/berita/sbm702490/h3-jasa-marga-catat-lebih-dari-1-juta-kendaraan-tinggalkan-jabotabek",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 08:16:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
-      "judul": "Polisi: Dalam Grandmgrandax Terbakar Ada STNK Atas Nama Yanti Setyawan",
-      "link_berita": "https://news.republika.co.id/berita/sbm6zb377/polisi-dalam-grandmgrandax-terbakar-ada-stnk-atas-nama-yanti-setyawan",
+      "judul": "Polisi: Dalam Grandmgrandax Terbakar di KM 58 Ada STNK Atas Nama Yanti Setyawan",
+      "link_berita": "https://news.republika.co.id/berita/sbm6zb377/polisi-dalam-grandmgrandax-terbakar-di-km-58-ada-stnk-atas-nama-yanti-setyawan",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 08:16:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Shalawat Jalan Gapai Kebahagiaan Tertinggi di Dunia: Bertemu Nabi Muhammad",
       "link_berita": "https://iqra.republika.co.id/berita/sbm5mr451/shalawat-jalan-gapai-kebahagiaan-tertinggi-di-dunia-bertemu-nabi-muhammad",
       "kategori": "Iqra",
-      "tanggal_terbit": "2024/04/08 08:14:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Sholat Idul Fitri Muhammadiyah DIY akan Digelar di 718 Lokasi",
       "link_berita": "https://rejogja.republika.co.id/berita/sbm6s1432/sholat-idul-fitri-muhammadiyah-diy-akan-digelar-di-718-lokasi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "2024/04/08 08:11:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Suhu Panas Ekstrem Berpengaruh Terhadap Produksi Sperma Pria, Seperti Apa?",
       "link_berita": "https://esgnow.republika.co.id/berita/sbm6pg463/suhu-panas-ekstrem-berpengaruh-terhadap-produksi-sperma-pria-seperti-apa",
       "kategori": "Esgnow",
-      "tanggal_terbit": "2024/04/08 08:10:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Kecelakaan Maut KM 58, Ini Kesaksian Sopir Primajasa Saat Grandmax Tiba-Tiba Berhadapan",
       "link_berita": "https://news.republika.co.id/berita/sbm6p7377/kecelakaan-maut-km-58-ini-kesaksian-sopir-primajasa-saat-grandmax-tibatiba-berhadapan",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 08:10:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Kecelakaan di Tol Japek Tertangani, Contraflow Kembali Diberlakukan",
       "link_berita": "https://news.republika.co.id/berita/sbm6ox451/kecelakaan-di-tol-japek-tertangani-contraflow-kembali-diberlakukan",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 08:09:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Bank Jatim Tegaskan Konsistensinya Melaksanakan Transformasi Digital",
       "link_berita": "https://ekonomi.republika.co.id/berita/sbm6gm349/bank-jatim-tegaskan-konsistensinya-melaksanakan-transformasi-digital",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 08:05:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Kecelakaan Maut di Tol Japek, Diduga Kelelahan Sopir Grandmax Penyebabnya",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbm0tf330/kecelakaan-maut-di-tol-japek-diduga-kelelahan-sopir-grandmax-penyebabnya",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 08:03:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Bahlil: Presiden akan Gelar Open House Dihadiri Para Menteri",
       "link_berita": "https://news.republika.co.id/berita/sbm6eb377/bahlil-presiden-akan-gelar-open-house-dihadiri-para-menteri",
       "kategori": "News",
-      "tanggal_terbit": "2024/04/08 08:03:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Studi: Hanya 57 Perusahaan Dunia yang Bertanggung Jawab Atas 80 Persen Emisi",
       "link_berita": "https://esgnow.republika.co.id/berita/sbm688463/studi-hanya-57-perusahaan-dunia-yang-bertanggung-jawab-atas-80-persen-emisi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "2024/04/08 08:00:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Lima Manfaat Membaca Alquran yang Harus Diketahui",
       "link_berita": "https://iqra.republika.co.id/berita/sbm5ei451/lima-manfaat-membaca-alquran-yang-harus-diketahui",
       "kategori": "Iqra",
-      "tanggal_terbit": "2024/04/08 07:59:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Atasi Kemacetan di Merak, Menhub: Butuh Kapal yang Lebih Cepat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sbm66f490/atasi-kemacetan-di-merak-menhub-butuh-kapal-yang-lebih-cepat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 07:58:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Jadwal Uji Coba Timnas Indonesia U-23, Shin Tae-yong Kerahkan Kekuatan Inti Vs UEA",
       "link_berita": "https://sport.republika.co.id/berita/sbm3ut456/jadwal-uji-coba-timnas-indonesia-u23-shin-taeyong-kerahkan-kekuatan-inti-vs-uea",
       "kategori": "Sport",
-      "tanggal_terbit": "2024/04/08 07:56:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Sinergi Kembali Sarana Jaya dan Rumah Zakat Dalam Program Beasiswa Sarana Juara",
       "link_berita": "https://khazanah.republika.co.id/berita/sbm5yi349/sinergi-kembali-sarana-jaya-dan-rumah-zakat-dalam-program-beasiswa-sarana-juara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "2024/04/08 07:54:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Libur dan Cuti Lebaran 2024, Perpustakaan Umum Depok Ditutup Selama 10 Hari",
       "link_berita": "https://ruzka.republika.co.id/serba-serbi/1674528822/libur-dan-cuti-lebaran-2024-perpustakaan-umum-depok-ditutup-selama-10-hari",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:49:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Korlantas Perpanjang One Way di Tol Cipali Hingga Malam Ini",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbm0hs330/korlantas-perpanjang-one-way-di-tol-cipali-hingga-malam-ini",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 07:48:36"
+      "tanggal_terbit": "2024/04/08 08:16:51"
     },
     {
       "judul": "Lokasi Khutbah Idul Fitri 2024 Jajaran Pimpinan Pusat Muhammadiyah",
       "link_berita": "https://magenta.republika.co.id/news/1704528813/lokasi-khutbah-idul-fitri-2024-jajaran-pimpinan-pusat-muhammadiyah",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:43:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Libur Lebaran, Puskesmas di Surabaya Buka 24 Jam Khusus Layanan Gawat Darurat",
       "link_berita": "https://rejogja.republika.co.id/berita/sbm59p432/libur-lebaran-puskesmas-di-surabaya-buka-24-jam-khusus-layanan-gawat-darurat",
       "kategori": "Rejogja",
-      "tanggal_terbit": "2024/04/08 07:39:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Baca Buku Anti Islam malah Bawa Wanita Polandia ini Bersyahadat Jadi Mualaf",
       "link_berita": "https://khazanah.republika.co.id/berita/sbm56e451/baca-buku-anti-islam-malah-bawa-wanita-polandia-ini-bersyahadat-jadi-mualaf",
       "kategori": "Khazanah",
-      "tanggal_terbit": "2024/04/08 07:37:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Lalu Lintas Tol Trans Jawa Lancar, Volume Kendaraan Pemudik Mulai Turun",
       "link_berita": "https://visual.republika.co.id/berita/sbm2xj491/lalu-lintas-tol-trans-jawa-lancar-volume-kendaraan-pemudik-mulai-turun",
       "kategori": "Visual",
-      "tanggal_terbit": "2024/04/08 07:34:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Survei Alumni UI: Elektabilitas Imam Budi Tertinggi di Pilwalkot Depok",
       "link_berita": "https://pemilukita.republika.co.id/berita/sbm08f330/survei-alumni-ui-elektabilitas-imam-budi-tertinggi-di-pilwalkot-depok",
       "kategori": "Pemilu Kita",
-      "tanggal_terbit": "2024/04/08 07:33:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Sholat Idul Fitri, Dimana Sandal Sebaiknya di Letakan?",
       "link_berita": "https://ruzka.republika.co.id/edukasi/1674528742/sholat-idul-fitri-dimana-sandal-sebaiknya-di-letakan",
       "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:31:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Kecelakaan Kilometer 58 Tol Japek Diinvestgasi, Diduga Pengemudi Kelelahan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sbm4m8349/kecelakaan-kilometer-58-tol-japek-diinvestgasi-diduga-pengemudi-kelelahan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "2024/04/08 07:25:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     },
     {
       "judul": "Orang yang Cerdas adalah Orang yang Mengevaluasi Dirinya",
       "link_berita": "https://retizen.republika.co.id/posts/300402/orang-yang-cerdas-adalah-orang-yang-mengevaluasi-dirinya",
       "kategori": "Retizen",
-      "tanggal_terbit": "2024/04/08 07:23:36"
-    },
-    {
-      "judul": "Pelatih Chelsea Sebut Timnya Belum Cukup Dewasa untuk Berkompetisi",
-      "link_berita": "https://sport.republika.co.id/berita/sbm43c456/pelatih-chelsea-sebut-timnya-belum-cukup-dewasa-untuk-berkompetisi",
-      "kategori": "Sport",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Petugas Damkar Meninggal Usai Pemadaman di Gedung LBH",
-      "link_berita": "https://news.republika.co.id/berita/sblzyy330/petugas-damkar-meninggal-usai-pemadaman-di-gedung-lbh",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Ketua DPP PAN: Benny Lagi Caper karena Capresnya Kalah, Nyalegnya Juga Gagal",
-      "link_berita": "https://news.republika.co.id/berita/sbm448318/ketua-dpp-pan-benny-lagi-caper-karena-capresnya-kalah-nyalegnya-juga-gagal",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "PVMBG Minta Masyarakat Waspadai Erupsi Gunung Marapi",
-      "link_berita": "https://news.republika.co.id/berita/sbm43w370/pvmbg-minta-masyarakat-waspadai-erupsi-gunung-marapi",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Malaysia Berpotensi Buang 75 Ribu Ton Makanan Selama Ramadhan",
-      "link_berita": "https://esgnow.republika.co.id/berita/sbm3x2463/malaysia-berpotensi-buang-75-ribu-ton-makanan-selama-ramadhan",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Dimulai Besok, Ini Hasil Drawing Para Pemain Indonesia di Kejuaraan Asia 2024",
-      "link_berita": "https://badmintonews.id/posts/300460/dimulai-besok-ini-hasil-drawing-para-pemain-indonesia-di-kejuaraan-asia-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Kejuaraan Asia 2024: Para Pemain Indonesia Mulai Latihan",
-      "link_berita": "https://badmintonews.id/posts/300449/kejuaraan-asia-2024-para-pemain-indonesia-mulai-latihan",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Pahami Tips Aman Parkir di Rest Area Jalan Tol",
-      "link_berita": "https://motoresto.id/posts/300411/pahami-tips-aman-parkir-di-rest-area-jalan-tol",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Cardi B: Album Keduaku Sangat Berbeda dari Album Invasion of Privacy",
-      "link_berita": "https://impresiupdate.id/posts/300392/cardi-b-album-keduaku-sangat-berbeda-dari-album-invasion-of-privacy",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Bersihkan Halte Alun-Alun Bandung, Pemkot Kerahkan Truk Pemadam Kebakaran",
-      "link_berita": "https://bandung24jam.id/posts/300391/bersihkan-halte-alun-alun-bandung-pemkot-kerahkan-truk-pemadam-kebakaran",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "9 Korban Tewas Kecelakaan Tol Cikampek Alami Luka Bakar",
-      "link_berita": "https://news.republika.co.id/berita/sbm3mt456/9-korban-tewas-kecelakaan-tol-cikampek-alami-luka-bakar",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "H-2, Kondisi Lalin di Simpang Gadog Terpantau Ramai",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbluce330/h2-kondisi-lalin-di-simpang-gadog-terpantau-ramai",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "H-2 Lebaran, Pelabuhan Bakauheni Mulai Sepi Pemudik",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbm3k7370/h2-lebaran-pelabuhan-bakauheni-mulai-sepi-pemudik",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Dosen Universitas BSI Kampus Pontianak Ajak Anggota Panti Asuhan Al Adaby Berinovasi",
-      "link_berita": "https://news.republika.co.id/berita/sbm3g5349/dosen-universitas-bsi-kampus-pontianak-ajak-anggota-panti-asuhan-al-adaby-berinovasi",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Kebun Raya Bogor Hadirkan Taman Tumbuhan Quran, Berisi Tanaman yang Disebut dalam Alquran",
-      "link_berita": "https://magenta.republika.co.id/news/1704528590/kebun-raya-bogor-hadirkan-taman-tumbuhan-quran-berisi-tanaman-yang-disebut-dalam-alquran",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "PLN UP2B Jawa Timur Siap Dukung Keandalan Konsumen Tegangan Tinggi PT Freeport Indonesia di Gresik",
-      "link_berita": "https://ruzka.republika.co.id/ekonomi/1674528582/pln-up2b-jawa-timur-siap-dukung-keandalan-konsumen-tegangan-tinggi-pt-freeport-indonesia-di-gresik",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "UNM Kampus Margonda Gelar Kegiatan Santunan Anak Yatim di Bulan Ramadhan",
-      "link_berita": "https://news.republika.co.id/berita/sbm301349/unmkampus-margonda-gelar-kegiatan-santunan-anak-yatim-di-bulan-ramadhan",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 07:19:36"
-    },
-    {
-      "judul": "Polres Bantul Buka Layanan Penitipan Motor Gratis untuk Mudik",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sblu1s330/polres-bantul-buka-layanan-penitipan-motor-gratis-untuk-mudik",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Peringati 50 Tahun Kemenangan Eurovision, Abba Ucapkan Terima Kasih pada Penggemar",
-      "link_berita": "https://ameera.republika.co.id/berita/sbm2vz370/peringati-50-tahun-kemenangan-eurovision-abba-ucapkan-terima-kasih-pada-penggemar",
-      "kategori": "Ameera",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Terungkap Laboratorium Rahasia Pembuatan Ekstasi di Jakarta Utara",
-      "link_berita": "https://visual.republika.co.id/berita/sbm2cs491/terungkap-laboratorium-rahasia-pembuatan-ekstasi-di-jakarta-utara",
-      "kategori": "Visual",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Kenapa Kakek Sultan Agung tak Pakai Gelar Sultan Meski Jadi Penerus Sultan Pajang?",
-      "link_berita": "https://oohya.republika.co.id/lincak/1744528421/kenapa-kakek-sultan-agung-tak-pakai-gelar-sultan-meski-jadi-penerus-sultan-pajang",
-      "kategori": "Network",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Tak Mampu Kalahkan Tim Medioker di Tengah Perburuan Gelar, Kapten Liverpool: Salah Kami",
-      "link_berita": "https://sport.republika.co.id/berita/sbm1go456/tak-mampu-kalahkan-tim-medioker-di-tengah-perburuan-gelar-kapten-liverpool-salah-kami",
-      "kategori": "Sport",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Pemerintah Terapkan Sejumlah Kebijakan Atasi Kemacetan di Merak",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbltsj330/pemerintah-terapkan-sejumlah-kebijakan-atasi-kemacetan-di-merak",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Mengapa di Indonesia Tidak Bisa Melihat Gerhana Matahari Total dan Ledakan di Matahari?",
-      "link_berita": "https://tekno.republika.co.id/berita/sbm23l370/mengapa-di-indonesia-tidak-bisa-melihat-gerhana-matahari-total-dan-ledakan-di-matahari",
-      "kategori": "Tekno",
-      "tanggal_terbit": "2024/04/08 06:19:36"
-    },
-    {
-      "judul": "Ini Jejak Tamron, Tersangka Kasus Timah yang Simpan Uang Ratusan Miliar di Rumah",
-      "link_berita": "https://news.republika.co.id/berita/sbm1ze318/ini-jejak-tamron-tersangka-kasus-timah-yang-simpan-uang-ratusan-miliar-di-rumah",
-      "kategori": "News",
-      "tanggal_terbit": "2024/04/08 06:19:36"
+      "tanggal_terbit": "2024/04/08 07:16:51"
     }
   ]
 }
