@@ -13,6 +13,9 @@
             <h1 class="text-center">Hasil Scraping</h1>
         </div>
         <div class="row">
+            <span id="scraping-date-info">Waktu scraping: </span>
+        </div>
+        <div class="row">
             <!-- <div class="col d-none" id="berita-headline-container">
                 <table class="table table-striped table-bordered" id="berita-headline-table">
                     <thead>
@@ -60,6 +63,8 @@
     <script>
         $(document).ready(() => {
             $.getJSON('result.json').then(async (result) => {
+                $('span#scraping-date-info').text("Waktu scraping: " + result.waktu_scraping)
+
                 await result.berita_lainnya.forEach(val => {
                     $('tbody#berita-lainnya-data').append(`
                         <tr>
