@@ -93,10 +93,10 @@ def format_waktuberita(text: str):
     english_day = day_mapping.get(day)
 
     # Construct datetime string in a format recognizable by strptime
-    datetime_string = f"{english_day}, {date_info[0]} {date_info[1]} {date_info[2]}, {time} {timezone_abbreviation}"
+    datetime_string = f"{english_day}, {date_info[0]} {date_info[1]} {date_info[2]}, {time}"
 
     # Parse the datetime string
-    datetime_object = datetime.strptime(datetime_string, "%A, %d %b %Y, %H:%M %Z")
+    datetime_object = datetime.strptime(datetime_string, "%A, %d %b %Y, %H:%M")
 
     # Set the timezone
     local_timezone = pytz.timezone('Asia/Jakarta')
