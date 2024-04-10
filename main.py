@@ -2,6 +2,7 @@ import requests
 import json
 import re
 import locale
+import pytz
 from bs4 import BeautifulSoup
 from os.path import exists
 from datetime import datetime, timedelta
@@ -14,8 +15,6 @@ waktu_menyimpan = 0
 
 FORMAT_WAKTU_REPUBLIKA = "%A , %d %b %Y, %H:%M %Z"
 FORMAT_WAKTU_BARU = "%Y/%m/%d %H:%M:%S"
-
-locale.setlocale(locale.LC_TIME, 'id_ID.UTF-8')
 
 def clean_text(text: str) -> str:
     '''
@@ -68,10 +67,40 @@ def format_waktuberita(text: str):
         Author: Yobel El'Roy Doloksaribu - 231524029
     '''
 
-    cleaned = clean_text(text)
-    date = datetime.strptime(cleaned, "%A , %d %b %Y, %H:%M %Z")
+    date_string = clean_text(text)
 
-    return date.strftime(FORMAT_WAKTU_BARU)
+    # Split the string by comma and remove any leading/trailing spaces
+    date_parts = [part.strip() for part in date_string.split(",")]
+
+    # Extract day, date, month, year, time, and timezone
+    day = date_parts[0]  # Day name
+    date_info = date_parts[1].split()  # Date, month, year
+    time = date_parts[2].split()[0]  # Time
+    timezone_abbreviation = date_parts[2].split()[1]  # Timezone abbreviation
+
+    # Map the Indonesian day name to English
+    day_mapping = {
+        "Senin": "Monday",
+        "Selasa": "Tuesday",
+        "Rabu": "Wednesday",
+        "Kamis": "Thursday",
+        "Jumat": "Friday",
+        "Sabtu": "Saturday",
+        "Minggu": "Sunday"
+    }
+    english_day = day_mapping.get(day)
+
+    # Construct datetime string in a format recognizable by strptime
+    datetime_string = f"{english_day}, {date_info[0]} {date_info[1]} {date_info[2]}, {time} {timezone_abbreviation}"
+
+    # Parse the datetime string
+    datetime_object = datetime.strptime(datetime_string, "%A, %d %b %Y, %H:%M %Z")
+
+    # Set the timezone
+    local_timezone = pytz.timezone('Asia/Jakarta')
+    datetime_object = local_timezone.localize(datetime_object)
+
+    return datetime_object.strftime(FORMAT_WAKTU_BARU)
 
 
 # ---------------------------------------------------------------------------- #
