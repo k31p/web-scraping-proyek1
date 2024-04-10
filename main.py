@@ -8,6 +8,8 @@ from os.path import exists
 from datetime import datetime, timedelta
 from timeit import default_timer as timer
 
+locale.setlocale(locale.LC_ALL, 'C')
+
 # NOTE: Setiap tahap eksekusi dilacak waktu eksekusinya
 waktu_scraping = 0
 waktu_cleansing = 0
