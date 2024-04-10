@@ -15,7 +15,7 @@ waktu_menyimpan = 0
 FORMAT_WAKTU_REPUBLIKA = "%A , %d %b %Y, %H:%M %Z"
 FORMAT_WAKTU_BARU = "%Y/%m/%d %H:%M:%S"
 
-locale.setlocale(locale.LC_TIME, 'id_ID')
+locale.setlocale(locale.LC_TIME, 'id_ID.UTF-8')
 
 def clean_text(text: str) -> str:
     '''
