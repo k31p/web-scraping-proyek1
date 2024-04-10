@@ -15,7 +15,7 @@ jobs:
       - name: Install locale Indonesia
         run: |
           sudo apt-get install -y language-pack-id-base
-          sudo dpkg reconfigure locales
+          sudo dpkg-reconfigure locales
 
       - name: Setup python
         uses: actions/setup-python@v4
