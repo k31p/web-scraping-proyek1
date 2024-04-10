@@ -16,7 +16,7 @@ waktu_cleansing = 0
 waktu_menyimpan = 0
 
 FORMAT_WAKTU_REPUBLIKA = "%A , %d %b %Y, %H:%M %Z"
-FORMAT_WAKTU_BARU = "%Y/%m/%d %H:%M:%S"
+FORMAT_WAKTU_BARU = "%A, %d %b %Y, %H:%M:%S"
 
 def clean_text(text: str) -> str:
     '''
@@ -204,6 +204,7 @@ hasilCleansing = {
     'berita_headline': listBeritaHeadline,
     'berita_unggulan': listBeritaUnggulan,
     'berita_lainnya': listBeritaLainnya,
+    'waktu_scraping': datetime.now().strftime(FORMAT_WAKTU_BARU)
 }
 
 with open('serve/result.json', 'w') as jsonfile:
