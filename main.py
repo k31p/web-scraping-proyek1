@@ -1,6 +1,7 @@
 import requests
 import json
 import re
+import locale
 from bs4 import BeautifulSoup
 from os.path import exists
 from datetime import datetime, timedelta
@@ -10,6 +11,11 @@ from timeit import default_timer as timer
 waktu_scraping = 0
 waktu_cleansing = 0
 waktu_menyimpan = 0
+
+FORMAT_WAKTU_REPUBLIKA = "%A , %d %b %Y, %H:%M %Z"
+FORMAT_WAKTU_BARU = "%Y/%m/%d %H:%M:%S"
+
+locale.setlocale(locale.LC_TIME, 'id_ID')
 
 def clean_text(text: str) -> str:
     '''
@@ -44,14 +50,29 @@ def convert_history_to_time(text: str) -> str:
         elif satuanWaktu == 'menit':
             date = timedelta(minutes=angka)
         elif satuanWaktu == 'detik':
-            date = timedelta(seconds=angka)
+            date = timedelta(seconds=angka) 
         else:
             date = timedelta(seconds=0)
 
         waktuTerbit = waktuSekarang - date
-        return waktuTerbit.strftime("%Y/%m/%d %H:%M:%S")
+        return waktuTerbit.strftime(FORMAT_WAKTU_BARU)
     else:
         return ''
+
+def format_waktuberita(text: str):
+    '''
+        Melakukan konversi dari teks yang berpola
+        "Rabu , 10 Apr 2024, 06:16 WIB"
+        Menjadi format waktu sesuai standard yang diberikan
+
+        Author: Yobel El'Roy Doloksaribu - 231524029
+    '''
+
+    cleaned = clean_text(text)
+    date = datetime.strptime(cleaned, "%A , %d %b %Y, %H:%M %Z")
+
+    return date.strftime(FORMAT_WAKTU_BARU)
+
 
 # ---------------------------------------------------------------------------- #
 #                     TAHAP 1: Mengambil html dari website                     #
@@ -114,6 +135,22 @@ for item in rawBeritaLainnya:
     link_berita = item.find('a').get('href')
     kategori = item.find('span', { 'class': 'kanal-info' }).get_text(strip=True)
     waktuTerbit = convert_history_to_time(item.find('div', { 'class': 'date' }).get_text(strip=True).split('-')[1].strip())
+
+    listBeritaLainnya.append({
+        'judul': judul,
+        'link_berita': link_berita,
+        'kategori': kategori,
+        'tanggal_terbit': waktuTerbit
+    })
+
+
+# Mengambil berita yang memiliki tanggal lengkap
+beritaGrid = page.select('div.medium-box')
+for item in beritaGrid:
+    judul = clean_text(item.select_one('div.title').text)
+    link_berita = item.find('a').get('href')
+    kategori = kategori = item.find('span', { 'class': 'kanal-info' }).get_text(strip=True)
+    waktuTerbit = format_waktuberita(item.find('div', { 'class': 'date' }).get_text(strip=True).split('-')[1].strip())
 
     listBeritaLainnya.append({
         'judul': judul,
