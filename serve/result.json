@@ -1,8 +1,12 @@
 {
   "berita_headline": [
     {
-      "judul": "7 Orang Meninggal dalam Kecelakaan Bus Rosalia Indah, Diduga Sopir Mengantuk",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbri7i330/7-orang-meninggal-dalam-kecelakaan-bus-rosalia-indah-diduga-sopir-mengantuk"
+      "judul": "Rosan Dua Kali ke Kediaman Megawati, Hasto Tegaskan tidak Terkait Politik",
+      "link_berita": "https://news.republika.co.id/berita/sbrmjy349/rosan-dua-kali-ke-kediaman-megawati-hasto-tegaskan-tidak-terkait-politik"
+    },
+    {
+      "judul": "Tiba di Doha, Timnas Indonesia U23 Disambut Hangat Suporter Garuda",
+      "link_berita": "https://sport.republika.co.id/berita/sbrk6m257/tiba-di-doha-timnas-indonesia-u23-disambut-hangat-suporter-garuda"
     },
     {
       "judul": "Bus Rosalia Indah Kecelakaan di Tol Semarang-Batang, Tujuh Orang Meninggal",
@@ -15,13 +19,13 @@
     {
       "judul": "Suara Kemerdekaan Palestina Sudah Bergaung di Bandung 69 Tahun Lalu",
       "link_berita": "https://internasional.republika.co.id/berita/sblww2488/suara-kemerdekaan-palestina-sudah-bergaung-di-bandung-69-tahun-lalu"
-    },
-    {
-      "judul": "Samsung Next Cabut dari Israel",
-      "link_berita": "https://internasional.republika.co.id/berita/sbr1oo393/samsung-next-cabut-dari-israel"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ini Sunnah Nabi di Bulan Syawal yang Pasti Disukai Kaum Jomblo",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sbrla9451/ini-sunnah-nabi-di-bulan-syawal-yang-pasti-disukai-kaum-jomblo"
+    },
     {
       "judul": "Bus Rosalia Kecelakaan Masuk Parit, Lalu Lintas Tol Semarang-Batang Tetap Lancar",
       "link_berita": "https://rejogja.republika.co.id/berita/sbrj5o432/bus-rosalia-kecelakaan-masuk-parit-lalu-lintas-tol-semarangbatang-tetap-lancar"
@@ -77,330 +81,326 @@
     {
       "judul": "Mourinho: Saya Tolak Latih Timnas Inggris Era Beckham, Gerrard, Lampard, Terry, Ferdinand",
       "link_berita": "https://sport.republika.co.id/berita/sbn8r4456/mourinho-saya-tolak-latih-timnas-inggris-era-beckham-gerrard-lampard-terry-ferdinand"
-    },
-    {
-      "judul": "Uang THR Masih Ada? Begini Cara Aturnya",
-      "link_berita": "https://sharia.republika.co.id/berita/sbo0s5502/uang-thr-masih-ada-begini-cara-aturnya"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KAI Beri Pertolongan pada Ibu Hamil yang akan Melahirkan di Kereta",
+      "link_berita": "https://news.republika.co.id/berita/sbro5b370/kai-beri-pertolongan-pada-ibu-hamil-yang-akan-melahirkan-di-kereta",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:15:11"
+    },
+    {
+      "judul": "Kemenparekraf Buka Peluang Industri Kreatif Kerja Sama dengan Pemerintah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbro3q349/kemenparekraf-buka-peluang-industri-kreatif-kerja-sama-dengan-pemerintah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:14:20"
+    },
+    {
+      "judul": "MK: Rapat Permusyawaratan Hakim Formal untuk PHPU Pilpres Mulai 16 April",
+      "link_berita": "https://pemilukita.republika.co.id/berita/sbmm9f436/mk-rapat-permusyawaratan-hakim-formal-untuk-phpu-pilpres-mulai-16-april",
+      "kategori": "Pemilu Kita",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:14:20"
+    },
+    {
+      "judul": "Mangkrak 7 Tahun, Konstruksi Jembatan Citarum Muaragembong Dilanjutkan",
+      "link_berita": "https://news.republika.co.id/berita/sblgyg484/mangkrak-7-tahun-konstruksi-jembatan-citarum-muaragembong-dilanjutkan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:10:20"
+    },
+    {
+      "judul": "Hari Kedua Lebaran, Penumpang Whoosh Meningkat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbrnss370/hari-kedua-lebaran-penumpang-whoosh-meningkat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:07:20"
+    },
+    {
+      "judul": "Utusan AS untuk Gaza: Sebagian Besar Gaza Berisiko Segera Alami Kelaparan",
+      "link_berita": "https://internasional.republika.co.id/berita/sbrnoe370/utusan-as-untuk-gaza-sebagian-besar-gaza-berisiko-segera-alami-kelaparan",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:05:20"
+    },
+    {
+      "judul": "Hari Pertama Lebaran, Lalin Meningkat di Tol Jabotabek dan Jabar",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbrk81330/hari-pertama-lebaran-lalin-meningkat-di-tol-jabotabek-dan-jabar",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:03:20"
+    },
+    {
+      "judul": "Raih Karier Gemilang Sejak Masih Kuliah, Lewat Program CLP di Cyber University",
+      "link_berita": "https://news.republika.co.id/berita/sbrnhr349/raih-karier-gemilang-sejak-masih-kuliah-lewat-program-clp-di-cyber-university",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:01:20"
+    },
+    {
+      "judul": "Akhlak ini Menjadi Tanda Puasa Ramadhan Diterima",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sbrm3z451/akhlak-ini-menjadi-tanda-puasa-ramadhan-diterima",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 07:00:20"
+    },
+    {
+      "judul": "Khamenei Kecam Israel dan Barat di Khotbah Sholat Id",
+      "link_berita": "https://internasional.republika.co.id/berita/sbrmx6370/khamenei-kecam-israel-dan-barat-di-khotbah-sholat-id",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:48:20"
+    },
+    {
+      "judul": "Pemkot Yogyakarta Antisipasi Sampah di Libur Lebaran",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbrjvr330/pemkot-yogyakarta-antisipasi-sampah-di-libur-lebaran",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:48:20"
+    },
+    {
+      "judul": "Ini Sunnah Nabi di Bulan Syawal yang Pasti Disukai Kaum Jomblo",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sbrla9451/ini-sunnah-nabi-di-bulan-syawal-yang-pasti-disukai-kaum-jomblo",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:45:20"
+    },
+    {
+      "judul": "Rosan Dua Kali ke Kediaman Megawati, Hasto Tegaskan tidak Terkait Politik",
+      "link_berita": "https://news.republika.co.id/berita/sbrmjy349/rosan-dua-kali-ke-kediaman-megawati-hasto-tegaskan-tidak-terkait-politik",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:40:20"
+    },
+    {
+      "judul": "Rinov/Pitha Terhenti di 16 Besar BAC 2024",
+      "link_berita": "https://sport.republika.co.id/berita/sbrlvv257/rinovpitha-terhenti-di-16-besar-bac-2024",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:40:20"
+    },
+    {
+      "judul": "Parlemen Eropa Setujui Reformasi Migrasi yang Sebelumnya Ditentang",
+      "link_berita": "https://internasional.republika.co.id/berita/sbrmhb370/parlemen-eropa-setujui-reformasi-migrasi-yang-sebelumnya-ditentang",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:39:20"
+    },
+    {
+      "judul": "Hasto: Megawati dan Ganjar Masih Rutin Bertemu",
+      "link_berita": "https://news.republika.co.id/berita/sbrjmq330/hasto-megawati-dan-ganjar-masih-rutin-bertemu",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:34:20"
+    },
+    {
+      "judul": "Memahami Definisi Hawa Nafsu",
+      "link_berita": "https://ihram.republika.co.id/berita/sblkbm430/memahami-definisi-hawa-nafsu",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:31:20"
+    },
+    {
+      "judul": "Selain Tidak Bayar Zakat, Ini 5 Penghambat Rezeki Rumah Tangga",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sbrl29451/selain-tidak-bayar-zakat-ini-5-penghambat-rezeki-rumah-tangga",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:30:20"
+    },
+    {
+      "judul": "Dipermalukan Barcelona di Paris, PSG Siap Habis-Habisan di Leg Kedua",
+      "link_berita": "https://sport.republika.co.id/berita/sbrlga257/dipermalukan-barcelona-di-paris-psg-siap-habishabisan-di-leg-kedua",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:24:20"
+    },
+    {
+      "judul": "Artis yang Meninggal Dunia pada Ramadhan 2024: Babe Cabita Hingga Hilbram Dunar",
+      "link_berita": "https://ameera.republika.co.id/berita/sbrlou425/artis-yang-meninggal-dunia-pada-ramadhan-2024-babe-cabita-hingga-hilbram-dunar",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:22:20"
+    },
+    {
       "judul": "Puncak Arus Balik Daop 6 Yogyakarta Diprediksi Pada 14 April",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbrjc8330/puncak-arus-balik-daop-6-yogyakarta-diprediksi-pada-14-april",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:19:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:19:20"
     },
     {
       "judul": "Bos Rosalia Indah: Penumpang Selamat Dievakuasi Bus Baru",
       "link_berita": "https://news.republika.co.id/berita/sbrlgg370/bos-rosalia-indah-penumpang-selamat-dievakuasi-bus-baru",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:17:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:17:20"
     },
     {
       "judul": "Seekor Anak Gajah Lahir di Pusat Konservasi Riau",
       "link_berita": "https://news.republika.co.id/berita/sbmmgb436/seekor-anak-gajah-lahir-di-pusat-konservasi-riau",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Esensi Halal bi Halal Idul Fitri dalam Pandangan MUI",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbrkr5451/esensi-halal-bi-halal-idul-fitri-dalam-pandangan-mui",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Kejuaraan Asia 2024: Langkah Rinov/Pitha Dihentikan Juara Dunia",
       "link_berita": "https://badmintonews.id/posts/300937/kejuaraan-asia-2024-langkah-rinov-pitha-dihentikan-juara-dunia",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:11:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "ASN DKI Diwanti tak Perpanjang Libur Lebaran, Ada Sanksi yang Menunggu",
       "link_berita": "https://republika.co.id/berita/sbrl3s485/asn-dki-diwanti-tak-perpanjang-libur-lebaran-ada-sanksi-yang-menunggu",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:09:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Barca Permalukan PSG, Xavi: Keuntungan Kecil, Tapi Kemenangan Besar",
       "link_berita": "https://sport.republika.co.id/berita/sbrkka257/barca-permalukan-psg-xavi-keuntungan-kecil-tapi-kemenangan-besar",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:08:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Stasiun Lambuang yang Diresmikan Erick Thohir Jadi Destinasi Favorit di Bukittinggi",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbriz2330/stasiun-lambuang-yang-diresmikan-erick-thohir-jadi-destinasi-favorit-di-bukittinggi",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:04:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Baznas Tegaskan tak akan Menerima Donasi Apapun dari McDonald's",
       "link_berita": "https://tv.republika.co.id/berita/sbrksv418/baznas-tegaskan-tak-akan-menerima-donasi-apapun-dari-mcdonalds",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:03:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Keutamaan Alquran",
       "link_berita": "https://iqra.republika.co.id/berita/sblk3g430/keutamaan-alquran",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:00:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "16.336 Narapidana di Jabar Terima Remisi Idul Fitri",
       "link_berita": "https://rejabar.republika.co.id/berita/sbrkmt485/16336-narapidana-di-jabar-terima-remisi-idul-fitri",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:59:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Tiba di Doha, Timnas Indonesia U23 Disambut Hangat Suporter Garuda",
       "link_berita": "https://sport.republika.co.id/berita/sbrk6m257/tiba-di-doha-timnas-indonesia-u23-disambut-hangat-suporter-garuda",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:57:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Pengguna Jalur Contraflow Diingatkan tak Salip Kendaraan Lain, Bisa Timbulkan Bahaya",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbrkdp425/pengguna-jalur-contraflow-diingatkan-tak-salip-kendaraan-lain-bisa-timbulkan-bahaya",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:53:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Fisikawan Peter Higgs Meninggal Dunia pada Usia 94 Tahun",
       "link_berita": "https://tekno.republika.co.id/berita/sbrk9g370/fisikawan-peter-higgs-meninggal-dunia-pada-usia-94-tahun",
       "kategori": "Tekno",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:51:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Lalu Lintas Silaturahim Padati Tol Jabotabek dan Jabar pada Hari Pertama Lebaran",
       "link_berita": "https://rejabar.republika.co.id/berita/sbrk6u485/lalu-lintas-silaturahim-padati-tol-jabotabek-dan-jabar-pada-hari-pertama-lebaran",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:49:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Mendagri Harap Idul Fitri Momentum Perdamaian Seusai Pemilu",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbrisv330/mendagri-harap-idul-fitri-momentum-perdamaianseusai-pemilu",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:48:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Muhammadiyah Gulurejo Selenggarakan Sholat Idul Fitri di Lapangan Menggil",
       "link_berita": "https://news.republika.co.id/berita/sbrk11451/muhammadiyah-gulurejo-selenggarakan-sholat-idul-fitri-di-lapangan-menggil",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:46:21"
-    },
-    {
-      "judul": "Ini Sektor Korupsi Paling Ekstrem Menurut Ketua KPK",
-      "link_berita": "https://news.republika.co.id/berita/sbmlyx436/ini-sektor-korupsi-paling-ekstrem-menurut-ketua-kpk",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:45:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 06:15:20"
     },
     {
       "judul": "Biadab, Sudah Enam Warga Sipil Jadi Korban Serangan Separatis Papua dalam Sepekan",
       "link_berita": "https://news.republika.co.id/berita/sbrfq6349/biadab-sudah-enam-warga-sipil-jadi-korban-serangan-separatis-papua-dalam-sepekan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:45:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
+    },
+    {
+      "judul": "Ini Sektor Korupsi Paling Ekstrem Menurut Ketua KPK",
+      "link_berita": "https://news.republika.co.id/berita/sbmlyx436/ini-sektor-korupsi-paling-ekstrem-menurut-ketua-kpk",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Kemenhub: Sebagian Besar Pemudik Sampai ke Tujuan Sejak H-1 Lebaran",
       "link_berita": "https://republika.co.id/berita/sbrjpu485/kemenhub-sebagian-besar-pemudik-sampai-ke-tujuan-sejak-h-1-lebaran",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:39:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Biden: Netanyahu tidak Berbuat cukup untuk Fasilitasi Bantuan Gaza",
       "link_berita": "https://internasional.republika.co.id/berita/sbrjof370/biden-netanyahu-tidak-berbuat-cukup-untuk-fasilitasi-bantuan-gaza",
       "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:38:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Jelang Putusan MK, Anies: Tim Hukum Bekerja Terus",
       "link_berita": "https://news.republika.co.id/berita/sbrinn330/jelang-putusan-mk-anies-tim-hukum-bekerja-terus",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:34:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Pentingnya Mengerjakan Amal Shaleh",
       "link_berita": "https://ihram.republika.co.id/berita/sblk7u430/pentingnya-mengerjakan-amal-shaleh",
       "kategori": "Ihram",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:30:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Bus Rosalia Kecelakaan Masuk Parit, Lalu Lintas Tol Semarang-Batang Tetap Lancar",
       "link_berita": "https://rejogja.republika.co.id/berita/sbrj5o432/bus-rosalia-kecelakaan-masuk-parit-lalu-lintas-tol-semarangbatang-tetap-lancar",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:27:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Yayasan Saluran Kebaikan Global Gelar Program Satu Aksi Berjuta Kebaikan Selama Ramadhan",
       "link_berita": "https://ramadhan.republika.co.id/berita/sbrey1349/yayasan-saluran-kebaikan-global-gelar-program-satu-aksi-berjuta-kebaikan-selama-ramadhan",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:25:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Prilly Latuconsina Dikritik Setelah 'Ketahuan' Pakai Gas Melon 3 Kg, Ini Klarifikasinya",
       "link_berita": "https://ameera.republika.co.id/berita/sbrizb425/prilly-latuconsina-dikritik-setelah-ketahuan-pakai-gas-melon-3-kg-ini-klarifikasinya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:23:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Maruarar Akui Masuk Gerindra Sejak 10 Februari 2024",
       "link_berita": "https://news.republika.co.id/berita/sbrief330/maruarar-akui-masuk-gerindra-sejak-10-februari-2024",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Libur Lebaran, Tim Kesehatan Tetap Siaga di Sukabumi",
       "link_berita": "https://bandung24jam.id/posts/300905/libur-lebaran-tim-kesehatan-tetap-siaga-di-sukabumi",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "Nikmatnya Sayur Asem, Ikan Asin Sambel Terasi Di Hari Kedua Lebaran",
       "link_berita": "https://topnews62.com/posts/300900/nikmatnya-sayur-asem-ikan-asin-sambel-terasi-di-hari-kedua-lebaran",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
       "judul": "TNI Ganti Nama KST dan KKB Menjadi Organisasi Papua Merdeka",
       "link_berita": "https://seputarmiliter.id/posts/300925/tni-ganti-nama-kst-dan-kkb-menjadi-organisasi-papua-merdeka",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:15:20"
     },
     {
-      "judul": "Kemensos Klaim Belasan Ribu Keluarga Keluar dari Kemiskinan Ekstrem",
-      "link_berita": "https://news.republika.co.id/berita/sbfabn436/kemensos-klaim-belasan-ribu-keluarga-keluar-dari-kemiskinan-ekstrem",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
+      "judul": "Hari Pertama Lebaran, Lalin Meningkat di Tol Jabotabek dan Jabar",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sbrk81330/hari-pertama-lebaran-lalin-meningkat-di-tol-jabotabek-dan-jabar",
+      "kategori": "Kabar Ramadhan",
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 14:03:00"
     },
     {
-      "judul": "Libur Lebaran, Tanah Datar Dalam Status Siaga Darurat, Wisatawan Diimbau Berhati-hati",
-      "link_berita": "https://news.republika.co.id/berita/sbrduc349/libur-lebaran-tanah-datar-dalam-status-siaga-darurat-wisatawan-diimbau-berhatihati",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
-    },
-    {
-      "judul": "7 Orang Meninggal dalam Kecelakaan Bus Rosalia Indah, Diduga Sopir Mengantuk",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbri7i330/7-orang-meninggal-dalam-kecelakaan-bus-rosalia-indah-diduga-sopir-mengantuk",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
-    },
-    {
-      "judul": "ADB: Inflasi Kawasan Asia dan Pasifik 2024 Akan Turun ke 3,2 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbri23502/adb-inflasi-kawasan-asia-dan-pasifik-2024-akan-turun-ke-32-persen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
-    },
-    {
-      "judul": "Umar bin Khattab Pembebas Kota Yerusalem",
-      "link_berita": "https://ihram.republika.co.id/berita/sbljzf430/umar-bin-khattab-pembebas-kota-yerusalem",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
-    },
-    {
-      "judul": "Inilah Bacaan Dzikir Petang Lengkap Arab, Latin, dan Terjemahan",
-      "link_berita": "https://iqra.republika.co.id/berita/sb71nr366/inilah-bacaan-dzikir-petang-lengkap-arab-latin-dan-terjemahan",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
-    },
-    {
-      "judul": "Pemprov Jatim Petakan Kawasan Wisata, Antisipasi Kepadatan Saat Libur Lebaran",
-      "link_berita": "https://rejogja.republika.co.id/berita/sbrhue432/pemprov-jatim-petakan-kawasan-wisata-antisipasi-kepadatan-saat-libur-lebaran",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 05:20:21"
-    },
-    {
-      "judul": "Dispar Bantul Minta Penyedia Jasa di Kawasan Wisata tak Naikkan Harga Saat Libur Lebaran",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbehtt330/dispar-bantul-minta-penyedia-jasa-di-kawasan-wisata-tak-naikkan-harga-saat-libur-lebaran",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Tol Bocimi Ruas Cigombong-Cibadak Siap Difungsikan Kamis 11 April",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbrh5l502/tol-bocimi-ruas-cigombongcibadak-siap-difungsikan-kamis-11-april",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Suasana Sholat Id di Taman Kota New York",
-      "link_berita": "https://tv.republika.co.id/berita/sbrgw6418/suasana-sholat-id-di-taman-kota-new-york",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "1.313 Warga Binaan di DIY Dapat Remisi Idul Fitri, 14 Langsung Bebas",
-      "link_berita": "https://rejogja.republika.co.id/berita/sbrgph432/1313-warga-binaan-di-diy-dapat-remisi-idul-fitri-14-langsung-bebas",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Pansus Pasca IKN DPRD DKI Desak Pusat Selaraskan RUU DKJ",
-      "link_berita": "https://news.republika.co.id/berita/sbeikk330/pansus-pasca-ikn-dprd-dki-desak-pusat-selaraskan-ruu-dkj",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Trailer Joker 2 Dirilis, Ini Hal-Hal Menarik yang Perlu Penggemar Ketahui",
-      "link_berita": "https://ameera.republika.co.id/berita/sbrfs0425/trailer-joker-2-dirilis-ini-halhal-menarik-yang-perlu-penggemar-ketahui",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Destinasi Wisata di Riau, Bisa Jadi Pilihan Libur Lebaran",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbb6im366/destinasi-wisata-di-riau-bisa-jadi-pilihan-libur-lebaran",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Bus Rosalia Indah Kecelakaan di Tol Semarang-Batang, Tujuh Orang Meninggal",
-      "link_berita": "https://rejogja.republika.co.id/berita/sbrf7h432/bus-rosalia-indah-kecelakaan-di-tol-semarangbatang-tujuh-orang-meninggal",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Protokol 14 Zionisme Ini Ungkap Agenda Dunia Terkait Agama dan 4 Indikator Sedang Terjadi",
-      "link_berita": "https://khazanah.republika.co.id/berita/sbr40z320/protokol-14-zionisme-ini-ungkap-agenda-dunia-terkait-agama-dan-4-indikator-sedang-terjadi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Berburu Foto Saat Jakarta Lengang",
-      "link_berita": "https://visual.republika.co.id/berita/sbrdbi375/berburu-foto-saat-jakarta-lengang",
-      "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Antisipasi Kemacetan Jalintim Saat Arus Balik, Pemprov Sumsel Siapkan Langkah Antisipasi",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbrewt425/antisipasi-kemacetan-jalintim-saat-arus-balik-pemprov-sumsel-siapkan-langkah-antisipasi",
-      "kategori": "Ramadhan",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "8.933 Narapidana di Riau Dapat Remisi Lebaran, 46 Napi Langsung Bebas",
-      "link_berita": "https://republika.co.id/berita/sbreu2282/8-933-narapidana-di-riau-dapat-remisi-lebaran-46-napi-langsung-bebas",
-      "kategori": "Resumatra",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "M Nasir Jamil: Semoga Kita Diberikan Kemudahan Wujudkan Masyarakat Adil dan Sejahtera",
-      "link_berita": "https://tv.republika.co.id/berita/sbretv313/m-nasir-jamil-semoga-kita-diberikan-kemudahan-wujudkan-masyarakat-adil-dan-sejahtera",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 04:20:21"
-    },
-    {
-      "judul": "Stasiun Lambuang yang Diresmikan Erick Thohir Jadi Destinasi Favorit di Bukittinggi",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sbriz2330/stasiun-lambuang-yang-diresmikan-erick-thohir-jadi-destinasi-favorit-di-bukittinggi",
-      "kategori": "Kuliner",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 13:04:00"
-    },
-    {
-      "judul": "Gibran Halal Bihalal ke Kediaman Prabowo di Jakarta",
-      "link_berita": "https://pemilukita.republika.co.id/berita/sbq56s436/gibran-halal-bihalal-ke-kediaman-prabowo-di-jakarta",
+      "judul": "Dasco Akui Prabowo-Gibran Bangun Komunikasi dengan Megawati Soekarnoputri",
+      "link_berita": "https://pemilukita.republika.co.id/berita/sbq6tg436/dasco-akui-prabowogibran-bangun-komunikasi-dengan-megawati-soekarnoputri",
       "kategori": "Prabowo Gibran",
-      "tanggal_terbit": "Wednesday, 10 Apr 2024, 18:28:00"
+      "tanggal_terbit": "Wednesday, 10 Apr 2024, 19:19:00"
     },
     {
-      "judul": "Prilly Latuconsina Dikritik Setelah 'Ketahuan' Pakai Gas Melon 3 Kg, Ini Klarifikasinya",
-      "link_berita": "https://ameera.republika.co.id/berita/sbrizb425/prilly-latuconsina-dikritik-setelah-ketahuan-pakai-gas-melon-3-kg-ini-klarifikasinya",
+      "judul": "Artis yang Meninggal Dunia pada Ramadhan 2024: Babe Cabita Hingga Hilbram Dunar",
+      "link_berita": "https://ameera.republika.co.id/berita/sbrlou425/artis-yang-meninggal-dunia-pada-ramadhan-2024-babe-cabita-hingga-hilbram-dunar",
       "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 12:23:00"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 13:22:00"
     },
     {
       "judul": "Badai Atlantik Tahun Ini Diprediksi Sangat Aktif Dampak Suhu Permukaan Laut Memanas",
@@ -409,10 +409,10 @@
       "tanggal_terbit": "Thursday, 11 Apr 2024, 09:34:00"
     },
     {
-      "judul": "ADB: Inflasi Kawasan Asia dan Pasifik 2024 Akan Turun ke 3,2 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sbri23502/adb-inflasi-kawasan-asia-dan-pasifik-2024-akan-turun-ke-32-persen",
+      "judul": "Kemenparekraf Buka Peluang Industri Kreatif Kerja Sama dengan Pemerintah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sbro3q349/kemenparekraf-buka-peluang-industri-kreatif-kerja-sama-dengan-pemerintah",
       "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 12:03:00"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 14:14:00"
     },
     {
       "judul": "Jadi Destinasi Libur Lebaran, Puluhan Ribu Orang Kunjungi Ancol",
@@ -421,11 +421,11 @@
       "tanggal_terbit": "Thursday, 11 Apr 2024, 08:15:00"
     },
     {
-      "judul": "Bos Rosalia Indah: Penumpang Selamat Dievakuasi Bus Baru",
-      "link_berita": "https://news.republika.co.id/berita/sbrlgg370/bos-rosalia-indah-penumpang-selamat-dievakuasi-bus-baru",
+      "judul": "KAI Beri Pertolongan pada Ibu Hamil yang akan Melahirkan di Kereta",
+      "link_berita": "https://news.republika.co.id/berita/sbro5b370/kai-beri-pertolongan-pada-ibu-hamil-yang-akan-melahirkan-di-kereta",
       "kategori": "Nusantara",
-      "tanggal_terbit": "Thursday, 11 Apr 2024, 13:17:00"
+      "tanggal_terbit": "Thursday, 11 Apr 2024, 14:15:00"
     }
   ],
-  "waktu_scraping": "Thursday, 11 Apr 2024, 06:20:21"
+  "waktu_scraping": "Thursday, 11 Apr 2024, 07:15:20"
 }
