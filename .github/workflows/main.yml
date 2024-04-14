@@ -11,10 +11,6 @@ jobs:
     steps:
       - name: Checkout ke branch main
         uses: actions/checkout@v2 # checkout the repository content
-      
-      - name: Lokalisasi bahasa dan tanggal
-        run: |
-          timedatectl set-timezone Asia/Jakarta
 
       - name: Setup python
         uses: actions/setup-python@v4
