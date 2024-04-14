@@ -191,7 +191,7 @@ hasilCleansing = {
     'berita_headline': listBeritaHeadline,
     'berita_unggulan': listBeritaUnggulan,
     'berita_lainnya': listBeritaLainnya,
-    'waktu_scraping': local_timezone.localize(datetime.now()).strftime(FORMAT_WAKTU_BARU)
+    'waktu_scraping': local_timezone.localize(datetime.now() + timedelta(hours=7)).strftime(FORMAT_WAKTU_BARU)
 }
 
 with open('serve/result.json', 'w') as jsonfile:
