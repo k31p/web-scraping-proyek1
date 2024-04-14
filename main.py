@@ -17,6 +17,7 @@ waktu_menyimpan = 0
 
 FORMAT_WAKTU_REPUBLIKA = "%A , %d %b %Y, %H:%M %Z"
 FORMAT_WAKTU_BARU = "%A, %d %b %Y, %H:%M:%S"
+local_timezone = pytz.timezone('Asia/Jakarta')
 
 def clean_text(text: str) -> str:
     '''
@@ -64,7 +65,7 @@ def format_waktuberita(text: str):
     '''
         Melakukan konversi dari teks yang berpola
         "Rabu , 10 Apr 2024, 06:16 WIB"
-        Menjadi format waktu sesuai standard yang diberikan
+        Menjadi format waktu sesuai standard yang diberikanlocal_timezone
 
         Author: Yobel El'Roy Doloksaribu - 231524029
     '''
@@ -80,26 +81,11 @@ def format_waktuberita(text: str):
     time = date_parts[2].split()[0]  # Time
     timezone_abbreviation = date_parts[2].split()[1]  # Timezone abbreviation
 
-    # Map the Indonesian day name to English
-    day_mapping = {
-        "Senin": "Monday",
-        "Selasa": "Tuesday",
-        "Rabu": "Wednesday",
-        "Kamis": "Thursday",
-        "Jumat": "Friday",
-        "Sabtu": "Saturday",
-        "Minggu": "Sunday"
-    }
-    english_day = day_mapping.get(day)
-
     # Construct datetime string in a format recognizable by strptime
-    datetime_string = f"{english_day}, {date_info[0]} {date_info[1]} {date_info[2]}, {time}"
+    datetime_string = f"{date_info[0]} {date_info[1]} {date_info[2]}, {time}"
 
     # Parse the datetime string
-    datetime_object = datetime.strptime(datetime_string, "%A, %d %b %Y, %H:%M")
-
-    # Set the timezone
-    local_timezone = pytz.timezone('Asia/Jakarta')
+    datetime_object = datetime.strptime(datetime_string, "%d %b %Y, %H:%M")
     datetime_object = local_timezone.localize(datetime_object)
 
     return datetime_object.strftime(FORMAT_WAKTU_BARU)
