@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Pekerja Serabutan yang Kubur Honorer Kementerian di Lantai Rumah Ditetapkan Jadi Tersangka",
+      "link_berita": "https://rejabar.republika.co.id/berita/sc2ub1512/pekerja-serabutan-yang-kubur-honorer-kementerian-di-lantai-rumah-ditetapkan-jadi-tersangka"
+    },
+    {
       "judul": "OPM Sebut Paniai Jadi Zona Perang, Ini Respons TNI",
       "link_berita": "https://news.republika.co.id/berita/sc2r73436/opm-sebut-paniai-jadi-zona-perang-ini-respons-tni"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Kabinet Perang Israel Gelar Rapat Ketiga Sejak Serangan Iran",
       "link_berita": "https://internasional.republika.co.id/berita/sc295v488/kabinet-perang-israel-gelar-rapat-ketiga-sejak-serangan-iran"
-    },
-    {
-      "judul": "Personel Polri Tewas Usai Diserang di Dekat Mapolres Yahukimo, OPM Klaim Bertanggung Jawab",
-      "link_berita": "https://news.republika.co.id/berita/sc2ihs409/personel-polri-tewas-usai-diserang-di-dekat-mapolres-yahukimo-opm-klaim-bertanggung-jawab"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Stay Kecewa Stray Kids Kolaborasi dengan Charlie Puth yang Pro Israel dan Problematik",
+      "link_berita": "https://ameera.republika.co.id/berita/sc2tmo414/stay-kecewa-stray-kids-kolaborasi-dengan-charlie-puth-yang-pro-israel-dan-problematik"
+    },
     {
       "judul": "Pendeta Gilbert Dilaporkan ke Polda Metro Jaya Terkait Dugaan Penistaan Agama",
       "link_berita": "https://news.republika.co.id/berita/sc2qse436/pendeta-gilbert-dilaporkan-ke-polda-metro-jaya-terkait-dugaan-penistaan-agama"
@@ -77,318 +81,314 @@
     {
       "judul": "Kronologi Kecelakaan Bus Medan-Jakarta yang Terbalik di Bukittinggi",
       "link_berita": "https://ramadhan.republika.co.id/berita/sc1f78330/kronologi-kecelakaan-bus-medanjakarta-yang-terbalik-di-bukittinggi"
-    },
-    {
-      "judul": "Menyebar Via Hubungan Seksual, Hepatitis akan Salip TBC Sebagai Infeksi Paling Mematikan",
-      "link_berita": "https://ameera.republika.co.id/berita/sc1p30414/menyebar-via-hubungan-seksual-hepatitis-akan-salip-tbc-sebagai-infeksi-paling-mematikan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Atletico Madrid Amankan Tiket Berlaga di Piala Dunia Antarklub 2025",
+      "link_berita": "https://sport.republika.co.id/berita/sc2upw348/atletico-madrid-amankan-tiket-berlaga-di-piala-dunia-antarklub-2025",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:19:00"
+    },
+    {
+      "judul": "Gunung Merapi Luncurkan 12 Kali Guguran Lava dan 100 Kali Gempa",
+      "link_berita": "https://rejogja.republika.co.id/berita/sc2v31282/gunung-merapi-luncurkan-12-kali-guguran-lava-dan-100-kali-gempa",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:18:37"
+    },
+    {
+      "judul": "Kemendikbudristek Tunggu Penjelasan Kemenkes Soal Pendidikan Dokter Spesialis Picu Depresi",
+      "link_berita": "https://news.republika.co.id/berita/sc2v1t349/kemendikbudristek-tunggu-penjelasan-kemenkes-soal-pendidikan-dokter-spesialis-picu-depresi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:18:18"
+    },
+    {
+      "judul": "Menulis untuk Bahagia",
+      "link_berita": "https://retizen.republika.co.id/posts/301861/menulis-untuk-bahagia",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:14:18"
+    },
+    {
+      "judul": "Gerindra: Amicus Curiae tak Berkepentingan Terhadap Pertimbangan Hakim",
+      "link_berita": "https://news.republika.co.id/berita/sc2uum377/gerindra-amicus-curiae-tak-berkepentingan-terhadap-pertimbangan-hakim",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:13:18"
+    },
+    {
+      "judul": "Transplantasi Ginjal Babi Pertama Kali pada Manusia, Berhasil Dilakukan",
+      "link_berita": "https://diagnosa.id/posts/301880/transplantasi-ginjal-babi-pertama-kali-pada-manusia-berhasil-dilakukan",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:12:18"
+    },
+    {
+      "judul": "Arus Mudik dan Balik di Terminal Kampung Rambutan Dinilai Lancar",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sc2us6366/arus-mudik-dan-balik-di-terminal-kampung-rambutan-dinilai-lancar",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:12:18"
+    },
+    {
+      "judul": "Transplantasi Ginjal Babi Pertama Kali pada Manusia, Berhasil Dilakukan",
+      "link_berita": "https://diagnosa.id/posts/301880/transplantasi-ginjal-babi-pertama-kali-pada-manusia-berhasil-dilakukan",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:12:18"
+    },
+    {
+      "judul": "Rendahnya Angka Kelahiran di Eropa akan Memicu Sepertiga Populasi Global",
+      "link_berita": "https://diagnosa.id/posts/301885/rendahnya-angka-kelahiran-di-eropa-akan-memicu-sepertiga-populasi-global",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:09:18"
+    },
+    {
+      "judul": "KAI Operasikan KA Tambahan Relasi Solo Balapan-Pasar Senen PP untuk Arus Balik",
+      "link_berita": "https://kreta.id/posts/301889/kai-operasikan-ka-tambahan-relasi-solo-balapan-pasar-senen-pp-untuk-arus-balik",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:09:18"
+    },
+    {
+      "judul": "Posko Angkutan Lebaran KAI Ditutup, Penumpang Kereta Api Naik 18 Persen",
+      "link_berita": "https://kreta.id/posts/301893/posko-angkutan-lebaran-kai-ditutup-penumpang-kereta-api-naik-18-persen",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:09:18"
+    },
+    {
+      "judul": "Tiga Pelaku Pencurian Bantalan Rel Kereta Api Diamankan Polisi di Sukabumi",
+      "link_berita": "https://bandung24jam.id/posts/301895/tiga-pelaku-pencurian-bantalan-rel-kereta-api-diamankan-polisi-di-sukabumi",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:09:18"
+    },
+    {
+      "judul": "Israel Bom Kamp Pengungsi, 13 Warga Gaza, Termasuk Anak-Anak Gugur",
+      "link_berita": "https://khazanah.republika.co.id/berita/sc2ukx366/israel-bom-kamp-pengungsi-13-warga-gaza-termasuk-anakanak-gugur",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:07:18"
+    },
+    {
+      "judul": "Hummels Catatkan Penampilan Ke-500 Bersama Dortmund dengan Tiket Semifinal Liga Champions",
+      "link_berita": "https://sport.republika.co.id/berita/sc2uj7348/hummels-catatkan-penampilan-ke500-bersama-dortmund-dengan-tiket-semifinal-liga-champions",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:06:18"
+    },
+    {
+      "judul": "Tayang 25 Juni, I Am: Celine Dion Ungkap Kehidupan Pribadi 'Queen of Power Ballads'",
+      "link_berita": "https://ameera.republika.co.id/berita/sc2ug0414/tayang-25-juni-i-am-celine-dion-ungkap-kehidupan-pribadi-queen-of-power-ballads",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:04:18"
+    },
+    {
+      "judul": "BRI President Director Sunarso Named The Best CEO in Digital Brand 2024",
+      "link_berita": "https://en.republika.co.id/berita/sc2udc457/bri-president-director-sunarso-named-the-best-ceo-in-digital-brand-2024",
+      "kategori": "En",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:19:18"
+    },
+    {
+      "judul": "Ini Pernyataan Lengkap Pendeta Gilbert Lumoindong Terkait Pidatonya",
+      "link_berita": "https://khazanah.republika.co.id/berita/sc2ubm451/ini-pernyataan-lengkap-pendeta-gilbert-lumoindong-terkait-pidatonya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:02:18"
+    },
+    {
+      "judul": "Pekerja Serabutan yang Kubur Honorer Kementerian di Lantai Rumah Ditetapkan Jadi Tersangka",
+      "link_berita": "https://rejabar.republika.co.id/berita/sc2ub1512/pekerja-serabutan-yang-kubur-honorer-kementerian-di-lantai-rumah-ditetapkan-jadi-tersangka",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:02:18"
+    },
+    {
+      "judul": "Kemenpora Harap Kehadiran Red Sparks Bisa Bangkitkan Voli di Indonesia",
+      "link_berita": "https://sport.republika.co.id/berita/sc2u9i348/kemenpora-harap-kehadiran-red-sparks-bisa-bangkitkan-voli-di-indonesia",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:01:18"
+    },
+    {
+      "judul": "Melihat Sumber Keuntungan Perusahaan Asuransi, Bermanfaat untuk Nasabah dan Perusahaan",
+      "link_berita": "https://sindikasi.republika.co.id/berita/sc2u831616000/melihat-sumber-keuntungan-perusahaan-asuransi-bermanfaat-untuk-nasabah-dan-perusahaan",
+      "kategori": "Sindikasi",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:00:18"
+    },
+    {
+      "judul": "Polda Papua Barat dan Pomal Lantamal Sorong Mediasi Pascabentrok",
+      "link_berita": "https://news.republika.co.id/berita/sc2u7r484/polda-papua-barat-dan-pomal-lantamal-sorong-mediasi-pascabentrok",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:00:18"
+    },
+    {
+      "judul": "Kawasan Menara Kudus Disiapkan Jadi Destinasi Wisata Unggulan",
+      "link_berita": "https://ihram.republika.co.id/berita/sc2u73366/kawasan-menara-kudus-disiapkan-jadi-destinasi-wisata-unggulan",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:59:18"
+    },
+    {
+      "judul": "BRI Confident of Achieving KUR Target This Year",
+      "link_berita": "https://en.republika.co.id/berita/sc2tot457/bri-confident-of-achieving-kur-target-this-year",
+      "kategori": "En",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 08:19:18"
+    },
+    {
+      "judul": "Stay Kecewa Stray Kids Kolaborasi dengan Charlie Puth yang Pro Israel dan Problematik",
+      "link_berita": "https://ameera.republika.co.id/berita/sc2tmo414/stay-kecewa-stray-kids-kolaborasi-dengan-charlie-puth-yang-pro-israel-dan-problematik",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:47:18"
+    },
+    {
+      "judul": "Doa Orang yang Berkeluarga Lebih Utama Dibanding Ibadah Seorang Bujang",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sc2ti8366/doa-orang-yang-berkeluarga-lebih-utama-dibanding-ibadah-seorang-bujang",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:44:18"
+    },
+    {
+      "judul": "Lima Daerah Jadi Penopang Kenaikan Trafik Telkomsel di Musim Mudik",
+      "link_berita": "https://news.republika.co.id/berita/sc2icp488/lima-daerah-jadi-penopang-kenaikan-trafik-telkomsel-di-musim-mudik",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:37:18"
+    },
+    {
+      "judul": "Hotel Indonesia Group Catat Kenaikan Hunian 15 Persen Saat Lebaran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sc2t4i502/hotel-indonesia-group-catat-kenaikan-hunian-15-persen-saat-lebaran",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:36:18"
+    },
+    {
+      "judul": "Mahasiswa Kedokteran Korsel Minta Pengadilan Hentikan Kenaikan Kuota",
+      "link_berita": "https://internasional.republika.co.id/berita/sc2t27370/mahasiswa-kedokteran-korsel-minta-pengadilan-hentikan-kenaikan-kuota",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:35:18"
+    },
+    {
+      "judul": "H+6 Lebaran, Pelabuhan Bakauheni Terus Dipadati Pemudik Motor",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sc2t13366/h6-lebaran-pelabuhan-bakauheni-terus-dipadati-pemudik-motor",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:34:18"
+    },
+    {
+      "judul": "Polda Sumbar Imbau Sopir Bus yang Kabur Usai Kecelakaan Segera Menyerahkan Diri",
+      "link_berita": "https://news.republika.co.id/berita/sc2svu370/polda-sumbar-imbau-sopir-bus-yang-kabur-usai-kecelakaan-segera-menyerahkan-diri",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:31:18"
+    },
+    {
+      "judul": "Jangan Ragu untuk Sedekah",
+      "link_berita": "https://ihram.republika.co.id/berita/sc2hu3430/jangan-ragu-untuk-sedekah",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:30:18"
+    },
+    {
+      "judul": "Jubir MK: Sengketa Pilpres 2024 Terbanyak Amicus Curiae",
+      "link_berita": "https://news.republika.co.id/berita/sc2stf377/jubir-mk-sengketa-pilpres-2024-terbanyak-amicus-curiae",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:29:18"
+    },
+    {
+      "judul": "Kisah Abu Dzar Al Ghifari, Sahabat Nabi yang Sedekah dengan Sayur Sop",
+      "link_berita": "https://islamdigest.republika.co.id/berita/sc2sse366/kisah-abu-dzar-al-ghifari-sahabat-nabi-yang-sedekah-dengan-sayur-sop",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:29:18"
+    },
+    {
+      "judul": "Delapan Bocoran Baru iPhone SE 4, Seperti Apa Spesifikasinya?",
+      "link_berita": "https://tekno.republika.co.id/berita/sc2sp1370/delapan-bocoran-baru-iphone-se-4-seperti-apa-spesifikasinya",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:27:18"
+    },
+    {
+      "judul": "Tancap Gas Dalam Pengembangan Karyawan, BTN Tempati Posisi Top 3 untuk Pengembangan Karier",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sc2sh7349/tancap-gas-dalam-pengembangan-karyawan-btn-tempati-posisi-top-3-untuk-pengembangan-karier",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:22:18"
+    },
+    {
+      "judul": "Lewat Telepon, Menlu China Bahas Situasi Timur Tengah",
+      "link_berita": "https://internasional.republika.co.id/berita/sc2eup488/lewat-telepon-menlu-china-bahas-situasi-timur-tengah",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
+    },
+    {
+      "judul": "Dua Mineral Baru Ditemukan di Bulan, Seperti Apa?",
+      "link_berita": "https://tekno.republika.co.id/berita/sc2sbj370/dua-mineral-baru-ditemukan-di-bulan-seperti-apa",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
+    },
+    {
       "judul": "Bertemu Presiden Jokowi, Tim Cook Bahas Investasi Apple di Indonesia",
       "link_berita": "https://visual.republika.co.id/berita/sc2p9z375/bertemu-presiden-jokowi-tim-cook-bahas-investasi-apple-di-indonesia",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:15:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Dishub Surakarta Sebut Tol Kurangi Kepadatan Saat Lebaran 2024",
       "link_berita": "https://ramadhan.republika.co.id/berita/sc2s4l366/dishub-surakarta-sebut-tol-kurangi-kepadatan-saat-lebaran-2024",
       "kategori": "Ramadhan",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:14:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Semangat China Perluas Inisiatif 'Jalur Sutra Digital'",
       "link_berita": "https://internasional.republika.co.id/berita/sc2hlu488/semangat-china-perluas-inisiatif-jalur-sutra-digital",
       "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:13:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "KPK Bantah Politisasi Kasus Bupati Sidoarjo",
       "link_berita": "https://news.republika.co.id/berita/sc2s10377/kpk-bantah-politisasi-kasus-bupati-sidoarjo",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:12:15"
-    },
-    {
-      "judul": "Pemkab Sleman Buka 736 Formasi untuk CPNS-PPPK Tahun 2024",
-      "link_berita": "https://news.republika.co.id/berita/sc2rha436/pemkab-sleman-buka-736-formasi-untuk-cpnspppk-tahun-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:10:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Perekonomian China Tumbuh Lebih Cepat dari Prediksi",
       "link_berita": "https://ekonomi.republika.co.id/berita/sc2q3p457/perekonomian-china-tumbuh-lebih-cepat-dari-prediksi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:10:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
+    },
+    {
+      "judul": "Pemkab Sleman Buka 736 Formasi untuk CPNS-PPPK Tahun 2024",
+      "link_berita": "https://news.republika.co.id/berita/sc2rha436/pemkab-sleman-buka-736-formasi-untuk-cpnspppk-tahun-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Pemerintah Segera Atur Masa Transisi Perubahan Permendag 36/2023",
       "link_berita": "https://ekonomi.republika.co.id/berita/sc2rsz502/pemerintah-segera-atur-masa-transisi-perubahan-permendag-362023",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:08:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Mengungkap Ragam Tools Favorit Data Scientist dalam Pengolahan Data",
       "link_berita": "https://news.republika.co.id/berita/sc2rqz349/mengungkap-ragam-tools-favorit-data-scientist-dalam-pengolahan-data",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:06:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Ekonom: Pelemahan Cadangan Devisa Berpotensi Hingga Kuartal II 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sc2rjh502/ekonom-pelemahan-cadangan-devisa-berpotensi-hingga-kuartal-ii-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:02:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
-      "judul": "Ini Jadwal dan Prediksi Susunan Pemain Utama FC Bayern vs Arsenal Nanti Malam",
+      "judul": "Ini Jadwal dan Prediksi Susunan Pemain Utama FC Bayern Vs Arsenal Nanti Malam",
       "link_berita": "https://sport.republika.co.id/berita/sc2r4x456/ini-jadwal-dan-prediksi-susunan-pemain-utama-fc-bayern-vs-arsenal-nanti-malam",
       "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:59:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Jatim Waspada Angin Kencang dan Hujan Lebat Sepekan ke Depan",
       "link_berita": "https://news.republika.co.id/berita/sc2rcg436/jatim-waspada-angin-kencang-dan-hujan-lebat-sepekan-ke-depan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:58:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "OPM Sebut Paniai Jadi Zona Perang, Ini Respons TNI",
       "link_berita": "https://news.republika.co.id/berita/sc2r73436/opm-sebut-paniai-jadi-zona-perang-ini-respons-tni",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:54:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
       "judul": "Calon Dokter Alami Gejala Depresi, Pakar: Tangani Segera",
       "link_berita": "https://news.republika.co.id/berita/sc2r60349/calon-dokter-alami-gejala-depresi-pakar-tangani-segera",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:54:15"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 07:19:18"
     },
     {
-      "judul": "Gerindra: Tak Ada Perselisihan Prabowo dan Megawati",
-      "link_berita": "https://news.republika.co.id/berita/sc2r1s377/gerindra-tak-ada-perselisihan-prabowo-dan-megawati",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:51:15"
-    },
-    {
-      "judul": "Budi Arie Akui Ada Pihak yang Hambat Pertemuan Jokowi dan Megawati",
-      "link_berita": "https://news.republika.co.id/berita/sc2qzh436/budi-arie-akui-ada-pihak-yang-hambat-pertemuan-jokowi-dan-megawati",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:50:15"
-    },
-    {
-      "judul": "OJK Resmi Akhiri Kebijakan Stimulus Covid-19, Industri Keuangan Disebut Sudah Siap",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2qyz502/ojk-resmi-akhiri-kebijakan-stimulus-covid19-industri-keuangan-disebut-sudah-siap",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:50:15"
-    },
-    {
-      "judul": "Pemerintah Pastikan Harga BBM tak Naik",
-      "link_berita": "https://www.republika.id/posts/52046/pemerintah-pastikan-harga-bbm-tak-naik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:49:15"
-    },
-    {
-      "judul": "PBB Akan Galang Donasi Global 2,8 Miliar Dolar AS untuk Gaza",
-      "link_berita": "https://internasional.republika.co.id/berita/sc2aih488/pbb-akan-galang-donasi-global-28-miliar-dolar-as-untuk-gaza",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:49:15"
-    },
-    {
-      "judul": "Menghitung Dampak Ekonomi Ramadhan dan Lebaran 2024",
-      "link_berita": "https://www.republika.id/posts/52043/menghitung-dampak-ekonomi-ramadhan-dan-lebaran-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:49:15"
-    },
-    {
-      "judul": "Bus Pahala Kencana Terbakar di Tol Jombang-Mojokerto, Ini Penjelasan Polisi",
-      "link_berita": "https://rejogja.republika.co.id/berita/sc2qul432/bus-pahala-kencana-terbakar-di-tol-jombangmojokerto-ini-penjelasan-polisi",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:47:15"
-    },
-    {
-      "judul": "Ini Jadwal dan Prediksi Starting XI Man City Vs Madrid, Perempat Final Liga Champions",
-      "link_berita": "https://sport.republika.co.id/berita/sc2qu4456/ini-jadwal-dan-prediksi-starting-xi-man-city-vs-madrid-perempat-final-liga-champions",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:47:15"
-    },
-    {
-      "judul": "Pendeta Gilbert Dilaporkan ke Polda Metro Jaya Terkait Dugaan Penistaan Agama",
-      "link_berita": "https://news.republika.co.id/berita/sc2qse436/pendeta-gilbert-dilaporkan-ke-polda-metro-jaya-terkait-dugaan-penistaan-agama",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:46:15"
-    },
-    {
-      "judul": "Bupati Sidoarjo Dipanggil KPK pada Jumat Pekan Ini",
-      "link_berita": "https://news.republika.co.id/berita/sc2qr7377/bupati-sidoarjo-dipanggil-kpk-pada-jumat-pekan-ini",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:45:15"
-    },
-    {
-      "judul": "Pemberian Vaksin Meningitis untuk Calon Jamaah Haji",
-      "link_berita": "https://visual.republika.co.id/berita/sc2ova375/pemberian-vaksin-meningitis-untuk-calon-jamaah-haji",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:45:15"
-    },
-    {
-      "judul": "Pengendara Fortuner Berpelat Dinas TNI Palsu yang Viral Sudah Ditangkap, Kini Diperiksa",
-      "link_berita": "https://news.republika.co.id/berita/sc2qn8436/pengendara-fortuner-berpelat-dinas-tni-palsu-yang-viral-sudah-ditangkap-kini-diperiksa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:42:15"
-    },
-    {
-      "judul": "Ekonom: Ada Lonjakan Investasi Manufaktur pada Satu Dekade Terakhir",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2qmf502/ekonom-ada-lonjakan-investasi-manufaktur-pada-satu-dekade-terakhir",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:42:15"
-    },
-    {
-      "judul": "Soal Status Tersangka Gus Muhdlor, Cak Imin: Sudah Dipecat Waktu Itu",
-      "link_berita": "https://news.republika.co.id/berita/sc2qfn436/soal-status-tersangka-gus-muhdlor-cak-imin-sudah-dipecat-waktu-itu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:38:15"
-    },
-    {
-      "judul": "Belum Kembali dari Mudik? Diskon Tarif Tol Berlaku Hari Ini Hingga Jumat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2qeo502/belum-kembali-dari-mudik-diskon-tarif-tol-berlaku-hari-ini-hingga-jumat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:37:15"
-    },
-    {
-      "judul": "Ditanya Apakah akan Maju Pilgub Jawa Timur, Ini Respons Cak Imin",
-      "link_berita": "https://news.republika.co.id/berita/sc2qe8377/ditanya-apakah-akan-maju-pilgub-jawa-timur-ini-respons-cak-imin",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:37:15"
-    },
-    {
-      "judul": "Momen Vokalis RHCP Ikut Ritual Bareng Sikerei di Mentawai",
-      "link_berita": "https://ameera.republika.co.id/berita/sc2kwd330/momen-vokalis-rhcp-ikut-ritual-bareng-sikerei-di-mentawai",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:37:15"
-    },
-    {
-      "judul": "Siap Jelajahi Potensi Desa, BSI Explore 2025 Jadi Rebutan Mahasiswa",
-      "link_berita": "https://news.republika.co.id/berita/sc2q4r349/siap-jelajahi-potensi-desa-bsi-explore-2025-jadi-rebutan-mahasiswa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:31:15"
-    },
-    {
-      "judul": "Krisis Sektor Properti Jadi Tantangan Perekonomian China",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2p72457/krisis-sektor-properti-jadi-tantangan-perekonomian-china",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:30:15"
-    },
-    {
-      "judul": "Kemeriahan Festival Balon Udara di Pekalongan",
-      "link_berita": "https://visual.republika.co.id/berita/sc2lfl375/kemeriahan-festival-balon-udara-di-pekalongan",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:30:15"
-    },
-    {
-      "judul": "Projo Dukung Bobby Nasution Maju Pilkada Sumut",
-      "link_berita": "https://news.republika.co.id/berita/sc2q17377/projo-dukung-bobby-nasution-maju-pilkada-sumut",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:29:15"
-    },
-    {
-      "judul": "Teknologi Apa yang Berkembang di Zaman Nabi Hud?",
-      "link_berita": "https://ihram.republika.co.id/berita/sc2hpb430/teknologi-apa-yang-berkembang-di-zaman-nabi-hud",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:25:15"
-    },
-    {
-      "judul": "Legenda Sepak Bola Jerman Bernd Holzenbein Tutup Usia",
-      "link_berita": "https://sport.republika.co.id/berita/sc2lpp463/legenda-sepak-bola-jerman-bernd-holzenbein-tutup-usia",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:25:15"
-    },
-    {
-      "judul": "MU Ikut Memantau Koopmeiners, Sinyal Bahaya untuk Juventus?",
-      "link_berita": "https://sport.republika.co.id/berita/sc2p9j456/mu-ikut-memantau-koopmeiners-sinyal-bahaya-untuk-juventus",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:22:15"
-    },
-    {
-      "judul": "Agnez Mo, HIVI!, Hingga D'Masiv akan Tampil di SOORA Music Festival",
-      "link_berita": "https://ameera.republika.co.id/berita/sc2pk9370/agnez-mo-hivi-hingga-dmasiv-akan-tampil-di-soora-music-festival",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:19:15"
-    },
-    {
-      "judul": "OJK: Sektor PVML Telah Siap Hadapi Berakhirnya Stimulus Covid-19 KDK Perlakuan Khusus",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2pj2349/ojk-sektor-pvml-telah-siap-hadapi-berakhirnya-stimulus-covid19-kdk-perlakuan-khusus",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:18:15"
-    },
-    {
-      "judul": "Usai Libur Lebaran, Banyak Warga Pilih Jual Emas",
-      "link_berita": "https://visual.republika.co.id/berita/sc2okz375/usai-libur-lebaran-banyak-warga-pilih-jual-emas",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Eratkan Belt and Road Initiative, Fokus Utama Kunjungan Menlu China",
-      "link_berita": "https://internasional.republika.co.id/berita/sc2eew488/eratkan-belt-and-road-initiative-fokus-utama-kunjungan-menlu-china",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "PBB Umumkan Seruan Global Bantuan untuk Gaza",
-      "link_berita": "https://internasional.republika.co.id/berita/sc2jjb463/pbb-umumkan-seruan-global-bantuan-untuk-gaza",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "InJourney Komitmen Bangun Pariwisata Ramah Lingkungan di Danau Toba",
-      "link_berita": "https://esgnow.republika.co.id/berita/sc2obn457/injourney-komitmen-bangun-pariwisata-ramah-lingkungan-di-danau-toba",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "9 Fakta yang Tercipta Setelah Dortmund Singkirkan Atletico Madrid di Liga Champions",
-      "link_berita": "https://sport.republika.co.id/berita/sc2ou8456/9-fakta-yang-tercipta-setelah-dortmund-singkirkan-atletico-madrid-di-liga-champions",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Hingga 21 April 2024, Warga Jatim Diminta Waspada Potensi Cuaca Ekstrem",
-      "link_berita": "https://rejogja.republika.co.id/berita/sc2ova432/hingga-21-april-2024-warga-jatim-diminta-waspada-potensi-cuaca-ekstrem",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Angka Kecelakaan Arus Mudik-Balik 2024 Diklaim Turun",
-      "link_berita": "https://www.republika.id/posts/52062/angka-kecelakaan-arus-mudik-balik-2024-diklaim-turun",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "LPS Ingatkan Perbankan Pentingnya Perlindungan Data Pribadi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2nzh457/lps-ingatkan-perbankan-pentingnya-perlindungan-data-pribadi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Tradisi Lebaran Ketupat di Lereng Gunung Merapi",
-      "link_berita": "https://visual.republika.co.id/berita/sc2lc0375/tradisi-lebaran-ketupat-di-lereng-gunung-merapi",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Tentara Israel Terus Jadikan Masjid Sasaran Serangan",
-      "link_berita": "https://internasional.republika.co.id/berita/sc2axb488/tentara-israel-terus-jadikan-masjid-sasaran-serangan",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Pertamina NRE Ajak Mahasiswa UPER Kuasai Kompetensi Green Skills",
-      "link_berita": "https://ruzka.republika.co.id/info-kampus/1674548462/pertamina-nre-ajak-mahasiswa-uper-kuasai-kompetensi-green-skills",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 06:16:15"
-    },
-    {
-      "judul": "Dishub Surakarta Sebut Tol Kurangi Kepadatan Saat Lebaran 2024",
-      "link_berita": "https://ramadhan.republika.co.id/berita/sc2s4l366/dishub-surakarta-sebut-tol-kurangi-kepadatan-saat-lebaran-2024",
+      "judul": "Arus Mudik dan Balik di Terminal Kampung Rambutan Dinilai Lancar",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sc2us6366/arus-mudik-dan-balik-di-terminal-kampung-rambutan-dinilai-lancar",
       "kategori": "Kabar Ramadhan",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 14:14:00"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 15:12:00"
     },
     {
       "judul": "KPU Yakin Hasil Pemilu 2024 tidak akan Berubah",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 16 Apr 2024, 20:10:00"
     },
     {
-      "judul": "Agnez Mo, HIVI!, Hingga D'Masiv akan Tampil di SOORA Music Festival",
-      "link_berita": "https://ameera.republika.co.id/berita/sc2pk9370/agnez-mo-hivi-hingga-dmasiv-akan-tampil-di-soora-music-festival",
+      "judul": "Tayang 25 Juni, I Am: Celine Dion Ungkap Kehidupan Pribadi 'Queen of Power Ballads'",
+      "link_berita": "https://ameera.republika.co.id/berita/sc2ug0414/tayang-25-juni-i-am-celine-dion-ungkap-kehidupan-pribadi-queen-of-power-ballads",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 13:19:00"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 15:04:00"
     },
     {
       "judul": "Menteri Energi Dunia Berkumpul di UEA Akselerasikan Energi Terbarukan",
@@ -409,10 +409,10 @@
       "tanggal_terbit": "Tuesday, 16 Apr 2024, 19:23:00"
     },
     {
-      "judul": "Pemerintah Segera Atur Masa Transisi Perubahan Permendag 36/2023",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sc2rsz502/pemerintah-segera-atur-masa-transisi-perubahan-permendag-362023",
+      "judul": "Hotel Indonesia Group Catat Kenaikan Hunian 15 Persen Saat Lebaran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sc2t4i502/hotel-indonesia-group-catat-kenaikan-hunian-15-persen-saat-lebaran",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 14:07:00"
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 14:36:00"
     },
     {
       "judul": "Kemenperin: Industri Makanan-Minuman Penopang Ekonomi Indonesia",
@@ -421,11 +421,11 @@
       "tanggal_terbit": "Wednesday, 17 Apr 2024, 10:45:00"
     },
     {
-      "judul": "KPK Bantah Politisasi Kasus Bupati Sidoarjo",
-      "link_berita": "https://news.republika.co.id/berita/sc2s10377/kpk-bantah-politisasi-kasus-bupati-sidoarjo",
-      "kategori": "Hukum",
-      "tanggal_terbit": "Wednesday, 17 Apr 2024, 14:12:00"
+      "judul": "Kemendikbudristek Tunggu Penjelasan Kemenkes Soal Pendidikan Dokter Spesialis Picu Depresi",
+      "link_berita": "https://news.republika.co.id/berita/sc2v1t349/kemendikbudristek-tunggu-penjelasan-kemenkes-soal-pendidikan-dokter-spesialis-picu-depresi",
+      "kategori": "Umum",
+      "tanggal_terbit": "Wednesday, 17 Apr 2024, 15:17:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 17 Apr 2024, 14:16:15"
+  "waktu_scraping": "Wednesday, 17 Apr 2024, 15:19:18"
 }
