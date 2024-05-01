@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kepala HAM PBB: Penangkapan Mahasiswa AS Pro-Palestina tidak Proporsional",
+      "link_berita": "https://internasional.republika.co.id/berita/scskrc366/kepala-ham-pbb-penangkapan-mahasiswa-as-propalestina-tidak-proporsional"
+    },
+    {
       "judul": "Prabowo Ucapkan Selamat Hari Buruh: Semoga Pekerja Semakin Sejahtera",
       "link_berita": "https://news.republika.co.id/berita/scsgr6484/prabowo-ucapkan-selamat-hari-buruh-semoga-pekerja-semakin-sejahtera"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Menteri Teten Bolehkan Warung Madura Buka 24 Jam",
       "link_berita": "https://news.republika.co.id/berita/scs7yr484/menteri-teten-bolehkan-warung-madura-buka-24-jam"
-    },
-    {
-      "judul": "Dua Sosok Asal Belanda Keturunan Indonesia Ini Segera Masuk Timnas Garuda",
-      "link_berita": "https://sport.republika.co.id/berita/scs6f8456/dua-sosok-asal-belanda-keturunan-indonesia-ini-segera-masuk-timnas-garuda"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Hari Buruh, Presiden Joko Widodo Naik Sepeda Sapa Warga di Mataram",
+      "link_berita": "https://visual.republika.co.id/berita/scsils375/hari-buruh-presiden-joko-widodo-naik-sepeda-sapa-warga-di-mataram"
+    },
     {
       "judul": "Columbia Ancam DO Mahasiswa Peserta Aksi Antiperang",
       "link_berita": "https://internasional.republika.co.id/berita/scsiao328/columbia-ancam-do-mahasiswa-peserta-aksi-antiperang"
@@ -77,312 +81,308 @@
     {
       "judul": "Penonaktifan NIK Warga DKI Jakarta, Pj Heru: Supaya Lebih Aman dari Kriminalitas",
       "link_berita": "https://news.republika.co.id/berita/scr6ai451/penonaktifan-nik-warga-dki-jakarta-pj-heru-supaya-lebih-aman-dari-kriminalitas"
-    },
-    {
-      "judul": "Gerindra Minta Semua Pihak Bersabar Soal Kepastian PKS Gabung Prabowo-Gibran",
-      "link_berita": "https://news.republika.co.id/berita/scr2jh436/gerindra-minta-semua-pihak-bersabar-soal-kepastian-pks-gabung-prabowogibran"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bank Mandiri Berkomitmen Jadi Pemegang Saham Terbesar BSI",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scsmxf423/bank-mandiri-berkomitmen-jadi-pemegang-saham-terbesar-bsi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 06:20:30"
+    },
+    {
+      "judul": "715 Calon Haji dari Wonosobo Diberangkatkan Mei Ini, Terbagi 3 Kloter",
+      "link_berita": "https://rejogja.republika.co.id/berita/scsmoi432/715-calon-haji-dari-wonosobo-diberangkatkan-mei-ini-terbagi-3-kloter",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 06:14:30"
+    },
+    {
+      "judul": "Vietnam Optimalkan Gelar UNESCO untuk Perkuat Sosial Ekonomi",
+      "link_berita": "https://internasional.republika.co.id/berita/scsmmi488/vietnam-optimalkan-gelar-unesco-untuk-perkuat-sosial-ekonomi",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 06:13:30"
+    },
+    {
+      "judul": "Mahfud MD Tegaskan Indonesia Bukan Negara Agama",
+      "link_berita": "https://news.republika.co.id/berita/scsmg8484/mahfud-md-tegaskan-indonesia-bukan-negara-agama",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 06:12:30"
+    },
+    {
+      "judul": "Kredit Mikro Bank DKI Tembus Rp 3,8 Triliun pada Kuartal Pertama 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scsm0f457/kredit-mikro-bank-dki-tembus-rp-38-triliun-pada-kuartal-pertama-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 06:00:30"
+    },
+    {
+      "judul": "Keras, China Gunakan Meriam Air Usir Kapal Filipina di Perairan Sengketa",
+      "link_berita": "https://internasional.republika.co.id/berita/scslws488/keras-china-gunakan-meriam-air-usir-kapal-filipina-di-perairan-sengketa",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:58:30"
+    },
+    {
+      "judul": "20 Persen Calon Jamaah Haji Kabupaten Tangerang Lansia",
+      "link_berita": "https://ihram.republika.co.id/berita/scsgd0430/20-persen-calon-jamaah-haji-kabupaten-tangerang-lansia",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:55:30"
+    },
+    {
+      "judul": "Muslim Meninggal dalam Keadaan Berutang, Apa yang Terjadi di Akhirat?",
+      "link_berita": "https://islamdigest.republika.co.id/berita/scslrb366/muslim-meninggal-dalam-keadaan-berutang-apa-yang-terjadi-di-akhirat",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:54:30"
+    },
+    {
+      "judul": "Teleskop Luar Angkasa James Webb Tangkap Detail Horsehead Nebula yang Belum Pernah Tampak",
+      "link_berita": "https://tekno.republika.co.id/berita/scslqv370/teleskop-luar-angkasa-james-webb-tangkap-detail-horsehead-nebula-yang-belum-pernah-tampak",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:54:30"
+    },
+    {
+      "judul": "PT Trisula International Tbk Kembali Bagikan Dividen",
+      "link_berita": "https://cari.republika.co.id/posts/304468/pt-trisula-international-tbk-kembali-bagikan-dividen",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:54:30"
+    },
+    {
+      "judul": "Mengunjungi Peternakan Sapi Berteknologi 5G di Shandong, China",
+      "link_berita": "https://tekno.republika.co.id/berita/scslj8488/mengunjungi-peternakan-sapi-berteknologi-5g-di-shandong-china",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:49:30"
+    },
+    {
+      "judul": "Anwar Ibrahim dan Sri Mulyani Bahas Keuangan Islam",
+      "link_berita": "https://khazanah.republika.co.id/berita/scsfvo430/anwar-ibrahim-dan-sri-mulyani-bahas-keuangan-islam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:43:30"
+    },
+    {
+      "judul": "Kadang Menangis dan Tertawa Tiba-Tiba, Umar bin Khattab Sempat Diisukan Gila",
+      "link_berita": "https://islamdigest.republika.co.id/berita/scsl93366/kadang-menangis-dan-tertawa-tibatiba-umar-bin-khattab-sempat-diisukan-gila",
+      "kategori": "Islam Digest",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:43:30"
+    },
+    {
+      "judul": "Wuling Sumbang 64 Persen Penjualan Kendaraan Elektrik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scsl6p370/wuling-sumbang-64-persen-penjualan-kendaraan-elektrik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:42:30"
+    },
+    {
+      "judul": "Dukung Erick Bantu UMKM, Perumnas Gelar Paras Ayu Fest 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scsl22370/dukung-erick-bantu-umkm-perumnas-gelar-paras-ayu-fest-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:39:30"
+    },
+    {
+      "judul": "Banyaknya Bantuan ke Gaza tak Boleh Jadi Dalih Israel Menyerang Rafah",
+      "link_berita": "https://internasional.republika.co.id/berita/scsl05488/banyaknya-bantuan-ke-gaza-tak-boleh-jadi-dalih-israel-menyerang-rafah",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:38:30"
+    },
+    {
+      "judul": "Harga Emas Antam Merosot tapi Masih di Atas Rp 1,3 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scskx4370/harga-emas-antam-merosot-tapi-masih-di-atas-rp-13-juta-per-gram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:36:30"
+    },
+    {
+      "judul": "Hari Buruh Sedunia, Perempuan dan Kondisi Kerja yang tidak Layak",
+      "link_berita": "https://oohya.republika.co.id/sekapur-sirih/1744603346/hari-buruh-sedunia-perempuan-dan-kondisi-kerja-yang-tidak-layak",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:36:30"
+    },
+    {
+      "judul": "Kepala HAM PBB: Penangkapan Mahasiswa AS Pro-Palestina tidak Proporsional",
+      "link_berita": "https://internasional.republika.co.id/berita/scskrc366/kepala-ham-pbb-penangkapan-mahasiswa-as-propalestina-tidak-proporsional",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:33:30"
+    },
+    {
+      "judul": "Menilik Sejarah Unjuk Rasa di Hamilton Hall",
+      "link_berita": "https://internasional.republika.co.id/berita/scskkr488/menilik-sejarah-unjuk-rasa-di-hamilton-hall",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:29:30"
+    },
+    {
+      "judul": "Erick Dukung Pengembangan UMKM lewat Karya Nyata Fest Vol 6",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scsken423/erick-dukung-pengembangan-umkm-lewat-karya-nyata-fest-vol-6",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:25:30"
+    },
+    {
+      "judul": "Kejari Siapkan Penurunan Harga Lelang untuk Jeep Rubicon Mario Dandy",
+      "link_berita": "https://motoresto.id/posts/304464/kejari-siapkan-penurunan-harga-lelang-untuk-jeep-rubicon-mario-dandy",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:24:30"
+    },
+    {
       "judul": "Dongkrak Ekonomi dan Pariwisata Indonesia, Pelindo Multi Terminal Layani Kapal Pesiar",
       "link_berita": "https://ekonomi.republika.co.id/berita/scsjre423/dongkrak-ekonomi-dan-pariwisata-indonesia-pelindo-multi-terminal-layani-kapal-pesiar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 05:11:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:22:30"
     },
     {
       "judul": "Jasa Marga Respons Cepat Kecelakaan Tol Jakarta-Cikampek",
       "link_berita": "https://news.republika.co.id/berita/scsjlf370/jasa-marga-respons-cepat-kecelakaan-tol-jakartacikampek",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 05:08:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:22:30"
     },
     {
       "judul": "Hari Buruh, Presiden Joko Widodo Naik Sepeda Sapa Warga di Mataram",
       "link_berita": "https://visual.republika.co.id/berita/scsils375/hari-buruh-presiden-joko-widodo-naik-sepeda-sapa-warga-di-mataram",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 05:00:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 05:22:30"
     },
     {
       "judul": "Nico Hulkenberg Resmi Pindah ke Sauber Mulai 2025",
       "link_berita": "https://motoresto.id/posts/303762/nico-hulkenberg-resmi-pindah-ke-sauber-mulai-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:46:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Festival Gunung Slamet 2024, Ratusan Rumah Warga Disiapkan untuk Homestay",
       "link_berita": "https://rejogja.republika.co.id/berita/scsijc432/festival-gunung-slamet-2024-ratusan-rumah-warga-disiapkan-untuk-homestay",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:45:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Columbia Ancam DO Mahasiswa Peserta Aksi Antiperang",
       "link_berita": "https://internasional.republika.co.id/berita/scsiao328/columbia-ancam-do-mahasiswa-peserta-aksi-antiperang",
       "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:40:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "TNI AL Kirim KRI untuk Distribusikan Bantuan Warga Terdampak Erupsi Gunung Ruang",
       "link_berita": "https://visual.republika.co.id/berita/scsia0375/tni-al-kirim-kri-untuk-distribusikan-bantuan-warga-terdampak-erupsi-gunung-ruang",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:39:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Ofero Memperkenalkan Bateray Lithium Terbaru yang Dikembangkan Bersama Phylion",
       "link_berita": "https://motoresto.id/posts/304458/ofero-memperkenalkan-bateray-lithium-terbaru-yang-dikembangkan-bersama-phylion",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:25:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Menhan Prabowo Hingga Ustadz Adi Hidayat Hadiri HUT ke-72 Kopassus",
       "link_berita": "https://seputarmiliter.id/posts/304456/menhan-prabowo-hingga-ustadz-adi-hidayat-hadiri-hut-ke-72-kopassus",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:25:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Pelaku Pembunuh Wanita Dalam Koper di Cikarang Ditangkap di Palembang",
       "link_berita": "https://news.republika.co.id/berita/scsh5j484/pelaku-pembunuh-wanita-dalam-koper-di-cikarang-ditangkap-di-palembang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:20:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "KY Hentikan Hakim di Sumut Akibat Berselingkuh",
       "link_berita": "https://news.republika.co.id/berita/scshd7328/ky-hentikan-hakim-di-sumut-akibat-berselingkuh",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:20:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Prabowo Ucapkan Selamat Hari Buruh: Semoga Pekerja Semakin Sejahtera",
       "link_berita": "https://news.republika.co.id/berita/scsgr6484/prabowo-ucapkan-selamat-hari-buruh-semoga-pekerja-semakin-sejahtera",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Andien Ceritakan Pengalaman Kunjungi Gunung Golo Mori",
       "link_berita": "https://ameera.republika.co.id/berita/scsgqz328/andien-ceritakan-pengalaman-kunjungi-gunung-golo-mori",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Sosiolog Ungkap Faktor Pendorong Tingginya Pemain Judi Online",
       "link_berita": "https://news.republika.co.id/berita/scsg99328/sosiolog-ungkap-faktor-pendorong-tingginya-pemain-judi-online",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 04:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 04:22:30"
     },
     {
       "judul": "Ribuan Buruh akan Aksi di Kantor Gubernur Jatim, Ini Rute yang akan Dilalui",
       "link_berita": "https://rejogja.republika.co.id/berita/scsfqw432/ribuan-buruh-akan-aksi-di-kantor-gubernur-jatim-ini-rute-yang-akan-dilalui",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Pesan untuk Garuda Muda, Wapres: Lupakan Uzbekistan, Menang Lawan Irak",
       "link_berita": "https://tv.republika.co.id/berita/scscxx313/pesan-untuk-garuda-muda-wapres-lupakan-uzbekistan-menang-lawan-irak",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Menteri Arab Saudi Puji Indonesia Konsisten Dukung Palestina",
       "link_berita": "https://news.republika.co.id/berita/scsfcq484/menteri-arab-saudi-puji-indonesia-konsisten-dukung-palestina",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Khusus Hari Buruh, Penumpang Kereta Jarak Jauh Bisa Naik dari Jatinegara",
       "link_berita": "https://news.republika.co.id/berita/scsf8p328/khusus-hari-buruh-penumpang-kereta-jarak-jauh-bisa-naik-dari-jatinegara",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Pupuk Kaltim: Hampir 25 Ribu Petani Tergabung dalam Program Makmur",
       "link_berita": "https://ekonomi.republika.co.id/berita/scsf81423/pupuk-kaltim-hampir-25-ribu-petani-tergabung-dalam-program-makmur",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Keterampilan Strategis untuk Membesarkan Anak yang Tangguh",
       "link_berita": "https://retizen.republika.co.id/posts/304452/keterampilan-strategis-untuk-membesarkan-anak-yang-tangguh",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "GESITS Motor Menerangi PEVS 2024: Merintis Kendaraan Ramah Lingkungan dan Program Kepemilikan Molis",
       "link_berita": "https://motoresto.id/posts/304448/gesits-motor-menerangi-pevs-2024-merintis-kendaraan-ramah-lingkungan-dan-program-kepemilikan-molis",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "BRI Targetkan Pencapaian 90 Persen pada Segmen UMKM di 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/scsewg423/bri-targetkan-pencapaian-90-persen-pada-segmen-umkm-di-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Kasus Diusut Kejagung, Lima Smelter Timah di Babel PHK 1.000 Pekerja",
       "link_berita": "https://news.republika.co.id/berita/scseuv484/kasus-diusut-kejagung-lima-smelter-timah-di-babel-phk-1000-pekerja",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Disbudpar Kudus Evaluasi Penerima SK Desa Wisata Rintisan",
       "link_berita": "https://rejogja.republika.co.id/berita/scseph432/disbudpar-kudus-evaluasi-penerima-sk-desa-wisata-rintisan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "James Gunn Klarifikasi Teori Konspirasi Penggemar Soal Film Superman Baru",
       "link_berita": "https://ameera.republika.co.id/berita/scsel2414/james-gunn-klarifikasi-teori-konspirasi-penggemar-soal-film-superman-baru",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Catet, Promo Hotel BUMN untuk Libur Panjang Bulan Ini",
       "link_berita": "https://ameera.republika.co.id/berita/scsedh328/catet-promo-hotel-bumn-untuk-libur-panjang-bulan-ini",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Jokowi Mendadak Makan di Warung Mie Gacoan Kota Mataram",
       "link_berita": "https://news.republika.co.id/berita/scsdx2484/jokowi-mendadak-makan-di-warung-mie-gacoan-kota-mataram",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "KY Ogah Ungkap Identitas Pimpinan MA Diduga Ditraktir Pengacara",
       "link_berita": "https://news.republika.co.id/berita/scsdvu328/ky-ogah-ungkap-identitas-pimpinan-ma-diduga-ditraktir-pengacara",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Semua Negara Lanjut Danai UNRWA, Kecuali Inggris, Austria, dan Swiss",
-      "link_berita": "https://internasional.republika.co.id/berita/scsdtt414/semua-negara-lanjut-danai-unrwa-kecuali-inggris-austria-dan-swiss",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Daftarkan Chepy Aprianto, LMN dan Simpatisan Ditolak DPD NasDem Subang",
-      "link_berita": "https://pemilukita.republika.co.id/berita/scsds5320/daftarkan-chepy-aprianto-lmn-dan-simpatisan-ditolak-dpd-nasdem-subang",
-      "kategori": "Pemilu Kita",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Menlu Inggris: Permukiman Ilegal Israel Jadi Batu Sandungan Penyelesaian Konflik",
-      "link_berita": "https://internasional.republika.co.id/berita/scsdgs414/menlu-inggris-permukiman-ilegal-israel-jadi-batu-sandungan-penyelesaian-konflik",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Harga Saham Masih Undervalued, BRI Lakukan Buyback",
-      "link_berita": "https://ekonomi.republika.co.id/berita/scsddz423/harga-saham-masih-undervalued-bri-lakukan-buyback",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Puluhan Organisasi Indonesia Berkoalisi untuk Dukung Kemerdekaan Palestina",
-      "link_berita": "https://boyanesia.republika.co.id/agama/1644602784/puluhan-organisasi-indonesia-berkoalisi-untuk-dukung-kemerdekaan-palestina",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Pendaki Asal Bandung Meninggal di Gua Walet, Gunung Ciremai. Diduga Ini Penyebabnya",
-      "link_berita": "https://matapantura.republika.co.id/posts/304453/pendaki-asal-bandung-meninggal-di-gua-walet-gunung-ciremai-diduga-ini-penyebabnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Ratusan Pengungsi Erupsi Gunung Ruang Tiba dengan KRI",
-      "link_berita": "https://news.republika.co.id/berita/scsd9o328/ratusan-pengungsi-erupsi-gunung-ruang-tiba-dengan-kri",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Netanyahu Akhirnya Putuskan untuk Serang Rafah",
-      "link_berita": "https://khazanah.republika.co.id/berita/scsd8l320/netanyahu-akhirnya-putuskan-untuk-serang-rafah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Aturan Haji Tahun Ini Diperketat, Begini Penjelasannya",
-      "link_berita": "https://news.republika.co.id/berita/scsd66456/aturan-haji-tahun-ini-diperketat-begini-penjelasannya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 03:15:14"
-    },
-    {
-      "judul": "Pangeran William dan Kate Middleton Dilaporkan Enggan Jumpai Harry Biar Nggak Stres",
-      "link_berita": "https://ameera.republika.co.id/berita/scsd08414/pangeran-william-dan-kate-middleton-dilaporkan-enggan-jumpai-harry-biar-nggak-stres",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Belajar dari Langkah Resinergi dalam Pengelolaan Sampah Berkelanjutan",
-      "link_berita": "https://news.republika.co.id/berita/scscwe320/belajar-dari-langkah-resinergi-dalam-pengelolaan-sampah-berkelanjutan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Indonesia Jadi Tuan Rumah Konser Taylor Swift, Mungkinkah?",
-      "link_berita": "https://tv.republika.co.id/berita/scscqh313/indonesia-jadi-tuan-rumah-konser-taylor-swift-mungkinkah",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Ada Demo May Day di Jakarta, Ruas Jalan Mana Saja yang Ditutup?",
-      "link_berita": "https://news.republika.co.id/berita/scscnp414/ada-demo-may-day-di-jakarta-ruas-jalan-mana-saja-yang-ditutup",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Waduh, Gara-Gara Ini Jennie Blackpink Dituding Plagiat, Kok Bisa?",
-      "link_berita": "https://impresi.republika.co.id/sosok/1694602740/waduh-gara-gara-ini-jennie-blackpink-dituding-plagiat-kok-bisa",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Jangan Lengah, Ini 6 Tanda Anda Harus Segera Beli Ponsel Baru",
-      "link_berita": "https://impresi.republika.co.id/didaktika/1694602728/jangan-lengah-ini-6-tanda-anda-harus-segera-beli-ponsel-baru",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Nonton Jazz di Gunung Golo Mori NTT, Ada Paket Hotel dan Akomodasi",
-      "link_berita": "https://ameera.republika.co.id/berita/scsbzw328/nonton-jazz-di-gunung-golo-mori-ntt-ada-paket-hotel-dan-akomodasi",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Ekspor Pangan Sering Ditolak, BSN pun Bertindak",
-      "link_berita": "https://oohya.republika.co.id/pitan/1744602654/ekspor-pangan-sering-ditolak-bsn-pun-bertindak",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Bea Cukai Bojonegoro Musnahkan 8 Juta Batang Rokok Ilegal",
-      "link_berita": "https://rejogja.republika.co.id/berita/scsbdk432/bea-cukai-bojonegoro-musnahkan-8-juta-batang-rokok-ilegal",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Sipil Jadi Korban, Sekjen PBB Serukan Dunia Cegah Israel Jalankan Operasi Militer di Rafah",
-      "link_berita": "https://internasional.republika.co.id/berita/scsbac414/sipil-jadi-korban-sekjen-pbb-serukan-dunia-cegah-israel-jalankan-operasi-militer-di-rafah",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Agar Dilimpahkan Rezeki dan Jauh dari Petaka, Begini Doa Nabi Isa",
-      "link_berita": "https://tv.republika.co.id/berita/scsbab313/agar-dilimpahkan-rezeki-dan-jauh-dari-petaka-begini-doa-nabi-isa",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Calon Suami atau Istri Ada Hubungan Keluarga, Bolehkah Dinikahi? Perhatikan Ketentuan Ini",
-      "link_berita": "https://islamdigest.republika.co.id/berita/scsb19320/calon-suami-atau-istri-ada-hubungan-keluarga-bolehkah-dinikahi-perhatikan-ketentuan-ini",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
-    },
-    {
-      "judul": "Nikmati Pagi di Mataram, Jokowi Gowes Sepeda Bambu",
-      "link_berita": "https://news.republika.co.id/berita/scsat0328/nikmati-pagi-di-mataram-jokowi-gowes-sepeda-bambu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 02:15:14"
+      "tanggal_terbit": "Wednesday, 01 May 2024, 03:22:30"
     },
     {
       "judul": "Daftarkan Chepy Aprianto, LMN dan Simpatisan Ditolak DPD NasDem Subang",
@@ -403,10 +403,10 @@
       "tanggal_terbit": "Tuesday, 30 Apr 2024, 20:48:00"
     },
     {
-      "judul": "Dongkrak Ekonomi dan Pariwisata Indonesia, Pelindo Multi Terminal Layani Kapal Pesiar",
-      "link_berita": "https://ekonomi.republika.co.id/berita/scsjre423/dongkrak-ekonomi-dan-pariwisata-indonesia-pelindo-multi-terminal-layani-kapal-pesiar",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 12:11:00"
+      "judul": "Bank Mandiri Berkomitmen Jadi Pemegang Saham Terbesar BSI",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scsmxf423/bank-mandiri-berkomitmen-jadi-pemegang-saham-terbesar-bsi",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 13:20:00"
     },
     {
       "judul": "BI Dorong Jangkauan Manfaat IsDB di Berbagai Negara Anggota",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Tuesday, 30 Apr 2024, 17:31:00"
     },
     {
-      "judul": "Jasa Marga Respons Cepat Kecelakaan Tol Jakarta-Cikampek",
-      "link_berita": "https://news.republika.co.id/berita/scsjlf370/jasa-marga-respons-cepat-kecelakaan-tol-jakartacikampek",
-      "kategori": "Nusantara",
-      "tanggal_terbit": "Wednesday, 01 May 2024, 12:08:00"
+      "judul": "Mahfud MD Tegaskan Indonesia Bukan Negara Agama",
+      "link_berita": "https://news.republika.co.id/berita/scsmg8484/mahfud-md-tegaskan-indonesia-bukan-negara-agama",
+      "kategori": "Umum",
+      "tanggal_terbit": "Wednesday, 01 May 2024, 13:13:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 01 May 2024, 12:15:14"
+  "waktu_scraping": "Wednesday, 01 May 2024, 13:22:30"
 }
