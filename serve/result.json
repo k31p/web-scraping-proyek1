@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Terungkap Rini Mariany Perempuan yang Ditemukan Tewas di Koper Dibunuh di Hotel di Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/scuc18512/terungkap-rini-mariany-perempuan-yang-ditemukan-tewas-di-koper-dibunuh-di-hotel-di-bandung"
+    },
+    {
       "judul": "Jokowi Optimistis Timnas U-23 Indonesia Menang Lawan Irak",
       "link_berita": "https://news.republika.co.id/berita/scu907328/jokowi-optimistis-timnas-u23-indonesia-menang-lawan-irak"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Pengamat Bicara Peluang Menang Timnas U-23 Lawan Irak dan Lolos Olimpiade",
       "link_berita": "https://sport.republika.co.id/berita/scu3kq328/pengamat-bicara-peluang-menang-timnas-u23-lawan-irak-dan-lolos-olimpiade"
-    },
-    {
-      "judul": "Aksi Demo Pro-Palestina di Universitas Columbia Kian Memanas",
-      "link_berita": "https://tv.republika.co.id/berita/scu1ox313/aksi-demo-propalestina-di-universitas-columbia-kian-memanas"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Fedi Nuril dan Politikus Demokrat Berdebat di X, Aktor tak Boleh Bicara Politik?",
+      "link_berita": "https://ameera.republika.co.id/berita/scuc9n414/fedi-nuril-dan-politikus-demokrat-berdebat-di-x-aktor-tak-boleh-bicara-politik"
+    },
     {
       "judul": "Warganet Riuh Soal Beli Rumah Vs Ngontrak, Perencana Keuangan Ungkap Mana yang Lebih Baik",
       "link_berita": "https://ameera.republika.co.id/berita/scu8z0414/warganet-riuh-soal-beli-rumah-vs-ngontrak-perencana-keuangan-ungkap-mana-yang-lebih-baik"
@@ -77,312 +81,308 @@
     {
       "judul": "Usai 'Dikerjai' Vs Uzbekistan, Shin Tae-Yong Akui Hadapi Irak Butuh Kebangkitan Mental",
       "link_berita": "https://sport.republika.co.id/berita/sct6sy456/usai-dikerjai-vs-uzbekistan-shin-taeyong-akui-hadapi-irak-butuh-kebangkitan-mental"
-    },
-    {
-      "judul": "Beda Perspektif Islam dan Marxisme Soal Buruh",
-      "link_berita": "https://www.republika.id/posts/52427/beda-perspektif-islam-dan-marxisme-soal-buruh"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bentrokan Buat Demo Pro Palestina di Kampus Kian Memanas",
+      "link_berita": "https://internasional.republika.co.id/berita/scueju488/bentrokan-buat-demo-pro-palestina-di-kampus-kian-memanas",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 02 May 2024, 05:14:06"
+    },
+    {
+      "judul": "KSP: 12 Juta Pekerja Layak Dapat Tunjangan Selama 6 Bulan Jika di-PHK",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scueib502/ksp-12-juta-pekerja-layak-dapat-tunjangan-selama-6-bulan-jika-diphk",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 05:13:06"
+    },
+    {
+      "judul": "Jokowi Resmikan Bendungan Tiu Suntuk di Sumbawa Barat Senilai Rp 1,4 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scuegv349/jokowi-resmikan-bendungan-tiu-suntuk-di-sumbawa-barat-senilai-rp-14-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 05:12:06"
+    },
+    {
+      "judul": "Truk Bantuan yang Masuk Gaza 'Naik Terbatas'",
+      "link_berita": "https://internasional.republika.co.id/berita/scu9ba488/truk-bantuan-yang-masuk-gaza-naik-terbatas",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 02 May 2024, 05:12:06"
+    },
+    {
+      "judul": "Gunung Merapi Muntahkan 15 Kali Guguran Lava Sejauh 1,8 Kilometer",
+      "link_berita": "https://news.republika.co.id/berita/scue92370/gunung-merapi-muntahkan-15-kali-guguran-lava-sejauh-18-kilometer",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 02 May 2024, 05:08:06"
+    },
+    {
+      "judul": "BNI Danai Akuisisi PLTB Sidrap oleh Barito Group",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scue24502/bni-danai-akuisisi-pltb-sidrap-oleh-barito-group",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 05:04:06"
+    },
+    {
+      "judul": "Pelaku Pembunuhan Perempuan Dalam Koper Ditetapkan jadi Tersangka, Motif Masih Didalami",
+      "link_berita": "https://rejabar.republika.co.id/berita/scudty512/pelaku-pembunuhan-perempuan-dalam-koper-ditetapkan-jadi-tersangka-motif-masih-didalami",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:59:06"
+    },
+    {
+      "judul": "Ada Gerakan Pangan Murah di Tebet, Jual Bawang Merah Dibawah Harga Pasar",
+      "link_berita": "https://visual.republika.co.id/berita/scudqm375/ada-gerakan-pangan-murah-di-tebet-jual-bawang-merah-dibawah-harga-pasar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:57:06"
+    },
+    {
+      "judul": "Coach Justin Soal Perkembangan Pesat Sepak Bola Indonesia: Dahsyat Sekali",
+      "link_berita": "https://sport.republika.co.id/berita/scucow456/coach-justin-soal-perkembangan-pesat-sepak-bola-indonesia-dahsyat-sekali",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:50:06"
+    },
+    {
+      "judul": "Inflasi April 2024 Pas 3,0 Persen, Tarif Angkutan Jadi Biang Kerok",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scudds502/inflasi-april-2024-pas-30-persen-tarif-angkutan-jadi-biang-kerok",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:49:06"
+    },
+    {
+      "judul": "Terkait Hari Buruh Internasional, Pj Gubernur Jabar Bey Ajak Buruh Tingkatkan Soft Skill",
+      "link_berita": "https://rejabar.republika.co.id/berita/scud98512/terkait-hari-buruh-internasional-pj-gubernur-jabar-bey-ajak-buruh-tingkatkan-soft-skill",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:46:06"
+    },
+    {
+      "judul": "Coba Makanan Baru, Bagaimana Supaya tidak Mubazir Andaikan tak Suka Rasanya?",
+      "link_berita": "https://ameera.republika.co.id/berita/scud4o414/coba-makanan-baru-bagaimana-supaya-tidak-mubazir-andaikan-tak-suka-rasanya",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:43:06"
+    },
+    {
+      "judul": "Nusantara Regas Raih WSO Indonesia-Pakistan Safety Culture Award 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scud3z463/nusantara-regas-raih-wso-indonesiapakistan-safety-culture-award-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:43:06"
+    },
+    {
+      "judul": "BRI Raih Dua Award Mobile Banking dan Chatbot Terbaik BSEM MRI 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scucx9463/bri-raih-dua-award-mobile-banking-dan-chatbot-terbaik-bsem-mri-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:39:06"
+    },
+    {
+      "judul": "MCorp Resmikan Program DBA Bidang Pertanian Pertama di Indonesia",
+      "link_berita": "https://rejogja.republika.co.id/berita/scucua291/mcorp-resmikan-program-dba-bidang-pertanian-pertama-di-indonesia",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:37:06"
+    },
+    {
+      "judul": "Pupuk Indonesia Siap Salurkan 9,55 Juta Ton Pupuk Bersubsidi di 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scucq9502/pupuk-indonesia-siap-salurkan-955-juta-ton-pupuk-bersubsidi-di-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:35:06"
+    },
+    {
+      "judul": "FT dan FTan UMJ Kolaborasi Optimalkan Teknologi",
+      "link_berita": "https://news.republika.co.id/berita/scuco3463/ft-dan-ftan-umj-kolaborasi-optimalkan-teknologi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:34:06"
+    },
+    {
+      "judul": "Bangun Masjid di Yogyakarta, Kowani Ingin Selaraskan dengan Peningkatan Harkat Perempuan",
+      "link_berita": "https://rejogja.republika.co.id/berita/scuckw291/bangun-masjid-di-yogyakarta-kowani-ingin-selaraskan-dengan-peningkatan-harkat-perempuan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:32:06"
+    },
+    {
+      "judul": "Revitalisasi Jembatan Cikarang, PJ Gubernur Bey: Ini Mempermudah Akses Warga dan Buruh",
+      "link_berita": "https://rejabar.republika.co.id/berita/scuch6512/revitalisasi-jembatan-cikarang-pj-gubernur-bey-ini-mempermudah-akses-warga-dan-buruh",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:29:06"
+    },
+    {
+      "judul": "Perubahan Iklim Ancam Ketersediaan Pangan",
+      "link_berita": "https://www.republika.id/posts/52445/perubahan-iklim-ancam-ketersediaan-pangan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:29:06"
+    },
+    {
+      "judul": "Rupiah Menguat, Pasar Masih Cerna Pernyataan Gubernur The Fed",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scucfo502/rupiah-menguat-pasar-masih-cerna-pernyataan-gubernur-the-fed",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:28:06"
+    },
+    {
+      "judul": "Fedi Nuril dan Politikus Demokrat Berdebat di X, Aktor tak Boleh Bicara Politik?",
+      "link_berita": "https://ameera.republika.co.id/berita/scuc9n414/fedi-nuril-dan-politikus-demokrat-berdebat-di-x-aktor-tak-boleh-bicara-politik",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:25:06"
+    },
+    {
+      "judul": "Bulog Sebut Lakukan Penyerapan 30 Ribu Ton Gabah Petani per Hari",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scuc7x502/bulog-sebut-lakukan-penyerapan-30-ribu-ton-gabah-petani-per-hari",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:24:06"
+    },
+    {
+      "judul": "Terungkap Rini Mariany Perempuan yang Ditemukan Tewas di Koper Dibunuh di Hotel di Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/scuc18512/terungkap-rini-mariany-perempuan-yang-ditemukan-tewas-di-koper-dibunuh-di-hotel-di-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:20:06"
+    },
+    {
       "judul": "Wajib Tahu : 8 Khasiat Bawang Merah Bagi Kesehatan",
       "link_berita": "https://topnews62.com/posts/304555/wajib-tahu-8-khasiat-bawang-merah-bagi-kesehatan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 04:10:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:17:06"
     },
     {
       "judul": "20 Universitas Swasta Terbaik di Indonesia Versi Webometrics 2024, Hanya Ada Satu Kampus dari Luar Jawa",
       "link_berita": "https://kampus.republika.co.id/info-kampus/1624606499/20-universitas-swasta-terbaik-di-indonesia-versi-webometrics-2024-hanya-ada-satu-kampus-dari-luar-jawa",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 04:08:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:17:06"
     },
     {
       "judul": "Studi Baru Tentang sungai Tunjukkan Perubahan Iklim Kian Nyata",
       "link_berita": "https://esgnow.republika.co.id/berita/scuark463/studi-baru-tentang-sungai-tunjukkan-perubahan-iklim-kian-nyata",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:52:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:17:06"
     },
     {
-      "judul": "Penuh Haru, Eric Cantona Bacakan Puisi 'If I Must Die' Karya Almarhum Refaat Alareer",
-      "link_berita": "https://ameera.republika.co.id/berita/scualg414/penuh-haru-eric-cantona-bacakan-puisi-if-i-must-die-karya-almarhum-refaat-alareer",
+      "judul": "Eric Cantona Bacakan Puisi 'If I Must Die' Karya Penyair Refaat Alareer yang Gugur di Gaza",
+      "link_berita": "https://ameera.republika.co.id/berita/scualg414/eric-cantona-bacakan-puisi-if-i-must-die-karya-penyair-refaat-alareer-yang-gugur-di-gaza",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:48:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 04:17:06"
     },
     {
       "judul": "Udara Terasa Panas Menyengat, Indonesia Dilanda Heatwave Seperti Bangladesh?",
       "link_berita": "https://news.republika.co.id/berita/scuab1414/udara-terasa-panas-menyengat-indonesia-dilanda-heatwave-seperti-bangladesh",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:42:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Kementan Ajak ICMI Atasi Masalah Pertanian Saat Gejolak Global-El Nino",
       "link_berita": "https://ekonomi.republika.co.id/berita/scua98502/kementan-ajak-icmi-atasi-masalah-pertanian-saat-gejolak-globalel-nino",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:41:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Dampak Pencemaran Lingkungan, Bahan Kimia Berbahaya Terkandung di Dalam Makanan",
       "link_berita": "https://esgnow.republika.co.id/berita/scu90o463/dampak-pencemaran-lingkungan-bahan-kimia-berbahaya-terkandung-di-dalam-makanan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:29:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Sempat Terdampak Erupsi Gunung Ruang, Bandara Djalaluddin Gorontalo Kembali Beroperasi",
       "link_berita": "https://news.republika.co.id/berita/scu9pe414/sempat-terdampak-erupsi-gunung-ruang-bandara-djalaluddin-gorontalo-kembali-beroperasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:29:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "KPU Kota Bandung Mulai Lakukan Tahapan Persiapan Pilwalkot Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/scu9k1512/kpu-kota-bandung-mulai-lakukan-tahapan-persiapan-pilwalkot-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:26:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Jokowi Optimistis Timnas U-23 Lolos Olimpiade Paris 2024",
       "link_berita": "https://tv.republika.co.id/berita/scu6sa313/jokowi-optimistis-timnas-u23-lolos-olimpiade-paris-2024",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:22:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "UNM Bersam SMK Pembangunan Jaya Sukses Gelar Seminar Kolaborasi",
       "link_berita": "https://news.republika.co.id/berita/scu7nj463/unm-bersam-smk-pembangunan-jaya-sukses-gelar-seminar-kolaborasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:19:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Jokowi Optimistis Timnas U-23 Indonesia Menang Lawan Irak",
       "link_berita": "https://news.republika.co.id/berita/scu907328/jokowi-optimistis-timnas-u23-indonesia-menang-lawan-irak",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Warganet Riuh Soal Beli Rumah Vs Ngontrak, Perencana Keuangan Ungkap Mana yang Lebih Baik",
       "link_berita": "https://ameera.republika.co.id/berita/scu8z0414/warganet-riuh-soal-beli-rumah-vs-ngontrak-perencana-keuangan-ungkap-mana-yang-lebih-baik",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Nyi Hadjar Dewantara, Tokoh Perempuan dan Pendidikan",
       "link_berita": "https://www.republika.id/posts/52444/nyi-hadjar-dewantara-tokoh-perempuan-dan-pendidikan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Bangladesh Tetap Liburkan Sekolah Saat Suhu Panas Capai 32 Derajat Celsius",
       "link_berita": "https://esgnow.republika.co.id/berita/scu8s0463/bangladesh-tetap-liburkan-sekolah-saat-suhu-panas-capai-32-derajat-celsius",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Klub Legendaris Italia Ini Resmi Kembali ke Kancah Serie A",
       "link_berita": "https://sport.republika.co.id/berita/scu8lr456/klub-legendaris-italia-ini-resmi-kembali-ke-kancah-serie-a",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Singapura Bangun Pembangkit \u2018Fast Start\u2019 Amankan Pasokan Listrik",
       "link_berita": "https://esgnow.republika.co.id/berita/scu8iq328/singapura-bangun-pembangkit-fast-start-amankan-pasokan-listrik",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Netanyahu Putuskan Serang Rafah, Alquran Isyaratkan Kegemaran Buruk Bangsa Yahudi",
       "link_berita": "https://iqra.republika.co.id/berita/scu8fo320/netanyahu-putuskan-serang-rafah-alquran-isyaratkan-kegemaran-buruk-bangsa-yahudi",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "IHSG Diprediksi Melemah Terbatas di Tengah The Fed Tahan Suku Bunga",
       "link_berita": "https://ekonomi.republika.co.id/berita/scu8b2502/ihsg-diprediksi-melemah-terbatas-di-tengah-the-fed-tahan-suku-bunga",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Harga Emas Antam Melesat Lagi Jadi Rp 1,327 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/scu85p502/harga-emas-antam-melesat-lagi-jadi-rp-1327-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "UNM Gelar Edufair 2024, Berikan Beasiswa Bagi Calon Mahasiswa Melalui Jalur Undangan",
       "link_berita": "https://news.republika.co.id/berita/scu71x463/unm-gelar-edufair-2024-berikan-beasiswa-bagi-calon-mahasiswa-melalui-jalur-undangan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Bahas Keberanian Erick Thohir dalam Tangani Sepak Bola Indonesia, Hanung: Nyalinya Ampun",
       "link_berita": "https://sport.republika.co.id/berita/scu5hw456/bahas-keberanian-erick-thohir-dalam-tangani-sepak-bola-indonesia-hanung-nyalinya-ampun",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Korsel Catat Penurunan Inflasi pada April, Saatnya Plesiran ke Sana?",
       "link_berita": "https://ekonomi.republika.co.id/berita/scu816502/korsel-catat-penurunan-inflasi-pada-april-saatnya-plesiran-ke-sana",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 03:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "Dibuang Penggemar, Album 17 Is Right Here Seventeen Teronggok di Jalanan Jepang",
       "link_berita": "https://ameera.republika.co.id/berita/scu7tx414/dibuang-penggemar-album-17-is-right-here-seventeen-teronggok-di-jalanan-jepang",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 03:17:06"
     },
     {
       "judul": "'BRI Peduli Ini Sekolahku', Langkah Nyata BRI Majukan Pendidikan Anak Bangsa",
       "link_berita": "https://ekonomi.republika.co.id/berita/scu7gz463/bri-peduli-ini-sekolahku-langkah-nyata-bri-majukan-pendidikan-anak-bangsa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 02:17:06"
     },
     {
       "judul": "Xikers tak Sabar Jumpa Penggemar di Saranghaeyo Indonesia 2024",
       "link_berita": "https://ameera.republika.co.id/berita/scu7g0328/xikers-tak-sabar-jumpa-penggemar-di-saranghaeyo-indonesia-2024",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Asuransi Mobil di Amerika, Seberapa Mahal?",
-      "link_berita": "https://tv.republika.co.id/berita/scu1vn313/asuransi-mobil-di-amerika-seberapa-mahal",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Presiden Jokowi Kulineran di Mie Gacoan, Siapa Pemilik Gerai Makanan Viral Ini?",
-      "link_berita": "https://ameera.republika.co.id/berita/scu7bs414/presiden-jokowi-kulineran-di-mie-gacoan-siapa-pemilik-gerai-makanan-viral-ini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Ayam Cap Nikmat Gunakan Resep 24 Bumbu Rempah",
-      "link_berita": "https://ameera.republika.co.id/berita/scu5dp328/ayam-cap-nikmat-gunakan-resep-24-bumbu-rempah",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Gen Z Punya Akun Media Sosial Lebih dari Satu, Psikolog: Seperti Pakai Banyak Topeng",
-      "link_berita": "https://ameera.republika.co.id/berita/scu6r1414/gen-z-punya-akun-media-sosial-lebih-dari-satu-psikolog-seperti-pakai-banyak-topeng",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Cara Krisis Iklim Turunkan Kualitas Belajar di Asia",
-      "link_berita": "https://esgnow.republika.co.id/berita/scu6pz328/cara-krisis-iklim-turunkan-kualitas-belajar-di-asia",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Universitas BSI dan P4 Jakarta Barat Sukses Gelar BSI Digination",
-      "link_berita": "https://news.republika.co.id/berita/scu6ot463/universitas-bsi-dan-p4-jakarta-barat-sukses-gelar-bsi-digination",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Jika Tangisan Adalah Manusiawi, Bagaimana Hakikat Menangis Menurut Alquran?",
-      "link_berita": "https://iqra.republika.co.id/berita/scu6oq320/jika-tangisan-adalah-manusiawi-bagaimana-hakikat-menangis-menurut-alquran",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Menteri Haji dan Umrah Arab Saudi Bertemu Wapres untuk Bahas Penyelenggaraan Haji 1445 H/2024 M di I",
-      "link_berita": "https://topnews62.com/posts/304578/menteri-haji-dan-umrah-arab-saudi-bertemu-wapres-untuk-bahas-penyelenggaraan-haji-1445-h-2024-m-di-indonesia",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Neta V-II Meluncur di PEVS 2024, Intip Spesifikasinya",
-      "link_berita": "https://motoresto.id/posts/304460/neta-v-ii-meluncur-di-pevs-2024-intip-spesifikasinya",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Sindiran Keras Ki Hadjar Dewantara",
-      "link_berita": "https://www.republika.id/posts/52443/sindiran-keras-ki-hadjar-dewantara",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "DJPb Papua: Penerimaan Pajak dalam Negeri Hingga Maret 2024 Naik",
-      "link_berita": "https://news.republika.co.id/berita/scu6f7456/djpb-papua-penerimaan-pajak-dalam-negeri-hingga-maret-2024-naik",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "SIG: Volume Penjualan Capai 9,18 Juta Ton pada Kuartal I 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/scu640502/sig-volume-penjualan-capai-918-juta-ton-pada-kuartal-i-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Studi: Lapisan Es di Kutub Utara Sekarang Jadi Sumber Gas Rumah Kaca",
-      "link_berita": "https://esgnow.republika.co.id/berita/scu62k328/studi-lapisan-es-di-kutub-utara-sekarang-jadi-sumber-gas-rumah-kaca",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Aplikasi BDKlim Prediksi Kelembaban Udara untuk Lihat Kasus DBD di Bali",
-      "link_berita": "https://oohya.republika.co.id/egek/1744604652/aplikasi-bdklim-prediksi-kelembaban-udara-untuk-lihat-kasus-dbd-di-bali",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Pakubuwono II Pindah Keraton Bawa 2 Pohon Beringin dari Kartosuro, Kenapa Melibatkan Ulama?",
-      "link_berita": "https://oohya.republika.co.id/lincak/1744605949/pakubuwono-ii-pindah-keraton-bawa-2-pohon-beringin-dari-kartosuro-kenapa-melibatkan-ulama",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Kunci Bahagia Menurut Islam Ini Diungkap Sains Psikologi Modern",
-      "link_berita": "https://islamdigest.republika.co.id/berita/scu5pq320/kunci-bahagia-menurut-islam-ini-diungkap-sains-psikologi-modern",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Masyarakat Adat Protes Pemerintah Brasil yang tak Lindungi Tanah Leluhur",
-      "link_berita": "https://esgnow.republika.co.id/berita/scu5nb328/masyarakat-adat-protes-pemerintah-brasil-yang-tak-lindungi-tanah-leluhur",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Heran Mengapa Gigi Jadi Kuning? Jangan-Jangan Anda Lakukan Kesalahan Sederhana Ini",
-      "link_berita": "https://ameera.republika.co.id/berita/scu5ly414/heran-mengapa-gigi-jadi-kuning-janganjangan-anda-lakukan-kesalahan-sederhana-ini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Pelatih Dortmund Senang Pemain Buangan MU Ini Bersinar di Timnya",
-      "link_berita": "https://sport.republika.co.id/berita/scu54f456/pelatih-dortmund-senang-pemain-buangan-mu-ini-bersinar-di-timnya",
-      "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "Doa Nabi Musa yang Diabadikan Alquran",
-      "link_berita": "https://tv.republika.co.id/berita/scu55j313/doa-nabi-musa-yang-diabadikan-alquran",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 02 May 2024, 02:18:48"
-    },
-    {
-      "judul": "The Fed Tetap Optimistis Inflasi Melandai Tahun Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/scu4zf502/the-fed-tetap-optimistis-inflasi-melandai-tahun-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 02 May 2024, 01:18:48"
-    },
-    {
-      "judul": "Ini Jadwal Siaran Langsung Timnas U-23 Indonesia Vs Irak Berebut Tiket Olimpiade 2024",
-      "link_berita": "https://sport.republika.co.id/berita/scu4z0456/ini-jadwal-siaran-langsung-timnas-u23-indonesia-vs-irak-berebut-tiket-olimpiade-2024",
-      "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 02 May 2024, 01:18:48"
-    },
-    {
-      "judul": "Ajak Doakan Korban Perang, Paus Fransiskus: Industri Senjata Ambil Untung dari Kematian",
-      "link_berita": "https://internasional.republika.co.id/berita/scu4r0414/ajak-doakan-korban-perang-paus-fransiskus-industri-senjata-ambil-untung-dari-kematian",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 02 May 2024, 01:18:48"
-    },
-    {
-      "judul": "Neta V-II Meluncur di PEVS 2024, Intip Spesifikasinya",
-      "link_berita": "https://motoresto.id/posts/304460/neta-v-ii-meluncur-di-pevs-2024-intip-spesifikasinya",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 02 May 2024, 01:18:48"
+      "tanggal_terbit": "Thursday, 02 May 2024, 02:17:06"
     },
     {
       "judul": "Mantan Wabup Pasuruan Ambil Formulir Pendaftaran Bupati di DPC PKB",
@@ -391,10 +391,10 @@
       "tanggal_terbit": "Wednesday, 01 May 2024, 17:51:00"
     },
     {
-      "judul": "Penuh Haru, Eric Cantona Bacakan Puisi 'If I Must Die' Karya Almarhum Refaat Alareer",
-      "link_berita": "https://ameera.republika.co.id/berita/scualg414/penuh-haru-eric-cantona-bacakan-puisi-if-i-must-die-karya-almarhum-refaat-alareer",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 02 May 2024, 10:48:00"
+      "judul": "Coba Makanan Baru, Bagaimana Supaya tidak Mubazir Andaikan tak Suka Rasanya?",
+      "link_berita": "https://ameera.republika.co.id/berita/scud4o414/coba-makanan-baru-bagaimana-supaya-tidak-mubazir-andaikan-tak-suka-rasanya",
+      "kategori": "My Halal",
+      "tanggal_terbit": "Thursday, 02 May 2024, 11:43:00"
     },
     {
       "judul": "Studi Baru Tentang sungai Tunjukkan Perubahan Iklim Kian Nyata",
@@ -403,10 +403,10 @@
       "tanggal_terbit": "Thursday, 02 May 2024, 10:52:00"
     },
     {
-      "judul": "Kementan Ajak ICMI Atasi Masalah Pertanian Saat Gejolak Global-El Nino",
-      "link_berita": "https://ekonomi.republika.co.id/berita/scua98502/kementan-ajak-icmi-atasi-masalah-pertanian-saat-gejolak-globalel-nino",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Thursday, 02 May 2024, 10:41:00"
+      "judul": "KSP: 12 Juta Pekerja Layak Dapat Tunjangan Selama 6 Bulan Jika di-PHK",
+      "link_berita": "https://ekonomi.republika.co.id/berita/scueib502/ksp-12-juta-pekerja-layak-dapat-tunjangan-selama-6-bulan-jika-diphk",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Thursday, 02 May 2024, 12:13:00"
     },
     {
       "judul": "Dana Murah Bank Mega Syariah Capai 30,97 Persen di Kuartal I 2024",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Thursday, 02 May 2024, 06:44:00"
     },
     {
-      "judul": "Udara Terasa Panas Menyengat, Indonesia Dilanda Heatwave Seperti Bangladesh?",
-      "link_berita": "https://news.republika.co.id/berita/scuab1414/udara-terasa-panas-menyengat-indonesia-dilanda-heatwave-seperti-bangladesh",
-      "kategori": "Umum",
-      "tanggal_terbit": "Thursday, 02 May 2024, 10:42:00"
+      "judul": "Gunung Merapi Muntahkan 15 Kali Guguran Lava Sejauh 1,8 Kilometer",
+      "link_berita": "https://news.republika.co.id/berita/scue92370/gunung-merapi-muntahkan-15-kali-guguran-lava-sejauh-18-kilometer",
+      "kategori": "Nusantara",
+      "tanggal_terbit": "Thursday, 02 May 2024, 12:07:00"
     }
   ],
-  "waktu_scraping": "Thursday, 02 May 2024, 11:18:48"
+  "waktu_scraping": "Thursday, 02 May 2024, 12:17:06"
 }
