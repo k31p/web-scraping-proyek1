@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Erick Thohir: Bisa Melihat Indonesia Bersaing di Level Asia adalah Sebuah Kebanggaan",
+      "link_berita": "https://sport.republika.co.id/berita/sd2bjb456/erick-thohir-bisa-melihat-indonesia-bersaing-di-level-asia-adalah-sebuah-kebanggaan"
+    },
+    {
+      "judul": "Witan Minta Semua Pihak Saling Dukung Demi Timnas U-23 Raih Tiket Olimpiade 2024",
+      "link_berita": "https://sport.republika.co.id/berita/sd29y6456/witan-minta-semua-pihak-saling-dukung-demi-timnas-u23-raih-tiket-olimpiade-2024"
+    },
+    {
       "judul": "Israel Paksa Kosongkan Rafah Timur, Rakyat Palestina Diusir ke Al Mawasi",
       "link_berita": "https://internasional.republika.co.id/berita/sd28xk414/israel-paksa-kosongkan-rafah-timur-rakyat-palestina-diusir-ke-al-mawasi"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Israel Mulai Evakuasi Rafah, Siapkan Serangan?",
       "link_berita": "https://internasional.republika.co.id/berita/sd21n0393/israel-mulai-evakuasi-rafah-siapkan-serangan"
-    },
-    {
-      "judul": "Pembentukan Presidential Club, PKS: Bisa Jadi Wadah untuk Lakukan Lobi",
-      "link_berita": "https://news.republika.co.id/berita/sd1xah377/pembentukan-presidential-club-pks-bisa-jadi-wadah-untuk-lakukan-lobi"
-    },
-    {
-      "judul": "Ekonomi RI Capai 5,11 Persen, BPS: Pertumbuhan Tertinggi Sejak 2019",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sd1ub0502/ekonomi-ri-capai-511-persen-bps-pertumbuhan-tertinggi-sejak-2019"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Derita Masiroh, 22 Tahun Hilang Kotak di Suriah Hingga Dianggap Telah Meninggal",
+      "link_berita": "https://news.republika.co.id/berita/sd2cu3423/derita-masiroh-22-tahun-hilang-kotak-di-suriah-hingga-dianggap-telah-meninggal"
+    },
+    {
+      "judul": "Muslim Jadi Komunitas Agama Terbesar Kedua di Jerman",
+      "link_berita": "https://khazanah.republika.co.id/berita/sd29bg366/muslim-jadi-komunitas-agama-terbesar-kedua-di-jerman"
+    },
     {
       "judul": "Suka Beli Skincare Etiket Biru Via Online? Sebaiknya Hentikan Kebiasaan Buruk Itu",
       "link_berita": "https://ameera.republika.co.id/berita/sd28gw425/suka-beli-skincare-etiket-biru-via-online-sebaiknya-hentikan-kebiasaan-buruk-itu"
@@ -73,316 +81,308 @@
     {
       "judul": "Kalau Beda Agama, Apakah Pernikahan Rizky Febian-Mahalini Sah Menurut Islam?",
       "link_berita": "https://ameera.republika.co.id/berita/sczvhp414/kalau-beda-agama-apakah-pernikahan-rizky-febianmahalini-sah-menurut-islam"
-    },
-    {
-      "judul": "Baca Dzikir Pagi Ini dan Rasakan Dampaknya Seharian",
-      "link_berita": "https://iqra.republika.co.id/berita/sd181v430/baca-dzikir-pagi-ini-dan-rasakan-dampaknya-seharian"
-    },
-    {
-      "judul": "Pengamat Nilai PAN Harus Ubah Citra Zita Anjani Jika Ingin Mengusungnya di Pilgub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sd0apx409/pengamat-nilai-pan-harus-ubah-citra-zita-anjani-jika-ingin-mengusungnya-di-pilgub-jakarta"
     }
   ],
   "berita_lainnya": [
     {
-      "judul": "Stok Buku Nikah Rusak Akibat Banjir di Sulsel",
-      "link_berita": "https://republika.co.id/berita/sd2df4282/stok-buku-nikah-rusak-akibat-banjir-di-sulsel",
+      "judul": "Tingkatkan Produksi Lewat Pompanisasi, Sekjen Kementan Berbagi Tips dan Pengalaman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sd2flk423/tingkatkan-produksi-lewat-pompanisasi-sekjen-kementan-berbagi-tips-dan-pengalaman",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:17:45"
+    },
+    {
+      "judul": "CIMB Niaga Luncurkan Reksa Dana Syariah Asean dengan mata Uang Dolar AS",
+      "link_berita": "https://sharia.republika.co.id/berita/sd2fkp349/cimb-niaga-luncurkan-reksa-dana-syariah-asean-dengan-mata-uang-dolar-as",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:17:31"
+    },
+    {
+      "judul": "Mataram Bolehkan PKL Berjualan di Asrama Haji, tapi Ada Aturannya",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2ffq366/mataram-bolehkan-pkl-berjualan-di-asrama-haji-tapi-ada-aturannya",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:14:31"
+    },
+    {
+      "judul": "Setelah Pengunjung Masjid Al Jabbar, Giliran Wisatawan Curug Ciburial Bogor Kena Pungli",
+      "link_berita": "https://ameera.republika.co.id/berita/sd2fdn414/setelah-pengunjung-masjid-al-jabbar-giliran-wisatawan-curug-ciburial-bogor-kena-pungli",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:12:31"
+    },
+    {
+      "judul": "Dukung Pengasuhan Ideal, Nasyiatul Aisyiyah Cetak Fasilitator Sekolah Parenting",
+      "link_berita": "https://khazanah.republika.co.id/berita/sd2f7i423/dukung-pengasuhan-ideal-nasyiatul-aisyiyah-cetak-fasilitator-sekolah-parenting",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:09:31"
+    },
+    {
+      "judul": "Calon Jamaah Haji Barito Utara Berangkat ke Tanah Suci 15 Mei 2024",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2f6m366/calon-jamaah-haji-barito-utara-berangkat-ke-tanah-suci-15-mei-2024",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:08:31"
+    },
+    {
+      "judul": "Kejagung Periksa Evaluator RKAB di Kementerian ESDM Terkait Penyidikan Korupsi Timah",
+      "link_berita": "https://news.republika.co.id/berita/sd2f3t436/kejagung-periksa-evaluator-rkab-di-kementerian-esdm-terkait-penyidikan-korupsi-timah",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:07:31"
+    },
+    {
+      "judul": "Kemenag Cari Skenario Jika Bandara Minangkabau tidak Beroperasi Akibat Erupsi",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2ezv366/kemenag-cari-skenario-jika-bandara-minangkabau-tidak-beroperasi-akibat-erupsi",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:04:31"
+    },
+    {
+      "judul": "Laptop Seri Swift Go yang Maksimalkan AI jadi Favorit di Bandung",
+      "link_berita": "https://bandung24jam.republika.co.id/posts/305321/laptop-seri-swift-go-yang-maksimalkan-ai-jadi-favorit-di-bandung",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:04:31"
+    },
+    {
+      "judul": "Dubai International Chamber Targetkan Nilai Perdagangan dengan RI Capai USD 10 Miliar",
+      "link_berita": "https://genpop.republika.co.id/posts/305320/dubai-international-chamber-targetkan-nilai-perdagangan-dengan-ri-capai-usd-10-miliar",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:04:31"
+    },
+    {
+      "judul": "Jumlah PMI Asal Majalengka Cukup Tinggi, Ini Lima Kecamatan Penyumbang Terbanyak",
+      "link_berita": "https://rejabar.republika.co.id/berita/sd2etu430/jumlah-pmi-asal-majalengka-cukup-tinggi-ini-lima-kecamatan-penyumbang-terbanyak",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:02:31"
+    },
+    {
+      "judul": "Aktor John Cusack Apresiasi Keberhasilan Demo Pro Palestina Mahasiswa UC Riverside",
+      "link_berita": "https://ameera.republika.co.id/berita/sd2evt414/aktor-john-cusack-apresiasi-keberhasilan-demo-pro-palestina-mahasiswa-uc-riverside",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:02:31"
+    },
+    {
+      "judul": "Legislator Ungkap Sejumlah Catatan Terkait Rencana Kenaikan Tarif KRL",
+      "link_berita": "https://news.republika.co.id/berita/sd2eqk423/legislator-ungkap-sejumlah-catatan-terkait-rencana-kenaikan-tarif-krl",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 06 May 2024, 13:00:31"
+    },
+    {
+      "judul": "63 Ribu Warga Medan Terima BLT Dana Bansos Tahap Kedua",
+      "link_berita": "https://visual.republika.co.id/berita/sd2bbo375/63-ribu-warga-medan-terima-blt-dana-bansos-tahap-kedua",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:59:31"
+    },
+    {
+      "judul": "546 Calon Jamaah Haji Kutai Kartanegara Siap Berangkat",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2epm366/546-calon-jamaah-haji-kutai-kartanegara-siap-berangkat",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:58:31"
+    },
+    {
+      "judul": "Xi Jinping Angkat Isu Palestina dalam Kunjungannya ke Prancis",
+      "link_berita": "https://internasional.republika.co.id/berita/sd2ej4430/xi-jinping-angkat-isu-palestina-dalam-kunjungannya-ke-prancis",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:55:31"
+    },
+    {
+      "judul": "Bey Machmudin Mengaku Punya Kenangan dengan Alas Kaki Bata",
+      "link_berita": "https://news.republika.co.id/berita/sd2ejd330/bey-machmudin-mengaku-punya-kenangan-dengan-alas-kaki-bata",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:54:31"
+    },
+    {
+      "judul": "Keberangkatan Calon Jamaah Haji Pontianak Dibagi Tiga Kloter",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2eir366/keberangkatan-calon-jamaah-haji-pontianak-dibagi-tiga-kloter",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:54:31"
+    },
+    {
+      "judul": "Liverpool dan Manchester United Disebut Incar Daftar Pemain yang Sama di Musim Panas",
+      "link_berita": "https://sport.republika.co.id/berita/sd2buq456/liverpool-dan-manchester-united-disebut-incar-daftar-pemain-yang-sama-di-musim-panas",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:53:31"
+    },
+    {
+      "judul": "Menlu Retno: OKI Harus Bersatu Bela Palestina",
+      "link_berita": "https://news.republika.co.id/berita/sd2ehs423/menlu-retno-oki-harus-bersatu-bela-palestina",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:53:31"
+    },
+    {
+      "judul": "Calon Jamaah Haji Yogyakarta Berangkat Lewat Bandara Adi Soemarmo",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2ecp366/calon-jamaah-haji-yogyakarta-berangkat-lewat-bandara-adi-soemarmo",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:50:31"
+    },
+    {
+      "judul": "Gibran: Makan Siang Gratis Bakal Fokus di Beberapa Lokasi",
+      "link_berita": "https://news.republika.co.id/berita/sd2e82330/gibran-makan-siang-gratis-bakal-fokus-di-beberapa-lokasi",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:48:31"
+    },
+    {
+      "judul": "Pengamat: Cabang Olahraga Harus Maksimalkan Dukungan BUMN",
+      "link_berita": "https://sport.republika.co.id/berita/sd2e7w423/pengamat-cabang-olahraga-harus-maksimalkan-dukungan-bumn",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:47:31"
+    },
+    {
+      "judul": "Ingat! Jangan Tertipu Oknum Janjikan Berangkat Haji tanpa Visa Haji",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2dzd366/ingat-jangan-tertipu-oknum-janjikan-berangkat-haji-tanpa-visa-haji",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:42:31"
+    },
+    {
+      "judul": "Pemkot Mataram tak Batasi Jumlah PKL di Asrama Haji",
+      "link_berita": "https://ihram.republika.co.id/berita/sd2dt0430/pemkot-mataram-tak-batasi-jumlah-pkl-di-asrama-haji",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:40:31"
+    },
+    {
+      "judul": "Erick Thohir: Bisa Melihat Indonesia Bersaing di Level Asia adalah Sebuah Kebanggaan",
+      "link_berita": "https://sport.republika.co.id/berita/sd2bjb456/erick-thohir-bisa-melihat-indonesia-bersaing-di-level-asia-adalah-sebuah-kebanggaan",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:33:31"
+    },
+    {
+      "judul": "Hakim MK Pertanyakan KPU tak Bawa Bukti Sistem Noken",
+      "link_berita": "https://news.republika.co.id/berita/sd2diz330/hakim-mk-pertanyakan-kpu-tak-bawa-bukti-sistem-noken",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:32:31"
+    },
+    {
+      "judul": "DRRC UI-Pertamina Hulu Rokan Kaji Tata Kelola Tanggap Darurat Kebakaran",
+      "link_berita": "https://ruzka.republika.co.id/ekonomi/1674623681/drrc-ui-pertamina-hulu-rokan-kaji-tata-kelola-tanggap-darurat-kebakaran",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:31:31"
+    },
+    {
+      "judul": "Film Baru Captain America Kian Problematik: Rilis Bareng Mainan McD, Ada Sabra dari Israel",
+      "link_berita": "https://ameera.republika.co.id/berita/sd2dh6414/film-baru-captain-america-kian-problematik-rilis-bareng-mainan-mcd-ada-sabra-dari-israel",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 06 May 2024, 12:31:31"
+    },
+    {
+      "judul": "Stok Buku Nikah Rusak Akibat Banjir di Sulsel, Kemenag Bergerak Cepat Beri Bantuan",
+      "link_berita": "https://republika.co.id/berita/sd2df4282/stok-buku-nikah-rusak-akibat-banjir-di-sulsel-kemenag-bergerak-cepat-beri-bantuan",
       "kategori": "Resulawesi",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:30:40"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:30:31"
     },
     {
       "judul": "Tersangka Kasus Mutilasi di Ciamis Jalani Pemeriksaan Kejiwaan",
       "link_berita": "https://visual.republika.co.id/berita/sd2aep375/tersangka-kasus-mutilasi-di-ciamis-jalani-pemeriksaan-kejiwaan",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:30:00"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:29:31"
     },
     {
       "judul": "PLN Pastikan Kesiapan Pasokan Listrik Jelang Forum WWF di Bali",
       "link_berita": "https://ekonomi.republika.co.id/berita/sd2ddt423/pln-pastikan-kesiapan-pasokan-listrik-jelang-forum-wwf-di-bali",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:29:53"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:29:31"
     },
     {
       "judul": "Paspamres Disebut Kecipratan Uang dari Eks Mentan Syahrul Yasin Limpo",
       "link_berita": "https://news.republika.co.id/berita/sd2dcc436/paspamres-disebut-kecipratan-uang-dari-eks-mentan-syahrul-yasin-limpo",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:28:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:28:31"
     },
     {
       "judul": "Industri Otomotif Dinilai Punya Prospek Positif Mulai Kuartal IV 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sd2d6c490/industri-otomotif-dinilai-punya-prospek-positif-mulai-kuartal-iv-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:25:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:25:31"
     },
     {
-      "judul": "Masiroh, 22 Tahun Hilang Kotak di Suriah Hingga Dianggap Telah Meninggal",
-      "link_berita": "https://news.republika.co.id/berita/sd2cu3423/masiroh-22-tahun-hilang-kotak-di-suriah-hingga-dianggap-telah-meninggal",
+      "judul": "Derita Masiroh, 22 Tahun Hilang Kotak di Suriah Hingga Dianggap Telah Meninggal",
+      "link_berita": "https://news.republika.co.id/berita/sd2cu3423/derita-masiroh-22-tahun-hilang-kotak-di-suriah-hingga-dianggap-telah-meninggal",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:17:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Data BPS: Pengangguran Terbuka di Jateng 4,39 Persen",
       "link_berita": "https://rejogja.republika.co.id/berita/sd2cs2432/data-bps-pengangguran-terbuka-di-jateng-439-persen",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:16:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Gerindra Tunggu Arahan Prabowo untuk Calonkan Andre Rosiade di Pilgub Sumbar",
       "link_berita": "https://pemilukita.republika.co.id/berita/sd2crx436/gerindra-tunggu-arahan-prabowo-untuk-calonkan-andre-rosiade-di-pilgub-sumbar",
       "kategori": "Pemilu Kita",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:16:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Seorang Perempuan Ditemukan Tewas Tergeletak di Kamar Kos, tak Ada Tanda Kekerasan",
       "link_berita": "https://news.republika.co.id/berita/sd2cmi425/seorang-perempuan-ditemukan-tewas-tergeletak-di-kamar-kos-tak-ada-tanda-kekerasan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:13:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Didukung Data Pertumbuhan Ekonomi, IHSG Menguat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sd2cih490/didukung-data-pertumbuhan-ekonomi-ihsg-menguat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:10:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Pemerintah Siapkan PP Atur Dana Pensiun untuk Atlet",
       "link_berita": "https://news.republika.co.id/berita/sd2cht436/pemerintah-siapkan-pp-atur-dana-pensiun-untuk-atlet",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:10:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Dosen Universitas BSI Jadi Narasumber dalam Webinar Analisa Kebutuhan Sistem",
       "link_berita": "https://news.republika.co.id/berita/sd2b4g423/dosen-universitas-bsi-jadi-narasumber-dalam-webinar-analisa-kebutuhan-sistem",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:09:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Erik Ten Hag Bicara Masa Depan Bruno Fernandes di Manchester United",
       "link_berita": "https://sport.republika.co.id/berita/sd2beo456/erik-ten-hag-bicara-masa-depan-bruno-fernandes-di-manchester-united",
       "kategori": "Sport",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:09:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "JPU: Gazalba Saleh Gunakan Identitas Dosen dan KTP Orang Lain untuk Cuci Uang",
       "link_berita": "https://news.republika.co.id/berita/sd2cga330/jpu-gazalba-saleh-gunakan-identitas-dosen-dan-ktp-orang-lain-untuk-cuci-uang",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:09:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Kasus Kesehatan Mental Meningkat, Dosen UMM Jelaskan Penyebab dan Solusinya",
       "link_berita": "https://khazanah.republika.co.id/berita/sd2c8w430/kasus-kesehatan-mental-meningkat-dosen-umm-jelaskan-penyebab-dan-solusinya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:07:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Mendag Tegaskan Penerapan Wajib Halal pada Oktober 2024",
       "link_berita": "https://sharia.republika.co.id/berita/sd2ccd490/mendag-tegaskan-penerapan-wajib-halal-pada-oktober-2024",
       "kategori": "Sharia",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:07:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Pemilik Warteg Damai dengan Pria Kribo yang Bayar tak Sesuai Tagihan",
       "link_berita": "https://news.republika.co.id/berita/sd2c8e425/pemilik-warteg-damai-dengan-pria-kribo-yang-bayar-tak-sesuai-tagihan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:04:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Innalillahi, Anggota DPR Gus Aam Meninggal Dunia Saat Kunjungan Kerja",
       "link_berita": "https://republika.co.id/berita/sd2c83436/innalillahi-anggota-dpr-gus-aam-meninggal-dunia-saat-kunjungan-kerja",
       "kategori": "Dpr Ri",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:04:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "ITB Jadi Kampus Pertama Didatangi Pertamina Goes To Campus, Bangun Gedung Riset",
       "link_berita": "https://news.republika.co.id/berita/sd2c3v423/itb-jadi-kampus-pertama-didatangi-pertamina-goes-to-campus-bangun-gedung-riset",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:02:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "10 Kelurahan di Yogyakarta Jadi Sasaran Skrining TBC",
       "link_berita": "https://rejogja.republika.co.id/berita/sd2c29432/10-kelurahan-di-yogyakarta-jadi-sasaran-skrining-tbc",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 06 May 2024, 12:01:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Geliat Penjual Air Bersih di Pademangan",
       "link_berita": "https://visual.republika.co.id/berita/sd29xr375/geliat-penjual-air-bersih-di-pademangan",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:59:45"
-    },
-    {
-      "judul": "Skincare Etiket Biru Dijual Bebas, Apa Bahayanya Jika Dipakai?",
-      "link_berita": "https://ameera.republika.co.id/berita/sd2bw9414/skincare-etiket-biru-dijual-bebas-apa-bahayanya-jika-dipakai",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:57:45"
-    },
-    {
-      "judul": "5 Alasan Agensi BTS, Hybe, Dianggap 'Musuh' Nomor 1 Dunia K-Pop Saat ini",
-      "link_berita": "https://ameera.republika.co.id/berita/sd2bua425/5-alasan-agensi-bts-hybe-dianggap-musuh-nomor-1-dunia-kpop-saat-ini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:56:45"
-    },
-    {
-      "judul": "Jalani Tes Kejiwaan, Tersangka Mutilasi Istri di Ciamis Lebih Banyak Diam",
-      "link_berita": "https://news.republika.co.id/berita/sd2btl436/jalani-tes-kejiwaan-tersangka-mutilasi-istri-di-ciamis-lebih-banyak-diam",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:55:45"
-    },
-    {
-      "judul": "P2G: Karena Kurikulum Merdeka, Skor Nadiem Justru Makin Jeblok",
-      "link_berita": "https://news.republika.co.id/berita/sd2bsq330/p2g-karena-kurikulum-merdeka-skor-nadiem-justru-makin-jeblok",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:55:45"
-    },
-    {
-      "judul": "Dana Hibah UEA Sudah Cair, Gibran Fokuskan untuk Revitalisasi Fasilitas Umum",
-      "link_berita": "https://ihram.republika.co.id/berita/sd2bg4430/dana-hibah-uea-sudah-cair-gibran-fokuskan-untuk-revitalisasi-fasilitas-umum",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:52:45"
-    },
-    {
-      "judul": "Ketum PSSI Sebut Indonesia Sedang Memiliki Generasi Emas di Sepak Bola",
-      "link_berita": "https://sport.republika.co.id/berita/sd2b9g456/ketum-pssi-sebut-indonesia-sedang-memiliki-generasi-emas-di-sepak-bola",
-      "kategori": "Sport",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:52:45"
-    },
-    {
-      "judul": "Usai Jalani Tes Kejiwaan, Pelaku Mutilasi Istri Ditahan di Tempat Khusus",
-      "link_berita": "https://news.republika.co.id/berita/sd2bmc423/usai-jalani-tes-kejiwaan-pelaku-mutilasi-istri-ditahan-di-tempat-khusus",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:51:45"
-    },
-    {
-      "judul": "Keutamaan 10 Hari Pertama Dzulhijah",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sd2bck430/keutamaan-10-hari-pertama-dzulhijah",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:49:45"
-    },
-    {
-      "judul": "Dua Bacagub Independen Jakarta Sudah Mulai Bergerak Kumpulkan Dukungan",
-      "link_berita": "https://news.republika.co.id/berita/sd2bel330/dua-bacagub-independen-jakarta-sudah-mulai-bergerak-kumpulkan-dukungan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:46:45"
-    },
-    {
-      "judul": "KPU DKI Jakarta Sebut NIK Dinonaktifkan Tetap Bisa Memilih Asal Melakukan Penangguhan",
-      "link_berita": "https://pemilukita.republika.co.id/berita/sd2ad0436/kpu-dki-jakarta-sebut-nik-dinonaktifkan-tetap-bisa-memilih-asal-melakukan-penangguhan",
-      "kategori": "Pemilu Kita",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:46:45"
-    },
-    {
-      "judul": "Sejarah Panjang Islam di Jerman, Sejak Era Harun al-Rasyid dan Charlemagne",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sd2b5o430/sejarah-panjang-islam-di-jerman-sejak-era-harun-alrasyid-dan-charlemagne",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:43:45"
-    },
-    {
-      "judul": "Cagub Independen Jakarta Harus Penuhi Syarat Dukungan Akhir Pekan Ini",
-      "link_berita": "https://news.republika.co.id/berita/sd2b6g330/cagub-independen-jakarta-harus-penuhi-syarat-dukungan-akhir-pekan-ini",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:42:45"
-    },
-    {
-      "judul": "Polemik Hukum Islam Soal Musik dan Lagu Mencuat Lagi, Ini Respon Ketua MUI",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sd2ayw430/polemik-hukum-islam-soal-musik-dan-lagu-mencuat-lagi-ini-respon-ketua-mui",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:39:45"
-    },
-    {
-      "judul": "Seluruh Calon Jamaah Haji Bandarlampung Telah Divaksinasi Meningitis",
-      "link_berita": "https://ihram.republika.co.id/berita/sd2az8366/seluruh-calon-jamaah-haji-bandarlampung-telah-divaksinasi-meningitis",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:37:45"
-    },
-    {
-      "judul": "Menhub Klaim Tingkat Kepuasan Pemudik Capai 89 Persen",
-      "link_berita": "https://news.republika.co.id/berita/sd2a6l436/menhub-klaim-tingkat-kepuasan-pemudik-capai-89-persen",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:36:45"
-    },
-    {
-      "judul": "Air di Asrama Haji Payau, PDAM Indramayu Siap Pasok Air Bersih",
-      "link_berita": "https://khazanah.republika.co.id/berita/sd2ari430/air-di-asrama-haji-payau-pdam-indramayu-siap-pasok-air-bersih",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:36:45"
-    },
-    {
-      "judul": "Itera Alokasikan 219 Kuota Mahasiswa Baru untuk Jalur Mandiri, Seleksinya Pakai Nilai UTBK",
-      "link_berita": "https://news.republika.co.id/berita/sd2aw4414/itera-alokasikan-219-kuota-mahasiswa-baru-untuk-jalur-mandiri-seleksinya-pakai-nilai-utbk",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:35:45"
-    },
-    {
-      "judul": "Wakil Ketua Komisi X: Kurikulum Merdeka Belum Layak Jadi Kurikulum Nasional",
-      "link_berita": "https://news.republika.co.id/berita/sd2av8330/wakil-ketua-komisi-x-kurikulum-merdeka-belum-layak-jadi-kurikulum-nasional",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:35:45"
-    },
-    {
-      "judul": "Tilawah dengan Nada Terlalu Tinggi, Betulkah Jadi Pemicu Pingsannya Peserta MTQ Jabar?",
-      "link_berita": "https://ameera.republika.co.id/berita/sd29c3414/tilawah-dengan-nada-terlalu-tinggi-betulkah-jadi-pemicu-pingsannya-peserta-mtq-jabar",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:34:45"
-    },
-    {
-      "judul": "Erik Ten Hag Akui Perwakilan Manchester United Temui Sancho",
-      "link_berita": "https://sport.republika.co.id/berita/sd2ar2456/erik-ten-hag-akui-perwakilan-manchester-united-temui-sancho",
-      "kategori": "Sport",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:32:45"
-    },
-    {
-      "judul": "Universitas BSI BSD Dukung Suksesnya P5 SMK Negeri 6 Kabupaten Tangerang",
-      "link_berita": "https://news.republika.co.id/berita/sd2apv423/universitas-bsi-bsd-dukung-suksesnya-p5-smk-negeri-6-kabupaten-tangerang",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:32:45"
-    },
-    {
-      "judul": "Hukum Nikah Beda Agama dalam Islam",
-      "link_berita": "https://tv.republika.co.id/berita/sd2aoj418/hukum-nikah-beda-agama-dalam-islam",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:31:45"
-    },
-    {
-      "judul": "Khofifah Dinilai Sebagai Pejawat Gubernur Paling Kuat di Pilkada",
-      "link_berita": "https://news.republika.co.id/berita/sd2agz330/khofifah-dinilai-sebagai-pejawat-gubernur-paling-kuat-di-pilkada",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
-    },
-    {
-      "judul": "Gibran Fokuskan Dana Hibah UEA untuk Fasilitas Umum dan Proyek Mangkrak",
-      "link_berita": "https://rejogja.republika.co.id/berita/sd2aey432/gibran-fokuskan-dana-hibah-uea-untuk-fasilitas-umum-dan-proyek-mangkrak",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
-    },
-    {
-      "judul": "PDIP Buka Pendaftaran Bakal Cagub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sd2ab5330/pdip-buka-pendaftaran-bakal-cagub-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
-    },
-    {
-      "judul": "BPS: 7,2 Juta Orang Angkatan Kerja Masih Menganggur",
-      "link_berita": "https://news.republika.co.id/berita/sd29xd436/bps-72-juta-orang-angkatan-kerja-masih-menganggur",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
-    },
-    {
-      "judul": "Jumlah Kunjungan Wisatawan Mancanegara ke Indonesia Naik pada Maret 2024",
-      "link_berita": "https://news.republika.co.id/berita/sd2a58425/jumlah-kunjungan-wisatawan-mancanegara-ke-indonesia-naik-pada-maret-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
-    },
-    {
-      "judul": "Witan Minta Semua Pihak Saling Dukung Demi Timnas U-23 Raih Tiket Olimpiade 2024",
-      "link_berita": "https://sport.republika.co.id/berita/sd29y6456/witan-minta-semua-pihak-saling-dukung-demi-timnas-u23-raih-tiket-olimpiade-2024",
-      "kategori": "Sport",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
-    },
-    {
-      "judul": "Komnas Haji Berharap Tragedi Muzdalifah 2023 tidak Terulang",
-      "link_berita": "https://ihram.republika.co.id/berita/sd29w2366/komnas-haji-berharap-tragedi-muzdalifah-2023-tidak-terulang",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Monday, 06 May 2024, 11:30:45"
+      "tanggal_terbit": "Monday, 06 May 2024, 12:18:31"
     },
     {
       "judul": "Gerindra Tunggu Arahan Prabowo untuk Calonkan Andre Rosiade di Pilgub Sumbar",
@@ -391,10 +391,10 @@
       "tanggal_terbit": "Monday, 06 May 2024, 19:16:00"
     },
     {
-      "judul": "Skincare Etiket Biru Dijual Bebas, Apa Bahayanya Jika Dipakai?",
-      "link_berita": "https://ameera.republika.co.id/berita/sd2bw9414/skincare-etiket-biru-dijual-bebas-apa-bahayanya-jika-dipakai",
-      "kategori": "Health",
-      "tanggal_terbit": "Monday, 06 May 2024, 18:57:00"
+      "judul": "Setelah Pengunjung Masjid Al Jabbar, Giliran Wisatawan Curug Ciburial Bogor Kena Pungli",
+      "link_berita": "https://ameera.republika.co.id/berita/sd2fdn414/setelah-pengunjung-masjid-al-jabbar-giliran-wisatawan-curug-ciburial-bogor-kena-pungli",
+      "kategori": "Happening",
+      "tanggal_terbit": "Monday, 06 May 2024, 20:12:00"
     },
     {
       "judul": "Sri Mulyani: Perlu Mobilisasi Triliunan Dolar AS Atasi Perubahan Iklim",
@@ -403,23 +403,23 @@
       "tanggal_terbit": "Sunday, 05 May 2024, 16:57:00"
     },
     {
-      "judul": "PLN Pastikan Kesiapan Pasokan Listrik Jelang Forum WWF di Bali",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sd2ddt423/pln-pastikan-kesiapan-pasokan-listrik-jelang-forum-wwf-di-bali",
-      "kategori": "Energi",
-      "tanggal_terbit": "Monday, 06 May 2024, 19:29:00"
+      "judul": "Tingkatkan Produksi Lewat Pompanisasi, Sekjen Kementan Berbagi Tips dan Pengalaman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sd2flk423/tingkatkan-produksi-lewat-pompanisasi-sekjen-kementan-berbagi-tips-dan-pengalaman",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Monday, 06 May 2024, 20:17:00"
     },
     {
-      "judul": "Mendag Tegaskan Penerapan Wajib Halal pada Oktober 2024",
-      "link_berita": "https://sharia.republika.co.id/berita/sd2ccd490/mendag-tegaskan-penerapan-wajib-halal-pada-oktober-2024",
-      "kategori": "Industri Halal Sharia",
-      "tanggal_terbit": "Monday, 06 May 2024, 19:07:00"
+      "judul": "CIMB Niaga Luncurkan Reksa Dana Syariah Asean dengan mata Uang Dolar AS",
+      "link_berita": "https://sharia.republika.co.id/berita/sd2fkp349/cimb-niaga-luncurkan-reksa-dana-syariah-asean-dengan-mata-uang-dolar-as",
+      "kategori": "Keuangan Sharia",
+      "tanggal_terbit": "Monday, 06 May 2024, 20:17:00"
     },
     {
-      "judul": "Paspamres Disebut Kecipratan Uang dari Eks Mentan Syahrul Yasin Limpo",
-      "link_berita": "https://news.republika.co.id/berita/sd2dcc436/paspamres-disebut-kecipratan-uang-dari-eks-mentan-syahrul-yasin-limpo",
+      "judul": "Kejagung Periksa Evaluator RKAB di Kementerian ESDM Terkait Penyidikan Korupsi Timah",
+      "link_berita": "https://news.republika.co.id/berita/sd2f3t436/kejagung-periksa-evaluator-rkab-di-kementerian-esdm-terkait-penyidikan-korupsi-timah",
       "kategori": "Hukum",
-      "tanggal_terbit": "Monday, 06 May 2024, 19:29:00"
+      "tanggal_terbit": "Monday, 06 May 2024, 20:07:00"
     }
   ],
-  "waktu_scraping": "Monday, 06 May 2024, 19:30:45"
+  "waktu_scraping": "Monday, 06 May 2024, 20:18:31"
 }
