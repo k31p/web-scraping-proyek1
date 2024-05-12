@@ -1,8 +1,16 @@
 {
   "berita_headline": [
     {
+      "judul": "Sebanyak 570 Jenazah Ditemukan di Tujuh Kuburan Massal di Gaza",
+      "link_berita": "https://www.republika.id/posts/52704/sebanyak-570-jenazah-ditemukan-di-tujuh-kuburan-massal-di-gaza"
+    },
+    {
       "judul": "Bus yang Kecelakaan di Subang tak Uji Berkala Tiap 6 Bulan",
       "link_berita": "https://news.republika.co.id/berita/sddvrx425/bus-yang-kecelakaan-di-subang-tak-uji-berkala-tiap-6-bulan"
+    },
+    {
+      "judul": "Detik-Detik Kecelakaan Bus di Ciater Subang, Warga Lihat Korban Bergeletakan",
+      "link_berita": "https://news.republika.co.id/berita/sdduj9425/detikdetik-kecelakaan-bus-di-ciater-subang-warga-lihat-korban-bergeletakan"
     },
     {
       "judul": "Kemenhub Ungkap Penggunaan Sabuk Pengaman Bisa Kurangi Fatalitas Kecelakaan",
@@ -11,20 +19,20 @@
     {
       "judul": "Kesaksian Sopir Bus Maut, dari Rem Blong, Cari Jalur Darurat, Hingga Pilih Banting Setir",
       "link_berita": "https://news.republika.co.id/berita/sddocj377/kesaksian-sopir-bus-maut-dari-rem-blong-cari-jalur-darurat-hingga-pilih-banting-setir"
-    },
-    {
-      "judul": "Erick Bakal Sulap Kawasan Pelabuhan Benoa, Singgung Summer Sonic dan Tomorrowland",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sddjy2490/erick-bakal-sulap-kawasan-pelabuhan-benoa-singgung-summer-sonic-dan-tomorrowland"
-    },
-    {
-      "judul": "Beredar Video Kondisi RS Indonesia Diobrak-abrik Tentara Israel",
-      "link_berita": "https://internasional.republika.co.id/berita/sddhyc393/beredar-video-kondisi-rs-indonesia-diobrakabrik-tentara-israel"
     }
   ],
   "berita_unggulan": [
     {
+      "judul": "Klaim Israel Berhasil Taklukkan Pejuang Palestina Terbantahkan",
+      "link_berita": "https://www.republika.id/posts/52706/klaim-israel-berhasil-taklukkan-pejuang-palestina-terbantahkan"
+    },
+    {
       "judul": "Kunci Doa Dikabulkan",
       "link_berita": "https://iqra.republika.co.id/berita/sddj7f451/kunci-doa-dikabulkan"
+    },
+    {
+      "judul": "Perlawanan FH Hingga Membuat Begal di Jambi Tersungkur dan Tewas",
+      "link_berita": "https://news.republika.co.id/berita/sddosf377/perlawanan-fh-hingga-membuat-begal-di-jambi-tersungkur-dan-tewas"
     },
     {
       "judul": "Dorong Penumbuhan Petani Muda di Jawa Barat Berbuah Hasil",
@@ -73,316 +81,308 @@
     {
       "judul": "Rumah Duka Siswa Meninggal SMK Lingga Kencana Dipadati Pelayat",
       "link_berita": "https://news.republika.co.id/berita/sdd03m468/rumah-duka-siswa-meninggal-smk-lingga-kencana-dipadati-pelayat"
-    },
-    {
-      "judul": "Bus Rombongan Pelajar yang Terguling di Ciater Subang Terlambat Uji Kir",
-      "link_berita": "https://rejogja.republika.co.id/berita/sdcxq8432/bus-rombongan-pelajar-yang-terguling-di-ciater-subang-terlambat-uji-kir"
-    },
-    {
-      "judul": "TPU Depok Siapkan Lubang Makam Jenazah Kecelakaan Bus Siswa SMK Lingga Kencana",
-      "link_berita": "https://news.republika.co.id/berita/sdctsz468/tpu-depok-siapkan-lubang-makam-jenazah-kecelakaan-bus-siswa-smk-lingga-kencana"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "BSI Perkuat Ekosistem Haji dan Umrah",
+      "link_berita": "https://sharia.republika.co.id/berita/sdebat490/bsi-perkuat-ekosistem-haji-dan-umrah",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:06"
+    },
+    {
+      "judul": "Dugaan Awal Penyebab Kecelakaan dan Misteri Nihil Jejak Rem Bus Wisata SMK Lingga Kencana",
+      "link_berita": "https://news.republika.co.id/berita/sddck3409/dugaan-awal-penyebab-kecelakaan-dan-misteri-nihil-jejak-rem-bus-wisata-smk-lingga-kencana",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:03:22"
+    },
+    {
+      "judul": "Mesir Ikut Afsel Gugat Israel di Mahkamah Internasional",
+      "link_berita": "https://www.republika.id/posts/52713/mesir-ikut-afsel-gugat-israel-di-mahkamah-internasional",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:02:22"
+    },
+    {
+      "judul": "Tak Keringkan Rambut Basah, Benarkah Bisa Bikin Sakit?",
+      "link_berita": "https://news.republika.co.id/berita/sddwtj425/tak-keringkan-rambut-basah-benarkah-bisa-bikin-sakit",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:02:22"
+    },
+    {
+      "judul": "Banjir Lahar Landa Sumbar, BMKG Rekomendasikan Teknologi Modifikasi Cuaca",
+      "link_berita": "https://news.republika.co.id/berita/sde9zi425/banjir-lahar-landa-sumbar-bmkg-rekomendasikan-teknologi-modifikasi-cuaca",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:47:22"
+    },
+    {
+      "judul": "Menggali Inspirasi Bisnis dari Kalimat Buat Apa Harta, Harta Tidak Dibawa Mati",
+      "link_berita": "https://retizen.republika.co.id/posts/306314/menggali-inspirasi-bisnis-dari-kalimat-buat-apa-harta-harta-tidak-dibawa-mati",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:47:22"
+    },
+    {
+      "judul": "Menag Melepas Kloter Pertama Jemaah Haji dengan Pesan Penting",
+      "link_berita": "https://topnews62.com/posts/306315/menag-melepas-kloter-pertama-jemaah-haji-dengan-pesan-penting",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:46:22"
+    },
+    {
+      "judul": "Israel Akui 50 Tentara Terluka dalam Sehari",
+      "link_berita": "https://www.republika.id/posts/52711/dikepung-pejuang-di-tiga-front-israel-akui-kerugian-terbesar-dalam-sehari",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:37:22"
+    },
+    {
+      "judul": "Masjid At Taqwa Wates Ngaliyan Diresmikan, Siap Jadi Pusat Dakwah Pemberdayaan Masyarakat",
+      "link_berita": "https://rejogja.republika.co.id/berita/sde9ck291/masjid-at-taqwa-wates-ngaliyan-diresmikan-siap-jadi-pusat-dakwah-pemberdayaan-masyarakat",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:34:22"
+    },
+    {
       "judul": "Klaim Israel Berhasil Taklukkan Pejuang Palestina Terbantahkan",
       "link_berita": "https://www.republika.id/posts/52706/klaim-israel-berhasil-taklukkan-pejuang-palestina-terbantahkan",
       "kategori": "Internasional",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:09:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:16:22"
     },
     {
       "judul": "Sendi Luncurkan MOBIL HEPI Gratis 24 Jam untuk Warga Kota Bogor",
       "link_berita": "https://news.republika.co.id/berita/sddogm318/sendi-luncurkan-mobil-hepi-gratis-24-jam-untuk-warga-kota-bogor",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:07:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:16:22"
     },
     {
       "judul": "Sebanyak 570 Jenazah Ditemukan di Tujuh Kuburan Massal di Gaza",
       "link_berita": "https://www.republika.id/posts/52704/sebanyak-570-jenazah-ditemukan-di-tujuh-kuburan-massal-di-gaza",
       "kategori": "Internasional",
-      "tanggal_terbit": "Sunday, 12 May 2024, 21:59:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:16:22"
     },
     {
       "judul": "Serangan Israel ke Jalur Gaza Makin Brutal",
       "link_berita": "https://www.republika.id/posts/52703/serangan-israel-ke-jalur-gaza-makin-brutal",
       "kategori": "Internasional",
-      "tanggal_terbit": "Sunday, 12 May 2024, 21:59:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:16:22"
     },
     {
       "judul": "Jemaah Haji Kloter Pertama Subang Diberangkatkan dari Bandara Kertajati Jawa Barat",
       "link_berita": "https://topnews62.com/posts/306303/jemaah-haji-kloter-pertama-subang-diberangkatkan-dari-bandara-kertajati-jawa-barat",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 12 May 2024, 21:53:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:16:22"
     },
     {
       "judul": "Tahun Terakhir Kaum Musyrikin Berhaji dan Tawaf Telanjang",
       "link_berita": "https://sumatralink.id/posts/306279/tahun-terakhir-kaum-musyrikin-berhaji-dan-tawaf-telanjang",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 12 May 2024, 21:53:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 22:16:22"
     },
     {
       "judul": "Depok Mayor Asks Tourism Bus to Be Evaluated",
       "link_berita": "https://en.republika.co.id/berita/sddkvi451/depok-mayor-asks-tourism-bus-to-be-evaluated",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:22"
     },
     {
       "judul": "Scholarships Info from Australia for Indonesian Students, here's the explanation",
       "link_berita": "https://en.republika.co.id/berita/sddks0451/scholarships-info-from-australia-for-indonesian-students-heres-the-explanation",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:22"
     },
     {
       "judul": "Bus yang Kecelakaan di Subang tak Uji Berkala Tiap 6 Bulan",
       "link_berita": "https://news.republika.co.id/berita/sddvrx425/bus-yang-kecelakaan-di-subang-tak-uji-berkala-tiap-6-bulan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Detik-Detik Kecelakaan Bus di Ciater Subang, Warga Lihat Korban Bergeletakan",
       "link_berita": "https://news.republika.co.id/berita/sdduj9425/detikdetik-kecelakaan-bus-di-ciater-subang-warga-lihat-korban-bergeletakan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Kunci Doa Dikabulkan",
       "link_berita": "https://iqra.republika.co.id/berita/sddj7f451/kunci-doa-dikabulkan",
       "kategori": "Iqra",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Perlawanan FH Hingga Membuat Begal di Jambi Tersungkur dan Tewas",
       "link_berita": "https://news.republika.co.id/berita/sddosf377/perlawanan-fh-hingga-membuat-begal-di-jambi-tersungkur-dan-tewas",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Main Message from the Governor of East Java to Hajj Worshippers",
       "link_berita": "https://en.republika.co.id/berita/sddj1h451/main-message-from-the-governor-of-east-java-to-hajj-worshippers",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:22"
     },
     {
       "judul": "Muzani Asks Gerindra Supporters to Win Mirzani as Governor of Lampung",
       "link_berita": "https://en.republika.co.id/berita/sddiyu451/muzani-asks-gerindra-supporters-to-win-mirzani-as-governor-of-lampung",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:22"
     },
     {
       "judul": "Kecanggihan AI di Google Cloud Next 2024: Gemini 1.5 Pro dan Transformasi Digital",
       "link_berita": "https://tekno.republika.co.id/berita/sddtvd349/kecanggihan-ai-di-google-cloud-next-2024-gemini-15-pro-dan-transformasi-digital",
       "kategori": "Tekno",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Kapasitas Pelaksana UPLAND Project Terus Ditingkatkan",
       "link_berita": "https://news.republika.co.id/berita/sddr0u456/kapasitas-pelaksana-upland-project-terus-ditingkatkan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Korban Banjir Bandang Agam Mengungsi di Bangunan Sekolah",
       "link_berita": "https://visual.republika.co.id/berita/sddlph375/korban-banjir-bandang-agam-mengungsi-di-bangunan-sekolah",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Stories of Survivors of SMK Depok Group Death Accident",
       "link_berita": "https://en.republika.co.id/berita/sddiqk451/stories-of-survivors-of-smk-depok-group-death-accident",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:22"
     },
     {
       "judul": "Kemenhub Bisa Cabut Izin PO Bus yang Kecelakaan di Subang",
       "link_berita": "https://news.republika.co.id/berita/sddtob425/kemenhub-bisa-cabut-izin-po-bus-yang-kecelakaan-di-subang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Keseruan Fansign Aktor Korea Ji Chang-wook di Jakarta, Fans Histeris",
       "link_berita": "https://ameera.republika.co.id/berita/sddta9425/keseruan-fansign-aktor-korea-ji-changwook-di-jakarta-fans-histeris",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 12 May 2024, 17:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 17:16:22"
     },
     {
       "judul": "Buka Rapimcab Kabupaten Tangerang, Ketua DPW PPP Banten: Makin Solid Jelang Pilkada 2024",
       "link_berita": "https://news.republika.co.id/berita/sddqf8456/buka-rapimcab-kabupaten-tangerang-ketua-dpw-ppp-banten-makin-solid-jelang-pilkada-2024",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Yayasan SMK Lingga Kencana Depok Panggil Panitia Study Tour",
       "link_berita": "https://news.republika.co.id/berita/sddt1c425/yayasan-smk-lingga-kencana-depok-panggil-panitia-study-tour",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Damri Angkut Calon Jamaah Haji di Kalsel",
       "link_berita": "https://ekonomi.republika.co.id/berita/sddqcq490/damri-angkut-calon-jamaah-haji-di-kalsel",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "KPAI Minta Pemilik PO Bus Tanggung Jawab atas Kelayakan Bus",
       "link_berita": "https://news.republika.co.id/berita/sddsn5425/kpai-minta-pemilik-po-bus-tanggung-jawab-atas-kelayakan-bus",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Akses Jalan Putus, Dua Desa di Konawe Utara Terisolasi",
       "link_berita": "https://visual.republika.co.id/berita/sddrng375/akses-jalan-putus-dua-desa-di-konawe-utara-terisolasi",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Profil Jiah, YouTuber Korea yang Digoda Oknum Kemenhub Hingga Viral",
       "link_berita": "https://ameera.republika.co.id/berita/sdds7q425/profil-jiah-youtuber-korea-yang-digoda-oknum-kemenhub-hingga-viral",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Kemenhub Ungkap Penggunaan Sabuk Pengaman Bisa Kurangi Fatalitas Kecelakaan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sddrq0490/kemenhub-ungkap-penggunaan-sabuk-pengaman-bisa-kurangi-fatalitas-kecelakaan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Ketum PSSI Minta Timnas Putri Tambah Kekuatan dari Pelatih Fisik Jepang",
       "link_berita": "https://sport.republika.co.id/berita/sddqt1456/ketum-pssi-minta-timnas-putri-tambah-kekuatan-dari-pelatih-fisik-jepang",
       "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Cek Pertanaman Padi di Sulsel, Ini Arahan Mentan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sddre6490/cek-pertanaman-padi-di-sulsel-ini-arahan-mentan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Antusiasme Warga Saat Presiden Jokowi Kunjungi Pusat Perbelanjaan di Kendari",
       "link_berita": "https://visual.republika.co.id/berita/sddnp8375/antusiasme-warga-saat-presiden-jokowi-kunjungi-pusat-perbelanjaan-di-kendari",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Two Foreigners Arrested by Saudi Police for Making Fake Hajj Advertisements",
       "link_berita": "https://en.republika.co.id/berita/sddise451/two-foreigners-arrested-by-saudi-police-for-making-fake-hajj-advertisements",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:16:22"
     },
     {
       "judul": "OJK Catat Transaksi Saham di Papua Capai Rp 167,73 Miliar",
       "link_berita": "https://ekonomi.republika.co.id/berita/sddob3490/ojk-catat-transaksi-saham-di-papua-capai-rp-16773-miliar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Layani Jamaah Haji, Ini Persiapan Bandara Angkasa Pura II",
       "link_berita": "https://ekonomi.republika.co.id/berita/sddqsp490/layani-jamaah-haji-ini-persiapan-bandara-angkasa-pura-ii",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Dorong Penumbuhan Petani Muda di Jawa Barat Berbuah Hasil",
       "link_berita": "https://news.republika.co.id/berita/sddpza456/dorong-penumbuhan-petani-muda-di-jawa-barat-berbuah-hasil",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 16:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 16:16:22"
     },
     {
       "judul": "Juventus Klub Terbaru yang Ajukan Ketertarikan kepada Mason Greenwood",
       "link_berita": "https://sport.republika.co.id/berita/sddnpi456/juventus-klub-terbaru-yang-ajukan-ketertarikan-kepada-mason-greenwood",
       "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "BSI Berangkatkan 83 Persen Jamaah Haji Indonesia Tahun 2024",
       "link_berita": "https://sharia.republika.co.id/berita/sddpw7490/bsi-berangkatkan-83-persen-jamaah-haji-indonesia-tahun-2024",
       "kategori": "Sharia",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "Vidic tak Masukkan Van Dijk Sebagai Bek Terbaik Liga Primer Inggris Musim Ini",
       "link_berita": "https://sport.republika.co.id/berita/sddpqz456/vidic-tak-masukkan-van-dijk-sebagai-bek-terbaik-liga-primer-inggris-musim-ini",
       "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "Ribuan Suporter Real Madrid Padati Cibeles, Rayakan Gelar Juara Liga Spanyol",
       "link_berita": "https://visual.republika.co.id/berita/sddndh375/ribuan-suporter-real-madrid-padati-cibeles-rayakan-gelar-juara-liga-spanyol",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "Pemindahan 21 Awak Kapal MT ARMAN 114 Dipersoalkan",
       "link_berita": "https://cari.republika.co.id/posts/306309/pemindahan-21-awak-kapal-mt-arman-114-dipersoalkan",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "Garuda Indonesia Terbangkan 4.232 Calon Jamaah Haji di Fase Pertama",
       "link_berita": "https://ekonomi.republika.co.id/berita/sddper490/garuda-indonesia-terbangkan-4232-calon-jamaah-haji-di-fase-pertama",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "Ini Jadwal dan Prediksi Starting XI Juventus Vs Salernitana",
       "link_berita": "https://sport.republika.co.id/berita/sddnul456/ini-jadwal-dan-prediksi-starting-xi-juventus-vs-salernitana",
       "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Kedatangan Jamaah Calon Haji Kloter Pertama di Madinah",
-      "link_berita": "https://visual.republika.co.id/berita/sddo24375/kedatangan-jamaah-calon-haji-kloter-pertama-di-madinah",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Garuda Indonesia Harap Tarif Batas Atas Tiket Pesawat Ditinjau Ulang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sddop6490/garuda-indonesia-harap-tarif-batas-atas-tiket-pesawat-ditinjau-ulang",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Persiapkan World Water Forum Ke-10, RI Ajukan Rancangan Deklarasi Menteri",
-      "link_berita": "https://news.republika.co.id/berita/sdczkn451/persiapkanworld-water-forum-ke10-ri-ajukan-rancangan-deklarasi-menteri",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Kesaksian Sopir Bus Maut, dari Rem Blong, Cari Jalur Darurat, Hingga Pilih Banting Setir",
-      "link_berita": "https://news.republika.co.id/berita/sddocj377/kesaksian-sopir-bus-maut-dari-rem-blong-cari-jalur-darurat-hingga-pilih-banting-setir",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Jalan Utama Padang-Bukittingi Putus Akibat Banjir Bandang",
-      "link_berita": "https://visual.republika.co.id/berita/sddlun375/jalan-utama-padangbukittingi-putus-akibat-banjir-bandang",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Says Yaqut Religious Affairs Minister Regarding Fast Track for Hajj",
-      "link_berita": "https://en.republika.co.id/berita/sddiu5451/says-yaqut-religious-affairs-minister-regarding-fast-track-for-hajj",
-      "kategori": "En",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:13:51"
-    },
-    {
-      "judul": "KAI Commuter Angkut 2,5 Juta Penumpang Selama Libur Panjang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sddnz8490/kai-commuter-angkut-25-juta-penumpang-selama-libur-panjang",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Para Pundit Bola Yakin MU Keok dari Arsenal, Selisih Kekalahan Minimal Dua Gol",
-      "link_berita": "https://sport.republika.co.id/berita/sddmwi456/para-pundit-bola-yakin-mu-keok-dari-arsenal-selisih-kekalahan-minimal-dua-gol",
-      "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 12 May 2024, 15:13:51"
-    },
-    {
-      "judul": "Incar Kemenangan di Old Trafford, Arteta tak Mau Terlena Performa Buruk MU Saat Ini",
-      "link_berita": "https://sport.republika.co.id/berita/sddmmy456/incar-kemenangan-di-old-trafford-arteta-tak-mau-terlena-performa-buruk-mu-saat-ini",
-      "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 12 May 2024, 14:13:51"
+      "tanggal_terbit": "Sunday, 12 May 2024, 15:16:22"
     },
     {
       "judul": "Tiga Orang Kembalikan Berkas Pendaftaran Bacabup ke PDIP Jember",
@@ -403,23 +403,23 @@
       "tanggal_terbit": "Sunday, 12 May 2024, 20:54:00"
     },
     {
-      "judul": "Kemenhub Ungkap Penggunaan Sabuk Pengaman Bisa Kurangi Fatalitas Kecelakaan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sddrq0490/kemenhub-ungkap-penggunaan-sabuk-pengaman-bisa-kurangi-fatalitas-kecelakaan",
+      "judul": "Damri Angkut Calon Jamaah Haji di Kalsel",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sddqcq490/damri-angkut-calon-jamaah-haji-di-kalsel",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Sunday, 12 May 2024, 23:13:00"
+      "tanggal_terbit": "Sunday, 12 May 2024, 23:34:00"
     },
     {
-      "judul": "BSI Berangkatkan 83 Persen Jamaah Haji Indonesia Tahun 2024",
-      "link_berita": "https://sharia.republika.co.id/berita/sddpw7490/bsi-berangkatkan-83-persen-jamaah-haji-indonesia-tahun-2024",
+      "judul": "BSI Perkuat Ekosistem Haji dan Umrah",
+      "link_berita": "https://sharia.republika.co.id/berita/sdebat490/bsi-perkuat-ekosistem-haji-dan-umrah",
       "kategori": "Keuangan Sharia",
-      "tanggal_terbit": "Sunday, 12 May 2024, 22:33:00"
+      "tanggal_terbit": "Monday, 13 May 2024, 06:16:00"
     },
     {
-      "judul": "Bus yang Kecelakaan di Subang tak Uji Berkala Tiap 6 Bulan",
-      "link_berita": "https://news.republika.co.id/berita/sddvrx425/bus-yang-kecelakaan-di-subang-tak-uji-berkala-tiap-6-bulan",
-      "kategori": "Nusantara",
-      "tanggal_terbit": "Monday, 13 May 2024, 00:40:00"
+      "judul": "Tak Keringkan Rambut Basah, Benarkah Bisa Bikin Sakit?",
+      "link_berita": "https://news.republika.co.id/berita/sddwtj425/tak-keringkan-rambut-basah-benarkah-bisa-bikin-sakit",
+      "kategori": "Umum",
+      "tanggal_terbit": "Monday, 13 May 2024, 06:02:00"
     }
   ],
-  "waktu_scraping": "Monday, 13 May 2024, 05:13:51"
+  "waktu_scraping": "Monday, 13 May 2024, 06:16:22"
 }
