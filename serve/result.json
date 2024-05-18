@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Anak yang Depresi karena HP Dijual Ibu Dapat Pendampingan Pemulihan",
+      "link_berita": "https://ameera.republika.co.id/berita/sdofqm425/anak-yang-depresi-karena-hp-dijual-ibu-dapat-pendampingan-pemulihan"
+    },
+    {
       "judul": "Di Peradaban Islam Terdahulu Justru Mahasiswa yang Diupah, Kok Bisa?",
       "link_berita": "https://news.republika.co.id/berita/sdof4i393/di-peradaban-islam-terdahulu-justru-mahasiswa-yang-diupah-kok-bisa"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Pemerintah Beri Relaksasi Kebijakan Larangan Pembatasan Barang Impor",
       "link_berita": "https://republika.co.id/berita/sdo4f6349/pemerintah-beri-relaksasi-kebijakan-larangan-pembatasan-barang-impor"
-    },
-    {
-      "judul": "Ini Barang-barang yang Dilarang untuk Dibawa Jamaah Haji",
-      "link_berita": "https://ihram.republika.co.id/berita/sdnq16451/ini-barangbarang-yang-dilarang-untuk-dibawa-jamaah-haji"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Gelandang Timnas Palestina Ini Senang Segera Hadapi Persib",
+      "link_berita": "https://sport.republika.co.id/berita/sdogs1456/gelandang-timnas-palestina-ini-senang-segera-hadapi-persib"
+    },
+    {
+      "judul": "Sekjen: Muktamar PBB Bakal Pilih Pengganti Yusril",
+      "link_berita": "https://news.republika.co.id/berita/sdoddq330/sekjen-muktamar-pbb-bakal-pilih-pengganti-yusril"
+    },
+    {
+      "judul": "Keluhan Enzy Storia, Stafsus Menkeu: Tas Ada di PJT, Bukan di Bea Cukai",
+      "link_berita": "https://news.republika.co.id/berita/sdo3nu330/keluhan-enzy-storia-stafsus-menkeu-tas-ada-di-pjt-bukan-di-bea-cukai"
+    },
     {
       "judul": "Bukan Hanya Harta, Hal Sederhana ini Juga Sedekah Lho",
       "link_berita": "https://islamdigest.republika.co.id/berita/sdo5ni451/bukan-hanya-harta-hal-sederhana-ini-juga-sedekah-lho"
@@ -69,320 +81,308 @@
     {
       "judul": "Dewan Pers: RUU Penyiaran Upaya Kesekian Kali Berangus Kebebasan Pers di Indonesia",
       "link_berita": "https://news.republika.co.id/berita/sdmv20409/dewan-pers-ruu-penyiaran-upaya-kesekian-kali-berangus-kebebasan-pers-di-indonesia"
-    },
-    {
-      "judul": "Pertemuan Nabi Khidir dan Nabi Musa yang Diabadikan Alquran",
-      "link_berita": "https://iqra.republika.co.id/berita/sdn1k1320/pertemuan-nabi-khidir-dan-nabi-musa-yang-diabadikan-alquran"
-    },
-    {
-      "judul": "Risma Pastikan akan Pindahkan Posko Pengungsi Korban Banjir Bandang Sumbar ke Tempat Aman",
-      "link_berita": "https://news.republika.co.id/berita/sdmr27409/risma-pastikan-akan-pindahkan-posko-pengungsi-korban-banjir-bandang-sumbar-ke-tempat-aman"
-    },
-    {
-      "judul": "Epy Kusnandar Ngeganja di Atas Pohon Apartemen Kalibata Saat Subuh",
-      "link_berita": "https://ameera.republika.co.id/berita/sdmxci414/epy-kusnandar-ngeganja-di-atas-pohon-apartemen-kalibata-saat-subuh"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pemkot Bandung Minta Suporter Persib Tidak Euforia Berlebihan",
+      "link_berita": "https://sport.republika.co.id/berita/sdof6b330/pemkot-bandung-minta-suporter-persib-tidak-euforia-berlebihan",
+      "kategori": "Sport",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "PBB Usulkan Afriansyah, Yusril, dan Fahri Bachmid Jadi Menteri Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/sdoh9k484/pbb-usulkan-afriansyah-yusril-dan-fahri-bachmid-jadi-menteri-prabowo",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Luhut: Upacara Segara Kerthi Jadi Bukti Indonesia Peduli Terhadap Sumber Air",
+      "link_berita": "https://esgnow.republika.co.id/berita/sdoh50328/luhut-upacara-segara-kerthi-jadi-bukti-indonesia-peduli-terhadap-sumber-air",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Kemenkes: Hipertensi Penyebab Kematian Keempat Tertinggi di RI",
+      "link_berita": "https://ameera.republika.co.id/berita/sdogxe502/kemenkes-hipertensi-penyebab-kematian-keempat-tertinggi-di-ri",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Gelandang Timnas Palestina Ini Senang Segera Hadapi Persib",
+      "link_berita": "https://sport.republika.co.id/berita/sdogs1456/gelandang-timnas-palestina-ini-senang-segera-hadapi-persib",
+      "kategori": "Sport",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Proses Pencarian Korban Banjir Bandang di Lembah Anai",
+      "link_berita": "https://visual.republika.co.id/berita/sdognd375/proses-pencarian-korban-banjir-bandang-di-lembah-anai",
+      "kategori": "Visual",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Petugas: Gunung Semeru Erupsi 6 Kali Hari Ini",
+      "link_berita": "https://news.republika.co.id/berita/sdodzr330/petugas-gunung-semeru-erupsi-6-kali-hari-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Jamaah Harus Selalu Kenakan ID Card Agar Mudah Dikenali Jika Tersesat",
+      "link_berita": "https://ihram.republika.co.id/berita/sdogkk502/jamaah-harus-selalu-kenakan-id-card-agar-mudah-dikenali-jika-tersesat",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Badan Geologi: Aktivitas Erupsi Gunung Ile Lewotolok Masih Tinggi",
+      "link_berita": "https://news.republika.co.id/berita/sdog53502/badan-geologi-aktivitas-erupsi-gunung-ile-lewotolok-masih-tinggi",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "OJK Belum Terima Pengajuan Tertulis Akuisisi Bank Nobu oleh Hanwha",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdofu8502/ojk-belum-terima-pengajuan-tertulis-akuisisi-bank-nobu-oleh-hanwha",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Anak yang Depresi karena HP Dijual Ibu Dapat Pendampingan Pemulihan",
+      "link_berita": "https://ameera.republika.co.id/berita/sdofqm425/anak-yang-depresi-karena-hp-dijual-ibu-dapat-pendampingan-pemulihan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Wantim Golkar Rekomendasikan Ahmed Zaki ke Pilkada Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sdodua330/wantim-golkar-rekomendasikan-ahmed-zaki-ke-pilkada-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
+      "judul": "Tak Semua Orang Kaya Beruntung, Lantas Siapa? Ini Pesan Rasulullah SAW",
+      "link_berita": "https://iqra.republika.co.id/berita/sdof8x320/tak-semua-orang-kaya-beruntung-lantas-siapa-ini-pesan-rasulullah-saw",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
+    },
+    {
       "judul": "MIND ID dan Dekranas Berkolaborasi Dukung UMK Kreatif di Pameran Nasional",
       "link_berita": "https://esgnow.republika.co.id/berita/sdoebq349/mind-id-dan-dekranas-berkolaborasi-dukung-umk-kreatif-di-pameran-nasional",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Di Peradaban Islam Terdahulu Justru Mahasiswa yang Diupah, Kok Bisa?",
       "link_berita": "https://news.republika.co.id/berita/sdof4i393/di-peradaban-islam-terdahulu-justru-mahasiswa-yang-diupah-kok-bisa",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Panglima Perang Diponegoro Meracuni Penginjil Belanda di Tondano, Benarkah?",
       "link_berita": "https://oohya.republika.co.id/lincak/1744665834/panglima-perang-diponegoro-meracuni-penginjil-belanda-di-tondano-benarkah",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Ratusan Atlet dari 10 Negara Ikuti Kejuaraan Dunia Barongsai",
       "link_berita": "https://visual.republika.co.id/berita/sdoezk375/ratusan-atlet-dari-10-negara-ikuti-kejuaraan-dunia-barongsai",
       "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "UIN Sunan Ampel Panggil Oknum Mahasiswanya yang Terekam Mesum, Begini Hasilnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sdoewc320/uin-sunan-ampel-panggil-oknum-mahasiswanya-yang-terekam-mesum-begini-hasilnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Bertemua Alumni Pesantren Tebuireng, Ini Pesan Wapres",
       "link_berita": "https://khazanah.republika.co.id/berita/sdoehu320/bertemua-alumni-pesantren-tebuireng-ini-pesan-wapres",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Polisi: Penumpang Harus Berani Tegur Sopir Bus yang Ugal-ugalan",
       "link_berita": "https://news.republika.co.id/berita/sdodwe349/polisi-penumpang-harus-berani-tegur-sopir-bus-yang-ugalugalan",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Al-Qarawiyyan, Universitas Tertua di Dunia Dibangun Muslim di Afrika",
       "link_berita": "https://islamdigest.republika.co.id/berita/sdodzf430/alqarawiyyan-universitas-tertua-di-dunia-dibangun-muslim-di-afrika",
       "kategori": "Islam Digest",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Sekjen: Muktamar PBB Bakal Pilih Pengganti Yusril",
       "link_berita": "https://news.republika.co.id/berita/sdoddq330/sekjen-muktamar-pbb-bakal-pilih-pengganti-yusril",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "IKA FKG Sambut Positif Wacana Perubahan Status Universitas Trisakti",
       "link_berita": "https://news.republika.co.id/berita/sdodm7430/ika-fkg-sambut-positif-wacana-perubahan-status-universitas-trisakti",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Kontainer Menumpuk di Pelabuhan, Relaksasi Kebijakan Pembatasan Barang Impor Diberikan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdodf3502/kontainer-menumpuk-di-pelabuhan-relaksasi-kebijakan-pembatasan-barang-impor-diberikan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Usai Revisi Permendag, Menko Airlangga Minta Kontainer Tertahan di Pelabuhan Bisa Dirilis",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdodev349/usai-revisi-permendag-menko-airlangga-minta-kontainer-tertahan-di-pelabuhan-bisa-dirilis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Fokus Pembangunan Konektivitas ke Depan Diarahkan ke Timur Indonesia",
       "link_berita": "https://news.republika.co.id/berita/sdocne456/fokus-pembangunan-konektivitas-ke-depan-diarahkan-ke-timur-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Mentan Gandeng TNI Kawal Optimasi Program Pompanisasi di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdod1u349/mentan-gandeng-tni-kawal-optimasi-program-pompanisasi-di-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Khofifah Yakin Jatim Bakal Berperan Signifikan Usai Ibu Kota Pindah",
       "link_berita": "https://news.republika.co.id/berita/sdoczo330/khofifah-yakin-jatim-bakal-berperan-signifikan-usai-ibu-kota-pindah",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Peluang Dibalik Pangsa Pasar Perbankan Syariah yang Masih Rendah",
       "link_berita": "https://sharia.republika.co.id/berita/sdoc9u502/peluang-dibalik-pangsa-pasar-perbankan-syariah-yang-masih-rendah",
       "kategori": "Sharia",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Yusril: Ada Wacana Kementerian Bertambah Jadi 40",
       "link_berita": "https://news.republika.co.id/berita/sdoc95456/yusril-ada-wacana-kementerian-bertambah-jadi-40",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Marak Komersialisasi Pendidikan, Begini Peringatan Imam Al-Ghazali",
       "link_berita": "https://news.republika.co.id/berita/sdobyk393/marak-komersialisasi-pendidikan-begini-peringatan-imam-alghazali",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "UMM Kukuhkan Dua Profesor Baru Kaji Ekonomi dan SDGs",
       "link_berita": "https://news.republika.co.id/berita/sdobbo291/umm-kukuhkan-dua-profesor-baru-kaji-ekonomi-dan-sdgs",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Human Trafficking: Krisis Kemanusiaan yang Membudaya",
       "link_berita": "https://retizen.republika.co.id/posts/307405/human-trafficking-krisis-kemanusiaan-yang-membudaya",
       "kategori": "Retizen",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Keluhan Enzy Storia, Stafsus Menkeu: Tas Ada di PJT, Bukan di Bea Cukai",
       "link_berita": "https://news.republika.co.id/berita/sdo3nu330/keluhan-enzy-storia-stafsus-menkeu-tas-ada-di-pjt-bukan-di-bea-cukai",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Catat, Jadwal F1 Emilia Romagna 2024 di Italia",
       "link_berita": "https://motoresto.id/posts/307413/catat-jadwal-f1-emilia-romagna-2024-di-italia",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Mobil Mungil Hatchback Ini Masih Jadi Backbone Penjualan Honda, Diikuti HR-V dan WR-V",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdoatt349/mobil-mungil-hatchback-ini-masih-jadi-backbone-penjualan-honda-diikuti-hrv-dan-wrv",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "PBB akan Usung Anak Yusril Jadi Cawagub Bangka Belitung",
       "link_berita": "https://news.republika.co.id/berita/sdoaen484/pbb-akan-usung-anak-yusril-jadi-cawagub-bangka-belitung",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Kadisdik Jabar Diganti, Cegah Kecurangan, Gubernur Minta Pelaksana PPDB Tanda Tangani Pakta Integritas",
       "link_berita": "https://ruzka.republika.co.id/nasional/1674665610/kadisdik-jabar-diganti-cegah-kecurangan-gubernur-minta-pelaksana-ppdb-tanda-tangani-pakta-integritas",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Kemenhub Dorong Pengamanan Pelabuhan Terkait Cyber Security",
       "link_berita": "https://news.republika.co.id/berita/sdoa56484/kemenhub-dorong-pengamanan-pelabuhan-terkait-cyber-security",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Ini Cara Deteksi Dini Masalah Pada Rem Mobil Menurut Pakar Otomotif ITB",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdoa24349/ini-cara-deteksi-dini-masalah-pada-rem-mobil-menurut-pakar-otomotif-itb",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Bagaimana Cara Sujud Sahwi? Begini Penjelasannya",
       "link_berita": "https://islamdigest.republika.co.id/berita/sdo9z3451/bagaimana-cara-sujud-sahwi-begini-penjelasannya",
       "kategori": "Islam Digest",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Doa Berlindung dari Beberapa Keburukan",
       "link_berita": "https://iqra.republika.co.id/berita/sdo9v0451/doa-berlindung-dari-beberapa-keburukan",
       "kategori": "Iqra",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "MRT Jakarta Layani Penumpang Hingga Pukul 01.00 WIB Saat Sabtu dan Ahad",
       "link_berita": "https://news.republika.co.id/berita/sdo9rc484/mrt-jakarta-layani-penumpang-hingga-pukul-0100-wib-saat-sabtu-dan-ahad",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Jadwal Semifinal Leg Kedua Championship Series Liga 1 Persib Vs Bali United Malam Ini",
       "link_berita": "https://sport.republika.co.id/berita/sdo9mb456/jadwal-semifinal-leg-kedua-championship-series-liga-1-persib-vs-bali-united-malam-ini",
       "kategori": "Sport",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Polisi Jemput 3 Remaja Terlibat Tawuran di Johar Baru",
       "link_berita": "https://news.republika.co.id/berita/sdo3g0330/polisi-jemput-3-remaja-terlibat-tawuran-di-johar-baru",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Competency Development Program 2024: Inisiatif Baru Pertamina dalam Transformasi Budaya",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdo910349/competency-development-program-2024-inisiatif-baru-pertamina-dalam-transformasi-budaya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Hasil Rakerkomwil III APEKSI di Depok, Ada 28 Rekomendasi Usulan untuk Rakernas",
       "link_berita": "https://ruzka.republika.co.id/nasional/1674665530/hasil-rakerkomwil-iii-apeksi-di-depok-ada-28-rekomendasi-usulan-untuk-rakernas",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Sidang Etik dengan Agenda Pembelaan Nurul Ghufron Digelar Senin",
       "link_berita": "https://news.republika.co.id/berita/sdo36h330/sidang-etik-dengan-agenda-pembelaan-nurul-ghufron-digelar-senin",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Ubah Lanskap Industri BPR dan BPR Syariah, OJK Terbitkan Aturan Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdo7pi349/ubah-lanskap-industri-bpr-dan-bpr-syariah-ojk-terbitkan-aturan-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Yusril: Presiden Terpilih Pasti Ditekan Soal Jatah Menteri Partai non-Parlemen",
       "link_berita": "https://news.republika.co.id/berita/sdo7of484/yusril-presiden-terpilih-pasti-ditekan-soal-jatah-menteri-partai-nonparlemen",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Tiga Macam Ujian Dari Allah",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sdo5uf451/tiga-macam-ujian-dari-allah",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Bukan Hanya Harta, Hal Sederhana ini Juga Sedekah Lho",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sdo5ni451/bukan-hanya-harta-hal-sederhana-ini-juga-sedekah-lho",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Usai Golkar, Khofifah Sebut PPP Bakal Menyusul untuk Mendukungnya",
-      "link_berita": "https://news.republika.co.id/berita/sdo30p330/usai-golkar-khofifah-sebut-ppp-bakal-menyusul-untuk-mendukungnya",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Doa Terhindar dari Sifat Tamak",
-      "link_berita": "https://iqra.republika.co.id/berita/sdo4d8451/doa-terhindar-dari-sifat-tamak",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Titiek Soeharto Pertama Kalinya Naik Kereta Cepat Whoosh",
-      "link_berita": "https://seputarmiliter.id/posts/307398/titiek-soeharto-pertama-kalinya-naik-kereta-cepat-whoosh",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Transaksi di Merchant dengan DIGI, DigiCash dan QRIS bank bjb Bisa Dapat Diskon Menarik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdo527349/transaksi-di-merchant-dengan-digi-digicash-dan-qris-bank-bjb-bisa-dapat-diskon-menarik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Airlangga Sebut Raffi Ahmad Berpeluang Diusung di Pilkada Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sdo2ve330/airlangga-sebut-raffi-ahmad-berpeluang-diusung-di-pilkada-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Menggantungkan Harapan Hanya Kepada Allah",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sdo47e451/menggantungkan-harapan-hanya-kepada-allah",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Pemerintah Beri Relaksasi Kebijakan Larangan Pembatasan Barang Impor",
-      "link_berita": "https://republika.co.id/berita/sdo4f6349/pemerintah-beri-relaksasi-kebijakan-larangan-pembatasan-barang-impor",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Komik Republika Si Calus 'Kuliah'",
-      "link_berita": "https://visual.republika.co.id/berita/sdo4yt375/komik-republika-si-calus-kuliah",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Pesan Nabi Muhammad SAW soal Sikap Fanatik Berlebihan terhadap Sosok",
-      "link_berita": "https://islamdigest.republika.co.id/berita/sdo40d451/pesan-nabi-muhammad-saw-soal-sikap-fanatik-berlebihan-terhadap-sosok",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "Serunya Lomba Panjat Bakpao Setinggi 14 Meter",
-      "link_berita": "https://tv.republika.co.id/berita/sdo4jf467/serunya-lomba-panjat-bakpao-setinggi-14-meter",
-      "kategori": "Video",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
-    },
-    {
-      "judul": "BNI Amsterdam Jadi Solusi Perbankan untuk 1,7 Juta Diaspora Indonesia di Belanda",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdo3vd349/bni-amsterdam-jadi-solusi-perbankan-untuk-17-juta-diaspora-indonesia-di-belanda",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 18 May 2024, 10:15:40"
+      "tanggal_terbit": "Saturday, 18 May 2024, 11:12:23"
     },
     {
       "judul": "Relawan Dukung Duet Anies-Ahok, tak Khawatir Kehilangan Pendukung",
@@ -391,22 +391,22 @@
       "tanggal_terbit": "Tuesday, 14 May 2024, 13:28:00"
     },
     {
-      "judul": "Setelah Kedapatan Minum Starbucks, Agnez Mo Ancam Gugat Warganet yang Satu Ini",
-      "link_berita": "https://ameera.republika.co.id/berita/sdo0oe414/setelah-kedapatan-minum-starbucks-agnez-mo-ancam-gugat-warganet-yang-satu-ini",
-      "kategori": "Happening",
-      "tanggal_terbit": "Saturday, 18 May 2024, 12:02:00"
+      "judul": "Kemenkes: Hipertensi Penyebab Kematian Keempat Tertinggi di RI",
+      "link_berita": "https://ameera.republika.co.id/berita/sdogxe502/kemenkes-hipertensi-penyebab-kematian-keempat-tertinggi-di-ri",
+      "kategori": "Health",
+      "tanggal_terbit": "Saturday, 18 May 2024, 17:53:00"
     },
     {
-      "judul": "KLHK Sebut Ada Potensi Lebih Banyak Penemuan Jenis Anggrek di Papua",
-      "link_berita": "https://esgnow.republika.co.id/berita/sdmna2457/klhk-sebut-ada-potensi-lebih-banyak-penemuan-jenis-anggrek-di-papua",
+      "judul": "Luhut: Upacara Segara Kerthi Jadi Bukti Indonesia Peduli Terhadap Sumber Air",
+      "link_berita": "https://esgnow.republika.co.id/berita/sdoh50328/luhut-upacara-segara-kerthi-jadi-bukti-indonesia-peduli-terhadap-sumber-air",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 17 May 2024, 19:40:00"
+      "tanggal_terbit": "Saturday, 18 May 2024, 17:58:00"
     },
     {
-      "judul": "Kontainer Menumpuk di Pelabuhan, Relaksasi Kebijakan Pembatasan Barang Impor Diberikan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdodf3502/kontainer-menumpuk-di-pelabuhan-relaksasi-kebijakan-pembatasan-barang-impor-diberikan",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Saturday, 18 May 2024, 16:37:00"
+      "judul": "OJK Belum Terima Pengajuan Tertulis Akuisisi Bank Nobu oleh Hanwha",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdofu8502/ojk-belum-terima-pengajuan-tertulis-akuisisi-bank-nobu-oleh-hanwha",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Saturday, 18 May 2024, 17:30:00"
     },
     {
       "judul": "Peluang Dibalik Pangsa Pasar Perbankan Syariah yang Masih Rendah",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Saturday, 18 May 2024, 16:13:00"
     },
     {
-      "judul": "Di Peradaban Islam Terdahulu Justru Mahasiswa yang Diupah, Kok Bisa?",
-      "link_berita": "https://news.republika.co.id/berita/sdof4i393/di-peradaban-islam-terdahulu-justru-mahasiswa-yang-diupah-kok-bisa",
-      "kategori": "Selarung",
-      "tanggal_terbit": "Saturday, 18 May 2024, 17:14:00"
+      "judul": "PBB Usulkan Afriansyah, Yusril, dan Fahri Bachmid Jadi Menteri Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/sdoh9k484/pbb-usulkan-afriansyah-yusril-dan-fahri-bachmid-jadi-menteri-prabowo",
+      "kategori": "Politik",
+      "tanggal_terbit": "Saturday, 18 May 2024, 18:00:00"
     }
   ],
-  "waktu_scraping": "Saturday, 18 May 2024, 17:15:40"
+  "waktu_scraping": "Saturday, 18 May 2024, 18:12:23"
 }
