@@ -1,7 +1,15 @@
 {
   "berita_headline": [
     {
-      "judul": "Jangan 'Sembarangan Bicara di Tanah Suci'",
+      "judul": "Abu Ubaidah: 100 Kendaraan IDF Hancur dalam 10 Hari",
+      "link_berita": "https://internasional.republika.co.id/berita/sdnnpi393/abu-ubaidah-100-kendaraan-idf-hancur-dalam-10-hari"
+    },
+    {
+      "judul": "Dunia Serukan Boikot, tapi Masih Saja Ada yang Beli KFC dan McD di Sekitar Masjid Nabawi",
+      "link_berita": "https://ihram.republika.co.id/berita/sdnme0414/dunia-serukan-boikot-tapi-masih-saja-ada-yang-beli-kfc-dan-mcd-di-sekitar-masjid-nabawi"
+    },
+    {
+      "judul": "Jangan 'Sembarangan Bicara' di Tanah Suci",
       "link_berita": "https://ihram.republika.co.id/berita/sdnjxx430/jangan-sembarangan-bicara-di-tanah-suci"
     },
     {
@@ -11,17 +19,17 @@
     {
       "judul": "BEM SI: Masalah UKT Buntut dari Aturan Mendikbudristek",
       "link_berita": "https://news.republika.co.id/berita/sdmt9v349/bem-si-masalah-ukt-buntut-dari-aturan-mendikbudristek"
-    },
-    {
-      "judul": "KPK Sita Dokumen dan Bukti Elektronik Saat Geledah Rumah Adik SYL",
-      "link_berita": "https://news.republika.co.id/berita/sdn6cu377/kpk-sita-dokumen-dan-bukti-elektronik-saat-geledah-rumah-adik-syl"
-    },
-    {
-      "judul": "Israel tak Henti Lancarkan Serangan Udara, Empat Jurnalis Gugur di Gaza",
-      "link_berita": "https://internasional.republika.co.id/berita/sdn2uk414/israel-tak-henti-lancarkan-serangan-udara-empat-jurnalis-gugur-di-gaza"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Sudah 8 Tahun Berlalu, Mengapa Tersangka Pembunuh Vina Masih Ada yang Belum Tertangkap?",
+      "link_berita": "https://news.republika.co.id/berita/sdno8n414/sudah-8-tahun-berlalu-mengapa-tersangka-pembunuh-vina-masih-ada-yang-belum-tertangkap"
+    },
+    {
+      "judul": "Jangan Buka Jendela, Kualitas Udara Jakarta tidak Sehat Pagi Ini",
+      "link_berita": "https://news.republika.co.id/berita/sdnmzp414/jangan-buka-jendela-kualitas-udara-jakarta-tidak-sehat-pagi-ini"
+    },
     {
       "judul": "Nurul Ghufron tak Hadir, Dewas KPK Tunda Sidang Pembelaan",
       "link_berita": "https://news.republika.co.id/berita/sdnk5j409/nurul-ghufron-tak-hadir-dewas-kpk-tunda-sidang-pembelaan"
@@ -73,316 +81,308 @@
     {
       "judul": "Kisah Ummu Syarik dan Air Misterius yang Membuat Penduduk Makkah Bersyahadat",
       "link_berita": "https://islamdigest.republika.co.id/berita/sdmjxm320/kisah-ummu-syarik-dan-air-misterius-yang-membuat-penduduk-makkah-bersyahadat"
-    },
-    {
-      "judul": "Al Muktabar Kembali Dilantik Menjadi Pj Gubernur Banten",
-      "link_berita": "https://news.republika.co.id/berita/sdmjq2423/al-muktabar-kembali-dilantik-menjadi-pj-gubernur-banten"
-    },
-    {
-      "judul": "FIFA Terus Tunda Sanksi untuk Israel",
-      "link_berita": "https://sport.republika.co.id/berita/sdmgxu393/fifa-terus-tunda-sanksi-untuk-israel"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Dua Wakil Indonesia Siap Berlaga di Semifinal Thailand Open 2024",
+      "link_berita": "https://sport.republika.co.id/berita/sdnp69409/dua-wakil-indonesia-siap-berlaga-di-semifinal-thailand-open-2024",
+      "kategori": "Sport",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Viral Dugaan Mahasiswa UINSA Mesum di Kampus, Ini Penjelasan Wakil Rektor",
+      "link_berita": "https://rejogja.republika.co.id/berita/sdnpok432/viral-dugaan-mahasiswa-uinsa-mesum-di-kampus-ini-penjelasan-wakil-rektor",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Mau Masuk SMA/SMK, Pelajar Sultra Harus Punya Surat Keterangan Bebas Narkoba",
+      "link_berita": "https://news.republika.co.id/berita/sdnpmd414/mau-masuk-smasmk-pelajar-sultra-harus-punya-surat-keterangan-bebas-narkoba",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Clarkia Floristry Gelar Workshop Merangkai Bunga Musim Semi di Jakarta",
+      "link_berita": "https://cari.republika.co.id/posts/307335/clarkia-floristry-gelar-workshop-merangkai-bunga-musim-semi-di-jakarta",
+      "kategori": "Network",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Golkar Buka Peluang Usung Airin di Pilkada Banten",
+      "link_berita": "https://news.republika.co.id/berita/sdno03409/golkar-buka-peluang-usung-airin-di-pilkada-banten",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Khofifah-Emil Klaim Jalin Komunikasi dengan PDIP untuk Pilkada Jatim",
+      "link_berita": "https://news.republika.co.id/berita/sdnnry409/khofifahemil-klaim-jalin-komunikasi-dengan-pdip-untuk-pilkada-jatim",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Sudah 8 Tahun Berlalu, Mengapa Tersangka Pembunuh Vina Masih Ada yang Belum Tertangkap?",
+      "link_berita": "https://news.republika.co.id/berita/sdno8n414/sudah-8-tahun-berlalu-mengapa-tersangka-pembunuh-vina-masih-ada-yang-belum-tertangkap",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Israel Harus Dihentikan untuk Menjamin Kehidupan Rakyat Palestina",
+      "link_berita": "https://khazanah.republika.co.id/berita/sdnmhl430/israel-harus-dihentikan-untuk-menjamin-kehidupan-rakyat-palestina",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Abu Ubaidah: 100 Kendaraan IDF Hancur dalam 10 Hari",
+      "link_berita": "https://internasional.republika.co.id/berita/sdnnpi393/abu-ubaidah-100-kendaraan-idf-hancur-dalam-10-hari",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Jadwal Serie A Liga Italia Pekan Ke-37",
+      "link_berita": "https://sport.republika.co.id/berita/sdnnl0409/jadwal-serie-a-liga-italia-pekan-ke37",
+      "kategori": "Sport",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Ada Planet Baru! Seukuran Bumi, Tampak Mengorbit Bintang Kecil Bersuhu Dingin Banget",
+      "link_berita": "https://tekno.republika.co.id/berita/sdn4jd414/ada-planet-baru-seukuran-bumi-tampak-mengorbit-bintang-kecil-bersuhu-dingin-banget",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Jangan Buka Jendela, Kualitas Udara Jakarta tidak Sehat Pagi Ini",
+      "link_berita": "https://news.republika.co.id/berita/sdnmzp414/jangan-buka-jendela-kualitas-udara-jakarta-tidak-sehat-pagi-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Animo Masyarakat Diprediksi Tinggi Saksikan UCI MTB 2024 di Palangka Raya",
+      "link_berita": "https://sport.republika.co.id/berita/sdnmst456/animo-masyarakat-diprediksi-tinggi-saksikan-uci-mtb-2024-di-palangka-raya",
+      "kategori": "Sport",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Arab Saudi Terapkan Teknologi Jalan Inovatif untuk Musim Haji",
+      "link_berita": "https://ihram.republika.co.id/berita/sdnks2430/arab-saudi-terapkan-teknologi-jalan-inovatif-untuk-musim-haji",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Dunia Serukan Boikot, tapi Masih Saja Ada yang Beli KFC dan McD di Sekitar Masjid Nabawi",
+      "link_berita": "https://ihram.republika.co.id/berita/sdnme0414/dunia-serukan-boikot-tapi-masih-saja-ada-yang-beli-kfc-dan-mcd-di-sekitar-masjid-nabawi",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Lokasi Layanan SIM Keliling Akhir Pekan di Jakarta, Depok, dan Bekasi",
+      "link_berita": "https://news.republika.co.id/berita/sdnlwk409/lokasi-layanan-sim-keliling-akhir-pekan-di-jakarta-depok-dan-bekasi",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Tak Hanya yang Lewat Laut Merah, Semua Kapal Menuju Israel Jadi Target Houthi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdnltj472/tak-hanya-yang-lewat-laut-merah-semua-kapal-menuju-israel-jadi-target-houthi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Bermain Imbang 2-2 Lawan Fiorentina, Napoli Turun Satu Peringkat",
+      "link_berita": "https://sport.republika.co.id/berita/sdnkl9409/bermain-imbang-22-lawan-fiorentina-napoli-turun-satu-peringkat",
+      "kategori": "Sport",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "Arab Saudi: Insiden Garuda tidak Berdampak pada Transportasi Haji",
+      "link_berita": "https://ihram.republika.co.id/berita/sdnkc8430/arab-saudi-insiden-garuda-tidak-berdampak-pada-transportasi-haji",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
+      "judul": "BMKG Prakirakan Seluruh Wilayah Jakata Cerah Berawan Sepanjang Sabtu",
+      "link_berita": "https://news.republika.co.id/berita/sdnkdb409/bmkg-prakirakan-seluruh-wilayah-jakata-cerah-berawan-sepanjang-sabtu",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
+    },
+    {
       "judul": "Juventus Resmi Pecat Pelatih Massimiliano Allegri Sehari Setelah Juara Copa Italia",
       "link_berita": "https://sport.republika.co.id/berita/sdnkkt348/juventus-resmi-pecat-pelatih-massimiliano-allegri-sehari-setelah-juara-copa-italia",
       "kategori": "Sport",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Nurul Ghufron tak Hadir, Dewas KPK Tunda Sidang Pembelaan",
       "link_berita": "https://news.republika.co.id/berita/sdnk5j409/nurul-ghufron-tak-hadir-dewas-kpk-tunda-sidang-pembelaan",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
-      "judul": "Jangan 'Sembarangan Bicara di Tanah Suci'",
+      "judul": "Jangan 'Sembarangan Bicara' di Tanah Suci",
       "link_berita": "https://ihram.republika.co.id/berita/sdnjxx430/jangan-sembarangan-bicara-di-tanah-suci",
       "kategori": "Ihram",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Kisah Nyata Viral 'Jin Poli Gigi' Dijadikan Film Horor Thriller, Baim Wong Sutradaranya",
       "link_berita": "https://ameera.republika.co.id/berita/sdn3t8414/kisah-nyata-viral-jin-poli-gigi-dijadikan-film-horor-thriller-baim-wong-sutradaranya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Asyik, Ini Dia Deretan Film Seru Tayang Akhir Mei, Ada Garfield!",
       "link_berita": "https://impresi.republika.co.id/leisure/1694664074/asyik-ini-dia-deretan-film-seru-tayang-akhir-mei-ada-garfield",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Bahaya Ada di Mana-Mana, Apa yang Harus Diketahui Anak Tentang Cara Melindungi Diri?",
       "link_berita": "https://ameera.republika.co.id/berita/sdn23v414/bahaya-ada-di-manamana-apa-yang-harus-diketahui-anak-tentang-cara-melindungi-diri",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "BEM SI: Masalah UKT Buntut dari Aturan Mendikbudristek",
       "link_berita": "https://news.republika.co.id/berita/sdmt9v349/bem-si-masalah-ukt-buntut-dari-aturan-mendikbudristek",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Jangan Sampai Lolos, Ini Dia Fitur Paling Menarik di Android 15",
       "link_berita": "https://impresi.republika.co.id/didaktika/1694664067/jangan-sampai-lolos-ini-dia-fitur-paling-menarik-di-android-15",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Mengapa Hipertensi Banyak Dialami Orang Asia? Ini Penyebabnya Menurut Dokter",
       "link_berita": "https://ameera.republika.co.id/berita/sdmukp349/mengapa-hipertensi-banyak-dialami-orang-asia-ini-penyebabnya-menurut-dokter",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Dokter: Olahraga Bantu Perbaiki Kondisi Kesehatan Penderita Diabetes",
       "link_berita": "https://ameera.republika.co.id/berita/sdmd07423/dokter-olahraga-bantu-perbaiki-kondisi-kesehatan-penderita-diabetes",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Ini Prediksi Susunan Pemain Persib Bandung Vs Bali United",
       "link_berita": "https://republika.co.id/berita/sdmuu5409/ini-prediksi-susunan-pemain-persib-bandung-vs-bali-united",
       "kategori": "Bri Liga 1",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Anggota DPR Imbau Ada Edukasi Publik Soal Larangan Haji Tanpa Visa",
       "link_berita": "https://ihram.republika.co.id/berita/sdmddw423/anggota-dpr-imbau-ada-edukasi-publik-soal-larangan-haji-tanpa-visa",
       "kategori": "Ihram",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Tiga Perangkat Utama Pencegah Polusi di Kapal",
       "link_berita": "https://shippingcargo.co.id/posts/307320/tiga-perangkat-utama-pencegah-polusi-di-kapal",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "KPK Sita Dokumen dan Bukti Elektronik Saat Geledah Rumah Adik SYL",
       "link_berita": "https://news.republika.co.id/berita/sdn6cu377/kpk-sita-dokumen-dan-bukti-elektronik-saat-geledah-rumah-adik-syl",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Dewan Pers: RUU Penyiaran Upaya Kesekian Kali Berangus Kebebasan Pers di Indonesia",
       "link_berita": "https://news.republika.co.id/berita/sdmv20409/dewan-pers-ruu-penyiaran-upaya-kesekian-kali-berangus-kebebasan-pers-di-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Israel tak Henti Lancarkan Serangan Udara, Empat Jurnalis Gugur di Gaza",
       "link_berita": "https://internasional.republika.co.id/berita/sdn2uk414/israel-tak-henti-lancarkan-serangan-udara-empat-jurnalis-gugur-di-gaza",
       "kategori": "Internasional",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Israel Berkelit di Sidang ICJ Sebut tak Ada Genosida, Perempuan Berteriak: Pembohong!",
       "link_berita": "https://internasional.republika.co.id/berita/sdn33h320/israel-berkelit-di-sidang-icj-sebut-tak-ada-genosida-perempuan-berteriak-pembohong",
       "kategori": "Internasional",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Ingin Dipermudah Naik Haji? Rutin Baca Dzikir Asmaul Husna Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/sdn2oy320/ingin-dipermudah-naik-haji-rutin-baca-dzikir-asmaul-husna-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Harmoni Muslim Nusantara Dukung Kapolri Terima Casis Bintara Korban Begal",
       "link_berita": "https://khazanah.republika.co.id/berita/sdn2bw451/harmoni-muslim-nusantara-dukung-kapolri-terima-casis-bintara-korban-begal",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "33 Nasihat Berlandaskan Islam yang Perlu Ditanamkan Orang Tua kepada Anak",
       "link_berita": "https://islamdigest.republika.co.id/berita/sdn241320/33-nasihat-berlandaskan-islam-yang-perlu-ditanamkan-orang-tua-kepada-anak",
       "kategori": "Islam Digest",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Kemenkominfo Ajak Guru Melek Digital",
       "link_berita": "https://news.republika.co.id/berita/sdmuas330/kemenkominfo-ajak-guru-melek-digital",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Pj Bupati Bogor Resmikan Kantong Parkir Truk Tambang untuk Tekan Pelanggaran",
       "link_berita": "https://news.republika.co.id/berita/sdmtz5409/pj-bupati-bogor-resmikan-kantong-parkir-truk-tambang-untuk-tekan-pelanggaran",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Program Pemberdayaan Ekonomi di Desa Wisata Penglipuran Berdampak Positif",
       "link_berita": "https://news.republika.co.id/berita/sdn1qg320/program-pemberdayaan-ekonomi-di-desa-wisata-penglipuran-berdampak-positif",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Pertemuan Nabi Khidir dan Nabi Musa yang Diabadikan Alquran",
       "link_berita": "https://iqra.republika.co.id/berita/sdn1k1320/pertemuan-nabi-khidir-dan-nabi-musa-yang-diabadikan-alquran",
       "kategori": "Iqra",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Kebakaran di Dekat Overpass Manahan Solo, 9 KK Dievakuasi",
       "link_berita": "https://rejogja.republika.co.id/berita/sdn15z432/kebakaran-di-dekat-overpass-manahan-solo-9-kk-dievakuasi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "3 Tindakan Nabi Khidir yang Membuat Nabi Musa Bertanya dan Protes",
       "link_berita": "https://iqra.republika.co.id/berita/sdn0wa320/3-tindakan-nabi-khidir-yang-membuat-nabi-musabertanya-dan-protes",
       "kategori": "Iqra",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Universitas Islam Asy-Syafiiyah Kutuk Israel",
       "link_berita": "https://sajada.id/posts/307314/universitas-islam-asy-syafi-iyah-kutuk-israel",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Jangan Sampai Anak Jadi Korban, Ayah-Ibu Perlu ke Psikolog Ketika Alami Gangguan Mental",
       "link_berita": "https://ameera.republika.co.id/berita/sdn05x414/jangan-sampai-anak-jadi-korban-ayahibu-perlu-ke-psikolog-ketika-alami-gangguan-mental",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Pengawasan Hewan Ternak di Kudus Diintensifkan Jelang Idul Adha",
       "link_berita": "https://rejogja.republika.co.id/berita/sdn05f432/pengawasan-hewan-ternak-di-kudus-diintensifkan-jelang-idul-adha",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Bahlil Ingatkan Industri Gula di Merauke Harus Libatkan Pengusaha Lokal",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdmz4k484/bahlil-ingatkan-industri-gula-di-merauke-harus-libatkan-pengusaha-lokal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Memanfaatkan AI dan Big Data untuk Identifikasi Karyawan yang Efektif",
-      "link_berita": "https://retizen.republika.co.id/posts/307309/memanfaatkan-ai-dan-big-data-untuk-identifikasi-karyawan-yang-efektif",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "35 Ribu Warga Palestina Wafat, Wahdah Islamiyah Kutuk Israel",
-      "link_berita": "https://sajada.id/posts/307311/35-ribu-warga-palestina-wafat-wahdah-islamiyah-kutuk-israel",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "5 Manfaat Olahraga Bagi Tubuh Anak",
-      "link_berita": "https://retizen.republika.co.id/posts/307302/5-manfaat-olahraga-bagi-tubuh-anak",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Hari Buku Nasional: Masyarakat Diserukan Akses Buku Legal, Lawan Pembajakan",
-      "link_berita": "https://news.republika.co.id/berita/sdmz9n414/hari-buku-nasional-masyarakat-diserukan-akses-buku-legal-lawan-pembajakan",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Risma Pastikan akan Pindahkan Posko Pengungsi Korban Banjir Bandang Sumbar ke Tempat Aman",
-      "link_berita": "https://news.republika.co.id/berita/sdmr27409/risma-pastikan-akan-pindahkan-posko-pengungsi-korban-banjir-bandang-sumbar-ke-tempat-aman",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Diminta Hanung Bramantyo Belajar Ngaji Lagi, Aghniny Haque Mengaku Susah Sholat-Ngaji",
-      "link_berita": "https://ameera.republika.co.id/berita/sdmyly414/diminta-hanung-bramantyo-belajar-ngaji-lagi-aghniny-haque-mengaku-susah-sholatngaji",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Satgas TNI AL di Nunukan Gagalkan Penyelundupan Narkoba ke Malaysia",
-      "link_berita": "https://news.republika.co.id/berita/sdmyi7484/satgas-tni-al-di-nunukan-gagalkan-penyelundupan-narkoba-ke-malaysia",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Novel Kamu Gak Sendiri Syahid Muhammad",
-      "link_berita": "https://retizen.republika.co.id/posts/307277/novel-kamu-gak-sendiri-syahid-muhammad",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Mencari Guru yang Benar Sebagai Kunci Kebenaran Ilmu",
-      "link_berita": "https://retizen.republika.co.id/posts/307293/mencari-guru-yang-benar-sebagai-kunci-kebenaran-ilmu",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Keren, Tri Adinata Guru Viral dari Medan Diajak Alan Walker Meriahkan Konser di Jakarta",
-      "link_berita": "https://ameera.republika.co.id/berita/sdmxws414/keren-tri-adinata-guru-viral-dari-medan-diajak-alan-walker-meriahkan-konser-di-jakarta",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Avrist Asset Management: Reksa Dana Masih Jadi Primadona Investasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdmpjk349/avrist-asset-management-reksa-dana-masih-jadi-primadona-investasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Polisi Buru Dua DPO dalam Kasus Penyalahgunaan Narkotika Epy Kusnandar",
-      "link_berita": "https://news.republika.co.id/berita/sdmxcs349/polisi-buru-dua-dpo-dalam-kasus-penyalahgunaan-narkotika-epy-kusnandar",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Epy Kusnandar Ngeganja di Atas Pohon Apartemen Kalibata Saat Subuh",
-      "link_berita": "https://ameera.republika.co.id/berita/sdmxci414/epy-kusnandar-ngeganja-di-atas-pohon-apartemen-kalibata-saat-subuh",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Fisika dan Santet, Nah Loh!",
-      "link_berita": "https://retizen.republika.co.id/posts/307288/fisika-dan-santet-nah-loh",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Apakah Ada Ukuran Ideal untuk Kelompok Sosial Manusia?",
-      "link_berita": "https://retizen.republika.co.id/posts/307303/apakah-ada-ukuran-ideal-untuk-kelompok-sosial-manusia",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Kemenhub Dukung Peningkatan Rekrutmen dan Penempatan Awak Kapal",
-      "link_berita": "https://news.republika.co.id/berita/sdmy26484/kemenhub-dukung-peningkatan-rekrutmen-dan-penempatan-awak-kapal",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Warga Rawajati Bisa Beli Rumah Baru dari Hasil Gusuran Normalisasi Ciliwung",
-      "link_berita": "https://news.republika.co.id/berita/sdmx53484/warga-rawajati-bisa-beli-rumah-baru-dari-hasil-gusuran-normalisasi-ciliwung",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Prabowo dan Gubernur Jenderal Australia Saling Bertukar Buku",
-      "link_berita": "https://seputarmiliter.id/posts/307301/prabowo-dan-gubernur-jenderal-australia-saling-bertukar-buku",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Aksi Jumat Berbagi, Polisi di Sukabumi Bagikan Ratusan Nasi Kotak ke Warga",
-      "link_berita": "https://bandung24jam.id/posts/307299/aksi-jumat-berbagi-polisi-di-sukabumi-bagikan-ratusan-nasi-kotak-ke-warga",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
-    },
-    {
-      "judul": "Mengenal Connecting Train, Istilah dalam Kereta Api",
-      "link_berita": "https://kreta.id/posts/307298/mengenal-connecting-train-istilah-dalam-kereta-api",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 17 May 2024, 23:17:28"
+      "tanggal_terbit": "Saturday, 18 May 2024, 01:11:04"
     },
     {
       "judul": "Relawan Dukung Duet Anies-Ahok, tak Khawatir Kehilangan Pendukung",
@@ -403,10 +403,10 @@
       "tanggal_terbit": "Friday, 17 May 2024, 19:40:00"
     },
     {
-      "judul": "Bahlil Ingatkan Industri Gula di Merauke Harus Libatkan Pengusaha Lokal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdmz4k484/bahlil-ingatkan-industri-gula-di-merauke-harus-libatkan-pengusaha-lokal",
+      "judul": "Tak Hanya yang Lewat Laut Merah, Semua Kapal Menuju Israel Jadi Target Houthi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdnltj472/tak-hanya-yang-lewat-laut-merah-semua-kapal-menuju-israel-jadi-target-houthi",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 17 May 2024, 22:51:00"
+      "tanggal_terbit": "Saturday, 18 May 2024, 06:41:00"
     },
     {
       "judul": "OJK: Pemisahan UUS Bertujuan untuk Perkuat Perbankan Syariah",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Friday, 17 May 2024, 21:05:00"
     },
     {
-      "judul": "Nurul Ghufron tak Hadir, Dewas KPK Tunda Sidang Pembelaan",
-      "link_berita": "https://news.republika.co.id/berita/sdnk5j409/nurul-ghufron-tak-hadir-dewas-kpk-tunda-sidang-pembelaan",
-      "kategori": "Hukum",
-      "tanggal_terbit": "Saturday, 18 May 2024, 06:05:00"
+      "judul": "Mau Masuk SMA/SMK, Pelajar Sultra Harus Punya Surat Keterangan Bebas Narkoba",
+      "link_berita": "https://news.republika.co.id/berita/sdnpmd414/mau-masuk-smasmk-pelajar-sultra-harus-punya-surat-keterangan-bebas-narkoba",
+      "kategori": "Pendidikan",
+      "tanggal_terbit": "Saturday, 18 May 2024, 08:03:00"
     }
   ],
-  "waktu_scraping": "Saturday, 18 May 2024, 06:17:28"
+  "waktu_scraping": "Saturday, 18 May 2024, 08:11:04"
 }
