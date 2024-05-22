@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "BNPB Pasang Sistem Peringatan Dini di 7 Aliran Sungai Marapi",
+      "link_berita": "https://news.republika.co.id/berita/sdw56t451/bnpb-pasang-sistem-peringatan-dini-di-7-aliran-sungai-marapi"
+    },
+    {
       "judul": "Plt Ketum PPP Curigai Adanya Upaya tak Loloskan Partainya ke Parlemen",
       "link_berita": "https://news.republika.co.id/berita/sdvzno409/plt-ketum-ppp-curigai-adanya-upaya-tak-loloskan-partainya-ke-parlemen"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Hasto Ungkap Alasan PDIP tak Undang Jokowi di Rakernas",
       "link_berita": "https://news.republika.co.id/berita/sdvuee409/hasto-ungkap-alasan-pdip-tak-undang-jokowi-di-rakernas"
-    },
-    {
-      "judul": "Zulhas Pastikan PAN tak Dukung Anies pada Pilgub Jakarta 2024",
-      "link_berita": "https://news.republika.co.id/berita/sdvsa4484/zulhas-pastikan-pan-tak-dukung-anies-pada-pilgub-jakarta-2024"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Soal Evaluasi UKT, UGM: Tiap Tahun Konsultasi dengan Kemendikbudristek",
+      "link_berita": "https://news.republika.co.id/berita/sdw6md430/soal-evaluasi-ukt-ugm-tiap-tahun-konsultasi-dengan-kemendikbudristek"
+    },
     {
       "judul": "Pendapatan Usaha Garuda Indonesia Group Tumbuh 18,07 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdw2sz423/pendapatan-usaha-garuda-indonesia-group-tumbuh-1807-persen"
@@ -77,312 +81,308 @@
     {
       "judul": "Tujuh Terpidana Kasus Pembunuhan Vina Dipindahkan ke Lapas dan Rutan Bandung",
       "link_berita": "https://news.republika.co.id/berita/sdv7tm366/tujuh-terpidana-kasus-pembunuhan-vina-dipindahkan-ke-lapas-dan-rutan-bandung"
-    },
-    {
-      "judul": "Petani Mengaku Diminta Rp 598 Juta dalam Seleksi Polwan, Ini Klarifikasi Polda Metro Jaya",
-      "link_berita": "https://news.republika.co.id/berita/sdv5b2436/petani-mengaku-diminta-rp-598-juta-dalam-seleksi-polwan-ini-klarifikasi-polda-metro-jaya"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Masa Sertifikasi Halal Diperpanjang, Wapres: UMKM Belum Teredukasi",
+      "link_berita": "https://sharia.republika.co.id/berita/sdw7az457/masa-sertifikasi-halal-diperpanjang-wapres-umkm-belum-teredukasi",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 15:10:17"
+    },
+    {
+      "judul": "Tantangan Negara Makin Berat, Semua Elemen Bangsa Harus Terus Bersatu",
+      "link_berita": "https://rejabar.republika.co.id/berita/sdw7e0512/tantangan-negara-makin-berat-semua-elemen-bangsa-harus-terus-bersatu",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 15:08:17"
+    },
+    {
+      "judul": "Polisi Ingatkan Orang Tua Awasi Anak Agar tak Langgar Hukum",
+      "link_berita": "https://news.republika.co.id/berita/sdw79n425/polisi-ingatkan-orang-tua-awasi-anak-agar-tak-langgar-hukum",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 15:05:17"
+    },
+    {
+      "judul": "Indonesia Optimistis Rebut 1 Persen Pangsa Pasar Furnitur Dunia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdw70z457/indonesia-optimistis-rebut-1-persen-pangsa-pasar-furnitur-dunia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 15:00:17"
+    },
+    {
+      "judul": "Layanan Konsumsi Jamaah Haji di Makkah",
+      "link_berita": "https://visual.republika.co.id/berita/sdw65f491/layanan-konsumsi-jamaah-haji-di-makkah",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:55:17"
+    },
+    {
+      "judul": "Kemenhub Pastikan Angkutan Haji dari Bandara Kertajati Berjalan Lancar",
+      "link_berita": "https://ihram.republika.co.id/berita/sdw6r2430/kemenhub-pastikan-angkutan-haji-dari-bandara-kertajati-berjalan-lancar",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:54:17"
+    },
+    {
+      "judul": "Soal Evaluasi UKT, UGM: Tiap Tahun Konsultasi dengan Kemendikbudristek",
+      "link_berita": "https://news.republika.co.id/berita/sdw6md430/soal-evaluasi-ukt-ugm-tiap-tahun-konsultasi-dengan-kemendikbudristek",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:52:17"
+    },
+    {
+      "judul": "Ramadhan Tahun Ini Produk Fesyen Lokal Bandung Banyak Diminati",
+      "link_berita": "https://rejabar.republika.co.id/berita/sdw65b512/ramadhan-tahun-ini-produk-fesyen-lokal-bandung-banyak-diminati",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:41:17"
+    },
+    {
+      "judul": "Pentingnya Layanan Trombolitik dalam Penanganan Stroke",
+      "link_berita": "https://tv.republika.co.id/berita/sdw62s313/pentingnya-layanan-trombolitik-dalam-penanganan-stroke",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:40:17"
+    },
+    {
+      "judul": "Indonesia Luncurkan Pusat Penelitian Rumput Laut Internasional",
+      "link_berita": "https://esgnow.republika.co.id/berita/sdw5k9457/indonesia-luncurkan-pusat-penelitian-rumput-laut-internasional",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:40:17"
+    },
+    {
+      "judul": "Adakah Ghibah yang Diperbolehkan?",
+      "link_berita": "https://ihram.republika.co.id/berita/sdw5vf430/adakah-ghibah-yang-diperbolehkan",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:35:17"
+    },
+    {
+      "judul": "Berikan Hunian Aman dan Nyaman, Baznas Bazis DKI Bedah 180 Rumah di Jaksel",
+      "link_berita": "https://khazanah.republika.co.id/berita/sdw5sc423/berikan-hunian-aman-dan-nyamanbaznas-bazis-dki-bedah-180-rumah-di-jaksel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:34:17"
+    },
+    {
+      "judul": "Selamat! Syahrini Umumkan Hamil, Usia Kandungan Diduga 7 Bulan",
+      "link_berita": "https://ameera.republika.co.id/berita/sdw5p3425/selamat-syahrini-umumkan-hamil-usia-kandungan-diduga-7-bulan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:32:17"
+    },
+    {
+      "judul": "Kemenko Marves Soroti Pentingnya Mekanisme Pendanaan di Sektor Air",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdw5at457/kemenko-marves-soroti-pentingnya-mekanisme-pendanaan-di-sektor-air",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:30:17"
+    },
+    {
+      "judul": "Doa dan Tahlilan Mengenang Wafatnya Presiden Iran",
+      "link_berita": "https://visual.republika.co.id/berita/sdw5j8491/doa-dan-tahlilan-mengenang-wafatnya-presiden-iran",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:28:17"
+    },
+    {
+      "judul": "Jepang Tempati Peringkat Ketiga Di antara Tujuan Perjalanan Teratas Dunia",
+      "link_berita": "https://internasional.republika.co.id/berita/sdw5g8430/jepang-tempati-peringkat-ketiga-di-antara-tujuan-perjalanan-teratas-dunia",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:28:17"
+    },
+    {
+      "judul": "Kata Bank Indonesia Soal Ekonomi Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdw5aw451/kata-bank-indonesia-soal-ekonomi-nasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:23:17"
+    },
+    {
+      "judul": "Jamaah Haji Diimbau Selalu Jaga Kesehatan",
+      "link_berita": "https://ihram.republika.co.id/berita/sdw51f430/jamaah-haji-diimbau-selalu-jaga-kesehatan",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:21:17"
+    },
+    {
+      "judul": "BNPB Pasang Sistem Peringatan Dini di 7 Aliran Sungai Marapi",
+      "link_berita": "https://news.republika.co.id/berita/sdw56t451/bnpb-pasang-sistem-peringatan-dini-di-7-aliran-sungai-marapi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:21:17"
+    },
+    {
+      "judul": "UI Raih Penghargaan Terbanyak di ONMIPA-PT 2024",
+      "link_berita": "https://news.republika.co.id/berita/sdw4xb457/ui-raih-penghargaan-terbanyak-di-onmipapt-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:20:17"
+    },
+    {
+      "judul": "BI: Aliran Masuk Investasi Portofolio Capai 1,8 Miliar Dolar AS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdw51w451/bi-aliran-masuk-investasi-portofolio-capai-18-miliar-dolar-as",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
+    },
+    {
       "judul": "Terus Membaik, Rasio Kredit Berisiko KB Bank Turun hingga di Bawah 27 Persen",
       "link_berita": "https://rejogja.republika.co.id/berita/sdw2cw291/terus-membaik-rasio-kreditberisiko-kb-bank-turun-hingga-di-bawah-27-persen",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:15:00"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Strategi Presiden Jokowi Berantas Judi Online",
       "link_berita": "https://khazanah.republika.co.id/berita/sdw4ue451/strategi-presiden-jokowi-berantas-judi-online",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:13:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Ridwan Kamil Bicara Pembangunan IKN di National University of Singapore",
       "link_berita": "https://news.republika.co.id/berita/sdw48f484/ridwan-kamil-bicara-pembangunan-ikn-di-national-university-of-singapore",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:13:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Presiden WWC Tekankan Daur Ulang Jadi Revolusi untuk Akses Air",
       "link_berita": "https://esgnow.republika.co.id/berita/sdw4a8457/presiden-wwc-tekankan-daur-ulang-jadi-revolusi-untuk-akses-air",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:10:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Tips Cegah Mabuk Udara Selama Penerbangan Haji",
       "link_berita": "https://diagnosa.id/posts/308305/tips-cegah-mabuk-udara-selama-penerbangan-haji",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:09:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Tips Cara Mengolah Manfaat Rebung Sumber Nutrisi Dalam Kuliner",
       "link_berita": "https://topnews62.com/posts/308411/tips-cara-mengolah-manfaat-rebung-sumber-nutrisi-dalam-kuliner",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:08:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Aha...Obat Kumur Matcha Membantu Melawan Penyakit Gusi Parah",
       "link_berita": "https://impresiupdate.id/posts/308400/aha-obat-kumur-matcha-membantu-melawan-penyakit-gusi-parah",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:08:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Mengintip Dapur Konsumsi Jamaah Haji, Seminggu Sediakan 21 Menu Khas Nusantara",
       "link_berita": "https://khazanah.republika.co.id/berita/sdw4i0430/mengintip-dapur-konsumsi-jamaah-haji-seminggu-sediakan-21-menu-khas-nusantara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:06:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Gaet Anak Muda, ICBP Luncurkan Teknologi AI dalam Produk Susu",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdvz6i490/gaet-anak-muda-icbp-luncurkan-teknologi-ai-dalam-produk-susu",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:05:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Upaya Strategis Universitas Sumatera Utara Raih Standar Internasional",
       "link_berita": "https://news.republika.co.id/berita/sdw4dk451/upaya-strategis-universitas-sumatera-utara-raih-standar-internasional",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:03:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Sedikit Bocoran Sekjen Gerindra Soal Kabinet Prabowo - Gibran",
       "link_berita": "https://news.republika.co.id/berita/sdw47g451/sedikit-bocoran-sekjen-gerindra-soal-kabinet-prabowo-gibran",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 14:00:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Pengedar Narkoba di Indramayu Ditangkap, Ternyata Ketua Geng Motor",
       "link_berita": "https://rejabar.republika.co.id/berita/sdw421512/pengedar-narkoba-di-indramayu-ditangkap-ternyata-ketua-geng-motor",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:56:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Bhayangkari Polri Hibur Anak Korban Banjir Bandang di Sumbar",
       "link_berita": "https://khazanah.republika.co.id/berita/sdw40i451/bhayangkari-polri-hibur-anak-korban-banjir-bandang-di-sumbar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:55:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Kebun Raya Bogor Pamerkan Tumbuhan Platycerium di HUT ke-207",
       "link_berita": "https://news.republika.co.id/berita/sdw3vb451/kebun-raya-bogor-pamerkan-tumbuhan-platycerium-di-hut-ke207",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:52:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Presiden Macron Optimistis WWF ke-10 di Bali Beri Solusi Masalah Air",
       "link_berita": "https://esgnow.republika.co.id/berita/sdw37e457/presiden-macron-optimistis-wwf-ke10-di-bali-beri-solusi-masalah-air",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:50:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 14:18:17"
     },
     {
       "judul": "Inggris Tolak Akui Palestina Sebagai Negara, ini Alasannya",
       "link_berita": "https://khazanah.republika.co.id/berita/sdw3p2451/inggris-tolak-akui-palestina-sebagai-negara-ini-alasannya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:48:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "1,9 Miliar Uang Palsu Terungkap di Jombang",
       "link_berita": "https://visual.republika.co.id/berita/sdvx8j491/19-miliar-uang-palsu-terungkap-di-jombang",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:45:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Pendapatan Usaha Garuda Indonesia Group Tumbuh 18,07 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdw2sz423/pendapatan-usaha-garuda-indonesia-group-tumbuh-1807-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:41:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Siklus Gandeng Snap Clean Luncurkan Siklus Home Care",
       "link_berita": "https://ruzka.republika.co.id/ekonomi/1674680639/siklus-gandeng-snap-clean-luncurkan-siklus-home-care",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:39:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Bedas Pisan, Pemkab Bandung Kembali Raih WTP 8 Kali Berturut-turut dari BPK RI",
       "link_berita": "https://rejabar.republika.co.id/berita/sdw31r423/bedas-pisan-pemkab-bandung-kembali-raih-wtp-8-kali-berturutturut-dari-bpk-ri",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:34:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Plt Ketum PPP Curigai Adanya Upaya tak Loloskan Partainya ke Parlemen",
       "link_berita": "https://news.republika.co.id/berita/sdvzno409/plt-ketum-ppp-curigai-adanya-upaya-tak-loloskan-partainya-ke-parlemen",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:32:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Cita Rasa Nusantara dalam Katering Haji",
       "link_berita": "https://ihram.republika.co.id/berita/sdw2s5313/cita-rasa-nusantara-dalam-katering-haji",
       "kategori": "Ihram",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:29:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Laksanakan RUPST, Ini Susunan Baru Direksi dan Komisaris Garuda Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdw2ma423/laksanakan-rupst-ini-susunan-baru-direksi-dan-komisaris-garuda-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:25:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "DPRD Jawa Barat dan DPRD Solok Bahas Penanganan Konflik Sosial di Pilkada 2024",
       "link_berita": "https://rejabar.republika.co.id/berita/sdw2au423/dprd-jawa-barat-dan-dprd-solok-bahas-penanganan-konflik-sosial-di-pilkada-2024",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Belasan Anggota Geng Motor Ditangkap Polisi di Indramayu",
       "link_berita": "https://rejabar.republika.co.id/berita/sdw276512/belasan-anggota-geng-motor-ditangkap-polisi-di-indramayu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:16:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Binus Bandung Menerapkan Kurikulum Berbasis AI",
       "link_berita": "https://visual.republika.co.id/berita/sdvx0c491/binus-bandung-menerapkan-kurikulum-berbasis-ai",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Imigrasi Bandung Antisipasi Perdagangan Orang di Tingkat Desa",
       "link_berita": "https://rejabar.republika.co.id/berita/sdw24f430/imigrasi-bandung-antisipasi-perdagangan-orang-di-tingkat-desa",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Belasan Anggota Geng Motor Ditangkap Polisi di Indramayu",
       "link_berita": "https://rejabar.republika.co.id/berita/sdw1su430/belasan-anggota-geng-motor-ditangkap-polisi-di-indramayu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Desta Ikut Dipanggil di Sidang Kasus Dugaan Asusila Ketua KPU Hasyim Asy'ari",
       "link_berita": "https://news.republika.co.id/berita/sdvzjd409/desta-ikut-dipanggil-di-sidang-kasus-dugaan-asusila-ketua-kpu-hasyim-asyari",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Sejarah Panjang Peran Norwegia dalam Konflik Israel-Palestina",
-      "link_berita": "https://internasional.republika.co.id/berita/sdw1z4430/sejarah-panjang-peran-norwegia-dalam-konflik-israelpalestina",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Disdik DKI Jakarta Jamin Server Kuat saat Proses PPDB",
-      "link_berita": "https://news.republika.co.id/berita/sdw1o2430/disdik-dki-jakarta-jamin-server-kuat-saat-proses-ppdb",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Konsorsium Vokasi DIY Siapkan Tenaga Kerja Sesuai Potensi dan Kebutuhan Daerah",
-      "link_berita": "https://rejogja.republika.co.id/berita/sdw1m1291/konsorsium-vokasi-diy-siapkan-tenaga-kerja-sesuai-potensi-dan-kebutuhan-daerah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Ini Jadwal Lengkap Timnas Indonesia U-20 pada Babak Penyisihan Toulon Cup 2024",
-      "link_berita": "https://sport.republika.co.id/berita/sdw1l3348/ini-jadwal-lengkap-timnas-indonesia-u20-pada-babak-penyisihan-toulon-cup-2024",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Embarkasi Surabaya Terima Dua Kloter Haji Terakhir Gelombang Pertama",
-      "link_berita": "https://ihram.republika.co.id/berita/sdw1hg430/embarkasi-surabaya-terima-dua-kloter-haji-terakhir-gelombang-pertama",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Polres Indramayu Tangkap Belasan Pelaku Kejahatan",
-      "link_berita": "https://rejabar.republika.co.id/berita/sdw1dh512/polres-indramayu-tangkap-belasan-pelaku-kejahatan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Final Liga Europa: Jadwal dan Prediksi Starting XI Atalanta Vs Bayer Leverkusen",
-      "link_berita": "https://sport.republika.co.id/berita/sdw123348/final-liga-europa-jadwal-dan-prediksi-starting-xi-atalanta-vs-bayer-leverkusen",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Pj Gubernur Jabar Dorong Polda Tangkap Dua Pelaku Kasus Pembunuhan Vina Cirebon yang Buron",
-      "link_berita": "https://rejabar.republika.co.id/berita/sdw0t3512/pj-gubernur-jabar-dorong-polda-tangkap-dua-pelaku-kasus-pembunuhan-vina-cirebon-yang-buron",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 13:15:09"
-    },
-    {
-      "judul": "Billie Eilish: Saya Berencana Untuk Tidak Berkencan Lagi",
-      "link_berita": "https://impresi.republika.co.id/sosok/1694680451/billie-eilish-saya-berencana-untuk-tidak-berkencan-lagi",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Pelepasan Jamaah Calon Haji Kabupaten Bogor",
-      "link_berita": "https://visual.republika.co.id/berita/sdvwvp491/pelepasan-jamaah-calon-haji-kabupaten-bogor",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Jelang Laga Timnas Indonesia, Ingat Kembali Aturan Nobar Berikut Ini",
-      "link_berita": "https://sport.republika.co.id/berita/sdw085348/jelang-laga-timnas-indonesia-ingat-kembali-aturan-nobar-berikut-ini",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Menengok Rumah Kelahiran Nabi Muhammad SAW",
-      "link_berita": "https://ihram.republika.co.id/berita/sdw062313/menengok-rumah-kelahiran-nabi-muhammad-saw",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Katy Perry: Ariana Grande Penyanyi Terbaik Generasi Kita",
-      "link_berita": "https://impresi.republika.co.id/sana-sini/1694680395/katy-perry-ariana-grande-penyanyi-terbaik-generasi-kita",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Soal Covid-19 Varian KP.1 dan KP.2, Kemenkes: Belum Ada Indikasi Sebabkan Sakit Berat",
-      "link_berita": "https://ameera.republika.co.id/berita/sdvzv0425/soal-covid19-varian-kp1-dan-kp2-kemenkes-belum-ada-indikasi-sebabkan-sakit-berat",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Polisi Temui Tiga Orang Saat Penggeledahan Tempat Tinggal Pegi Selama Tiga Jam di Cirebon",
-      "link_berita": "https://news.republika.co.id/berita/sdvz5a436/polisi-temui-tiga-orang-saat-penggeledahan-tempat-tinggal-pegi-selama-tiga-jam-di-cirebon",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Buah Zaitun, Si Kecil yang Punya Segudang Manfaat untuk Kesehatan",
-      "link_berita": "https://ameera.republika.co.id/berita/sdvzfb425/buah-zaitun-si-kecil-yang-punya-segudang-manfaat-untuk-kesehatan",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Mengenal Nama-nama Indah Rasulullah",
-      "link_berita": "https://www.republika.id/posts/52987/mengenal-nama-nama-indah-rasulullah",
-      "kategori": "Islam Digest",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Mengapa Kopi Berbahaya Bagi Penderita Tekanan Darah Tinggi yang Parah",
-      "link_berita": "https://impresiupdate.id/posts/308394/mengapa-kopi-berbahaya-bagi-penderita-tekanan-darah-tinggi-yang-parah",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Ribuan Orang di Seluruh Dunia Tak Menyadari Telah Mengidap Hepatitis C",
-      "link_berita": "https://impresiupdate.id/posts/308399/ribuan-orang-di-seluruh-dunia-tak-menyadari-telah-mengidap-hepatitis-c",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Kecelakaan Bus Rombongan SMP PGRI 1 Wonosari Tewaskan Dua Orang, Sopir Sempat Tertidur",
-      "link_berita": "https://news.republika.co.id/berita/sdvz8c409/kecelakaan-bus-rombongan-smp-pgri-1-wonosari-tewaskan-dua-orang-sopir-sempat-tertidur",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
-    },
-    {
-      "judul": "Jamaah Haji Diimbau tak Lupa Minum Obat Pribadi Selama di Tanah Suci",
-      "link_berita": "https://ihram.republika.co.id/berita/sdvz3e425/jamaah-haji-diimbau-tak-lupa-minum-obat-pribadi-selama-di-tanah-suci",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 12:15:09"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 13:18:17"
     },
     {
       "judul": "Bobby Gabung Gerindra, PDIP Sindir Soal Kepentingan Kekuasaan",
@@ -391,22 +391,22 @@
       "tanggal_terbit": "Wednesday, 22 May 2024, 19:00:00"
     },
     {
-      "judul": "Soal Covid-19 Varian KP.1 dan KP.2, Kemenkes: Belum Ada Indikasi Sebabkan Sakit Berat",
-      "link_berita": "https://ameera.republika.co.id/berita/sdvzv0425/soal-covid19-varian-kp1-dan-kp2-kemenkes-belum-ada-indikasi-sebabkan-sakit-berat",
-      "kategori": "Health",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 19:25:00"
+      "judul": "Selamat! Syahrini Umumkan Hamil, Usia Kandungan Diduga 7 Bulan",
+      "link_berita": "https://ameera.republika.co.id/berita/sdw5p3425/selamat-syahrini-umumkan-hamil-usia-kandungan-diduga-7-bulan",
+      "kategori": "Happening",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 21:31:00"
     },
     {
-      "judul": "Sambut HUT Jabar Ke-79, Republika Gelar \u2018Sehati Untuk Bumi\u2019",
-      "link_berita": "https://esgnow.republika.co.id/berita/sdvuw6371/sambut-hut-jabar-ke79-republika-gelar-sehati-untuk-bumi",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 17:38:00"
+      "judul": "Indonesia Luncurkan Pusat Penelitian Rumput Laut Internasional",
+      "link_berita": "https://esgnow.republika.co.id/berita/sdw5k9457/indonesia-luncurkan-pusat-penelitian-rumput-laut-internasional",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 21:40:00"
     },
     {
-      "judul": "Gaet Anak Muda, ICBP Luncurkan Teknologi AI dalam Produk Susu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdvz6i490/gaet-anak-muda-icbp-luncurkan-teknologi-ai-dalam-produk-susu",
+      "judul": "Indonesia Optimistis Rebut 1 Persen Pangsa Pasar Furnitur Dunia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdw70z457/indonesia-optimistis-rebut-1-persen-pangsa-pasar-furnitur-dunia",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 21:05:00"
+      "tanggal_terbit": "Wednesday, 22 May 2024, 22:00:00"
     },
     {
       "judul": "Wajib Sertifikasi Produk Halal Diundur, Ini Penjelasan Wapres",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Wednesday, 22 May 2024, 16:39:00"
     },
     {
-      "judul": "Ridwan Kamil Bicara Pembangunan IKN di National University of Singapore",
-      "link_berita": "https://news.republika.co.id/berita/sdw48f484/ridwan-kamil-bicara-pembangunan-ikn-di-national-university-of-singapore",
-      "kategori": "Umum",
-      "tanggal_terbit": "Wednesday, 22 May 2024, 21:13:00"
+      "judul": "Polisi Ingatkan Orang Tua Awasi Anak Agar tak Langgar Hukum",
+      "link_berita": "https://news.republika.co.id/berita/sdw79n425/polisi-ingatkan-orang-tua-awasi-anak-agar-tak-langgar-hukum",
+      "kategori": "Nusantara",
+      "tanggal_terbit": "Wednesday, 22 May 2024, 22:05:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 22 May 2024, 21:15:09"
+  "waktu_scraping": "Wednesday, 22 May 2024, 22:18:17"
 }
