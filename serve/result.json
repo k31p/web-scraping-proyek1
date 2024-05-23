@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Krisis Pengangguran Gen Z: Ancaman Serius Bagi Bonus Demografi Indonesia 2045",
+      "link_berita": "https://news.republika.co.id/berita/sdxcyf349/krisis-pengangguran-gen-z-ancaman-serius-bagi-bonus-demografi-indonesia-2045"
+    },
+    {
       "judul": "AS Tetap Menentang Pengakuan Sepihak Atas Palestina",
       "link_berita": "https://internasional.republika.co.id/berita/sdxal9370/as-tetap-menentang-pengakuan-sepihak-atas-palestina"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Pejabat Tinggi 68 Negara Hadiri Upacara Penghormatan Bagi Raisi",
       "link_berita": "https://internasional.republika.co.id/berita/sdx36t328/pejabat-tinggi-68-negara-hadiri-upacara-penghormatan-bagi-raisi"
-    },
-    {
-      "judul": "Ketua KPU Bantah Tudingan Asusila Perempuan Panitia Pemilu Belanda",
-      "link_berita": "https://news.republika.co.id/berita/sdx0u1328/ketua-kpu-bantah-tudingan-asusila-perempuan-panitia-pemilu-belanda"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Orang Australia Sangat Menyukai Kopi Indonesia, ini Penjelasannya",
+      "link_berita": "https://news.republika.co.id/berita/sdxevu451/orang-australia-sangat-menyukai-kopi-indonesia-ini-penjelasannya"
+    },
     {
       "judul": "Cetak Hattrick ke Gawang Leverkusen, Ademola Lookman Berkaca-Kaca",
       "link_berita": "https://sport.republika.co.id/berita/sdxbuk456/cetak-hattrick-ke-gawang-leverkusen-ademola-lookman-berkacakaca"
@@ -77,312 +81,308 @@
     {
       "judul": "Ekonom: Ada Potensi Risiko Bagi Industri dari Permendag Baru",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdw96x457/ekonom-ada-potensi-risiko-bagi-industri-dari-permendag-baru"
-    },
-    {
-      "judul": "Libur Panjang Waisak, KAI Commuter Kembali Tambah Perjalanan KRL Yogyakarta-Palur",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdw88z457/libur-panjang-waisak-kai-commuter-kembali-tambah-perjalanan-krl-yogyakartapalur"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Siklus Hidup Mobil Xiaomi SU7 Hanya 200.000 Kilometer?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdxj4a370/siklus-hidup-mobil-xiaomi-su7-hanya-200000-kilometer",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 23 May 2024, 08:19:22"
+    },
+    {
+      "judul": "Tim Khusus untuk Antisipasi Begal di Jakarta Resmi Dibentuk, Ini Ikrar Polda Metro Jaya",
+      "link_berita": "https://news.republika.co.id/berita/sdxitw456/tim-khusus-untuk-antisipasi-begal-di-jakarta-resmi-dibentuk-ini-ikrar-polda-metro-jaya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 23 May 2024, 08:13:16"
+    },
+    {
+      "judul": "Teknologi Terus Berkembang, Binus Bandung Terapkan Teknologi AI di Kurikulum",
+      "link_berita": "https://rejabar.republika.co.id/berita/sdxiql512/teknologi-terus-berkembang-binus-bandung-terapkan-teknologi-ai-di-kurikulum",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 23 May 2024, 08:11:16"
+    },
+    {
+      "judul": "Ada Bank Bangkrut Lagi, LPS Siapkan Pembayaran Simpanan Nasabah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdxifa490/ada-bank-bangkrut-lagi-lps-siapkan-pembayaran-simpanan-nasabah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 23 May 2024, 08:04:16"
+    },
+    {
+      "judul": "Sebanyak 1.168 Narapidana Buddha Terima Remisi Khusus Waisak Tahun 2024",
+      "link_berita": "https://rejabar.republika.co.id/berita/sdxid6512/sebanyak-1168-narapidana-buddha-terima-remisi-khusus-waisak-tahun-2024",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 23 May 2024, 08:03:16"
+    },
+    {
+      "judul": "Libur Waisak, Kereta Cepat Catat Lonjakan Penumpang",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdxi98490/libur-waisak-kereta-cepat-catat-lonjakan-penumpang",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 23 May 2024, 08:00:16"
+    },
+    {
+      "judul": "Jamaah Diingatkan tak Perlu Bawa Beras karena Sudah Ada Konsumsi",
+      "link_berita": "https://ihram.republika.co.id/berita/sdxhur370/jamaah-diingatkan-tak-perlu-bawa-beras-karena-sudah-ada-konsumsi",
+      "kategori": "Ihram",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:52:16"
+    },
+    {
+      "judul": "Ekonom Proyeksikan Penurunan Suku Bunga BI Lebih Lambat dari The Fed",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdxhsj490/ekonom-proyeksikan-penurunan-suku-bunga-bi-lebih-lambat-dari-the-fed",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:50:16"
+    },
+    {
+      "judul": "Ini Tanggapan KemenPUPR Terkait Usulan Pendirian Badan Khusus Air",
+      "link_berita": "https://ramadhan.republika.co.id/berita/sdxgtr349/ini-tanggapan-kemenpupr-terkait-usulan-pendirian-badan-khusus-air",
+      "kategori": "Ramadhan",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:46:16"
+    },
+    {
+      "judul": "Libur Waisak, Taman Margasatwa Ragunan Dipadati Pengunjung",
+      "link_berita": "https://visual.republika.co.id/berita/sdxhh6375/libur-waisak-taman-margasatwa-ragunan-dipadati-pengunjung",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:44:16"
+    },
+    {
+      "judul": "Masih Ada Ketimpangan, BMKG Dorong Sistem Peringatan Dini yang Berkeadilan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sdxh63370/masih-ada-ketimpangan-bmkg-dorong-sistem-peringatan-dini-yang-berkeadilan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:37:16"
+    },
+    {
+      "judul": "Oposisi Israel Desak PM Netanyahu Akui Negara Palestina dengan Syarat",
+      "link_berita": "https://internasional.republika.co.id/berita/sdxh27370/oposisi-israel-desak-pm-netanyahu-akui-negara-palestina-dengan-syarat",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:35:16"
+    },
+    {
+      "judul": "Update Korban Banjir Bandang Sumatra Barat: Bertambah Jadi 62 Meninggal, 10 Hilang",
+      "link_berita": "https://news.republika.co.id/berita/sdxgil349/update-korban-banjir-bandang-sumatra-barat-bertambah-jadi-62-meninggal-10-hilang",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:31:16"
+    },
+    {
+      "judul": "Sebanyak 45 Ribu Ayam Milik Anggota DPRD Sragen Hangus Terbakar di Kandang",
+      "link_berita": "https://rejogja.republika.co.id/berita/sdxguk291/sebanyak-45-ribu-ayam-milik-anggota-dprd-sragen-hangus-terbakar-di-kandang",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:30:16"
+    },
+    {
+      "judul": "XL Axiata Ingatkan Jangan Abaikan Nomor Ponsel yang Telah Hangus",
+      "link_berita": "https://tekno.republika.co.id/berita/sdxguf370/xl-axiata-ingatkan-jangan-abaikan-nomor-ponsel-yang-telah-hangus",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:30:16"
+    },
+    {
+      "judul": "Polres Indramayu Kawal Calhaj Asal Cirebon Menuju Bandara Kertajati",
+      "link_berita": "https://rejabar.republika.co.id/berita/sdxgop512/polres-indramayu-kawal-calhaj-asal-cirebon-menuju-bandara-kertajati",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:27:16"
+    },
+    {
+      "judul": "UKT Kampus Negeri Mahal, Guru Besar UPI: Ada yang Salah",
+      "link_berita": "https://tv.republika.co.id/berita/sdxgas418/ukt-kampus-negeri-mahal-guru-besar-upi-ada-yang-salah",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
+    },
+    {
+      "judul": "Irjen Kemendikbudristek: Peran Alumni Penting dalam Mendorong Kemajuan Bangsa",
+      "link_berita": "https://news.republika.co.id/berita/sdxg7i349/irjen-kemendikbudristek-peran-alumni-penting-dalam-mendorong-kemajuan-bangsa",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
+    },
+    {
       "judul": "Rusia Klaim Caplok Pemukiman Warga Ukraina di Klishchiivka",
       "link_berita": "https://internasional.republika.co.id/berita/sdxg1g370/rusia-klaim-caplok-pemukiman-warga-ukraina-di-klishchiivka",
       "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 23 May 2024, 07:13:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Mantan Anak Buah Guardiola Selangkah Lagi Jadi Pelatih Munchen",
       "link_berita": "https://sport.republika.co.id/berita/sdxfet456/mantan-anak-buah-guardiola-selangkah-lagi-jadi-pelatih-munchen",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 23 May 2024, 07:07:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Pembatasan Satu Alamat Tiga KK di Jakarta, Legislator: Merepotkan Warga Miskin",
       "link_berita": "https://news.republika.co.id/berita/sdxffh349/pembatasan-satu-alamat-tiga-kk-di-jakarta-legislator-merepotkan-warga-miskin",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:59:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Hyundai Siap Umumkan Harga Palisade XRT dan All New Kona Electric",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdxfd5370/hyundai-siap-umumkan-harga-palisade-xrt-dan-all-new-kona-electric",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:58:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Duo Yamaha Monster Energy Makin Percaya Diri Hadapi MotoGP Katalunya",
       "link_berita": "https://sport.republika.co.id/berita/sdxf6q456/duo-yamaha-monster-energy-makin-percaya-diri-hadapi-motogp-katalunya",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:54:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Upaya Mendorong Transformasi Digital dan Pembangunan Berkelanjutan di Indonesia",
       "link_berita": "https://boyanesia.republika.co.id/serba-serbi/1644682562/upaya-mendorong-transformasi-digital-dan-pembangunan-berkelanjutan-di-indonesia",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:54:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Pakar: Merekam Orang tanpa Izin Langgar Hukum dan Etika",
       "link_berita": "https://news.republika.co.id/berita/sdxez8484/pakar-merekam-orang-tanpa-izin-langgar-hukum-dan-etika",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:53:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 07:20:16"
     },
     {
       "judul": "Berapa Banyak Biji Kopi yang Dihasilkan dari Sehektare Kebun Kopi",
       "link_berita": "https://news.republika.co.id/berita/sdxezw451/berapa-banyak-biji-kopi-yang-dihasilkan-dari-sehektare-kebun-kopi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:50:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Orang Australia Sangat Menyukai Kopi Indonesia, ini Penjelasannya",
       "link_berita": "https://news.republika.co.id/berita/sdxevu451/orang-australia-sangat-menyukai-kopi-indonesia-ini-penjelasannya",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:48:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Kawasan Produksi Kopi Jadi Destinasi Agrowisata Bernilai Tinggi",
       "link_berita": "https://news.republika.co.id/berita/sdxer7451/kawasan-produksi-kopi-jadi-destinasi-agrowisata-bernilai-tinggi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:45:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Terkenal Nikmat, Kopi Indonesia Diburu Banyak Orang di Australia",
       "link_berita": "https://news.republika.co.id/berita/sdxem0451/terkenal-nikmat-kopi-indonesia-diburu-banyak-orang-di-australia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:42:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "UMJ Gelar Pelatihan Kehumasan, Protokol, Serta Media untuk Tendik dan Mahasiswa",
       "link_berita": "https://news.republika.co.id/berita/sdxeaj349/umj-gelar-pelatihan-kehumasan-protokol-serta-media-untuk-tendik-dan-mahasiswa",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:40:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Harumkan Nama Indonesia, Barista Wanita Tunjukkan Kopi Indonesia Terbaik di Dunia",
       "link_berita": "https://news.republika.co.id/berita/sdxebj451/harumkan-nama-indonesia-barista-wanita-tunjukkan-kopi-indonesia-terbaik-di-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:35:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Produsen Kopi Lokal Harus Percaya Diri Tembus Pasar Dunia",
       "link_berita": "https://news.republika.co.id/berita/sdxe62451/produsen-kopi-lokal-harus-percaya-diri-tembus-pasar-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:32:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Tingkatkan Penggunaan Biodiesel, Lemigas Uji Coba B40 pada Kereta Api",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdxe4h490/tingkatkan-penggunaan-biodiesel-lemigas-uji-coba-b40-pada-kereta-api",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:31:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Tiga Hal yang Harus Diketahui Setiap Muslim pada Bulan Dzulhijjah",
       "link_berita": "https://ihram.republika.co.id/berita/sdxe0e451/tiga-hal-yang-harus-diketahui-setiap-muslim-pada-bulan-dzulhijjah",
       "kategori": "Ihram",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:29:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Pengadilan Agama Natuna Gelar Sidang Perceraian Keliling Tiap Kecamatan",
       "link_berita": "https://news.republika.co.id/berita/sdx8im484/pengadilan-agama-natuna-gelar-sidang-perceraian-keliling-tiap-kecamatan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:27:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Walau Sudah Disetujui Kemendikbud, Unsoed Nyatakan Siap Apabila Besaran UKT Dievaluasi",
       "link_berita": "https://news.republika.co.id/berita/sdxdo3349/walau-sudah-disetujui-kemendikbud-unsoed-nyatakan-siap-apabila-besaran-ukt-dievaluasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:21:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Doa dan Zikir Bersama untuk Masyarakat Sumbar",
       "link_berita": "https://rublikasi.com/posts/308485/doa-dan-zikir-bersama-untuk-masyarakat-sumbar",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:18:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Perilaku Sederhana Berpahala untuk Sesama Muslim",
       "link_berita": "https://islamdigest.republika.co.id/berita/sdxdd2451/perilaku-sederhana-berpahalauntuk-sesama-muslim",
       "kategori": "Islam Digest",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "146 Monyet Pelolong Mati Akibat Suhu Ekstrem di Meksiko",
       "link_berita": "https://internasional.republika.co.id/berita/sdxd8d370/146-monyet-pelolong-mati-akibat-suhu-ekstrem-di-meksiko",
       "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Krisis Pengangguran Gen Z: Ancaman Serius Bagi Bonus Demografi Indonesia 2045",
       "link_berita": "https://news.republika.co.id/berita/sdxcyf349/krisis-pengangguran-gen-z-ancaman-serius-bagi-bonus-demografi-indonesia-2045",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "6 Amalan Sederhana yang Membuat Seseorang Masuk Surga",
       "link_berita": "https://iqra.republika.co.id/berita/sdxcxe451/6-amalan-sederhana-yang-membuat-seseorang-masuk-surga",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Perkuat Pertahanan Udara, TNI AU Bahas Kerja Sama Alutsista dengan Airbus",
       "link_berita": "https://news.republika.co.id/berita/sdxcll451/perkuat-pertahanan-udara-tni-au-bahas-kerja-sama-alutsista-dengan-airbus",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Scarlett Johansson Sebut OpenAI Gunakan Suaranya untuk Asisten Suara \u2018Sky\u2019",
       "link_berita": "https://tekno.republika.co.id/berita/sdxcav370/scarlett-johansson-sebut-openai-gunakan-suaranya-untuk-asisten-suara-sky",
       "kategori": "Tekno",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 06:20:16"
     },
     {
       "judul": "Indonesia Tunjukkan Kepemimpinan Global dalam Isu Air di World Water Forum 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdxc09349/indonesia-tunjukkan-kepemimpinan-global-dalam-isu-air-di-world-water-forum-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 06:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "Cetak Hattrick ke Gawang Leverkusen, Ademola Lookman Berkaca-Kaca",
       "link_berita": "https://sport.republika.co.id/berita/sdxbuk456/cetak-hattrick-ke-gawang-leverkusen-ademola-lookman-berkacakaca",
       "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "Kejagung Belum Tahan Dua Tersangka Korupsi Timah karena Sakit",
       "link_berita": "https://news.republika.co.id/berita/sdx6fr484/kejagung-belum-tahan-dua-tersangka-korupsi-timah-karena-sakit",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "PalmCo Regional 1 Gelar Upgrading Humas: Tingkatkan Keterampilan Jurnalisme Digital",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdxbf8349/palmco-regional-1-gelar-upgrading-humas-tingkatkan-keterampilan-jurnalisme-digital",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "Kandang di Sragen Terbakar, Lima Kambing Hangus Terpanggang",
       "link_berita": "https://news.republika.co.id/berita/sdxb5w484/kandang-di-sragen-terbakar-lima-kambing-hangus-terpanggang",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "Pemerintah Targetkan Pengembangan 2 Juta Mobil Listrik",
       "link_berita": "https://ekonomi.republika.co.id/berita/sdxat3370/pemerintah-targetkan-pengembangan-2-juta-mobil-listrik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "AS Tetap Menentang Pengakuan Sepihak Atas Palestina",
       "link_berita": "https://internasional.republika.co.id/berita/sdxal9370/as-tetap-menentang-pengakuan-sepihak-atas-palestina",
       "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
-    },
-    {
-      "judul": "Saksi Sebut Kementan Pinjamkan Mobil Dinas ke Cucu SYL pada 2020-2023",
-      "link_berita": "https://news.republika.co.id/berita/sdx81f484/saksi-sebut-kementan-pinjamkan-mobil-dinas-ke-cucu-syl-pada-20202023",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
-    },
-    {
-      "judul": "WWF Inisiasi Pusat Ketahanan Air dan Iklim di Asia Pasifik",
-      "link_berita": "https://esgnow.republika.co.id/berita/sdx9jg328/wwf-inisiasi-pusat-ketahanan-air-dan-iklim-di-asia-pasifik",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
-    },
-    {
-      "judul": "Meski UU Perlindungannya Disahkan pada 2022, Data Pribadi Masih Sering Bocor",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdx9hr502/meski-uu-perlindungannya-disahkan-pada-2022-data-pribadi-masih-sering-bocor",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
-    },
-    {
-      "judul": "Overpopulasi Rusak Paru-Paru Kota, Kok Bisa?",
-      "link_berita": "https://tv.republika.co.id/berita/sdx6zf467/overpopulasi-rusak-paruparu-kota-kok-bisa",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 23 May 2024, 05:15:17"
-    },
-    {
-      "judul": "Ini Strategi Percepatan Pemanfaatan Kendaraan Listrik di Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdx8zq328/ini-strategi-percepatan-pemanfaatan-kendaraan-listrik-di-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Baznas tak Akan Gunakan Dana ZIS Jika Dilibatkan Program Makan Gratis",
-      "link_berita": "https://news.republika.co.id/berita/sdx8tw502/baznas-tak-akan-gunakan-dana-zis-jika-dilibatkan-program-makan-gratis",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Mahfud Nilai Wajar Penolakan Penambahan Kementerian",
-      "link_berita": "https://news.republika.co.id/berita/sdx8ix328/mahfud-nilai-wajar-penolakan-penambahan-kementerian",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Peruri Rebranding, Siap Jalankan Tugas Canggihkan Pemerintahan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdx8lb502/perurirebrandingsiap-jalankan-tugas-canggihkan-pemerintahan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Libur Panjang Waisak, Daop 3 Cirebon Siapkan 20.198 Tempat Duduk",
-      "link_berita": "https://rejabar.republika.co.id/berita/sdx8jq512/libur-panjang-waisak-daop-3-cirebon-siapkan-20198-tempat-duduk",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Rehan/Lisa ke Perempat Final Malaysia Masters 2024",
-      "link_berita": "https://sport.republika.co.id/berita/sdx86k328/rehanlisa-ke-perempat-final-malaysia-masters-2024",
-      "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Indonesia Serukan Kesetaraan Akses Air Bersih di Pulau-Pulau Kecil",
-      "link_berita": "https://esgnow.republika.co.id/berita/sdx7rf328/indonesia-serukan-kesetaraan-akses-air-bersih-di-pulaupulau-kecil",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Kepadatan Lalin Jalur Puncak di Libur Panjang Waisak",
-      "link_berita": "https://visual.republika.co.id/berita/sdx7j1375/kepadatan-lalin-jalur-puncak-di-libur-panjang-waisak",
-      "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Apresiasi, Satpol PP Depok Tebang Baliho Tak Berizin di Simpang Ramanda Margonda",
-      "link_berita": "https://ruzka.republika.co.id/news/1674682040/apresiasi-satpol-pp-depok-tebang-baliho-tak-berizin-di-simpang-ramanda-margonda",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Gelombang Eropa Dukung Palestina Makin Besar di PBB, Israel Panik",
-      "link_berita": "https://internasional.republika.co.id/berita/sdx7an502/gelombang-eropa-dukung-palestina-makin-besar-di-pbb-israel-panik",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Jamaah Haji Makan 27 Kali di Madinah dan 84 Kali di Makkah",
-      "link_berita": "https://ihram.republika.co.id/berita/sdx6yq502/jamaah-haji-makan-27-kali-di-madinah-dan-84-kali-di-makkah",
-      "kategori": "Ihram",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Walhi Gelar Aksi Peduli Lingkungan di Citarum",
-      "link_berita": "https://bandung24jam.id/posts/308458/walhi-gelar-aksi-peduli-lingkungan-di-citarum",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Musim Haji, Hewan Kurban di Lampung Tersedia Lebih",
-      "link_berita": "https://sumatralink.id/posts/308446/musim-haji-hewan-kurban-di-lampung-tersedia-lebih",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
-    },
-    {
-      "judul": "Pakar: Vaksin Dengue Solusi Preventif Lindungi Diri dari DBD",
-      "link_berita": "https://ameera.republika.co.id/berita/sdx69k328/pakar-vaksin-dengue-solusi-preventif-lindungi-diri-dari-dbd",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 23 May 2024, 04:15:17"
+      "tanggal_terbit": "Thursday, 23 May 2024, 05:20:16"
     },
     {
       "judul": "Bobby Gabung Gerindra, PDIP Sindir Soal Kepentingan Kekuasaan",
@@ -397,16 +397,16 @@
       "tanggal_terbit": "Thursday, 23 May 2024, 10:38:00"
     },
     {
-      "judul": "WWF Inisiasi Pusat Ketahanan Air dan Iklim di Asia Pasifik",
-      "link_berita": "https://esgnow.republika.co.id/berita/sdx9jg328/wwf-inisiasi-pusat-ketahanan-air-dan-iklim-di-asia-pasifik",
-      "kategori": "Tata Kelola",
-      "tanggal_terbit": "Thursday, 23 May 2024, 11:52:00"
+      "judul": "Masih Ada Ketimpangan, BMKG Dorong Sistem Peringatan Dini yang Berkeadilan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sdxh63370/masih-ada-ketimpangan-bmkg-dorong-sistem-peringatan-dini-yang-berkeadilan",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Thursday, 23 May 2024, 14:37:00"
     },
     {
-      "judul": "Hyundai Siap Umumkan Harga Palisade XRT dan All New Kona Electric",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sdxfd5370/hyundai-siap-umumkan-harga-palisade-xrt-dan-all-new-kona-electric",
+      "judul": "Siklus Hidup Mobil Xiaomi SU7 Hanya 200.000 Kilometer?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sdxj4a370/siklus-hidup-mobil-xiaomi-su7-hanya-200000-kilometer",
       "kategori": "Otomotif",
-      "tanggal_terbit": "Thursday, 23 May 2024, 13:58:00"
+      "tanggal_terbit": "Thursday, 23 May 2024, 15:19:00"
     },
     {
       "judul": "Masa Sertifikasi Halal Diperpanjang, Wapres: UMKM Belum Teredukasi",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Wednesday, 22 May 2024, 22:10:00"
     },
     {
-      "judul": "Pembatasan Satu Alamat Tiga KK di Jakarta, Legislator: Merepotkan Warga Miskin",
-      "link_berita": "https://news.republika.co.id/berita/sdxffh349/pembatasan-satu-alamat-tiga-kk-di-jakarta-legislator-merepotkan-warga-miskin",
-      "kategori": "Nusantara",
-      "tanggal_terbit": "Thursday, 23 May 2024, 13:59:00"
+      "judul": "Tim Khusus untuk Antisipasi Begal di Jakarta Resmi Dibentuk, Ini Ikrar Polda Metro Jaya",
+      "link_berita": "https://news.republika.co.id/berita/sdxitw456/tim-khusus-untuk-antisipasi-begal-di-jakarta-resmi-dibentuk-ini-ikrar-polda-metro-jaya",
+      "kategori": "Hukum",
+      "tanggal_terbit": "Thursday, 23 May 2024, 15:13:00"
     }
   ],
-  "waktu_scraping": "Thursday, 23 May 2024, 14:15:17"
+  "waktu_scraping": "Thursday, 23 May 2024, 15:20:16"
 }
