@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Mensesneg Umumkan Pengunduran Diri Kepala dan Wakil Kepala Otorita IKN",
+      "link_berita": "https://news.republika.co.id/berita/sehlrm409/mensesneg-umumkan-pengunduran-diri-kepala-dan-wakil-kepala-otorita-ikn"
+    },
+    {
       "judul": "Cermati Data Inflasi, IHSG Berhasil Menguat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sehjoa490/cermati-data-inflasi-ihsg-berhasil-menguat"
     },
@@ -15,16 +19,20 @@
     {
       "judul": "Ibu Pegi Kekeuh Yakin Anaknya Tidak Bersalah",
       "link_berita": "https://rejabar.republika.co.id/berita/sehceg512/ibu-pegi-kekeuh-yakin-anaknya-tidak-bersalah"
-    },
-    {
-      "judul": "Benarkah Kita Dilarang Buang Hajat Menghadap Kiblat?",
-      "link_berita": "https://khazanah.republika.co.id/berita/segcc3483/benarkah-kita-dilarang-buang-hajat-menghadap-kiblat"
     }
   ],
   "berita_unggulan": [
     {
-      "judul": "Ibu Pelaku Pencabulan Terhadap Anak Kandung yang Videonya Viral Menyerahkan Diri",
-      "link_berita": "https://news.republika.co.id/berita/sehjo5409/ibu-pelaku-pencabulan-terhadap-anak-kandung-yang-videonya-viral-menyerahkan-diri"
+      "judul": "Benarkah Israel Tutupi Kehancuran IDF di Gaza?",
+      "link_berita": "https://news.republika.co.id/berita/seho1f393/benarkah-israel-tutupi-kehancuran-idf-di-gaza"
+    },
+    {
+      "judul": "Kebanjiran Aduan Soal Kecurangan dalam PPDB, KPK Buat Surat Edaran",
+      "link_berita": "https://rejabar.republika.co.id/berita/sehmfx512/kebanjiran-aduan-soal-kecurangan-dalam-ppdb-kpk-buat-surat-edaran"
+    },
+    {
+      "judul": "Saudi Makin Ketat, ini Aturan Baru Melaksanakan Haji Tahun ini",
+      "link_berita": "https://khazanah.republika.co.id/berita/sehky7451/saudi-makin-ketat-ini-aturan-baru-melaksanakan-haji-tahun-ini"
     },
     {
       "judul": "All Eyes On Papua: Gerakan Solidaritas Selamatkan Hutan Adat di Bumi Cenderawasih",
@@ -73,316 +81,308 @@
     {
       "judul": "Mantan Jubir KPK Dijadwalkan Bersaksi di Sidang SYL",
       "link_berita": "https://news.republika.co.id/berita/segoda348/mantan-jubir-kpk-dijadwalkan-bersaksi-di-sidang-syl"
-    },
-    {
-      "judul": "Memahami Alquran Sepenuh Hati",
-      "link_berita": "https://iqra.republika.co.id/berita/segkz4430/memahami-alquran-sepenuh-hati"
-    },
-    {
-      "judul": "Shin Tae-yong tak Risaukan Hasil Imbang tanpa Gol Indonesia Vs Tanzania",
-      "link_berita": "https://news.republika.co.id/berita/segl99348/shin-taeyong-tak-risaukan-hasil-imbang-tanpa-gol-indonesia-vs-tanzania"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Benarkah Israel Tutupi Kehancuran IDF di Gaza?",
+      "link_berita": "https://news.republika.co.id/berita/seho1f393/benarkah-israel-tutupi-kehancuran-idf-di-gaza",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 05:17:39"
+    },
+    {
+      "judul": "MAKI Ancam Gugat Kejagung Jika tak Segera Jerat Pengusaha Inisial RBS di Kasus Timah",
+      "link_berita": "https://news.republika.co.id/berita/sehnoy409/maki-ancam-gugat-kejagung-jika-tak-segera-jerat-pengusaha-inisial-rbs-di-kasus-timah",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 05:09:52"
+    },
+    {
+      "judul": "Dekan FTI dan Kaprodi Informatika Universitas BSI Ikuti Bimtek Penyusunan Kurikulum",
+      "link_berita": "https://news.republika.co.id/berita/sehm60490/dekan-fti-dan-kaprodi-informatika-universitas-bsi-ikuti-bimtek-penyusunan-kurikulum",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 05:04:52"
+    },
+    {
+      "judul": "Bagaimana Haji Mengubah Individu Jadi Tokoh Perubahan?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sehndw451/bagaimana-haji-mengubah-individu-jadi-tokoh-perubahan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 05:03:52"
+    },
+    {
+      "judul": "Ini Penjelasan Disdik Jabar Soal Website PPDB Jabar Sulit Diakses",
+      "link_berita": "https://rejabar.republika.co.id/berita/sehn4p512/ini-penjelasan-disdik-jabar-soal-website-ppdb-jabar-sulit-diakses",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:57:52"
+    },
+    {
+      "judul": "Bung Karno Bercerita Soal Perselingkuhan dengan Ibu Kos",
+      "link_berita": "https://oohya.republika.co.id/pitan/1744719247/bung-karno-bercerita-soal-perselingkuhan-dengan-ibu-kos",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:57:52"
+    },
+    {
+      "judul": "Bung Karno Bercerita Soal Perselingkuhan Dia dengan Ibu Kos",
+      "link_berita": "https://oohya.republika.co.id/pitan/1744719247/bung-karno-bercerita-soal-perselingkuhan-dia-dengan-ibu-kos",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:57:52"
+    },
+    {
+      "judul": "Benarkah Trump akan Hentikan Perang di Palestina Seperti Permintaan Khabib?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sehn4a483/benarkah-trump-akan-hentikan-perang-di-palestina-seperti-permintaan-khabib",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:57:52"
+    },
+    {
+      "judul": "Pembangkit Listrik Energi Angin dan Surya Uni Eropa Tumbuh Pesat",
+      "link_berita": "https://esgnow.republika.co.id/berita/sehmvv416/pembangkit-listrik-energi-angin-dan-surya-uni-eropa-tumbuh-pesat",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:52:52"
+    },
+    {
+      "judul": "Polisi Jelaskan Motif Ibu Lecehkan Anak Kandung yang Videonya Viral di Medsos",
+      "link_berita": "https://news.republika.co.id/berita/sehmt4409/polisi-jelaskan-motif-ibu-lecehkan-anak-kandung-yang-videonya-viral-di-medsos",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:50:52"
+    },
+    {
+      "judul": "Orang Tua Keluhkan Website PPDB SMA/SMK di Bandung tak Bisa Diakses",
+      "link_berita": "https://rejabar.republika.co.id/berita/sehmry512/orang-tua-keluhkan-website-ppdb-smasmk-di-bandung-tak-bisa-diakses",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:49:52"
+    },
+    {
+      "judul": "Kebanjiran Aduan Soal Kecurangan dalam PPDB, KPK Buat Surat Edaran",
+      "link_berita": "https://rejabar.republika.co.id/berita/sehmfx512/kebanjiran-aduan-soal-kecurangan-dalam-ppdb-kpk-buat-surat-edaran",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:42:52"
+    },
+    {
+      "judul": "Mensesneg Umumkan Pengunduran Diri Kepala dan Wakil Kepala Otorita IKN",
+      "link_berita": "https://news.republika.co.id/berita/sehlrm409/mensesneg-umumkan-pengunduran-diri-kepala-dan-wakil-kepala-otorita-ikn",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:28:52"
+    },
+    {
+      "judul": "Admin Telegram Pembajak Series Lokal Vidio Berhasil Diringkus",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sehlop490/admin-telegram-pembajak-series-lokal-vidio-berhasil-diringkus",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:26:52"
+    },
+    {
+      "judul": "Festival Ciremai Dimulai, Taklukan Atap Tertinggi Jabar",
+      "link_berita": "https://rejabar.republika.co.id/berita/sehlof512/festival-ciremai-dimulai-taklukan-atap-tertinggi-jabar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:26:52"
+    },
+    {
       "judul": "6 Kebiasaan Kerja yang Menandakan Anda Orang yang Sangat Sensitif",
       "link_berita": "https://ameera.republika.co.id/berita/sehlf0425/6-kebiasaan-kerja-yang-menandakan-anda-orang-yang-sangat-sensitif",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 04:21:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:20:52"
     },
     {
       "judul": "Ormas Keagamaan Dapat Konsesi Tambang, Anwar Abbas: Menggembirakan!",
       "link_berita": "https://khazanah.republika.co.id/berita/sehlbu483/ormas-keagamaan-dapat-konsesi-tambang-anwar-abbas-menggembirakan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 04:19:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:18:52"
     },
     {
       "judul": "Setelah Teman Kerja, Giliran Robi, Adik Pegi Dipanggil Polda Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sehl0j512/setelah-teman-kerja-giliran-robi-adik-pegi-dipanggil-polda-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 04:12:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Saudi Makin Ketat, ini Aturan Baru Melaksanakan Haji Tahun ini",
       "link_berita": "https://khazanah.republika.co.id/berita/sehky7451/saudi-makin-ketat-ini-aturan-baru-melaksanakan-haji-tahun-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 04:11:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Gelombang Panas di India yang Mematikan: Puluhan Petugas TPS Pemilu Meninggal Dunia",
       "link_berita": "https://news.republika.co.id/berita/sehkue409/gelombang-panas-di-india-yang-mematikan-puluhan-petugas-tps-pemilu-meninggal-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 04:09:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Police Go to School, Polrestro Depok Ajak Pelajar Tertib Berlalulintas",
       "link_berita": "https://ruzka.republika.co.id/sekolah/1674719023/police-go-to-school-polrestro-depok-ajak-pelajar-tertib-berlalulintas",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 04:07:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Tak Semua Dusta Menimbukan Dosa",
       "link_berita": "https://khazanah.republika.co.id/berita/sehkdw458/tak-semua-dusta-menimbukan-dosa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:59:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Setop Ranking-rankingan di Sekolah, Saatnya Siswa Berkembang tanpa Tekanan",
       "link_berita": "https://ameera.republika.co.id/berita/sehk6g425/setop-rankingrankingan-di-sekolah-saatnya-siswa-berkembang-tanpa-tekanan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:54:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Rupiah Menguat Tipis Jelang Rilis Data Inflasi Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sehk07490/rupiah-menguat-tipis-jelang-rilis-data-inflasi-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:50:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 04:17:52"
     },
     {
       "judul": "Amanah Dorong Minat dan Potensi Fashion Designer di Aceh",
       "link_berita": "https://news.republika.co.id/berita/sehjtg456/amanah-dorong-minat-dan-potensi-fashion-designer-di-aceh",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:46:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Cermati Data Inflasi, IHSG Berhasil Menguat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sehjoa490/cermati-data-inflasi-ihsg-berhasil-menguat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:43:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Ibu Pelaku Pencabulan Terhadap Anak Kandung yang Videonya Viral Menyerahkan Diri",
       "link_berita": "https://news.republika.co.id/berita/sehjo5409/ibu-pelaku-pencabulan-terhadap-anak-kandung-yang-videonya-viral-menyerahkan-diri",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:43:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Bersahabat karena Allah, Faedah dan Cara Meraihnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sehjlz458/bersahabat-karena-allah-faedah-dan-cara-meraihnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:42:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Doa Witan di Depan Kabah",
       "link_berita": "https://khazanah.republika.co.id/berita/sehgms313/doa-witan-di-depan-kabah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:33:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Pengungsi Memilih Pakaian Bekas di Agam",
       "link_berita": "https://visual.republika.co.id/berita/segqfx491/pengungsi-memilih-pakaian-bekas-di-agam",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:31:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Kontainer Tertahan di Tanjung Priok dan Tanjung Perak, BC: 95 Persen Sudah Rilis",
       "link_berita": "https://republika.co.id/berita/sehj3n490/kontainer-tertahan-di-tanjung-priok-dan-tanjung-perak-bc-95-persen-sudah-rilis",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:31:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Festival Ciremai Dimulai, Taklukan Atap Tertinggi Jawa Barat",
       "link_berita": "https://rejabar.republika.co.id/berita/sehimb430/festival-ciremai-dimulai-taklukan-atap-tertinggi-jawa-barat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:23:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Apa Maksud dari 'Agama Adalah Nasihat'?",
       "link_berita": "https://khazanah.republika.co.id/berita/sehijf458/apa-maksud-dari-agama-adalah-nasihat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Harga Emas Antam Turun Lagi, Sekarang Hanya Rp 1.335.000 per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/sehifx490/harga-emas-antam-turun-lagi-sekarang-hanya-rp-1335000-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Pemuda Al Washliyah Minta Polemik Salam Lintas Agama Tidak Diperpanjang",
       "link_berita": "https://khazanah.republika.co.id/berita/sehi61430/pemuda-al-washliyah-minta-polemik-salam-lintas-agama-tidak-diperpanjang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "KUR BRI Dorong Kemajuan Klaster Jambu Kristal di Purworejo",
       "link_berita": "https://ekonomi.republika.co.id/berita/sehi2l490/kur-bri-dorong-kemajuan-klaster-jambu-kristal-di-purworejo",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Wow...Liam Gallagher Membawakan Lagu Noel Gallagher High Flying Birds",
       "link_berita": "https://impresi.republika.co.id/musik/1694718778/wowliam-gallagher-membawakan-lagu-noel-gallagher-high-flying-birds",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Misi Luar Angkasa DearMoon Dibatalkan, TOP Eks BigBang Gagal ke Bulan",
       "link_berita": "https://ameera.republika.co.id/berita/sehhs4425/misi-luar-angkasa-dearmoon-dibatalkan-top-eks-bigbang-gagal-ke-bulan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Soal Izin Tambang untuk Ormas, PBNU: Langkah Berani Presiden",
       "link_berita": "https://khazanah.republika.co.id/berita/sehhrf458/soal-izin-tambang-untuk-ormas-pbnu-langkah-berani-presiden",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Benarkah Muslimah Dilarang Menyembelih Hewan Kurban Sendiri?",
       "link_berita": "https://www.republika.id/posts/53188/benarkah-muslimah-dilarang-menyembelih-hewan-kurban-sendiri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 03:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "UI Beri Apresiasi kepada Lebih dari 3.000 Mahasiswa Berprestasi di Tingkat Nasional dan Internasional",
       "link_berita": "https://ruzka.republika.co.id/info-kampus/1674718688/ui-beri-apresiasi-kepada-lebih-dari-3000-mahasiswa-berprestasi-di-tingkat-nasional-dan-internasional",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 03:17:52"
     },
     {
       "judul": "Bripda IM, Instruksi Atasan Berpangkat Kombes, dan Misteri Motif Penguntitan Jampidsus",
       "link_berita": "https://news.republika.co.id/berita/sehh3h409/bripda-im-instruksi-atasan-berpangkat-kombes-dan-misteri-motif-penguntitan-jampidsus",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "All Eyes On Papua: Gerakan Solidaritas Selamatkan Hutan Adat di Bumi Cenderawasih",
       "link_berita": "https://esgnow.republika.co.id/berita/sehfb0416/all-eyes-on-papua-gerakan-solidaritas-selamatkan-hutan-adat-di-bumi-cenderawasih",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "Dubes Sebut Kontrak RI Beli Sukhoi Su-35 Belum Dibatalkan",
       "link_berita": "https://seputarmiliter.id/posts/310682/dubes-sebut-kontrak-ri-beli-sukhoi-su-35-belum-dibatalkan",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "MUI: Ada Dua Persen Masyarakat Indonesia Mendukung Israel",
       "link_berita": "https://tv.republika.co.id/berita/sehgq5418/mui-ada-dua-persen-masyarakat-indonesia-mendukung-israel",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "Kewajiban Ayah Menafkahi Anak dalam Islam: Jika Bercerai Wajibkah Tetap Menafkahi Anak?",
       "link_berita": "https://ameera.republika.co.id/berita/sehgke425/kewajiban-ayah-menafkahi-anak-dalam-islam-jika-bercerai-wajibkah-tetap-menafkahi-anak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "40 Ribu Jamaah RI tak akan Mabit di Muzdalifah, Haruskah Bayar Denda?",
       "link_berita": "https://khazanah.republika.co.id/berita/sehg9z483/40-ribu-jamaah-ri-tak-akan-mabit-di-muzdalifah-haruskah-bayar-denda",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "Indonesia Raih Penghargaan Wisata Ramah Muslim Terbaik, Ini Saran dari PPHI",
       "link_berita": "https://sharia.republika.co.id/berita/sehg67490/indonesia-raih-penghargaan-wisata-ramah-muslim-terbaik-ini-saran-dari-pphi",
       "kategori": "Sharia",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "Diduga Bunuh Diri di Apartemen Bandung, Rahul Pinem Atlet MMA Sempat Alami Pendarahan",
       "link_berita": "https://rejabar.republika.co.id/berita/sehg31512/diduga-bunuh-diri-di-apartemen-bandung-rahul-pinem-atlet-mma-sempat-alami-pendarahan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "Mengenal Tiga Hewan Peliharaan Nabi",
       "link_berita": "https://khazanah.republika.co.id/berita/sehg14458/mengenal-tiga-hewan-peliharaan-nabi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Syarat Perjanjian Damai: Hamas tak Boleh Memerintah Jalur Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sehfp1377/syarat-perjanjian-damai-hamas-tak-boleh-memerintah-jalur-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Maskot Pilkada 2024 Kabupaten Kuningan Diluncurkan, Pika dan Piku",
-      "link_berita": "https://rejabar.republika.co.id/berita/sehfm7512/maskot-pilkada-2024-kabupaten-kuningan-diluncurkan-pika-dan-piku",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Beda PBNU dengan Muhammadiyah Sikapi Tawaran Konsesi Tambang",
-      "link_berita": "https://khazanah.republika.co.id/berita/sehfl0483/beda-pbnu-dengan-muhammadiyah-sikapi-tawaran-konsesi-tambang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Prawira Harum Bandung menang atas Dewa United Banten",
-      "link_berita": "https://visual.republika.co.id/berita/segqck491/prawira-harum-bandung-menang-atas-dewa-united-banten",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Sebut Pangeran Harry Idiot, Sean Lennon: Dia Pantas Diejek!",
-      "link_berita": "https://impresi.republika.co.id/sosok/1694718558/sebut-pangeran-harry-idiot-sean-lennon-dia-pantas-diejek",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Universitas BSI Gelar Seminar Hukum Bisnis, Tantangan dan Peluang di Era Digital Perbankan",
-      "link_berita": "https://news.republika.co.id/berita/sehe8d490/universitas-bsi-gelar-seminar-hukum-bisnis-tantangan-dan-peluang-di-era-digital-perbankan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "PBNU Apresiasi Pemberian Izin Tambang untuk Ormas",
-      "link_berita": "https://khazanah.republika.co.id/berita/sehfaj458/pbnu-apresiasi-pemberian-izin-tambang-untuk-ormas",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "iPhone 16 Kapan Rilis, Spesifikasi, dan Berapa Harganya?",
-      "link_berita": "https://ruangtekno.republika.co.id/teknologi/1684718527/iphone-16-kapan-rilis-spesifikasi-dan-berapa-harganya",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Menhan AS dan Cina Lakukan Pertemuan, Ada Apa?",
-      "link_berita": "https://tv.republika.co.id/berita/sehf86418/menhan-as-dan-cina-lakukan-pertemuan-ada-apa",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Jaga Kondisi Fisik, Jamaah Indonesia Diimbau tak Umroh Sunnah Berkali-Kali",
-      "link_berita": "https://khazanah.republika.co.id/berita/sehf3m313/jaga-kondisi-fisik-jamaah-indonesia-diimbau-tak-umroh-sunnah-berkalikali",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Pemkot Yogyakarta Minta Masyarakat Berani Melaporkan Kasus Kekerasan",
-      "link_berita": "https://rejogja.republika.co.id/berita/sehbdw291/pemkot-yogyakarta-minta-masyarakat-berani-melaporkan-kasus-kekerasan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Hai Ketua OSIS, Universitas BSI Kampus Pontianak Berikan Beasiswa Juara Hingga 100 Persen",
-      "link_berita": "https://news.republika.co.id/berita/sehdwo490/hai-ketua-osis-universitas-bsi-kampus-pontianak-berikan-beasiswa-juara-hingga-100-persen",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Sempat Alami Pendarahan, Atlet MMA Raahul Pinem Diduga Nekat Bunuh Diri Loncat dari Apatermen",
-      "link_berita": "https://matapantura.republika.co.id/posts/310679/sempat-alami-pendarahan-atlet-mma-raahul-pinem-diduga-nekat-bunuh-diri-loncat-dari-apatermen",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 02:22:07"
-    },
-    {
-      "judul": "Eh Cie...Dulu Melarang, Donald Trump Sekarang Main TikTok Lho...",
-      "link_berita": "https://impresi.republika.co.id/sosok/1694718443/eh-ciedulu-melarang-donald-trump-sekarang-main-tiktok-lho",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 01:22:07"
-    },
-    {
-      "judul": "Benarkah Muslimah Dilarang Menjadi Muazin?",
-      "link_berita": "https://khazanah.republika.co.id/berita/seheec483/benarkah-muslimah-dilarang-menjadi-muazin",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 01:22:07"
+      "tanggal_terbit": "Monday, 03 Jun 2024, 02:17:52"
     },
     {
       "judul": "6 Kebiasaan Kerja yang Menandakan Anda Orang yang Sangat Sensitif",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Monday, 03 Jun 2024, 11:21:00"
     },
     {
-      "judul": "All Eyes On Papua: Gerakan Solidaritas Selamatkan Hutan Adat di Bumi Cenderawasih",
-      "link_berita": "https://esgnow.republika.co.id/berita/sehfb0416/all-eyes-on-papua-gerakan-solidaritas-selamatkan-hutan-adat-di-bumi-cenderawasih",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 09:45:00"
+      "judul": "Pembangkit Listrik Energi Angin dan Surya Uni Eropa Tumbuh Pesat",
+      "link_berita": "https://esgnow.republika.co.id/berita/sehmvv416/pembangkit-listrik-energi-angin-dan-surya-uni-eropa-tumbuh-pesat",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 11:52:00"
     },
     {
-      "judul": "Rupiah Menguat Tipis Jelang Rilis Data Inflasi Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sehk07490/rupiah-menguat-tipis-jelang-rilis-data-inflasi-indonesia",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 10:50:00"
+      "judul": "Admin Telegram Pembajak Series Lokal Vidio Berhasil Diringkus",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sehlop490/admin-telegram-pembajak-series-lokal-vidio-berhasil-diringkus",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 11:26:00"
     },
     {
       "judul": "Indonesia Raih Penghargaan Wisata Ramah Muslim Terbaik, Ini Saran dari PPHI",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 03 Jun 2024, 09:27:00"
     },
     {
-      "judul": "Gelombang Panas di India yang Mematikan: Puluhan Petugas TPS Pemilu Meninggal Dunia",
-      "link_berita": "https://news.republika.co.id/berita/sehkue409/gelombang-panas-di-india-yang-mematikan-puluhan-petugas-tps-pemilu-meninggal-dunia",
-      "kategori": "News Analysis",
-      "tanggal_terbit": "Monday, 03 Jun 2024, 11:08:00"
+      "judul": "Benarkah Israel Tutupi Kehancuran IDF di Gaza?",
+      "link_berita": "https://news.republika.co.id/berita/seho1f393/benarkah-israel-tutupi-kehancuran-idf-di-gaza",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Monday, 03 Jun 2024, 12:17:00"
     }
   ],
-  "waktu_scraping": "Monday, 03 Jun 2024, 11:22:07"
+  "waktu_scraping": "Monday, 03 Jun 2024, 12:17:52"
 }
