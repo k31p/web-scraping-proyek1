@@ -23,6 +23,10 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "BSI Buka Suara Soal Muhammadiyah yang Tarik Dananya",
+      "link_berita": "https://sharia.republika.co.id/berita/seli8t502/bsi-buka-suara-soal-muhammadiyah-yang-tarik-dananya"
+    },
+    {
       "judul": "DPR RI Setujui RUU KIA Jadi Undang-Undang, Ibu Melahirkan Dapat Cuti Enam Bulan tapi...",
       "link_berita": "https://ameera.republika.co.id/berita/selfug370/dpr-ri-setujui-ruu-kia-jadi-undangundang-ibu-melahirkan-dapat-cuti-enam-bulan-tapi"
     },
@@ -77,330 +81,326 @@
     {
       "judul": "X akan Buka Pintu Pornografi, Berikut Hukumnya dalam Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/sekaiy483/x-akan-buka-pintu-pornografi-berikut-hukumnya-dalam-islam"
-    },
-    {
-      "judul": "Perusahaan Tambang Masih Banyak yang Baru Berjalan Menuju Sustainable",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sekv8k484/perusahaan-tambang-masih-banyak-yang-baru-berjalan-menuju-sustainable"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KPK Masih Rahasiakan Tersangka Baru Korupsi Proyek DJKA, 10 Orang Pejabat Kemenhub",
+      "link_berita": "https://news.republika.co.id/berita/sellu1487/kpk-masih-rahasiakan-tersangka-baru-korupsi-proyek-djka-10-orang-pejabat-kemenhub",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 08:20:26"
+    },
+    {
+      "judul": "UU KIA Disahkan, Buruh Minta Cuti Tambahan Ibu Melahirkan Dipermudah",
+      "link_berita": "https://news.republika.co.id/berita/sellp5370/uu-kia-disahkan-buruh-minta-cuti-tambahan-ibu-melahirkan-dipermudah",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 08:17:46"
+    },
+    {
+      "judul": "Depok dan USAID IUWASH Tangguh Dorong Sanitasi Aman, Evaluasi Program Kegiatan Tahun Ketiga",
+      "link_berita": "https://ruzka.republika.co.id/nasional/1674727944/depok-dan-usaid-iuwash-tangguh-dorong-sanitasi-aman-evaluasi-program-kegiatan-tahun-ketiga",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 08:11:46"
+    },
+    {
+      "judul": "Sidang SYL, Sahroni tak Tahu Aliran Rp 850 Juta dari Kementan Buat Nasdem",
+      "link_berita": "https://news.republika.co.id/berita/sell5u377/sidang-syl-sahroni-tak-tahu-aliran-rp-850-juta-dari-kementan-buat-nasdem",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 08:05:46"
+    },
+    {
+      "judul": "Amien Rais Kunjungi Ketua MPR Bambang Soesatyo di Senayan",
+      "link_berita": "https://visual.republika.co.id/berita/sell1z491/amien-rais-kunjungi-ketua-mpr-bambang-soesatyo-di-senayan",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 08:03:46"
+    },
+    {
+      "judul": "Jelang Puncak Haji, Check Point Masuk Kota Makkah Diperketat",
+      "link_berita": "https://khazanah.republika.co.id/berita/selkwl313/jelang-puncak-haji-check-point-masuk-kota-makkah-diperketat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 08:00:46"
+    },
+    {
+      "judul": "Token Listrik Gagal Terus Saat Dimasukkan, Ini Penyebabnya",
+      "link_berita": "https://sindikasi.republika.co.id/berita/selkw37316000/token-listrik-gagal-terus-saat-dimasukkan-ini-penyebabnya",
+      "kategori": "Sindikasi",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:59:46"
+    },
+    {
+      "judul": "PBNU - Shopee Latih Santri Berniaga Elektronik",
+      "link_berita": "https://khazanah.republika.co.id/berita/selbsw451/pbnu-shopee-latih-santri-berniaga-elektronik",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:59:46"
+    },
+    {
+      "judul": "Usai Poles Timnas, Erick Thohir akan Beres-Beres Liga Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/selkoj348/usai-poles-timnas-erick-thohir-akan-beresberes-liga-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:55:46"
+    },
+    {
+      "judul": "Gangguan Listrik di Sumatera Bagian Selatan, PLN: 3,4 Juta Pelanggan Telah Pulih",
+      "link_berita": "https://ekonomi.republika.co.id/berita/selkih490/gangguan-listrik-di-sumatera-bagian-selatan-pln-34-juta-pelanggan-telah-pulih",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:51:46"
+    },
+    {
+      "judul": "Terungkap Aktor Intelektual Pembunuhan ASN di Arfak, Pelaku adalah Ketua Lembaga Adat",
+      "link_berita": "https://news.republika.co.id/berita/selkd8377/terungkap-aktor-intelektual-pembunuhan-asn-di-arfak-pelaku-adalah-ketua-lembaga-adat",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:48:46"
+    },
+    {
+      "judul": "PPN Naik Jadi 12 Persen, HIPMI Harap Ada Insentif untuk Pelaku Usaha",
+      "link_berita": "https://ekonomi.republika.co.id/berita/selk3v490/ppn-naik-jadi-12-persen-hipmi-harap-ada-insentif-untuk-pelaku-usaha",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:42:46"
+    },
+    {
+      "judul": "Kolaborasi Telin dan SingTel Tingkatkan Konektivitas Data Center antara S",
+      "link_berita": "https://news.republika.co.id/berita/seljyr370/kolaborasi-telin-dan-singtel-tingkatkan-konektivitas-data-center-antara-s",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:39:46"
+    },
+    {
+      "judul": "Benarkah Duduk Lama Bisa Sebabkan Batu Ginjal? Ini Penjelasan Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/seljs8425/benarkah-duduk-lama-bisa-sebabkan-batu-ginjal-ini-penjelasan-dokter",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:35:46"
+    },
+    {
+      "judul": "AHY Pastikan tak Ada Masyarakat yang Dirugikan dalam Pembangunan Papua",
+      "link_berita": "https://esgnow.republika.co.id/berita/selipt416/ahy-pastikan-tak-ada-masyarakat-yang-dirugikan-dalam-pembangunan-papua",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:34:46"
+    },
+    {
+      "judul": "Chery Tiggo 5X Mulai Mengaspal di Tanah Air, Ini Dia Spesifikasi-nya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/seljpg349/chery-tiggo-5x-mulai-mengaspal-di-tanah-air-ini-dia-spesifikasinya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:34:46"
+    },
+    {
+      "judul": "Sejak Kembali Viral, Keluarga Vina dan Eky Belum Jalin Komunikasi",
+      "link_berita": "https://rejabar.republika.co.id/berita/seljn9512/sejak-kembali-viral-keluarga-vina-dan-eky-belum-jalin-komunikasi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:32:46"
+    },
+    {
+      "judul": "Di Sidang SYL, Bendum Nasdem: Surya Paloh tak Instruksikan Garnita Bagikan Sembako",
+      "link_berita": "https://news.republika.co.id/berita/seljmn377/di-sidang-syl-bendum-nasdem-surya-paloh-tak-instruksikan-garnita-bagikan-sembako",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:32:46"
+    },
+    {
+      "judul": "Mengenal Dzakwan, Mahasiswa Indonesia yang Jadi Penerjemah Khutbah Jumat di Masjid Nabawi",
+      "link_berita": "https://khazanah.republika.co.id/berita/seljdq366/mengenal-dzakwan-mahasiswa-indonesia-yang-jadi-penerjemah-khutbah-jumat-di-masjid-nabawi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:27:46"
+    },
+    {
+      "judul": "Presiden Jokowi: Persyaratan Ormas Kelola Tambang Ketat",
+      "link_berita": "https://khazanah.republika.co.id/berita/selbk2451/presiden-jokowi-persyaratan-ormas-kelola-tambang-ketat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:25:46"
+    },
+    {
+      "judul": "Penanganan Sampah Jadi Tanggung Jawab Tiap Daerah",
+      "link_berita": "https://esgnow.republika.co.id/berita/seljac328/penanganan-sampah-jadi-tanggung-jawab-tiap-daerah",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:25:46"
+    },
+    {
+      "judul": "Ayah dan Kakak Vina Tiba di Mapolda Jabar Jalani Pemeriksaan",
+      "link_berita": "https://rejabar.republika.co.id/berita/selj9k512/ayah-dan-kakak-vina-tiba-di-mapolda-jabar-jalani-pemeriksaan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:24:46"
+    },
+    {
+      "judul": "Eks Mentan SYL Klaim Pemberian Bantuan tak Langgar Hukum",
+      "link_berita": "https://news.republika.co.id/berita/selj97377/eks-mentan-syl-klaim-pemberian-bantuan-tak-langgar-hukum",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:24:46"
+    },
+    {
+      "judul": "MPR Dukung Amandemen UUD 1945: Sekarang Terjadi Demokrasi Cash is King",
+      "link_berita": "https://news.republika.co.id/berita/selj7w484/mpr-dukung-amandemen-uud-1945-sekarang-terjadi-demokrasi-cash-is-king",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:23:46"
+    },
+    {
+      "judul": "Pertamina-Bakrie Group Bangun Nusantara Sustainability Hub di IKN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/selj54370/pertaminabakrie-group-bangun-nusantara-sustainability-hub-di-ikn",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:22:46"
+    },
+    {
       "judul": "Pemeriksaan Ketat, Jamaah Haji Indonesia Diimbau tidak Keluar dari Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/selioq451/pemeriksaan-ketat-jamaah-haji-indonesia-diimbau-tidak-keluar-dari-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:12:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "DKI Buka Layanan Cek Kesehatan Mental Bagi Warga yang Merasa Melow dan Galau",
       "link_berita": "https://news.republika.co.id/berita/selimo370/dki-buka-layanan-cek-kesehatan-mental-bagi-warga-yang-merasa-melow-dan-galau",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:10:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Badan Pengawas Eropa Kesulitan Atasi Greenwashing",
       "link_berita": "https://esgnow.republika.co.id/berita/selgrm416/badan-pengawas-eropa-kesulitan-atasi-greenwashing",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:09:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Zaman Berubah, Amien Rais Dukung Amandemen UUD 1945,",
       "link_berita": "https://news.republika.co.id/berita/selikb377/zaman-berubah-amien-rais-dukung-amandemen-uud-1945",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:09:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Cerita Perempuan Desa di Aceh Jadi Penjaga Hutan",
       "link_berita": "https://tv.republika.co.id/berita/seliiy313/cerita-perempuan-desa-di-aceh-jadi-penjaga-hutan",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:08:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Shin Tae-yong Puji Irak Tim Bagus, tapi Janjikan Perlawanan Sengit Timnas Indonesia",
       "link_berita": "https://news.republika.co.id/berita/selic9348/shin-taeyong-puji-irak-tim-bagus-tapi-janjikan-perlawanan-sengit-timnas-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:04:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Peduli Lingkungan, Bakul Budaya dan MAC UI Ajak Masyarakat Ubah Sampah Jadi Kompos",
       "link_berita": "https://ruzka.republika.co.id/komunitas/1674727619/peduli-lingkungan-bakul-budaya-dan-mac-ui-ajak-masyarakat-ubah-sampah-jadi-kompos",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:02:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "BSI Buka Suara Soal Muhammadiyah yang Tarik Dananya",
       "link_berita": "https://sharia.republika.co.id/berita/seli8t502/bsi-buka-suara-soal-muhammadiyah-yang-tarik-dananya",
       "kategori": "Sharia",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:02:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "WHO: 7-11 Ribu Warga Palestina Butuh Evakuasi Medis Darurat",
       "link_berita": "https://khazanah.republika.co.id/berita/sel9tb451/who-711-ribu-warga-palestina-butuh-evakuasi-medis-darurat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:59:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Bos IKN Mundur, Anggota DPR Bertanya-tanya, Apakah Ada Konflik Tersembunyi?",
       "link_berita": "https://news.republika.co.id/berita/selhx0377/bos-ikn-mundur-anggota-dpr-bertanyatanya-apakah-ada-konflik-tersembunyi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:55:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 07:20:46"
     },
     {
       "judul": "Luhut Klaim Investasi IKN Terus Jalan, tapi Lambat Sana-sini",
       "link_berita": "https://news.republika.co.id/berita/selhjn377/luhut-klaim-investasi-ikn-terus-jalan-tapi-lambat-sanasini",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:47:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Urgensi Teknologi AI, Universitas BSI Gelar Workshop Edutech untuk Guru",
       "link_berita": "https://news.republika.co.id/berita/selhce490/urgensi-teknologi-ai-universitas-bsi-gelar-workshop-edutech-untuk-guru",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:43:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Sinyal Duet Sandiaga-Zita di Pilgub DKI Usai Keduanya Joging Bareng",
       "link_berita": "https://news.republika.co.id/berita/selh37377/sinyal-duet-sandiagazita-di-pilgub-dki-usai-keduanya-joging-bareng",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:37:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Vitamin A Sangat Diperlukan Sejak Bayi Baru Lahir",
       "link_berita": "https://diagnosa.id/posts/311227/vitamin-a-sangat-diperlukan-sejak-bayi-baru-lahir",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:36:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Dahsyatnya Manfaat Buah Leunca Bagi Kesehatan Tubuh",
       "link_berita": "https://topnews62.com/posts/311229/dahsyatnya-manfaat-buah-leunca-bagi-kesehatan-tubuh",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:36:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Jalur Mandiri Nilai Rapor UB 2024 Sudah Dibuka, Cek Ketentuan dan Jadwalnya",
       "link_berita": "https://kampus.republika.co.id/info-kampus/1624727493/jalur-mandiri-nilai-rapor-ub-2024-sudah-dibuka-cek-ketentuan-dan-jadwalnya",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:31:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Gangguan Listrik di Sumatra, PLN Siap Beri Kompensasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/selgkn370/gangguan-listrik-di-sumatra-pln-siap-beri-kompensasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:26:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Pendaftaran PPDB, Orang Tua dan Siswa Datangi Sekolah",
       "link_berita": "https://visual.republika.co.id/berita/selgki491/pendaftaran-ppdb-orang-tua-dan-siswa-datangi-sekolah",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:26:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "All Eyes on Papua Menggema, Bagaimana Laju Deforestasi di Papua?",
       "link_berita": "https://esgnow.republika.co.id/berita/selgc5416/all-eyes-on-papua-menggema-bagaimana-laju-deforestasi-di-papua",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:21:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Puncak Kemarau di DIY Diperkirakan Juli-Agustus",
       "link_berita": "https://rejogja.republika.co.id/berita/selfzt291/puncak-kemarau-di-diy-diperkirakan-juliagustus",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Pj Bupati Bandung Barat Ditetapkan Tersangka Kasus Korupsi Pasar Cigasong Majalengka",
       "link_berita": "https://rejabar.republika.co.id/berita/selfxt512/pj-bupati-bandung-barat-ditetapkan-tersangka-kasus-korupsi-pasar-cigasong-majalengka",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "DPR RI Setujui RUU KIA Jadi Undang-Undang, Ibu Melahirkan Dapat Cuti Enam Bulan tapi...",
       "link_berita": "https://ameera.republika.co.id/berita/selfug370/dpr-ri-setujui-ruu-kia-jadi-undangundang-ibu-melahirkan-dapat-cuti-enam-bulan-tapi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Angkot di Kota Bogor Tabrak Tujuh Kendaraan Melarikan Diri",
       "link_berita": "https://news.republika.co.id/berita/selftr484/angkot-di-kota-bogor-tabrak-tujuh-kendaraan-melarikan-diri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Sukuk ESG BSI Laris Manis Diburu Investor",
       "link_berita": "https://esgnow.republika.co.id/berita/seldn0416/sukuk-esg-bsi-laris-manis-diburu-investor",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
       "judul": "Rektor Universitas BSI Beri Kuliah Umum Personal Branding di Politeknik Negeri Banjarmasin",
       "link_berita": "https://news.republika.co.id/berita/selfah490/rektor-universitas-bsi-beri-kuliah-umum-personal-branding-di-politeknik-negeri-banjarmasin",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:20:46"
     },
     {
-      "judul": "KPK Tetapkan Dua Korporasi Jadi Tersangka Korupsi DJKA Kemenhub",
-      "link_berita": "https://news.republika.co.id/berita/self79484/kpk-tetapkan-dua-korporasi-jadi-tersangka-korupsi-djka-kemenhub",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
-    },
-    {
-      "judul": "Keluarga Vina Bingung Banyak Saksi Baru Bermunculan: Harus Percaya Sama Siapa?",
-      "link_berita": "https://rejabar.republika.co.id/berita/self2w512/keluarga-vina-bingung-banyak-saksi-baru-bermunculan-harus-percaya-sama-siapa",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 06:16:44"
-    },
-    {
-      "judul": "Jelang Idul Adha, Penjual dan Tempat Pemotongan Hewan di Depok Diminta Peduli Kesehatan Hewan Kurban",
-      "link_berita": "https://ruzka.republika.co.id/ekonomi/1674727293/jelang-idul-adha-penjual-dan-tempat-pemotongan-hewan-di-depok-diminta-peduli-kesehatan-hewan-kurban",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Terpuruk dan Rezeki Tersendat, Baca Doa ini",
-      "link_berita": "https://tv.republika.co.id/berita/seleil313/terpuruk-dan-rezeki-tersendat-baca-doa-ini",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Penuhi Panggilan Polda Jabar, Keluarga Vina Ingin Pertanyakan Hilangnya Dua DPO",
-      "link_berita": "https://rejabar.republika.co.id/berita/sele0h512/penuhi-panggilan-polda-jabar-keluarga-vina-ingin-pertanyakan-hilangnya-dua-dpo",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Apakah Presiden Rusia Vladimir Putin Mengimani Tuhan?",
-      "link_berita": "https://khazanah.republika.co.id/berita/selds4451/apakah-presiden-rusia-vladimir-putin-mengimani-tuhan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Kritik Transparansi Kasus Penguntitan Jampidsus, Mahfud: Harusnya Presiden Bisa Jelaskan",
-      "link_berita": "https://news.republika.co.id/berita/seldm9409/kritik-transparansi-kasus-penguntitan-jampidsus-mahfud-harusnya-presiden-bisa-jelaskan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Rekomendasi Terbaik Pemberian ASI",
-      "link_berita": "https://diagnosa.id/posts/311203/rekomendasi-terbaik-pemberian-asi",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Rekomendasi Terbaik Pemberian ASI",
-      "link_berita": "https://diagnosa.id/posts/311203/rekomendasi-terbaik-pemberian-asi",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Banyak Saksi Mendadak Bermunculan Sekarang, Keluarga Vina Jadi Bingung",
-      "link_berita": "https://news.republika.co.id/berita/seld42409/banyak-saksi-mendadak-bermunculan-sekarang-keluarga-vina-jadi-bingung",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Pasokan Garam ke Palu dari Makassar",
-      "link_berita": "https://visual.republika.co.id/berita/selcxn491/pasokan-garam-ke-palu-dari-makassar",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Thermal Protective Aid, Alat Perlindungan Diri dari Hipotermia di Laut",
-      "link_berita": "https://shippingcargo.co.id/posts/310276/thermal-protective-aid-alat-perlindungan-diri-dari-hipotermia-di-laut",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Kemenhub Mulai Terapkan IP Code untuk Keselamatan Kapal per 1 Juli 2024",
-      "link_berita": "https://shippingcargo.co.id/posts/310797/kemenhub-mulai-terapkan-ip-code-untuk-keselamatan-kapal-per-1-juli-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Memutus Rantai Transmisi Penularan Tuberkulosis Melalui Pendekatan Budaya",
-      "link_berita": "https://diagnosa.id/posts/311209/memutus-rantai-transmisi-penularan-tuberkulosis-melalui-pendekatan-budaya",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Saat Latihan Safety Riding Komunitas Motor wajib Pahami Ini",
-      "link_berita": "https://motoresto.id/posts/311205/saat-latihan-safety-riding-komunitas-motor-wajib-pahami-ini",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Sindir Aliran Uang dari SYL ke Nasdem, Hakim: Kalau Nggak Jadi Kasus, Nggak Dikembalikan",
-      "link_berita": "https://news.republika.co.id/berita/selcru409/sindir-aliran-uang-dari-syl-ke-nasdem-hakim-kalau-nggak-jadi-kasus-nggak-dikembalikan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Perokok Aktif di Indonesia Tembus 70 Juta Orang, Mayoritas Anak Muda",
-      "link_berita": "https://diagnosa.id/posts/311204/perokok-aktif-di-indonesia-tembus-70-juta-orang-mayoritas-anak-muda",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Cara Bank Muamalat Dukung Ekonomi Hijau dan Rendah Karbon",
-      "link_berita": "https://esgnow.republika.co.id/berita/selcgk416/cara-bank-muamalat-dukung-ekonomi-hijau-dan-rendah-karbon",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Palestina Usulkan FIFA Beri Sanksi Israel",
-      "link_berita": "https://tv.republika.co.id/berita/selc9s313/palestina-usulkan-fifa-beri-sanksi-israel",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Teknologi AI akan Tingkatkan Layanan Kesehatan",
-      "link_berita": "https://diagnosa.id/posts/311201/teknologi-ai-akan-tingkatkan-layanan-kesehatan",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Hasil Penelitian: Air Tawar di Bumi Muncul Lebih Awal dari yang Kita Duga",
-      "link_berita": "https://impresiupdate.id/posts/311198/hasil-penelitian-air-tawar-di-bumi-muncul-lebih-awal-dari-yang-kita-duga",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 05:16:44"
-    },
-    {
-      "judul": "Sejarah Kebijakan 'Rumah Murah'",
-      "link_berita": "https://visual.republika.co.id/berita/selbr7393/sejarah-kebijakan-rumah-murah",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 04:16:44"
-    },
-    {
-      "judul": "ITB Dorong Mahasiswa ke Luar Negeri Melalui Program International Track Bidang Fisika",
-      "link_berita": "https://kampus.republika.co.id/news/1624727047/itb-dorong-mahasiswa-ke-luar-negeri-melalui-program-international-track-bidang-fisika",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 04:16:44"
-    },
-    {
-      "judul": "KPK Ungkap Tiga Saksi Terbaru Terkait Buron Harun Masiku Masih Kerabat",
-      "link_berita": "https://news.republika.co.id/berita/selbna409/kpk-ungkap-tiga-saksi-terbaru-terkait-buron-harun-masiku-masih-kerabat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 04:16:44"
-    },
-    {
-      "judul": "PLN Masih Belum Tahu Penyebab Listrik di Sumbar Mati Total",
-      "link_berita": "https://news.republika.co.id/berita/selb4j409/pln-masih-belum-tahu-penyebab-listrik-di-sumbar-mati-total",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 04:16:44"
-    },
-    {
-      "judul": "DPR RI Setujui RUU KIA Jadi Undang-Undang, Ibu Melahirkan Dapat Cuti Enam Bulan tapi...",
-      "link_berita": "https://ameera.republika.co.id/berita/selfug370/dpr-ri-setujui-ruu-kia-jadi-undangundang-ibu-melahirkan-dapat-cuti-enam-bulan-tapi",
+      "judul": "Benarkah Duduk Lama Bisa Sebabkan Batu Ginjal? Ini Penjelasan Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/seljs8425/benarkah-duduk-lama-bisa-sebabkan-batu-ginjal-ini-penjelasan-dokter",
       "kategori": "Health",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 13:11:00"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 14:36:00"
     },
     {
-      "judul": "All Eyes on Papua Menggema, Bagaimana Laju Deforestasi di Papua?",
-      "link_berita": "https://esgnow.republika.co.id/berita/selgc5416/all-eyes-on-papua-menggema-bagaimana-laju-deforestasi-di-papua",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 13:21:00"
+      "judul": "Penanganan Sampah Jadi Tanggung Jawab Tiap Daerah",
+      "link_berita": "https://esgnow.republika.co.id/berita/seljac328/penanganan-sampah-jadi-tanggung-jawab-tiap-daerah",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 14:25:00"
     },
     {
-      "judul": "Gangguan Listrik di Sumatra, PLN Siap Beri Kompensasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/selgkn370/gangguan-listrik-di-sumatra-pln-siap-beri-kompensasi",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 13:26:00"
+      "judul": "Gangguan Listrik di Sumatera Bagian Selatan, PLN: 3,4 Juta Pelanggan Telah Pulih",
+      "link_berita": "https://ekonomi.republika.co.id/berita/selkih490/gangguan-listrik-di-sumatera-bagian-selatan-pln-34-juta-pelanggan-telah-pulih",
+      "kategori": "Energi",
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 14:51:00"
     },
     {
       "judul": "BSI Buka Suara Soal Muhammadiyah yang Tarik Dananya",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 05 Jun 2024, 14:02:00"
     },
     {
-      "judul": "DKI Buka Layanan Cek Kesehatan Mental Bagi Warga yang Merasa Melow dan Galau",
-      "link_berita": "https://news.republika.co.id/berita/selimo370/dki-buka-layanan-cek-kesehatan-mental-bagi-warga-yang-merasa-melow-dan-galau",
+      "judul": "KPK Masih Rahasiakan Tersangka Baru Korupsi Proyek DJKA, 10 Orang Pejabat Kemenhub",
+      "link_berita": "https://news.republika.co.id/berita/sellu1487/kpk-masih-rahasiakan-tersangka-baru-korupsi-proyek-djka-10-orang-pejabat-kemenhub",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 05 Jun 2024, 14:11:00"
+      "tanggal_terbit": "Wednesday, 05 Jun 2024, 15:20:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 05 Jun 2024, 14:16:44"
+  "waktu_scraping": "Wednesday, 05 Jun 2024, 15:20:46"
 }
