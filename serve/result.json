@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Aksi Bagi-Bagi Buku Bersampul Jan Ethes Jadi Sorotan, Gibran Minta Maaf",
+      "link_berita": "https://news.republika.co.id/berita/sf043l377/aksi-bagibagi-buku-bersampul-jan-ethes-jadi-sorotan-gibran-minta-maaf"
+    },
+    {
       "judul": "Buntut Briptu FN Bakar Suami, Presiden Jokowi Beri Pesan Khusus untuk Para Penjudi Online",
       "link_berita": "https://news.republika.co.id/berita/sf01d0487/buntut-briptu-fn-bakar-suami-presiden-jokowi-beri-pesan-khusus-untuk-para-penjudi-online"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Euro 2024, Penebusan Jerman di Rumah Sendiri",
       "link_berita": "https://news.republika.co.id/berita/seztay348/euro-2024-penebusan-jerman-di-rumah-sendiri"
-    },
-    {
-      "judul": "Saat Ernest Renan Menggugat Identitas Yahudi Ashkenazi",
-      "link_berita": "https://khazanah.republika.co.id/berita/sez00h483/saat-ernest-renan-menggugat-identitas-yahudi-ashkenazi"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kapal Rusia ke Kuba, Teringat Saat Dunia di Tubir Perang Nuklir",
+      "link_berita": "https://news.republika.co.id/berita/sf07q1393/kapal-rusia-ke-kuba-teringat-saat-dunia-di-tubir-perang-nuklir"
+    },
+    {
+      "judul": "Perubahan Iklim Ancam Keanekaragaman Hayati Laut",
+      "link_berita": "https://esgnow.republika.co.id/berita/sf06zz416/perubahan-iklim-ancam-keanekaragaman-hayati-laut"
+    },
+    {
+      "judul": "Jelang Libur Panjang, BUMN Tebar Promo dari Diskon Kereta hingga Hotel",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sf02ba370/jelang-libur-panjang-bumn-tebar-promo-dari-diskon-kereta-hingga-hotel"
+    },
     {
       "judul": "Remaja Seloroh Darah dan Tulang Anak Palestina, dari Tawa Menjadi Tangis Serta Penyesalan",
       "link_berita": "https://news.republika.co.id/berita/sezqu0377/remaja-seloroh-darah-dan-tulang-anak-palestina-dari-tawa-menjadi-tangis-serta-penyesalan"
@@ -69,338 +81,326 @@
     {
       "judul": "Melihat Persiapan di Armuzna Jelang Puncak Ibadah Haji",
       "link_berita": "https://visual.republika.co.id/berita/seyyfz375/melihat-persiapan-di-armuzna-jelang-puncak-ibadah-haji"
-    },
-    {
-      "judul": "Polda Jabar Bentuk Tim Hukum Siap Hadapi Gugatan Praperadilan Pegi Setiawan",
-      "link_berita": "https://rejabar.republika.co.id/berita/seyx63512/polda-jabar-bentuk-tim-hukum-siap-hadapi-gugatan-praperadilan-pegi-setiawan"
-    },
-    {
-      "judul": "PKB DKI Jakarta Buka Peluang Usung Anies-Kaesang di Pilgub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/seyvgx409/pkb-dki-jakarta-buka-peluang-usung-anieskaesang-di-pilgub-jakarta"
-    },
-    {
-      "judul": "Anang dan Ashanty Minta Maaf, Ungkap Kronologi Bisa Menyanyi Usai Kemenangan Timnas di GBK",
-      "link_berita": "https://news.republika.co.id/berita/seyuhh409/anang-dan-ashanty-minta-maaf-ungkap-kronologi-bisa-menyanyi-usai-kemenangan-timnas-di-gbk"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "MUI Jabar Prihatin Judi Online yang Makin Marak",
+      "link_berita": "https://rejabar.republika.co.id/berita/sf09p5512/mui-jabar-prihatin-judi-online-yang-makin-marak",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:22:39"
+    },
+    {
+      "judul": "Hajj with Ease: Simple Health Tips for a More Enjoyable Pilgrimage",
+      "link_berita": "https://en.republika.co.id/berita/sf09di366/hajj-with-ease-simple-health-tips-for-a-more-enjoyable-pilgrimage",
+      "kategori": "En",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:23:39"
+    },
+    {
+      "judul": "Bertemu Putra Mahkota MBS di Jeddah, Prabowo Bahas Situasi di Palestina",
+      "link_berita": "https://news.republika.co.id/berita/sf09a9484/bertemu-putra-mahkota-mbs-di-jeddah-prabowo-bahas-situasi-di-palestina",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:13:39"
+    },
+    {
+      "judul": "PKB Wacanakan Duet Anies-Kaesang, Ini Jawaban Resmi PSI",
+      "link_berita": "https://news.republika.co.id/berita/sf097c487/pkb-wacanakan-duet-anieskaesang-ini-jawaban-resmi-psi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:11:39"
+    },
+    {
+      "judul": "Indra Penciuman Bermasalah? Waspadalah, Bisa Berpotensi Timbulnya Gagal Jantung",
+      "link_berita": "https://impresiupdate.id/posts/313159/indra-penciuman-bermasalah-waspadalah-bisa-berpotensi-timbulnya-gagal-jantung",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:10:39"
+    },
+    {
+      "judul": "Seberapa Banyak Olahraga yang Dibutuhkan Setiap Minggu untuk Mengendalikan Tekanan Darah?",
+      "link_berita": "https://impresiupdate.id/posts/313173/seberapa-banyak-olahraga-yang-dibutuhkan-setiap-minggu-untuk-mengendalikan-tekanan-darah-",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:10:39"
+    },
+    {
+      "judul": "Australia Open 2024: Bentrok, Tunggal Putri Indonesia Pastikan Tempat di Semifinal",
+      "link_berita": "https://badmintonews.id/posts/313202/australia-open-2024-bentrok-tunggal-putri-indonesia-pastikan-tempat-di-semifinal",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:10:39"
+    },
+    {
+      "judul": "Air Minum Resmi Timnas Indonesia Wajib 100% Murni",
+      "link_berita": "https://ekonomi.republika.co.id/berita/seycfs423/air-minum-resmi-timnas-indonesia-wajib-100-murni",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:09:39"
+    },
+    {
+      "judul": "BRIN Sebut Ekosistem Kendaraan Listrik RI Belum Memadai",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sf0916416/brin-sebut-ekosistem-kendaraan-listrik-ri-belum-memadai",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:07:39"
+    },
+    {
+      "judul": "Abrasi Sungai Cimanuk Gerus Tanah Warga, Pemkab Dorong Percepatan Pembebasan Lahan",
+      "link_berita": "https://rejabar.republika.co.id/berita/sf08za512/abrasi-sungai-cimanuk-gerus-tanah-warga-pemkab-dorong-percepatan-pembebasan-lahan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:06:39"
+    },
+    {
+      "judul": "Inovatif, Siswa SMA Buat Aplikasi untuk Deteksi Pengemudi Mengantuk Berbasis AI",
+      "link_berita": "https://visual.republika.co.id/berita/sf08vq375/inovatif-siswa-sma-buat-aplikasi-untuk-deteksi-pengemudi-mengantuk-berbasis-ai",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:04:39"
+    },
+    {
+      "judul": "Sehabis Tiktok Terbitlah Temu, Pemerintah Mengaku \u2018Pasang Badan\u2019",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sf08uh370/sehabis-tiktok-terbitlah-temu-pemerintah-mengaku-pasang-badan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:03:39"
+    },
+    {
+      "judul": "Suzuki Tawarkan Promo Menarik di Jakarta Fair 2024 dengan Usung New Adventure of Mobility",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sf08mn349/suzuki-tawarkan-promo-menarik-di-jakarta-fair-2024-dengan-usung-new-adventure-of-mobility",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:59:39"
+    },
+    {
+      "judul": "Kerjasama Perguruan Tinggi di ASEAN Perlu Dijalin, Bersama Bangun SDM yang Unggul",
+      "link_berita": "https://ruzka.republika.co.id/info-kampus/1674755792/kerjasama-perguruan-tinggi-di-asean-perlu-dijalin-bersama-bangun-sdm-yang-unggul",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:57:39"
+    },
+    {
+      "judul": "Baju Putih Kadang 'Merepotkan', Ini Cara Agar tak Cepat Menguning dan Kusam",
+      "link_berita": "https://ameera.republika.co.id/berita/sf08c9425/baju-putih-kadang-merepotkan-ini-cara-agar-tak-cepat-menguning-dan-kusam",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:52:39"
+    },
+    {
+      "judul": "Remaja Olok-Olok Darah dan Tulang Anak Palestina, Ustazah Amalina Ingatkan Hal Ini",
+      "link_berita": "https://khazanah.republika.co.id/berita/sf08aq366/remaja-olokolok-darah-dan-tulang-anak-palestina-ustazah-amalina-ingatkan-hal-ini",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:51:39"
+    },
+    {
+      "judul": "Sekolah Quran Asy Syahid adakan Wisuda Nuansa Dukungan kepada Palestina",
+      "link_berita": "https://ruzka.republika.co.id/sekolah/1674755718/sekolah-quran-asy-syahid-adakan-wisuda-nuansa-dukungan-kepada-palestina",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:39:39"
+    },
+    {
+      "judul": "Kapal Rusia ke Kuba, Teringat Saat Dunia di Tubir Perang Nuklir",
+      "link_berita": "https://news.republika.co.id/berita/sf07q1393/kapal-rusia-ke-kuba-teringat-saat-dunia-di-tubir-perang-nuklir",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:39:39"
+    },
+    {
+      "judul": "Gubernur dan Wagub Kalteng Bagikan Sapi dan Sembako untuk Masyarakat",
+      "link_berita": "https://news.republika.co.id/berita/sf07c6502/gubernur-dan-wagub-kalteng-bagikan-sapi-dan-sembako-untuk-masyarakat",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:31:39"
+    },
+    {
+      "judul": "PSSI Prioritaskan Literasi Kenyamanan Bermedia Sosial Bagi Timnas",
+      "link_berita": "https://news.republika.co.id/berita/sf078a348/pssi-prioritaskan-literasi-kenyamanan-bermedia-sosial-bagi-timnas",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:28:39"
+    },
+    {
+      "judul": "Dewan Dorong Lelang Bus Transjakarta tak Layak Pakai Harus Dipercepat",
+      "link_berita": "https://news.republika.co.id/berita/sf075r484/dewan-dorong-lelang-bus-transjakarta-tak-layak-pakai-harus-dipercepat",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:27:39"
+    },
+    {
+      "judul": "Hadits ini Jelaskan Kebolehan Minum Kencing Unta",
+      "link_berita": "https://khazanah.republika.co.id/berita/sezw63451/hadits-ini-jelaskan-kebolehan-minum-kencing-unta",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:23:39"
+    },
+    {
+      "judul": "Perubahan Iklim Ancam Keanekaragaman Hayati Laut",
+      "link_berita": "https://esgnow.republika.co.id/berita/sf06zz416/perubahan-iklim-ancam-keanekaragaman-hayati-laut",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:23:39"
+    },
+    {
       "judul": "Masyarakat Harus Sadar Bencana, Tak Hanya Rawan Bencana Tapi Waspadai Perubahan Iklim",
       "link_berita": "https://rejabar.republika.co.id/berita/sf062l512/masyarakat-harus-sadar-bencana-tak-hanya-rawan-bencana-tapi-waspadai-perubahan-iklim",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:03:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 05:23:39"
     },
     {
       "judul": "Polda Jabar Musnahkan 23,9 Kilogram Sabu",
       "link_berita": "https://rejabar.republika.co.id/berita/sf04w2512/polda-jabar-musnahkan-239-kilogram-sabu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:38:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Perbaiki 765 Rutilahu, Pemkab Purwakarta Habiskan Rp 15 Miliar",
       "link_berita": "https://rejabar.republika.co.id/berita/sf04kx512/perbaiki-765-rutilahu-pemkab-purwakarta-habiskan-rp-15-miliar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:31:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Putra Joe Biden Divonis Bersalah",
       "link_berita": "https://tv.republika.co.id/berita/sf021x467/putra-joe-biden-divonis-bersalah",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:30:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Yuk Ikutan Kompetisi Racik Jamu Kekinian Besutan PNM dan Kementerian BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/sf04au370/yuk-ikutan-kompetisi-racik-jamu-kekinian-besutan-pnm-dan-kementerian-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:25:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Aksi Bagi-Bagi Buku Bersampul Jan Ethes Jadi Sorotan, Gibran Minta Maaf",
       "link_berita": "https://news.republika.co.id/berita/sf043l377/aksi-bagibagi-buku-bersampul-jan-ethes-jadi-sorotan-gibran-minta-maaf",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:21:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Brasil Ditahan Imbang AS dalam Laga Pemanasan Copa America",
       "link_berita": "https://news.republika.co.id/berita/sf03ti348/brasil-ditahan-imbang-as-dalam-laga-pemanasan-copa-america",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Puluhan Unit RPH di Jabar Siap Lakukan Penyembelihan Hewan Kurban",
       "link_berita": "https://rejabar.republika.co.id/berita/sf03lc512/puluhan-unit-rph-di-jabar-siap-lakukan-penyembelihan-hewan-kurban",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Menjaga Ibadah di tengah Kesibukan: Jadwal Sholat Hari Ini, 13 Juni 2024 di Kota Bogor",
       "link_berita": "https://khazanah.republika.co.id/berita/sezqan430/menjaga-ibadah-di-tengah-kesibukan-jadwal-sholat-hari-ini-13-juni-2024-di-kota-bogor",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Petani Sumringah, 20 Tahun Menanti Normalisasi Kali Congger Akhirnya Terwujud",
       "link_berita": "https://rejabar.republika.co.id/berita/sf02zc512/petani-sumringah-20-tahun-menanti-normalisasi-kali-congger-akhirnya-terwujud",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "Tips Wujudkan Work Life Balance Biar Nggak Stres di Kantor",
       "link_berita": "https://ameera.republika.co.id/berita/sf02xy425/tips-wujudkan-work-life-balance-biar-nggak-stres-di-kantor",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:23:39"
     },
     {
       "judul": "BRI Kembali Buka Tiga Program Rekrutmen Pekerja",
       "link_berita": "https://ekonomi.republika.co.id/berita/sf02r9370/bri-kembali-buka-tiga-program-rekrutmen-pekerja",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Sekitar 13 Ribu Siswa di Cirebon tak Tertampung di SMP Negeri",
       "link_berita": "https://rejabar.republika.co.id/berita/sf02nx512/sekitar-13-ribu-siswa-di-cirebon-tak-tertampung-di-smp-negeri",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 04:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Catat, Donor ASI akan Dimasukkan ke Rekam Medis",
       "link_berita": "https://ameera.republika.co.id/berita/sf02f4328/catat-donor-asi-akan-dimasukkan-ke-rekam-medis",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Nutriflakes Ajak Masyarakat Peduli Kesehatan Pencernaan",
       "link_berita": "https://rejogja.republika.co.id/berita/sf00g8291/nutriflakes-ajak-masyarakat-peduli-kesehatan-pencernaan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Jelang Libur Panjang, BUMN Tebar Promo dari Diskon Kereta hingga Hotel",
       "link_berita": "https://ekonomi.republika.co.id/berita/sf02ba370/jelang-libur-panjang-bumn-tebar-promo-dari-diskon-kereta-hingga-hotel",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "UGM Terjunkan 28 Mahasiswa Pengawas dan Pemeriksa Hewan Kurban",
       "link_berita": "https://magenta.republika.co.id/news/1704755169/ugm-terjunkan-28-mahasiswa-pengawas-dan-pemeriksa-hewan-kurban",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Mau Sehat? Simpel Banget Lho, Berjalan Kakilah Sesering Mungkin",
       "link_berita": "https://impresi.republika.co.id/sana-sini/1694755138/mau-sehat-simpel-banget-lho-berjalan-kakilah-sesering-mungkin",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Inflasi di AS Mereda, Bagaimana dengan Suku Bunga?",
       "link_berita": "https://tv.republika.co.id/berita/sf01mj467/inflasi-di-as-mereda-bagaimana-dengan-suku-bunga",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Buntut Briptu FN Bakar Suami, Presiden Jokowi Beri Pesan Khusus untuk Para Penjudi Online",
       "link_berita": "https://news.republika.co.id/berita/sf01d0487/buntut-briptu-fn-bakar-suami-presiden-jokowi-beri-pesan-khusus-untuk-para-penjudi-online",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Pastikan Kualitas Makanan untuk Jamaah Haji, Kepala BPKH Tinjau Katering di Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/sezvt5451/pastikan-kualitas-makanan-untuk-jamaah-haji-kepala-bpkh-tinjau-katering-di-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Jin BTS Selesai Menjalani Wajib Militer Selama 18 Bulan",
       "link_berita": "https://impresi.republika.co.id/sosok/1694755037/jin-bts-selesai-menjalani-wajib-militer-selama-18-bulan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Terjawab Salah Satu Sebab UKT PTN Mahal, Ada Kaitan dengan Anggaran Besar Kampus Kedinasan",
       "link_berita": "https://news.republika.co.id/berita/sf00wv487/terjawab-salah-satu-sebab-ukt-ptn-mahal-ada-kaitan-dengan-anggaran-besar-kampus-kedinasan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Kemenko Perekonomian: Teknologi Akan Hilangkan 80 Juta Lapangan Kerja",
       "link_berita": "https://rejogja.republika.co.id/berita/sf00lv291/kemenko-perekonomian-teknologi-akan-hilangkan-80-juta-lapangan-kerja",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "231.104 Siswa Lulus SNBT 2024, Ini 20 PTN Pendaftar Terbanyak",
       "link_berita": "https://kampus.republika.co.id/info-kampus/1624754973/231104-siswa-lulus-snbt-2024-ini-20-ptn-pendaftar-terbanyak",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "Ini Alasan Kenapa Kamu Harus Pilih Prodi Bisnis Digital",
       "link_berita": "https://news.republika.co.id/berita/sf006m370/ini-alasan-kenapa-kamu-harus-pilih-prodi-bisnis-digital",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:23:39"
     },
     {
       "judul": "AS Sebut tak Semua Usulan Hamas Diterima",
       "link_berita": "https://news.republika.co.id/berita/sezzxq377/as-sebut-tak-semua-usulan-hamas-diterima",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 03:17:43"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:23:39"
     },
     {
-      "judul": "Tijjani Reijnders, 'Wakil' Indonesia di Euro 2024 yang Bangga Berdarah Maluku",
-      "link_berita": "https://news.republika.co.id/berita/sezzrs348/tijjani-reijnders-wakil-indonesia-di-euro-2024-yang-bangga-berdarah-maluku",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Catat! Ini Jadwal Konser Musik Jakarta Fair 2024",
-      "link_berita": "https://ameera.republika.co.id/berita/seztg8416/catat-ini-jadwal-konser-musik-jakarta-fair-2024",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Hamas Acak-Acak Proposal Gencatan Senjata, AS Putar Otak Agar Kesepakatan Tercapai",
-      "link_berita": "https://news.republika.co.id/berita/sezzln370/hamas-acakacak-proposal-gencatan-senjata-as-putar-otak-agar-kesepakatan-tercapai",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Ular Piton Sepanjang Empat Meter Mangsa Angsa, Warga Minta Tolong Petugas Damkar",
-      "link_berita": "https://rejabar.republika.co.id/berita/sezz4s512/ular-piton-sepanjang-empat-meter-mangsa-angsa-warga-minta-tolong-petugas-damkar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Ini Prospek Kerja Lulusan Hukum Bisnis Dengan Gaji Cukup Menjanjikan",
-      "link_berita": "https://news.republika.co.id/berita/sezyse370/ini-prospek-kerja-lulusan-hukum-bisnis-dengan-gaji-cukup-menjanjikan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Survei LSI: Abner Reinal Elektabilitasnya Tertinggi di Pilkada Kota Sorong",
-      "link_berita": "https://news.republika.co.id/berita/sezymv318/survei-lsi-abner-reinal-elektabilitasnya-tertinggi-di-pilkada-kota-sorong",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Di Balik Tragedi Polwan Bakar Suami, Judi Online Ancaman Nyata bagi Kehidupan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sezymc423/di-balik-tragedi-polwan-bakar-suami-judi-online-ancaman-nyata-bagi-kehidupan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "DIY Terus Tingkatkan Diversifikasi Pangan Lokal",
-      "link_berita": "https://rejogja.republika.co.id/berita/sezykj291/diy-terus-tingkatkan-diversifikasi-pangan-lokal",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Tips Kesehatan Jamaah untuk Ibadah pada Puncak Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/sexxmx451/tips-kesehatan-jamaah-untuk-ibadah-pada-puncak-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Dukung Izin Tambang untuk Ormas Keagamaan, BKPRMI: Pengelolaannya Bisa tak Merusak Lingkun",
-      "link_berita": "https://khazanah.republika.co.id/berita/sezv0a451/dukung-izin-tambang-untuk-ormas-keagamaan-bkprmi-pengelolaannya-bisa-tak-merusak-lingkun",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Bingung Pilih Jurusan? Jurusan Ini Punya Prospek Kerja dengan Gaji Menggiurkan, Berminat?",
-      "link_berita": "https://news.republika.co.id/berita/sezxye370/bingung-pilih-jurusan-jurusan-ini-punya-prospek-kerja-dengan-gaji-menggiurkan-berminat",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Bukan Sekedar Gelar Kehormatan",
-      "link_berita": "https://sumatralink.id/posts/313119/bukan-sekedar-gelar-kehormatan",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Ramaikan Jakarta fair 2024, Bank DKI Tawarkan KPR Hingga Informasi Lowongan Kerja",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sezvir416/ramaikan-jakarta-fair-2024-bank-dki-tawarkan-kpr-hingga-informasi-lowongan-kerja",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Pelanggaran Netralitas ASN dan Kredibilitas Demokrasi di Indonesia",
-      "link_berita": "https://analisis.republika.co.id/berita/sezxe9484/pelanggaran-netralitas-asn-dan-kredibilitas-demokrasi-di-indonesia",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "BTS tak Sekadar Idola K-Pop, Ini Fakta Menarik tentang Mereka",
-      "link_berita": "https://ameera.republika.co.id/berita/sezxa3425/bts-tak-sekadar-idola-kpop-ini-fakta-menarik-tentang-mereka",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Pertamina Raih Laba Rp 72 Triliun pada 2023",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sezx45370/pertamina-raih-laba-rp-72-triliun-pada-2023",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "Kabupaten Cirebon Surplus Stok Hewan Kurban Ketersediaan Sapi Hingga 4.200 Ekor",
-      "link_berita": "https://rejabar.republika.co.id/berita/sezx2y512/kabupaten-cirebon-surplus-stok-hewan-kurban-ketersediaan-sapi-hingga-4200-ekor",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 02:17:43"
-    },
-    {
-      "judul": "22 Pengacara Tersangka Pegi Setiwan Lakukan Gugatan Praperadila, Ini Jawaban Polda Jabar",
-      "link_berita": "https://matapantura.republika.co.id/posts/313122/22-pengacara-tersangka-pegi-setiwan-lakukan-gugatan-praperadila-ini-jawaban-polda-jabar",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 01:17:43"
-    },
-    {
-      "judul": "Jakarta Fair 2024 Resmi Dibuka, Ada Apa Saja?",
-      "link_berita": "https://ameera.republika.co.id/berita/sezs8w416/jakarta-fair-2024-resmi-dibuka-ada-apa-saja",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 01:17:43"
-    },
-    {
-      "judul": "Sempat Dilaporkan Hilang, Anak Ketua IDI Jabar Sudah Kembali ke Keluarga",
-      "link_berita": "https://news.republika.co.id/berita/sezvu3348/sempat-dilaporkan-hilang-anak-ketua-idi-jabar-sudah-kembali-ke-keluarga",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 01:17:43"
-    },
-    {
-      "judul": "Sempat Dilaporkan Hilang, Akhirnya Anak Ketua IDI Jabar Ditemukan Rabu Kemarin",
-      "link_berita": "https://rejabar.republika.co.id/berita/sezvt3512/sempat-dilaporkan-hilang-akhirnya-anak-ketua-idi-jabar-ditemukan-rabu-kemarin",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 01:17:43"
-    },
-    {
-      "judul": "BTS Ulang Tahun Ke-13 Hari Ini: Dari Debut Sederhana Hingga Jadi Bintang Dunia",
-      "link_berita": "https://ameera.republika.co.id/berita/sezvqj425/bts-ulang-tahun-ke13-hari-ini-dari-debut-sederhana-hingga-jadi-bintang-dunia",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 01:17:43"
-    },
-    {
-      "judul": "Pasangan Muda dari Cirebon Bahagia Berhaji, Berdoa Diberi Momongan",
-      "link_berita": "https://topnews62.com/posts/313028/pasangan-muda-dari-cirebon-bahagia-berhaji-berdoa-diberi-momongan",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 01:17:43"
-    },
-    {
-      "judul": "Tips Wujudkan Work Life Balance Biar Nggak Stres di Kantor",
-      "link_berita": "https://ameera.republika.co.id/berita/sf02xy425/tips-wujudkan-work-life-balance-biar-nggak-stres-di-kantor",
+      "judul": "Baju Putih Kadang 'Merepotkan', Ini Cara Agar tak Cepat Menguning dan Kusam",
+      "link_berita": "https://ameera.republika.co.id/berita/sf08c9425/baju-putih-kadang-merepotkan-ini-cara-agar-tak-cepat-menguning-dan-kusam",
       "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 10:56:00"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 12:52:00"
     },
     {
-      "judul": "Presiden COP29 Ingatkan Dampak Besar Kenaikan Suhu Bumi 1,5 Derajat Celsius",
-      "link_berita": "https://esgnow.republika.co.id/berita/sezr4v416/presiden-cop29-ingatkan-dampak-besar-kenaikan-suhu-bumi-15-derajat-celsius",
+      "judul": "Perubahan Iklim Ancam Keanekaragaman Hayati Laut",
+      "link_berita": "https://esgnow.republika.co.id/berita/sf06zz416/perubahan-iklim-ancam-keanekaragaman-hayati-laut",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 06:41:00"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 12:23:00"
     },
     {
-      "judul": "Yuk Ikutan Kompetisi Racik Jamu Kekinian Besutan PNM dan Kementerian BUMN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sf04au370/yuk-ikutan-kompetisi-racik-jamu-kekinian-besutan-pnm-dan-kementerian-bumn",
+      "judul": "Air Minum Resmi Timnas Indonesia Wajib 100% Murni",
+      "link_berita": "https://ekonomi.republika.co.id/berita/seycfs423/air-minum-resmi-timnas-indonesia-wajib-100-murni",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 11:25:00"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 13:09:00"
     },
     {
       "judul": "Sukuk Ramah Lingkungan BSI Tawarkan Imbal Hasil Hingga 6,8 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 13 Jun 2024, 06:24:00"
     },
     {
-      "judul": "Aksi Bagi-Bagi Buku Bersampul Jan Ethes Jadi Sorotan, Gibran Minta Maaf",
-      "link_berita": "https://news.republika.co.id/berita/sf043l377/aksi-bagibagi-buku-bersampul-jan-ethes-jadi-sorotan-gibran-minta-maaf",
+      "judul": "Bertemu Putra Mahkota MBS di Jeddah, Prabowo Bahas Situasi di Palestina",
+      "link_berita": "https://news.republika.co.id/berita/sf09a9484/bertemu-putra-mahkota-mbs-di-jeddah-prabowo-bahas-situasi-di-palestina",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 13 Jun 2024, 11:21:00"
+      "tanggal_terbit": "Thursday, 13 Jun 2024, 13:13:00"
     }
   ],
-  "waktu_scraping": "Thursday, 13 Jun 2024, 12:17:43"
+  "waktu_scraping": "Thursday, 13 Jun 2024, 13:23:39"
 }
