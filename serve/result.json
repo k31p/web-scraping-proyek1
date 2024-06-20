@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Kisah Dakwah Ulama di 'Kampung Maling'",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfct08458/kisah-dakwah-ulama-di-kampung-maling"
+    },
+    {
+      "judul": "Rhoma Irama Ragukan Habaib Keturunan Nabi Muhammad, Minta Bukti Tes DNA",
+      "link_berita": "https://news.republika.co.id/berita/sfcqgk484/rhoma-irama-ragukan-habaib-keturunan-nabi-muhammad-minta-bukti-tes-dna"
+    },
+    {
       "judul": "Kalahkan Hungaria, Jerman Tim Pertama ke 16 Besar Euro 2024",
       "link_berita": "https://news.republika.co.id/berita/sfcmw8348/kalahkan-hungaria-jerman-tim-pertama-ke-16-besar-euro-2024"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Menelusuri Penyebaran Islam di Tanah Australia, Ada Jejak Dakwah Muslim Makassar",
       "link_berita": "https://khazanah.republika.co.id/berita/sfc1no366/menelusuri-penyebaran-islam-di-tanah-australia-ada-jejak-dakwah-muslim-makassar"
-    },
-    {
-      "judul": "Arab Saudi Prediksi 2025 Jadi Haji Terakhir di Musim Panas",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfbtrj366/arab-saudi-prediksi-2025-jadi-haji-terakhir-di-musim-panas"
-    },
-    {
-      "judul": "Dramatis, Albania Tahan Imbang Kroasia, Hidupkan Peluang Lolos ke 16 Besar Euro 2024",
-      "link_berita": "https://news.republika.co.id/berita/sfc1oh348/dramatis-albania-tahan-imbang-kroasia-hidupkan-peluang-lolos-ke-16-besar-euro-2024"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kejagung Beri Atensi Khusus kepada Jaksa yang Tangani Kasus Pembunuhan Vina",
+      "link_berita": "https://news.republika.co.id/berita/sfcrcq409/kejagung-beri-atensi-khusus-kepada-jaksa-yang-tangani-kasus-pembunuhan-vina"
+    },
+    {
+      "judul": "Anda Wajib Tahu! Tiga Waktu Tidur yang Dibenci Para Ulama",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcoa0483/anda-wajib-tahu-tiga-waktu-tidur-yang-dibenci-para-ulama"
+    },
     {
       "judul": "Penggawa Muslim Jadi Pemain Kunci di Euro 2024, Begini Asal Mula Islam Masuk ke Albania",
       "link_berita": "https://khazanah.republika.co.id/berita/sfcnde483/penggawa-muslim-jadi-pemain-kunci-di-euro-2024-begini-asal-mula-islam-masuk-ke-albania"
@@ -73,322 +81,314 @@
     {
       "judul": "Pakai Treadmill dengan Aman, Cegah Tragedi Seperti yang Terjadi di Gym Pontianak",
       "link_berita": "https://ameera.republika.co.id/berita/sfb9yi425/pakai-treadmill-dengan-aman-cegah-tragedi-seperti-yang-terjadi-di-gym-pontianak"
-    },
-    {
-      "judul": "Masyarakat Diingatkan tak Konsumsi Daging Berlebihan, Ini Bahayanya",
-      "link_berita": "https://ameera.republika.co.id/berita/sfb8pc425/masyarakat-diingatkan-tak-konsumsi-daging-berlebihan-ini-bahayanya"
-    },
-    {
-      "judul": "Tunggu Hasil Rapat Bank Indonesia, IHSG Dibuka Menguat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfb5sw490/tunggu-hasil-rapat-bank-indonesia-ihsg-dibuka-menguat"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Siapa Saja yang Boleh Disebut Sahabat Nabi? Berikut 12 Tingkatannya Menurut Imam Muslim",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcu2d483/siapa-saja-yang-boleh-disebut-sahabat-nabi-berikut-12-tingkatannya-menurut-imam-muslim",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 01:13:25"
+    },
+    {
+      "judul": "Meningkatkan Kualitas Anggur dengan Teknik Grafting",
+      "link_berita": "https://fifarm.id/posts/307222/meningkatkan-kualitas-anggur-dengan-teknik-grafting",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 01:09:28"
+    },
+    {
+      "judul": "Jaga Lansia Jangan Sampai Kesepian demi Hindari Depresi",
+      "link_berita": "https://ameera.republika.co.id/berita/sfcths328/jaga-lansia-jangan-sampai-kesepian-demi-hindari-depresi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 01:01:28"
+    },
+    {
+      "judul": "Selama Umur Masih Ada, Kita Tidak Boleh Berhenti Belajar",
+      "link_berita": "https://retizen.republika.co.id/posts/314502/selama-umur-masih-ada-kita-tidak-boleh-berhenti-belajar",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:59:28"
+    },
+    {
+      "judul": "Viral Kasus Penganiayaan di Indramayu, Polisi Tangkap Dua Pelaku",
+      "link_berita": "https://rejabar.republika.co.id/berita/sfctbg512/viral-kasus-penganiayaan-di-indramayu-polisi-tangkap-dua-pelaku",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:57:28"
+    },
+    {
+      "judul": "Kisah Dakwah Ulama di 'Kampung Maling'",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfct08458/kisah-dakwah-ulama-di-kampung-maling",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:50:28"
+    },
+    {
+      "judul": "Porsche Cayman Tabrak Truk Dari Belakang, Pengemudi Tewas di Tempat",
+      "link_berita": "https://motoresto.id/posts/314392/porsche-cayman-tabrak-truk-dari-belakang-pengemudi-tewas-di-tempat",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:48:28"
+    },
+    {
+      "judul": "Mantan Anggota BPK Achsanul Qosasi Hadapi Sidang Pembacaan Vonis Hari Ini",
+      "link_berita": "https://news.republika.co.id/berita/sfcsvz409/mantan-anggota-bpk-achsanul-qosasi-hadapi-sidang-pembacaan-vonis-hari-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:48:28"
+    },
+    {
+      "judul": "Keistimewaan Orang yang Bertobat",
+      "link_berita": "https://tv.republika.co.id/berita/sfcs56313/keistimewaan-orang-yang-bertobat",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:31:28"
+    },
+    {
+      "judul": "Kronologi Ledakan Mercon di Ponpes Bantul",
+      "link_berita": "https://rejogja.republika.co.id/berita/sfcs4z291/kronologi-ledakan-mercon-di-ponpes-bantul",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:31:28"
+    },
+    {
+      "judul": "Pesan Rasulullah untuk Para Pemimpin",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcru1458/pesan-rasulullah-untuk-para-pemimpin",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:25:28"
+    },
+    {
+      "judul": "Mengenali Gejala DB Anak dengan Konsep KLMNOPR",
+      "link_berita": "https://ameera.republika.co.id/berita/sfcroq328/mengenali-gejala-db-anak-dengan-konsep-klmnopr",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:22:28"
+    },
+    {
+      "judul": "Kejagung Beri Atensi Khusus kepada Jaksa yang Tangani Kasus Pembunuhan Vina",
+      "link_berita": "https://news.republika.co.id/berita/sfcrcq409/kejagung-beri-atensi-khusus-kepada-jaksa-yang-tangani-kasus-pembunuhan-vina",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:14:28"
+    },
+    {
+      "judul": "Peraturan dan Strategi Pemerintah Memberdayakan Transformasi Digital",
+      "link_berita": "https://ruzka.republika.co.id/nasional/1674776874/peraturan-dan-strategi-pemerintah-memberdayakan-transformasi-digital",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Mengenal Ulama Masyhur dari Albania, Syekh al-Albani",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcr66458/mengenal-ulama-masyhur-dari-albania-syekh-alalbani",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Mabes Polri: Berkas Pegi Tersangka Kasus Pembunuhan Vina dan Eky Masuk ke Kejaksaan",
+      "link_berita": "https://matapantura.republika.co.id/posts/314517/mabes-polri-berkas-pegi-tersangka-kasus-pembunuhan-vina-dan-eky-masuk-ke-kejaksaan",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Sinyal Baru Kemungkinan Deteksi Lokasi Puing Pesawat MH370",
+      "link_berita": "https://news.republika.co.id/berita/sfcq9n328/sinyal-baru-kemungkinan-deteksi-lokasi-puing-pesawat-mh370",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Sulitnya Langkah Tim-Tim Unggulan di Awal Euro 2024, Kroasia di Ujung Tanduk",
+      "link_berita": "https://news.republika.co.id/berita/sfcqm0348/sulitnya-langkah-timtim-unggulan-di-awal-euro-2024-kroasia-di-ujung-tanduk",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Keistimewaan 'Aisyah di Mata Rasulullah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcql5458/keistimewaan-aisyah-di-mata-rasulullah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Rhoma Irama Ragukan Habaib Keturunan Nabi Muhammad, Minta Bukti Tes DNA",
+      "link_berita": "https://news.republika.co.id/berita/sfcqgk484/rhoma-irama-ragukan-habaib-keturunan-nabi-muhammad-minta-bukti-tes-dna",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Dokter Paparkan Kriteria Penyakit Jantung yang Memerlukan Ring",
+      "link_berita": "https://ameera.republika.co.id/berita/sfcq5l328/dokter-paparkan-kriteria-penyakit-jantung-yang-memerlukan-ring",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Jauhi Empat Perkara yang Gelapkan Hati",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcq0q458/jauhi-empat-perkara-yang-gelapkan-hati",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Viral, Polisi Cokok Dua Pelaku Kasus Penganiayaan di Indramayu",
+      "link_berita": "https://matapantura.republika.co.id/posts/314516/viral-polisi-cokok-dua-pelaku-kasus-penganiayaan-di-indramayu",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 00:13:28"
+    },
+    {
+      "judul": "Los Angeles, 'Ibu Kota' Tunawisma di Amerika",
+      "link_berita": "https://tv.republika.co.id/berita/sfcput313/los-angeles-ibu-kota-tunawisma-di-amerika",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Warga Lembang Alami Keracunan Diduga Akibat Konsumsi Makanan Hajatan",
+      "link_berita": "https://rejabar.republika.co.id/berita/sfcpp2512/warga-lembang-alami-keracunan-diduga-akibat-konsumsi-makanan-hajatan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Profesor UIN: Kebijakan Murur Out of The Box",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcpod483/profesor-uin-kebijakan-murur-out-of-the-box",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Komnas HAM Temui Liga Akbar dan Tempat Nongkrongnya Saat Pembunuhan Vina dan EKy",
+      "link_berita": "https://matapantura.republika.co.id/posts/314514/komnas-ham-temui-liga-akbar-dan-tempat-nongkrongnya-saat-pembunuhan-vina-dan-eky",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Inilah Cara Rasulullah Dididik",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcpl9458/inilah-cara-rasulullah-dididik",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Cost Recovery Dinilai Paling Sesuai Angkat Produksi",
+      "link_berita": "https://genpop.republika.co.id/posts/314494/cost-recovery-dinilai-paling-sesuai-angkat-produksi",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Kisah Si Penghuni Neraka, Berzikir 40 Ribu Tahun",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcp42458/kisah-si-penghuni-neraka-berzikir-40-ribu-tahun",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Dibantu Tentara Kostrad yang Cekatan di Mina, Anwar Abbas: Terima Kasih Petugas",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcp2l483/dibantu-tentara-kostrad-yang-cekatan-di-mina-anwar-abbas-terima-kasih-petugas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Tiga Operasi Berantas Judi Online",
+      "link_berita": "https://tv.republika.co.id/berita/sfcoyf313/tiga-operasi-berantas-judi-online",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Habib Bahar, Rhoma Irama, dan Ketegasan Rasulullah bagi Pelanggar Hukum",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfcoqc430/habib-bahar-rhoma-irama-dan-ketegasan-rasulullah-bagi-pelanggar-hukum",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
+      "judul": "Marco Rose Perpanjang Kontrak Sebagai Pelatih RB Leipzig",
+      "link_berita": "https://news.republika.co.id/berita/sfcopg348/marco-rose-perpanjang-kontrak-sebagai-pelatih-rb-leipzig",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
+    },
+    {
       "judul": "Dewan HAM PBB: Israel Lakukan kejahatan Perang",
       "link_berita": "https://www.republika.id/posts/53479/dewan-ham-pbb-israel-lakukan-kejahatan-perang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:15:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Israel Siap Perang Total dengan Hizbullah",
       "link_berita": "https://www.republika.id/posts/53477/israel-siap-perang-total-dengan-hizbullah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:14:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Pelatih Baru Arne Slot Sudah Pikirkan Rencana Transfer Liverpool untuk Musim Depan",
       "link_berita": "https://news.republika.co.id/berita/sfcojd348/pelatih-baru-arne-slot-sudah-pikirkan-rencana-transfer-liverpool-untuk-musim-depan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:14:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Lupa Ucapkan 'Insya Allah', Rasulullah pun Ditegur",
       "link_berita": "https://khazanah.republika.co.id/berita/sfcoez458/lupa-ucapkan-insya-allah-rasulullah-pun-ditegur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:11:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Brussels Enggan Jadi Tuan Rumah Laga Timnas Belgia Versus Israel",
       "link_berita": "https://news.republika.co.id/berita/sfcoc6484/brussels-enggan-jadi-tuan-rumah-laga-timnas-belgia-versus-israel",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:09:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Anda Wajib Tahu! Tiga Waktu Tidur yang Dibenci Para Ulama",
       "link_berita": "https://khazanah.republika.co.id/berita/sfcoa0483/anda-wajib-tahu-tiga-waktu-tidur-yang-dibenci-para-ulama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:08:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Donor Darah, Bentuk Cinta Diri yang Bermanfaat Bagi Orang Lain",
       "link_berita": "https://ameera.republika.co.id/berita/sfbsup425/donor-darah-bentuk-cinta-diri-yang-bermanfaat-bagi-orang-lain",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:08:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Polisi Sindir Kecenderungan Bohong Saka Tatal, dan Bela Iptu Rudiana",
       "link_berita": "https://news.republika.co.id/berita/sfco94377/polisi-sindir-kecenderungan-bohong-saka-tatal-dan-bela-iptu-rudiana",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:08:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Sylvinho Minta Albania Nikmati Momen Imbangi Kroasia",
       "link_berita": "https://news.republika.co.id/berita/sfco3y348/sylvinho-minta-albania-nikmati-momen-imbangi-kroasia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:04:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Cuitan Warga Jakarta Keluhkan PBB tak Lagi Gratis, Penjelasan Heru Budi, dan Respons Anies",
       "link_berita": "https://news.republika.co.id/berita/sfbvrj409/cuitan-warga-jakarta-keluhkan-pbb-tak-lagi-gratis-penjelasan-heru-budi-dan-respons-anies",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:02:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Skotlandia Buka Peluang Lolos ke 16 Besar Euro, Tahan Imbang Swiss Lewat Performa Impresif",
       "link_berita": "https://news.republika.co.id/berita/sfcnjv348/skotlandia-buka-peluang-lolos-ke-16-besar-euro-tahan-imbang-swiss-lewat-performa-impresif",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:52:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "ESDM: Mine Permit for PBNU In Administrative Process",
       "link_berita": "https://en.republika.co.id/berita/sfcni6415/esdm-mine-permit-for-pbnu-in-administrative-process",
       "kategori": "En",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:17:20"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 01:13:28"
     },
     {
       "judul": "Penggawa Muslim Jadi Pemain Kunci di Euro 2024, Begini Asal Mula Islam Masuk ke Albania",
       "link_berita": "https://khazanah.republika.co.id/berita/sfcnde483/penggawa-muslim-jadi-pemain-kunci-di-euro-2024-begini-asal-mula-islam-masuk-ke-albania",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:48:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Cerita Warga DKI yang Cuitannya Viral Usai Kaget Bayar PBB Gede Padahal Sebelumnya Gratis",
       "link_berita": "https://news.republika.co.id/berita/sfbw48409/cerita-warga-dki-yang-cuitannya-viral-usai-kaget-bayar-pbb-gede-padahal-sebelumnya-gratis",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:46:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:13:28"
     },
     {
       "judul": "Kalahkan Hungaria, Jerman Tim Pertama ke 16 Besar Euro 2024",
       "link_berita": "https://news.republika.co.id/berita/sfcmw8348/kalahkan-hungaria-jerman-tim-pertama-ke-16-besar-euro-2024",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:38:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:13:28"
     },
     {
       "judul": "Kapolres Indramayu Bantah Tersangka Penganiayaan Dibebaskan Uang Damai Rp 150 Juta",
       "link_berita": "https://news.republika.co.id/berita/sfcmru377/kapolres-indramayu-bantah-tersangka-penganiayaan-dibebaskan-uang-damai-rp-150-juta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:36:20"
+      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:13:28"
     },
     {
-      "judul": "Beda Sikap Legislator soal Pembentukan Pansus Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfcmqo430/beda-sikap-legislator-soal-pembentukan-pansus-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:35:20"
-    },
-    {
-      "judul": "Waduh, Ada Kabar Kurang Menyenangkan dari Samsung Galaxy S25",
-      "link_berita": "https://impresi.republika.co.id/didaktika/1694776741/waduh-ada-kabar-kurang-menyenangkan-dari-samsung-galaxy-s25",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:27:20"
-    },
-    {
-      "judul": "Viral Jamaah Doa Minta Duit di Ka'bah, Bagaimana Adab Berdoa di Masjidil Haram?",
-      "link_berita": "https://iqra.republika.co.id/berita/sfbttx483/viral-jamaah-doa-minta-duit-di-kabah-bagaimana-adab-berdoa-di-masjidil-haram",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:23:20"
-    },
-    {
-      "judul": "Cerita Nana Mirdad dan Detergen Tumbuhan SoSoft 2in1, Apa yang Menarik?",
-      "link_berita": "https://impresi.republika.co.id/sana-sini/1694776737/cerita-nana-mirdad-dan-detergen-tumbuhan-sosoft-2in1-apa-yang-menarik",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:17:20"
-    },
-    {
-      "judul": "Segera IPO, Emiten Cucu Soeharto Bidik Dana Segar Rp 713 Miliar",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfbu2x370/segera-ipo-emiten-cucu-soeharto-bidik-dana-segar-rp-713-miliar",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:17:20"
-    },
-    {
-      "judul": "Ibnu Abbas Jawab Argumentasi Kaum Ekstremis",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfcl43458/ibnu-abbas-jawab-argumentasi-kaum-ekstremis",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:17:20"
-    },
-    {
-      "judul": "Babinsa-Bhabinkamtibmas Dijadikan Ujung Tombak Pemberantasan Judi Online di Lapangan",
-      "link_berita": "https://news.republika.co.id/berita/sfbxuy487/babinsabhabinkamtibmas-dijadikan-ujung-tombak-pemberantasan-judi-online-di-lapangan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 22:17:20"
-    },
-    {
-      "judul": "Beyond Purity: Do Wudu (Ablution) Before Perform These 6 Practices",
-      "link_berita": "https://en.republika.co.id/berita/sfc4yl366/beyond-purity-do-wudu-ablution-before-perform-these-6-practices",
-      "kategori": "En",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 23:17:20"
-    },
-    {
-      "judul": "KPK Turun Tangan Usut Persoalan Impor Beras Tertahan di Priok dan Perak",
-      "link_berita": "https://news.republika.co.id/berita/sfbw4t487/kpk-turun-tangan-usut-persoalan-impor-beras-tertahan-di-priok-dan-perak",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Doa Setelah Subuh Ini Diajarkan Nabi Muhammad ke Istrinya",
-      "link_berita": "https://iqra.republika.co.id/berita/sfc147430/doa-setelah-subuh-ini-diajarkan-nabi-muhammad-ke-istrinya",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Menelusuri Penyebaran Islam di Tanah Australia, Ada Jejak Dakwah Muslim Makassar",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfc1no366/menelusuri-penyebaran-islam-di-tanah-australia-ada-jejak-dakwah-muslim-makassar",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Film Indonesia Bersinar di Jepang, Kala Nanti Raih Penghargaan Festival Film",
-      "link_berita": "https://ameera.republika.co.id/berita/sfbs17425/film-indonesia-bersinar-di-jepang-kala-nanti-raih-penghargaan-festival-film",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Arab Saudi Prediksi 2025 Jadi Haji Terakhir di Musim Panas",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfbtrj366/arab-saudi-prediksi-2025-jadi-haji-terakhir-di-musim-panas",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Kabar Gembira Bagi yang Sholat Berjamaah ke Masjid dalam Keadaan Gelap",
-      "link_berita": "https://iqra.republika.co.id/berita/sfc1m6430/kabar-gembira-bagi-yang-sholat-berjamaah-ke-masjid-dalam-keadaan-gelap",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Keteguhan Iman di Tengah Keberagaman: Jadwal Sholat Hari Ini, 20 Juni 2024, Jakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfc0v9430/keteguhan-iman-di-tengah-keberagaman-jadwal-sholat-hari-ini-20-juni-2024-jakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 21:17:20"
-    },
-    {
-      "judul": "Akuisisi Bank Victoria Syariah oleh BTN Dikritik, Ini Alasannya",
-      "link_berita": "https://sharia.republika.co.id/berita/sfbwlp423/akuisisi-bank-victoria-syariah-oleh-btn-dikritik-ini-alasannya",
-      "kategori": "Sharia",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 20:17:20"
-    },
-    {
-      "judul": "Kurban Bersama, Berkah Sesama Prudential Syariah",
-      "link_berita": "https://cari.republika.co.id/posts/314504/kurban-bersama-berkah-sesama-prudential-syariah",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 20:17:20"
-    },
-    {
-      "judul": "Komisi VII DPR RI Menyetujui Pagu Indikatif Kementerian ESDM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfbz0h423/komisi-vii-dpr-ri-menyetujui-pagu-indikatif-kementerian-esdm",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 20:17:20"
-    },
-    {
-      "judul": "ESDM: Izin Tambang untuk PBNU Dalam Proses Administrasi",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfbuwg451/esdm-izin-tambang-untuk-pbnu-dalam-proses-administrasi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 19:17:20"
-    },
-    {
-      "judul": "Menparekraf Segera Tindak Lanjuti Harga Tiket Pesawat yang Mahal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfbw4i370/menparekraf-segera-tindak-lanjuti-harga-tiket-pesawat-yang-mahal",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 19:17:20"
-    },
-    {
-      "judul": "Pj Gubernur Jawa Barat: Jutaan Lansia Masih Jadi Tulang Punggung Keluarga",
-      "link_berita": "https://news.republika.co.id/berita/sfbuco451/pj-gubernur-jawa-barat-jutaan-lansia-masih-jadi-tulang-punggung-keluarga",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 17:17:20"
-    },
-    {
-      "judul": "Dokter di Korea Selatan Ancam Mogok tanpa Batas Waktu, Apa Tuntutannya?",
-      "link_berita": "https://ameera.republika.co.id/berita/sfbtmg425/dokter-di-korea-selatan-ancam-mogok-tanpa-batas-waktu-apa-tuntutannya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 17:17:20"
-    },
-    {
-      "judul": "Takbir: Kerendahan Hati dan Kesetaraan",
-      "link_berita": "https://analisis.republika.co.id/berita/sfbu7t451/takbir-kerendahan-hati-dan-kesetaraan",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 17:17:20"
-    },
-    {
-      "judul": "Idul Adha Jadi Momen Berbagi Berkah Kurban untuk Bank Artha Graha Internasional",
-      "link_berita": "https://republika.co.id/berita/sfc6ou456/idul-adha-jadi-momen-berbagi-berkah-kurban-untuk-bank-artha-graha-internasional",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 17:17:20"
-    },
-    {
-      "judul": "Soal Denda Beras Bulog, KPK Singgung Reformasi Tata Kelola Pelabuhan",
-      "link_berita": "https://genpop.republika.co.id/posts/314484/soal-denda-beras-bulog-kpk-singgung-reformasi-tata-kelola-pelabuhan",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Barito Putera Siap Poles Tim Sambut Musim Baru",
-      "link_berita": "https://news.republika.co.id/berita/sfc6i5456/barito-putera-siap-poles-tim-sambut-musim-baru",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Prudential Syariah Ajak Warga Jadi Generasi Amanah dalam Berbagi untuk Sesama",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfc6an349/prudential-syariah-ajakwargajadi-generasi-amanah-dalam-berbagi-untuk-sesama",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Eder Militao Siap Bela Brasil Setelah Pulih dari Cedera ACL",
-      "link_berita": "https://news.republika.co.id/berita/sfc69u348/eder-militao-siap-bela-brasil-setelah-pulih-dari-cedera-acl",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Makassar Ditetapkan Sebagai Salah Satu Kota Terbahagia di Dunia, Ini Reaksi Walikota",
-      "link_berita": "https://news.republika.co.id/berita/sfc5of456/makassar-ditetapkan-sebagai-salah-satu-kota-terbahagia-di-dunia-ini-reaksi-walikota",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Polri: Penyidikan Kasus Vina Cirebon Transparan",
-      "link_berita": "https://news.republika.co.id/berita/sfc5n6348/polri-penyidikan-kasus-vina-cirebon-transparan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Tasyakuran Program Urban Farming di Depok, Kolaborasi TNI dengan Masyarakat",
-      "link_berita": "https://ruzka.republika.co.id/nasional/1674776594/tasyakuran-program-urban-farming-di-depok-kolaborasi-tni-dengan-masyarakat",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Sempat Buron, DPO Kasus Penganiayaan Perias Pengantin di Sukabumi Ditangkap",
-      "link_berita": "https://bandung24jam.id/posts/314469/sempat-buron-dpo-kasus-penganiayaan-perias-pengantin-di-sukabumi-ditangkap",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Baru Berakhir Hasil Euro 2024; Kroasia Ditahan Imbang 2-2 oleh Albania",
-      "link_berita": "https://news.republika.co.id/berita/sfc4yn456/baru-berakhir-hasil-euro-2024-kroasia-ditahan-imbang-22-oleh-albania",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Temukan Kedamaian di Sepertiga Malam: Berikut Panduan dan Keutamaan Sholat Tahajud",
-      "link_berita": "https://iqra.republika.co.id/berita/sfblos366/temukan-kedamaian-di-sepertiga-malam-berikut-panduan-dan-keutamaan-sholat-tahajud",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 19 Jun 2024, 16:17:20"
-    },
-    {
-      "judul": "Donor Darah, Bentuk Cinta Diri yang Bermanfaat Bagi Orang Lain",
-      "link_berita": "https://ameera.republika.co.id/berita/sfbsup425/donor-darah-bentuk-cinta-diri-yang-bermanfaat-bagi-orang-lain",
+      "judul": "Jaga Lansia Jangan Sampai Kesepian demi Hindari Depresi",
+      "link_berita": "https://ameera.republika.co.id/berita/sfcths328/jaga-lansia-jangan-sampai-kesepian-demi-hindari-depresi",
       "kategori": "Health",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:08:00"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:01:00"
     },
     {
       "judul": "Menilik Perkembangan Pembangkit Nuklir di Dunia",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 18 Jun 2024, 09:50:00"
     },
     {
-      "judul": "Dewan HAM PBB: Israel Lakukan kejahatan Perang",
-      "link_berita": "https://www.republika.id/posts/53479/dewan-ham-pbb-israel-lakukan-kejahatan-perang",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:15:00"
+      "judul": "Mantan Anggota BPK Achsanul Qosasi Hadapi Sidang Pembacaan Vonis Hari Ini",
+      "link_berita": "https://news.republika.co.id/berita/sfcsvz409/mantan-anggota-bpk-achsanul-qosasi-hadapi-sidang-pembacaan-vonis-hari-ini",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:47:00"
     }
   ],
-  "waktu_scraping": "Thursday, 20 Jun 2024, 06:17:20"
+  "waktu_scraping": "Thursday, 20 Jun 2024, 08:13:28"
 }
