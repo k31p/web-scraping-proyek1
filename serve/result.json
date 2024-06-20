@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Perseteruan Antara Netanyahu dan Joe Biden Dilaporkan Kian Memanas",
+      "link_berita": "https://news.republika.co.id/berita/sfd97x409/perseteruan-antara-netanyahu-dan-joe-biden-dilaporkan-kian-memanas"
+    },
+    {
       "judul": "IDF Akhirnya Akui Hamas tak Bisa Dikalahkan dan akan Tetap Ada di Gaza",
       "link_berita": "https://news.republika.co.id/berita/sfd4oi409/idf-akhirnya-akui-hamas-tak-bisa-dikalahkan-dan-akan-tetap-ada-di-gaza"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Empat Tahun Terakhir, Kepemimpinan Membuat BUMN Selamat dan Tumbuh Pesat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfcyqu490/empat-tahun-terakhir-kepemimpinan-membuat-bumn-selamat-dan-tumbuh-pesat"
-    },
-    {
-      "judul": "Jamaah Haji Kloter Ini Kembali ke Indonesia pada Senin",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfcx59458/jamaah-haji-kloter-ini-kembali-ke-indonesia-pada-senin"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Thailand Legalkan Pernikahan Sejenis, Adakah Peluang Indonesia Melakukan Hal yang Sama?",
+      "link_berita": "https://news.republika.co.id/berita/sfdak3487/thailand-legalkan-pernikahan-sejenis-adakah-peluang-indonesia-melakukan-hal-yang-sama"
+    },
     {
       "judul": "Wakil Ketua MPR: Pengusul Pansus Haji tidak Tahu Ekosistem Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/sfd60n366/wakil-ketua-mpr-pengusul-pansus-haji-tidak-tahu-ekosistem-haji"
@@ -77,312 +81,308 @@
     {
       "judul": "Thailand Legalkan Pernikahan Sejenis, Bagaimana Nasib Umat Islam di Sana?",
       "link_berita": "https://news.republika.co.id/berita/sfbu5m475/thailand-legalkan-pernikahan-sejenis-bagaimana-nasib-umat-islam-di-sana"
-    },
-    {
-      "judul": "Aset Uang dalam Ribuan Rekening Judi Online akan Disita Negara",
-      "link_berita": "https://news.republika.co.id/berita/sfbsjn377/aset-uang-dalam-ribuan-rekening-judi-online-akan-disita-negara"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Keutamaan Sholat dalam Kehidupan: Jadwal Sholat Hari Ini, 20 Juni 2024 di Bandung",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfddlw430/keutamaan-sholat-dalam-kehidupan-jadwal-sholat-hari-ini-20-juni-2024-di-bandung",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:15:53"
+    },
+    {
+      "judul": "MUI: Pemain Judi Online Jangan Diberikan Bansos",
+      "link_berita": "https://tv.republika.co.id/berita/sfddd4418/mui-pemain-judi-online-jangan-diberikan-bansos",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:09:53"
+    },
+    {
+      "judul": "Bank Indonesia Pertahankan Suku Bunga Acuan 6,25 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfddch370/bank-indonesia-pertahankan-suku-bunga-acuan-625-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:09:53"
+    },
+    {
+      "judul": "Resmi Buka BSI International Expo 2024, Wapres RI Berikan Empat Pesan Penting",
+      "link_berita": "https://sharia.republika.co.id/berita/sfdd7d370/resmi-buka-bsi-international-expo-2024-wapres-ri-berikan-empat-pesan-penting",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:06:53"
+    },
+    {
+      "judul": "Asri, Hijau, dan Produktif Ala Poktan Sehati RW 03 Cikini",
+      "link_berita": "https://tv.republika.co.id/berita/sfdd50313/asri-hijau-dan-produktif-ala-poktan-sehati-rw-03-cikini",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:05:53"
+    },
+    {
+      "judul": "Komisaris Utama Taspen Sebut Erick Thohir Buat BUMN Tumbuh Pesat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfd85r451/komisaris-utama-taspen-sebut-erick-thohir-buat-bumn-tumbuh-pesat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:59:53"
+    },
+    {
+      "judul": "Anggota BPK Achsanul Qosasi Divonis 'Ringan' dalam Kasus BTS, Ini Pertimbangan Hakim",
+      "link_berita": "https://news.republika.co.id/berita/sfdcsd487/anggota-bpk-achsanul-qosasi-divonis-ringan-dalam-kasus-bts-ini-pertimbangan-hakim",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:57:53"
+    },
+    {
+      "judul": "Menteri Arifin dan Menteri Basuki Bertemu, Bahas Pembangunan Cisem Tahap II",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfdcnz423/menteri-arifin-dan-menteri-basuki-bertemu-bahas-pembangunan-cisem-tahap-ii",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:54:53"
+    },
+    {
+      "judul": "Berkas Kasus Pembunuhan Vina dan Eky Cirebon Telah Diterima Kejati Jabar",
+      "link_berita": "https://tv.republika.co.id/berita/sfdcf7418/berkas-kasus-pembunuhan-vina-dan-eky-cirebon-telah-diterima-kejati-jabar",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:49:53"
+    },
+    {
+      "judul": "Polda Jabar Pastikan Sidang Praperadilan Pegi Setiawan Digelar 24 Juni",
+      "link_berita": "https://rejabar.republika.co.id/berita/sfdc80512/polda-jabar-pastikan-sidang-praperadilan-pegi-setiawan-digelar-24-juni",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:45:53"
+    },
+    {
+      "judul": "Sensasi Baru! Ferrari Luncurkan Mobil Listrik Pertama dengan Harga Fantastis Rp 8,8 Miliar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfdc7e468/sensasi-baru-ferrari-luncurkan-mobil-listrik-pertama-dengan-harga-fantastis-rp-88-miliar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:44:53"
+    },
+    {
+      "judul": "Menhan Prabowo Terima Bintang Bhayangkara dari Kapolri",
+      "link_berita": "https://news.republika.co.id/berita/sfdc6x484/menhan-prabowo-terima-bintang-bhayangkara-dari-kapolri",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:44:53"
+    },
+    {
+      "judul": "ICW Minta KPK Bongkar Sponsor Harun Masiku, Siapa yang Dimaksud?",
+      "link_berita": "https://news.republika.co.id/berita/sfdc36487/icw-minta-kpk-bongkar-sponsor-harun-masiku-siapa-yang-dimaksud",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:42:53"
+    },
+    {
+      "judul": "Setoran BRI ke Kas Negara Tembus Rp 192 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfdbzp423/setoran-bri-ke-kas-negara-tembus-rp-192-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:40:53"
+    },
+    {
+      "judul": "Soal Perubahan Mekanisme Penerima LPG Bersubsidi, Menteri ESDM: Masih Pendataan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfdbef423/soal-perubahan-mekanisme-penerima-lpg-bersubsidi-menteri-esdm-masih-pendataan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:27:53"
+    },
+    {
+      "judul": "Hizbullah Ancam akan Serang Siprus, Perang Berpotensi Meluas ke Mediterania Timur",
+      "link_berita": "https://news.republika.co.id/berita/sfdbcg377/hizbullah-ancam-akan-serang-siprus-perang-berpotensi-meluas-ke-mediterania-timur",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:26:53"
+    },
+    {
+      "judul": "AirNav Indonesia Layani 1.407 Penerbangan Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfd803451/airnav-indonesia-layani-1407-penerbangan-haji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:21:53"
+    },
+    {
       "judul": "Thailand Legalkan Pernikahan Sejenis, Adakah Peluang Indonesia Melakukan Hal yang Sama?",
       "link_berita": "https://news.republika.co.id/berita/sfdak3487/thailand-legalkan-pernikahan-sejenis-adakah-peluang-indonesia-melakukan-hal-yang-sama",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:10:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:21:53"
     },
     {
       "judul": "Neraca Perdagangan Mei 2024 Lanjutkan Tren Surplus Selama Empat Tahun Terakhir",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfdaif423/neraca-perdagangan-mei-2024-lanjutkan-tren-surplus-selama-empat-tahun-terakhir",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:09:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:21:53"
     },
     {
       "judul": "Depok Kembangan Kawasan Alun-alun Barat di Situ Tujuh Muara Sawangan, Fokus Pemanfaatan GSS",
       "link_berita": "https://ruzka.republika.co.id/serba-serbi/1674778411/depok-kembangan-kawasan-alun-alun-barat-di-situ-tujuh-muara-sawangan-fokus-pemanfaatan-gss",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:06:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:21:53"
     },
     {
       "judul": "Most Pilgrims Who Died in 2024 Hajj Season Had no Permit",
       "link_berita": "https://en.republika.co.id/berita/sfd7vv451/most-pilgrims-who-died-in-2024-hajj-season-had-no-permit",
       "kategori": "En",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 08:21:53"
     },
     {
       "judul": "Terima Suap BTS 4G, Anggota BPK Achsanul Qosasi Divonis 2,5 Tahun Penjara",
       "link_berita": "https://news.republika.co.id/berita/sfd9zl377/terima-suap-bts-4g-anggota-bpk-achsanul-qosasi-divonis-25-tahun-penjara",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:57:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 07:21:53"
     },
     {
       "judul": "Depok Gelar Rakor Sinergitas Penguatan Posmaja, Ajak Remaja Aktif Sosialisasikan Cegah Stunting",
       "link_berita": "https://ruzka.republika.co.id/serba-serbi/1674778364/depok-gelar-rakor-sinergitas-penguatan-posmaja-ajak-remaja-aktif-sosialisasikan-cegah-stunting",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:52:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Menanti Kehadiran Poco F6 di Indonesia, Apa Saja Fitur Unggulannya?",
       "link_berita": "https://ameera.republika.co.id/berita/sfd9om425/menanti-kehadiran-poco-f6-di-indonesia-apa-saja-fitur-unggulannya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:51:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Menatap Bintang, Melihat Keajaiban Masa Lalu di Langit Malam",
       "link_berita": "https://retizen.republika.co.id/posts/314575/menatap-bintang-melihat-keajaiban-masa-lalu-di-langit-malam",
       "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:48:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Baznas Bazis DKI Tebar Kebahagiaan Kurban di Pesantren Tahfidz Difabel",
       "link_berita": "https://khazanah.republika.co.id/berita/sfd9j8490/baznas-bazis-dki-tebar-kebahagiaan-kurban-di-pesantren-tahfidz-difabel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:47:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Moeldoko Bantah Anggapan Pemeriksaan Hasto oleh KPK karena PDIP Vokal Kritik Istana",
       "link_berita": "https://news.republika.co.id/berita/sfd9in409/moeldoko-bantah-anggapan-pemeriksaan-hasto-oleh-kpk-karena-pdip-vokal-kritik-istana",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:47:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Cara Menjaga Kesehatan Jantung dengan Aktivitas Fisik",
       "link_berita": "https://diagnosa.id/posts/314568/cara-menjaga-kesehatan-jantung-dengan-aktivitas-fisik",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:45:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Whoops, Refleksi Meghan Trainor Tentang Self-Love Setelah Dua Kali Operasi Caesar",
       "link_berita": "https://filmusiku.com/posts/314569/whoops-refleksi-meghan-trainor-tentang-self-love-setelah-dua-kali-operasi-caesar",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:45:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Tentaranya Terus Bunuh Diri, Apa yang Sebenarnya Terjadi dengan Militer Israel?",
       "link_berita": "https://www.republika.id/posts/53458/tentaranya-terus-bunuh-diri-apa-yang-sebenarnya-terjadi-dengan-militer-israel",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:44:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Keren, Pelajar ini Diterima di Tiga Universitas Top Inggris dan Dunia",
       "link_berita": "https://pemantiknews.id/posts/314582/keren-pelajar-ini-diterima-di-tiga-universitas-top-inggris-dan-dunia",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:44:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Universitas BSI Ajak Orang Tua Camaba Berbincang Tentang Kampus Lewat BKOT",
       "link_berita": "https://news.republika.co.id/berita/sfd99f490/universitas-bsi-ajak-orang-tua-camaba-berbincang-tentang-kampus-lewat-bkot",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:42:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Perseteruan Antara Netanyahu dan Joe Biden Dilaporkan Kian Memanas",
       "link_berita": "https://news.republika.co.id/berita/sfd97x409/perseteruan-antara-netanyahu-dan-joe-biden-dilaporkan-kian-memanas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:41:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Kejati Jabar Terima Berkas Kasus Pembunuhan Vina dan Eky",
       "link_berita": "https://news.republika.co.id/berita/sfd92x377/kejati-jabar-terima-berkas-kasus-pembunuhan-vina-dan-eky",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:38:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Ibu Tien Soeharto Titisan Ken Dedes? Pamor Soeharto Dinilai Turun Sepeninggal Ibu Tien",
       "link_berita": "https://oohya.republika.co.id/pitan/1744778228/ibu-tien-soeharto-titisan-ken-dedes-pamor-soeharto-dinilai-turun-sepeninggal-ibu-tien",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:38:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "26 Universitas Terbaik di Indonesia Versi QS WUR 2025, Ada Tujuh Kampus Swasta",
       "link_berita": "https://kampus.republika.co.id/info-kampus/1624778267/26-universitas-terbaik-di-indonesia-versi-qs-wur-2025-ada-tujuh-kampus-swasta",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:36:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Keamanan Kawasan Car Free Day di Jakarta akan Diperketat Usai Foto Aksi Jambret Viral",
       "link_berita": "https://news.republika.co.id/berita/sfd8yx409/keamanan-kawasan-car-free-day-di-jakarta-akan-diperketat-usai-foto-aksi-jambret-viral",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:35:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Baznas Terima Penyaluran ZIS Rp 2,7 Miliar dari PT Asuransi Jiwa Syariah Al-Amin",
       "link_berita": "https://khazanah.republika.co.id/berita/sfd89h423/baznas-terima-penyaluran-zis-rp-27-miliar-dari-pt-asuransi-jiwa-syariah-alamin",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:20:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Edukasi Anak Lewat Lets Go To Cinpolis",
       "link_berita": "https://genpop.republika.co.id/posts/314578/edukasi-anak-lewat-lets-go-to-cinpolis",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:17:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "LPEM FEB UI Sebut BI Rate 6,25 Persen Perlu Dipertahankan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfd7zk370/lpem-feb-ui-sebut-bi-rate-625-persen-perlu-dipertahankan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Airlangga Sebut Koalisi Masih Bahas Jadi-tidaknya Ridwan Kamil Maju di Pilkada Jakarta",
       "link_berita": "https://news.republika.co.id/berita/sfd7xl409/airlangga-sebut-koalisi-masih-bahas-jaditidaknya-ridwan-kamil-maju-di-pilkada-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Bea Cukai Perkuat Sinergi Antarinstansi untuk Stabilitas Ekonomi dan Keamanan Negara",
       "link_berita": "https://republika.co.id/berita/sfd7ro423/bea-cukai-perkuat-sinergi-antarinstansi-untuk-stabilitas-ekonomi-dan-keamanan-negara",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Kejati Jabar Segera Periksa Berkas Perkara Kasus Pembunuhan Vina, Jika Lengkap akan P21",
       "link_berita": "https://rejabar.republika.co.id/berita/sfd792512/kejati-jabar-segera-periksa-berkas-perkara-kasus-pembunuhan-vina-jika-lengkap-akan-p21",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Jari Putus, Satu Santri Korban Ledakan Mercon Dirujuk ke RS Sardjito",
       "link_berita": "https://rejogja.republika.co.id/berita/sfd75z291/jari-putus-satu-santri-korban-ledakan-mercon-dirujuk-ke-rs-sardjito",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Jokowi Gelar Rapat Terbatas Bahas Kratom, akan Dilegalkan?",
       "link_berita": "https://news.republika.co.id/berita/sfd6zz409/jokowi-gelar-rapat-terbatas-bahas-kratom-akan-dilegalkan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 06:21:53"
     },
     {
       "judul": "Kejati Jabar Terima Berkas Kasus Pembunuhan Vina dan Eky Cirebon",
       "link_berita": "https://rejabar.republika.co.id/berita/sfd6db512/kejati-jabar-terima-berkas-kasus-pembunuhan-vina-dan-eky-cirebon",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:21:53"
     },
     {
       "judul": "Wakil Ketua MPR: Pengusul Pansus Haji tidak Tahu Ekosistem Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/sfd60n366/wakil-ketua-mpr-pengusul-pansus-haji-tidak-tahu-ekosistem-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:21:53"
     },
     {
       "judul": "Kondisi Terkini 68 Korban Keracunan di Lembang, Mayoritas Sudah Pulang",
       "link_berita": "https://rejabar.republika.co.id/berita/sfd5sh512/kondisi-terkini-68-korban-keracunan-di-lembang-mayoritas-sudah-pulang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:21:53"
     },
     {
       "judul": "Berkas Perkara Kasus Pembunuhan Vina dengan Tersangka Pegi Dilimpahkan ke Kejati Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sfd5i1512/berkas-perkara-kasus-pembunuhan-vina-dengan-tersangka-pegi-dilimpahkan-ke-kejati-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:21:53"
     },
     {
       "judul": "Universitas BSI Kampus BSD akan Gelar BKOT untuk Perkuat Komunikasi dan Dukungan Akademi",
       "link_berita": "https://news.republika.co.id/berita/sfd4rw490/universitas-bsi-kampus-bsd-akan-gelar-bkot-untuk-perkuat-komunikasi-dan-dukungan-akademi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "KRI Dewaruci Berlayar dari Dumai, Bawa Misi Memperkenalkan Peradaban Rempah Nusantara",
-      "link_berita": "https://visual.republika.co.id/berita/sfd20y375/kri-dewaruci-berlayar-dari-dumai-bawa-misi-memperkenalkan-peradaban-rempah-nusantara",
-      "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "IDF Akhirnya Akui Hamas tak Bisa Dikalahkan dan akan Tetap Ada di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sfd4oi409/idf-akhirnya-akui-hamas-tak-bisa-dikalahkan-dan-akan-tetap-ada-di-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Kabar Baik Nih...Vitamin B12 Bisa Membantu Mengurangi Peradangan",
-      "link_berita": "https://impresiupdate.id/posts/314561/kabar-baik-nih-vitamin-b12-bisa-membantu-mengurangi-peradangan",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Inilah Penyebab Penting Radang Sendi yang Perlu Diketahui",
-      "link_berita": "https://impresiupdate.id/posts/314558/inilah-penyebab-penting-radang-sendi-yang-perlu-diketahui",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Toyota Rush GR Sport Tampil dengan Sejumlah Pembaruan, Harga OTR Tertinggi Rp 310 Jutaan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfd4fh349/toyota-rush-gr-sport-tampil-dengan-sejumlah-pembaruan-harga-otr-tertinggi-rp-310-jutaan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Polemik Beach Club Gunungkidul, Sekda DIY Tekankan Aspek Lingkungan",
-      "link_berita": "https://news.republika.co.id/berita/sfd4di370/polemik-beach-club-gunungkidul-sekda-diy-tekankan-aspek-lingkungan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Mahasiswa Peternakan UMM Sukses Kembangkan Telur Puyuh Rendah Kolesterol",
-      "link_berita": "https://news.republika.co.id/berita/sfd48m484/mahasiswa-peternakan-umm-sukses-kembangkan-telur-puyuh-rendah-kolesterol",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Universitas BSI Kampus Margonda Siap Adakan BKOT dan Workshop Digital Kreatif",
-      "link_berita": "https://news.republika.co.id/berita/sfd41c490/universitas-bsi-kampus-margonda-siap-adakan-bkot-dan-workshop-digital-kreatif",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Rasulullah Sang Putra Makkah",
-      "link_berita": "https://iqra.republika.co.id/berita/sfd40e483/rasulullah-sang-putra-makkah",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Siap Jadikan Indonesia Hub Produksi Mobil Listrik, Ini Komitmen NETA",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfd3xo349/siap-jadikan-indonesia-hub-produksi-mobil-listrik-ini-komitmen-neta",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:16:02"
-    },
-    {
-      "judul": "Laporan Makkah Sudah Waktunya Tempat Wukuf dan Mabit di Azumna (Arafah, Muzdalifah, Mina) Bertingkat",
-      "link_berita": "https://algebra.republika.co.id/posts/314564/laporan-makkah-sudah-waktunya-tempat-wukuf-dan-mabit-di-azumna-arafah-muzdalifah-mina-bertingkat",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
-    },
-    {
-      "judul": "Israel Meradang Hizbullah Rilis Video Kompleks Militer, Siap All Out Lawan Hizbullah",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfd3r0366/israel-meradang-hizbullah-rilis-video-kompleks-militer-siap-all-out-lawan-hizbullah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
-    },
-    {
-      "judul": "Cek Khodam di TikTok Viral, Tren Gaib yang Berujung Lelucon",
-      "link_berita": "https://ameera.republika.co.id/berita/sfd3qj425/cek-khodam-di-tiktok-viral-tren-gaib-yang-berujung-lelucon",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
-    },
-    {
-      "judul": "Menjaga Kedamaian Hati dengan Berdoa: Jadwal Sholat Hari 20 Juni 2024 di Depok",
-      "link_berita": "https://iqra.republika.co.id/berita/sfd3mx430/menjaga-kedamaian-hati-dengan-berdoa-jadwal-sholat-hari-20-juni-2024-di-depok",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
-    },
-    {
-      "judul": "DNA dari Rambut Beethoven Ungkap Kejutan 200 Tahun Kemudian",
-      "link_berita": "https://impresi.republika.co.id/sosok/1694777851/dna-dari-rambut-beethoven-ungkap-kejutan-200-tahun-kemudian",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
-    },
-    {
-      "judul": "Informasi Palsu Bayangi Peristiwa Cuaca Ekstrem di Seluruh Dunia",
-      "link_berita": "https://esgnow.republika.co.id/berita/sfd3gd328/informasi-palsu-bayangi-peristiwa-cuaca-ekstrem-di-seluruh-dunia",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
-    },
-    {
-      "judul": "295 Jamaah Dibadalkan, Sembilan Tunggakan Tahun Lalu",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfd3bg483/295-jamaah-dibadalkan-sembilan-tunggakan-tahun-lalu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 04:16:02"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 05:21:53"
     },
     {
       "judul": "Menanti Kehadiran Poco F6 di Indonesia, Apa Saja Fitur Unggulannya?",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Thursday, 20 Jun 2024, 11:36:00"
     },
     {
-      "judul": "Neraca Perdagangan Mei 2024 Lanjutkan Tren Surplus Selama Empat Tahun Terakhir",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfdaif423/neraca-perdagangan-mei-2024-lanjutkan-tren-surplus-selama-empat-tahun-terakhir",
+      "judul": "Bank Indonesia Pertahankan Suku Bunga Acuan 6,25 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfddch370/bank-indonesia-pertahankan-suku-bunga-acuan-625-persen",
       "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 14:08:00"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 15:09:00"
     },
     {
-      "judul": "Sertifikasi Halal Jadi Pembahasan BSI dan Wakil Grand Syekh Al-Azhar",
-      "link_berita": "https://sharia.republika.co.id/berita/sfd2yg490/sertifikasi-halal-jadi-pembahasan-bsi-dan-wakil-grand-syekh-alazhar",
+      "judul": "Resmi Buka BSI International Expo 2024, Wapres RI Berikan Empat Pesan Penting",
+      "link_berita": "https://sharia.republika.co.id/berita/sfdd7d370/resmi-buka-bsi-international-expo-2024-wapres-ri-berikan-empat-pesan-penting",
       "kategori": "Keuangan Sharia",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 11:25:00"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 15:06:00"
     },
     {
-      "judul": "Thailand Legalkan Pernikahan Sejenis, Adakah Peluang Indonesia Melakukan Hal yang Sama?",
-      "link_berita": "https://news.republika.co.id/berita/sfdak3487/thailand-legalkan-pernikahan-sejenis-adakah-peluang-indonesia-melakukan-hal-yang-sama",
+      "judul": "Anggota BPK Achsanul Qosasi Divonis 'Ringan' dalam Kasus BTS, Ini Pertimbangan Hakim",
+      "link_berita": "https://news.republika.co.id/berita/sfdcsd487/anggota-bpk-achsanul-qosasi-divonis-ringan-dalam-kasus-bts-ini-pertimbangan-hakim",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 20 Jun 2024, 14:09:00"
+      "tanggal_terbit": "Thursday, 20 Jun 2024, 14:57:00"
     }
   ],
-  "waktu_scraping": "Thursday, 20 Jun 2024, 14:16:02"
+  "waktu_scraping": "Thursday, 20 Jun 2024, 15:21:53"
 }
