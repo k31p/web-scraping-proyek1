@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Israel Belum Menang, Serangan Taktis Hamas Buat Tentara Zionis Kelimpungan",
+      "link_berita": "https://news.republika.co.id/berita/sff3bz377/israel-belum-menang-serangan-taktis-hamas-buat-tentara-zionis-kelimpungan"
+    },
+    {
+      "judul": "Disebut Polisi Imingi Saksi Pembunuhan Vina, Pengacara Saka Ungkap Fakta Sebenarnya",
+      "link_berita": "https://news.republika.co.id/berita/sff29k377/disebut-polisi-imingi-saksi-pembunuhan-vina-pengacara-saka-ungkap-fakta-sebenarnya"
+    },
+    {
       "judul": "Kontroversi Pencalonan Marshel Widianto di Pilwalkot Tangsel, Rekam Jejak Disorot",
       "link_berita": "https://news.republika.co.id/berita/sfeydd377/kontroversi-pencalonan-marshel-widianto-di-pilwalkot-tangsel-rekam-jejak-disorot"
     },
@@ -11,17 +19,13 @@
     {
       "judul": "Kompolnas: Kasus Vina akan Terungkap di Persidangan",
       "link_berita": "https://news.republika.co.id/berita/sfewlv377/kompolnas-kasus-vina-akan-terungkap-di-persidangan"
-    },
-    {
-      "judul": "Musisi Virgoun Ditangkap karena Dugaan Narkoba, Inara Rusli Bikin Postingan Ini",
-      "link_berita": "https://ameera.republika.co.id/berita/sfeoz0425/musisi-virgoun-ditangkap-karena-dugaan-narkoba-inara-rusli-bikin-postingan-ini"
-    },
-    {
-      "judul": "40 Jamaah Haji Indonesia Wafat di Arafah dan Mina",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfempe430/40-jamaah-haji-indonesia-wafat-di-arafah-dan-mina"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ini Alasan TNI tak Kunjung Kirim Relawan Sipil ke Gaza untuk Misi Perdamaian",
+      "link_berita": "https://news.republika.co.id/berita/sff265487/ini-alasan-tni-tak-kunjung-kirim-relawan-sipil-ke-gaza-untuk-misi-perdamaian"
+    },
     {
       "judul": "Putra Juara Judo Israel Tewas Dibom Pejuang Palestina di Gaza",
       "link_berita": "https://news.republika.co.id/berita/sff0df393/putra-juara-judo-israel-tewas-dibom-pejuang-palestina-di-gaza"
@@ -77,312 +81,308 @@
     {
       "judul": "Bukti Baru Disiapkan Para Terpidana Kasus Vina untuk PK, Mungkinkah Mereka Bebas?",
       "link_berita": "https://news.republika.co.id/berita/sfdo0d487/bukti-baru-disiapkan-para-terpidana-kasus-vina-untuk-pk-mungkinkah-mereka-bebas"
-    },
-    {
-      "judul": "Golkar Akui Banyak Dukungan Mengalir Agar Ridwan Kamil ke Jawa Barat Dibandingkan Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sfedlg377/golkar-akui-banyak-dukungan-mengalir-agar-ridwan-kamil-ke-jawa-barat-dibandingkan-jakarta"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ini Cara Ampuh MIND ID Hadapi Dinamika Geopolitik dan Fluktuasi Harga Komoditas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sff5d4370/ini-cara-ampuh-mind-id-hadapi-dinamika-geopolitik-dan-fluktuasi-harga-komoditas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 07:12:16"
+    },
+    {
+      "judul": "Eks Tapol Jadi Anggota Golkar, Sarwono Bikin Pak Dhar Tertawa",
+      "link_berita": "https://oohya.republika.co.id/lincak/1744782253/eks-tapol-jadi-anggota-golkar-sarwono-bikin-pak-dhar-tertawa",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 07:11:16"
+    },
+    {
+      "judul": "BEI Implementasikan Hasil Evaluasi Papan Pemantauan Khusus",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sff53b370/bei-implementasikan-hasil-evaluasi-papan-pemantauan-khusus",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 07:07:16"
+    },
+    {
+      "judul": "Polda Jabar Sebar Ribuan Paket Sembako ke Panti Asuhan Hingga Mahasiswa Perantau",
+      "link_berita": "https://rejabar.republika.co.id/berita/sff4yv512/polda-jabar-sebar-ribuan-paket-sembako-ke-panti-asuhan-hingga-mahasiswa-perantau",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 07:04:16"
+    },
+    {
+      "judul": "Survei UNDP: Mayoritas Masyarakat RI Minta Pemerintah Perkuat Aksi Iklim",
+      "link_berita": "https://esgnow.republika.co.id/berita/sff4bj416/survei-undp-mayoritas-masyarakat-ri-minta-pemerintah-perkuat-aksi-iklim",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 07:00:16"
+    },
+    {
+      "judul": "Mercedes-Benz Luncurkan SUV Listrik Mewah di Indonesia, Harga Tembus Rp 2,85 Miliar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sff3pc349/mercedesbenz-luncurkan-suv-listrik-mewah-di-indonesia-harga-tembus-rp-285-miliar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:37:16"
+    },
+    {
+      "judul": "Israel Belum Menang, Serangan Taktis Hamas Buat Tentara Zionis Kelimpungan",
+      "link_berita": "https://news.republika.co.id/berita/sff3bz377/israel-belum-menang-serangan-taktis-hamas-buat-tentara-zionis-kelimpungan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:29:16"
+    },
+    {
+      "judul": "Satgas PPKS Dorong Mahasiswi Korban Pencabulan Dosen Unram Lapor Polisi",
+      "link_berita": "https://news.republika.co.id/berita/sff39m484/satgas-ppks-dorong-mahasiswi-korban-pencabulan-dosen-unram-lapor-polisi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:27:16"
+    },
+    {
       "judul": "Universitas Mataram Pecat Dosen yang Terbukti Cabul ke Mahasiswi",
       "link_berita": "https://news.republika.co.id/berita/sff2ya484/universitas-mataram-pecat-dosen-yang-terbukti-cabul-ke-mahasiswi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:20:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:20:16"
     },
     {
       "judul": "Doa Terhindar dari Serangan Hewan Buas",
       "link_berita": "https://iqra.republika.co.id/berita/sff2x2430/doa-terhindar-dari-serangan-hewan-buas",
       "kategori": "Iqra",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:19:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:20:16"
     },
     {
       "judul": "Virgoun dan Wanita Inisial PA Positif Sabu, Polisi Buru Pemasok Narkoba",
       "link_berita": "https://ameera.republika.co.id/berita/sff2la425/virgoun-dan-wanita-inisial-pa-positif-sabu-polisi-buru-pemasok-narkoba",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:12:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Tantangan dan Kesempatan Perum Bulog untuk Jadi Pemimpin Rantai Pasok Pangan Tepercaya",
       "link_berita": "https://ruzka.republika.co.id/ekonomi/1674782089/tantangan-dan-kesempatan-perum-bulog-untuk-jadi-pemimpin-rantai-pasok-pangan-tepercaya",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:10:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Disebut Polisi Imingi Saksi Pembunuhan Vina, Pengacara Saka Ungkap Fakta Sebenarnya",
       "link_berita": "https://news.republika.co.id/berita/sff29k377/disebut-polisi-imingi-saksi-pembunuhan-vina-pengacara-saka-ungkap-fakta-sebenarnya",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:05:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Ini Alasan TNI tak Kunjung Kirim Relawan Sipil ke Gaza untuk Misi Perdamaian",
       "link_berita": "https://news.republika.co.id/berita/sff265487/ini-alasan-tni-tak-kunjung-kirim-relawan-sipil-ke-gaza-untuk-misi-perdamaian",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:03:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Omoda E5 Jadi Mobil Listrik Terlaris di Indonesia Dua Bulan Berturut-Turut, Ini Sebabnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/sff21v349/omoda-e5-jadi-mobil-listrik-terlaris-di-indonesia-dua-bulan-berturutturut-ini-sebabnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 06:01:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "PLN Andalkan Hidrogen Sebagai Energi Masa Depan",
       "link_berita": "https://esgnow.republika.co.id/berita/sfewp7416/pln-andalkan-hidrogen-sebagai-energi-masa-depan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:59:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Kaesang Sambangi Kantor Muhamadiyah DKI untuk Sholat Jumat",
       "link_berita": "https://news.republika.co.id/berita/sff1w6451/kaesang-sambangi-kantor-muhamadiyah-dki-untuk-sholat-jumat",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:57:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Satgas BLBI Sita Tanah Kaharudin Ongko di Bintaro Senilai Rp 25,8 Miliar",
       "link_berita": "https://news.republika.co.id/berita/sff1p2484/satgas-blbi-sita-tanah-kaharudin-ongko-di-bintaro-senilai-rp-258-miliar",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:53:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 06:16:16"
     },
     {
       "judul": "Dari Kapal Sampai Terminal, PIS Salurkan Ratusan Hewan Kurban di Idul Adha 1445 H",
       "link_berita": "https://impresi.republika.co.id/news/1694782013/dari-kapal-sampai-terminal-pis-salurkan-ratusan-hewan-kurban-di-idul-adha-1445-h",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:46:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Melirik Teknologi Terkini TV di PRJ 2024",
       "link_berita": "https://digitaldonat.republika.co.id/digitalnote/1754781981/melirik-teknologi-terkini-tv-di-prj-2024",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:35:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Virgoun Ditangkap Bersama Seorang Wanita, Tes Urine Keduanya Positif Narkoba",
       "link_berita": "https://rejabar.republika.co.id/berita/sff0ja512/virgoun-ditangkap-bersama-seorang-wanita-tes-urine-keduanya-positif-narkoba",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:28:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Putra Juara Judo Israel Tewas Dibom Pejuang Palestina di Gaza",
       "link_berita": "https://news.republika.co.id/berita/sff0df393/putra-juara-judo-israel-tewas-dibom-pejuang-palestina-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Band Queen Jual Katalog Musik dengan Harga Fantastis Rp 20 Triliun",
       "link_berita": "https://ameera.republika.co.id/berita/sff04f425/band-queen-jual-katalog-musik-dengan-harga-fantastis-rp-20-triliun",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Pusat Data Nasional Bermasalah, Sistem Imigrasi Terganggu, Penumpang Menumpuk di bandara",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfezsm370/pusat-data-nasional-bermasalah-sistem-imigrasi-terganggu-penumpang-menumpuk-di-bandara",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Viral Jenazah Jamaah Haji Tergelatak, Ini Penjelasan Kemenag",
       "link_berita": "https://rejabar.republika.co.id/berita/sfezja512/viral-jenazah-jamaah-haji-tergelatak-ini-penjelasan-kemenag",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Desa Konvervasi, Antara Keindahan Alam dan Kemiskinan",
       "link_berita": "https://esgnow.republika.co.id/berita/sfew3z416/desa-konvervasi-antara-keindahan-alam-dan-kemiskinan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Virgoun Ditangkap Bersama Seorang Wanita di Indekos, Barang Bukti Sabu",
       "link_berita": "https://ameera.republika.co.id/berita/sfez33425/virgoun-ditangkap-bersama-seorang-wanita-di-indekos-barang-bukti-sabu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 05:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Ini Silsilah Ibu Tien Soeharto yang Disebut Titisan Ken Dedes",
       "link_berita": "https://oohya.republika.co.id/pitan/1744781809/ini-silsilah-ibu-tien-soeharto-yang-disebut-titisan-ken-dedes",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Kuasa Hukum Saka Tatal dan Sudirman Bantah Mengarahkan dan Mengiming-imingi Uang ke Saksi",
       "link_berita": "https://rejabar.republika.co.id/berita/sfeyn4512/kuasa-hukum-saka-tatal-dan-sudirman-bantah-mengarahkan-dan-mengimingimingi-uang-ke-saksi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 05:16:16"
     },
     {
       "judul": "Selain Virgoun, Ini Public Figure yang Ditangkap karena Dugaan Narkoba pada 2024",
       "link_berita": "https://ameera.republika.co.id/berita/sfeydg425/selain-virgoun-ini-public-figure-yang-ditangkap-karena-dugaan-narkoba-pada-2024",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Kontroversi Pencalonan Marshel Widianto di Pilwalkot Tangsel, Rekam Jejak Disorot",
       "link_berita": "https://news.republika.co.id/berita/sfeydd377/kontroversi-pencalonan-marshel-widianto-di-pilwalkot-tangsel-rekam-jejak-disorot",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Indonesia Bermain di Laga Pembuka AFF U-16, Pelatih: Mental Pemain Jadi Faktor Penentu",
       "link_berita": "https://rejogja.republika.co.id/berita/sfey9s291/indonesia-bermain-di-laga-pembuka-aff-u16-pelatih-mental-pemain-jadi-faktor-penentu",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Beijing Anggap Perjanjian Rusia-Korut Urusan Dua Negara Berdaulat",
       "link_berita": "https://news.republika.co.id/berita/sfey1s484/beijing-anggap-perjanjian-rusiakorut-urusan-dua-negara-berdaulat",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Pemprov Jabar Kolaborasi dengan BRIN Tangani Stunting",
       "link_berita": "https://rejabar.republika.co.id/berita/sfey0k512/pemprov-jabar-kolaborasi-dengan-brin-tangani-stunting",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Ibadah di tengah Rutinitas: Jadwal Sholat 21 Juni 2024 di Kota Depok",
       "link_berita": "https://khazanah.republika.co.id/berita/sfexv6430/ibadah-di-tengah-rutinitas-jadwal-sholat-21-juni-2024-di-kota-depok",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Bos dan Praktisi Industri Hiburan Semangati Calon Mahasiswa dalam Open House ATVI-IMDE",
       "link_berita": "https://cari.republika.co.id/posts/314829/bos-dan-praktisi-industri-hiburan-semangati-calon-mahasiswa-dalam-open-house-atvi-imde",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Pemprov Jabar Ajak Kabupaten/Kota di Cekungan Bandung Bahu-membahu Lestarikan Citarum",
       "link_berita": "https://rejabar.republika.co.id/berita/sfexl3512/pemprov-jabar-ajak-kabupatenkota-di-cekungan-bandung-bahumembahu-lestarikan-citarum",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Terima Sertifikat AEO di Malang, Bentoel Group Perkuat Bisnis Ekspor",
       "link_berita": "https://rejogja.republika.co.id/berita/sfexae291/terima-sertifikat-aeo-di-malang-bentoel-group-perkuat-bisnis-ekspor",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Pentingnya Mulai Bisnis Sejak Dini, Nusa Mandiri Startup Center Gelar Bootcamp",
       "link_berita": "https://news.republika.co.id/berita/sfex5j490/pentingnya-mulai-bisnis-sejak-dini-nusa-mandiri-startup-center-gelar-bootcamp",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "16 Perusahaan Buka Lowongan Kerja di Job Fair SMK Binawarga Cirebon, Pencari Kerja Membludak",
       "link_berita": "https://matapantura.republika.co.id/posts/314824/16-perusahaan-buka-lowongan-kerja-di-job-fair-smk-binawarga-cirebon-pencari-kerja-membludak",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Siang Ini, Live Room Stadeo Review Hasil Euro 2024 dan Performa Ronaldo Bersama Portugal",
       "link_berita": "https://news.republika.co.id/berita/sfewzw348/siang-ini-live-room-stadeo-review-hasil-euro-2024-dan-performa-ronaldo-bersama-portugal",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Serangan Jantung Vs Serangan Panik Gejalanya Mirip, Lantas Apa Bedanya?",
       "link_berita": "https://impresiupdate.id/posts/314796/serangan-jantung-vs-serangan-panik-gejalanya-mirip-lantas-apa-bedanya-",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Bruno Mars Akan Konser di JIS September, Perang Tiket Dimulai 27 Juni",
       "link_berita": "https://filmusiku.com/posts/314815/bruno-mars-akan-konser-di-jis-september-perang-tiket-dimulai-27-juni",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Kompolnas: Kasus Vina akan Terungkap di Persidangan",
       "link_berita": "https://news.republika.co.id/berita/sfewlv377/kompolnas-kasus-vina-akan-terungkap-di-persidangan",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Puluhan Pendaki Ikut Pembuatan Film Dokumenter di Gunung Kerinci",
       "link_berita": "https://ruzka.republika.co.id/gaya-hidup/1674781632/puluhan-pendaki-ikut-pembuatan-film-dokumenter-di-gunung-kerinci",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "DIY Mulai Perbaiki Tujuh Ruas Jalan, Tahap Pertama Sepanjang 1,5 Meter",
       "link_berita": "https://rejogja.republika.co.id/berita/sfewgo291/diy-mulai-perbaiki-tujuh-ruas-jalan-tahap-pertama-sepanjang-15-meter",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Korban Jiwa Terus Berjatuhan Akibat Gelombang Panas di India",
       "link_berita": "https://esgnow.republika.co.id/berita/sfev4e416/korban-jiwa-terus-berjatuhan-akibat-gelombang-panas-di-india",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Lisa Blackpink Ubah \u2018Image\u2019 Lewat Single Solo Terbarunya \u2018Rockstar\u2018",
       "link_berita": "https://ameera.republika.co.id/berita/sfewcs425/lisa-blackpink-ubah-image-lewat-single-solo-terbarunya-rockstar",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Menteri LHK Siti Nurbaya: Perhutanan Sosial, Evolusi Upaya Negara Wujudkan Keadilan Pengelolaan Laha",
       "link_berita": "https://cari.republika.co.id/posts/314814/menteri-lhk-siti-nurbaya-perhutanan-sosial-evolusi-upaya-negara-wujudkan-keadilan-pengelolaan-lahan",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 04:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "JITK Universitas Nusa Mandiri Tingkatkan Frekuensi Terbitan Jadi Empat Kali Setahun",
       "link_berita": "https://news.republika.co.id/berita/sfevze490/jitk-universitas-nusa-mandiri-tingkatkan-frekuensi-terbitan-jadi-empat-kali-setahun",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Polisi Bakal Rutin Ramp Check Bus Wisata Tiap Pekan di Jabar",
-      "link_berita": "https://rejabar.republika.co.id/berita/sfevwe512/polisi-bakal-rutin-ramp-check-bus-wisata-tiap-pekan-di-jabar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Bertemu BUMD Provinsi Anhui, Pj Gubernur Akmal Minta Bangun Pabrik Biodiesel di Kaltim",
-      "link_berita": "https://ruzka.republika.co.id/ekonomi/1674781579/bertemu-bumd-provinsi-anhui-pj-gubernur-akmal-minta-bangun-pabrik-biodiesel-di-kaltim",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Peran Literasi Digital untuk Menghindari Penipuan Investasi",
-      "link_berita": "https://retizen.republika.co.id/posts/314790/peran-literasi-digital-untuk-menghindari-penipuan-investasi",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Reformasi Sistem Pendidikan di Indonesia untuk Masa Depan yang Lebih Baik",
-      "link_berita": "https://retizen.republika.co.id/posts/314805/reformasi-sistem-pendidikan-di-indonesia-untuk-masa-depan-yang-lebih-baik",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Lebih Dekat dengan Kampus, Universitas BSI Undang Orang Tua dalam BKOT",
-      "link_berita": "https://news.republika.co.id/berita/sfevlv490/lebih-dekat-dengan-kampus-universitas-bsi-undang-orang-tua-dalam-bkot",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Catat, Jadwal Lengkap F1 GP Spanyol 2024",
-      "link_berita": "https://motoresto.id/posts/314802/catat-jadwal-lengkap-f1-gp-spanyol-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Ditjen Hubla Sediakan Layanan Kapal Pinisi Dukung Wisata Bahari IKN",
-      "link_berita": "https://matapantura.republika.co.id/posts/314803/ditjen-hubla-sediakan-layanan-kapal-pinisi-dukung-wisata-bahari-ikn",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
-    },
-    {
-      "judul": "Kemenlu Singgung Mandat PBB Terkait Relawan Sipil Ikut ke Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sfev0v484/kemenlu-singgung-mandat-pbb-terkait-relawan-sipil-ikut-ke-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 03:24:32"
+      "tanggal_terbit": "Friday, 21 Jun 2024, 04:16:16"
     },
     {
       "judul": "Virgoun dan Wanita Inisial PA Positif Sabu, Polisi Buru Pemasok Narkoba",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Friday, 21 Jun 2024, 12:00:00"
     },
     {
-      "judul": "Omoda E5 Jadi Mobil Listrik Terlaris di Indonesia Dua Bulan Berturut-Turut, Ini Sebabnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sff21v349/omoda-e5-jadi-mobil-listrik-terlaris-di-indonesia-dua-bulan-berturutturut-ini-sebabnya",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 13:01:00"
+      "judul": "Ini Cara Ampuh MIND ID Hadapi Dinamika Geopolitik dan Fluktuasi Harga Komoditas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sff5d4370/ini-cara-ampuh-mind-id-hadapi-dinamika-geopolitik-dan-fluktuasi-harga-komoditas",
+      "kategori": "Energi",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 14:12:00"
     },
     {
       "judul": "Siap Fasilitasi UMKM, BSI Targetkan 1 Juta Transaksi di BSI International Expo 2024",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 20 Jun 2024, 20:12:00"
     },
     {
-      "judul": "Universitas Mataram Pecat Dosen yang Terbukti Cabul ke Mahasiswi",
-      "link_berita": "https://news.republika.co.id/berita/sff2ya484/universitas-mataram-pecat-dosen-yang-terbukti-cabul-ke-mahasiswi",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 21 Jun 2024, 13:20:00"
+      "judul": "Israel Belum Menang, Serangan Taktis Hamas Buat Tentara Zionis Kelimpungan",
+      "link_berita": "https://news.republika.co.id/berita/sff3bz377/israel-belum-menang-serangan-taktis-hamas-buat-tentara-zionis-kelimpungan",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Friday, 21 Jun 2024, 13:28:00"
     }
   ],
-  "waktu_scraping": "Friday, 21 Jun 2024, 13:24:32"
+  "waktu_scraping": "Friday, 21 Jun 2024, 14:16:16"
 }
