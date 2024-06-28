@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "BREAKING NEWS: PSSI-Shin Tae-yong Sepakati Perpanjangan Kontrak Hingga 2027",
+      "link_berita": "https://news.republika.co.id/berita/sfsi5q409/breaking-news-pssishin-taeyong-sepakati-perpanjangan-kontrak-hingga-2027"
+    },
+    {
+      "judul": "Apa Saja yang Diimpor Indonesia dari Israel? Ternyata ada Senjata",
+      "link_berita": "https://news.republika.co.id/berita/sfsgtu393/apa-saja-yang-diimpor-indonesia-dari-israel-ternyata-ada-senjata"
+    },
+    {
       "judul": "Trump Sebut Biden Orang Palestina yang Buruk",
       "link_berita": "https://khazanah.republika.co.id/berita/sfsdar483/trump-sebut-biden-orang-palestina-yang-buruk"
     },
@@ -11,17 +19,21 @@
     {
       "judul": "Penghuni Masjid Tenda Gaza dan Cita-Cita Syahid Bersama Alquran",
       "link_berita": "https://khazanah.republika.co.id/berita/sfs7fv483/penghuni-masjid-tenda-gaza-dan-citacita-syahid-bersama-alquran"
-    },
-    {
-      "judul": "PKB Ingatkan PKS: Yang Diperlukan Jakarta Kepemimpinan yang Plural",
-      "link_berita": "https://news.republika.co.id/berita/sfs50u484/pkb-ingatkan-pks-yang-diperlukan-jakarta-kepemimpinan-yang-plural"
-    },
-    {
-      "judul": "Menteri ESDM Menjawab Kabar Harga BBM akan Naik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfs36s484/menteri-esdm-menjawab-kabar-harga-bbm-akan-naik"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Syahrul Yasin Limpo Dituntut 12 Tahun Penjara",
+      "link_berita": "https://news.republika.co.id/berita/sfsi5l484/syahrul-yasin-limpo-dituntut-12-tahun-penjara"
+    },
+    {
+      "judul": "Pakar Forensika Digital: Ada Kerentanan pada Sistem PDN",
+      "link_berita": "https://news.republika.co.id/berita/sfshwa393/pakar-forensika-digital-ada-kerentanan-pada-sistem-pdn"
+    },
+    {
+      "judul": "Partai Demokrat Usulkan Pj Heru Maju Pilgub Jakarta 2024",
+      "link_berita": "https://news.republika.co.id/berita/sfsgx5484/partai-demokrat-usulkan-pj-heru-maju-pilgub-jakarta-2024"
+    },
     {
       "judul": "Ilmuwan Ungkap Penyebab Panas Ekstrem Selama Musim Haji",
       "link_berita": "https://esgnow.republika.co.id/berita/sfs83n416/ilmuwan-ungkap-penyebab-panas-ekstrem-selama-musim-haji"
@@ -69,326 +81,314 @@
     {
       "judul": "Mengapa Alquran Peringatkan Bahwa Istri dan Anak Bisa Menjadi Musuh dalam Selimut?",
       "link_berita": "https://iqra.republika.co.id/berita/sfriti320/mengapa-alquran-peringatkan-bahwa-istri-dan-anak-bisa-menjadi-musuh-dalam-selimut"
-    },
-    {
-      "judul": "Kematian Anak di Padang, Dulu Menyangkal, Kini Polda Sumbar Akui Anggota Langgar Hukum",
-      "link_berita": "https://news.republika.co.id/berita/sfrhye377/kematian-anak-di-padang-dulu-menyangkal-kini-polda-sumbar-akui-anggota-langgar-hukum"
-    },
-    {
-      "judul": "Mampukah PKS Mempertahankan Anies-Sohibul Iman? Tantangan Pertama untuk Anies Diberikan",
-      "link_berita": "https://news.republika.co.id/berita/sfqtw3487/mampukah-pks-mempertahankan-aniessohibul-iman-tantangan-pertama-untuk-anies-diberikan"
-    },
-    {
-      "judul": "Khutbah Berbahasa Indonesia Bikin Sholat Jumat tidak Sah, Benarkah?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfqygm483/khutbah-berbahasa-indonesia-bikin-sholat-jumat-tidak-sah-benarkah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Mawar De Jongh dan Jaz Kolaborasi di Lagu Cinta Sedih 'Bukan Dengan Dia'",
+      "link_berita": "https://ameera.republika.co.id/berita/sfsirf425/mawar-de-jongh-dan-jaz-kolaborasi-di-lagu-cinta-sedih-bukan-dengan-dia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:30:50"
+    },
+    {
+      "judul": "BWA Berikan Seribu Quran untuk Peserta Multaqa Nasional Ulama Alquran",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfsiij483/bwa-berikan-seribu-quran-untuk-peserta-multaqa-nasional-ulama-alquran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:25:50"
+    },
+    {
+      "judul": "BREAKING NEWS: PSSI-Shin Tae-yong Sepakati Perpanjangan Kontrak Hingga 2027",
+      "link_berita": "https://news.republika.co.id/berita/sfsi5q409/breaking-news-pssishin-taeyong-sepakati-perpanjangan-kontrak-hingga-2027",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:17:50"
+    },
+    {
+      "judul": "Syahrul Yasin Limpo Dituntut 12 Tahun Penjara",
+      "link_berita": "https://news.republika.co.id/berita/sfsi5l484/syahrul-yasin-limpo-dituntut-12-tahun-penjara",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:17:50"
+    },
+    {
+      "judul": "Yusuf Mansur Mewisuda 588 Santri di Wisuda Tahfizh Nasional Daarul Qur'an",
+      "link_berita": "https://magenta.republika.co.id/khazanah/1704807531/yusuf-mansur-mewisuda-588-santri-di-wisuda-tahfizh-nasional-daarul-quran",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:17:50"
+    },
+    {
+      "judul": "Fenomena Bahasa Gaul dalam Grup WhatsApp Ojol",
+      "link_berita": "https://retizen.republika.co.id/posts/316226/fenomena-bahasa-gaul-dalam-grup-whatsapp-ojol",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:15:50"
+    },
+    {
+      "judul": "Usai Le Mans, Sean Gelael Tancap Gas Bareng Pertamax Turbo di FIA WEC Sao Paulo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfshzz349/usai-le-mans-sean-gelael-tancap-gas-bareng-pertamax-turbo-di-fia-wec-sao-paulo",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:14:50"
+    },
+    {
+      "judul": "Kejar Cuan dari Judi Online? Hati-Hati Jebakan 'Mematikan'",
+      "link_berita": "https://news.republika.co.id/berita/sfshws425/kejar-cuan-dari-judi-online-hatihati-jebakan-mematikan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:12:50"
+    },
+    {
+      "judul": "Pakar Forensika Digital: Ada Kerentanan pada Sistem PDN",
+      "link_berita": "https://news.republika.co.id/berita/sfshwa393/pakar-forensika-digital-ada-kerentanan-pada-sistem-pdn",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:11:50"
+    },
+    {
+      "judul": "Bolehkah Puasa Sunnah di Hari Sabtu?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfshto430/bolehkah-puasa-sunnah-di-hari-sabtu",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:10:50"
+    },
+    {
+      "judul": "BRI Blokir 1.049 Rekening Terindikasi Tampung Uang Judi Online",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfshqs409/bri-blokir-1049-rekening-terindikasi-tampung-uang-judi-online",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:08:50"
+    },
+    {
+      "judul": "Polisi Periksa Sopir Truk yang Diduga Sebabkan Kecelakaan Beruntun di Tol Cipali",
+      "link_berita": "https://rejabar.republika.co.id/berita/sfshla512/polisi-periksa-sopir-truk-yang-diduga-sebabkan-kecelakaan-beruntun-di-tol-cipali",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:05:50"
+    },
+    {
+      "judul": "Nasdem tak Percaya Jokowi Sodorkan Kaesang ke Parpol: Terlalu Konspiratif",
+      "link_berita": "https://news.republika.co.id/berita/sfshkr484/nasdem-tak-percaya-jokowi-sodorkan-kaesang-ke-parpol-terlalu-konspiratif",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:04:50"
+    },
+    {
+      "judul": "Adian Napitupulu: Hasto Diperlakukan Layaknya Seorang Teroris Saat Diperiksa KPK",
+      "link_berita": "https://news.republika.co.id/berita/sfshf9409/adian-napitupulu-hasto-diperlakukan-layaknya-seorang-teroris-saat-diperiksa-kpk",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 12:01:50"
+    },
+    {
+      "judul": "Partai Demokrat Usulkan Pj Heru Maju Pilgub Jakarta 2024",
+      "link_berita": "https://news.republika.co.id/berita/sfsgx5484/partai-demokrat-usulkan-pj-heru-maju-pilgub-jakarta-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:50:50"
+    },
+    {
+      "judul": "Apa Saja yang Diimpor Indonesia dari Israel? Ternyata ada Senjata",
+      "link_berita": "https://news.republika.co.id/berita/sfsgtu393/apa-saja-yang-diimpor-indonesia-dari-israel-ternyata-ada-senjata",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:48:50"
+    },
+    {
+      "judul": "Norwegia Pastikan akan Terima dan Rawat Pasien Palestina dari Gaza",
+      "link_berita": "https://news.republika.co.id/berita/sfsglg348/norwegia-pastikan-akan-terima-dan-rawat-pasien-palestina-dari-gaza",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:43:50"
+    },
+    {
+      "judul": "Ini Kronologi Kecelakaan Beruntun di Tol Cipali yang Tewaskan Satu Orang",
+      "link_berita": "https://rejabar.republika.co.id/berita/sfsglb512/ini-kronologi-kecelakaan-beruntun-di-tol-cipali-yang-tewaskan-satu-orang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:43:50"
+    },
+    {
+      "judul": "Cegah Tawuran Remaja di Padang, Pembatasan Kegiatan Malam Dinilai Bisa Jadi Solusi",
+      "link_berita": "https://news.republika.co.id/berita/sfsghg425/cegah-tawuran-remaja-di-padang-pembatasan-kegiatan-malam-dinilai-bisa-jadi-solusi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:41:50"
+    },
+    {
+      "judul": "Seminar Literasi Digital Universitas BSI, Langkah Konkret Menuju Indonesia Emas 2045",
+      "link_berita": "https://news.republika.co.id/berita/sfsg4i423/seminar-literasi-digital-universitas-bsi-langkah-konkret-menuju-indonesia-emas-2045",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:33:50"
+    },
+    {
+      "judul": "Hipotesis BKKBN: Judi Online Picu Konflik Rumah Tangga Berujung Perceraian",
+      "link_berita": "https://news.republika.co.id/berita/sfsg2i409/hipotesis-bkkbn-judi-online-picu-konflik-rumah-tangga-berujung-perceraian",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
+    },
+    {
+      "judul": "Tujuh Kendaraan Terlibat Kecelakaan Beruntun di Tol Cipali, Satu Tewas",
+      "link_berita": "https://rejabar.republika.co.id/berita/sfsfzx512/tujuh-kendaraan-terlibat-kecelakaan-beruntun-di-tol-cipali-satu-tewas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
+    },
+    {
+      "judul": "BSI Siapkan Analis Program Andal Lewat Workshop Sertifikasi Kompetensi!",
+      "link_berita": "https://news.republika.co.id/berita/sfsfvs423/bsi-siapkan-analis-program-andal-lewat-workshop-sertifikasi-kompetensi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
+    },
+    {
+      "judul": "Pelajar Asal Indralaya, Sumsel Tenggelam di Pantai Barat Lampung",
+      "link_berita": "https://kingdomsriwijaya.id/posts/316223/pelajar-asal-indralaya-sumsel-tenggelam-di-pantai-barat-lampung",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
+    },
+    {
+      "judul": "Kisah Inspiratif Musirah, Semangat Tanpa Batas di Tengah Keterbatasan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfsffe423/kisah-inspiratif-musirah-semangat-tanpa-batas-di-tengah-keterbatasan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
+    },
+    {
+      "judul": "Kemenag Sebut Enam Kriteria Jamaah Sakit yang Bisa Dipulangkan Awal",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfsfec483/kemenag-sebut-enam-kriteria-jamaah-sakit-yang-bisa-dipulangkan-awal",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
+    },
+    {
       "judul": "Cyber University Turut Berperan dalam Transformasi Kewirausahaan di Era Society 5.0",
       "link_berita": "https://news.republika.co.id/berita/sfsf8i423/cyber-university-turut-berperan-dalam-transformasi-kewirausahaan-di-era-society-50",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 11:14:42"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
     },
     {
       "judul": "Empat Jamaah Haji Asal Indramayu Wafat di Tanah Suci, Terbanyak di Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sfseyj512/empat-jamaah-haji-asal-indramayu-wafat-di-tanah-suci-terbanyak-di-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 11:09:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
     },
     {
       "judul": "Dubes Sebut Kabupaten Bekasi sebagai 'Kota Jepang'",
       "link_berita": "https://news.republika.co.id/berita/sfsexd458/dubes-sebut-kabupaten-bekasi-sebagai-kota-jepang",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 11:08:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 11:32:50"
     },
     {
       "judul": "Melangkah dalam Kedamaian: Jadwal Sholat Hari Ini, 28 Juni 2024, untuk Kota Tangerang",
       "link_berita": "https://khazanah.republika.co.id/berita/sfs95f430/melangkah-dalam-kedamaian-jadwal-sholat-hari-ini-28-juni-2024-untuk-kota-tangerang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 11:00:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Pilu Warga Palestina, Hidup Tak Layak di Tenda Pengungsian",
       "link_berita": "https://visual.republika.co.id/berita/sfsd7q375/pilu-warga-palestina-hidup-tak-layak-di-tenda-pengungsian",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 11:00:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Biznet Operasikan Kabel Bawal Laut Biznet Nusantara Cable System-1 (BNCS-1)",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfsehu423/biznet-operasikan-kabel-bawal-laut-biznet-nusantara-cable-system1-bncs1",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:59:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Piyu dan Ahmad Dhani Keberatan tak Dilibatkan Perumusan Perizinan Event Online",
       "link_berita": "https://ameera.republika.co.id/berita/sfsee1425/piyu-dan-ahmad-dhani-keberatan-tak-dilibatkan-perumusan-perizinan-event-online",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:56:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Asdamindo Gelar Seminar & Pelatihan Pengelolaan Bisnis Depot Air Minum Berbasis Perlindungan Konsumen",
       "link_berita": "https://ruzka.republika.co.id/ekonomi/1674807218/asdamindo-gelar-seminar-pelatihan-pengelolaan-bisnis-depot-air-minum-berbasis-perlindungan-konsumen",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:51:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Melacak Jejak Syiar Islam di Maluku",
       "link_berita": "https://khazanah.republika.co.id/berita/sfsdwj458/melacak-jejak-syiar-islam-di-maluku",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:46:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Mahasiswa Prodi Bisnis Digital Cyber University Raih Pendanaan PKM-AI",
       "link_berita": "https://news.republika.co.id/berita/sfsdi5423/mahasiswa-prodi-bisnis-digital-cyber-university-raih-pendanaan-pkmai",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:37:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Trump Sebut Biden Orang Palestina yang Buruk",
       "link_berita": "https://khazanah.republika.co.id/berita/sfsdar483/trump-sebut-biden-orang-palestina-yang-buruk",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:33:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Mendag Usul HET MinyaKita Naik Jadi Rp 15.700 per Liter",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfsd8s416/mendag-usul-het-minyakita-naik-jadi-rp-15700-per-liter",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Liburan Sekolah Seru! Ajak Buah Hati Nikmati Atraksi Sirkus di Trans Studio Cibubur",
       "link_berita": "https://ameera.republika.co.id/berita/sfsd47425/liburan-sekolah-seru-ajak-buah-hati-nikmati-atraksi-sirkus-di-trans-studio-cibubur",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:29:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Rekrut Selebgram untuk Promosikan Judi Online, Kakak Beradik Ditangkap Polisi",
       "link_berita": "https://visual.republika.co.id/berita/sfsczu375/rekrut-selebgram-untuk-promosikan-judi-online-kakak-beradik-ditangkap-polisi",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:26:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "50 Jamaah Haji dari Embarkasi Solo Wafat",
       "link_berita": "https://khazanah.republika.co.id/berita/sfs9c8430/50-jamaah-haji-dari-embarkasi-solo-wafat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:21:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "MedcoEnergi Bagi Dividen Final Tahun Buku 2023, Cair Rp 745 Miliar",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfscb3423/medcoenergi-bagi-dividen-final-tahun-buku-2023-cair-rp-745-miliar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Meriahkan Ultah Ke-8 di Indonesia, CATCHPLAY Beri Penawaran Spesial dan Iming-Iming Logam Mulia",
       "link_berita": "https://cari.republika.co.id/posts/316217/meriahkan-ultah-ke-8-di-indonesia-catchplay-beri-penawaran-spesial-dan-iming-iming-logam-mulia",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Muhammadiyah Dukung Irman Gusman, Buya Anwar: Sosok yang Pas",
       "link_berita": "https://news.republika.co.id/berita/sfrrti318/muhammadiyah-dukung-irman-gusman-buya-anwar-sosok-yang-pas",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Jangan Sembarangan! Ini Waktu dan Tempat Bagi Pasutri untuk Berhubungan Menurut Alquran",
       "link_berita": "https://khazanah.republika.co.id/berita/sfsc0d483/jangan-sembarangan-ini-waktu-dan-tempat-bagi-pasutri-untuk-berhubungan-menurut-alquran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 10:32:50"
     },
     {
       "judul": "Perkuat Rantai Pasok, Prodia Beli 39 Persen Saham Proline",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfsbvw370/perkuat-rantai-pasok-prodia-beli-39-persen-saham-proline",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 09:32:50"
     },
     {
       "judul": "Sebelum Khadijah, Siapa Perempuan di Hati Rasulullah?",
       "link_berita": "https://khazanah.republika.co.id/berita/sfsbsj458/sebelum-khadijah-siapa-perempuan-di-hati-rasulullah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 09:32:50"
     },
     {
       "judul": "Ilmuwan Ungkap Penyebab Panas Ekstrem Selama Musim Haji",
       "link_berita": "https://esgnow.republika.co.id/berita/sfs83n416/ilmuwan-ungkap-penyebab-panas-ekstrem-selama-musim-haji",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 09:32:50"
     },
     {
       "judul": "Ekspresi Biden dan Trump dalam Debat Perdana",
       "link_berita": "https://visual.republika.co.id/berita/sfs9z0375/ekspresi-biden-dan-trump-dalam-debat-perdana",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 09:32:50"
     },
     {
       "judul": "Mengapa Anda Harus Menghabiskan Waktu Berkualitas dengan Diri Sendiri",
       "link_berita": "https://retizen.republika.co.id/posts/316216/mengapa-anda-harus-menghabiskan-waktu-berkualitas-dengan-diri-sendiri",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 09:32:50"
     },
     {
-      "judul": "Seminar Pariwisata Universitas BSI Yogyakarta Bakal Kupas Tuntas Sinergi DuDi dan Akademis",
-      "link_berita": "https://news.republika.co.id/berita/sfsbpx423/seminar-pariwisata-universitas-bsi-yogyakarta-bakal-kupas-tuntas-sinergi-dudi-dan-akademis",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Militer Hizbullah yang Diakui Komite Yahudi dan Potensi Perang Dahsyat Lawan Zionis Israel",
-      "link_berita": "https://news.republika.co.id/berita/sfsbkg320/militer-hizbullah-yang-diakui-komite-yahudi-dan-potensi-perang-dahsyat-lawan-zionis-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "BYD Seal Meluncur di Jepang, Ini Bedanya dengan Versi di Indonesia",
-      "link_berita": "https://motoresto.id/posts/316082/byd-seal-meluncur-di-jepang-ini-bedanya-dengan-versi-di-indonesia",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Melihat Kegigihan Lansia Ikuti Evakuasi Mandiri di Kaki Gunungapi Merapi",
-      "link_berita": "https://topnews62.com/posts/316212/melihat-kegigihan-lansia-ikuti-evakuasi-mandiri-di-kaki-gunungapi-merapi",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Fenomena Pergeseran Kata dalam Chat Whatsapp Anak Muda Indonesia",
-      "link_berita": "https://retizen.republika.co.id/posts/316206/fenomena-pergeseran-kata-dalam-chat-whatsapp-anak-muda-indonesia",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Pentingnya Menjaga Kualitas Ibadah: Jadwal Sholat Hari Ini di Depok",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfs8ow430/pentingnya-menjaga-kualitas-ibadah-jadwal-sholat-hari-ini-di-depok",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Berburu Berkah Rasulullah SAW",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfsb9m458/berburu-berkah-rasulullah-saw",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Menelaah Filsafat Politik",
-      "link_berita": "https://retizen.republika.co.id/posts/316171/menelaah-filsafat-politik",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Kemenkeu Laporkan APBN Defisit, Penerimaan Negara Merosot, Berbahayakah?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfsb4p423/kemenkeu-laporkan-apbn-defisit-penerimaan-negara-merosot-berbahayakah",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 10:15:05"
-    },
-    {
-      "judul": "Cara Mengobati Gejala Pneumonia pada Anak",
-      "link_berita": "https://retizen.republika.co.id/posts/316182/cara-mengobati-gejala-pneumonia-pada-anak",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Pengertian Ruang Sensori Integrasi Anak",
-      "link_berita": "https://retizen.republika.co.id/posts/316148/pengertian-ruang-sensori-integrasi-anak",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "PKB Sebut Hingga Kini Belum Ada Pembahasan Nama Risma Jadi Bakal Cagub Jatim",
-      "link_berita": "https://news.republika.co.id/berita/sfsaw0409/pkb-sebut-hingga-kini-belum-ada-pembahasan-nama-risma-jadi-bakal-cagub-jatim",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Surat Tuntutan SYL Setebal 1.576 Halaman",
-      "link_berita": "https://news.republika.co.id/berita/sfsao3377/surat-tuntutan-syl-setebal-1576-halaman",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Tumbuh Positif, Pendapatan Hotel Sahid Jaya Naik 47,51 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfsaln423/tumbuh-positif-pendapatan-hotel-sahid-jaya-naik-4751-persen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "UNSIA Gelar Wisuda Perdana dengan Teknologi Metaverse dan Virtual Reality",
-      "link_berita": "https://news.republika.co.id/berita/sfsake320/unsia-gelar-wisuda-perdana-dengan-teknologi-metaverse-dan-virtual-reality",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Nasdem Undang Prabowo ke Kongres, Tawarkan Kerja Pemerintah Hingga Konsolidasi Pilkada",
-      "link_berita": "https://news.republika.co.id/berita/sfsafl377/nasdem-undang-prabowo-ke-kongres-tawarkan-kerja-pemerintah-hingga-konsolidasi-pilkada",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Lakukan Kejahatan Siber, 103 Warga Taiwan Ditangkap di Bali",
-      "link_berita": "https://visual.republika.co.id/berita/sfs9if375/lakukan-kejahatan-siber-103-warga-taiwan-ditangkap-di-bali",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Fitur Asuransi Ini Membantu Anda Tunaikan Ibadah Haji",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfsa2d423/fitur-asuransi-ini-membantu-anda-tunaikan-ibadah-haji",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Sosiolog Ungkap Penyebab Meningkatnya Tren Tawuran Pelajar di Padang",
-      "link_berita": "https://news.republika.co.id/berita/sfs9vt487/sosiolog-ungkap-penyebab-meningkatnya-tren-tawuran-pelajar-di-padang",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Bea Cukai Tanjungpinang Musnahkan Barang Ilegal Bernilai Miliaran Rupiah",
-      "link_berita": "https://republika.co.id/berita/sfs9u3423/bea-cukai-tanjungpinang-musnahkan-barang-ilegal-bernilai-miliaran-rupiah",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Tandatangani PKS Penyertaan Modal, Selangkah Lagi Bank Jambi Jadi Anggota KUB Bank Bjb",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfs9ol423/tandatangani-pks-penyertaan-modal-selangkah-lagi-bank-jambi-jadi-anggota-kub-bank-bjb",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Bocoran Info dari PKS yang Sampai Harus Diklarifikasi Kaesang dan Istana",
-      "link_berita": "https://news.republika.co.id/berita/sfs9lc409/bocoran-info-dari-pks-yang-sampai-harus-diklarifikasi-kaesang-dan-istana",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "PDN Diserang Ransomware, BPJPH: Sihalal Kini Sudah Normal",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfs9ji458/pdn-diserang-ransomware-bpjph-sihalal-kini-sudah-normal",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Rektor UMJ Sambut Kunjungan Wakil Menteri Pendidikan Tinggi Malaysia",
-      "link_berita": "https://visual.republika.co.id/berita/sfs9bl375/rektor-umj-sambut-kunjungan-wakil-menteri-pendidikan-tinggi-malaysia",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "17 Orang Ditangkap karena Upaya Kudeta di Bolivia",
-      "link_berita": "https://news.republika.co.id/berita/sfs997456/17-orang-ditangkap-karena-upaya-kudeta-di-bolivia",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Kemendikbudristek Lepas 281 Mahasiswa Internasional Program Darmasiswa RI 2023/2024",
-      "link_berita": "https://news.republika.co.id/berita/sfs98m423/kemendikbudristek-lepas-281-mahasiswa-internasional-program-darmasiswa-ri-20232024",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 09:15:05"
-    },
-    {
-      "judul": "Piyu dan Ahmad Dhani Keberatan tak Dilibatkan Perumusan Perizinan Event Online",
-      "link_berita": "https://ameera.republika.co.id/berita/sfsee1425/piyu-dan-ahmad-dhani-keberatan-tak-dilibatkan-perumusan-perizinan-event-online",
+      "judul": "Mawar De Jongh dan Jaz Kolaborasi di Lagu Cinta Sedih 'Bukan Dengan Dia'",
+      "link_berita": "https://ameera.republika.co.id/berita/sfsirf425/mawar-de-jongh-dan-jaz-kolaborasi-di-lagu-cinta-sedih-bukan-dengan-dia",
       "kategori": "Happening",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 17:56:00"
+      "tanggal_terbit": "Friday, 28 Jun 2024, 19:30:00"
     },
     {
       "judul": "Ilmuwan Ungkap Penyebab Panas Ekstrem Selama Musim Haji",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Friday, 28 Jun 2024, 17:00:00"
     },
     {
-      "judul": "Biznet Operasikan Kabel Bawal Laut Biznet Nusantara Cable System-1 (BNCS-1)",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sfsehu423/biznet-operasikan-kabel-bawal-laut-biznet-nusantara-cable-system1-bncs1",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 17:58:00"
+      "judul": "Usai Le Mans, Sean Gelael Tancap Gas Bareng Pertamax Turbo di FIA WEC Sao Paulo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfshzz349/usai-le-mans-sean-gelael-tancap-gas-bareng-pertamax-turbo-di-fia-wec-sao-paulo",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 19:14:00"
     },
     {
       "judul": "Hasil RUPST Bank Muamalat, Ada Pergantian Dirut",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 27 Jun 2024, 19:38:00"
     },
     {
-      "judul": "Cyber University Turut Berperan dalam Transformasi Kewirausahaan di Era Society 5.0",
-      "link_berita": "https://news.republika.co.id/berita/sfsf8i423/cyber-university-turut-berperan-dalam-transformasi-kewirausahaan-di-era-society-50",
-      "kategori": "Pendidikan",
-      "tanggal_terbit": "Friday, 28 Jun 2024, 18:14:00"
+      "judul": "BREAKING NEWS: PSSI-Shin Tae-yong Sepakati Perpanjangan Kontrak Hingga 2027",
+      "link_berita": "https://news.republika.co.id/berita/sfsi5q409/breaking-news-pssishin-taeyong-sepakati-perpanjangan-kontrak-hingga-2027",
+      "kategori": "Sport",
+      "tanggal_terbit": "Friday, 28 Jun 2024, 19:17:00"
     }
   ],
-  "waktu_scraping": "Friday, 28 Jun 2024, 18:15:05"
+  "waktu_scraping": "Friday, 28 Jun 2024, 19:32:50"
 }
