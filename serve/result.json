@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Satgas Didesak Segera Tangkap Bandar Judi Online",
+      "link_berita": "https://news.republika.co.id/berita/sfw3h2416/satgas-didesak-segera-tangkap-bandar-judi-online"
+    },
+    {
       "judul": "Saksikan Perkelahian Eky, Saksi Kunci Kasus Vina Merasa Diintimidasi Minta Perlindungan",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw2t8512/saksikan-perkelahian-eky-saksi-kunci-kasus-vina-merasa-diintimidasi-minta-perlindungan"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Gunung Lewotobi Laki-Laki Erupsi, Bandara Maumere Ditutup",
       "link_berita": "https://news.republika.co.id/berita/sfvv4n484/gunung-lewotobi-lakilaki-erupsi-bandara-maumere-ditutup"
-    },
-    {
-      "judul": "Semifinal AFF U-16 Lawan Australia, Nova Arianto Waspadai Tiga Pemain Ini",
-      "link_berita": "https://news.republika.co.id/berita/sfvrws416/semifinal-aff-u16-lawan-australia-nova-arianto-waspadai-tiga-pemain-ini"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Menteri BUMN Cek Kesiapan Jaringan Gas Pertamina di IKN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sfw4bx423/menteri-bumn-cek-kesiapan-jaringan-gas-pertamina-di-ikn"
+    },
     {
       "judul": "Partai Nasdem akan Usung Ilham Habibie di Pilkada Jabar 2024, Ini Alasannya",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw27a512/partai-nasdem-akan-usung-ilham-habibie-di-pilkada-jabar-2024-ini-alasannya"
@@ -77,312 +81,308 @@
     {
       "judul": "Hukum Menggugurkan Kandungan Korban Pelecehan Seksual, Begini Penjelasannya",
       "link_berita": "https://khazanah.republika.co.id/berita/sfv48h451/hukum-menggugurkan-kandungan-korban-pelecehan-seksual-begini-penjelasannya"
-    },
-    {
-      "judul": "Pejuang Palestina Lancarkan 24 Serangan dalam Pertempuran di Shujaiya",
-      "link_berita": "https://www.republika.id/posts/53636/pejuang-palestina-lancarkan-24-serangan-dalam-pertempuran-di-shujaiya"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Aksi Panggung AC/DC Puaskan Ribuan Penggemarnya di Swiss",
+      "link_berita": "https://visual.republika.co.id/berita/sfw7zv375/aksi-panggung-acdc-puaskan-ribuan-penggemarnya-di-swiss",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Baliho Irjen Ahmad Luthfi-Taj Yasin Bertebaran di Berbagai Kota",
+      "link_berita": "https://news.republika.co.id/berita/sfw7t6484/baliho-irjen-ahmad-luthfitaj-yasin-bertebaran-di-berbagai-kota",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Sederet Manfaat Puasa Senin Kamis",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfw7c5430/sederet-manfaat-puasa-senin-kamis",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Deteksi Penyakit Tomat dengan AI, Dosen Universitas BSI Raih Hibah Penelitian 2024",
+      "link_berita": "https://news.republika.co.id/berita/sfw4sv423/deteksi-penyakit-tomat-dengan-ai-dosen-universitas-bsi-raih-hibah-penelitian-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Ratusan Peserta Ikuti Festival Open Water Swimming Indonesia 2024 di Jimbaran Bali",
+      "link_berita": "https://news.republika.co.id/berita/sfw73o348/ratusan-peserta-ikuti-festival-open-water-swimming-indonesia-2024-di-jimbaran-bali",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Pesantren Mandiri: Menuju Puncak Ekonomi Syariah Indonesia dengan Dana Abadi",
+      "link_berita": "https://khazanah.republika.co.id/berita/sfw6zs430/pesantren-mandiri-menuju-puncak-ekonomi-syariah-indonesia-dengan-dana-abadi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Reuni Akbar Widyagama 2024 Tegaskan Peran Penting Alumni",
+      "link_berita": "https://news.republika.co.id/berita/sfw70b320/reuni-akbar-widyagama-2024-tegaskan-peran-penting-alumni",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Wakil Wali Kota Depok Apresiasi Peran Para Guri dalam Mencerdaskan Kehidupan Bangsa",
+      "link_berita": "https://ruzka.republika.co.id/edukasi/1674812894/wakil-wali-kota-depok-apresiasi-peran-para-guri-dalam-mencerdaskan-kehidupan-bangsa",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Longsor Terjang Kabupaten Tasikmalaya, Sejumlah Desa Terisolir",
+      "link_berita": "https://visual.republika.co.id/berita/sfw68t375/longsor-terjang-kabupaten-tasikmalaya-sejumlah-desa-terisolir",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Pencegahan, KUA di Depok Ingatkan Bahaya Judi Online ke Calon Pengantin",
+      "link_berita": "https://ruzka.republika.co.id/nasional/1674812862/pencegahan-kua-di-depok-ingatkan-bahaya-judi-online-ke-calon-pengantin",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "5.000 Pelari Ikuti LPS Monas Half Marathon 2024",
+      "link_berita": "https://visual.republika.co.id/berita/sfw5m0375/5000-pelari-ikuti-lps-monas-half-marathon-2024",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Satgas Didesak Segera Tangkap Bandar Judi Online",
+      "link_berita": "https://news.republika.co.id/berita/sfw3h2416/satgas-didesak-segera-tangkap-bandar-judi-online",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Tinjau PLTS PLN, Menteri BUMN Pastikan Peringatan HUT RI di IKN Gunakan Listrik Hijau",
+      "link_berita": "https://ruzka.republika.co.id/nasional/1674812752/tinjau-plts-pln-menteri-bumn-pastikan-peringatan-hut-ri-di-ikn-gunakan-listrik-hijau",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
+      "judul": "Rekor! MSIB Batch VII Universitas BSI Ditutup dengan Antusiasme Tinggi",
+      "link_berita": "https://news.republika.co.id/berita/sfw4lf423/rekor-msib-batch-vii-universitas-bsi-ditutup-dengan-antusiasme-tinggi",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
+    },
+    {
       "judul": "Menteri BUMN Cek Kesiapan Jaringan Gas Pertamina di IKN",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfw4bx423/menteri-bumn-cek-kesiapan-jaringan-gas-pertamina-di-ikn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Namanya Jadi Calon Kuat di Pilgub Jabar, Ini Respons Dedi Mulyadi",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw3bi512/namanya-jadi-calon-kuat-di-pilgub-jabar-ini-respons-dedi-mulyadi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Wamen LHK Alue Dohong Susuri Kota Solo dalam Gowes Ramah Iklim 2024",
       "link_berita": "https://cari.republika.co.id/posts/316562/wamen-lhk-alue-dohong-susuri-kota-solo-dalam-gowes-ramah-iklim-2024",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Jelang Praperadilan, Kuasa Hukum Pegi Tantang Polda Jabar Tunjukkan Alat Bukti",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw35y512/jelang-praperadilan-kuasa-hukum-pegi-tantang-polda-jabar-tunjukkan-alat-bukti",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Saksikan Perkelahian Eky, Saksi Kunci Kasus Vina Merasa Diintimidasi Minta Perlindungan",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw2t8512/saksikan-perkelahian-eky-saksi-kunci-kasus-vina-merasa-diintimidasi-minta-perlindungan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Menggapai Ketenangan melalui Iman: Jadwal Sholat Hari Ini di Bogor",
       "link_berita": "https://khazanah.republika.co.id/berita/sfvgcm430/menggapai-ketenangan-melalui-iman-jadwal-sholat-hari-ini-di-bogor",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Partai Nasdem akan Usung Ilham Habibie di Pilkada Jabar 2024, Ini Alasannya",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw27a512/partai-nasdem-akan-usung-ilham-habibie-di-pilkada-jabar-2024-ini-alasannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Rentan Terdampak, Badan Amal Bantu Ketahanan Perubahan Iklim di Afrika",
       "link_berita": "https://tv.republika.co.id/berita/sfw1z2418/rentan-terdampak-badan-amal-bantu-ketahanan-perubahan-iklim-di-afrika",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Kebakaran Hutan di Kanada 2023 Mengeluarkan Lebih Banyak Karbon",
       "link_berita": "https://news.republika.co.id/berita/sfw1y1430/kebakaran-hutan-di-kanada-2023-mengeluarkan-lebih-banyak-karbon",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Polisi Beberkan Hasil Penyelidikan Anak SMP Tewas di Padang karena Loncat",
       "link_berita": "https://news.republika.co.id/berita/sfw1r2484/polisi-beberkan-hasil-penyelidikan-anak-smp-tewas-di-padang-karena-loncat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Kuasa Hukum Pegi Tantang Polda Jabar Tunjukkan Alat Bukti di Sidang Praperadilan",
       "link_berita": "https://news.republika.co.id/berita/sfw1e4416/kuasa-hukum-pegi-tantang-polda-jabar-tunjukkan-alat-bukti-di-sidang-praperadilan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Kuasa Hukum Pegi Tantang Rudiana Buka CCTV Kasus Vina",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw16b512/kuasa-hukum-pegi-tantang-rudiana-buka-cctv-kasus-vina",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Sekjen PBB: Dunia Gagal Capai Tujuan Pembangunan Berkelanjutan",
       "link_berita": "https://esgnow.republika.co.id/berita/sfvtxb416/sekjen-pbb-dunia-gagal-capai-tujuan-pembangunan-berkelanjutan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "BSI Dukung Sustainable Movement Mandiri Jogja Marathon 2024",
       "link_berita": "https://esgnow.republika.co.id/berita/sfvxky416/bsi-dukung-sustainable-movement-mandiri-jogja-marathon-2024",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Menteri ATR/BPN Tegaskan Serius Berantas Mafia Tanah, Percepat Sertifikasi di Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sfw0jf512/menteri-atrbpn-tegaskan-serius-berantas-mafia-tanah-percepat-sertifikasi-di-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Sandeza Intelligent dari Sprint Asia Hadirkan Solusi Terintegrasi untuk Pengembangan Bisnis",
       "link_berita": "https://cari.republika.co.id/posts/316545/sandeza-intelligent-dari-sprint-asia-hadirkan-solusi-terintegrasi-untuk-pengembangan-bisnis",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Prof Haedar Tegaskan Muhammadiyah Ingin Ikut Majukan Indonesia",
       "link_berita": "https://news.republika.co.id/berita/sfw0e3484/prof-haedar-tegaskan-muhammadiyah-ingin-ikut-majukan-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Erick Thohir Tinjau Pembangunan Training Center di IKN, Ini Progresnya",
       "link_berita": "https://news.republika.co.id/berita/sfw0bx416/erick-thohir-tinjau-pembangunan-training-center-di-ikn-ini-progresnya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Komunikasi Digital Diyakini Dapat Tingkatkan UMKM dan Ekonomi Kreatif",
       "link_berita": "https://news.republika.co.id/berita/sfw08c456/komunikasi-digital-diyakini-dapat-tingkatkan-umkm-dan-ekonomi-kreatif",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Ketum PSSI: Pembangunan Pusat Pelatihan di IKN Sesuai Rencana",
       "link_berita": "https://news.republika.co.id/berita/sfvzym484/ketum-pssi-pembangunan-pusat-pelatihan-di-ikn-sesuai-rencana",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Viral Tudingan Jual Beli Nilai Rapor Kelulusan SMPN, Ini Jawaban Disdik Depok",
       "link_berita": "https://ruzka.republika.co.id/sekolah/1674812449/viral-tudingan-jual-beli-nilai-rapor-kelulusan-smpn-ini-jawaban-disdik-depok",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Memupuk Kesabaran dalam Beribadah: Jadwal Sholat Hari Ini (30 Juni 2024) di Bekasi",
       "link_berita": "https://khazanah.republika.co.id/berita/sfvg5u430/memupuk-kesabaran-dalam-beribadah-jadwal-sholat-hari-ini-30-juni-2024-di-bekasi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Dosen UMM Jelaskan Judul Film Ipar Adalah Maut Terinspirasi dari Hadits Nabi",
       "link_berita": "https://news.republika.co.id/berita/sfvyyx484/dosen-umm-jelaskan-judul-film-ipar-adalah-maut-terinspirasi-dari-hadits-nabi",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Update Kepulangan Haji Embarkasi Solo, 52 Jamaah Wafat",
       "link_berita": "https://khazanah.republika.co.id/berita/sfvyjl430/update-kepulangan-haji-embarkasi-solo-52-jamaah-wafat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Urgensi di Balik Cuti Melahirkan Dua Bulan Bagi ASN Pria",
       "link_berita": "https://news.republika.co.id/berita/sfvygq484/urgensi-di-balik-cuti-melahirkan-dua-bulan-bagi-asn-pria",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Terkait CCTV, Kuasa Hukum Pegi akan Laporkan Rudiana",
       "link_berita": "https://rejabar.republika.co.id/berita/sfvye7512/terkait-cctv-kuasa-hukum-pegi-akan-laporkan-rudiana",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "PLN Pastikan Seluruh Pembangkit yang Melistriki IKN Gunakan Energi Bersih",
       "link_berita": "https://esgnow.republika.co.id/berita/sfvqsy416/pln-pastikan-seluruh-pembangkit-yang-melistriki-ikn-gunakan-energi-bersih",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Puti Malabin, Harimau Sumatra Dilepasliarkan di Rimbang Baling Sumbar",
       "link_berita": "https://esgnow.republika.co.id/berita/sfvr9s416/puti-malabin-harimau-sumatra-dilepasliarkan-di-rimbang-baling-sumbar",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Warganet Kesal Akun Instagram Menkominfo Digembok",
       "link_berita": "https://news.republika.co.id/berita/sfvy1l484/warganet-kesal-akun-instagram-menkominfo-digembok",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Jaga Asa Juara, Jerman Lolos Perempat Final Usai Gasak Denmark",
       "link_berita": "https://visual.republika.co.id/berita/sfvvbh375/jaga-asa-juara-jerman-lolos-perempat-final-usai-gasak-denmark",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Satu Bulan Jelang Olimpiade Paris, Sungai Seine Masih Tercemar",
       "link_berita": "https://esgnow.republika.co.id/berita/sfvi22416/satu-bulan-jelang-olimpiade-paris-sungai-seine-masih-tercemar",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Fokus Timnas Indonesia U-16 Hadapi Australia U-16 di Semifinal",
       "link_berita": "https://tv.republika.co.id/berita/sfvwpd418/fokus-timnas-indonesia-u16-hadapi-australia-u16-di-semifinal",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Menkominfo Didesak Mundur, Ini Respons Projo",
       "link_berita": "https://tv.republika.co.id/berita/sfvwii313/menkominfo-didesak-mundur-ini-respons-projo",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "KSAU Bertemu Haluk dan Selcuk Bayraktar Lihat Drone Akinci dan Kizilelma",
       "link_berita": "https://news.republika.co.id/berita/sfvwhr484/ksau-bertemu-haluk-dan-selcuk-bayraktar-lihat-drone-akinci-dan-kizilelma",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Anggota Linmas Lakukan Aksi Bersihkan Sungai Gelis Kudus",
       "link_berita": "https://visual.republika.co.id/berita/sfvu7m375/anggota-linmas-lakukan-aksi-bersihkan-sungai-gelis-kudus",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Generasi Muda Harus Lebih Waspada Kejahatan Digital",
       "link_berita": "https://ekonomi.republika.co.id/berita/sfvvwb502/generasi-muda-harus-lebih-waspada-kejahatan-digital",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Jumlah Jamaah Haji Indonesia yang Disafariwukufkan Alami Penurunan",
-      "link_berita": "https://tv.republika.co.id/berita/sfvvw2313/jumlah-jamaah-haji-indonesia-yang-disafariwukufkan-alami-penurunan",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Lahan Gambut di Kalbar Mulai Mengering, Karhutla Mengintai",
-      "link_berita": "https://esgnow.republika.co.id/berita/sfudqn416/lahan-gambut-di-kalbar-mulai-mengering-karhutla-mengintai",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Mau Keluarga Tetap Aman Terlindungi? Cek Dulu Produk Menarik Ini",
-      "link_berita": "https://impresi.republika.co.id/news/1694812187/mau-keluarga-tetap-aman-terlindungi-cek-dulu-produk-menarik-ini",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Gunung Lewotobi Laki-Laki Erupsi, Bandara Maumere Ditutup",
-      "link_berita": "https://news.republika.co.id/berita/sfvv4n484/gunung-lewotobi-lakilaki-erupsi-bandara-maumere-ditutup",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "432 Jamaah Haji Kabupaten Bogor Tiba di Tanah Air",
-      "link_berita": "https://visual.republika.co.id/berita/sfvu4i375/432-jamaah-haji-kabupaten-bogor-tiba-di-tanah-air",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Dijuluki Samudra llmu, Begini Proses Abdullah bin Abbas Mencari Ilmu",
-      "link_berita": "https://literat.republika.co.id/posts/316532/dijuluki-samudra-llmu-begini-proses-abdullah-bin-abbas-mencari-ilmu",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Antisipasi Gelombang Panas dan Krisis Pangan Dengan Pompanisasi",
-      "link_berita": "https://literat.republika.co.id/posts/316531/antisipasi-gelombang-panas-dan-krisis-pangan-dengan-pompanisasi",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Polisi Ringkus Dua Kakek Cabul di Kota Bogor",
-      "link_berita": "https://news.republika.co.id/berita/sfvud5484/polisi-ringkus-dua-kakek-cabul-di-kota-bogor",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "JITA Cup Series II J60, Ajang Petenis Indonesia Raih Poin Lebih Tinggi",
-      "link_berita": "https://tv.republika.co.id/berita/sfvu79313/jita-cup-series-ii-j60-ajang-petenis-indonesia-raih-poin-lebih-tinggi",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Fakta di Balik Meninggalnya Bayi Sukabumi Usai Imunisasi, Kemenkes Ungkap Kronologi",
-      "link_berita": "https://news.republika.co.id/berita/sfvu6f423/fakta-di-balik-meninggalnya-bayi-sukabumi-usai-imunisasi-kemenkes-ungkap-kronologi",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Di Gua Hira, Rasulullah Menggigil Dipeluk Jibril",
-      "link_berita": "https://khazanah.republika.co.id/berita/sfvqb4430/di-gua-hira-rasulullah-menggigil-dipeluk-jibril",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Catat, 17 Jadwal Kereta Jarak Jauh akan Berubah per 1 Juli 2024",
-      "link_berita": "https://news.republika.co.id/berita/sfvtu5484/catat-17-jadwal-kereta-jarak-jauh-akan-berubah-per-1-juli-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Indonesia dan Norwegia Perkuat Kerja Sama Atasi Tantangan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/sfud77416/indonesia-dan-norwegia-perkuat-kerja-sama-atasi-tantangan-iklim",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
-    },
-    {
-      "judul": "Petaka Italia di Olympiastadion",
-      "link_berita": "https://visual.republika.co.id/berita/sfvtmb375/petaka-italia-di-olympiastadion",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 11:12:56"
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 12:31:00"
     },
     {
       "judul": "Kenapa Kita Harus Kendalikan Paparan Sinar Matahari?",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 30 Jun 2024, 07:38:00"
     },
     {
-      "judul": "Kebakaran Hutan di Kanada 2023 Mengeluarkan Lebih Banyak Karbon",
-      "link_berita": "https://news.republika.co.id/berita/sfw1y1430/kebakaran-hutan-di-kanada-2023-mengeluarkan-lebih-banyak-karbon",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Sunday, 30 Jun 2024, 17:18:00"
+      "judul": "Baliho Irjen Ahmad Luthfi-Taj Yasin Bertebaran di Berbagai Kota",
+      "link_berita": "https://news.republika.co.id/berita/sfw7t6484/baliho-irjen-ahmad-luthfitaj-yasin-bertebaran-di-berbagai-kota",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Sunday, 30 Jun 2024, 19:24:00"
     }
   ],
-  "waktu_scraping": "Sunday, 30 Jun 2024, 18:12:56"
+  "waktu_scraping": "Sunday, 30 Jun 2024, 19:31:00"
 }
