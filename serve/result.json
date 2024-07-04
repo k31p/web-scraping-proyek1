@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Ketahuan Rekam Wanita di Toilet Diam-Diam, Siswa SMA Busan Lompat dari Lantai 4 Sekolah",
+      "link_berita": "https://ameera.republika.co.id/berita/sg3e2t425/ketahuan-rekam-wanita-di-toilet-diamdiam-siswa-sma-busan-lompat-dari-lantai-4-sekolah"
+    },
+    {
       "judul": "Influencer Arief Muhammad Bangun Rumah di Dalam Mal, Gelar Syukuran dengan Besek Umroh",
       "link_berita": "https://ameera.republika.co.id/berita/sg3c8t425/influencer-arief-muhammad-bangun-rumah-di-dalam-mal-gelar-syukuran-dengan-besek-umroh"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Dua Komandan Israel Tewas dalam Sehari di Gaza",
       "link_berita": "https://news.republika.co.id/berita/sg387k393/dua-komandan-israel-tewas-dalam-sehari-di-gaza"
-    },
-    {
-      "judul": "Sidang Praperadilan Pegi Setiawan Dipantau Ketat oleh Komisi Yudisial",
-      "link_berita": "https://news.republika.co.id/berita/sg36p7348/sidang-praperadilan-pegi-setiawan-dipantau-ketat-oleh-komisi-yudisial"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ketua PBNU: Sebaiknya tak Membeli Produk Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3dpl430/ketua-pbnu-sebaiknya-tak-membeli-produk-israel"
+    },
+    {
+      "judul": "Pemecatan Dekan FK Unair dan Penolakan Terhadap Puluhan Dokter Asal Arab Saudi di Medan",
+      "link_berita": "https://news.republika.co.id/berita/sg3bti409/pemecatan-dekan-fk-unair-dan-penolakan-terhadap-puluhan-dokter-asal-arab-saudi-di-medan"
+    },
     {
       "judul": "Komnas Perempuan: Kekerasan Seksual dalam Penyelenggaraan Pemilu adalah Puncak Gunung Es",
       "link_berita": "https://news.republika.co.id/berita/sg3biu487/komnas-perempuan-kekerasan-seksual-dalam-penyelenggaraan-pemilu-adalah-puncak-gunung-es"
@@ -73,334 +81,326 @@
     {
       "judul": "Impor Senjata Indonesia dari Singapura juga Melonjak Tajam",
       "link_berita": "https://news.republika.co.id/berita/sg2pvb393/impor-senjata-indonesia-dari-singapura-juga-melonjak-tajam"
-    },
-    {
-      "judul": "Ceramah Hasyim Asyari di Depan Presiden Soal Sembelih Sifat Kebinatangan Viral, Ini Isinya",
-      "link_berita": "https://news.republika.co.id/berita/sg2p93377/ceramah-hasyim-asyari-di-depan-presiden-soal-sembelih-sifat-kebinatangan-viral-ini-isinya"
-    },
-    {
-      "judul": "Ada Sekelompok Umat Muhammad yang akan Terus Berjuang Hingga Kiamat, Siapa Dia?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sg2lxy483/ada-sekelompok-umat-muhammad-yang-akan-terus-berjuang-hingga-kiamat-siapa-dia"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Amarah Melanda, Baca Doa ini: Simpel dan Mudah Dilafalkan",
+      "link_berita": "https://tv.republika.co.id/berita/sg3gkh313/amarah-melanda-baca-doa-ini-simpel-dan-mudah-dilafalkan",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:17:05"
+    },
+    {
+      "judul": "Ini Pelabuhan dan Bandara yang Jadi Pintu Masuk Barang Impor Israel ke Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3dnu451/ini-pelabuhan-dan-bandara-yang-jadi-pintu-masuk-barang-impor-israel-ke-indonesia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:17:04"
+    },
+    {
+      "judul": "Perempat Final Euro 2024 Mulai Besok, Simak Tinjauan Singkatnya",
+      "link_berita": "https://news.republika.co.id/berita/sg3ge5348/perempat-final-euro-2024-mulai-besok-simak-tinjauan-singkatnya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:13:04"
+    },
+    {
+      "judul": "Seminar Tauhid dari 2 Guru Besar Al Azhar Tandai Peresmian Aswaja Center PCINU Mesir",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3gbm320/seminar-tauhid-dari-2-guru-besar-al-azhar-tandai-peresmian-aswaja-center-pcinu-mesir",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:12:04"
+    },
+    {
+      "judul": "Teknologi 'Hidupkan' Legenda Reggae, Almarhum Vokalis Steven & Coconuttreez Manggung Lagi",
+      "link_berita": "https://ameera.republika.co.id/berita/sg3gar425/teknologi-hidupkan-legenda-reggae-almarhum-vokalis-steven-coconuttreez-manggung-lagi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:11:04"
+    },
+    {
+      "judul": "Sholat: Kunci Kedamaian dan Jadwal Sholat Hari Ini di Tangerang",
+      "link_berita": "https://iqra.republika.co.id/berita/sg3fze430/sholat-kunci-kedamaian-dan-jadwal-sholat-hari-ini-di-tangerang",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:04:04"
+    },
+    {
+      "judul": "Hadirkan Ahli yang Dituding Tidak Independen, Ini Respon Polda Jabar",
+      "link_berita": "https://rejabar.republika.co.id/berita/sg3fvc512/hadirkan-ahli-yang-dituding-tidak-independen-ini-respon-polda-jabar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:02:04"
+    },
+    {
+      "judul": "Perdebatan Seru Pengacara Pegi dengan Ahli dari Polda Jabar Soal Bukti dan Dua DPO Fiktif",
+      "link_berita": "https://news.republika.co.id/berita/sg3ftd487/perdebatan-seru-pengacara-pegi-dengan-ahli-dari-polda-jabar-soal-bukti-dan-dua-dpo-fiktif",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 10:01:04"
+    },
+    {
+      "judul": "Kisah Nyata Dua Sosok Muslim yang Pekerjakan Ratusan Jin, Begini Nasibnya",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3fkh320/kisah-nyata-dua-sosok-muslim-yang-pekerjakan-ratusan-jin-begini-nasibnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:55:04"
+    },
+    {
+      "judul": "Lewat SMK Mitra Industri, APSI Kembangkan Sekolah Vokasi pada Industri Cat",
+      "link_berita": "https://rejabar.republika.co.id/berita/sg3daq291/lewat-smk-mitra-industri-apsi-kembangkan-sekolah-vokasi-pada-industri-cat",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:54:04"
+    },
+    {
+      "judul": "Joe Aditya dan Azzahra Menyusul ke Paris, Ini Nama 29 Atlet Indonesia di Olimpiade 2024",
+      "link_berita": "https://news.republika.co.id/berita/sg3fch348/joe-aditya-dan-azzahra-menyusul-ke-paris-ini-nama-29-atlet-indonesia-di-olimpiade-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:51:04"
+    },
+    {
+      "judul": "Hati-Hati Kirim Softcopy Buku! Kini Ada Aturan Royaltinya",
+      "link_berita": "https://news.republika.co.id/berita/sg3dfw451/hatihati-kirim-softcopy-buku-kini-ada-aturan-royaltinya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:50:04"
+    },
+    {
+      "judul": "Kepala BRIN: Temuan Lukisan Gua Berumur 51 Ribu Tahun di Sulawesi Bukan 'Omon-omon'",
+      "link_berita": "https://news.republika.co.id/berita/sg3f7p475/kepala-brin-temuan-lukisan-gua-berumur-51-ribu-tahun-di-sulawesi-bukan-omonomon",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:48:04"
+    },
+    {
+      "judul": "Zaman Erick, Dividen BUMN Lebih Besar dari PMN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sg3f5b423/zaman-erick-dividen-bumn-lebih-besar-dari-pmn",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:46:04"
+    },
+    {
+      "judul": "Megahnya Percetakan Alquran Terbesar di Dunia",
+      "link_berita": "https://tv.republika.co.id/berita/sg3f42313/megahnya-percetakan-alquran-terbesar-di-dunia",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:46:04"
+    },
+    {
+      "judul": "Waketum PKB Usulkan Pasangan Bobby Nasution-Nagita Slavina: Ini Serius!",
+      "link_berita": "https://news.republika.co.id/berita/sg3f21484/waketum-pkb-usulkan-pasangan-bobby-nasutionnagita-slavina-ini-serius",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:44:04"
+    },
+    {
+      "judul": "Menjaga Kerukunan di Kampung Kapitan Palembang",
+      "link_berita": "https://kingdomsriwijaya.id/posts/317511/menjaga-kerukunan-di-kampung-kapitan-palembang",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:44:04"
+    },
+    {
+      "judul": "9 Rahasia French Style, Gaya untuk Semua Usia",
+      "link_berita": "https://gayakita.com/posts/317507/9-rahasia-french-style-gaya-untuk-semua-usia",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:43:04"
+    },
+    {
+      "judul": "Poco F6 Mulai Dijual di Indonesia, Harga Mulai dari Rp 4 Jutaan",
+      "link_berita": "https://ameera.republika.co.id/berita/sg3ezw425/poco-f6-mulai-dijual-di-indonesia-harga-mulai-dari-rp-4-jutaan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:43:04"
+    },
+    {
+      "judul": "Mana yang Lebih Prioritas, IKN atau Makan Bergizi Gratis? Ini Kata Peneliti",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sg3eye370/mana-yang-lebih-prioritas-ikn-atau-makan-bergizi-gratis-ini-kata-peneliti",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:42:04"
+    },
+    {
+      "judul": "Bea Cukai Cegah Penyelundupan Cenderawasih dan Berang-Berang Tujuan India Lewat Bandara",
+      "link_berita": "https://republika.co.id/berita/sg3eq3423/bea-cukai-cegah-penyelundupan-cenderawasih-dan-berang-berang-tujuan-india-lewat-bandara",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:37:04"
+    },
+    {
+      "judul": "Kanwil Bea Cukai Aceh Musnahkan 5,9 Juta Batang Rokok Ilegal",
+      "link_berita": "https://republika.co.id/berita/sg3epn370/kanwil-bea-cukai-aceh-musnahkan-59-juta-batang-rokok-ilegal",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:37:04"
+    },
+    {
+      "judul": "Cari Solusi Bersama, DPRD Jabar dan Gubernur Jabar Berdialog Bahas Ranperda P2APBD 2023",
+      "link_berita": "https://rejabar.republika.co.id/berita/sg3ehn423/cari-solusi-bersama-dprd-jabar-dan-gubernur-jabar-berdialog-bahas-ranperda-p2apbd-2023",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:32:04"
+    },
+    {
+      "judul": "Ingrid Kansil: Boikot Produk Israel dan Cintai Produk Dalam Negeri",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3da9451/ingrid-kansil-boikot-produk-israel-dan-cintai-produk-dalam-negeri",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:30:04"
+    },
+    {
+      "judul": "Bea Cukai Parepare Antar Ekspor Cangkang Sawit dan Cement Clinker ke Mancanegara",
+      "link_berita": "https://republika.co.id/berita/sg3eb8370/bea-cukai-parepare-antar-ekspor-cangkang-sawit-dan-cement-clinker-ke-mancanegara",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:28:04"
+    },
+    {
+      "judul": "Pilgub Jabar, Indikator: Ridwan Kamil dan Dedi Mulyadi Bersaing, Komeng Peringkat Tiga",
+      "link_berita": "https://news.republika.co.id/berita/sg3ea0377/pilgub-jabar-indikator-ridwan-kamil-dan-dedi-mulyadi-bersaing-komeng-peringkat-tiga",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:28:04"
+    },
+    {
+      "judul": "Pasukan Islam Hancurkan Perpustakaan Alexandria?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3e5w458/pasukan-islam-hancurkan-perpustakaan-alexandria",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:25:04"
+    },
+    {
+      "judul": "10 Kitab Ini Ditulis KH Hasyim Asyari",
+      "link_berita": "https://khazanah.republika.co.id/berita/sg3e3p430/10-kitab-ini-ditulis-kh-hasyim-asyari",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:24:04"
+    },
+    {
+      "judul": "Ketahuan Rekam Wanita di Toilet Diam-Diam, Siswa SMA Busan Lompat dari Lantai 4 Sekolah",
+      "link_berita": "https://ameera.republika.co.id/berita/sg3e2t425/ketahuan-rekam-wanita-di-toilet-diamdiam-siswa-sma-busan-lompat-dari-lantai-4-sekolah",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:23:04"
+    },
+    {
+      "judul": "Rayakan Anniversary ke-7, Merapi Park Jogja Gelar Lomba Aeromodelling dan Lomba Mewarnai",
+      "link_berita": "https://rejogja.republika.co.id/berita/sg3e2m291/rayakan-anniversary-ke7-merapi-park-jogja-gelar-lomba-aeromodelling-dan-lomba-mewarnai",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:23:04"
+    },
+    {
       "judul": "Ketua PBNU: Sebaiknya tak Membeli Produk Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/sg3dpl430/ketua-pbnu-sebaiknya-tak-membeli-produk-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:15:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Alasan Pimpinan KPK Enggan Cawe-Cawe di Perkara Harun Masiku",
       "link_berita": "https://news.republika.co.id/berita/sg3dhl487/alasan-pimpinan-kpk-enggan-cawecawe-di-perkara-harun-masiku",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:10:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Jadi Mualaf Setelah Tiga Pertanyaan Pemuka Yahudi ke Rasulullah Terjawab",
       "link_berita": "https://khazanah.republika.co.id/berita/sg3d43451/jadi-mualaf-setelah-tiga-pertanyaan-pemuka-yahudi-ke-rasulullah-terjawab",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:02:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Ini Jawaban Heru Saat Ditanya Kesediaannya Maju Pilgub Jakarta",
       "link_berita": "https://news.republika.co.id/berita/sg3d3t487/ini-jawaban-heru-saat-ditanya-kesediaannya-maju-pilgub-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:02:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Pasukan Paus Disebar di Situ Citiis, Masyarakat Bisa Dapat Ikan Gratis",
       "link_berita": "https://rejabar.republika.co.id/berita/sg3d1a512/pasukan-paus-disebar-di-situ-citiis-masyarakat-bisa-dapat-ikan-gratis",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:00:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Papua Barat Dapat Dana Hibah Perubahan Iklim Rp 20 Miliar",
       "link_berita": "https://esgnow.republika.co.id/berita/sg38ug416/papua-barat-dapat-dana-hibah-perubahan-iklim-rp-20-miliar",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:59:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Mossad Angkat Bicara Soal Tawaran Hamas",
       "link_berita": "https://news.republika.co.id/berita/sg3cwf377/mossad-angkat-bicara-soal-tawaran-hamas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:57:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Menggelorakan Semangat Keislaman: Jadwal Sholat Hari Ini di Bogor",
       "link_berita": "https://iqra.republika.co.id/berita/sg3crr430/menggelorakan-semangat-keislaman-jadwal-sholat-hari-ini-di-bogor",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:54:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Penjualan Tesla Turun 5 Persen, Saham Justru Meroket 10 Persen!",
       "link_berita": "https://motoresto.id/posts/317466/penjualan-tesla-turun-5-persen-saham-justru-meroket-10-persen-",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:53:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Lettu Andaru Dhimas Tuntaskan Kursus Peperangan Elektronika di AS",
       "link_berita": "https://seputarmiliter.id/posts/317445/lettu-andaru-dhimas-tuntaskan-kursus-peperangan-elektronika-di-as",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:52:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Agak Lain, Kopi Campur Mie Instan Emang Enak?",
       "link_berita": "https://motoresto.id/posts/317319/agak-lain-kopi-campur-mie-instan-emang-enak",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:52:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Tes Urine Bisa Mendeteksi Kanker Prostat",
       "link_berita": "https://impresiupdate.id/posts/317490/tes-urine-bisa-mendeteksi-kanker-prostat",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:51:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Pelajar Madrasah Asal Sukabumi Masuk 120 Besar Lomba Riset Nasional",
       "link_berita": "https://bandung24jam.id/posts/317492/pelajar-madrasah-asal-sukabumi-masuk-120-besar-lomba-riset-nasional",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:51:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "Menurut Hasil Penelitian: Berlian Adalah Sahabat Sel",
       "link_berita": "https://impresiupdate.id/posts/317494/menurut-hasil-penelitian-berlian-adalah-sahabat-sel",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:51:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:18:04"
     },
     {
       "judul": "PKB Resmi Dukung Bobby Nasution: Ada Cahaya Kemenangan",
       "link_berita": "https://news.republika.co.id/berita/sg3ca8484/pkb-resmi-dukung-bobby-nasution-ada-cahaya-kemenangan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:44:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:18:04"
     },
     {
       "judul": "Influencer Arief Muhammad Bangun Rumah di Dalam Mal, Gelar Syukuran dengan Besek Umroh",
       "link_berita": "https://ameera.republika.co.id/berita/sg3c8t425/influencer-arief-muhammad-bangun-rumah-di-dalam-mal-gelar-syukuran-dengan-besek-umroh",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:43:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:18:04"
     },
     {
       "judul": "Diteriaki Warga 'KJP Belum Cair, Pak', Ini Jawaban Resmi Pj Heru",
       "link_berita": "https://news.republika.co.id/berita/sg3bxa487/diteriaki-warga-kjp-belum-cair-pak-ini-jawaban-resmi-pj-heru",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:36:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:18:04"
     },
     {
       "judul": "Pemecatan Dekan FK Unair dan Penolakan Terhadap Puluhan Dokter Asal Arab Saudi di Medan",
       "link_berita": "https://news.republika.co.id/berita/sg3bti409/pemecatan-dekan-fk-unair-dan-penolakan-terhadap-puluhan-dokter-asal-arab-saudi-di-medan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:34:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:18:04"
     },
     {
       "judul": "Kuasa Hukum Pegi Setiawan Kecewa ke Ahli dari Tim Polda Jabar, Ini Penyebabnya",
       "link_berita": "https://rejabar.republika.co.id/berita/sg3bs1512/kuasa-hukum-pegi-setiawan-kecewa-ke-ahli-dari-tim-polda-jabar-ini-penyebabnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:33:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:18:04"
     },
     {
       "judul": "Pemkab Bogor Mulai Data dan akan Bongkar Vila Liar di Kawasan Puncak",
       "link_berita": "https://news.republika.co.id/berita/sg3bol484/pemkab-bogor-mulai-data-dan-akan-bongkar-vila-liar-di-kawasan-puncak",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:31:33"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:18:04"
     },
     {
-      "judul": "New Toll Road Segment in Papua to Ease Logistics Costs, Says Minister",
-      "link_berita": "https://en.republika.co.id/berita/sg3bn9366/new-toll-road-segment-in-papua-to-ease-logistics-costs-says-minister",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:20:33"
-    },
-    {
-      "judul": "Ministry of State-Owned Enterprises Affirms that ESG is the New DNA of SOEs",
-      "link_berita": "https://en.republika.co.id/berita/sg3bkf415/ministry-of-stateowned-enterprises-affirms-that-esg-is-the-new-dna-of-soes",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 09:20:33"
-    },
-    {
-      "judul": "Jabal Abu Qubais, Tempat Rasulullah Membelah Bulan Kini Berdiri Istana Raja",
-      "link_berita": "https://tv.republika.co.id/berita/sg3bjf313/jabal-abu-qubais-tempat-rasulullah-membelah-bulan-kini-berdiri-istana-raja",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:28:33"
-    },
-    {
-      "judul": "Bisakah Pakaian Renang Canggih dengan Teknologi NASA Membantu Perenang Olimpiade Meraih Medali Emas?",
-      "link_berita": "https://impresi.republika.co.id/news/1694827718/bisakah-pakaian-renang-canggih-dengan-teknologi-nasa-membantu-perenang-olimpiade-meraih-medali-emas",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:28:33"
-    },
-    {
-      "judul": "Komnas Perempuan: Kekerasan Seksual dalam Penyelenggaraan Pemilu adalah Puncak Gunung Es",
-      "link_berita": "https://news.republika.co.id/berita/sg3biu487/komnas-perempuan-kekerasan-seksual-dalam-penyelenggaraan-pemilu-adalah-puncak-gunung-es",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:28:33"
-    },
-    {
-      "judul": "KPAI Lebih Percaya Anak AM Meninggal Disiksa, Ini Alasannya",
-      "link_berita": "https://news.republika.co.id/berita/sg3bcq377/kpai-lebih-percaya-anak-am-meninggal-disiksa-ini-alasannya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:24:33"
-    },
-    {
-      "judul": "Bersama Buya Anwar, Irman Gusman akan Hadiri Rakor Muhammadiyah",
-      "link_berita": "https://news.republika.co.id/berita/sg3anv318/bersama-buya-anwar-irman-gusman-akan-hadiri-rakor-muhammadiyah",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:20:33"
-    },
-    {
-      "judul": "Indef: Utang Negara Jadi Isu Strategis yang Banyak Dibahas di Medsos",
-      "link_berita": "https://news.republika.co.id/berita/sg3amf484/indef-utang-negara-jadi-isu-strategis-yang-banyak-dibahas-di-medsos",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:20:33"
-    },
-    {
-      "judul": "Ahli Waris Gunakan Manfaat Program BPJS Ketenagakerjaan untuk Biaya Pendidikan Anak",
-      "link_berita": "https://republika.co.id/berita/sg3adr430/ahli-waris-gunakan-manfaat-program-bpjs-ketenagakerjaan-untuk-biaya-pendidikan-anak",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:20:33"
-    },
-    {
-      "judul": "Polda Ingatkan Pengacara Pegi Setiawan: Jangan Salahkan Ahli atau Penyidik",
-      "link_berita": "https://news.republika.co.id/berita/sg3ad4377/polda-ingatkan-pengacara-pegi-setiawan-jangan-salahkan-ahli-atau-penyidik",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:20:33"
-    },
-    {
-      "judul": "Apakah Ibadah Haji Sah Jika Jamaah tidak Kerjakan Sholat Arbain di Masjid Nabawi?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sg3a4r282/apakah-ibadah-haji-sah-jika-jamaah-tidak-kerjakan-sholat-arbain-di-masjid-nabawi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:20:33"
-    },
-    {
-      "judul": "Manajemen Manchester United Mulai Ngirit, di Ambang PHK 250 Karyawan",
-      "link_berita": "https://news.republika.co.id/berita/sg3a2j348/manajemen-manchester-united-mulai-ngirit-di-ambang-phk-250-karyawan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 08:20:33"
-    },
-    {
-      "judul": "Saksi Partai Demokrat Mengamuk Lantaran Data C Hasil Pemilu DPR Dapil Banten 2 Hilang",
-      "link_berita": "https://news.republika.co.id/berita/sg39sf409/saksi-partai-demokrat-mengamuk-lantaran-data-c-hasil-pemilu-dpr-dapil-banten-2-hilang",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Bukan Ronaldo, Mbappe, dan Harry Kane, Ini Top Skor Sementara Euro 2024",
-      "link_berita": "https://news.republika.co.id/berita/sg39cf348/bukan-ronaldo-mbappe-dan-harry-kane-ini-top-skor-sementara-euro-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Rombongan Ingin Sewa Kereta? Begini Cara Pesannya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sg38yx484/rombongan-ingin-sewa-kereta-begini-cara-pesannya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "China Sebut Kelaparan di Palestina tidak Boleh Dijadikan Senjata",
-      "link_berita": "https://khazanah.republika.co.id/berita/sg38xv451/china-sebut-kelaparan-di-palestina-tidak-boleh-dijadikan-senjata",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "KPK: Nilai Proyek Bansos Presiden yang Dikorupsi Hampir Rp 1 Triliun",
-      "link_berita": "https://news.republika.co.id/berita/sg38k8487/kpk-nilai-proyek-bansos-presiden-yang-dikorupsi-hampir-rp-1-triliun",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Peran PT ALBA dalam Turunkan Polusi Plastik",
-      "link_berita": "https://genpop.republika.co.id/posts/317477/peran-pt-alba-dalam-turunkan-polusi-plastik",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Dua Komandan Israel Tewas dalam Sehari di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sg387k393/dua-komandan-israel-tewas-dalam-sehari-di-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Sempat Terputus, Dindikbud Kota Cilegon Kembalikan 305 Anak ke Sekolah",
-      "link_berita": "https://magenta.republika.co.id/news/1704827378/sempat-terputus-dindikbud-kota-cilegon-kembalikan-305-anak-ke-sekolah",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Aktivis Pro-Palestina Panjat Parlemen Australia, Papua Dibawa-bawa",
-      "link_berita": "https://news.republika.co.id/berita/sg37mu393/aktivis-propalestina-panjat-parlemen-australia-papua-dibawabawa",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Liburan Sekolah, Destinasi di Yogyakarta Kebanjiran Wisatawan",
-      "link_berita": "https://rejogja.republika.co.id/berita/sg37ml291/liburan-sekolah-destinasi-di-yogyakarta-kebanjiran-wisatawan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Surat Al Waqiah Singgung Pencemaran Air Oleh Manusia",
-      "link_berita": "https://iqra.republika.co.id/berita/sg37i4430/surat-al-waqiah-singgung-pencemaran-air-oleh-manusia",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Akhirnya, Ada Pejabat yang Mundur Usai Geger Pusat Data Nasional Dijebol Hacker",
-      "link_berita": "https://news.republika.co.id/berita/sg37f9409/akhirnya-ada-pejabat-yang-mundur-usai-geger-pusat-data-nasional-dijebol-hacker",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Hasyim Asy'ari Dipecat dari KPU, Ini Sosok Penggantinya",
-      "link_berita": "https://news.republika.co.id/berita/sg37dg348/hasyim-asyari-dipecat-dari-kpu-ini-sosok-penggantinya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Penyanyi Rossa Abadikan Karier Musik dalam Film All Access to Rossa 25 Shining Years",
-      "link_berita": "https://ameera.republika.co.id/berita/sg37bz425/penyanyi-rossa-abadikan-karier-musik-dalam-film-all-access-to-rossa-25-shining-years",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Upacara HUT RI ke-79 di IKN Dinilai akan Berjalan Lancar",
-      "link_berita": "https://republika.co.id/berita/sg379d430/upacara-hut-ri-ke-79-di-ikn-dinilai-akan-berjalan-lancar",
-      "kategori": "Rekalimantan",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "'Perempuan Berkontribusi Besar Teguhkan Persatuan Nasional'",
-      "link_berita": "https://rejogja.republika.co.id/berita/sg37a8291/perempuan-berkontribusi-besar-teguhkan-persatuan-nasional",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Ditawari Jadi Pegawai BUMN, Mahasiswa Indonesia di AS Tanya Komitmen ESG",
-      "link_berita": "https://esgnow.republika.co.id/berita/sg378g416/ditawari-jadi-pegawai-bumn-mahasiswa-indonesia-di-as-tanya-komitmen-esg",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 07:20:33"
-    },
-    {
-      "judul": "Sidang Praperadilan Pegi Setiawan Dipantau Ketat oleh Komisi Yudisial",
-      "link_berita": "https://news.republika.co.id/berita/sg36p7348/sidang-praperadilan-pegi-setiawan-dipantau-ketat-oleh-komisi-yudisial",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 06:20:33"
-    },
-    {
-      "judul": "Influencer Arief Muhammad Bangun Rumah di Dalam Mal, Gelar Syukuran dengan Besek Umroh",
-      "link_berita": "https://ameera.republika.co.id/berita/sg3c8t425/influencer-arief-muhammad-bangun-rumah-di-dalam-mal-gelar-syukuran-dengan-besek-umroh",
+      "judul": "Teknologi 'Hidupkan' Legenda Reggae, Almarhum Vokalis Steven & Coconuttreez Manggung Lagi",
+      "link_berita": "https://ameera.republika.co.id/berita/sg3gar425/teknologi-hidupkan-legenda-reggae-almarhum-vokalis-steven-coconuttreez-manggung-lagi",
       "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 15:43:00"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 17:11:00"
     },
     {
-      "judul": "Ditawari Jadi Pegawai BUMN, Mahasiswa Indonesia di AS Tanya Komitmen ESG",
-      "link_berita": "https://esgnow.republika.co.id/berita/sg378g416/ditawari-jadi-pegawai-bumn-mahasiswa-indonesia-di-as-tanya-komitmen-esg",
-      "kategori": "Tata Kelola",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 13:55:00"
+      "judul": "Papua Barat Dapat Dana Hibah Perubahan Iklim Rp 20 Miliar",
+      "link_berita": "https://esgnow.republika.co.id/berita/sg38ug416/papua-barat-dapat-dana-hibah-perubahan-iklim-rp-20-miliar",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 16:00:00"
     },
     {
-      "judul": "Rombongan Ingin Sewa Kereta? Begini Cara Pesannya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sg38yx484/rombongan-ingin-sewa-kereta-begini-cara-pesannya",
+      "judul": "Zaman Erick, Dividen BUMN Lebih Besar dari PMN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sg3f5b423/zaman-erick-dividen-bumn-lebih-besar-dari-pmn",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 14:32:00"
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 16:46:00"
     },
     {
       "judul": "BSI dan ITB Luncurkan Deposito Wakaf untuk Masjid di Cirebon",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 04 Jul 2024, 12:53:00"
     },
     {
-      "judul": "Alasan Pimpinan KPK Enggan Cawe-Cawe di Perkara Harun Masiku",
-      "link_berita": "https://news.republika.co.id/berita/sg3dhl487/alasan-pimpinan-kpk-enggan-cawecawe-di-perkara-harun-masiku",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 04 Jul 2024, 16:10:00"
+      "judul": "Perempat Final Euro 2024 Mulai Besok, Simak Tinjauan Singkatnya",
+      "link_berita": "https://news.republika.co.id/berita/sg3ge5348/perempat-final-euro-2024-mulai-besok-simak-tinjauan-singkatnya",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 04 Jul 2024, 17:13:00"
     }
   ],
-  "waktu_scraping": "Thursday, 04 Jul 2024, 16:20:33"
+  "waktu_scraping": "Thursday, 04 Jul 2024, 17:18:04"
 }
