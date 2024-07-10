@@ -1,8 +1,16 @@
 {
   "berita_headline": [
     {
+      "judul": "Mengapa Saudi Berani Tantang Barat dan Bela Rusia?",
+      "link_berita": "https://news.republika.co.id/berita/sgemj2393/mengapa-saudi-berani-tantang-barat-dan-bela-rusia"
+    },
+    {
       "judul": "Singgung Isu Palestina, Grand Syekh Al-Azhar: Rakyat Palestina Dizalimi",
       "link_berita": "https://khazanah.republika.co.id/berita/sgej5i320/singgung-isu-palestina-grand-syekh-alazhar-rakyat-palestina-dizalimi"
+    },
+    {
+      "judul": "Tabrakan Beruntun Terjadi di KM 86 Tol Cipularang, Kendaraan ke Arah Jakarta Macet",
+      "link_berita": "https://rejabar.republika.co.id/berita/sgeius512/tabrakan-beruntun-terjadi-di-km-86-tol-cipularang-kendaraan-ke-arah-jakarta-macet"
     },
     {
       "judul": "Pegi Setiawan, Siap Bantu Beri Keterangan PK Saka Tatal",
@@ -11,14 +19,6 @@
     {
       "judul": "MAKI Desak Saksi-Saksi Kasus Firli Bahuri Dilindungi LPSK, Hidupnya Bisa Terancam",
       "link_berita": "https://news.republika.co.id/berita/sgedak409/maki-desak-saksisaksi-kasus-firli-bahuri-dilindungi-lpsk-hidupnya-bisa-terancam"
-    },
-    {
-      "judul": "MUI Akan Luruskan Pemahaman Mama Ghufron",
-      "link_berita": "https://khazanah.republika.co.id/berita/sge9cm458/mui-akan-luruskan-pemahaman-mama-ghufron"
-    },
-    {
-      "judul": "Viral Tersangka Firli Asyik Main Badminton Bareng Minions, Eks Penyidik: Preseden Buruk",
-      "link_berita": "https://news.republika.co.id/berita/sge5jg377/viral-tersangka-firli-asyik-main-badminton-bareng-minions-eks-penyidik-preseden-buruk"
     }
   ],
   "berita_unggulan": [
@@ -51,6 +51,10 @@
       "link_berita": "https://ekonomi.republika.co.id/berita/sge656490/ojk-ungkap-sebagian-besar-pelaku-pinjol-ilegal-gunakan-server-luar-negeri"
     },
     {
+      "judul": "Arab Saudi Ancam Eropa, Ini Sejarah Gertakan ke Barat",
+      "link_berita": "https://khazanah.republika.co.id/berita/sge5h1458/arab-saudi-ancam-eropa-ini-sejarah-gertakan-ke-barat"
+    },
+    {
       "judul": "Hakim Eman Sulaeman yang Bebaskan Pegi Setiawan Diancam akan Dilaporkan ke KY",
       "link_berita": "https://news.republika.co.id/berita/sge57n377/hakim-eman-sulaeman-yang-bebaskan-pegi-setiawan-diancam-akan-dilaporkan-ke-ky"
     },
@@ -77,312 +81,308 @@
     {
       "judul": "Grand Syekh Al Azhar: Jangan Kafirkan Orang yang Sholat Menghadap Kiblat",
       "link_berita": "https://khazanah.republika.co.id/berita/sgdx98483/grand-syekh-al-azhar-jangan-kafirkan-orang-yang-sholat-menghadap-kiblat"
-    },
-    {
-      "judul": "Gen Z Kuasai Transaksi Digital, Nilainya Tembus Rp 5.570 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgdwyk423/gen-z-kuasai-transaksi-digital-nilainya-tembus-rp-5570-triliun"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Sembilan Kendaraan Terlibat Kecelakaan Beruntun di KM 86 Tol Cipularang, Tiga Orang Luka",
+      "link_berita": "https://rejabar.republika.co.id/berita/sgen7o512/sembilan-kendaraan-terlibat-kecelakaan-beruntun-di-km-86-tol-cipularang-tiga-orang-luka",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:14:12"
+    },
+    {
+      "judul": "Menteri PUPR Pastikan Air, Listrik, dan Internet di IKN Siap 17 Agustus 2024",
+      "link_berita": "https://news.republika.co.id/berita/sgen7n484/menteri-pupr-pastikan-air-listrik-dan-internet-di-ikn-siap-17-agustus-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:14:11"
+    },
+    {
+      "judul": "Dua Saksi Ini Dilaporkan Kuasa Hukum 7 Terpidana Kasus Vina ke Bareskrim Usai Pegi Bebas",
+      "link_berita": "https://news.republika.co.id/berita/sgemx1409/dua-saksi-ini-dilaporkan-kuasa-hukum-7-terpidana-kasus-vina-ke-bareskrim-usai-pegi-bebas",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:08:06"
+    },
+    {
+      "judul": "70 Persen Jamaah Haji yang Meninggal di Tanah Suci karena Serangan Jantung",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgemuw282/70-persen-jamaah-haji-yang-meninggal-di-tanah-suci-karena-serangan-jantung",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:06:06"
+    },
+    {
+      "judul": "Erick: BUMN Dukung Penguatan Keamanan PDNS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgemsh490/erick-bumn-dukung-penguatan-keamanan-pdns",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:05:06"
+    },
+    {
+      "judul": "OJK Ingatkan Masyarakat untuk Bijak Jika Berutang Lewat Paylater",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgempa370/ojk-ingatkan-masyarakat-untuk-bijak-jika-berutang-lewat-paylater",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:03:06"
+    },
+    {
+      "judul": "Lapangan Upacara di IKN Disebut Bakal Rampung Dalam Waktu Dekat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgemlo490/lapangan-upacara-di-ikn-disebut-bakal-rampung-dalam-waktu-dekat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 11:01:06"
+    },
+    {
+      "judul": "Mengapa Saudi Berani Tantang Barat dan Bela Rusia?",
+      "link_berita": "https://news.republika.co.id/berita/sgemj2393/mengapa-saudi-berani-tantang-barat-dan-bela-rusia",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:59:06"
+    },
+    {
+      "judul": "PNM Dukung Percepatan Program Open Defecation Free Lewat Edukasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgemet490/pnm-dukung-percepatan-program-open-defecation-free-lewat-edukasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:57:06"
+    },
+    {
+      "judul": "Siapa Mega Masih jadi Misteri, Penjemput Vina di Malam Pembunuhan?",
+      "link_berita": "https://rejabar.republika.co.id/berita/sgemc2512/siapa-mega-masih-jadi-misteri-penjemput-vina-di-malam-pembunuhan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:55:06"
+    },
+    {
+      "judul": "Menperin Sebut Insentif PPnBM Dorong Penjualan Mobil Domestik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgemb6370/menperin-sebut-insentif-ppnbm-dorong-penjualan-mobil-domestik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:55:06"
+    },
+    {
+      "judul": "Erick Thohir Minta Tiktok Tingkatkan Investasi Digital di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgem5x484/erick-thohir-minta-tiktok-tingkatkan-investasi-digital-di-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:51:06"
+    },
+    {
+      "judul": "Pelaksanaan Haji Sudah Selesai, Jamaah tak Perlu Buru-Buru Saat ke Masjid Nabawi",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgelmb282/pelaksanaan-haji-sudah-selesai-jamaah-tak-perlu-buruburu-saat-ke-masjid-nabawi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:40:06"
+    },
+    {
+      "judul": "Buntut Kasus Ahmad Afif, OJK Susun Aturan Kerja Sama dengan Influencer",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgelh4502/buntut-kasus-ahmad-afif-ojk-susun-aturan-kerja-sama-dengan-influencer",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:37:06"
+    },
+    {
+      "judul": "BNI Investigasi Bocornya Data Diri Nasabah yang Dipakai HRD untuk Daftar Pinjol",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgelbw370/bni-investigasibocornya-data-diri-nasabah-yang-dipakai-hrd-untuk-daftar-pinjol",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:33:06"
+    },
+    {
+      "judul": "Kecelakaan Lion Air dan Ethiopian Airlines, Boeing Mengaku Bersalah",
+      "link_berita": "https://tv.republika.co.id/berita/sgej1d467/kecelakaan-lion-air-dan-ethiopian-airlines-boeing-mengaku-bersalah",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:30:06"
+    },
+    {
+      "judul": "Erick Thohir: Jangan Jadikan Indonesia Market Saja, Kita Sudah Ekonomi Besar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgekxz490/erick-thohir-jangan-jadikan-indonesia-market-saja-kita-sudah-ekonomi-besar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:25:06"
+    },
+    {
+      "judul": "Bank Muamalat Incar Volume Penjualan Bancassurance Naik Dua Kali Lipat",
+      "link_berita": "https://sharia.republika.co.id/berita/sgekq7502/bank-muamalat-incar-volume-penjualan-bancassurance-naik-dua-kali-lipat",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:20:06"
+    },
+    {
       "judul": "Gandeng ARSSI, Bank Mandiri Layani Transaksi Keuangan Perkuat Rumah Sakit",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgeknd490/gandeng-arssi-bank-mandiri-layani-transaksi-keuangan-perkuat-rumah-sakit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:18:50"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:19:06"
     },
     {
       "judul": "Indonesia Dorong Keamanan Selat Malaka dan Singapura di Sidang IMO Council ke-13",
       "link_berita": "https://shippingcargo.co.id/posts/318612/indonesia-dorong-keamanan-selat-malaka-dan-singapura-di-sidang-imo-council-ke-13",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:13:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
-      "judul": "Penciptaan Manusia dalam Perspektif Evolusi Darwin dan Alquran, Lebih Masuk Akal Mana?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgekbi483/penciptaan-manusia-dalam-perspektif-evolusi-darwin-dan-alquran-lebih-masuk-akal-mana",
+      "judul": "Beda Teori Evolusi Darwin dan Alquran Soal Penciptaan Manusia, Lebih Masuk Akal Mana?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgekbi483/beda-teori-evolusi-darwin-dan-alquran-soal-penciptaan-manusia-lebih-masuk-akal-mana",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:11:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Wartawan Republika Juara 1 Kasau Award 2024",
       "link_berita": "https://news.republika.co.id/berita/sgek7v370/wartawan-republika-juara-1-kasau-award-2024",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:09:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Selandia Baru Jalankan Strategi Baru Atasi Perubahan Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/sgecpw416/selandia-baru-jalankan-strategi-baru-atasi-perubahan-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:59:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Alami Kekeringan, Warga Aceh Besar Antre Dapatkan Air Bersih",
       "link_berita": "https://visual.republika.co.id/berita/sgeey0375/alami-kekeringan-warga-aceh-besar-antre-dapatkan-air-bersih",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:59:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Jaksa Berpantun di Sidang SYL, LIMA: Koruptor Kok Merasa jadi Pejuang",
       "link_berita": "https://news.republika.co.id/berita/sgejrg318/jaksa-berpantun-di-sidang-syl-lima-koruptor-kok-merasa-jadi-pejuang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:59:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Eks Pegawai Bobol Rekening Rp 1,3 Miliar, Bank Jago: Dana Nasabah Aman",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgejl2484/eks-pegawai-bobol-rekening-rp-13-miliar-bank-jago-dana-nasabah-aman",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:55:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Asabri Ajukan PMN Rp 3,61 Triliun Untuk APBN 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgej62370/asabri-ajukan-pmn-rp-361-triliun-untuk-apbn-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:46:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Singgung Isu Palestina, Grand Syekh Al-Azhar: Rakyat Palestina Dizalimi",
       "link_berita": "https://khazanah.republika.co.id/berita/sgej5i320/singgung-isu-palestina-grand-syekh-alazhar-rakyat-palestina-dizalimi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:46:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:15:06"
     },
     {
       "judul": "Komando Elite Israel Ditewaskan Penembak Runduk di Gaza",
       "link_berita": "https://news.republika.co.id/berita/sgej0p393/komando-elite-israel-ditewaskan-penembak-runduk-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:43:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Tabrakan Beruntun Terjadi di KM 86 Tol Cipularang, Kendaraan ke Arah Jakarta Macet",
       "link_berita": "https://rejabar.republika.co.id/berita/sgeius512/tabrakan-beruntun-terjadi-di-km-86-tol-cipularang-kendaraan-ke-arah-jakarta-macet",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:40:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Kick Off Operasi Gempur 2024: Serentak Berantas Rokok Ilegal",
       "link_berita": "https://republika.co.id/berita/sgeirt490/kick-off-operasi-gempur-2024-serentak-berantas-rokok-ilegal",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:38:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Pesan Gus Yahya untuk Grand Syekh Al-Azhar: Selamat Datang di Negeri Aswaja",
       "link_berita": "https://khazanah.republika.co.id/berita/sgeioj483/pesan-gus-yahya-untuk-grand-syekh-alazhar-selamat-datang-di-negeri-aswaja",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:36:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Gus Yahya Berterimakasih kepada Al Azhar Mesir Telah Didik Pelajar NU Ilmu Aswaja",
       "link_berita": "https://khazanah.republika.co.id/berita/sgeigs320/gus-yahya-berterimakasih-kepada-al-azhar-mesir-telah-didik-pelajar-nu-ilmu-aswaja",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:31:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Investasi Bodong Influencer Masih Marak, Pengamat: Masyarakat Mudah Diiming-imingi",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgeieg370/investasi-bodong-influencer-masih-marak-pengamat-masyarakat-mudah-diimingimingi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:30:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Cerita Kakak Vina Soal HP Adiknya, Hanya Ada Satu Chattingan: Kayak Ada yang Ngapus",
       "link_berita": "https://rejabar.republika.co.id/berita/sgeieg512/cerita-kakak-vina-soal-hp-adiknya-hanya-ada-satu-chattingan-kayak-ada-yang-ngapus",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:30:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "BYD Dilaporkan akan Bangun Pabrik EV di Turki, Nilainya Tembus Rp 16,2 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgei0m349/byd-dilaporkan-akan-bangun-pabrik-ev-di-turki-nilainya-tembus-rp-162-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:21:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Gerindra Minta Publik tak Anggap Remeh Marshel Widianto",
       "link_berita": "https://news.republika.co.id/berita/sgehzr409/gerindra-minta-publik-tak-anggap-remeh-marshel-widianto",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:21:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Sebuah Rumah di Cimahi jadi Perbincangan Karena Dihuni 46 Orang, Ini Kondisinya",
       "link_berita": "https://rejabar.republika.co.id/berita/sgehz2512/sebuah-rumah-di-cimahi-jadi-perbincangan-karena-dihuni-46-orang-ini-kondisinya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:21:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Grand Syekh Al Azhar Bertemu JK, Bahas Soal Gaza dan Afghanistan",
       "link_berita": "https://khazanah.republika.co.id/berita/sgehy2483/grand-syekh-al-azhar-bertemu-jk-bahas-soal-gaza-dan-afghanistan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:20:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Bikin Kumuh, Begini Penampakan Tumpukan Sampah di Kali Peng Banten",
       "link_berita": "https://visual.republika.co.id/berita/sgeevk375/bikin-kumuh-begini-penampakan-tumpukan-sampah-di-kali-peng-banten",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Panglima TNI Akui Kompleksnya Masalah di Papua",
       "link_berita": "https://news.republika.co.id/berita/sgehn8484/panglima-tni-akui-kompleksnya-masalah-di-papua",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Firli Bahuri tak Kunjung Ditahan, MAKI Ancam Gugat Polda Metro Jaya",
       "link_berita": "https://news.republika.co.id/berita/sgeh8d409/firli-bahuri-tak-kunjung-ditahan-maki-ancam-gugat-polda-metro-jaya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Kolombia Klaim Sukses Turunkan Deforestasi",
       "link_berita": "https://esgnow.republika.co.id/berita/sgeb9n416/kolombia-klaim-sukses-turunkan-deforestasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Grand Syekh Al Azhar Puji Pemerintah Indonesia yang Konsisten Dukung Palestina",
       "link_berita": "https://tv.republika.co.id/berita/sgegzs418/grand-syekh-al-azhar-puji-pemerintah-indonesia-yang-konsisten-dukung-palestina",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Di Hadapan Santri Baru, Ammy Lutfhi Kisahkan 8 Tahun Belajar di Ribat Rusaifah Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/sgegyh320/di-hadapan-santri-baru-ammy-lutfhi-kisahkan-8-tahun-belajar-di-ribat-rusaifah-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Midea-Manchester City Kolaborasi Tingkatkan Peran Komunitas Sepak Bola di Bandung",
       "link_berita": "https://news.republika.co.id/berita/sgegxi456/mideamanchester-city-kolaborasi-tingkatkan-peran-komunitas-sepak-bola-di-bandung",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Pegi Setiawan, Siap Bantu Beri Keterangan PK Saka Tatal",
       "link_berita": "https://rejabar.republika.co.id/berita/sgegs3512/pegi-setiawan-siap-bantu-beri-keterangan-pk-saka-tatal",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Viral Firli Bahuri Main Bulu Tangkis, Kuasa Hukum: Bukti tak Kabur ke Mana-Mana",
       "link_berita": "https://news.republika.co.id/berita/sgegp1409/viral-firli-bahuri-main-bulu-tangkis-kuasa-hukum-bukti-tak-kabur-ke-manamana",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Kejar Target Kinerja Double Digit, BNI Pastikan Keamanan Wondr by BNI",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgegiz370/kejar-target-kinerja-double-digit-bni-pastikan-keamanan-wondr-by-bni",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 09:15:06"
     },
     {
       "judul": "Menanti Penantang Khofifah-Emil di Pilgub Jatim 2024, PDIP: Tunggu Akhir Juli",
       "link_berita": "https://sekitarsurabaya.com/posts/318589/menanti-penantang-khofifah-emil-di-pilgub-jatim-2024-pdip-tunggu-akhir-juli",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "160 Peserta Ikuti Konferensi Internasional Literasi Keagamaan Lintas Budaya",
-      "link_berita": "https://visual.republika.co.id/berita/sgeesr375/160-peserta-ikuti-konferensi-internasional-literasi-keagamaan-lintas-budaya",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Itjen Kemenag Evaluasi Pemetaan dan Redistribusi Guru dan Pengawas Madrasah",
-      "link_berita": "https://sajada.id/posts/318580/itjen-kemenag-evaluasi-pemetaan-dan-redistribusi-guru-dan-pengawas-madrasah",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Francesco Bagnaia Kuasai Gp Jerman: Kemenangan Spektakuler Bersama Ducati",
-      "link_berita": "https://motoresto.id/posts/318574/francesco-bagnaia-kuasai-gp-jerman-kemenangan-spektakuler-bersama-ducati",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Hayo, Apa Warna Mata yang Paling Umum di Seluruh Dunia?",
-      "link_berita": "https://impresiupdate.id/posts/318537/hayo-apa-warna-mata-yang-paling-umum-di-seluruh-dunia-",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Resmi Dirilis, Brad Pitt Bakal Perankan Karakter Utama Film 'F1'",
-      "link_berita": "https://motoresto.id/posts/318350/resmi-dirilis-brad-pitt-bakal-perankan-karakter-utama-film-f1",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Terindikasi Skandal Beras Impor, Menperin Pertanyakan Isi 26 Ribu Kontainer yang Sempat Tertahan di",
-      "link_berita": "https://genpop.republika.co.id/posts/318584/terindikasi-skandal-beras-impor-menperin-pertanyakan-isi-26-ribu-kontainer-yang-sempat-tertahan-di",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Gusti Bhre Tanggapi Wacana Diusung Koalisi Besar di Pilwakot Solo",
-      "link_berita": "https://news.republika.co.id/berita/sgefhj484/gusti-bhre-tanggapi-wacana-diusung-koalisi-besar-di-pilwakot-solo",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Pebasket Terbaik dan Juara NBA 2023/2024 Jaylen Brown ke Mekah untuk Umroh",
-      "link_berita": "https://news.republika.co.id/berita/sgefg6348/pebasket-terbaik-dan-juara-nba-20232024-jaylen-brown-ke-mekah-untuk-umroh",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Malam Pertama Tidur di Rumah Pascabebas, Pegi Setiawan: Bisa Tidur Enak, Mimpi Indah",
-      "link_berita": "https://rejabar.republika.co.id/berita/sgefc1512/malam-pertama-tidur-di-rumah-pascabebas-pegi-setiawan-bisa-tidur-enak-mimpi-indah",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Din Syamsuddin Dorong Penguatan Diplomasi Lintas Agama dan Budaya",
-      "link_berita": "https://news.republika.co.id/berita/sgef7c490/din-syamsuddin-dorong-penguatan-diplomasi-lintas-agama-dan-budaya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "The Conjuring 4 Jadi Film Terakhir Waralaba, Dijadwalkan Tayang 5 September 2025",
-      "link_berita": "https://ameera.republika.co.id/berita/sgef24425/the-conjuring-4-jadi-film-terakhir-waralaba-dijadwalkan-tayang-5-september-2025",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Diikuti Sekitar 1.000 Merek Dagang, Food Hospitality Indonesia 2024 Hadir pada 23-26 Juli 2024",
-      "link_berita": "https://cari.republika.co.id/posts/318592/diikuti-sekitar-1-000-merek-dagang-food-hospitality-indonesia-2024-hadir-pada-23-26-juli-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Hujan Deras Landa Ciayumajakuning di Musim Kemarau, Ini Kata BMKG",
-      "link_berita": "https://rejabar.republika.co.id/berita/sgeez4512/hujan-deras-landa-ciayumajakuning-di-musim-kemarau-ini-kata-bmkg",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Suasana Haru Iringi Doa Bersama dan Tabur Bunga di Makam Afif Maulana",
-      "link_berita": "https://visual.republika.co.id/berita/sgeeod375/suasana-haru-iringi-doa-bersama-dan-tabur-bunga-di-makam-afif-maulana",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Cara Bijak Memilih Mobil Baru di GIIAS 2024 dengan Panduan Suzuki",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgeekb349/cara-bijak-memilih-mobil-baru-di-giias-2024-dengan-panduan-suzuki",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Kunjungan Grand Syekh al-Azhar Jadi Trending Topic",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgeeiz458/kunjungan-grand-syekh-alazhar-jadi-trending-topic",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Erick Thohir Luncurkan Tempat Ngonten Asik di Kota Tua",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgeeer423/erick-thohir-luncurkan-tempat-ngonten-asik-di-kota-tua",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
-    },
-    {
-      "judul": "Usai Dilanda Kebakaran Hutan, Desa di New Mexico Dihantam Banjir",
-      "link_berita": "https://esgnow.republika.co.id/berita/sgeakg416/usai-dilanda-kebakaran-hutan-desa-di-new-mexico-dihantam-banjir",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:19:32"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 08:15:06"
     },
     {
       "judul": "The Conjuring 4 Jadi Film Terakhir Waralaba, Dijadwalkan Tayang 5 September 2025",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Wednesday, 10 Jul 2024, 10:19:00"
     },
     {
-      "judul": "Gandeng ARSSI, Bank Mandiri Layani Transaksi Keuangan Perkuat Rumah Sakit",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgeknd490/gandeng-arssi-bank-mandiri-layani-transaksi-keuangan-perkuat-rumah-sakit",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 17:18:00"
+      "judul": "Erick: BUMN Dukung Penguatan Keamanan PDNS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgemsh490/erick-bumn-dukung-penguatan-keamanan-pdns",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 18:05:00"
     },
     {
-      "judul": "Pefindo Ungkap Prospek Sukuk pada Tahun Ini",
-      "link_berita": "https://sharia.republika.co.id/berita/sgcrud490/pefindo-ungkap-prospek-sukuk-pada-tahun-ini",
+      "judul": "Bank Muamalat Incar Volume Penjualan Bancassurance Naik Dua Kali Lipat",
+      "link_berita": "https://sharia.republika.co.id/berita/sgekq7502/bank-muamalat-incar-volume-penjualan-bancassurance-naik-dua-kali-lipat",
       "kategori": "Keuangan Sharia",
-      "tanggal_terbit": "Tuesday, 09 Jul 2024, 17:59:00"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 17:20:00"
     },
     {
-      "judul": "Wartawan Republika Juara 1 Kasau Award 2024",
-      "link_berita": "https://news.republika.co.id/berita/sgek7v370/wartawan-republika-juara-1-kasau-award-2024",
+      "judul": "Menteri PUPR Pastikan Air, Listrik, dan Internet di IKN Siap 17 Agustus 2024",
+      "link_berita": "https://news.republika.co.id/berita/sgen7n484/menteri-pupr-pastikan-air-listrik-dan-internet-di-ikn-siap-17-agustus-2024",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 10 Jul 2024, 17:09:00"
+      "tanggal_terbit": "Wednesday, 10 Jul 2024, 18:14:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 10 Jul 2024, 17:19:32"
+  "waktu_scraping": "Wednesday, 10 Jul 2024, 18:15:06"
 }
