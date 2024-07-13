@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Dengan Suara Bergetar, Dokter Asal Gaza Berterimakasih Dapat Beasiswa PPDS di Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgk0mw483/dengan-suara-bergetar-dokter-asal-gaza-berterimakasih-dapat-beasiswa-ppds-di-indonesia"
+    },
+    {
       "judul": "Polda Sumut Ungkap Upah Eksekutor Pembakar Rumah Wartawan di Karo",
       "link_berita": "https://news.republika.co.id/berita/sgjxj0370/polda-sumut-ungkap-upah-eksekutor-pembakar-rumah-wartawan-di-karo"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Jelang Piala AFF U-19, Indra Sjafri Minta Doa dan Dukungan Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/sgjodh416/jelang-piala-aff-u19-indra-sjafri-minta-doa-dan-dukungan-masyarakat"
-    },
-    {
-      "judul": "Ini Penyataan Jusuf Kalla Usai Bertemu Pemimpin Hamas Ismail Haniyeh di Doha",
-      "link_berita": "https://news.republika.co.id/berita/sgjn49409/ini-penyataan-jusuf-kalla-usai-bertemu-pemimpin-hamas-ismail-haniyeh-di-doha"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kecerdasan Buatan, Kemajuan Teknologi yang Ternyata Membahayakan Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sgk020416/kecerdasan-buatan-kemajuan-teknologi-yang-ternyata-membahayakan-lingkungan"
+    },
+    {
+      "judul": "Waketum PSI Pastikan Duet Jusuf Hamka-Kaesang Belum Final",
+      "link_berita": "https://news.republika.co.id/berita/sgjz1i484/waketum-psi-pastikan-duet-jusuf-hamkakaesang-belum-final"
+    },
     {
       "judul": "Tahanan Palestina Bebas Setelah 9 Bulan, Dulu Berotot Kini Tubuh Tinggal Tulang dan Kulit",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjwji366/tahanan-palestina-bebas-setelah-9-bulan-dulu-berotot-kini-tubuh-tinggal-tulang-dan-kulit"
@@ -73,334 +81,326 @@
     {
       "judul": "Rincian PMN BUMN 2025 yang Kini Dibiayai Dividen",
       "link_berita": "https://visual.republika.co.id/berita/sgjazh502/rincian-pmn-bumn-2025-yang-kini-dibiayai-dividen"
-    },
-    {
-      "judul": "Prediksi Israel Bubar 2026, Perang Armageddon, dan Isyarat Dekatnya Kiamat?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgjac0320/prediksi-israel-bubar-2026-perang-armageddon-dan-isyarat-dekatnya-kiamat"
-    },
-    {
-      "judul": "Siapa yang Diikuti Setelah Ustadz Yazid Jawas?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgj8my430/siapa-yang-diikuti-setelah-ustadz-yazid-jawas"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Unilever Bakal PHK 3.200 Karyawan Hingga Akhir 2025, Ada Apa?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgk1mf490/unilever-bakal-phk-3200-karyawan-hingga-akhir-2025-ada-apa",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "DKR: Para Orang Tua Siswa Miskin Yang ditolak Bersekolah Menunggu Janji Istana",
+      "link_berita": "https://ruzka.republika.co.id/sekolah/1674859323/dkr-para-orang-tua-siswa-miskin-yang-ditolak-bersekolah-menunggu-janji-istana",
+      "kategori": "Network",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Orang Tua Perlu Dukungan Psikologis untuk Dampingi Anak dengan Kanker",
+      "link_berita": "https://ameera.republika.co.id/berita/sgk19h370/orang-tua-perlu-dukungan-psikologis-untuk-dampingi-anak-dengan-kanker",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "500 Pesepeda Ikuti Balap Sepeda Zebra Bhayangkara Presisi Sudirman Loop",
+      "link_berita": "https://visual.republika.co.id/berita/sgjyis375/500-pesepeda-ikuti-balap-sepeda-zebra-bhayangkara-presisi-sudirman-loop",
+      "kategori": "Visual",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Kecerdasan Buatan, Kemajuan Teknologi yang Ternyata Membahayakan Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sgk020416/kecerdasan-buatan-kemajuan-teknologi-yang-ternyata-membahayakan-lingkungan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Polisi Ciduk 31 Orang Kala Razia Narkoba di Kampung Muara Bahari",
+      "link_berita": "https://news.republika.co.id/berita/sgk149484/polisi-ciduk-31-orang-kala-razia-narkoba-di-kampung-muara-bahari",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Alasan Protein Hewani Penting Bagi Anak dengan Kanker",
+      "link_berita": "https://ameera.republika.co.id/berita/sgk13c328/alasan-protein-hewani-penting-bagi-anak-dengan-kanker",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Sedang Sholat, Mendadak Ragu Kentut atau Tidak, Begini Penjelasannya",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgjhog451/sedang-sholat-mendadak-ragu-kentut-atau-tidak-begini-penjelasannya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Negara Tropis Pertahanan Terakhir Bumi",
+      "link_berita": "https://esgnow.republika.co.id/berita/sgjwx8416/negara-tropis-pertahanan-terakhir-bumi",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Nelayan Tapanuli Tengah Kini Gunakan Listrik dari SPLU PLN di Tempat Pelelangan Ikan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgk0s8370/nelayan-tapanuli-tengah-kini-gunakan-listrik-dari-splu-pln-di-tempat-pelelangan-ikan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Dengan Suara Bergetar, Dokter Asal Gaza Berterimakasih Dapat Beasiswa PPDS di Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgk0mw483/dengan-suara-bergetar-dokter-asal-gaza-berterimakasih-dapat-beasiswa-ppds-di-indonesia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Satlantas Polrestro Depok Tangani Tumpahan Solar di Jalan Juanda",
+      "link_berita": "https://ruzka.republika.co.id/news/1674859275/satlantas-polrestro-depok-tangani-tumpahan-solar-di-jalan-juanda",
+      "kategori": "Network",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "China dan Rusia Gelar Latihan Militer Bersama Dekat Perbatasan Jepang",
+      "link_berita": "https://news.republika.co.id/berita/sgk0hn484/china-dan-rusia-gelar-latihan-militer-bersama-dekat-perbatasan-jepang",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Cara Menghilangkan Bekas Stiker di Kaca",
+      "link_berita": "https://retizen.republika.co.id/posts/319081/cara-menghilangkan-bekas-stiker-di-kaca",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Sambut Era Digital, Universitas BSI Kampus Margonda Gelar Workshop Digital Creative",
+      "link_berita": "https://news.republika.co.id/berita/sgk08d490/sambut-era-digital-universitas-bsi-kampus-margonda-gelar-workshop-digital-creative",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "WHO: 1 Juta Anak Kongo Terancam Kekurangan Gizi Akut",
+      "link_berita": "https://news.republika.co.id/berita/sgk05f370/who-1-juta-anak-kongo-terancam-kekurangan-gizi-akut",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Penyaluran KUR BRI hingga Mei 2024 Capai Rp 76,4 triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgjzyp490/penyaluran-kur-bri-hingga-mei-2024-capai-rp-764-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Penelitian Mahasiswa Unesa : Makanan Khas Kalimantan, Cincalok Jadi Antibiotik Alami Melawan TB",
+      "link_berita": "https://kampus.republika.co.id/info-kampus/1624859248/penelitian-mahasiswa-unesa-makanan-khas-kalimantan-cincalok-jadi-antibiotik-alami-melawan-tb",
+      "kategori": "Network",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Jatim Gelar Pemutihan Pajak Kendaraan Bermotor Selama 1,5 Bulan",
+      "link_berita": "https://news.republika.co.id/berita/sgjzpw484/jatim-gelar-pemutihan-pajak-kendaraan-bermotor-selama-15-bulan",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "Akses Desanya Terisolasi, Warga Konawe Andalkan Jasa Perahu Eretan",
+      "link_berita": "https://visual.republika.co.id/berita/sgjyfz375/akses-desanya-terisolasi-warga-konawe-andalkan-jasa-perahu-eretan",
+      "kategori": "Visual",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "OJK Dorong Akses Keuangan di Tanah Papua",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgjvch416/ojk-dorong-akses-keuangan-di-tanah-papua",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
+      "judul": "SD Silaturahim Gelar Open Day untuk Menyambut Orangtua Siswa Baru Tahun Pelajaran 2024/2025",
+      "link_berita": "https://ruzka.republika.co.id/sekolah/1674859215/sd-silaturahim-gelar-open-day-untuk-menyambut-orangtua-siswa-baru-tahun-pelajaran-20242025",
+      "kategori": "Network",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
+    },
+    {
       "judul": "Waketum PSI Pastikan Duet Jusuf Hamka-Kaesang Belum Final",
       "link_berita": "https://news.republika.co.id/berita/sgjz1i484/waketum-psi-pastikan-duet-jusuf-hamkakaesang-belum-final",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Raih Omzet Bulanan Ratusan Juta, Eks Petugas Kebersihan Ungkap Tips Sukses Bisnis Online",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgjyxi416/raih-omzet-bulanan-ratusan-juta-eks-petugas-kebersihan-ungkap-tips-sukses-bisnis-online",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Menang 3-0 Atas Jakarta BIN, Jakarta Electric PLN Kunci Tiket Grand Final Proliga 2024",
       "link_berita": "https://news.republika.co.id/berita/sgjylq370/menang-30-atas-jakarta-bin-jakarta-electric-pln-kunci-tiket-grand-final-proliga-2024",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Suasana Shubuh di Zaman Rasulullah dan Ketika Mendekati Kiamat, ini Bedanya",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjhch451/suasana-shubuh-di-zaman-rasulullah-dan-ketika-mendekati-kiamat-ini-bedanya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Ajakan Boikot Produk Terafiliasi Israel Menggema di Aksi Bela Palestina",
       "link_berita": "https://visual.republika.co.id/berita/sgjyd9375/ajakan-boikot-produk-terafiliasi-israel-menggema-di-aksi-bela-palestina",
       "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Elf Tabrak Truk di Tol Boyolali, Enam Penumpang Tewas dan 14 Terluka",
       "link_berita": "https://news.republika.co.id/berita/sgjy99484/elf-tabrak-truk-di-tol-boyolali-enam-penumpang-tewas-dan-14-terluka",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Unie Eropa akan Dorong Pemangkasan Emisi di COP29",
       "link_berita": "https://esgnow.republika.co.id/berita/sgjumx416/unie-eropa-akan-dorong-pemangkasan-emisi-di-cop29",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Tok, Perda P2APBD Jabar TA 2023 Disetujui Bersama DPRD Jawa Barat dan Pemdaprov Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sgjxof490/tok-perda-p2apbd-jabar-ta-2023-disetujui-bersama-dprd-jawa-barat-dan-pemdaprov-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Pemerintah Diminta Tegas Pantau Makanan Impor Ilegal dari Cina",
       "link_berita": "https://news.republika.co.id/berita/sgjxn4328/pemerintah-diminta-tegas-pantau-makanan-impor-ilegal-dari-cina",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Polda Sumut Ungkap Upah Eksekutor Pembakar Rumah Wartawan di Karo",
       "link_berita": "https://news.republika.co.id/berita/sgjxj0370/polda-sumut-ungkap-upah-eksekutor-pembakar-rumah-wartawan-di-karo",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Rambu-rambu Cari Rezeki dari Imam al-Ghazali",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjgn0451/ramburambu-cari-rezeki-dari-imam-alghazali",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Wirausaha Mahasiswa Universitas BSI Unjuk Gigi di Tabligh Akbar, Dagangan Laris Manis",
       "link_berita": "https://news.republika.co.id/berita/sgjx6h490/wirausaha-mahasiswa-universitas-bsi-unjuk-gigi-di-tabligh-akbar-dagangan-laris-manis",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Pertamina Bangun PLTS untuk Komunitas Hidroponik di Riau",
       "link_berita": "https://esgnow.republika.co.id/berita/sgjqh1416/pertamina-bangun-plts-untuk-komunitas-hidroponik-di-riau",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Tahanan Palestina Bebas Setelah 9 Bulan, Dulu Berotot Kini Tubuh Tinggal Tulang dan Kulit",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjwji366/tahanan-palestina-bebas-setelah-9-bulan-dulu-berotot-kini-tubuh-tinggal-tulang-dan-kulit",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Pomal Lantamal Sorong Selidiki Prajurit Bunuh Diri Pakai Pistol",
       "link_berita": "https://news.republika.co.id/berita/sgjuc5484/pomal-lantamal-sorong-selidiki-prajurit-bunuh-diri-pakai-pistol",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Pernah Merasa Digoda Setan? Ternyata Tujuh Cara Ini yang Dilakukan Setan",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjw8x430/pernah-merasa-digoda-setan-ternyata-tujuh-cara-ini-yang-dilakukan-setan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Kisah Gus Wafi Terlibat Debat Nasab Ba Alawi",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjw80451/kisah-gus-wafi-terlibat-debat-nasab-ba-alawi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Giffari Naufal Arisma Putra, Pendiri Lomnusra yang Dirikan Perusahaan pada Hari Lahirnya",
       "link_berita": "https://ruzka.republika.co.id/gaya-hidup/1674859009/giffari-naufal-arisma-putra-pendiri-lomnusra-yang-dirikan-perusahaan-pada-hari-lahirnya",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "BSI Maslahat dan IIK BSI Gelar Khitanan Massal di Jakarta",
       "link_berita": "https://khazanah.republika.co.id/berita/sgjvwx502/bsi-maslahat-dan-iik-bsi-gelar-khitanan-massal-di-jakarta",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Menteri AHY Bangga, Ajudannya Lettu Pandu Diberi Penghargaan Jenderal AS",
       "link_berita": "https://news.republika.co.id/berita/sgjvv1484/menteri-ahy-bangga-ajudannya-lettu-pandu-diberi-penghargaan-jenderal-as",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "BMKG Ingatkan Dampak Perubahan Iklim: Suhu Makin Panas dan Daerah Pesisir Tenggelam",
       "link_berita": "https://esgnow.republika.co.id/berita/sgjjeg416/bmkg-ingatkan-dampak-perubahan-iklim-suhu-makin-panas-dan-daerah-pesisir-tenggelam",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Uang Operasional TNI di Papua Naik, Pengamat: Kesejahteraan Meningkat",
       "link_berita": "https://news.republika.co.id/berita/sgjsug484/uang-operasional-tni-di-papua-naik-pengamat-kesejahteraan-meningkat",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Tingkatkan Keselamatan, Baketrans Inisiasi Pembahasan tentang Standar Perlengkapan Jalan dengan Jalur Kereta Api",
       "link_berita": "https://ruzka.republika.co.id/nasional/1674858948/tingkatkan-keselamatan-baketrans-inisiasi-pembahasan-tentang-standar-perlengkapan-jalan-dengan-jalur-kereta-api",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Perkuat Kolaborasi, Universitas BSI Teken MoU dengan Hotel-Hotel di Yogyakarta",
       "link_berita": "https://news.republika.co.id/berita/sgju9n490/perkuat-kolaborasi-universitas-bsi-teken-mou-dengan-hotelhotel-di-yogyakarta",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "PBNU Nilai Ibadah Haji Tahun Ini Berjalan Baik",
       "link_berita": "https://tv.republika.co.id/berita/sgju88418/pbnu-nilai-ibadah-haji-tahun-ini-berjalan-baik",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Tingkatkan Kualitas Mahasiswa Lewat Program Praktisi Mengajar",
       "link_berita": "https://literat.republika.co.id/posts/319074/tingkatkan-kualitas-mahasiswa-lewat-program-praktisi-mengajar",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Pasangan Baru Daniel/Fikri dan Bagas/Leo Bakal 'Test Drive' di Japan Open 2024",
       "link_berita": "https://badmintonews.id/posts/319040/pasangan-baru-daniel-fikri-dan-bagas-leo-bakal-test-drive-di-japan-open-2024",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
       "judul": "Hasil Drawing Pemain Indonesia di Olimpiade 2024, Jonatan Masuk Grup Neraka",
       "link_berita": "https://badmintonews.id/posts/319039/hasil-drawing-pemain-indonesia-di-olimpiade-2024-jonatan-masuk-grup-neraka",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:16:37"
     },
     {
-      "judul": "GIIAS Bakal Hadirkan 13 Merek Baru, Apa Aja?",
-      "link_berita": "https://motoresto.id/posts/318977/giias-bakal-hadirkan-13-merek-baru-apa-aja",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "judul": "Orang Tua Perlu Dukungan Psikologis untuk Dampingi Anak dengan Kanker",
+      "link_berita": "https://ameera.republika.co.id/berita/sgk19h370/orang-tua-perlu-dukungan-psikologis-untuk-dampingi-anak-dengan-kanker",
+      "kategori": "Health",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 16:05:00"
     },
     {
-      "judul": "Apakah Berjalan Kaki Membakar Kalori yang Sama dengan Berlari? Inilah Penjelasan Ilmiahnya",
-      "link_berita": "https://impresiupdate.id/posts/319037/apakah-berjalan-kaki-membakar-kalori-yang-sama-dengan-berlari-inilah-penjelasan-ilmiahnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
+      "judul": "Kecerdasan Buatan, Kemajuan Teknologi yang Ternyata Membahayakan Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sgk020416/kecerdasan-buatan-kemajuan-teknologi-yang-ternyata-membahayakan-lingkungan",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 16:03:00"
     },
     {
-      "judul": "Ceramah Ustadz Yazid Gambarkan Kengerian Sakaratul Maut",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgjt0p430/ceramah-ustadz-yazid-gambarkan-kengerian-sakaratul-maut",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Saat Ustadz Yazid Jawas Bicara Kiamat",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgjss2430/saat-ustadz-yazid-jawas-bicara-kiamat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Tiga Hal Ini Harus Diingat Saat Bertaubat",
-      "link_berita": "https://iqra.republika.co.id/berita/sgjsgg430/tiga-hal-ini-harus-diingat-saat-bertaubat",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Stadeo Hadirkan Live Room Obrolan Seru dengan Para Pemain Liga 1",
-      "link_berita": "https://news.republika.co.id/berita/sgjsf3348/stadeo-hadirkan-live-room-obrolan-seru-dengan-para-pemain-liga-1",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Keributan Terjadi Saat La Nyalla Pimpin Rapat Paripurna DPD RI, Ini Kronologinya",
-      "link_berita": "https://news.republika.co.id/berita/sgjrtj409/keributan-terjadi-saat-la-nyalla-pimpin-rapat-paripurna-dpd-ri-ini-kronologinya",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Ini Penjelasan BMKG Soal Fenomena Badai Magnet yang Melanda Bumi Sepekan Terakhir",
-      "link_berita": "https://news.republika.co.id/berita/sgjqm0409/ini-penjelasan-bmkg-soal-fenomena-badai-magnet-yang-melanda-bumi-sepekan-terakhir",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "FIATA - RAP 2024 Dorong Asa Investasi dan Keberlanjutan Sektor Logistik di Asia Pasifik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgjonp456/fiata-rap-2024-dorong-asa-investasi-dan-keberlanjutan-sektor-logistik-di-asia-pasifik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Kremlin Kecam Pernyataan Joe Biden tentang Vladimir Putin di KTT NATO",
-      "link_berita": "https://news.republika.co.id/berita/sgjqc6409/kremlin-kecam-pernyataan-joe-biden-tentang-vladimir-putin-di-ktt-nato",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Pendapat Ustadz Yazid Jawas tentang Palestina-Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgjqcl430/pendapat-ustadz-yazid-jawas-tentang-palestinaisrael",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Negara Anggota NATO Sepakat Kukuhkan Dukungan ke Ukraina",
-      "link_berita": "https://tv.republika.co.id/berita/sgjqc1418/negara-anggota-nato-sepakat-kukuhkan-dukungan-ke-ukraina",
-      "kategori": "Video",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Kecelakaan di Tol Solo-Ngawi KM 498+800, Enam Meninggal Dunia",
-      "link_berita": "https://news.republika.co.id/berita/sgjq5x409/kecelakaan-di-tol-solongawi-km-498800-enam-meninggal-dunia",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "China Kutuk Pernyataan Provokatif Sekjen NATO",
-      "link_berita": "https://news.republika.co.id/berita/sgjp8e409/china-kutuk-pernyataan-provokatif-sekjen-nato",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "UPN Jakarta Masih Buka Pendaftaran Jalur Mandiri Gelombang 2, Cek Jadwal dan Syaratnya",
-      "link_berita": "https://kampus.republika.co.id/info-kampus/1624858563/upn-jakarta-masih-buka-pendaftaran-jalur-mandiri-gelombang-2-cek-jadwal-dan-syaratnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Jelang Piala AFF U-19, Indra Sjafri Minta Doa dan Dukungan Masyarakat",
-      "link_berita": "https://news.republika.co.id/berita/sgjodh416/jelang-piala-aff-u19-indra-sjafri-minta-doa-dan-dukungan-masyarakat",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Polisi Dalami Bukti Kasus Pengeroyokan Wartawan Seusai Sidang Vonis Syahrul Yasin Limpo",
-      "link_berita": "https://news.republika.co.id/berita/sgjo95409/polisi-dalami-bukti-kasus-pengeroyokan-wartawan-seusai-sidang-vonis-syahrul-yasin-limpo",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "DPW Partai Ummat Jakarta Usulkan Anies Baswedan dan Ridwan Kamil di Pilgub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sgjo7l456/dpw-partai-ummat-jakarta-usulkan-anies-baswedan-dan-ridwan-kamil-di-pilgub-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Sarasehan Pariwisata Universitas BSI Ungkap Pentingnya Kolaborasi Akademisi dan Industri",
-      "link_berita": "https://news.republika.co.id/berita/sgjnbl490/sarasehan-pariwisata-universitas-bsi-ungkap-pentingnya-kolaborasi-akademisi-dan-industri",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Ini Penyataan Jusuf Kalla Usai Bertemu Pemimpin Hamas Ismail Haniyeh di Doha",
-      "link_berita": "https://news.republika.co.id/berita/sgjn49409/ini-penyataan-jusuf-kalla-usai-bertemu-pemimpin-hamas-ismail-haniyeh-di-doha",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "IMF: Arus Modal Asing ke Negara Berkembang Kembali di Level Tertinggi, Termasuk Indonesia?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgjmsh502/imf-arus-modal-asing-ke-negara-berkembang-kembali-di-level-tertinggi-termasuk-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "Prabowo Ajak Quraish Shihab Kala Bertemu Grand Syekh Al-Azhar",
-      "link_berita": "https://seputarmiliter.id/posts/318635/prabowo-ajak-quraish-shihab-kala-bertemu-grand-syekh-al-azhar",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 08:19:38"
-    },
-    {
-      "judul": "BKKBN: UU KIA Lindungi Indonesia dari Fenomena Childfree",
-      "link_berita": "https://ameera.republika.co.id/berita/sgin6u370/bkkbn-uu-kia-lindungi-indonesia-dari-fenomena-childfree",
-      "kategori": "Happening",
-      "tanggal_terbit": "Friday, 12 Jul 2024, 22:04:00"
-    },
-    {
-      "judul": "Kelola Sampah Plastik, Salah Satu Praktik ESG ala Elnusa",
-      "link_berita": "https://esgnow.republika.co.id/berita/sgjj91490/kelola-sampah-plastik-salah-satu-praktik-esg-ala-elnusa",
-      "kategori": "Csr Esg Now",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 09:36:00"
-    },
-    {
-      "judul": "Raih Omzet Bulanan Ratusan Juta, Eks Petugas Kebersihan Ungkap Tips Sukses Bisnis Online",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgjyxi416/raih-omzet-bulanan-ratusan-juta-eks-petugas-kebersihan-ungkap-tips-sukses-bisnis-online",
+      "judul": "Unilever Bakal PHK 3.200 Karyawan Hingga Akhir 2025, Ada Apa?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgk1mf490/unilever-bakal-phk-3200-karyawan-hingga-akhir-2025-ada-apa",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 15:15:00"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 16:13:00"
     },
     {
       "judul": "DPLK Syariah Muamalat Jalin Kerja Sama Program Pensiun dengan Anak Usaha Jakpro",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 12 Jul 2024, 12:24:00"
     },
     {
-      "judul": "Waketum PSI Pastikan Duet Jusuf Hamka-Kaesang Belum Final",
-      "link_berita": "https://news.republika.co.id/berita/sgjz1i484/waketum-psi-pastikan-duet-jusuf-hamkakaesang-belum-final",
+      "judul": "Polisi Ciduk 31 Orang Kala Razia Narkoba di Kampung Muara Bahari",
+      "link_berita": "https://news.republika.co.id/berita/sgk149484/polisi-ciduk-31-orang-kala-razia-narkoba-di-kampung-muara-bahari",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Saturday, 13 Jul 2024, 15:17:00"
+      "tanggal_terbit": "Saturday, 13 Jul 2024, 16:02:00"
     }
   ],
-  "waktu_scraping": "Saturday, 13 Jul 2024, 15:19:38"
+  "waktu_scraping": "Saturday, 13 Jul 2024, 16:16:37"
 }
