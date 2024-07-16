@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Nilai Impor Indonesia pada Juni 2024 Turun, Nonmigas Beri Andil Penurunan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgp798370/nilai-impor-indonesia-pada-juni-2024-turun-nonmigas-beri-andil-penurunan"
+    },
+    {
       "judul": "Kebijakan Cleansing Pemprov DKI, Ratusan Guru Honorer Dipecat Mendadak",
       "link_berita": "https://news.republika.co.id/berita/sgp498484/kebijakan-cleansing-pemprov-dki-ratusan-guru-honorer-dipecat-mendadak"
     },
@@ -13,15 +17,15 @@
       "link_berita": "https://khazanah.republika.co.id/berita/sgozus430/mantan-sekjen-pbnu-cendikawan-nahdliyin-yang-temui-presiden-israel-tak-paham"
     },
     {
-      "judul": "Komisioner Ini Ogah Ikut Lagi Seleksi Capim, Sebut Terlalu Banyak Masalah di KPK",
-      "link_berita": "https://news.republika.co.id/berita/sgowzj409/komisioner-ini-ogah-ikut-lagi-seleksi-capim-sebut-terlalu-banyak-masalah-di-kpk"
-    },
-    {
-      "judul": "Tiga Mantan Pejabat Kemenhub Rugikan Negara dalam Proyek Kereta Rp 1,15 Triliun",
-      "link_berita": "https://news.republika.co.id/berita/sgotew484/tiga-mantan-pejabat-kemenhub-rugikan-negara-dalam-proyek-kereta-rp-115-triliun"
+      "judul": "Komisioner Ini Ogah Ikut Lagi Seleksi Capim, Ungkap Terlalu Banyak Masalah di KPK",
+      "link_berita": "https://news.republika.co.id/berita/sgowzj409/komisioner-ini-ogah-ikut-lagi-seleksi-capim-ungkap-terlalu-banyak-masalah-di-kpk"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pansel Ungkap Pendaftar Capim dan Dewas KPK Total 525 Orang",
+      "link_berita": "https://news.republika.co.id/berita/sgp72q484/pansel-ungkap-pendaftar-capim-dan-dewas-kpk-total-525-orang"
+    },
     {
       "judul": "Harga Emas Antam Tembus Rp 1,403 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgp42n370/harga-emas-antam-tembus-rp-1403-juta-per-gram"
@@ -77,312 +81,308 @@
     {
       "judul": "Intelektual Nahdliyin Temui Presiden Israel, Gus Nadir: Tanpa NU Mereka tak Masuk Radar",
       "link_berita": "https://khazanah.republika.co.id/berita/sgnu8n430/intelektual-nahdliyin-temui-presiden-israel-gus-nadir-tanpa-nu-mereka-tak-masuk-radar"
-    },
-    {
-      "judul": "Kronologi Mahasiswi di Jambi Lompat dari Lantai 12 Gedung Bank, Korban Tewas Seketika",
-      "link_berita": "https://news.republika.co.id/berita/sgnrba377/kronologi-mahasiswi-di-jambi-lompat-dari-lantai-12-gedung-bank-korban-tewas-seketika"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Uni Eropa Jatuhkan Sanksi kepada Ekstremis Israel, Ini Daftarnya",
+      "link_berita": "https://news.republika.co.id/berita/sgp7wa409/uni-eropa-jatuhkan-sanksi-kepada-ekstremis-israel-ini-daftarnya",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:16:43"
+    },
+    {
+      "judul": "Dikaitkan dengan Pertemuan Cendikiawan Nahdliyin-Presiden Israel, Ini Klarifikasi Rahim",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgp7ru430/dikaitkan-dengan-pertemuan-cendikiawan-nahdliyinpresiden-israel-ini-klarifikasi-rahim",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:14:43"
+    },
+    {
+      "judul": "Cerita Kiai Cholil Nafis Pernah Diundang ke Israel Tetapi Dilarang KH Hasyim Muzadi",
+      "link_berita": "https://khazanah.republika.co.id/berita/sgp7mk320/cerita-kiai-cholil-nafis-pernah-diundang-ke-israel-tetapi-dilarang-kh-hasyim-muzadi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:10:43"
+    },
+    {
+      "judul": "Jadwal Sholat Hari Ini, 16 Juli 2024 di Depok",
+      "link_berita": "https://iqra.republika.co.id/berita/sgp7gu430/jadwal-sholat-hari-ini-16-juli-2024-di-depok",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:07:43"
+    },
+    {
+      "judul": "Transaksi Digital di Indonesia Dinilai Banyak Kemajuan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgp7bl430/transaksi-digital-di-indonesia-dinilai-banyak-kemajuan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:04:43"
+    },
+    {
+      "judul": "Nilai Impor Indonesia pada Juni 2024 Turun, Nonmigas Beri Andil Penurunan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgp798370/nilai-impor-indonesia-pada-juni-2024-turun-nonmigas-beri-andil-penurunan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:02:43"
+    },
+    {
+      "judul": "Pansel Ungkap Pendaftar Capim dan Dewas KPK Total 525 Orang",
+      "link_berita": "https://news.republika.co.id/berita/sgp72q484/pansel-ungkap-pendaftar-capim-dan-dewas-kpk-total-525-orang",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:59:43"
+    },
+    {
+      "judul": "Skandal Bapanas-Bulog Gate 2024: Politisi PDIP: Perangi Bandit Ekonomi",
+      "link_berita": "https://genpop.republika.co.id/posts/319484/skandal-bapanas-bulog-gate-2024-politisi-pdip-perangi-bandit-ekonomi",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:54:43"
+    },
+    {
+      "judul": "Amankan Piala AFF U-19 Surabaya, 2.959 Personel Gabungan Diterjunkan",
+      "link_berita": "https://sekitarsurabaya.com/posts/319473/amankan-piala-aff-u-19-surabaya-2-959-personel-gabungan-diterjunkan",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:45:43"
+    },
+    {
+      "judul": "Operasi Lodaya Sasar Parkir Liar di Kota Bandung",
+      "link_berita": "https://kangjepret.republika.co.id/posts/319479/operasi-lodaya-sasar-parkir-liar-di-kota-bandung",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:37:43"
+    },
+    {
+      "judul": "Unik, Mahasiswa Unpad Olah Limbah Kulit Jengkol jadi Sabun Organik",
+      "link_berita": "https://rejabar.republika.co.id/berita/sgp5ot512/unik-mahasiswa-unpad-olah-limbah-kulit-jengkol-jadi-sabun-organik",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:29:43"
+    },
+    {
       "judul": "Kok Kunjungi Presiden Israel?",
       "link_berita": "https://tv.republika.co.id/berita/sgp38n467/kok-kunjungi-presiden-israel",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:18:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Presiden Jokowi Lantik 906 Perwira Remaja TNI-Polri di Istana",
       "link_berita": "https://news.republika.co.id/berita/sgp52g484/presiden-jokowi-lantik-906-perwira-remaja-tnipolri-di-istana",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:15:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Panitia Seleksi Terima Total 535 Calon Pimpinan dan Dewas KPK",
       "link_berita": "https://news.republika.co.id/berita/sgp4w0409/panitia-seleksi-terima-total-535-calon-pimpinan-dan-dewas-kpk",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:12:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Final Pencarian Bakat Stand Up Comedy Amanah Dimeriahkan Abdur Arsyad, Ini Daftar Juaranya",
       "link_berita": "https://republika.co.id/berita/sgp4ps456/final-pencarian-bakat-stand-up-comedy-amanah-dimeriahkan-abdur-arsyad-ini-daftar-juaranya",
       "kategori": "Resumatra",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:08:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Film Despicable Me Cetak Sejarah, Animasi Pertama yang Lampaui Rp 80 Triliun",
       "link_berita": "https://ameera.republika.co.id/berita/sgp4cd425/film-despicable-me-cetak-sejarah-animasi-pertama-yang-lampaui-rp-80-triliun",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:00:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Kebijakan Cleansing Pemprov DKI, Ratusan Guru Honorer Dipecat Mendadak",
       "link_berita": "https://news.republika.co.id/berita/sgp498484/kebijakan-cleansing-pemprov-dki-ratusan-guru-honorer-dipecat-mendadak",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:58:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Harga Emas Antam Tembus Rp 1,403 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgp42n370/harga-emas-antam-tembus-rp-1403-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:54:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:20:43"
     },
     {
       "judul": "Toyota Gazoo Racing Indonesia Kembali Mendominasi Podium!",
       "link_berita": "https://motoresto.id/posts/319429/toyota-gazoo-racing-indonesia-kembali-mendominasi-podium",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:46:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Gejala, Penyebab, Pencegahan dan Pengobatan Stres",
       "link_berita": "https://diagnosa.id/posts/319469/gejala-penyebab-pencegahan-dan-pengobatan-stres",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:46:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Batu Bara, Baja, dan CPO Jadi Komoditas Unggulan Ekspor RI pada Juni 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgp36g370/batu-bara-baja-dan-cpo-jadi-komoditas-unggulan-ekspor-ri-pada-juni-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:35:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Populasi Bumi Diprediksi Capai Puncaknya pada 2080 dengan 10,2 Miliar Jiwa",
       "link_berita": "https://ameera.republika.co.id/berita/sgp2r6425/populasi-bumi-diprediksi-capai-puncaknya-pada-2080-dengan-102-miliar-jiwa",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:25:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Tekan Emisi, Angkot Bensin Dikonversi ke Tenaga Listrik",
       "link_berita": "https://tv.republika.co.id/berita/sgp2jx467/tekan-emisi-angkot-bensin-dikonversi-ke-tenaga-listrik",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Galeri Foto: Masa Pengenalan Lingkungan Sekolah",
       "link_berita": "https://kangjepret.republika.co.id/posts/319467/galeri-foto-masa-pengenalan-lingkungan-sekolah",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Rekor! Barang Impor Israel Melesat Paling Banyak Masuk Lewat Tanjung Perak",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgp1nc502/rekor-barang-impor-israel-melesat-paling-banyak-masuk-lewat-tanjung-perak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "21 Perusahaan Antre Gelar IPO di Pasar Modal",
       "link_berita": "https://ekonomi.republika.co.id/berita/sgp1ld416/21-perusahaan-antre-gelar-ipo-di-pasar-modal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Asia Afrika Berkabung Festival, Renungan dan Doa untuk Palestina",
       "link_berita": "https://bandung24jam.id/posts/319453/asia-afrika-berkabung-festival-renungan-dan-doa-untuk-palestina",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "Kebaya Dinilai Sebagai Warisan Budaya yang Perlu Dilestarikan",
       "link_berita": "https://rejogja.republika.co.id/berita/sgoyyl291/kebaya-dinilai-sebagai-warisan-budaya-yang-perlu-dilestarikan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 02:20:43"
     },
     {
       "judul": "PAN Usung Pasangan Lalu Iqbal-Indah Dhamayanti pada Pilgub NTB",
       "link_berita": "https://news.republika.co.id/berita/sgp0vm484/pan-usung-pasangan-lalu-iqbalindah-dhamayanti-pada-pilgub-ntb",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Lawan Kerap Nyinyir, Bupati Bandung Buktikan Realisasi Program dan Janji Politiknya",
       "link_berita": "https://rejabar.republika.co.id/berita/sgp0ig370/lawan-kerap-nyinyir-bupati-bandung-buktikan-realisasi-program-dan-janji-politiknya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Saat Sungai Jadi Tempat Sampah",
       "link_berita": "https://esgnow.republika.co.id/berita/sgp0da416/saat-sungai-jadi-tempat-sampah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Pelatih Persib Bojan Hodak Ungkap Ezra Walian Dilepas Karena Masalah Ini",
       "link_berita": "https://rejabar.republika.co.id/berita/sgp07q512/pelatih-persib-bojan-hodak-ungkap-ezra-walian-dilepas-karena-masalah-ini",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Budisatrio Djiwandono, Keponakan Prabowo Pimpin Gerindra Kaltim",
       "link_berita": "https://news.republika.co.id/berita/sgozw8484/budisatrio-djiwandono-keponakan-prabowo-pimpin-gerindra-kaltim",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Mantan Sekjen PBNU: Cendikawan Nahdliyin yang Temui Presiden Israel tak Paham...",
       "link_berita": "https://khazanah.republika.co.id/berita/sgozus430/mantan-sekjen-pbnu-cendikawan-nahdliyin-yang-temui-presiden-israel-tak-paham",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Tingkatkan Kinerja Bisnis, Bandara Kertajati Bidik Pekerja Migran Asal Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sgozu8512/tingkatkan-kinerja-bisnis-bandara-kertajati-bidik-pekerja-migran-asal-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Antisipasi Penyalahgunaan, Polisi di Banjarbaru Musnahkan Pohon Kecubung",
       "link_berita": "https://news.republika.co.id/berita/sgozl5409/antisipasi-penyalahgunaan-polisi-di-banjarbaru-musnahkan-pohon-kecubung",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "OPM Burn School in Okbab District, Police: Reflect on Extraordinary Crime",
       "link_berita": "https://en.republika.co.id/berita/sgoz0h415/opm-burn-school-in-okbab-district-police-reflect-on-extraordinary-crime",
       "kategori": "En",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:20:43"
     },
     {
       "judul": "Kejari Indramayu Tetapkan Tersangka Baru Dugaan Korupsi Air Terjun Buatan",
       "link_berita": "https://rejabar.republika.co.id/berita/sgoytg512/kejari-indramayu-tetapkan-tersangka-baru-dugaan-korupsi-air-terjun-buatan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Pelesir ke Kupang, Oleh-olehnya Wajib Seledang Tenun Maumere",
       "link_berita": "https://motoresto.id/posts/319394/pelesir-ke-kupang-oleh-olehnya-wajib-seledang-tenun-maumere",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Indra Sjafri Selects 23 U-19 Players for AFF U-19 Cup",
       "link_berita": "https://en.republika.co.id/berita/sgoyp0415/indra-sjafri-selects-23-u19-players-for-aff-u19-cup",
       "kategori": "En",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 03:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 04:20:43"
     },
     {
       "judul": "Diskusi UMJ dan University of Wisconsin AS Bahas Islam dan Hak Perempuan",
       "link_berita": "https://news.republika.co.id/berita/sgoyeu370/diskusi-umj-dan-university-of-wisconsin-as-bahas-islam-dan-hak-perempuan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 01:20:43"
     },
     {
       "judul": "Apa itu Telegram Premium? Ini Dia Fitur, Harga, dan Cara Mendaftar",
       "link_berita": "https://impresi.republika.co.id/didaktika/1694867404/apa-itu-telegram-premium-ini-dia-fitur-harga-dan-cara-mendaftar",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Kuasa Hukum Minta Ijazah hingga Handphone Pegi yang Disita Polda Jabar Dikembalikan",
       "link_berita": "https://rejabar.republika.co.id/berita/sgoy4e512/kuasa-hukum-minta-ijazah-hingga-handphone-pegi-yang-disita-polda-jabar-dikembalikan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Terpidana Penipuan Sertifikat Tanah yang Jadi DPO Ditangkap Kejati DIY",
       "link_berita": "https://rejogja.republika.co.id/berita/sgoy2q291/terpidana-penipuan-sertifikat-tanah-yang-jadi-dpo-ditangkap-kejati-diy",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "BMKG: Suhu Dingin Tandai Puncak Kemarau di Jateng",
       "link_berita": "https://esgnow.republika.co.id/berita/sgoxww416/bmkg-suhu-dingin-tandai-puncak-kemarau-di-jateng",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Pegi Setiawan Belum Aman dari Status Hukum!!! Ini Kata Pengamat Hukum",
       "link_berita": "https://matapantura.republika.co.id/posts/319445/pegi-setiawan-belum-aman-dari-status-hukum-ini-kata-pengamat-hukum",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Fatah-Hamas akan Kembali Gelar Pembicaraan Rekonsiliasi di Cina",
       "link_berita": "https://khazanah.republika.co.id/berita/sgoxoy430/fatahhamas-akan-kembali-gelar-pembicaraan-rekonsiliasi-di-cina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Keutamaan Orang Berhijrah",
       "link_berita": "https://www.republika.id/posts/53841/keutamaan-orang-berhijrah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
-      "judul": "Komisioner Ini Ogah Ikut Lagi Seleksi Capim, Sebut Terlalu Banyak Masalah di KPK",
-      "link_berita": "https://news.republika.co.id/berita/sgowzj409/komisioner-ini-ogah-ikut-lagi-seleksi-capim-sebut-terlalu-banyak-masalah-di-kpk",
+      "judul": "Komisioner Ini Ogah Ikut Lagi Seleksi Capim, Ungkap Terlalu Banyak Masalah di KPK",
+      "link_berita": "https://news.republika.co.id/berita/sgowzj409/komisioner-ini-ogah-ikut-lagi-seleksi-capim-ungkap-terlalu-banyak-masalah-di-kpk",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Perang Israel Melawan Sekolah-Sekolah di Gaza",
       "link_berita": "https://www.republika.id/posts/53833/perang-israel-melawan-sekolah-sekolah-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
-    },
-    {
-      "judul": "Menyoal Kunjungan \u2018Intelektual Nahdliyin\u2019 ke Israel",
-      "link_berita": "https://www.republika.id/posts/53826/menyoal-kunjungan-%e2%80%98intelektual-nahdliyin%e2%80%99-ke-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
-    },
-    {
-      "judul": "Trailer Film \"Kang Mak from Pee Mak\" Penuh Adegan Lucu",
-      "link_berita": "https://senandika.republika.co.id/genta/1734867279/trailer-film-kang-mak-from-pee-mak-penuh-adegan-lucu",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
-    },
-    {
-      "judul": "Pakai Galaxy Z Fold6, Begini Kesan Seorang Atlet Jetski",
-      "link_berita": "https://impresi.republika.co.id/sana-sini/1694867271/pakai-galaxy-z-fold6-begini-kesan-seorang-atlet-jetski",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
-    },
-    {
-      "judul": "Menengok Ritual Tabuik di Pantai Barat Sumatra",
-      "link_berita": "https://www.republika.id/posts/53827/menengok-ritual-tabuik-di-pantai-barat-sumatra",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:22:29"
-    },
-    {
-      "judul": "2.000 Polisi Jaga Piala Presiden di Si Jalak Harupat Bandung, Suporter Tamu Dilarang Masuk!!!",
-      "link_berita": "https://matapantura.republika.co.id/posts/319442/2-000-polisi-jaga-piala-presiden-di-si-jalak-harupat-bandung-suporter-tamu-dilarang-masuk-",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
-    },
-    {
-      "judul": "Sebanyak 350 Atlet Gaza Dibunuh Israel, Saatnya Memboikot Olimpiade?",
-      "link_berita": "https://www.republika.id/posts/53835/sebanyak-350-atlet-gaza-dibunuh-israel-saatnya-memboikot-olimpiade",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
-    },
-    {
-      "judul": "Lima Cendikiawan Nahdliyin Temui Presiden Israel, Senator: tak Patuh Kebijakan Indonesia",
-      "link_berita": "https://khazanah.republika.co.id/berita/sgovdt430/lima-cendikiawan-nahdliyin-temui-presiden-israel-senator-tak-patuh-kebijakan-indonesia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
-    },
-    {
-      "judul": "Transjakarta Tutup Halte Rawamangun Imbas Pembangunan LRT Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sgoumf484/transjakarta-tutup-halte-rawamangun-imbas-pembangunan-lrt-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
-    },
-    {
-      "judul": "Satria Muda dan Prawira ke Semifinal IBL 2024",
-      "link_berita": "https://news.republika.co.id/berita/sgouei348/satria-muda-dan-prawira-ke-semifinal-ibl-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
-    },
-    {
-      "judul": "Terkendalam Bujet, Persib Bandung Lepas Ezra Walian",
-      "link_berita": "https://matapantura.republika.co.id/posts/319440/terkendalam-bujet-persib-bandung-lepas-ezra-walian",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
-    },
-    {
-      "judul": "Kang Mak From Pee Mak, Vino G Bastian Kian Matang Jadi Aktor Komedi",
-      "link_berita": "https://filmusiku.com/posts/319402/kang-mak-from-pee-mak-vino-g-bastian-kian-matang-jadi-aktor-komedi",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 15 Jul 2024, 23:22:29"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 00:20:43"
     },
     {
       "judul": "Film Despicable Me Cetak Sejarah, Animasi Pertama yang Lampaui Rp 80 Triliun",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 16 Jul 2024, 08:34:00"
     },
     {
-      "judul": "Harga Emas Antam Tembus Rp 1,403 Juta per Gram",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sgp42n370/harga-emas-antam-tembus-rp-1403-juta-per-gram",
+      "judul": "Transaksi Digital di Indonesia Dinilai Banyak Kemajuan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sgp7bl430/transaksi-digital-di-indonesia-dinilai-banyak-kemajuan",
       "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 09:54:00"
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 11:05:00"
     },
     {
       "judul": "Gagal Akusisi Muamalat, Benarkah BTN Syariah Melirik Victoria Syariah?",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 15 Jul 2024, 19:23:00"
     },
     {
-      "judul": "Presiden Jokowi Lantik 906 Perwira Remaja TNI-Polri di Istana",
-      "link_berita": "https://news.republika.co.id/berita/sgp52g484/presiden-jokowi-lantik-906-perwira-remaja-tnipolri-di-istana",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 16 Jul 2024, 10:15:00"
+      "judul": "Uni Eropa Jatuhkan Sanksi kepada Ekstremis Israel, Ini Daftarnya",
+      "link_berita": "https://news.republika.co.id/berita/sgp7wa409/uni-eropa-jatuhkan-sanksi-kepada-ekstremis-israel-ini-daftarnya",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Tuesday, 16 Jul 2024, 11:16:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 16 Jul 2024, 10:22:29"
+  "waktu_scraping": "Tuesday, 16 Jul 2024, 11:20:43"
 }
