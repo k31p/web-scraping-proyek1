@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Nasdem Ajak PKB dan PDIP Dukung Anies pada Pilgub Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sh69yu484/nasdem-ajak-pkb-dan-pdip-dukung-anies-pada-pilgub-jakarta"
+    },
+    {
+      "judul": "Program Makan Bergizi Gratis Diujicoba di SD Jagalan Solo, Ini Menunya",
+      "link_berita": "https://rejogja.republika.co.id/berita/sh68vl282/program-makan-bergizi-gratis-diujicoba-di-sd-jagalan-solo-ini-menunya"
+    },
+    {
       "judul": "PKB Dukung Penuh JPU Kasasi, Putusan Bebas Ronald Tannur Dinilai Cederai Rasa Keadilan",
       "link_berita": "https://news.republika.co.id/berita/sh66qv487/pkb-dukung-penuh-jpu-kasasi-putusan-bebas-ronald-tannur-dinilai-cederai-rasa-keadilan"
     },
@@ -11,14 +19,6 @@
     {
       "judul": "Novum PK Saka Tatal Sebut Vina-Eky Korban Kecelakaan, Keluarga Vina: Kami akan Legowo",
       "link_berita": "https://news.republika.co.id/berita/sh614f487/novum-pk-saka-tatal-sebut-vinaeky-korban-kecelakaan-keluarga-vina-kami-akan-legowo"
-    },
-    {
-      "judul": "Uji Coba Makan Siang Gratis Solo, Orang Tua Murid: Senang, Bisa Menghemat",
-      "link_berita": "https://news.republika.co.id/berita/sh5zm2377/uji-coba-makan-siang-gratis-solo-orang-tua-murid-senang-bisa-menghemat"
-    },
-    {
-      "judul": "Beda dengan Kubu Saka Tatal, Keluarga Vina Yakin Almarhumah Korban Pembunuhan Berencana",
-      "link_berita": "https://news.republika.co.id/berita/sh5xi0377/beda-dengan-kubu-saka-tatal-keluarga-vina-yakin-almarhumah-korban-pembunuhan-berencana"
     }
   ],
   "berita_unggulan": [
@@ -29,6 +29,10 @@
     {
       "judul": "Jika Suhu Yogya Rendah, Dieng akan Membeku dan Bersalju",
       "link_berita": "https://rejogja.republika.co.id/berita/sh695j282/jika-suhu-yogya-rendah-dieng-akan-membeku-dan-bersalju"
+    },
+    {
+      "judul": "Terungkap di Persidangan Kronologi Tewasnya Dini Sera, Terakhir Bareng Ronald Tannur",
+      "link_berita": "https://news.republika.co.id/berita/sh692f487/terungkap-di-persidangan-kronologi-tewasnya-dini-sera-terakhir-bareng-ronald-tannur"
     },
     {
       "judul": "Pemerintah Indonesia Berikan Fasilitas Golden Visa untuk Shin Tae-yong",
@@ -77,318 +81,314 @@
     {
       "judul": "Pelosi: Pidato Netanyahu Presentasi Terburuk Wakil Asing di Kongres AS",
       "link_berita": "https://news.republika.co.id/berita/sh5mq9377/pelosi-pidato-netanyahu-presentasi-terburuk-wakil-asing-di-kongres-as"
-    },
-    {
-      "judul": "Mascherano Sebut Kekalahan Argentina di Olimpiade Sebagai Sirkus, Messi: Aneh",
-      "link_berita": "https://news.republika.co.id/berita/sh5m4a348/mascherano-sebut-kekalahan-argentina-di-olimpiade-sebagai-sirkus-messi-aneh"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bakal Seru, Indonesia Ditantang Rival Berat Malaysia di Semifinal Piala AFF U-19",
+      "link_berita": "https://news.republika.co.id/berita/sh6cci348/bakal-seru-indonesia-ditantang-rival-berat-malaysia-di-semifinal-piala-aff-u19",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 10:12:47"
+    },
+    {
+      "judul": "Benarkah Muhammadiyah Sudah Bersedia Terima Konsesi Tambang?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sh6cbw458/benarkah-muhammadiyah-sudah-bersedia-terima-konsesi-tambang",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 10:11:47"
+    },
+    {
+      "judul": "Pemilih PSI Lebih Banyak Pilih Anies di Pilgub DKI Jakarta, Ini Respons Kaesang",
+      "link_berita": "https://news.republika.co.id/berita/sh6c6i377/pemilih-psi-lebih-banyak-pilih-anies-di-pilgub-dki-jakarta-ini-respons-kaesang",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 10:08:47"
+    },
+    {
+      "judul": "Gambaran Neraka Membuat Rasulullah Menangis",
+      "link_berita": "https://khazanah.republika.co.id/berita/sh6beu458/gambaran-neraka-membuat-rasulullah-menangis",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:51:47"
+    },
+    {
+      "judul": "DJP Jabar, Kejati, dan Polda Jabar Berhasil Selamatkan Rp79,3 Miliar Kerugian Negara",
+      "link_berita": "https://rejabar.republika.co.id/berita/sh6baq512/djp-jabar-kejati-dan-polda-jabar-berhasil-selamatkan-rp793-miliar-kerugian-negara",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:49:47"
+    },
+    {
+      "judul": "Hadis Palsu, Pengertian dan Latarnya",
+      "link_berita": "https://khazanah.republika.co.id/berita/sh6art458/hadis-palsu-pengertian-dan-latarnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:38:47"
+    },
+    {
+      "judul": "KPK Sidik Satu Tersangka Beli Properti dari Uang Korupsi DJKA Kemenhub",
+      "link_berita": "https://news.republika.co.id/berita/sh6alr484/kpk-sidik-satu-tersangka-beli-properti-dari-uang-korupsi-djka-kemenhub",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:34:47"
+    },
+    {
+      "judul": "Mengenal Kitab Hadis Shahih Muslim",
+      "link_berita": "https://khazanah.republika.co.id/berita/sh6ach458/mengenal-kitab-hadis-shahih-muslim",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:28:47"
+    },
+    {
+      "judul": "Nikmati Kuliner Vietnam Autentik, Ini Daftar Restoran Pho Halal Populer di Indonesia",
+      "link_berita": "https://ameera.republika.co.id/berita/sh6a8n425/nikmati-kuliner-vietnam-autentik-ini-daftar-restoran-pho-halal-populer-di-indonesia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:26:47"
+    },
+    {
+      "judul": "Nasdem Ajak PKB dan PDIP Dukung Anies pada Pilgub Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sh69yu484/nasdem-ajak-pkb-dan-pdip-dukung-anies-pada-pilgub-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:20:47"
+    },
+    {
       "judul": "Topan Gaemi Hantam Taiwan, Kapal Bermuatan 9 Awak Tenggelam",
       "link_berita": "https://esgnow.republika.co.id/berita/sh69sn416/topan-gaemi-hantam-taiwan-kapal-bermuatan-9-awak-tenggelam",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:17:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Jangan Setetespun, Penelitian Terbaru Konfirmasi Ajaran Islam Soal Alkohol",
       "link_berita": "https://khazanah.republika.co.id/berita/sh69ap393/jangan-setetespun-penelitian-terbaru-konfirmasi-ajaran-islam-soal-alkohol",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:06:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Jika Suhu Yogya Rendah, Dieng akan Membeku dan Bersalju",
       "link_berita": "https://rejogja.republika.co.id/berita/sh695j282/jika-suhu-yogya-rendah-dieng-akan-membeku-dan-bersalju",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:03:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Terungkap di Persidangan Kronologi Tewasnya Dini Sera, Terakhir Bareng Ronald Tannur",
       "link_berita": "https://news.republika.co.id/berita/sh692f487/terungkap-di-persidangan-kronologi-tewasnya-dini-sera-terakhir-bareng-ronald-tannur",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:01:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
-      "judul": "Deretan Kameo yang Muncul di Film Deadpool & Wolverine",
-      "link_berita": "https://ameera.republika.co.id/berita/sh68x2425/deretan-kameo-yang-muncul-di-film-deadpool-wolverine",
+      "judul": "Kameo yang Muncul di Film Deadpool & Wolverine, Ada Henry Cavill Hingga Chris Evans",
+      "link_berita": "https://ameera.republika.co.id/berita/sh68x2425/kameo-yang-muncul-di-film-deadpool-wolverine-ada-henry-cavill-hingga-chris-evans",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:58:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Program Makan Bergizi Gratis Diujicoba di SD Jagalan Solo, Ini Menunya",
       "link_berita": "https://rejogja.republika.co.id/berita/sh68vl282/program-makan-bergizi-gratis-diujicoba-di-sd-jagalan-solo-ini-menunya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:57:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Bayi Wafat Akibat Jalan Rusak, Lasarus: Jangan Biarkan Anak Kami Mati Sia-Sia",
       "link_berita": "https://news.republika.co.id/berita/sh68qb370/bayi-wafat-akibat-jalan-rusak-lasarus-jangan-biarkan-anak-kami-mati-siasia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:54:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Abu Fida: Semangat Jihad Perlu Direkontekstualisasi untuk Akhiri Gerakan Terorisme",
       "link_berita": "https://rejogja.republika.co.id/berita/sh68pl291/abu-fida-semangat-jihad-perlu-direkontekstualisasi-untuk-akhiri-gerakan-terorisme",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:53:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Dapat Fasilitas Golden Visa, Ini Janji Shin Tae-Yong untuk Sepak Bola Indonesia",
       "link_berita": "https://news.republika.co.id/berita/sh68p5409/dapat-fasilitas-golden-visa-ini-janji-shin-taeyong-untuk-sepak-bola-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:53:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Mengenal Kitab Hadis Shahih Bukhari",
       "link_berita": "https://khazanah.republika.co.id/berita/sh68k1458/mengenal-kitab-hadis-shahih-bukhari",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:50:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 09:18:47"
     },
     {
       "judul": "Sinergi Bea Cukai Tingkatkan Pengawasan di Banten dan Parepare",
       "link_berita": "https://republika.co.id/berita/sh68gc370/sinergi-bea-cukai-tingkatkan-pengawasan-di-banten-dan-parepare",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:48:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Jaksa Ajukan Kasasi ke MA, tak Terima Putusan Bebas Ronald Tannur, Ini Alasannya",
       "link_berita": "https://news.republika.co.id/berita/sh68ax487/jaksa-ajukan-kasasi-ke-ma-tak-terima-putusan-bebas-ronald-tannur-ini-alasannya",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:44:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Keluarga Tetap Yakin Vina Tewas Dibunuh, Beberkan Kejanggalan Ragam Luka di Tubuh Korban",
       "link_berita": "https://news.republika.co.id/berita/sh688i409/keluarga-tetap-yakin-vina-tewas-dibunuh-beberkan-kejanggalan-ragam-luka-di-tubuh-korban",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:43:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Uji Coba Makan Siang Gratis di SD Tugu Solo, Siswa Keluhkan Makanan Terlalu Pedas",
       "link_berita": "https://rejogja.republika.co.id/berita/sh67v8282/uji-coba-makan-siang-gratis-di-sd-tugu-solo-siswa-keluhkan-makanan-terlalu-pedas",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:35:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "GIIAS 2024 Manfaatkan Fasilitas Tempat Penyelenggaraan Pameran Berikat",
       "link_berita": "https://republika.co.id/berita/sh67uj370/giias-2024-manfaatkan-fasilitas-tempat-penyelenggaraan-pameran-berikat",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:34:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Pendaftar Fasilitas Golden Visa Capai 300 WNA, Jokowi Kaget",
       "link_berita": "https://news.republika.co.id/berita/sh67t6409/pendaftar-fasilitas-golden-visa-capai-300-wna-jokowi-kaget",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:34:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Program Makan Bergizi Gratis, Siswa SDN Tugu Solo Protes Sayurnya Pedas",
       "link_berita": "https://news.republika.co.id/berita/sh67se484/program-makan-bergizi-gratis-siswa-sdn-tugu-solo-protes-sayurnya-pedas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:33:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Cincin Olimpiade Hiasi Menara Eiffel Paris",
       "link_berita": "https://visual.republika.co.id/berita/sh65p0375/cincin-olimpiade-hiasi-menara-eiffel-paris",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:29:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Selain tidak Pro Israel, Le Minerale Rutin Berangkatkan Umrah Karyawan Mitra",
       "link_berita": "https://khazanah.republika.co.id/berita/sh67li483/selain-tidak-pro-israel-le-minerale-rutin-berangkatkan-umrah-karyawan-mitra",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:29:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Menggapai Optimisme dengan Berdoa",
       "link_berita": "https://khazanah.republika.co.id/berita/sh67e3458/menggapai-optimisme-dengan-berdoa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:25:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Perkuat Sinergi Antarinstansi, Bea Cukai Parepare Hadiri Pemusnahan Barang Bukti",
       "link_berita": "https://republika.co.id/berita/sh66x7370/perkuat-sinergi-antarinstansi-bea-cukai-parepare-hadiri-pemusnahan-barang-bukti",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Gagal SNBT, Jangan Sedih! Ada Prodi Sains Data UNM, Pilihan Tepat Buat Kamu",
       "link_berita": "https://news.republika.co.id/berita/sh66rr370/gagal-snbt-jangan-sedih-ada-prodi-sains-data-unm-pilihan-tepat-buat-kamu",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "PKB Dukung Penuh JPU Kasasi, Putusan Bebas Ronald Tannur Dinilai Cederai Rasa Keadilan",
       "link_berita": "https://news.republika.co.id/berita/sh66qv487/pkb-dukung-penuh-jpu-kasasi-putusan-bebas-ronald-tannur-dinilai-cederai-rasa-keadilan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Sesama Muslim Saling Merendah, bukan Merendahkan",
       "link_berita": "https://khazanah.republika.co.id/berita/sh66q7458/sesama-muslim-saling-merendah-bukan-merendahkan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Pemerintah Indonesia Berikan Fasilitas Golden Visa untuk Shin Tae-yong",
       "link_berita": "https://news.republika.co.id/berita/sh66pv409/pemerintah-indonesia-berikan-fasilitas-golden-visa-untuk-shin-taeyong",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Hacker Bobol Kementerian Keamanan Israel, Ini Ancaman Mereka demi Selamatkan Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/sh66mp483/hacker-bobol-kementerian-keamanan-israel-ini-ancaman-mereka-demi-selamatkan-gaza",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Strategi Komunikasi Krisis : Pondasi Kokoh bagi Keselamatan dan Reputasi",
       "link_berita": "https://kampus.republika.co.id/opini/1624902703/strategi-komunikasi-krisis-pondasi-kokoh-bagi-keselamatan-dan-reputasi",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Sinergi BRI Life dan PNM Tingkatkan Kesejahteraan Nasabah Ultra Mikro",
       "link_berita": "https://ekonomi.republika.co.id/berita/sh66l3370/sinergi-bri-life-dan-pnm-tingkatkan-kesejahteraan-nasabah-ultra-mikro",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "MPLS di Sekolah Ini Diisi dengan Kegiatan Menanam Pohon",
       "link_berita": "https://visual.republika.co.id/berita/sh65jw375/mpls-di-sekolah-ini-diisi-dengan-kegiatan-menanam-pohon",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "BNPB Salurkan Dana Siap Pakai Cegah Kekeringan dan Karhutla di Jawa Tengah",
       "link_berita": "https://esgnow.republika.co.id/berita/sh64ki416/bnpb-salurkan-dana-siap-pakai-cegah-kekeringan-dan-karhutla-di-jawa-tengah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Komisi III DPR: Vonis PN Surabaya Bebaskan Ronald Tannur Memalukan",
       "link_berita": "https://news.republika.co.id/berita/sh661d484/komisi-iii-dpr-vonis-pn-surabaya-bebaskan-ronald-tannur-memalukan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
-      "judul": "Satria Muda akan Batasi Aksi Solano di Final Four IBL 2024",
-      "link_berita": "https://news.republika.co.id/berita/sh65z1348/satria-muda-akan-batasi-aksi-solano-di-final-four-ibl-2024",
+      "judul": "Satria Muda akan Batasi Aksi Guard Dewa United Solano di Final Four IBL 2024",
+      "link_berita": "https://news.republika.co.id/berita/sh65z1348/satria-muda-akan-batasi-aksi-guard-dewa-united-solano-di-final-four-ibl-2024",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "Tak Hanya Saka Tatal, Rivaldi Terpidana Pembunuhan Vina Ajukan PK Siapkan 7 Bukti Baru",
       "link_berita": "https://rejabar.republika.co.id/berita/sh65rm512/tak-hanya-saka-tatal-rivaldi-terpidana-pembunuhan-vina-ajukan-pk-siapkan-7-bukti-baru",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 08:18:47"
     },
     {
       "judul": "MUI: Waria yang Ingin Bertobat Jangan Dikucilkan",
       "link_berita": "https://khazanah.republika.co.id/berita/sh65nh483/mui-waria-yang-ingin-bertobat-jangan-dikucilkan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
       "judul": "Hiu di Rio de Janeiro Positif Narkoba",
       "link_berita": "https://news.republika.co.id/berita/sh65l8430/hiu-di-rio-de-janeiro-positif-narkoba",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
       "judul": "Ini Upaya Otoritas Tumbuhkan Optimisme di Ekosistem Kripto",
       "link_berita": "https://ekonomi.republika.co.id/berita/sh65kw370/ini-upaya-otoritas-tumbuhkan-optimisme-di-ekosistem-kripto",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
       "judul": "Khasiat Kecubung: Mengobati Sakit Gigi dan Cacingan pada Anak",
       "link_berita": "https://magenta.republika.co.id/tips/1704902620/khasiat-kecubung-mengobati-sakit-gigi-dan-cacingan-pada-anak",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
       "judul": "Puluhan Peternak Ikuti Kontes Ternak dan Expo Pangan 2024",
       "link_berita": "https://rejabar.republika.co.id/berita/sh65fs375/puluhan-peternak-ikuti-kontes-ternak-dan-expo-pangan-2024",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
       "judul": "Bank Muamalat Catat Dana Kelolaan Nasabah Prioritas Capai 33 Persen Total DPK",
       "link_berita": "https://sharia.republika.co.id/berita/sh65fi502/bank-muamalat-catat-dana-kelolaan-nasabah-prioritas-capai-33-persen-total-dpk",
       "kategori": "Sharia",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
       "judul": "Ingin Kenalkan Lagu Lawas ke Anak Muda, Anggun Buat Sesi Tribute di Konser Tunggalnya",
       "link_berita": "https://ameera.republika.co.id/berita/sh65eq425/ingin-kenalkan-lagu-lawas-ke-anak-muda-anggun-buat-sesi-tribute-di-konser-tunggalnya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:18:47"
     },
     {
-      "judul": "Apakah Kamala Harris Bisa Ubah Kebijakan AS Soal Perang di Gaza?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sh65dw430/apakahkamalaharris-bisa-ubah-kebijakan-as-soal-perang-di-gaza",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Workshop Table Manner, Perkuat Etiket Mahasiswa Prodi Administrasi Perkantoran",
-      "link_berita": "https://news.republika.co.id/berita/sh659g370/workshop-table-manner-perkuat-etiket-mahasiswa-prodi-administrasi-perkantoran",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Senyum Lebar Pj Heru saat Ditanya Bakal Maju di Pilgub DKI Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sh658o484/senyum-lebar-pj-heru-saat-ditanya-bakal-maju-di-pilgub-dki-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Selain Jadi Depo Bus Listrik, Terminal Cicaheum Hanya akan Layani Angkot",
-      "link_berita": "https://rejabar.republika.co.id/berita/sh657a512/selain-jadi-depo-bus-listrik-terminal-cicaheum-hanya-akan-layani-angkot",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Prabowo Bertemu Presiden Macron di Istana Elysee, Paris",
-      "link_berita": "https://seputarmiliter.id/posts/321385/prabowo-bertemu-presiden-macron-di-istana-elysee-paris",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Pimpinan Oposisi Israel: Pidato Netanyahu di Depan Kongres AS Memalukan!",
-      "link_berita": "https://khazanah.republika.co.id/berita/sh64zw483/pimpinan-oposisi-israel-pidato-netanyahu-di-depan-kongres-as-memalukan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Tiga Cara Jaga Kualitas Keluarga Muslim",
-      "link_berita": "https://khazanah.republika.co.id/berita/sh64x2458/tiga-cara-jaga-kualitas-keluarga-muslim",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Dari Serangan Belatung Hingga Penjahat Perang, Sejak Tiba di AS Netanyahu Disambut Protes",
-      "link_berita": "https://khazanah.republika.co.id/berita/sh64vb366/dari-serangan-belatung-hingga-penjahat-perang-sejak-tiba-di-as-netanyahu-disambut-protes",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Kepala BP2MI Ungkap Aktor di Balik Bisnis Judi Online Inisial T, Jokowi Sampai Kaget",
-      "link_berita": "https://news.republika.co.id/berita/sh64so409/kepala-bp2mi-ungkap-aktor-di-balik-bisnis-judi-online-inisial-t-jokowi-sampai-kaget",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Tata Kelola AI Jadi Pusat Perhatian di Konferensi dan Pameran AIBP 2024",
-      "link_berita": "https://magenta.republika.co.id/news/1704902549/tata-kelola-ai-jadi-pusat-perhatian-di-konferensi-dan-pameran-aibp-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 07:19:38"
-    },
-    {
-      "judul": "Deretan Kameo yang Muncul di Film Deadpool & Wolverine",
-      "link_berita": "https://ameera.republika.co.id/berita/sh68x2425/deretan-kameo-yang-muncul-di-film-deadpool-wolverine",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 15:58:00"
+      "judul": "Nikmati Kuliner Vietnam Autentik, Ini Daftar Restoran Pho Halal Populer di Indonesia",
+      "link_berita": "https://ameera.republika.co.id/berita/sh6a8n425/nikmati-kuliner-vietnam-autentik-ini-daftar-restoran-pho-halal-populer-di-indonesia",
+      "kategori": "My Halal",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 16:26:00"
     },
     {
       "judul": "Topan Gaemi Hantam Taiwan, Kapal Bermuatan 9 Awak Tenggelam",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 25 Jul 2024, 14:42:00"
     },
     {
-      "judul": "Terungkap di Persidangan Kronologi Tewasnya Dini Sera, Terakhir Bareng Ronald Tannur",
-      "link_berita": "https://news.republika.co.id/berita/sh692f487/terungkap-di-persidangan-kronologi-tewasnya-dini-sera-terakhir-bareng-ronald-tannur",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 25 Jul 2024, 16:01:00"
+      "judul": "Bakal Seru, Indonesia Ditantang Rival Berat Malaysia di Semifinal Piala AFF U-19",
+      "link_berita": "https://news.republika.co.id/berita/sh6cci348/bakal-seru-indonesia-ditantang-rival-berat-malaysia-di-semifinal-piala-aff-u19",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 25 Jul 2024, 17:12:00"
     }
   ],
-  "waktu_scraping": "Thursday, 25 Jul 2024, 16:19:38"
+  "waktu_scraping": "Thursday, 25 Jul 2024, 17:18:47"
 }
