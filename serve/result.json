@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kasus Kekerasan di Daycare Depok, KPAI Soroti Pentingnya CCTV untuk Orang Tua",
+      "link_berita": "https://ameera.republika.co.id/berita/shj6uf425/kasus-kekerasan-di-daycare-depok-kpai-soroti-pentingnya-cctv-untuk-orang-tua"
+    },
+    {
       "judul": "Bayi Korban Kekerasan Daycare Depok Trauma & Dislokasi Tulang Akibat Dibanting Pelaku",
       "link_berita": "https://rejabar.republika.co.id/berita/shj34i282/bayi-korban-kekerasan-daycare-depok-trauma-dislokasi-tulang-akibat-dibanting-pelaku"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Bertemu Presiden Putin, Prabowo Singgung Pemanfaatan Energi Nuklir",
       "link_berita": "https://news.republika.co.id/berita/shivom484/bertemu-presiden-putin-prabowo-singgung-pemanfaatan-energi-nuklir"
-    },
-    {
-      "judul": "Jokowi Kecam Keras Pembunuhan terhadap Pemimpin Hamas Ismail Haniyeh",
-      "link_berita": "https://news.republika.co.id/berita/shiu1v484/jokowi-kecam-keras-pembunuhan-terhadap-pemimpin-hamas-ismail-haniyeh"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Puluhan Ribu Warga Iran Lepas Ismail Haniyeh",
+      "link_berita": "https://news.republika.co.id/berita/shj6xx393/puluhan-ribu-warga-iran-lepas-ismail-haniyeh"
+    },
     {
       "judul": "PM Malaysia Meradang, Unggahannya Soal Haniyeh Dihapus Facebook",
       "link_berita": "https://news.republika.co.id/berita/shj49a393/pm-malaysia-meradang-unggahannya-soal-haniyeh-dihapus-facebook"
@@ -77,330 +81,326 @@
     {
       "judul": "Terdepak dari Olimpiade Paris, Ginting Akui Gagal Keluar dari Tekanan Wakil Tuan Rumah",
       "link_berita": "https://news.republika.co.id/berita/shi2mp348/terdepak-dari-olimpiade-paris-ginting-akui-gagal-keluar-dari-tekanan-wakil-tuan-rumah"
-    },
-    {
-      "judul": "Lima Rekomendasi Forum Ukhuwah Islamiyah Soal Polemik Produk Afiliasi Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/shhtlm430/lima-rekomendasi-forum-ukhuwah-islamiyah-soal-polemik-produk-afiliasi-israel"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Menko Marves Dukung Langkah Pertamina Kembangkan Bisnis CCS",
+      "link_berita": "https://esgnow.republika.co.id/berita/shj8f5416/menko-marves-dukung-langkah-pertamina-kembangkan-bisnis-ccs",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 09:15:57"
+    },
+    {
+      "judul": "Klitih Merajalela di Yogyakarta, Polisi Gencarkan Patroli Malam dan Dini Hari",
+      "link_berita": "https://rejogja.republika.co.id/berita/shj8cl282/klitih-merajalela-di-yogyakarta-polisi-gencarkan-patroli-malam-dan-dini-hari",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 09:14:57"
+    },
+    {
+      "judul": "Terduga Teroris Penumpang Kereta Eksekutif Ditangkap di Stasiun Solo Balapan",
+      "link_berita": "https://news.republika.co.id/berita/shj817487/terduga-teroris-penumpang-kereta-eksekutif-ditangkap-di-stasiun-solo-balapan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 09:07:57"
+    },
+    {
+      "judul": "300 Hari Genosida di Gaza",
+      "link_berita": "https://visual.republika.co.id/berita/shj7ya393/300-hari-genosida-di-gaza",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 09:05:57"
+    },
+    {
+      "judul": "Kata Wapres Maruf Amin tentang Kematian Ismail Haniyeh",
+      "link_berita": "https://khazanah.republika.co.id/berita/shj62n451/kata-wapres-maruf-amin-tentang-kematian-ismail-haniyeh",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 09:04:57"
+    },
+    {
+      "judul": "Aktor Sonny Septian Alami Penyumbatan Pembuluh Darah, Ini Gejala dan Penyebabnya",
+      "link_berita": "https://ameera.republika.co.id/berita/shj7su425/aktor-sonny-septian-alami-penyumbatan-pembuluh-darah-ini-gejala-dan-penyebabnya",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 09:02:57"
+    },
+    {
+      "judul": "Chris Evans Berbagi Cuplikan di Balik Layar saat Perankan Deadpool & Wolverine: 'Mimpi yang Jadi Kenyataan'",
+      "link_berita": "https://senandika.republika.co.id/genta/1734929013/chris-evans-berbagi-cuplikan-di-balik-layar-saat-perankan-deadpool-wolverine-mimpi-yang-jadi-kenyataan",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:54:57"
+    },
+    {
+      "judul": "BPS: Jumlah Penumpang Transportasi Udara dan Laut Naik pada Juni 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shj785370/bps-jumlah-penumpang-transportasi-udara-dan-laut-naik-pada-juni-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:50:57"
+    },
+    {
+      "judul": "Penembak Turki dengan Gaya Santai Raih Perak di Olimpiade Ternyata Pejabat Gendarmarie",
+      "link_berita": "https://news.republika.co.id/berita/shj72k377/penembak-turki-dengan-gaya-santai-raih-perak-di-olimpiade-ternyata-pejabat-gendarmarie",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:46:57"
+    },
+    {
+      "judul": "Turki: Membunuh Ismail Haniyeh Sama Dengan Menghancurkan Upaya Perdamaian",
+      "link_berita": "https://khazanah.republika.co.id/berita/shj5y0451/turki-membunuh-ismail-haniyeh-sama-dengan-menghancurkan-upaya-perdamaian",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:44:57"
+    },
+    {
+      "judul": "Puluhan Ribu Warga Iran Lepas Ismail Haniyeh",
+      "link_berita": "https://news.republika.co.id/berita/shj6xx393/puluhan-ribu-warga-iran-lepas-ismail-haniyeh",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:43:57"
+    },
+    {
+      "judul": "Pemilik Daycare Depok Penganiaya Balita 'Akali' Izin, Perangainya Diungkap Istri Ketua RT",
+      "link_berita": "https://news.republika.co.id/berita/shj6xp487/pemilik-daycare-depok-penganiaya-balita-akali-izin-perangainya-diungkap-istri-ketua-rt",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:43:57"
+    },
+    {
+      "judul": "Kasus Kekerasan di Daycare Depok, KPAI Soroti Pentingnya CCTV untuk Orang Tua",
+      "link_berita": "https://ameera.republika.co.id/berita/shj6uf425/kasus-kekerasan-di-daycare-depok-kpai-soroti-pentingnya-cctv-untuk-orang-tua",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:41:57"
+    },
+    {
+      "judul": "Dorong Minat Baca Pelajar Lewat Perpustakaan Motor Keliling",
+      "link_berita": "https://visual.republika.co.id/berita/shj4ah375/dorong-minat-baca-pelajar-lewat-perpustakaan-motor-keliling",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:29:57"
+    },
+    {
+      "judul": "Lisa BLACKPINK Rilis MV Penampilan Panggung Spesial untuk 'ROCKSTAR' Bersama HolyBang",
+      "link_berita": "https://senandika.republika.co.id/genta/1734928913/lisa-blackpink-rilis-mv-penampilan-panggung-spesial-untuk-rockstar-bersama-holybang",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:26:57"
+    },
+    {
       "judul": "UMS Raih Peringkat Pertama se-PTS dan PTMA dalam Program Bantuan Biaya Luaran Prototipe",
       "link_berita": "https://rejogja.republika.co.id/berita/shj5wt291/ums-raih-peringkat-pertama-septs-dan-ptma-dalam-program-bantuan-biaya-luaran-prototipe",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:22:05"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:21:57"
     },
     {
       "judul": "Persis Kutuk Keras Israel atas Wafatnya Ismail Haniyeh",
       "link_berita": "https://khazanah.republika.co.id/berita/shj5m0451/persis-kutuk-keras-israel-atas-wafatnya-ismail-haniyeh",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:15:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "'Kolaborasi Pemerintah-Swasta Penting untuk Tingkatkan Rasio Ekspor UMKM'",
       "link_berita": "https://rejogja.republika.co.id/berita/shj5jd291/kolaborasi-pemerintahswasta-penting-untuk-tingkatkan-rasio-ekspor-umkm",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:14:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Uji Coba Makan Bergizi Gratis di Surabaya Dusebut Gerakan Ekonomi UMKM Hingga Ojol",
       "link_berita": "https://sekitarsurabaya.com/posts/322601/uji-coba-makan-bergizi-gratis-di-surabaya-dusebut-gerakan-ekonomi-umkm-hingga-ojol",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:12:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "PAN Sambut Baik Wacana KIM Plus di Pilgub DKI Jakarta dan Jateng",
       "link_berita": "https://news.republika.co.id/berita/shj5dj377/pan-sambut-baik-wacana-kim-plus-di-pilgub-dki-jakarta-dan-jateng",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:10:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Lanjutkan Kemeriahan HUT ke-32, BRI-MI Gelar Anniversary Dinner 2024",
       "link_berita": "https://rejogja.republika.co.id/berita/shj58l291/lanjutkan-kemeriahan-hut-ke32-brimi-gelar-anniversary-dinner-2024",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:07:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Terbilang Efektif, MUI Minta Boikot Jangan Kendur",
       "link_berita": "https://www.republika.id/posts/54098/terbilang-efektif-mui-minta-boikot-jangan-kendur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:03:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Masyarakat Adat Brasil Tolak Pembangunan Jalur Kereta di Amazon",
       "link_berita": "https://esgnow.republika.co.id/berita/shj50i416/masyarakat-adat-brasil-tolak-pembangunan-jalur-kereta-di-amazon",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:02:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Khamenei Imami Sholat Jenazah untuk Ismail Haniyeh",
       "link_berita": "https://www.republika.id/posts/54099/khamenei-imami-sholat-jenazah-untuk-ismail-haniyeh",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:02:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Anwar Ibrahim Cium Bau Busuk di Balik Pembunuhan Ismail Haniyeh",
       "link_berita": "https://news.republika.co.id/berita/shj4zh377/anwar-ibrahim-cium-bau-busuk-di-balik-pembunuhan-ismail-haniyeh",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:02:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Sikap MUI tentang Penghapusan Sunat Perempuan dan Penjelasan Fatwa 9A/2008",
       "link_berita": "https://www.republika.id/posts/54097/sikap-mui-tentang-penghapusan-sunat-perempuan-dan-penjelasan-fatwa-9a2008",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:01:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Antusiasme Siswa Ikuti Uji Coba Makan Bergizi Gratis di Tangerang",
       "link_berita": "https://visual.republika.co.id/berita/shj3xu375/antusiasme-siswa-ikuti-uji-coba-makan-bergizi-gratis-di-tangerang",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:00:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Kasus Penganiayaan Anak di Day Care, Ini Ancaman Rasulullah untuk Pelaku Kekerasan",
       "link_berita": "https://khazanah.republika.co.id/berita/shj4u1458/kasus-penganiayaan-anak-di-day-care-ini-ancaman-rasulullah-untuk-pelaku-kekerasan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:58:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Pengaruh Ridwan Kamil dan Atalia Praratya Masih Tinggi di Pilwalkot Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/shj4pa512/pengaruh-ridwan-kamil-dan-atalia-praratya-masih-tinggi-di-pilwalkot-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:56:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Kasus Penganiayaan Daycare Meita Irianty, KPAI Buka Ruang Pengaduan",
       "link_berita": "https://senandika.republika.co.id/lentera/1734928757/kasus-penganiayaan-daycare-meita-irianty-kpai-buka-ruang-pengaduan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:53:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "Wapres Heran Mengapa PKB dan PBNU Saling Berkonflik",
       "link_berita": "https://news.republika.co.id/berita/shj4kz377/wapres-heran-mengapa-pkb-dan-pbnu-saling-berkonflik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:53:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 08:17:57"
     },
     {
       "judul": "PM Malaysia Meradang, Unggahannya Soal Haniyeh Dihapus Facebook",
       "link_berita": "https://news.republika.co.id/berita/shj49a393/pm-malaysia-meradang-unggahannya-soal-haniyeh-dihapus-facebook",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:46:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Ini Kondisi Wensen School, Daycare yang Lakukan Kekerasan Anak di Depok",
       "link_berita": "https://rejabar.republika.co.id/berita/shj3vi512/ini-kondisi-wensen-school-daycare-yang-lakukan-kekerasan-anak-di-depok",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:38:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Kendaraan Listrik di Medan Meningkat, PLN Tambah SPKLU Baru",
       "link_berita": "https://ekonomi.republika.co.id/berita/shj3uo349/kendaraan-listrik-di-medan-meningkat-pln-tambah-spklu-baru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:37:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Mengapa Pemimpin Hamas Ismail Haniyeh Dibunuh di Iran, Bukan Qatar?",
       "link_berita": "https://news.republika.co.id/berita/shj3o5377/mengapa-pemimpin-hamas-ismail-haniyeh-dibunuh-di-iran-bukan-qatar",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:33:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Iklim Berubah dengan Cepat Sebabkan Cuaca Ekstrem",
       "link_berita": "https://esgnow.republika.co.id/berita/shj3m7416/iklim-berubah-dengan-cepat-sebabkan-cuaca-ekstrem",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:32:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Wali Kota Semarang Hevearita Gunaryanti Rahayu Jalani Pemeriksaan di KPK",
       "link_berita": "https://visual.republika.co.id/berita/shj3l0375/wali-kota-semarang-hevearita-gunaryanti-rahayu-jalani-pemeriksaan-di-kpk",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:31:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Mulai Hari Ini, Bikin SKCK di Bandung Wajib Miliki BPJS Kesehatan",
       "link_berita": "https://rejabar.republika.co.id/berita/shj3g6512/mulai-hari-ini-bikin-skck-di-bandung-wajib-miliki-bpjs-kesehatan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:29:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Deflasi 0,18 Persen, Komoditas Penyumbangnya dari Bawang Merah, Tomat, Hingga Telur Ayam",
       "link_berita": "https://ekonomi.republika.co.id/berita/shj3c2370/deflasi-018-persen-komoditas-penyumbangnya-dari-bawang-merah-tomat-hingga-telur-ayam",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:26:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Pesantren di Jabar Dilatih Cara Pengolahan Sampah Biokonversi Atasi Sampah Organik",
       "link_berita": "https://rejabar.republika.co.id/berita/shj35z512/pesantren-di-jabar-dilatih-cara-pengolahan-sampah-biokonversi-atasi-sampah-organik",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Bayi Korban Kekerasan Daycare Depok Trauma & Dislokasi Tulang Akibat Dibanting Pelaku",
       "link_berita": "https://rejabar.republika.co.id/berita/shj34i282/bayi-korban-kekerasan-daycare-depok-trauma-dislokasi-tulang-akibat-dibanting-pelaku",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Sinopsis dan Jadwal Tayang Film HEARTBREAK MOTEL",
       "link_berita": "https://senandika.republika.co.id/genta/1734928625/sinopsis-dan-jadwal-tayang-film-heartbreak-motel",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Pameran Internasional IndoBeauty Expo 2024, Tampilkan Produk Industri Kosmetik",
       "link_berita": "https://ruzka.republika.co.id/ekonomi/1674928652/pameran-internasional-indobeauty-expo-2024-tampilkan-produk-industri-kosmetik",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Boikot Produk Terafiliasi Israel Tumbuhkan Produk Lokal",
       "link_berita": "https://tv.republika.co.id/berita/shit9c418/boikot-produk-terafiliasi-israel-tumbuhkan-produk-lokal",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Ismail Haniyeh Wafat Dibunuh, Indonesia Diimbau Perkuat Boikot Produk Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/shj2vd451/ismail-haniyeh-wafat-dibunuh-indonesia-diimbau-perkuat-boikot-produk-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Polisi Butuh 3 Tahun untuk Tangkap Mafia Tanah Penipu Petani Salatiga Miliaran Rupiah",
       "link_berita": "https://rejogja.republika.co.id/berita/shj2lo282/polisi-butuh-3-tahun-untuk-tangkap-mafia-tanah-penipu-petani-salatiga-miliaran-rupiah",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Nurul Hikmah Peraih IPK Tertinggi Program Pascasarjana UGM dengan IPK 4.00, Begini Kiat Belajarnya",
       "link_berita": "https://kampus.republika.co.id/news/1624928615/nurul-hikmah-peraih-ipk-tertinggi-program-pascasarjana-ugm-dengan-ipk-400-begini-kiat-belajarnya",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Mafia Tanah Rampas 26.000 Meter Tanah Petani Salatiga, Rugi Rp 34 Miliar, Begini Modusnya",
       "link_berita": "https://rejogja.republika.co.id/berita/shj2b3282/mafia-tanah-rampas-26000-meter-tanah-petani-salatiga-rugi-rp-34-miliar-begini-modusnya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Jelang Final IBL 2024 Malam Ini, Satria Muda Lebih Unggul di Rekor Pertemuan",
       "link_berita": "https://news.republika.co.id/berita/shj29l348/jelang-final-ibl-2024-malam-ini-satria-muda-lebih-unggul-di-rekor-pertemuan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
       "judul": "Korban Daycare Meita di Depok dari RasaTrauma Hingga Dugaan Dislokasi Tulang",
       "link_berita": "https://news.republika.co.id/berita/shj28k377/korban-daycare-meita-di-depok-dari-rasatrauma-hingga-dugaan-dislokasi-tulang",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:17:57"
     },
     {
-      "judul": "Prancis Larang Atletnya Berhijab Saat Bertanding, Fahira: Mencederai Semangat Olimpiade",
-      "link_berita": "https://news.republika.co.id/berita/shj276490/prancis-larang-atletnya-berhijab-saat-bertanding-fahira-mencederai-semangat-olimpiade",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "judul": "Aktor Sonny Septian Alami Penyumbatan Pembuluh Darah, Ini Gejala dan Penyebabnya",
+      "link_berita": "https://ameera.republika.co.id/berita/shj7su425/aktor-sonny-septian-alami-penyumbatan-pembuluh-darah-ini-gejala-dan-penyebabnya",
+      "kategori": "Health",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 16:02:00"
     },
     {
-      "judul": "Perusahaan Semen SBI Tingkatkan Penggunaan Bahan Bakar Alternatif",
-      "link_berita": "https://esgnow.republika.co.id/berita/shiz4z416/perusahaan-semen-sbi-tingkatkan-penggunaan-bahan-bakar-alternatif",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
+      "judul": "Menko Marves Dukung Langkah Pertamina Kembangkan Bisnis CCS",
+      "link_berita": "https://esgnow.republika.co.id/berita/shj8f5416/menko-marves-dukung-langkah-pertamina-kembangkan-bisnis-ccs",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 16:16:00"
     },
     {
-      "judul": "Pola Asuh Anak dan Remaja di Era Digital Perlu Diterapkan dengan Baik oleh Para Orang Tua",
-      "link_berita": "https://ruzka.republika.co.id/edukasi/1674928582/pola-asuh-anak-dan-remaja-di-era-digital-perlu-diterapkan-dengan-baik-oleh-para-orang-tua",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
-    },
-    {
-      "judul": "Kemenag Buka Beasiswa Santri Berprestasi, 8.000 Santri Sudah Daftarkan Diri",
-      "link_berita": "https://kidnews.id/posts/322382/kemenag-buka-beasiswa-santri-berprestasi-8-000-santri-sudah-daftarkan-diri",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
-    },
-    {
-      "judul": "Konsumen Pilih Mobil Hybrid di GIIAS 2024, Ini Alasannya",
-      "link_berita": "https://motoresto.id/posts/322528/konsumen-pilih-mobil-hybrid-di-giias-2024-ini-alasannya",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
-    },
-    {
-      "judul": "Musim Kampanye Pilkada Belum Tiba, 219 Batang Pohon di Palembang Rusak",
-      "link_berita": "https://kingdomsriwijaya.id/posts/322595/musim-kampanye-pilkada-belum-tiba-219-batang-pohon-di-palembang-rusak",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 07:22:21"
-    },
-    {
-      "judul": "Jampidmil Kejagung Tahan Purnawirawan TNI Terkait Kredit Fiktif Rp 55 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/shj1s2377/jampidmil-kejagung-tahan-purnawirawan-tni-terkait-kredit-fiktif-rp-55-miliar",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "MUI Minta Umat Juga Boikot Produk dari Negara Islamofobia dan Pendukung LGBT",
-      "link_berita": "https://khazanah.republika.co.id/berita/shj1ra483/mui-minta-umat-juga-boikot-produk-dari-negara-islamofobia-dan-pendukung-lgbt",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "Jimin BTS Merilis Versi Bahasa Inggris Lagu 'Be Mine' dari Album Solo Kedua MUSE, Ketahui Detailnya",
-      "link_berita": "https://senandika.republika.co.id/genta/1734928525/jimin-bts-merilis-versi-bahasa-inggris-lagu-be-mine-dari-album-solo-kedua-muse-ketahui-detailnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "BPS: Pada Juli 2024 Terjadi Deflasi 0,18 Persen Secara Bulanan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/shj1fn370/bps-pada-juli-2024-terjadi-deflasi-018-persen-secara-bulanan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "Digelar INDO HEALTH CARE GAKESLAB EXPO 2024, Pameran Peralatan Kesehatan dan Laboratorium",
-      "link_berita": "https://ruzka.republika.co.id/ekonomi/1674928509/digelar-indo-health-care-gakeslab-expo-2024-pameran-peralatan-kesehatan-dan-laboratorium",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "Mengulas Terkikisnya Akhlak pada Anak dan Peranan Orang Tua",
-      "link_berita": "https://retizen.republika.co.id/posts/322565/mengulas-terkikisnya-akhlak-pada-anak-dan-peranan-orang-tua",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "Stray Kids dan Jimin Berebut Posisi di Billboard 200, K-Pop Punya 2 Album Teratas untuk Pertama Kalinya",
-      "link_berita": "https://senandika.republika.co.id/genta/1734928442/stray-kids-dan-jimin-berebut-posisi-di-billboard-200-k-pop-punya-2-album-teratas-untuk-pertama-kalinya",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "Republika Jabar Kembali Gelar Kegiatan Bebersih Leuweung di Gunung Putri Jayagiri Lembang",
-      "link_berita": "https://news.republika.co.id/berita/shj0x0512/republika-jabar-kembali-gelar-kegiatan-bebersih-leuweung-di-gunung-putri-jayagiri-lembang",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "75 Kepala Sekolah di Kota Bandung Deklarasikan Zero Bullying dan Program Jamuga",
-      "link_berita": "https://bandung24jam.id/posts/322588/75-kepala-sekolah-di-kota-bandung-deklarasikan-zero-bullying-dan-program-jamuga",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 06:22:21"
-    },
-    {
-      "judul": "Serial 'Squid Game' Musim 2 Tayang Mulai 26 Desember",
-      "link_berita": "https://ameera.republika.co.id/berita/shivr8425/serial-squid-game-musim-2-tayang-mulai-26-desember",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 11:42:00"
-    },
-    {
-      "judul": "Masyarakat Adat Brasil Tolak Pembangunan Jalur Kereta di Amazon",
-      "link_berita": "https://esgnow.republika.co.id/berita/shj50i416/masyarakat-adat-brasil-tolak-pembangunan-jalur-kereta-di-amazon",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 15:02:00"
-    },
-    {
-      "judul": "Kendaraan Listrik di Medan Meningkat, PLN Tambah SPKLU Baru",
-      "link_berita": "https://ekonomi.republika.co.id/berita/shj3uo349/kendaraan-listrik-di-medan-meningkat-pln-tambah-spklu-baru",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 14:37:00"
+      "judul": "BPS: Jumlah Penumpang Transportasi Udara dan Laut Naik pada Juni 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shj785370/bps-jumlah-penumpang-transportasi-udara-dan-laut-naik-pada-juni-2024",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 15:50:00"
     },
     {
       "judul": "Selektif Salurkan Pembiayaan Topang Kinerja BTPN Syariah Semester I 2024",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 31 Jul 2024, 21:46:00"
     },
     {
-      "judul": "PAN Sambut Baik Wacana KIM Plus di Pilgub DKI Jakarta dan Jateng",
-      "link_berita": "https://news.republika.co.id/berita/shj5dj377/pan-sambut-baik-wacana-kim-plus-di-pilgub-dki-jakarta-dan-jateng",
+      "judul": "Terduga Teroris Penumpang Kereta Eksekutif Ditangkap di Stasiun Solo Balapan",
+      "link_berita": "https://news.republika.co.id/berita/shj817487/terduga-teroris-penumpang-kereta-eksekutif-ditangkap-di-stasiun-solo-balapan",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 01 Aug 2024, 15:10:00"
+      "tanggal_terbit": "Thursday, 01 Aug 2024, 16:07:00"
     }
   ],
-  "waktu_scraping": "Thursday, 01 Aug 2024, 15:22:21"
+  "waktu_scraping": "Thursday, 01 Aug 2024, 16:17:57"
 }
