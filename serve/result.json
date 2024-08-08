@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Bacok Prajurit TNI AD, Dua Anggota Ormas dan Geng Motor di Medan Diciduk",
+      "link_berita": "https://news.republika.co.id/berita/shvudo484/bacok-prajurit-tni-ad-dua-anggota-ormas-dan-geng-motor-di-medan-diciduk"
+    },
+    {
+      "judul": "Yahya Sinwar di Medan Perang dan Mahmud Abbas Bermanuver di PBB",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvijx451/yahya-sinwar-di-medan-perang-dan-mahmud-abbas-bermanuver-di-pbb"
+    },
+    {
       "judul": "Klasemen Medali Olimpiade: AS di Atas, China Membuntuti, Indonesia Masih Kering",
       "link_berita": "https://news.republika.co.id/berita/shvpng348/klasemen-medali-olimpiade-as-di-atas-china-membuntuti-indonesia-masih-kering"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Bangkitnya Pejuang-Pejuang Muda Palestina di Tepi Barat",
       "link_berita": "https://news.republika.co.id/berita/shvlpi393/bangkitnya-pejuangpejuang-muda-palestina-di-tepi-barat"
-    },
-    {
-      "judul": "Kaesang Siap Lawan Ridwan Kamil di Pilgub DKI Jakarta, Ini Respons Golkar",
-      "link_berita": "https://news.republika.co.id/berita/shvk6i377/kaesang-siap-lawan-ridwan-kamil-di-pilgub-dki-jakarta-ini-respons-golkar"
-    },
-    {
-      "judul": "Jadi Sasaran Kerusuhan, Ternyata Muslim di Inggris Paling Dermawan",
-      "link_berita": "https://khazanah.republika.co.id/berita/shvi4p451/jadi-sasaran-kerusuhan-ternyata-muslim-di-inggris-paling-dermawan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Heboh Bapak Kost Makan Kucing untuk Obat Diabetes, Dokter Tegaskan Itu Hoaks",
+      "link_berita": "https://ameera.republika.co.id/berita/shvuit425/heboh-bapak-kost-makan-kucing-untuk-obat-diabetes-dokter-tegaskan-itu-hoaks"
+    },
+    {
+      "judul": "Menelusuri Jejak Masuknya Islam di Kalimantan",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvubh366/menelusuri-jejak-masuknya-islam-di-kalimantan"
+    },
     {
       "judul": "Video Haru Sopir Taksi Nyaris Pingsan Diduga Kena Angin Duduk, Ditolong Sesama Sopir",
       "link_berita": "https://ameera.republika.co.id/berita/shvql9425/video-haru-sopir-taksi-nyaris-pingsan-diduga-kena-angin-duduk-ditolong-sesama-sopir"
@@ -73,322 +81,314 @@
     {
       "judul": "Persija Jakarta Pastikan Berkandang di JIS untuk Liga 1 Musim 2024/2025",
       "link_berita": "https://news.republika.co.id/berita/shuz31409/persija-jakarta-pastikan-berkandang-di-jis-untuk-liga-1-musim-20242025"
-    },
-    {
-      "judul": "Sempat Menolak, Irma Terpaksa Menikah dengan Pembunuh karena Sang Ayah Diancam Dihabisi",
-      "link_berita": "https://news.republika.co.id/berita/shuq04377/sempat-menolak-irma-terpaksa-menikah-dengan-pembunuh-karena-sang-ayah-diancam-dihabisi"
-    },
-    {
-      "judul": "China: Pembunuhan Pemimpin Hamas Ismail Haniyeh Langgar Piagam PBB",
-      "link_berita": "https://news.republika.co.id/berita/shuwq4320/china-pembunuhan-pemimpin-hamas-ismail-haniyeh-langgar-piagam-pbb"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pedagang Pernak-pernik HUT RI Mengaku Alami Penurunan Omset",
+      "link_berita": "https://tv.republika.co.id/berita/shvvw2418/pedagang-pernakpernik-hut-ri-mengaku-alami-penurunan-omset",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:14:36"
+    },
+    {
+      "judul": "Yahya Sinwar Pimpin Hamas, ini 2 Hal Strategis yang Dilakukan Indonesia terkait Palestina",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvvv1451/yahya-sinwar-pimpin-hamas-ini-2-hal-strategis-yang-dilakukan-indonesia-terkait-palestina",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:13:36"
+    },
+    {
+      "judul": "Antisipsi Kebakaran di Musim Kemarau, Kuningan Persiapkan Sekat Bakar dan Embung",
+      "link_berita": "https://rejabar.republika.co.id/berita/shvvtx512/antisipsi-kebakaran-di-musim-kemarau-kuningan-persiapkan-sekat-bakar-dan-embung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:13:36"
+    },
+    {
+      "judul": "Muslim Inggris Paling Dermawan tapi Tetap Dibenci, Teringat Kisah Nabi Muhammad",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvuyf430/muslim-inggris-paling-dermawan-tapi-tetap-dibenci-teringat-kisah-nabi-muhammad",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:09:36"
+    },
+    {
+      "judul": "Kebakaran Hanguskan Dua Unit Toko Sepatu dan Tas di Cibaduyut",
+      "link_berita": "https://rejabar.republika.co.id/berita/shvveq512/kebakaran-hanguskan-dua-unit-toko-sepatu-dan-tas-di-cibaduyut",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:03:36"
+    },
+    {
+      "judul": "Infografis Ramai-Ramai Menolak Penyediaan Alat Kontrasepsi untuk Pelajar",
+      "link_berita": "https://visual.republika.co.id/berita/shvvcq430/infografis-ramairamai-menolak-penyediaan-alat-kontrasepsi-untuk-pelajar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:02:36"
+    },
+    {
+      "judul": "Naik Skuter Listrik Saat Mabuk, Suga BTS Jatuh Ketika Mau Parkir di Rumah",
+      "link_berita": "https://ameera.republika.co.id/berita/shvv9i425/naik-skuter-listrik-saat-mabuk-suga-bts-jatuh-ketika-mau-parkir-di-rumah",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:00:36"
+    },
+    {
+      "judul": "Viral Disebut Lakukan Premanisme Terhadap Tiktoker, Ini Klarifikasi Pemuda Cirebon",
+      "link_berita": "https://rejabar.republika.co.id/berita/shvuzw512/viral-disebut-lakukan-premanisme-terhadap-tiktoker-ini-klarifikasi-pemuda-cirebon",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:55:36"
+    },
+    {
+      "judul": "Muslim Inggris Paling Dermawan Tapi Masih Jadi Sasaran Kebencian, Ini Kata FOZ",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvusy430/muslim-inggris-paling-dermawan-tapi-masih-jadi-sasaran-kebencian-ini-kata-foz",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:50:36"
+    },
+    {
+      "judul": "Kasus Demurrage Impor Beras Disebut Kegagalan Bapanas-Bulog Hadirkan Ketahanan Pangan",
+      "link_berita": "https://genpop.republika.co.id/posts/323717/kasus-demurrage-impor-beras-disebut-kegagalan-bapanas-bulog-hadirkan-ketahanan-pangan",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:49:36"
+    },
+    {
+      "judul": "Pendirian Tempat Ibadah tak Perlu Rekomendasi FKUB, MUI tak Mau Gegabah",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvuj0430/pendirian-tempat-ibadah-tak-perlu-rekomendasi-fkub-mui-tak-mau-gegabah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:44:36"
+    },
+    {
+      "judul": "Heboh Bapak Kost Makan Kucing untuk Obat Diabetes, Dokter Tegaskan Itu Hoaks",
+      "link_berita": "https://ameera.republika.co.id/berita/shvuit425/heboh-bapak-kost-makan-kucing-untuk-obat-diabetes-dokter-tegaskan-itu-hoaks",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:44:36"
+    },
+    {
+      "judul": "Bacok Prajurit TNI AD, Dua Anggota Ormas dan Geng Motor di Medan Diciduk",
+      "link_berita": "https://news.republika.co.id/berita/shvudo484/bacok-prajurit-tni-ad-dua-anggota-ormas-dan-geng-motor-di-medan-diciduk",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:41:36"
+    },
+    {
+      "judul": "Menelusuri Jejak Masuknya Islam di Kalimantan",
+      "link_berita": "https://khazanah.republika.co.id/berita/shvubh366/menelusuri-jejak-masuknya-islam-di-kalimantan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:40:36"
+    },
+    {
+      "judul": "Pelajar Indonesia Raih Juara Kompetisi Next Generation Innovations",
+      "link_berita": "https://news.republika.co.id/berita/shvioc451/pelajar-indonesia-raih-juara-kompetisi-next-generation-innovations",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:33:36"
+    },
+    {
+      "judul": "Aktris Han Ji Min Konfirmasi Hubungan dengan Vokalis Band Rock Indie Choi Jung Hoon",
+      "link_berita": "https://senandika.republika.co.id/genta/1734953341/aktris-han-ji-min-konfirmasi-hubungan-dengan-vokalis-band-rock-indie-choi-jung-hoon",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:24:36"
+    },
+    {
       "judul": "Bea Cukai Bebaskan Bea Masuk Peralatan untuk Mencegah Pencemaran Lingkungan",
       "link_berita": "https://republika.co.id/berita/shvt4t370/bea-cukai-bebaskan-bea-masuk-peralatan-untuk-mencegah-pencemaran-lingkungan",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:15:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Tujuh Isu Keberlanjutan Ini Perlu Diperhatikan Prabowo-Gibran",
       "link_berita": "https://esgnow.republika.co.id/berita/shvt20416/tujuh-isu-keberlanjutan-ini-perlu-diperhatikan-prabowogibran",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:13:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Yahya Sinwar di Medan Perang dan Mahmud Abbas Bermanuver di PBB",
       "link_berita": "https://khazanah.republika.co.id/berita/shvijx451/yahya-sinwar-di-medan-perang-dan-mahmud-abbas-bermanuver-di-pbb",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:09:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Indramayu Perluas Areal Tanam Baru, Terbesar di Indonesia",
       "link_berita": "https://rejabar.republika.co.id/berita/shvsop512/indramayu-perluas-areal-tanam-baru-terbesar-di-indonesia",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:05:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "UMKM Banana Lite Jakarta Dapat Sentuhan Digital dari Mahasiswa Universitas BSI",
       "link_berita": "https://news.republika.co.id/berita/shvsn8370/umkm-banana-lite-jakarta-dapat-sentuhan-digital-dari-mahasiswa-universitas-bsi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:04:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Kemenag Gelar Simposium Internasional Masjid Ramah Lingkungan pada September",
       "link_berita": "https://khazanah.republika.co.id/berita/shvsir366/kemenag-gelar-simposium-internasional-masjid-ramah-lingkungan-pada-september",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:01:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Pakar Ungkap Alasan Harga Pertamax Perlu Dinaikkan",
       "link_berita": "https://genpop.republika.co.id/posts/323731/pakar-ungkap-alasan-harga-pertamax-perlu-dinaikkan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:01:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
-      "judul": "Ungkap Kasus Vina, Kuasa Hukum Pegi Minta Timsus Kapolri Konfrontir Tiga Saksi Ini",
-      "link_berita": "https://rejabar.republika.co.id/berita/shvsgm512/ungkap-kasus-vina-kuasa-hukum-pegi-minta-timsus-kapolri-konfrontir-tiga-saksi-ini",
+      "judul": "Ungkap Kasus Vina, Kuasa Hukum Pegi Minta Timsus Kapolri Konfrontasi Tiga Saksi Ini",
+      "link_berita": "https://rejabar.republika.co.id/berita/shvsgm512/ungkap-kasus-vina-kuasa-hukum-pegi-minta-timsus-kapolri-konfrontasi-tiga-saksi-ini",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:00:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Unand Gelar KKN MBKM Kebencanaan di Wilayah Bencana Sumbar",
       "link_berita": "https://kampus.republika.co.id/news/1624953234/unand-gelar-kkn-mbkm-kebencanaan-di-wilayah-bencana-sumbar",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:59:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Kemenag Gelar Simposium Internasional Masjid Inovatif September di Solo",
       "link_berita": "https://rejogja.republika.co.id/berita/shvsfg282/kemenag-gelar-simposium-internasional-masjid-inovatif-september-di-solo",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:59:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Aksi Nyata Dirut PNM: Empowering Perempuan, Mengubah Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/shvsbp370/aksi-nyata-dirut-pnm-empowering-perempuan-mengubah-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:57:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Pengakuan Bapak Kost Makan Kucing: Saya Tadi Makan Kucing yang Cokelat",
       "link_berita": "https://ameera.republika.co.id/berita/shvs7u425/pengakuan-bapak-kost-makan-kucing-saya-tadi-makan-kucing-yang-cokelat",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:55:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:17:36"
     },
     {
       "judul": "Keluarga Irma Bakal Laporkan Orang Tua Pelaku ke Polisi Diduga Mengetahui Aksi Pembunuhan",
       "link_berita": "https://rejabar.republika.co.id/berita/shvrug512/keluarga-irma-bakal-laporkan-orang-tua-pelaku-ke-polisi-diduga-mengetahui-aksi-pembunuhan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:47:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Kejati DIY Tangkap DPO Penipuan Haji Plus di Sleman",
       "link_berita": "https://rejogja.republika.co.id/berita/shvrld291/kejati-diy-tangkap-dpo-penipuan-haji-plus-di-sleman",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:41:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Rencana Penyelamatan SpaceX NASA Bakal Bikin Astronot Boeing Telantar Selama 8 Bulan",
       "link_berita": "https://impresi.republika.co.id/news/1694953097/rencana-penyelamatan-spacex-nasa-bakal-bikin-astronot-boeing-telantar-selama-8-bulan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:40:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Bank Bjb Raih Katadata Green Initiative Awards 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/shvrco370/bank-bjb-raih-katadata-green-initiative-awards-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:36:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Jalan Pintas Jadi Crazy Rich Mahasiswa ala BSI Entrepreneur Center",
       "link_berita": "https://news.republika.co.id/berita/shvr69370/jalan-pintas-jadi-crazy-rich-mahasiswa-ala-bsi-entrepreneur-center",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:32:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Agar Selamat, Sebelum Melaju di Jalan Tol Pahami Ketentuan Ini",
       "link_berita": "https://motoresto.id/posts/323704/agar-selamat-sebelum-melaju-di-jalan-tol-pahami-ketentuan-ini",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:29:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Sutradara Twin Peaks David Lynch Umumkan Mengidap Emfisema, Apa Itu?",
       "link_berita": "https://impresiupdate.id/posts/323720/sutradara-twin-peaks-david-lynch-umumkan-mengidap-emfisema-apa-itu-",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:29:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Pasar Cinde Palembang, Cagar Budaya yang Terkubur",
       "link_berita": "https://sumatralink.id/posts/323726/pasar-cinde-palembang-cagar-budaya-yang-terkubur",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:29:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Program MBKM Bikin Kuliah Jadi Lebih Seru dan Bermanfaat di Universitas BSI",
       "link_berita": "https://news.republika.co.id/berita/shvqxe370/program-mbkm-bikin-kuliah-jadi-lebih-seru-dan-bermanfaat-di-universitas-bsi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:27:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Perubahan Iklim Membuat Badai Kian Mengerikan",
       "link_berita": "https://esgnow.republika.co.id/berita/shvqot416/perubahan-iklim-membuat-badai-kian-mengerikan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Erick Tingkatkan Setoran Pajak BUMN untuk Negara Hingga Rp 439 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/shvqmt370/erick-tingkatkan-setoran-pajak-bumn-untuk-negara-hingga-rp-439-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Video Haru Sopir Taksi Nyaris Pingsan Diduga Kena Angin Duduk, Ditolong Sesama Sopir",
       "link_berita": "https://ameera.republika.co.id/berita/shvql9425/video-haru-sopir-taksi-nyaris-pingsan-diduga-kena-angin-duduk-ditolong-sesama-sopir",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Komisi VIII Jaring Saran dan Kritik soal Haji 2024, Ini Pengakuan Jamaah Sebenarnya",
       "link_berita": "https://khazanah.republika.co.id/berita/shvflj451/komisi-viii-jaring-saran-dan-kritik-soal-haji-2024-ini-pengakuan-jamaah-sebenarnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Ungkap Kasus Vina, Kuasa Hukum Pegi Minta Timsus Kapolri Konfrontir 3 Saksi, Siapa Saja?",
       "link_berita": "https://news.republika.co.id/berita/shvpt2377/ungkap-kasus-vina-kuasa-hukum-pegi-minta-timsus-kapolri-konfrontir-3-saksi-siapa-saja",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Klasemen Medali Olimpiade: AS di Atas, China Membuntuti, Indonesia Masih Kering",
       "link_berita": "https://news.republika.co.id/berita/shvpng348/klasemen-medali-olimpiade-as-di-atas-china-membuntuti-indonesia-masih-kering",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 03:17:36"
     },
     {
       "judul": "Ministry of Religious Affairs Holds National Evaluation of Hajj 2024",
       "link_berita": "https://en.republika.co.id/berita/shvmw1415/ministry-of-religious-affairs-holds-national-evaluation-of-hajj-2024",
       "kategori": "En",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:17:36"
     },
     {
       "judul": "Ministry of Religious Affairs Holds National Evaluation of Hajj 2024",
       "link_berita": "https://en.republika.co.id/berita/shvmw1415/ministry-of-religious-affairs-holds-national-evaluation-of-hajj-2024",
       "kategori": "En",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:17:36"
     },
     {
       "judul": "Iran Gunakan Hak Bela Diri Sah Lawan Israel",
       "link_berita": "https://news.republika.co.id/berita/shvooi377/iran-gunakan-hak-bela-diri-sah-lawan-israel",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:17:36"
     },
     {
       "judul": "Bapak Kost Makan Kucing di Semarang, Barang Bukti Penanak Nasi Hingga Potongan Tulang",
       "link_berita": "https://news.republika.co.id/berita/shvof2425/bapak-kost-makan-kucing-di-semarang-barang-bukti-penanak-nasi-hingga-potongan-tulang",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:17:36"
     },
     {
       "judul": "Doa Agar Mudah Tidur",
       "link_berita": "https://iqra.republika.co.id/berita/shvoed430/doa-agar-mudah-tidur",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:17:36"
     },
     {
       "judul": "Begini Alur Perjalanan Tamu Negara Menuju IKN",
       "link_berita": "https://news.republika.co.id/berita/shvo8y370/begini-alur-perjalanan-tamu-negara-menuju-ikn",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:17:36"
     },
     {
       "judul": "Menko Polhukam Claims IKN is Ready for RI Anniversary Ceremony",
       "link_berita": "https://en.republika.co.id/berita/shvmrd415/menko-polhukam-claims-ikn-is-ready-for-ri-anniversary-ceremony",
       "kategori": "En",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:23:18"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 05:17:36"
     },
     {
-      "judul": "Wuih...Drake Unggah 100 Gigabyte Data Termasuk Tiga Lagu Baru ke Situs Web Baru",
-      "link_berita": "https://impresi.republika.co.id/news/1694952809/wuihdrake-unggah-100-gigabyte-data-termasuk-tiga-lagu-baru-ke-situs-web-baru",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
-    },
-    {
-      "judul": "Gen Z Dinilai Lebih 'Pintar' Pilih Produk Kecantikan Dibandingkan Generasi Milenial",
-      "link_berita": "https://ameera.republika.co.id/berita/shvnh9425/gen-z-dinilai-lebih-pintar-pilih-produk-kecantikan-dibandingkan-generasi-milenial",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
-    },
-    {
-      "judul": "Dua Orang Ditangkap, Polisi Gagalkan Serangan Teror Konser Eras Tour Taylor Swift",
-      "link_berita": "https://impresi.republika.co.id/musik/1694952735/dua-orang-ditangkap-polisi-gagalkan-serangan-teror-konser-eras-tour-taylor-swift",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
-    },
-    {
-      "judul": "Yahya Sinwar: Pengungsi, Pendiri Hamas, Narapidana Israel, Hingga Gantikan Haniyeh",
-      "link_berita": "https://khazanah.republika.co.id/berita/shvgyr451/yahya-sinwar-pengungsi-pendiri-hamas-narapidana-israel-hingga-gantikan-haniyeh",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
-    },
-    {
-      "judul": "Sustain Kelola Manajemen Risiko, PLN Sabet Penghargaan di ASEAN Risk Award 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/shvmy8370/sustain-kelola-manajemen-risiko-pln-sabet-penghargaan-di-asean-risk-award-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 02:23:18"
-    },
-    {
-      "judul": "Eko Yuli Apologizes to All Indonesian People",
-      "link_berita": "https://en.republika.co.id/berita/shvmol415/eko-yuli-apologizes-to-all-indonesian-people",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 04:23:18"
-    },
-    {
-      "judul": "Usia Harapan Hidup Kucing di Indonesia Rendah, Hanya di Bawah 6 Tahun",
-      "link_berita": "https://ameera.republika.co.id/berita/shvlwp425/usia-harapan-hidup-kucing-di-indonesia-rendah-hanya-di-bawah-6-tahun",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Mazda Tarik Kembali CX-60 dan CX-90 di Australia karena Masalah Transmisi",
-      "link_berita": "https://motoresto.id/posts/323665/mazda-tarik-kembali-cx-60-dan-cx-90-di-australia-karena-masalah-transmisi",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Antisipasi Kelaparan dan Cuaca Ekstrem Pemerintah Bangun Gudang Logistik Tambahan di Papua Tengah",
-      "link_berita": "https://topnews62.com/posts/323699/antisipasi-kelaparan-dan-cuaca-ekstrem-pemerintah-bangun-gudang-logistik-tambahan-di-papua-tengah",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Bangkitnya Pejuang-Pejuang Muda Palestina di Tepi Barat",
-      "link_berita": "https://news.republika.co.id/berita/shvlpi393/bangkitnya-pejuangpejuang-muda-palestina-di-tepi-barat",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Jateng Pantau Kematian Lima Sapi Secara Misterius di Gunungpati",
-      "link_berita": "https://rejogja.republika.co.id/berita/shvlm2291/jateng-pantau-kematian-lima-sapi-secara-misterius-di-gunungpati",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "OKI: Langgar Hukum Internasional, Israel Bertanggung Jawab atas Pembunuhan Ismail Haniyeh",
-      "link_berita": "https://khazanah.republika.co.id/berita/shvllu366/oki-langgar-hukum-internasional-israel-bertanggung-jawab-atas-pembunuhan-ismail-haniyeh",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Pangkogabwilhan III: Helikopter yang Diserang OPM Masih Utuh",
-      "link_berita": "https://news.republika.co.id/berita/shvli6484/pangkogabwilhan-iii-helikopter-yang-diserang-opm-masih-utuh",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "OKP Apresiasi Program Kepemimpinan Pemuda Kemenpora, Yakin IPP Bisa Naik Signifikan",
-      "link_berita": "https://rejogja.republika.co.id/berita/shvlel291/okp-apresiasi-program-kepemimpinan-pemuda-kemenpora-yakin-ipp-bisa-naik-signifikan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Arema FC Siap Jaga Kepercayaan Warga Kota Blitar",
-      "link_berita": "https://news.republika.co.id/berita/shvg3w348/arema-fc-siap-jaga-kepercayaan-warga-kota-blitar",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Yahya Sinwar Jadi Pemimpin, Hamas Total War Habisi Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/shvfz7451/yahya-sinwar-jadi-pemimpin-hamas-total-war-habisi-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 01:23:18"
-    },
-    {
-      "judul": "Pengakuan Bapak Kost Makan Kucing: Saya Tadi Makan Kucing yang Cokelat",
-      "link_berita": "https://ameera.republika.co.id/berita/shvs7u425/pengakuan-bapak-kost-makan-kucing-saya-tadi-makan-kucing-yang-cokelat",
+      "judul": "Naik Skuter Listrik Saat Mabuk, Suga BTS Jatuh Ketika Mau Parkir di Rumah",
+      "link_berita": "https://ameera.republika.co.id/berita/shvv9i425/naik-skuter-listrik-saat-mabuk-suga-bts-jatuh-ketika-mau-parkir-di-rumah",
       "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:55:00"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:00:00"
     },
     {
       "judul": "Tujuh Isu Keberlanjutan Ini Perlu Diperhatikan Prabowo-Gibran",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 07 Aug 2024, 21:14:00"
     },
     {
-      "judul": "UMKM Banana Lite Jakarta Dapat Sentuhan Digital dari Mahasiswa Universitas BSI",
-      "link_berita": "https://news.republika.co.id/berita/shvsn8370/umkm-banana-lite-jakarta-dapat-sentuhan-digital-dari-mahasiswa-universitas-bsi",
-      "kategori": "Bina Sarana Informatika",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:04:00"
+      "judul": "Bacok Prajurit TNI AD, Dua Anggota Ormas dan Geng Motor di Medan Diciduk",
+      "link_berita": "https://news.republika.co.id/berita/shvudo484/bacok-prajurit-tni-ad-dua-anggota-ormas-dan-geng-motor-di-medan-diciduk",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:41:00"
     }
   ],
-  "waktu_scraping": "Thursday, 08 Aug 2024, 11:23:18"
+  "waktu_scraping": "Thursday, 08 Aug 2024, 12:17:36"
 }
