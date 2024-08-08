@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Veddriq Leonardo: Medali Emas Olimpiade Ini untuk Kado HUT ke-79 RI",
+      "link_berita": "https://news.republika.co.id/berita/shwi6g348/veddriq-leonardo-medali-emas-olimpiade-ini-untuk-kado-hut-ke79-ri"
+    },
+    {
       "judul": "Berhasil Sumbang Medali Emas, Veddriq Leonardo Ternyata Alumni Ninja Warrior",
       "link_berita": "https://news.republika.co.id/berita/shwfm7490/berhasil-sumbang-medali-emas-veddriq-leonardo-ternyata-alumni-ninja-warrior"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Polisi Bakal Periksa Kejiwaan Bapak Kost yang Makan Kucing",
       "link_berita": "https://news.republika.co.id/berita/shwa29425/polisi-bakal-periksa-kejiwaan-bapak-kost-yang-makan-kucing"
-    },
-    {
-      "judul": "Nagasaki Tolak Undang Israel untuk Peringati Bom Atom, Negara Barat Ngambek",
-      "link_berita": "https://news.republika.co.id/berita/shw95x393/nagasaki-tolak-undang-israel-untuk-peringati-bom-atom-negara-barat-ngambek"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Awan Mendung, Pertumbuhan Ekonomi Indonesia di Semester II 2024 Diramal Melambat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shwk5a490/awan-mendung-pertumbuhan-ekonomi-indonesia-di-semester-ii-2024-diramal-melambat"
+    },
+    {
+      "judul": "Sosok Yahya Sinwar Dinilai Perkuat Relasi Hamas dengan Iran",
+      "link_berita": "https://khazanah.republika.co.id/berita/shwj6t483/sosok-yahya-sinwar-dinilai-perkuat-relasi-hamas-dengan-iran"
+    },
+    {
+      "judul": "Viral Kursi Penonton di Stadion Si Jalak Harupat Rusak Jelang Liga 1 Bergulir",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwifz512/viral-kursi-penonton-di-stadion-si-jalak-harupat-rusak-jelang-liga-1-bergulir"
+    },
     {
       "judul": "Impor Ilegal dan Kecurigaan Isi Kontainer Impor yang Tiba-Tiba Diloloskan",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwft1502/impor-ilegal-dan-kecurigaan-isi-kontainer-impor-yang-tibatiba-diloloskan"
@@ -69,320 +81,308 @@
     {
       "judul": "Yahya Sinwar: Pengungsi, Pendiri Hamas, Narapidana Israel, Hingga Gantikan Haniyeh",
       "link_berita": "https://khazanah.republika.co.id/berita/shvgyr451/yahya-sinwar-pengungsi-pendiri-hamas-narapidana-israel-hingga-gantikan-haniyeh"
-    },
-    {
-      "judul": "Pangkogabwilhan III: Helikopter yang Diserang OPM Masih Utuh",
-      "link_berita": "https://news.republika.co.id/berita/shvli6484/pangkogabwilhan-iii-helikopter-yang-diserang-opm-masih-utuh"
-    },
-    {
-      "judul": "Dijatuhkan Lobi Yahudi, Wakil Rakyat AS Bersumpah Runtuhkan AIPAC",
-      "link_berita": "https://news.republika.co.id/berita/shvjpj393/dijatuhkan-lobi-yahudi-wakil-rakyat-as-bersumpah-runtuhkan-aipac"
-    },
-    {
-      "judul": "Partai Penyokong Pernikahan Sejenis di Thailand Dibubarkan",
-      "link_berita": "https://news.republika.co.id/berita/shvib7393/partai-penyokong-pernikahan-sejenis-di-thailand-dibubarkan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Tiga Mahasiswa Indonesia Raih Beasiswa Senilai RM 127.300 di Kompetisi Internasional",
+      "link_berita": "https://news.republika.co.id/berita/shwcm1456/tiga-mahasiswa-indonesia-raih-beasiswa-senilai-rm-127300-di-kompetisi-internasional",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 14:07:16"
+    },
+    {
+      "judul": "Bus KPK hadir di halaman Gedung Sate, Ini Tujuannya",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwkjg512/bus-kpk-hadir-di-halaman-gedung-sate-ini-tujuannya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 14:07:16"
+    },
+    {
+      "judul": "Bandara Kertajati akan Layani Penerbangan Menuju Singapura Mulai September 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shwkeg490/bandara-kertajati-akan-layani-penerbangan-menuju-singapura-mulai-september-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 14:04:16"
+    },
+    {
+      "judul": "Dua Bulan, Polisi di Cirebon Bongkar 21 Kasus Sabu-Sabu dan OKT",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwkcj512/dua-bulan-polisi-di-cirebon-bongkar-21-kasus-sabusabu-dan-okt",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 14:02:16"
+    },
+    {
+      "judul": "Ekonomi Syariah Perlu Lebih Disosialisasikan dan Dipraktikkan",
+      "link_berita": "https://retizen.republika.co.id/posts/323841/ekonomi-syariah-perlu-lebih-disosialisasikan-dan-dipraktikkan",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 14:01:16"
+    },
+    {
+      "judul": "Mau Beralih dari Ngopi? Cobalah 3 Minuman Sehat Ini di Pagi Hari!",
+      "link_berita": "https://retizen.republika.co.id/posts/323853/mau-beralih-dari-ngopi-cobalah-3-minuman-sehat-ini-di-pagi-hari",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:59:16"
+    },
+    {
+      "judul": "Awan Mendung, Pertumbuhan Ekonomi Indonesia di Semester II 2024 Diramal Melambat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shwk5a490/awan-mendung-pertumbuhan-ekonomi-indonesia-di-semester-ii-2024-diramal-melambat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:58:16"
+    },
+    {
+      "judul": "Jelang Nataru, TPID di Jabar Susun Strategi Jaga Stabilitas Harga",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwk4k512/jelang-nataru-tpid-di-jabar-susun-strategi-jaga-stabilitas-harga",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:58:16"
+    },
+    {
+      "judul": "Kereta Api Perkotaan Semakin Jadi Solusi Transportasi Masyarakat Urban Jabodetabek",
+      "link_berita": "https://kreta.id/posts/323848/kereta-api-perkotaan-semakin-jadi-solusi-transportasi-masyarakat-urban-jabodetabek",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:57:16"
+    },
+    {
+      "judul": "Perluas Jangkauan BPJS, Wapres Sebut Tokoh Masyarakat dan Tokoh Agama Perlu Dilibatkan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shwjrc490/perluas-jangkauan-bpjs-wapres-sebut-tokoh-masyarakat-dan-tokoh-agama-perlu-dilibatkan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:50:16"
+    },
+    {
+      "judul": "LPPM UNM Gelar Coaching Clinic Penulisan Artikel Ilmiah untuk Jurnal Internasional",
+      "link_berita": "https://news.republika.co.id/berita/shwjg7490/lppm-unm-gelar-coaching-clinic-penulisan-artikel-ilmiah-untuk-jurnal-internasional",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:43:16"
+    },
+    {
+      "judul": "Polresta Cirebon Musnahkan Ribuan Miras",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwjbx512/polresta-cirebon-musnahkan-ribuan-miras",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:40:16"
+    },
+    {
+      "judul": "Sosok Yahya Sinwar Dinilai Perkuat Relasi Hamas dengan Iran",
+      "link_berita": "https://khazanah.republika.co.id/berita/shwj6t483/sosok-yahya-sinwar-dinilai-perkuat-relasi-hamas-dengan-iran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:37:16"
+    },
+    {
+      "judul": "Syakirah: Mahasiswa, Cari Ilmu dan Pengalaman di Luar Kelas agar Berwawasan",
+      "link_berita": "https://news.republika.co.id/berita/shwj1w490/syakirah-mahasiswa-cari-ilmu-dan-pengalaman-di-luar-kelas-agar-berwawasan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:34:16"
+    },
+    {
+      "judul": "Bojan Hodak Sebut Laga Perdana Bakal Sulit Hadapi PSBS",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwiru512/bojan-hodak-sebut-laga-perdana-bakal-sulit-hadapi-psbs",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:28:16"
+    },
+    {
+      "judul": "Revolusi Ujian Sekolah, Mahasiswa Universitas BSI Beri Sentuhan Digital di SMK IP YAKIN",
+      "link_berita": "https://news.republika.co.id/berita/shwim5490/revolusi-ujian-sekolah-mahasiswa-universitas-bsi-beri-sentuhan-digital-di-smk-ip-yakin",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:25:16"
+    },
+    {
+      "judul": "Viral Kursi Penonton di Stadion Si Jalak Harupat Rusak Jelang Liga 1 Bergulir",
+      "link_berita": "https://rejabar.republika.co.id/berita/shwifz512/viral-kursi-penonton-di-stadion-si-jalak-harupat-rusak-jelang-liga-1-bergulir",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:21:16"
+    },
+    {
+      "judul": "Rakor Pembinaan dan Pengawasan Pemerintah, Pemkot Depok Ingatkan Pentingnya Koordinasi",
+      "link_berita": "https://ruzka.republika.co.id/serba-serbi/1674955622/rakor-pembinaan-dan-pengawasan-pemerintah-pemkot-depok-ingatkan-pentingnya-koordinasi",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:17:16"
+    },
+    {
       "judul": "Veddriq Leonardo: Medali Emas Olimpiade Ini untuk Kado HUT ke-79 RI",
       "link_berita": "https://news.republika.co.id/berita/shwi6g348/veddriq-leonardo-medali-emas-olimpiade-ini-untuk-kado-hut-ke79-ri",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:15:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Larangan Berfoto di Rumah Milea Buat Para Wisatawan Kecewa",
       "link_berita": "https://rejabar.republika.co.id/berita/shwi57512/larangan-berfoto-di-rumah-milea-buat-para-wisatawan-kecewa",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:15:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Masyarakat Adat Kerap Diabaikan dalam Upaya Konservasi",
       "link_berita": "https://esgnow.republika.co.id/berita/shwhsv416/masyarakat-adat-kerap-diabaikan-dalam-upaya-konservasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:07:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Target Pertumbuhan Ekonomi 8 Persen Diyakini Bisa Dicapai dengan 'Usaha Lestari'",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwcb9456/target-pertumbuhan-ekonomi-8-persen-diyakini-bisa-dicapai-dengan-usaha-lestari",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:05:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Dilempari Kotoran oleh Nenek Yahudi, Begini Cara Rasulullah Membalas",
       "link_berita": "https://khazanah.republika.co.id/berita/shwhke483/dilempari-kotoran-oleh-nenek-yahudi-begini-cara-rasulullah-membalas",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:02:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Wapres Maruf Amin Hadiri Universal Health Coverage Awards 2024",
       "link_berita": "https://visual.republika.co.id/berita/shwfop375/wapres-maruf-amin-hadiri-universal-health-coverage-awards-2024",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:00:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Kelola Keuangan Lebih Mudah, SMP Islam Al-Muttaqin Terima Hibah Aplikasi",
       "link_berita": "https://news.republika.co.id/berita/shwhe7490/kelola-keuangan-lebih-mudah-smp-islam-almuttaqin-terima-hibah-aplikasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:58:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Wapres Ma'ruf Amin Berikan Penghargaan UHC Awards kepada 493 Kepala Daerah",
       "link_berita": "https://rejabar.republika.co.id/berita/shwhdd512/wapres-maruf-amin-berikan-penghargaan-uhc-awards-kepada-493-kepala-daerah",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:58:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "PLN Sebut RUPTL Terbaru akan Menjadi yang Terhijau Sepanjang Sejarah",
       "link_berita": "https://esgnow.republika.co.id/berita/shw93y456/pln-sebut-ruptl-terbaru-akan-menjadi-yang-terhijau-sepanjang-sejarah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:57:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Banyak Huru-hara Terjadi Belakangan Ini, Pertanda Akhir Zaman Jelang Kiamat?",
       "link_berita": "https://iqra.republika.co.id/berita/shwh99320/banyak-huruhara-terjadi-belakangan-ini-pertanda-akhir-zaman-jelang-kiamat",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:56:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "15 Koperasi Tampil Semarakkan Hari Koperasi di Depok, Gelar Seminar, Bursa Modal hingga Gelar Produk WUB",
       "link_berita": "https://ruzka.republika.co.id/ekonomi/1674955535/15-koperasi-tampil-semarakkan-hari-koperasi-di-depok-gelar-seminar-bursa-modal-hingga-gelar-produk-wub",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:55:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "GRP Terima Berbagai Penghargaan, Pakar IPB: Positif untuk Brand Perusahaan",
       "link_berita": "https://genpop.republika.co.id/posts/323854/grp-terima-berbagai-penghargaan-pakar-ipb-positif-untuk-brand-perusahaan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:49:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 13:16:16"
     },
     {
       "judul": "Emas Pertama Indonesia dari Veddriq Leonardo",
       "link_berita": "https://tv.republika.co.id/berita/shwgte467/emas-pertama-indonesia-dari-veddriq-leonardo",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:46:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "FKK UMJ Gelar Angkat Sumpah Dokter ke-55",
       "link_berita": "https://visual.republika.co.id/berita/shwgiy375/fkk-umj-gelar-angkat-sumpah-dokter-ke55",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:45:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Peringatan HUT RI di Dua Istana Jadi Sejarah Baru Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwgl6490/peringatan-hut-ri-di-dua-istana-jadi-sejarah-baru-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:41:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Fahira Idris Soroti Penyediaan Alat Kontrasepsi, Hanya untuk Remaja yang Sudah Menikah",
       "link_berita": "https://ruzka.republika.co.id/nasional/1674955443/fahira-idris-soroti-penyediaan-alat-kontrasepsi-hanya-untuk-remaja-yang-sudah-menikah",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:37:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Veddriq Raih Emas, Nama Rocky Gerung Malah Trending di X",
       "link_berita": "https://news.republika.co.id/berita/shwgd8484/veddriq-raih-emas-nama-rocky-gerung-malah-trending-di-x",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:36:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Impor Ilegal dan Kecurigaan Isi Kontainer Impor yang Tiba-Tiba Diloloskan",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwft1502/impor-ilegal-dan-kecurigaan-isi-kontainer-impor-yang-tibatiba-diloloskan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:24:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Belum Ada Pembahasan BLP, Komisi IV DPR: Yang Urgent Data Penerima Subsidi Harus Valid",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwfs6423/belum-ada-pembahasan-blp-komisi-iv-dpr-yang-urgent-data-penerima-subsidi-harus-valid",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:24:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Bicara Pangan, Megawati Berpesan: Tanah Subur Jangan Jadi Gedung",
       "link_berita": "https://news.republika.co.id/berita/shwfow484/bicara-pangan-megawati-berpesan-tanah-subur-jangan-jadi-gedung",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:22:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Berhasil Sumbang Medali Emas, Veddriq Leonardo Ternyata Alumni Ninja Warrior",
       "link_berita": "https://news.republika.co.id/berita/shwfm7490/berhasil-sumbang-medali-emas-veddriq-leonardo-ternyata-alumni-ninja-warrior",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Menkop UKM Sebut Pemerintah Tengah Bahas Perpanjangan Restrukturisasi KUR",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwfj4423/menkop-ukm-sebut-pemerintah-tengah-bahas-perpanjangan-restrukturisasi-kur",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Wapres Soroti Masalah Tunggakan Peserta BPJS Kesehatan",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwfe5502/wapres-soroti-masalah-tunggakan-peserta-bpjs-kesehatan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Putra Prabowo Rancang Jaket Khusus untuk Jokowi Jelang HUT RI",
       "link_berita": "https://news.republika.co.id/berita/shwfd0484/putra-prabowo-rancang-jaket-khusus-untuk-jokowi-jelang-hut-ri",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Pertamina, BUMN dengan Kontribusi Setoran Pajak Terbesar di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwf6x423/pertamina-bumn-dengan-kontribusi-setoran-pajak-terbesar-di-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Kreativitas Dinilai Menjadi Kunci Pertumbuhan Ekonomi Masa Depan",
       "link_berita": "https://ekonomi.republika.co.id/berita/shwemv430/kreativitas-dinilai-menjadi-kunci-pertumbuhan-ekonomi-masa-depan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "6 Cara Mendatangkan Rezeki Melimpah dan Berkah yang Disebutkan Alquran",
       "link_berita": "https://khazanah.republika.co.id/berita/shwetp320/6-cara-mendatangkan-rezeki-melimpah-dan-berkah-yang-disebutkan-alquran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Bagaimana Kebijakan Luar Negeri Kamala Harris?",
       "link_berita": "https://tv.republika.co.id/berita/shwesh467/bagaimana-kebijakan-luar-negeri-kamala-harris",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "Aplikasi Point of Sales dari Mahasiswa Universitas BSI Resmi Digunakan oleh BFour Coffee",
-      "link_berita": "https://ekonomi.republika.co.id/berita/shwefk490/aplikasi-point-of-sales-dari-mahasiswa-universitas-bsi-resmi-digunakan-oleh-bfour-coffee",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:20:26"
+      "link_berita": "https://news.republika.co.id/berita/shwefk490/aplikasi-point-of-sales-dari-mahasiswa-universitas-bsi-resmi-digunakan-oleh-bfour-coffee",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 12:16:16"
     },
     {
       "judul": "The Reign of Sultan, Great Stories of Aceh, Ramaikan Muffest 2024",
       "link_berita": "https://republika.co.id/berita/shwbey456/the-reign-of-sultan-great-stories-of-aceh-ramaikan-muffest-2024",
       "kategori": "Resumatra",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:16:16"
     },
     {
       "judul": "Momen Veddriq Leonardo Raih Medali Emas Panjat Tebing Olimpiade",
       "link_berita": "https://visual.republika.co.id/berita/shwdzm375/momen-veddriq-leonardo-raih-medali-emas-panjat-tebing-olimpiade",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:16:16"
     },
     {
       "judul": "PKS Beri Sinyal Gabung KIM Plus, Golkar Siap Bicarakan Posisi Cawagub",
       "link_berita": "https://news.republika.co.id/berita/shwdyk484/pks-beri-sinyal-gabung-kim-plus-golkar-siap-bicarakan-posisi-cawagub",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Toreh Emas Pertama, Lagu Indonesia Raya Berkumandang di Paris",
-      "link_berita": "https://news.republika.co.id/berita/shwd2d377/toreh-emas-pertama-lagu-indonesia-raya-berkumandang-di-paris",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Akhirnya, Veddriq Sumbang Emas Pertama Indonesia di Olimpiade Paris",
-      "link_berita": "https://news.republika.co.id/berita/shwcfn348/akhirnya-veddriq-sumbang-emas-pertama-indonesia-di-olimpiade-paris",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Polisi di Sukabumi Tangkap Empat Pelaku Pengeroyokan Hingga Korban Meninggal di Emperan Toko",
-      "link_berita": "https://sukabumikini.com/posts/323837/polisi-di-sukabumi-tangkap-empat-pelaku-pengeroyokan-hingga-korban-meninggal-di-emperan-toko",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Beragam Upaya Dilakukan KAI Agar Jalur Rel Tetap Aman dan Steril Demi Keselamatan",
-      "link_berita": "https://kreta.id/posts/323838/beragam-upaya-dilakukan-kai-agar-jalur-rel-tetap-aman-dan-steril-demi-keselamatan",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Faktor Penyebab Obesitas Remaja, Aktivitas Fisik yang Rendah dan Pola Makan Tak Seimbang",
-      "link_berita": "https://ruzka.republika.co.id/info-kampus/1674954991/faktor-penyebab-obesitas-remaja-aktivitas-fisik-yang-rendah-dan-pola-makan-tak-seimbang",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Geliat Pembangunan di Kepulauan Bangka Belitung",
-      "link_berita": "https://visual.republika.co.id/berita/shwey6375/geliat-pembangunan-di-kepulauan-bangka-belitung",
-      "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "BREAKING NEWS: Indonesia Raih Emas Pertama Olimpiade dari Panjat Tebing",
-      "link_berita": "https://news.republika.co.id/berita/shwbv8377/breaking-news-indonesia-raih-emas-pertama-olimpiade-dari-panjat-tebing",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:20:26"
-    },
-    {
-      "judul": "Mutasi PNS oleh Plt Bupati Mimika Ditentang Kemendagri",
-      "link_berita": "https://genpop.republika.co.id/posts/323825/mutasi-pns-oleh-plt-bupati-mimika-ditentang-kemendagri",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Istanbul Surganya Kucing (Hari Kucing Sedunia 8 Agustus 2024)",
-      "link_berita": "https://kingdomsriwijaya.id/posts/323826/istanbul-surganya-kucing-hari-kucing-sedunia-8-agustus-2024-",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Gilap Bawa-Bawa Ancaman Azab Jika Berbohong di Sumpah Pocong Kasus Vina",
-      "link_berita": "https://khazanah.republika.co.id/berita/shwakx483/gilap-bawabawa-ancaman-azab-jika-berbohong-di-sumpah-pocong-kasus-vina",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Wujudkan Pilkada Aman dan Lancar, Kapolres Indramayu : Butuh Kerja Sama",
-      "link_berita": "https://rejabar.republika.co.id/berita/shwajx512/wujudkan-pilkada-aman-dan-lancar-kapolres-indramayu-butuh-kerja-sama",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Ayovest Ambil Posisi Sebagai Platform Investasi untuk Generasi Berjiwa Muda",
-      "link_berita": "https://ekonomi.republika.co.id/berita/shwaee456/ayovest-ambil-posisi-sebagai-platform-investasi-untuk-generasi-berjiwa-muda",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Unisba Jadi Tuan Rumah Ergocamp ke- VIII yang Diikuti Puluhan Perguruan Tinggi",
-      "link_berita": "https://rejabar.republika.co.id/berita/shwa9y512/unisba-jadi-tuan-rumah-ergocamp-ke-viii-yang-diikuti-puluhan-perguruan-tinggi",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "UKM Resmikan Pusat Penunjang Pendidikan di Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/shwa7b430/ukm-resmikan-pusat-penunjang-pendidikan-di-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Polisi Bakal Periksa Kejiwaan Bapak Kost yang Makan Kucing",
-      "link_berita": "https://news.republika.co.id/berita/shwa29425/polisi-bakal-periksa-kejiwaan-bapak-kost-yang-makan-kucing",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Geger Bapak Kos Siksa Kucing, Ingat Hadits Wanita Diazab Usai Kurung Kucing Hingga Mati",
-      "link_berita": "https://khazanah.republika.co.id/berita/shw9zi483/geger-bapak-kos-siksa-kucing-ingat-hadits-wanita-diazab-usai-kurung-kucing-hingga-mati",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Penyederhanaan Regulasi Diperlukan",
-      "link_berita": "https://republika.co.id/berita/shw9p3430/penyederhanaan-regulasi-diperlukan",
-      "kategori": "Rekalimantan",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
-    },
-    {
-      "judul": "Olahraga Bantu Penampilan Terlihat Lebih Muda",
-      "link_berita": "https://ameera.republika.co.id/berita/shw9o7425/olahraga-bantu-penampilan-terlihat-lebih-muda",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 10:20:26"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 11:16:16"
     },
     {
       "judul": "Olahraga Bantu Penampilan Terlihat Lebih Muda",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 08 Aug 2024, 20:07:00"
     },
     {
-      "judul": "Peringatan HUT RI di Dua Istana Jadi Sejarah Baru Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/shwgl6490/peringatan-hut-ri-di-dua-istana-jadi-sejarah-baru-indonesia",
+      "judul": "Bandara Kertajati akan Layani Penerbangan Menuju Singapura Mulai September 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/shwkeg490/bandara-kertajati-akan-layani-penerbangan-menuju-singapura-mulai-september-2024",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 19:41:00"
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 21:03:00"
     },
     {
       "judul": "Halal Startup Demo Day Jakarta 2024 Jadi Katalisator Pertumbuhan Industri",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 08 Aug 2024, 12:44:00"
     },
     {
-      "judul": "Veddriq Leonardo: Medali Emas Olimpiade Ini untuk Kado HUT ke-79 RI",
-      "link_berita": "https://news.republika.co.id/berita/shwi6g348/veddriq-leonardo-medali-emas-olimpiade-ini-untuk-kado-hut-ke79-ri",
-      "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 08 Aug 2024, 20:15:00"
+      "judul": "LPPM UNM Gelar Coaching Clinic Penulisan Artikel Ilmiah untuk Jurnal Internasional",
+      "link_berita": "https://news.republika.co.id/berita/shwjg7490/lppm-unm-gelar-coaching-clinic-penulisan-artikel-ilmiah-untuk-jurnal-internasional",
+      "kategori": "Dunia Kampus",
+      "tanggal_terbit": "Thursday, 08 Aug 2024, 20:43:00"
     }
   ],
-  "waktu_scraping": "Thursday, 08 Aug 2024, 20:20:26"
+  "waktu_scraping": "Thursday, 08 Aug 2024, 21:16:16"
 }
