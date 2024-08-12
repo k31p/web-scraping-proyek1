@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kejagung: Belum Ada Informasi Pemeriksaan Airlangga Hartarto",
+      "link_berita": "https://news.republika.co.id/berita/si3jko484/kejagung-belum-ada-informasi-pemeriksaan-airlangga-hartarto"
+    },
+    {
       "judul": "Airlangga Mundur, PAN: Tak Pengaruhi Konfigurasi Politik di KIM",
       "link_berita": "https://news.republika.co.id/berita/si3i96484/airlangga-mundur-pan-tak-pengaruhi-konfigurasi-politik-di-kim"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Gelar Sidang Kabinet Paripurna di IKN, Jokowi Minta Cari Penyebab Manufaktur Melemah",
       "link_berita": "https://ekonomi.republika.co.id/berita/si38gh490/gelar-sidang-kabinet-paripurna-di-ikn-jokowi-minta-cari-penyebab-manufaktur-melemah"
-    },
-    {
-      "judul": "Emas Sifan Hassan dan Perlawanan Jilbab di Olimpiade Paris",
-      "link_berita": "https://khazanah.republika.co.id/berita/si36qc483/emas-sifan-hassan-dan-perlawanan-jilbab-di-olimpiade-paris"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Usai Tangani Kasus Timah Rp 300 Triliun, Direktur Penyidikan Jampidsus Kejagung Diganti",
+      "link_berita": "https://news.republika.co.id/berita/si3jg2487/usai-tangani-kasus-timah-rp-300-triliun-direktur-penyidikan-jampidsus-kejagung-diganti"
+    },
     {
       "judul": "Ini Wilayah yang tak akan Diserahkan Netanyahu ke Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/si3h2l430/ini-wilayah-yang-tak-akan-diserahkan-netanyahu-ke-palestina"
@@ -77,330 +81,326 @@
     {
       "judul": "Hati-Hati! Modus Baru Penipuan Berkedok Rekrutmen KAI",
       "link_berita": "https://ekonomi.republika.co.id/berita/si1p1z423/hatihati-modus-baru-penipuan-berkedok-rekrutmen-kai"
-    },
-    {
-      "judul": "Gunung Semeru Kembali Erupsi dengan Letusan Setinggi 600 Meter",
-      "link_berita": "https://news.republika.co.id/berita/si1t5f451/gunung-semeru-kembali-erupsi-dengan-letusan-setinggi-600-meter"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Jusuf Hamka Sebut Wallahualam Bissawab soal Mundurnya Airlangga, Apa Maknanya?",
+      "link_berita": "https://khazanah.republika.co.id/berita/si3lqm430/jusuf-hamka-sebut-wallahualam-bissawab-soal-mundurnya-airlangga-apa-maknanya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:15:44"
+    },
+    {
+      "judul": "'Penting Bumikan Empat Bingkai Kerukunan Sebagai Pilar Kekuatan Bangsa'",
+      "link_berita": "https://rejogja.republika.co.id/berita/si3j1r291/penting-bumikan-empat-bingkai-kerukunan-sebagai-pilar-kekuatan-bangsa",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:14:44"
+    },
+    {
+      "judul": "Akun Bisnis Sejumlah Hotel Beberapa Kota di Indonesia Diretas",
+      "link_berita": "https://news.republika.co.id/berita/si3llt425/akun-bisnis-sejumlah-hotel-beberapa-kota-di-indonesia-diretas",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:12:44"
+    },
+    {
+      "judul": "5 Tren AI Terbaru Di Dunia Kecantikan dan Fesyen Global",
+      "link_berita": "https://senandika.republika.co.id/saujana/1734967772/5-tren-ai-terbaru-di-dunia-kecantikan-dan-fesyen-global",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:11:44"
+    },
+    {
+      "judul": "Pangdam Jaya Panen Raya Bawang Merah di Kota Depok",
+      "link_berita": "https://news.republika.co.id/berita/si3lhv484/pangdam-jaya-panen-raya-bawang-merah-di-kota-depok",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:10:44"
+    },
+    {
+      "judul": "Ar Risalah, Bukan Sekadar Kitab Fikih Semata",
+      "link_berita": "https://khazanah.republika.co.id/berita/si3l3k430/ar-risalah-bukan-sekadar-kitab-fikih-semata",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:01:44"
+    },
+    {
+      "judul": "Kementerian PUPR Tingkatkan Kualitas SDM Konstruksi di IKN",
+      "link_berita": "https://news.republika.co.id/berita/si394b451/kementerian-pupr-tingkatkan-kualitas-sdm-konstruksi-di-ikn",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 09:00:44"
+    },
+    {
+      "judul": "Latihan Bantu Kembalikan Fungsi Tubuh Pasca-Stroke, Jangan Menyerah!",
+      "link_berita": "https://ameera.republika.co.id/berita/si3kzn425/latihan-bantu-kembalikan-fungsi-tubuh-pascastroke-jangan-menyerah",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:59:44"
+    },
+    {
+      "judul": "KPBB: BBM Ramah Lingkungan Percepat Pengendalian Polusi di Jabodetabek",
+      "link_berita": "https://esgnow.republika.co.id/berita/si3kz4416/kpbb-bbm-ramah-lingkungan-percepat-pengendalian-polusi-di-jabodetabek",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:59:44"
+    },
+    {
+      "judul": "Ada Sinyal Iran Bersikap Serang Israel dalam Skala Besar",
+      "link_berita": "https://news.republika.co.id/berita/si3kvd377/ada-sinyal-iran-bersikap-serang-israel-dalam-skala-besar",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:56:44"
+    },
+    {
+      "judul": "Iqbal Alumnus IPDN Angkatan 15 Jadi Penjabat Bupati OKU",
+      "link_berita": "https://kingdomsriwijaya.id/posts/324403/iqbal-alumnus-ipdn-angkatan-15-jadi-penjabat-bupati-oku",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:55:44"
+    },
+    {
+      "judul": "Antisipasi Gagal Ginjal pada Anak, Pemkot Surabaya Perketat Pengawasan Jajanan Sekolah",
+      "link_berita": "https://sekitarsurabaya.com/posts/324424/antisipasi-gagal-ginjal-pada-anak-pemkot-surabaya-perketat-pengawasan-jajanan-sekolah",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:55:44"
+    },
+    {
+      "judul": "Makin Mudah Berbelanja Kebutuhan Buah Hati di Platform Nutrishop, Cek Detailnya",
+      "link_berita": "https://impresi.republika.co.id/leisure/1694967755/makin-mudah-berbelanja-kebutuhan-buah-hati-di-platform-nutrishop-cek-detailnya",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:54:44"
+    },
+    {
+      "judul": "Adakah Sumpah Pocong dalam Ajaran Islam?",
+      "link_berita": "https://khazanah.republika.co.id/berita/si3kqn430/adakah-sumpah-pocong-dalam-ajaran-islam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:54:44"
+    },
+    {
+      "judul": "Airlangga Mundur, Pengamat: Ada Pengaruh Eksternal",
+      "link_berita": "https://tv.republika.co.id/berita/si3kfa418/airlangga-mundur-pengamat-ada-pengaruh-eksternal",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:47:44"
+    },
+    {
+      "judul": "Masyarakat di Malut Diimbau Waspadai Potensi Hujan Lebat 12-17 Agustus",
+      "link_berita": "https://news.republika.co.id/berita/si3k9d425/masyarakat-di-malut-diimbau-waspadai-potensi-hujan-lebat-1217-agustus",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:43:44"
+    },
+    {
+      "judul": "Bea Cukai Fasilitasi Impor Kereta Tanpa Rel dan Taksi Terbang untuk Ibu Kota Nusantara",
+      "link_berita": "https://republika.co.id/berita/si3jyb423/bea-cukai-fasilitasi-impor-kereta-tanpa-rel-dan-taksi-terbang-untuk-ibu-kota-nusantara",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:37:44"
+    },
+    {
+      "judul": "KLHK Siapkan Standar Dukung Wujudkan Konsep Kota Hutan IKN",
+      "link_berita": "https://esgnow.republika.co.id/berita/si3jsm416/klhk-siapkan-standar-dukung-wujudkan-konsep-kota-hutan-ikn",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:33:44"
+    },
+    {
+      "judul": "Kapal Kargo Maju 88 Alami Kebocoran di Perairan Indramayu, Ini Nasib 19 Awaknya",
+      "link_berita": "https://rejabar.republika.co.id/berita/si3jsh512/kapal-kargo-maju-88-alami-kebocoran-di-perairan-indramayu-ini-nasib-19-awaknya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:33:44"
+    },
+    {
+      "judul": "Taspen Turut Aktif dalam Pengembangan UMKM Melalui Rumah BUMN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si3jpf423/taspen-turut-aktif-dalam-pengembangan-umkm-melalui-rumah-bumn",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:31:44"
+    },
+    {
+      "judul": "Aburizal Prihatin Airlangga Hartarto Mundur dari ketum Golkar.",
+      "link_berita": "https://news.republika.co.id/berita/si3jo7377/aburizal-prihatin-airlangga-hartarto-mundur-dari-ketum-golkar",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:31:44"
+    },
+    {
+      "judul": "Kejagung: Belum Ada Informasi Pemeriksaan Airlangga Hartarto",
+      "link_berita": "https://news.republika.co.id/berita/si3jko484/kejagung-belum-ada-informasi-pemeriksaan-airlangga-hartarto",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:28:44"
+    },
+    {
+      "judul": "Usai Tangani Kasus Timah Rp 300 Triliun, Direktur Penyidikan Jampidsus Kejagung Diganti",
+      "link_berita": "https://news.republika.co.id/berita/si3jg2487/usai-tangani-kasus-timah-rp-300-triliun-direktur-penyidikan-jampidsus-kejagung-diganti",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:26:44"
+    },
+    {
+      "judul": "Pendanaan Aksi Iklim Harus Tempatkan Masyarakat Sebagai Subjek",
+      "link_berita": "https://esgnow.republika.co.id/berita/si3jd6416/pendanaan-aksi-iklim-harus-tempatkan-masyarakat-sebagai-subjek",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:24:44"
+    },
+    {
       "judul": "5 Film Box Office akan Tayang di Netflix, dari Siksa Kubur Hingga The Architecture of Love",
       "link_berita": "https://ameera.republika.co.id/berita/si3jal425/5-film-box-office-akan-tayang-di-netflix-dari-siksa-kubur-hingga-the-architecture-of-love",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 08:23:10"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:22:44"
     },
     {
       "judul": "Tragis, di Negera ini, Gunung Sampah Tiban Pemukiman Tewaskan 17 Orang",
       "link_berita": "https://khazanah.republika.co.id/berita/si39bv451/tragis-di-negera-ini-gunung-sampah-tiban-pemukiman-tewaskan-17-orang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 08:15:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Pj Gubernur Jabar Bey Minta Pengamanan Siber Jadi Perhatian dalam Pengawasan Pilkada 2024",
       "link_berita": "https://rejabar.republika.co.id/berita/si3im4512/pj-gubernur-jabar-bey-minta-pengamanan-siber-jadi-perhatian-dalam-pengawasan-pilkada-2024",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 08:08:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "3 Hero Counter Hylos Terbaik, Jamin Langsung Lenyap!",
       "link_berita": "https://foreveresports.id/posts/324392/3-hero-counter-hylos-terbaik-jamin-langsung-lenyap-",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 08:05:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Cara Generasi Muda Manfaatkan BRIFine by DPLK BRI untuk Pensiun",
       "link_berita": "https://ekonomi.republika.co.id/berita/si3idn423/cara-generasi-muda-manfaatkan-brifine-by-dplk-bri-untuk-pensiun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 08:03:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Airlangga Mundur, PAN: Tak Pengaruhi Konfigurasi Politik di KIM",
       "link_berita": "https://news.republika.co.id/berita/si3i96484/airlangga-mundur-pan-tak-pengaruhi-konfigurasi-politik-di-kim",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 08:01:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Maharani Kemala Buka Suara Kabar MS Glow Pecah Kongsi",
       "link_berita": "https://ameera.republika.co.id/berita/si3i59425/maharani-kemala-buka-suara-kabar-ms-glow-pecah-kongsi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:58:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Jusuf Hamka Yakin Pengunduran Diri Airlangga Bukan Keinginan Pribadi: Saya Tahu Banyak!",
       "link_berita": "https://news.republika.co.id/berita/si3i1i487/jusuf-hamka-yakin-pengunduran-diri-airlangga-bukan-keinginan-pribadi-saya-tahu-banyak",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:56:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Pemusnahan Barang Kena Cukai Ilegal Bernilai Miliaran Rupiah di Banjarnegara",
       "link_berita": "https://republika.co.id/berita/si3i09423/pemusnahan-barang-kena-cukai-ilegal-bernilai-miliaran-rupiah-di-banjarnegara",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:55:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 08:19:44"
     },
     {
       "judul": "Cegah Pendanaan Terorisme, Mandiri Utama Finance Gelar Pelatihan Gandeng PPATK",
       "link_berita": "https://ekonomi.republika.co.id/berita/si3hpq291/cegah-pendanaan-terorisme-mandiri-utama-finance-gelar-pelatihan-gandeng-ppatk",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:49:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Yang Mau Lomba 17 Agustus, Ketahui Empat Kriteria Judi",
       "link_berita": "https://khazanah.republika.co.id/berita/si3h6n430/yang-mau-lomba-17-agustus-ketahui-empat-kriteria-judi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:45:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Ini Wilayah yang tak akan Diserahkan Netanyahu ke Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/si3h2l430/ini-wilayah-yang-tak-akan-diserahkan-netanyahu-ke-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:35:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Takehiro Tomiyasu Belum Pulih, Urung Belas Arsenal pada Awal Musim Liga Primer Inggris",
       "link_berita": "https://news.republika.co.id/berita/si3gua348/takehiro-tomiyasu-belum-pulih-urung-belas-arsenal-pada-awal-musim-liga-primer-inggris",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:30:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "10 Jaksa KPK Ditarik Pulang ke Kejagung, Ada Apa?",
       "link_berita": "https://news.republika.co.id/berita/si3gsy487/10-jaksa-kpk-ditarik-pulang-ke-kejagung-ada-apa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:29:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Siapa Aktor di Balik Pengunduran Diri Airlangga? Begini Jawaban Jusuf Hamka",
       "link_berita": "https://news.republika.co.id/berita/si3gpd451/siapa-aktor-di-balik-pengunduran-diri-airlangga-begini-jawaban-jusuf-hamka",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:27:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Sekolahnya Ada di Sesar Lembang, Ratusan Siswa Ikuti Pelatihan Tanggap Bencana",
       "link_berita": "https://bandung24jam.republika.co.id/posts/324398/sekolahnya-ada-di-sesar-lembang-ratusan-siswa-ikuti-pelatihan-tanggap-bencana",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:25:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Tinggalkan MU, Aaron Wan-Bissaka akan Hijrah ke West Ham United",
       "link_berita": "https://news.republika.co.id/berita/si3ggd348/tinggalkan-mu-aaron-wanbissaka-akan-hijrah-ke-west-ham-united",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Video Candaan Airlangga kepada Bahlil Viral, 'Kursinya Pak Kapolri Aja Diambil'",
       "link_berita": "https://news.republika.co.id/berita/si3gdn487/video-candaan-airlangga-kepada-bahlil-viral-kursinya-pak-kapolri-aja-diambil",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Lapangan Gasibu Ditutup 14-19 Agustus, Ini Penyebabnya",
       "link_berita": "https://bandung24jam.republika.co.id/posts/324395/lapangan-gasibu-ditutup-14-19-agustus-ini-penyebabnya",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "BPKH Limited Kelola 200 Kamar Hotel di Hilton Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/si3fq0366/bpkh-limited-kelola-200-kamar-hotel-di-hilton-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Ratusan Atlet Remaja dari Delapan Negara Bersaing di Polytron Superliga Junior 2024",
       "link_berita": "https://news.republika.co.id/berita/si3fjy456/ratusan-atlet-remaja-dari-delapan-negara-bersaing-di-polytron-superliga-junior-2024",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Pernikahan Tanpa Mahar, Sahkah?",
       "link_berita": "https://khazanah.republika.co.id/berita/si3fji458/pernikahan-tanpa-mahar-sahkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Saka Tatal akan Diperiksa Bareskrim Terkait Kesaksian Palsu Dede dan Aep",
       "link_berita": "https://rejabar.republika.co.id/berita/si3fie512/saka-tatal-akan-diperiksa-bareskrim-terkait-kesaksian-palsu-dede-dan-aep",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Letakkan Batu Pertama Istana, Maruf Amin Sebut 4 Hal Strategis Pembangunan IKN.",
       "link_berita": "https://khazanah.republika.co.id/berita/si38y3451/letakkan-batu-pertama-istana-maruf-amin-sebut-4-hal-strategis-pembangunan-ikn",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 07:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Airlangga Mundur, Surya Paloh: Saya tidak akan Mengomentari",
       "link_berita": "https://news.republika.co.id/berita/si3f5w484/airlangga-mundur-surya-paloh-saya-tidak-akan-mengomentari",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 07:19:44"
     },
     {
       "judul": "Polres Karawang Buru Pimpinan Pesantren yang Cabuli 20 Santriwati",
       "link_berita": "https://matapantura.republika.co.id/posts/324385/polres-karawang-buru-pimpinan-pesantren-yang-cabuli-20-santriwati",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 06:19:44"
     },
     {
-      "judul": "Sosok Habib di Balik Lagu-Lagu Kebangsaan RI",
-      "link_berita": "https://khazanah.republika.co.id/berita/si3ei2458/sosok-habib-di-balik-lagulagu-kebangsaan-ri",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
+      "judul": "Latihan Bantu Kembalikan Fungsi Tubuh Pasca-Stroke, Jangan Menyerah!",
+      "link_berita": "https://ameera.republika.co.id/berita/si3kzn425/latihan-bantu-kembalikan-fungsi-tubuh-pascastroke-jangan-menyerah",
+      "kategori": "Health",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 15:59:00"
     },
     {
-      "judul": "Polisi London Tangkap Pria yang Viral Damprat dan Ludahi Sopir Bus Muslim",
-      "link_berita": "https://khazanah.republika.co.id/berita/si3ebs366/polisi-london-tangkap-pria-yang-viral-damprat-dan-ludahi-sopir-bus-muslim",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
+      "judul": "KPBB: BBM Ramah Lingkungan Percepat Pengendalian Polusi di Jabodetabek",
+      "link_berita": "https://esgnow.republika.co.id/berita/si3kz4416/kpbb-bbm-ramah-lingkungan-percepat-pengendalian-polusi-di-jabodetabek",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 15:59:00"
     },
     {
-      "judul": "Babah Alun Mundur dari Calon Wagub Jabar yang Diusung Golkar: Saran dari Guru Agama Saya",
-      "link_berita": "https://rejabar.republika.co.id/berita/si3e6e512/babah-alun-mundur-dari-calon-wagub-jabar-yang-diusung-golkar-saran-dari-guru-agama-saya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Transmedia Pertahankan Gelar Juara di SMLBT 2024",
-      "link_berita": "https://news.republika.co.id/berita/si3e4e348/transmedia-pertahankan-gelar-juara-di-smlbt-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Jusuf Hamka Serahkan Surat Pengunduran Diri Sebagai Anggota Partai Golkar",
-      "link_berita": "https://visual.republika.co.id/berita/si3ccz375/jusuf-hamka-serahkan-surat-pengunduran-diri-sebagai-anggota-partai-golkar",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Tingkatkan Kompetensi Mahasiswa, NEC Dukung Bisnis Mahasiswa Dengan Pembinaan",
-      "link_berita": "https://news.republika.co.id/berita/si3e0g490/tingkatkan-kompetensi-mahasiswa-nec-dukung-bisnis-mahasiswa-dengan-pembinaan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "LIKE 2024: PLN Bangun Ekonomi Kerakyatan Lewat Program Co-Firing Biomassa",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3dux490/like-2024-pln-bangun-ekonomi-kerakyatan-lewat-program-cofiring-biomassa",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Haedar Nashir Kunjungi Proyek Pabrik Gula, Ajak Sejahterakan Petani",
-      "link_berita": "https://khazanah.republika.co.id/berita/si3dtu451/haedar-nashir-kunjungi-proyek-pabrik-gula-ajak-sejahterakan-petani",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Lakukan Penikaman, WNI di AS Didakwa Pasal Pembunuhan",
-      "link_berita": "https://tv.republika.co.id/berita/si3dok418/lakukan-penikaman-wni-di-as-didakwa-pasal-pembunuhan",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Bank BUMN Segera Bisa Hapus Tagih Kredit Macet, OJK: Tidak Masuk Kerugian Negara",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3do0490/bank-bumn-segera-bisa-hapus-tagih-kredit-macet-ojk-tidak-masuk-kerugian-negara",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Konselor Laktasi di Perusahaan Efektif Bantu Pekerja Menyusui",
-      "link_berita": "https://ruzka.republika.co.id/edukasi/1674967024/konselor-laktasi-di-perusahaan-efektif-bantu-pekerja-menyusui",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Dies Natalis Ke-67, Undip Gelar UNDIP RUN 2024 Oktobet Mendatang",
-      "link_berita": "https://news.republika.co.id/berita/si3dg6456/dies-natalis-ke67-undip-gelar-undip-run-2024-oktobet-mendatang",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Konser SO7 Terancam Batal Digelar di GBLA, Pj Walkot Bandung Beri Saran Ini",
-      "link_berita": "https://rejabar.republika.co.id/berita/si3ddn512/konser-so7-terancam-batal-digelar-di-gbla-pj-walkot-bandung-beri-saran-ini",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Menteri AHY Sebut SBY tidak Dapat Hadiri Upacara di IKN",
-      "link_berita": "https://news.republika.co.id/berita/si3dba484/menteri-ahy-sebut-sby-tidak-dapat-hadiri-upacara-di-ikn",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Manfaatkan KUR, Warung Soeka Sukses Kembangkan Usaha Jadi Bakery Favorit di Sumenep",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3d44490/manfaatkan-kur-warung-soeka-sukses-kembangkan-usaha-jadi-bakery-favorit-di-sumenep",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Ingin Ajukan PK tapi Sulit Temui Sudirman, Keluarga Minta Tolong Presiden",
-      "link_berita": "https://rejabar.republika.co.id/berita/si3cy3512/ingin-ajukan-pk-tapi-sulit-temui-sudirman-keluarga-minta-tolong-presiden",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Ketika Kamera DSLR Jadul Abadikan Momen Konser Supermusic Breakout Day 2024",
-      "link_berita": "https://kangjepret.republika.co.id/posts/324373/ketika-kamera-dslr-jadul-abadikan-momen-konser-supermusic-breakout-day-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Atraksi Kembang Api Meriahkan Penutupan Olimpiade Paris",
-      "link_berita": "https://visual.republika.co.id/berita/si3bxx375/atraksi-kembang-api-meriahkan-penutupan-olimpiade-paris",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Siapa Mau Jadi Pegawai Bank Indonesia? Rekrutmen Sudah Dibuka, Ini Syaratnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3clg490/siapa-mau-jadi-pegawai-bank-indonesia-rekrutmen-sudah-dibuka-ini-syaratnya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Sebut Airlangga 'Best Friend', Jusuf Hamka: Begitu Teman Saya Tersakiti, Saya Juga Sakit",
-      "link_berita": "https://news.republika.co.id/berita/si3ck8409/sebut-airlangga-best-friend-jusuf-hamka-begitu-teman-saya-tersakiti-saya-juga-sakit",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Menteri Erick Thohir Sebut Udara di IKN Bersih dan Segar",
-      "link_berita": "https://news.republika.co.id/berita/si3chy484/menteri-erick-thohir-sebut-udara-di-ikn-bersih-dan-segar",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 06:24:05"
-    },
-    {
-      "judul": "Menteri LHK Siti Nurbaya Klaim Selama 10 Tahun KLHK Ukir Berbagai Keberhasilan",
-      "link_berita": "https://cari.republika.co.id/posts/324370/menteri-lhk-siti-nurbaya-klaim-selama-10-tahun-klhk-ukir-berbagai-keberhasilan",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 05:24:05"
-    },
-    {
-      "judul": "Mundur dari Golkar, Jusuf Hamka Pastikan tidak akan Berpolitik Lagi",
-      "link_berita": "https://news.republika.co.id/berita/si3c9o409/mundur-dari-golkar-jusuf-hamka-pastikan-tidak-akan-berpolitik-lagi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 05:24:05"
-    },
-    {
-      "judul": "Pegadaian Catat Penjualan Dua Sukuk Terbarunya Capai Rp 2,2 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3c6u490/pegadaian-catat-penjualan-dua-sukuk-terbarunya-capai-rp-22-triliun",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 05:24:05"
-    },
-    {
-      "judul": "5 Film Box Office akan Tayang di Netflix, dari Siksa Kubur Hingga The Architecture of Love",
-      "link_berita": "https://ameera.republika.co.id/berita/si3jal425/5-film-box-office-akan-tayang-di-netflix-dari-siksa-kubur-hingga-the-architecture-of-love",
-      "kategori": "Happening",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 15:23:00"
-    },
-    {
-      "judul": "Gerakan Iklim Kaum Muda Luncurkan Kampanye Energi Terbarukan Berbasis Komunitas",
-      "link_berita": "https://esgnow.republika.co.id/berita/si3bti416/gerakan-iklim-kaum-muda-luncurkan-kampanye-energi-terbarukan-berbasis-komunitas",
-      "kategori": "Tata Kelola",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 12:41:00"
-    },
-    {
-      "judul": "Cara Generasi Muda Manfaatkan BRIFine by DPLK BRI untuk Pensiun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3idn423/cara-generasi-muda-manfaatkan-brifine-by-dplk-bri-untuk-pensiun",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 15:03:00"
+      "judul": "Taspen Turut Aktif dalam Pengembangan UMKM Melalui Rumah BUMN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si3jpf423/taspen-turut-aktif-dalam-pengembangan-umkm-melalui-rumah-bumn",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 12 Aug 2024, 15:32:00"
     },
     {
       "judul": "Lewati 3 Tahun Masa Sulit, Aset BPR Syariah Tumbuh 12,2 Persen Ditopang PYD dan DPK",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 12 Aug 2024, 09:20:00"
     },
     {
-      "judul": "Airlangga Mundur, PAN: Tak Pengaruhi Konfigurasi Politik di KIM",
-      "link_berita": "https://news.republika.co.id/berita/si3i96484/airlangga-mundur-pan-tak-pengaruhi-konfigurasi-politik-di-kim",
+      "judul": "Akun Bisnis Sejumlah Hotel Beberapa Kota di Indonesia Diretas",
+      "link_berita": "https://news.republika.co.id/berita/si3llt425/akun-bisnis-sejumlah-hotel-beberapa-kota-di-indonesia-diretas",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 15:00:00"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 16:13:00"
     }
   ],
-  "waktu_scraping": "Monday, 12 Aug 2024, 15:24:05"
+  "waktu_scraping": "Monday, 12 Aug 2024, 16:19:44"
 }
