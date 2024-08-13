@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Sinyal Pelemahan Daya Beli, Politisi PKS Ingatkan Beban Fiskal Prabowo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si4vfn490/sinyal-pelemahan-daya-beli-politisi-pks-ingatkan-beban-fiskal-prabowo"
+    },
+    {
       "judul": "Kritikan An Se-young dan Tugas Berat Komjen Fadil Imran di PBSI",
       "link_berita": "https://news.republika.co.id/berita/si4t7m348/kritikan-an-seyoung-dan-tugas-berat-komjen-fadil-imran-di-pbsi"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Peluang Koalisi PKB-PDIP di Jatim Menguat Lawan Khofifah-Emil",
       "link_berita": "https://news.republika.co.id/berita/si4np1377/peluang-koalisi-pkbpdip-di-jatim-menguat-lawan-khofifahemil"
-    },
-    {
-      "judul": "Perlawanan Para Hijaber di Olimpiade Paris",
-      "link_berita": "https://www.republika.id/posts/54233/perlawanan-para-hijaber-di-olimpiade-paris"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Disindir Netizen Malaysia Jangan Marah, Faktanya Memang Pahit",
+      "link_berita": "https://analisis.republika.co.id/berita/si4xx3393/disindir-netizen-malaysia-jangan-marah-faktanya-memang-pahit"
+    },
+    {
+      "judul": "Tiga Kelemahan yang Bisa Buat Anies Gagal Maju di Pilgub Jakarta 2024 Menurut Pengamat",
+      "link_berita": "https://news.republika.co.id/berita/si4wn6409/tiga-kelemahan-yang-bisa-buat-anies-gagal-maju-di-pilgub-jakarta-2024-menurut-pengamat"
+    },
+    {
+      "judul": "PKB Pastikan Koalisi dengan Gerindra pada Pilgub Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/si4u5d484/pkb-pastikan-koalisi-dengan-gerindra-pada-pilgub-jakarta"
+    },
     {
       "judul": "Netizen Indonesia-Malaysia Saling Nyinyir Pencapaian, Pertumbuhan Ekonomi Menang Mana?",
       "link_berita": "https://ekonomi.republika.co.id/berita/si4sc6502/netizen-indonesiamalaysia-saling-nyinyir-pencapaian-pertumbuhan-ekonomi-menang-mana"
@@ -69,320 +81,308 @@
     {
       "judul": "PKS Buka-bukaan, Bantah Klaim Anies yang Bilang tak Diberi Tenggat Waktu Cari Dukungan",
       "link_berita": "https://news.republika.co.id/berita/si3r3m487/pks-bukabukaan-bantah-klaim-anies-yang-bilang-tak-diberi-tenggat-waktu-cari-dukungan"
-    },
-    {
-      "judul": "Seruan Tiga Negara Maju di Eropa untuk Gencatan Senjata di Gaza",
-      "link_berita": "https://khazanah.republika.co.id/berita/si3nws430/seruan-tiga-negara-maju-di-eropa-untuk-gencatan-senjata-di-gaza"
-    },
-    {
-      "judul": "Rekaman Suara Anies untuk DPW PKS DKI Tersebar, Bantah Diberikan Tenggat Waktu",
-      "link_berita": "https://news.republika.co.id/berita/si3mds377/rekaman-suara-anies-untuk-dpw-pks-dki-tersebar-bantah-diberikan-tenggat-waktu"
-    },
-    {
-      "judul": "Usai Tangani Kasus Timah Rp 300 Triliun, Direktur Penyidikan Jampidsus Kejagung Diganti",
-      "link_berita": "https://news.republika.co.id/berita/si3jg2487/usai-tangani-kasus-timah-rp-300-triliun-direktur-penyidikan-jampidsus-kejagung-diganti"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Disindir Netizen Malaysia Jangan Marah, Faktanya Memang Pahit",
+      "link_berita": "https://analisis.republika.co.id/berita/si4xx3393/disindir-netizen-malaysia-jangan-marah-faktanya-memang-pahit",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:36:33"
+    },
+    {
+      "judul": "Brentford Datangkan Pemain Liverpool Carvalho, Dikontrak Lima Tahun",
+      "link_berita": "https://news.republika.co.id/berita/si4xsz348/brentford-datangkan-pemain-liverpool-carvalho-dikontrak-lima-tahun",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:34:33"
+    },
+    {
+      "judul": "Jampidsus Kejagung Periksa Mantan Dirut PT Jasa Marga",
+      "link_berita": "https://news.republika.co.id/berita/si4x1t484/jampidsus-kejagung-periksa-mantan-dirut-pt-jasa-marga",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:17:33"
+    },
+    {
+      "judul": "Sambut Buku Haji Fachrodin, Prof Muchlas: Sejak Awal Tradisi Literasi Kuat di Muhammadiyah",
+      "link_berita": "https://khazanah.republika.co.id/berita/si4wzt458/sambut-buku-haji-fachrodin-prof-muchlas-sejak-awal-tradisi-literasi-kuat-di-muhammadiyah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:16:33"
+    },
+    {
+      "judul": "Dies Natalis ke-23, Prodi Informatika Program Doktoral (S3) UNM Resmi Dibuka",
+      "link_berita": "https://news.republika.co.id/berita/si4uwf490/dies-natalis-ke23-prodi-informatika-program-doktoral-s3-unm-resmi-dibuka",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:13:33"
+    },
+    {
+      "judul": "Tiga Kelemahan yang Bisa Buat Anies Gagal Maju di Pilgub Jakarta 2024 Menurut Pengamat",
+      "link_berita": "https://news.republika.co.id/berita/si4wn6409/tiga-kelemahan-yang-bisa-buat-anies-gagal-maju-di-pilgub-jakarta-2024-menurut-pengamat",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:09:33"
+    },
+    {
+      "judul": "Pemerkosaan Pria dan Perempuan Palestina, Hal Biasa untuk Zionis Israel? Ini Kata Pakar",
+      "link_berita": "https://khazanah.republika.co.id/berita/si4wlm320/pemerkosaan-pria-dan-perempuan-palestina-hal-biasa-untuk-zionis-israel-ini-kata-pakar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:08:33"
+    },
+    {
+      "judul": "PKB Bantah Ada Penjegalan di Jakarta, Singgung PKS Tinggalkan Anies",
+      "link_berita": "https://news.republika.co.id/berita/si4wd3484/pkb-bantah-ada-penjegalan-di-jakarta-singgung-pks-tinggalkan-anies",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 02:02:33"
+    },
+    {
+      "judul": "Menantang Masa Depan, Civitas Akademika Universitas Nusa Mandiri Pamerkan Prestasi",
+      "link_berita": "https://news.republika.co.id/berita/si4tem490/menantang-masa-depan-civitas-akademika-universitas-nusa-mandiri-pamerkan-prestasi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:55:33"
+    },
+    {
+      "judul": "Perluas Ekosistem Bisnis Kartu Kredit, Bank Mandiri Gandeng HOG Indomobil Jakarta Chapter",
+      "link_berita": "https://genpop.republika.co.id/posts/324508/perluas-ekosistem-bisnis-kartu-kredit-bank-mandiri-gandeng-hog-indomobil-jakarta-chapter",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:50:33"
+    },
+    {
+      "judul": "Sinyal Pelemahan Daya Beli, Politisi PKS Ingatkan Beban Fiskal Prabowo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si4vfn490/sinyal-pelemahan-daya-beli-politisi-pks-ingatkan-beban-fiskal-prabowo",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:42:33"
+    },
+    {
+      "judul": "Bintang Real Madrid Vinicius Junior Terbuka untuk Tawaran Rp 17 Triliun dari Arab Saudi",
+      "link_berita": "https://news.republika.co.id/berita/si4vaf348/bintang-real-madrid-vinicius-junior-terbuka-untuk-tawaran-rp-17-triliun-dari-arab-saudi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:39:33"
+    },
+    {
+      "judul": "Jalin Keintiman dengan Relasi, UNM Fasilitasi Pengembangan Kompetensi Mahasiswa",
+      "link_berita": "https://news.republika.co.id/berita/si4ura490/jalin-keintiman-dengan-relasi-unmfasilitasi-pengembangan-kompetensi-mahasiswa",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:38:33"
+    },
+    {
+      "judul": "DAMRI Bakal Sediakan Bus untuk Setiap Lawan Persib di Bandung",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si4ukq490/damri-bakal-sediakan-bus-untuk-setiap-lawan-persib-di-bandung",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:38:33"
+    },
+    {
       "judul": "PKB Pastikan Koalisi dengan Gerindra pada Pilgub Jakarta",
       "link_berita": "https://news.republika.co.id/berita/si4u5d484/pkb-pastikan-koalisi-dengan-gerindra-pada-pilgub-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:15:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:38:33"
     },
     {
       "judul": "Pengakuan Perdana Syekh Ikrimah Sabri Seusai Diusir dan Bahaya Besar Ancam Masjid Al-Aqsa",
       "link_berita": "https://khazanah.republika.co.id/berita/si4u34320/pengakuan-perdana-syekh-ikrimah-sabri-seusai-diusir-dan-bahaya-besar-ancam-masjid-alaqsa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:13:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 01:38:33"
     },
     {
       "judul": "Tak Sabar Menunggu Avatar 3? Cek Dulu Bocoran Terbarunya",
       "link_berita": "https://impresi.republika.co.id/leisure/1694969727/tak-sabar-menunggu-avatar-3-cek-dulu-bocoran-terbarunya",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:58:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Gelar Workshop Kurikulum, UMJ Siap Terima Pelajar Asal Malaysia",
       "link_berita": "https://news.republika.co.id/berita/si4t9l490/gelar-workshop-kurikulum-umj-siap-terima-pelajar-asal-malaysia",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:56:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Kritikan An Se-young dan Tugas Berat Komjen Fadil Imran di PBSI",
       "link_berita": "https://news.republika.co.id/berita/si4t7m348/kritikan-an-seyoung-dan-tugas-berat-komjen-fadil-imran-di-pbsi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:54:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Sebaran Masjid Kuno Jadi Bukti Hadirnya Diaspora Muslim di Asia Tenggara",
       "link_berita": "https://khazanah.republika.co.id/berita/si4s1n483/sebaran-masjid-kuno-jadi-bukti-hadirnya-diaspora-muslim-di-asia-tenggara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:51:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Palestina Tolak Buka Pos Pemeriksaan Rafah dengan Ketentuan yang Israel Mau",
       "link_berita": "https://news.republika.co.id/berita/si4sxa409/palestina-tolak-buka-pos-pemeriksaan-rafah-dengan-ketentuan-yang-israel-mau",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:48:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Bareskrim Polri Usut Kasus Dugaan Korupsi Pabrik Gula Djatiroto",
       "link_berita": "https://news.republika.co.id/berita/si4si6484/bareskrim-polri-usut-kasus-dugaan-korupsi-pabrik-gula-djatiroto",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:39:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Netizen Indonesia-Malaysia Saling Nyinyir Pencapaian, Pertumbuhan Ekonomi Menang Mana?",
       "link_berita": "https://ekonomi.republika.co.id/berita/si4sc6502/netizen-indonesiamalaysia-saling-nyinyir-pencapaian-pertumbuhan-ekonomi-menang-mana",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:36:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "6 Ponsel Lipat Terbaik 2024, Ada Pilihan Anda?",
       "link_berita": "https://impresi.republika.co.id/didaktika/1694969710/6-ponsel-lipat-terbaik-2024-ada-pilihan-anda",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:35:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "BI Tunjuk 8 Bank Jadi 'Penjaga' Pasar Uang dan Valas",
       "link_berita": "https://ekonomi.republika.co.id/berita/si4rpz502/bi-tunjuk-8-bank-jadi-penjaga-pasar-uang-dan-valas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:22:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Saatnya Pendidikan Islam Menuju Kelas Dunia",
       "link_berita": "https://khazanah.republika.co.id/berita/si4rj7483/saatnya-pendidikan-islam-menuju-kelas-dunia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:20:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "47 Tahun Pasar Modal Indonesia, Jumlah Investor Capai 5 Persen Populasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/si4rec502/47-tahun-pasar-modal-indonesia-jumlah-investor-capai-5-persen-populasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:20:32"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:38:33"
     },
     {
       "judul": "Pelapor PBB: Amerika Danai Genosida!",
       "link_berita": "https://news.republika.co.id/berita/si4qzn393/pelapor-pbb-amerika-danai-genosida",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 00:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "Hati-Hati! Sistem Google Bisnis di Ratusan Hotel Sedang Diretas",
       "link_berita": "https://ekonomi.republika.co.id/berita/si4q77502/hatihati-sistem-google-bisnis-di-ratusan-hotel-sedang-diretas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "Lebih Produktif dengan Samsung Galaxy Buds3, Simak Caranya",
       "link_berita": "https://impresi.republika.co.id/sana-sini/1694969612/lebih-produktif-dengan-samsung-galaxy-buds3-simak-caranya",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "Golkar Hari Ini Gelar Rapat Pleno Tunjuk Plt Ketum",
       "link_berita": "https://news.republika.co.id/berita/si4pqe409/golkar-hari-ini-gelar-rapat-pleno-tunjuk-plt-ketum",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "Dahsyatnya Menyebarkan Salam",
       "link_berita": "https://www.republika.id/posts/54242/dahsyatnya-menyebarkan-salam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "PSI Minta Pemprov DKI Jakarta Buat Program Makan Bergizi Pakai APBD",
       "link_berita": "https://news.republika.co.id/berita/si4ove484/psi-minta-pemprov-dki-jakarta-buat-program-makan-bergizi-pakai-apbd",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "Isi Lengkap Piagam Madinah",
       "link_berita": "https://www.republika.id/posts/54239/isi-lengkap-piagam-madinah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "'Pak Anies Ridho Menerima Keputusan PKS'",
       "link_berita": "https://news.republika.co.id/berita/si4oc8484/pak-anies-ridho-menerima-keputusan-pks",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 23:38:33"
     },
     {
       "judul": "PKB: Ridwan Kamil Harus Kerja Keras di Pilkada Jakarta",
       "link_berita": "https://news.republika.co.id/berita/si4oax377/pkb-ridwan-kamil-harus-kerja-keras-di-pilkada-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Peluang Koalisi PKB-PDIP di Jatim Menguat Lawan Khofifah-Emil",
       "link_berita": "https://news.republika.co.id/berita/si4np1377/peluang-koalisi-pkbpdip-di-jatim-menguat-lawan-khofifahemil",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "FHI 2024 Sukses Digelar dengan Dihadiri 36 Ribu Pengunjung dari 55 Negara dan Wilayah",
       "link_berita": "https://cari.republika.co.id/posts/324498/fhi-2024-sukses-digelar-dengan-dihadiri-36-ribu-pengunjung-dari-55-negara-dan-wilayah",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 23:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Serangan Besar-Besaran Iran Menjelang, AS Kerahkan Kapal Tempur",
       "link_berita": "https://www.republika.id/posts/54234/serangan-besar-besaran-iran-menjelang-as-kerahkan-kapal-tempur",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Gedung Putih: Iran Siapkan Serangan Besar-besaran ke Israel Pekan Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/si4n1t483/gedung-putih-iran-siapkan-serangan-besarbesaran-ke-israel-pekan-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Suara Dukungan untuk Bahlil Mulai Nyaring, Airlangga Sebut 'Kursi Pak Kapolri Aja Diambil'",
       "link_berita": "https://news.republika.co.id/berita/si418l487/suara-dukungan-untuk-bahlil-mulai-nyaring-airlangga-sebut-kursi-pak-kapolri-aja-diambil",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Dicari, Sineas Berbakat untuk Ikuti Indodax Short Film Festival",
       "link_berita": "https://ameera.republika.co.id/berita/si4mpn370/dicari-sineas-berbakat-untuk-ikuti-indodax-short-film-festival",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Manuver PBNU di Jombang Versus Dukungan PKB dari Kiai Said",
       "link_berita": "https://khazanah.republika.co.id/berita/si41b9483/manuver-pbnu-di-jombang-versus-dukungan-pkb-dari-kiai-said",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Mengapa Kita Dianjurkan Meminta Surga yang Paling Tertinggi",
       "link_berita": "https://iqra.republika.co.id/berita/si4lxg430/mengapa-kita-dianjurkan-meminta-surga-yang-paling-tertinggi",
       "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Kepala Ular di Pucuk Hamas",
       "link_berita": "https://www.republika.id/posts/54227/kepala-ular-di-pucuk-hamas",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Tentara Israel di Georgia dan Azerbaijan Diminta Kabur",
       "link_berita": "https://www.republika.id/posts/54240/tentara-israel-di-georgia-dan-azerbaijan-diminta-kabur",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Tak Ada yang Bisa Jelaskan soal Ruh Selain Islam, Alexander Jadi Mualaf",
       "link_berita": "https://khazanah.republika.co.id/berita/si4lqe430/tak-ada-yang-bisa-jelaskan-soal-ruh-selain-islam-alexander-jadi-mualaf",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Perlawanan Para Hijaber di Olimpiade Paris",
       "link_berita": "https://www.republika.id/posts/54233/perlawanan-para-hijaber-di-olimpiade-paris",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 22:38:33"
     },
     {
       "judul": "Terungkap Kejanggalan 'Hilangnya' Sudirman Terpidana Kasus Vina, Keluarga Minta Tolong",
       "link_berita": "https://news.republika.co.id/berita/si3zfr487/terungkap-kejanggalan-hilangnya-sudirman-terpidana-kasus-vina-keluarga-minta-tolong",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 21:38:33"
     },
     {
       "judul": "Rohingya Kembali Terusir dari Myanmar",
       "link_berita": "https://www.republika.id/posts/54232/rohingya-kembali-terusir-dari-myanmar",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
-    },
-    {
-      "judul": "Doa Pagi Hari Pemancing Datangnya Rezeki",
-      "link_berita": "https://iqra.republika.co.id/berita/si41ns483/doa-pagi-hari-pemancing-datangnya-rezeki",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 22:20:32"
-    },
-    {
-      "judul": "Lowongan PCPM Bank Indonesia, Catat Tahapannya!",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si40hl423/lowongan-pcpm-bank-indonesia-catat-tahapannya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 21:20:32"
-    },
-    {
-      "judul": "Jangan Skip Sholat Subuh, Ini Niat dan Tata Cara Lengkap",
-      "link_berita": "https://iqra.republika.co.id/berita/si47xi366/jangan-skip-sholat-subuh-ini-niat-dan-tata-cara-lengkap",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 20:20:32"
-    },
-    {
-      "judul": "Evaluasi Bos OJK di HUT ke-47 Pasar Modal Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3zz0423/evaluasi-bos-ojk-di-hut-ke47-pasar-modal-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 19:20:32"
-    },
-    {
-      "judul": "Dukung Harga Pertamax Disesuaikan, Peneliti Apresiasi Pertamina Bertahan Jaga Daya Beli",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3xzq349/dukung-harga-pertamax-disesuaikan-peneliti-apresiasi-pertamina-bertahan-jaga-daya-beli",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 18:20:32"
-    },
-    {
-      "judul": "Bersama IHATEC, UNILA Gelar Pelatihan Inhouse Auditor Halal Berbasis SKKNI",
-      "link_berita": "https://boyanesia.republika.co.id/news/1644969443/bersama-ihatec-unila-gelar-pelatihan-inhouse-auditor-halal-berbasis-skkni",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 18:20:32"
-    },
-    {
-      "judul": "Khawatir Israel Dibombardir, Pemimpin Tiga Negara Eropa Memohon Iran Batalkan Serangan",
-      "link_berita": "https://news.republika.co.id/berita/si41gd409/khawatir-israel-dibombardir-pemimpin-tiga-negara-eropa-memohon-iran-batalkan-serangan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Ini Peran Strategis Petani Muda Masa Kini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si3orz451/ini-peran-strategis-petani-muda-masa-kini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Kata Wamenkominfo tentang Transformasi Digital",
-      "link_berita": "https://news.republika.co.id/berita/si3p43451/kata-wamenkominfo-tentang-transformasi-digital",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Menko Polhukam: Ada 61 Tokoh Calon Penerima Tanda Jasa dan Kehormatan",
-      "link_berita": "https://news.republika.co.id/berita/si3p0f451/menko-polhukam-ada-61-tokoh-calon-penerima-tanda-jasa-dan-kehormatan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Sekjen PSSI Cek Lapangan SUGBK, Apresiasi Upaya PPKGBK Revitalisasi Rumput",
-      "link_berita": "https://news.republika.co.id/berita/si4843348/sekjen-pssi-cek-lapangan-sugbk-apresiasi-upaya-ppkgbk-revitalisasi-rumput",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Menhan Israel Sudah Infokan AS: Iran Siapkan Serangan Skala Besar",
-      "link_berita": "https://news.republika.co.id/berita/si430b409/menhan-israel-sudah-infokan-as-iran-siapkan-serangan-skala-besar",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Konyol! Aksi Koboy Oknum Pegawai PN Depok Todongkan Senjata ke Warga, Sanksi Pemecatan Menanti",
-      "link_berita": "https://ruzka.republika.co.id/news/1674969340/konyol-aksi-koboy-oknum-pegawai-pn-depok-todongkan-senjata-ke-warga-sanksi-pemecatan-menanti",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
-    },
-    {
-      "judul": "Wasit Asing Asal Yordania Pimpin Laga Semen Padang vs Borneo FC",
-      "link_berita": "https://visual.republika.co.id/berita/si46hr375/wasit-asing-asal-yordania-pimpin-laga-semen-padang-vs-borneo-fc",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 12 Aug 2024, 17:20:32"
+      "tanggal_terbit": "Monday, 12 Aug 2024, 21:38:33"
     },
     {
       "judul": "Dicari, Sineas Berbakat untuk Ikuti Indodax Short Film Festival",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Monday, 12 Aug 2024, 20:13:00"
     },
     {
-      "judul": "Netizen Indonesia-Malaysia Saling Nyinyir Pencapaian, Pertumbuhan Ekonomi Menang Mana?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si4sc6502/netizen-indonesiamalaysia-saling-nyinyir-pencapaian-pertumbuhan-ekonomi-menang-mana",
+      "judul": "Sinyal Pelemahan Daya Beli, Politisi PKS Ingatkan Beban Fiskal Prabowo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si4vfn490/sinyal-pelemahan-daya-beli-politisi-pks-ingatkan-beban-fiskal-prabowo",
       "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:36:00"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:42:00"
     },
     {
       "judul": "Lewati 3 Tahun Masa Sulit, Aset BPR Syariah Tumbuh 12,2 Persen Ditopang PYD dan DPK",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 12 Aug 2024, 09:20:00"
     },
     {
-      "judul": "PKB Pastikan Koalisi dengan Gerindra pada Pilgub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/si4u5d484/pkb-pastikan-koalisi-dengan-gerindra-pada-pilgub-jakarta",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:15:00"
+      "judul": "Brentford Datangkan Pemain Liverpool Carvalho, Dikontrak Lima Tahun",
+      "link_berita": "https://news.republika.co.id/berita/si4xsz348/brentford-datangkan-pemain-liverpool-carvalho-dikontrak-lima-tahun",
+      "kategori": "Sport",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:34:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 13 Aug 2024, 08:20:32"
+  "waktu_scraping": "Tuesday, 13 Aug 2024, 09:38:33"
 }
