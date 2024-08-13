@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "SDN Pondok Cina 1 di Depok Menjelma Jadi 'Rumah Hantu'",
+      "link_berita": "https://news.republika.co.id/berita/si5dj3484/sdn-pondok-cina-1-di-depok-menjelma-jadi-rumah-hantu"
+    },
+    {
+      "judul": "Kiai Kumpul di Tebu Ireng, Ketum PBNU Dapat Mandat Perbaiki PKB, Cak Imin Digulingkan?",
+      "link_berita": "https://news.republika.co.id/berita/si5cyo377/kiai-kumpul-di-tebu-ireng-ketum-pbnu-dapat-mandat-perbaiki-pkb-cak-imin-digulingkan"
+    },
+    {
       "judul": "Tegas, Iran Tolak Permintaan Pemimpin Barat Agar tak Serang Israel",
       "link_berita": "https://news.republika.co.id/berita/si5b6c393/tegas-iran-tolak-permintaan-pemimpin-barat-agar-tak-serang-israel"
     },
@@ -11,19 +19,19 @@
     {
       "judul": "Ada Skenario Loloskan Cagub Jakarta Independen untuk Lawan Ridwan Kamil? Ini Jawaban KPU",
       "link_berita": "https://news.republika.co.id/berita/si578h487/ada-skenario-loloskan-cagub-jakarta-independen-untuk-lawan-ridwan-kamil-ini-jawaban-kpu"
-    },
-    {
-      "judul": "Jokowi Prediksi Pembangunan IKN Rampung 10-15 Tahun Lagi",
-      "link_berita": "https://news.republika.co.id/berita/si541w484/jokowi-prediksi-pembangunan-ikn-rampung-1015-tahun-lagi"
-    },
-    {
-      "judul": "Jokowi Beri Pengarahan Kepala Daerah di Istana IKN",
-      "link_berita": "https://news.republika.co.id/berita/si511b484/jokowi-beri-pengarahan-kepala-daerah-di-istana-ikn"
     }
   ],
   "berita_unggulan": [
     {
-      "judul": "Cut Intan Nabila Diduga Korban KDRT, Ingat Pesan Rasulullah soal Suami Ringan Tangan",
+      "judul": "Seribu Lebih Pemukim Yahudi Terobos Masjid al-Aqsa",
+      "link_berita": "https://news.republika.co.id/berita/si5eck393/seribu-lebih-pemukim-yahudi-terobos-masjid-alaqsa"
+    },
+    {
+      "judul": "Jenderal Iran: Membalas Kematian Ismail Haniyeh Tugas Agama dan Negara",
+      "link_berita": "https://khazanah.republika.co.id/berita/si5d99366/jenderal-iran-membalas-kematian-ismail-haniyeh-tugas-agama-dan-negara"
+    },
+    {
+      "judul": "Cut Intan Nabila Diduga Korban KDRT, Ingat Pesan Rasulullah Soal Suami Ringan Tangan",
       "link_berita": "https://khazanah.republika.co.id/berita/si5bsz430/cut-intan-nabila-diduga-korban-kdrt-ingat-pesan-rasulullah-soal-suami-ringan-tangan"
     },
     {
@@ -73,316 +81,308 @@
     {
       "judul": "Hati-Hati! Sistem Google Bisnis di Ratusan Hotel Sedang Diretas",
       "link_berita": "https://ekonomi.republika.co.id/berita/si4q77502/hatihati-sistem-google-bisnis-di-ratusan-hotel-sedang-diretas"
-    },
-    {
-      "judul": "'Pak Anies Ridho Menerima Keputusan PKS'",
-      "link_berita": "https://news.republika.co.id/berita/si4oc8484/pak-anies-ridho-menerima-keputusan-pks"
-    },
-    {
-      "judul": "Gedung Putih: Iran Siapkan Serangan Besar-besaran ke Israel Pekan Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/si4n1t483/gedung-putih-iran-siapkan-serangan-besarbesaran-ke-israel-pekan-ini"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Penampakan Permukiman Warga di Manggarai yang Hangus Terbakar",
+      "link_berita": "https://visual.republika.co.id/berita/si5gl6375/penampakan-permukiman-warga-di-manggarai-yang-hangus-terbakar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:19:54"
+    },
+    {
+      "judul": "Kejurnas V dan Pagas Nusa Championship Resmi Diluncurkan, Ini Jadwalnya",
+      "link_berita": "https://khazanah.republika.co.id/berita/si5giv320/kejurnas-v-dan-pagas-nusa-championship-resmi-diluncurkan-ini-jadwalnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:18:22"
+    },
+    {
+      "judul": "Gerindra: PKS akan Bergabung dengan Koalisi Indonesia Maju",
+      "link_berita": "https://news.republika.co.id/berita/si5gdk409/gerindra-pks-akan-bergabung-dengan-koalisi-indonesia-maju",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:15:22"
+    },
+    {
+      "judul": "Oknum PN Depok Diduga Ancam Warga dengan Senjata, Ini Hukum Islam bagi Pengancam",
+      "link_berita": "https://khazanah.republika.co.id/berita/si5g94430/oknum-pn-depok-diduga-ancam-warga-dengan-senjata-ini-hukum-islam-bagi-pengancam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:12:22"
+    },
+    {
+      "judul": "Senior Golkar Dukung Bahlil Jadi Ketum Golkar, 'Adik Saya Itu'",
+      "link_berita": "https://news.republika.co.id/berita/si5g5d487/senior-golkar-dukung-bahlil-jadi-ketum-golkar-adik-saya-itu",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:10:22"
+    },
+    {
+      "judul": "Menkominfo Paparkan Dukungan Teknologi Informasi dalam Pembangunan IKN",
+      "link_berita": "https://news.republika.co.id/berita/si50ow451/menkominfo-paparkan-dukungan-teknologi-informasi-dalam-pembangunan-ikn",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:08:22"
+    },
+    {
+      "judul": "Perubahan Iklim Picu Peningkatan Suhu Udara di Malam Hari",
+      "link_berita": "https://esgnow.republika.co.id/berita/si5cch416/perubahan-iklim-picu-peningkatan-suhu-udara-di-malam-hari",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:00:22"
+    },
+    {
+      "judul": "Jimly Asshiddiqie Sarankan Golkar Tolak Pengunduran Diri Airlangga, Ini Alasannya",
+      "link_berita": "https://news.republika.co.id/berita/si5fmf409/jimly-asshiddiqie-sarankan-golkar-tolak-pengunduran-diri-airlangga-ini-alasannya",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:59:22"
+    },
+    {
+      "judul": "6 Hal yang Harus Kamu Lakukan Jika Terjadi Gempa Saat Sedang Sekolah",
+      "link_berita": "https://kidnews.id/posts/324601/6-hal-yang-harus-kamu-lakukan-jika-terjadi-gempa-saat-sedang-sekolah",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:59:22"
+    },
+    {
+      "judul": "Polda Metro Naikkan Status Kasus Pertemuan Firli Bahuri dan SYL ke Penyidikan",
+      "link_berita": "https://news.republika.co.id/berita/si5f9g409/polda-metro-naikkan-status-kasus-pertemuan-firli-bahuri-dan-syl-ke-penyidikan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:51:22"
+    },
+    {
+      "judul": "Ada Kucing Berbulu Harimau, Infonya di Kalimantan",
+      "link_berita": "https://news.republika.co.id/berita/si5f5y451/ada-kucing-berbulu-harimau-infonya-di-kalimantan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:49:22"
+    },
+    {
+      "judul": "Fakta Menarik di Balik Peringatan Hari Pramuka di Indonesia",
+      "link_berita": "https://senandika.republika.co.id/lentera/1734971716/fakta-menarik-di-balik-peringatan-hari-pramuka-di-indonesia",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:48:22"
+    },
+    {
+      "judul": "Ketua Harian Gerindra Akui Koalisi dengan PKB untuk Pilgub Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/si5eui484/ketua-harian-gerindra-akui-koalisi-dengan-pkb-untuk-pilgub-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:42:22"
+    },
+    {
+      "judul": "PGN Ensure Gas Flowing in IKN Ahead of Independence Anniversary Celebration of RI",
+      "link_berita": "https://en.republika.co.id/berita/si5ckf415/pgn-ensure-gas-flowing-in-ikn-ahead-of-independence-anniversary-celebration-of-ri",
+      "kategori": "En",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:20:22"
+    },
+    {
+      "judul": "Meratus Tambah Kapal untuk Tingkatkan Pengiriman Inrernasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si5edh370/meratus-tambah-kapal-untuk-tingkatkan-pengiriman-inrernasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:32:22"
+    },
+    {
+      "judul": "Seribu Lebih Pemukim Yahudi Terobos Masjid al-Aqsa",
+      "link_berita": "https://news.republika.co.id/berita/si5eck393/seribu-lebih-pemukim-yahudi-terobos-masjid-alaqsa",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:31:22"
+    },
+    {
+      "judul": "Jangan Lupa Baca Doa Ini saat Menjenguk Orang Sakit",
+      "link_berita": "https://iqra.republika.co.id/berita/si5at5430/jangan-lupa-baca-doa-ini-saat-menjenguk-orang-sakit",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:30:22"
+    },
+    {
+      "judul": "Idrus Marham Klaim Lebih 30 DPD Golkar Dukung Bahlil Lahadalia",
+      "link_berita": "https://news.republika.co.id/berita/si5e1u484/idrus-marham-klaim-lebih-30-dpd-golkar-dukung-bahlil-lahadalia",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:25:22"
+    },
+    {
       "judul": "Belasan Kecamatan di Majalengka Rawan Kekeringan",
       "link_berita": "https://rejabar.republika.co.id/berita/si5dvh512/belasan-kecamatan-di-majalengka-rawan-kekeringan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:21:17"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:21:22"
     },
     {
       "judul": "SDN Pondok Cina 1 di Depok Menjelma Jadi 'Rumah Hantu'",
       "link_berita": "https://news.republika.co.id/berita/si5dj3484/sdn-pondok-cina-1-di-depok-menjelma-jadi-rumah-hantu",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:14:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Wow...Ilmuwan Mengembangkan Material Bangunan Baru yang Bisa Menyerap Karbon dari Udara",
       "link_berita": "https://impresiupdate.id/posts/324536/wow-ilmuwan-mengembangkan-material-bangunan-baru-yang-bisa-menyerap-karbon-dari-udara",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:13:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Tahukah Anda, Ternyata Fitur Canggih Ini Penting Agar Mobil Tidak Mundur Saat Terhenti di Tanjakan",
       "link_berita": "https://motoresto.id/posts/324481/tahukah-anda-ternyata-fitur-canggih-ini-penting-agar-mobil-tidak-mundur-saat-terhenti-di-tanjakan",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:12:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Guru Besar Joni Emirzon Jabat Dekan FH Unsri 2024 - 2028",
       "link_berita": "https://kingdomsriwijaya.id/posts/324518/guru-besar-joni-emirzon-jabat-dekan-fh-unsri-2024-2028",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:12:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Akan Pindah Tugas, Pangkostrad: Saya Bangga dengan Kostrad",
       "link_berita": "https://seputarmiliter.id/posts/324544/akan-pindah-tugas-pangkostrad-saya-bangga-dengan-kostrad",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:12:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Airlangga Mundur dari Ketum Golkar, Peta Pilkada Daerah Strategis Bisa Berubah Total",
       "link_berita": "https://rejogja.republika.co.id/berita/si5dcp282/airlangga-mundur-dari-ketum-golkar-peta-pilkada-daerah-strategis-bisa-berubah-total",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:10:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Jenderal Iran: Membalas Kematian Ismail Haniyeh Tugas Agama dan Negara",
       "link_berita": "https://khazanah.republika.co.id/berita/si5d99366/jenderal-iran-membalas-kematian-ismail-haniyeh-tugas-agama-dan-negara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:08:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Pertamina Patra Niaga Gerak Cepat Cek SPBU dari Laporan Konsumen",
       "link_berita": "https://ekonomi.republika.co.id/berita/si5d8x423/pertamina-patra-niaga-gerak-cepat-cek-spbu-dari-laporan-konsumen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:08:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Pemkot Semarang Siapkan Stroberi untuk Program Makan Siang Gratis",
       "link_berita": "https://rejogja.republika.co.id/berita/si5d2o282/pemkot-semarang-siapkan-stroberi-untuk-program-makan-siang-gratis",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:04:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Sukses Terselenggara, Pameran IndoBuildTech 2024 Manfaatkan Fasilitas Kepabeanan Ini",
       "link_berita": "https://news.republika.co.id/berita/si5czb423/sukses-terselenggara-pameran-indobuildtech-2024-manfaatkan-fasilitas-kepabeanan-ini",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:02:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Kiai Kumpul di Tebu Ireng, Ketum PBNU Dapat Mandat Perbaiki PKB, Cak Imin Digulingkan?",
       "link_berita": "https://news.republika.co.id/berita/si5cyo377/kiai-kumpul-di-tebu-ireng-ketum-pbnu-dapat-mandat-perbaiki-pkb-cak-imin-digulingkan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:01:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "KCIC Minta Warga tak Bermain Layang-Layang di Sekitar Kereta Cepat Whoosh, Ini Bahayanya",
       "link_berita": "https://rejabar.republika.co.id/berita/si5cwa512/kcic-minta-warga-tak-bermain-layanglayang-di-sekitar-kereta-cepat-whoosh-ini-bahayanya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:00:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Idrus Marham Sebut Bahlil Penuhi Syarat Jadi Ketum Partai Golkar",
       "link_berita": "https://tv.republika.co.id/berita/si5crl418/idrus-marham-sebut-bahlil-penuhi-syarat-jadi-ketum-partai-golkar",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:57:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Pesawat EVA Air Rute Jakarta-Taipei Turbulensi Parah",
       "link_berita": "https://news.republika.co.id/berita/si5cra484/pesawat-eva-air-rute-jakartataipei-turbulensi-parah",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:57:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Peretasan Akun Google Bisnis Bikin Rugi Turis dan Industri Pariwisata RI",
       "link_berita": "https://ekonomi.republika.co.id/berita/si5cr7502/peretasan-akun-google-bisnis-bikin-rugi-turis-dan-industri-pariwisata-ri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:57:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Cyber University Tingkatkan Pemahaman dan Keterampilan Guru dalam Literasi Numerasi",
       "link_berita": "https://news.republika.co.id/berita/si5cnn423/cyber-university-tingkatkan-pemahaman-dan-keterampilan-guru-dalam-literasi-numerasi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:55:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Iran Ingin Serang Israel, AS Kerahkan Kapal Selam Nuklir Perkuat Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/si5clr366/iran-ingin-serang-israel-as-kerahkan-kapal-selam-nuklir-perkuat-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:54:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Khalifah Umar Memetik Hikmah dari Anak Gembala",
       "link_berita": "https://khazanah.republika.co.id/berita/si5cke458/khalifah-umar-memetik-hikmah-dari-anak-gembala",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:53:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Muslimat NU Dukung Airin di Pilkada Banten",
       "link_berita": "https://news.republika.co.id/berita/si510e451/muslimat-nu-dukung-airin-di-pilkada-banten",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:52:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:20:22"
     },
     {
       "judul": "Indonesia Dihantui Gempa Megathrust, Ini Penjelasannya",
       "link_berita": "https://rejogja.republika.co.id/berita/si5ceh282/indonesia-dihantui-gempa-megathrust-ini-penjelasannya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:49:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Kepala Daerah dapat Arahan Presiden di IKN, Mendagri: Momen Bersejarah",
       "link_berita": "https://republika.co.id/berita/si5bz3430/kepala-daerah-dapat-arahan-presiden-di-ikn-mendagri-momen-bersejarah",
       "kategori": "Rekalimantan",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:45:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Djarot PDIP Tantang PKS Usung Ahok di Pilgub DKI",
       "link_berita": "https://news.republika.co.id/berita/si5c53377/djarot-pdip-tantang-pks-usung-ahok-di-pilgub-dki",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:44:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Dinas KUKM Jabar Buat Ruang Kreatif untuk Tempat UMKM Berbagi Ilmu",
       "link_berita": "https://rejabar.republika.co.id/berita/si5c3z512/dinas-kukm-jabar-buat-ruang-kreatif-untuk-tempat-umkm-berbagi-ilmu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:43:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "PGN Pastikan Gas Bumi Mengalir di IKN Jelang Perayaan HUT Kemerdekaan RI",
       "link_berita": "https://ekonomi.republika.co.id/berita/si5bx6490/pgn-pastikan-gas-bumi-mengalir-di-ikn-jelang-perayaan-hut-kemerdekaan-ri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:39:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Catatan Kemajuan Transisi Energi Global",
       "link_berita": "https://esgnow.republika.co.id/berita/si5buo416/catatan-kemajuan-transisi-energi-global",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:37:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
-      "judul": "Cut Intan Nabila Diduga Korban KDRT, Ingat Pesan Rasulullah soal Suami Ringan Tangan",
+      "judul": "Cut Intan Nabila Diduga Korban KDRT, Ingat Pesan Rasulullah Soal Suami Ringan Tangan",
       "link_berita": "https://khazanah.republika.co.id/berita/si5bsz430/cut-intan-nabila-diduga-korban-kdrt-ingat-pesan-rasulullah-soal-suami-ringan-tangan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:36:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Kaprodi Kesejahteraan Sosial FISIP UMJ Raih Gelar Doktor di Unpad",
       "link_berita": "https://news.republika.co.id/berita/si5br2423/kaprodi-kesejahteraan-sosial-fisip-umj-raih-gelar-doktor-di-unpad",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:35:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Kaji Penyelenggaraan Telemedicine di Indonesia, Nurul Wahdah Raih Gelar Doktor Ilmu Hukum",
       "link_berita": "https://khazanah.republika.co.id/berita/shzg7v451/kaji-penyelenggaraan-telemedicine-di-indonesia-nurul-wahdah-raih-gelar-doktor-ilmu-hukum",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:32:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Jokowi Briefed Regional Heads at IKN Palace",
       "link_berita": "https://en.republika.co.id/berita/si5bjy415/jokowi-briefed-regional-heads-at-ikn-palace",
       "kategori": "En",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 08:22:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 09:20:22"
     },
     {
       "judul": "Idrus Marham Sebut Bahlil Cocok Jadi Ketua Umum Golkar",
       "link_berita": "https://news.republika.co.id/berita/si5bj3377/idrus-marham-sebut-bahlil-cocok-jadi-ketua-umum-golkar",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:30:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Arab Induk Musik Spanyol, Spanyol Induk Musik Dunia",
       "link_berita": "https://khazanah.republika.co.id/berita/si58u0430/arab-induk-musik-spanyol-spanyol-induk-musik-dunia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:28:09"
-    },
-    {
-      "judul": "Hadapi Era Digital, Universitas BSI Gelar Workshop AI untuk SMK Teladan",
-      "link_berita": "https://news.republika.co.id/berita/si5bdi423/hadapi-era-digital-universitas-bsi-gelar-workshop-ai-untuk-smk-teladan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:27:09"
-    },
-    {
-      "judul": "Perempuan Penjemput Subuh",
-      "link_berita": "https://retizen.republika.co.id/posts/324559/perempuan-penjemput-subuh",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:27:09"
-    },
-    {
-      "judul": "Pemerintah Longgarkan Aturan TKDN untuk Pembangunan PLTS",
-      "link_berita": "https://esgnow.republika.co.id/berita/si5b9d416/pemerintah-longgarkan-aturan-tkdn-untuk-pembangunan-plts",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:25:09"
-    },
-    {
-      "judul": "Tegas, Iran Tolak Permintaan Pemimpin Barat Agar tak Serang Israel",
-      "link_berita": "https://news.republika.co.id/berita/si5b6c393/tegas-iran-tolak-permintaan-pemimpin-barat-agar-tak-serang-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:23:09"
-    },
-    {
-      "judul": "Berhentilah Menangis, Sandria",
-      "link_berita": "https://retizen.republika.co.id/posts/324560/berhentilah-menangis-sandria",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "Pagi Ini, Seorang Pemuda Palestina Syahid di Ramallah Usai Diserang Tentara Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/si5alu483/pagi-ini-seorang-pemuda-palestina-syahid-di-ramallah-usai-diserang-tentara-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "Kisah Nabi Ibrahim dan Tobatnya Hamba Allah",
-      "link_berita": "https://khazanah.republika.co.id/berita/si5ah6458/kisah-nabi-ibrahim-dan-tobatnya-hamba-allah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "MER-C Desak Pembatalan PP Terkait Penyediaan Alat Kontrasepsi untuk Remaja",
-      "link_berita": "https://khazanah.republika.co.id/berita/si5afc451/merc-desak-pembatalan-pp-terkait-penyediaan-alat-kontrasepsi-untuk-remaja",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "Imam Masjid Al-Aqsa: Muslim Tidak Bebas Sholat Dalam Okupasi Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/si58es430/imam-masjid-alaqsa-muslim-tidak-bebas-sholat-dalam-okupasi-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "Doa saat Terjadi Gempa Megathrust",
-      "link_berita": "https://iqra.republika.co.id/berita/si59x9430/doa-saat-terjadi-gempa-megathrust",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "Alasan Jusuf Hamka Tinggalkan Golkar",
-      "link_berita": "https://tv.republika.co.id/berita/si59sm418/alasan-jusuf-hamka-tinggalkan-golkar",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:22:09"
-    },
-    {
-      "judul": "Amankan Pasok LNG, PGN Sepakati Kontrak dengan Donggi-Senoro LNG",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si59mi423/amankan-pasok-lng-pgn-sepakati-kontrak-dengan-donggisenoro-lng",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
-    },
-    {
-      "judul": "Latgabma SGS 2024, Kapal MV Cape Hudson Tiba di Banyuwangi",
-      "link_berita": "https://seputarmiliter.id/posts/324549/latgabma-sgs-2024-kapal-mv-cape-hudson-tiba-di-banyuwangi",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
-    },
-    {
-      "judul": "Tips Mendapatkan Skin HOK Gratis, Event Terbatas Hanya di Bulan Agustus!",
-      "link_berita": "https://foreveresports.id/posts/324554/tips-mendapatkan-skin-hok-gratis-event-terbatas-hanya-di-bulan-agustus-",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
-    },
-    {
-      "judul": "245 Kejadian Bencana Terjang Kota Sukabumi, Mayoritas Cuaca Ekstrem",
-      "link_berita": "https://sukabumikini.com/posts/324567/245-kejadian-bencana-terjang-kota-sukabumi-mayoritas-cuaca-ekstrem",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
-    },
-    {
-      "judul": "UNM Siap Jadi Pusat Unggulan Pengembangan Ilmu Informatika di Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/si5900423/unm-siap-jadi-pusat-unggulan-pengembangan-ilmu-informatika-di-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
-    },
-    {
-      "judul": "Danrem Dukung Polisi Telusuri Kericuhan Tambang Emas Milik China di Sekotong",
-      "link_berita": "https://news.republika.co.id/berita/si58tp484/danrem-dukung-polisi-telusuri-kericuhan-tambang-emas-milik-china-di-sekotong",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
-    },
-    {
-      "judul": "Netanyahu Bentrok dengan Pejabat Israel, Hamas Sebut Netanyahu Bohong pada Dunia",
-      "link_berita": "https://khazanah.republika.co.id/berita/si58pr366/netanyahu-bentrok-dengan-pejabat-israel-hamas-sebut-netanyahu-bohong-pada-dunia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 06:22:09"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 07:20:22"
     },
     {
       "judul": "Ruparupa Kembali Gelar Festival Furnitur Online Furnifest",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 13 Aug 2024, 14:37:00"
     },
     {
-      "judul": "Pertamina Patra Niaga Gerak Cepat Cek SPBU dari Laporan Konsumen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/si5d8x423/pertamina-patra-niaga-gerak-cepat-cek-spbu-dari-laporan-konsumen",
+      "judul": "Meratus Tambah Kapal untuk Tingkatkan Pengiriman Inrernasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/si5edh370/meratus-tambah-kapal-untuk-tingkatkan-pengiriman-inrernasional",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 15:07:00"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 15:32:00"
     },
     {
       "judul": "Lewati 3 Tahun Masa Sulit, Aset BPR Syariah Tumbuh 12,2 Persen Ditopang PYD dan DPK",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 12 Aug 2024, 09:20:00"
     },
     {
-      "judul": "SDN Pondok Cina 1 di Depok Menjelma Jadi 'Rumah Hantu'",
-      "link_berita": "https://news.republika.co.id/berita/si5dj3484/sdn-pondok-cina-1-di-depok-menjelma-jadi-rumah-hantu",
+      "judul": "Gerindra: PKS akan Bergabung dengan Koalisi Indonesia Maju",
+      "link_berita": "https://news.republika.co.id/berita/si5gdk409/gerindra-pks-akan-bergabung-dengan-koalisi-indonesia-maju",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 13 Aug 2024, 15:13:00"
+      "tanggal_terbit": "Tuesday, 13 Aug 2024, 16:15:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 13 Aug 2024, 15:22:09"
+  "waktu_scraping": "Tuesday, 13 Aug 2024, 16:20:22"
 }
