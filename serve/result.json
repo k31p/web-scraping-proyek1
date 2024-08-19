@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Adian Tuding Deklarasi RK-Suswono untuk Jegal PDIP di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sigsrk484/adian-tuding-deklarasi-rksuswono-untuk-jegal-pdip-di-jakarta"
+    },
+    {
+      "judul": "PBNU Sudah Dapat Izin Tambang? Begini Penjelasan Menteri ESDM Bahlil",
+      "link_berita": "https://khazanah.republika.co.id/berita/sigs56451/pbnu-sudah-dapat-izin-tambang-begini-penjelasan-menteri-esdm-bahlil"
+    },
+    {
       "judul": "Tel Aviv Diguncang Bom di Tengah Genosida Israel di Jalur Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/sigo00483/tel-aviv-diguncang-bom-di-tengah-genosida-israel-di-jalur-gaza"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "RK-Suswono Didukung 12 Partai, Anies dan PDIP Hanya Jadi Penonton",
       "link_berita": "https://news.republika.co.id/berita/sigg50484/rksuswono-didukung-12-partai-anies-dan-pdip-hanya-jadi-penonton"
-    },
-    {
-      "judul": "Kemenkes Ungkap 88 Kasus Mpox Terkonfirmasi di Indonesia Hingga 17 Agustus 2024",
-      "link_berita": "https://news.republika.co.id/berita/sigesv425/kemenkes-ungkap-88-kasus-mpox-terkonfirmasi-di-indonesia-hingga-17-agustus-2024"
-    },
-    {
-      "judul": "Analisis Politkus PDIP Mengapa Yasonna Diganti, Ada Upaya Mengendalikan Golkar",
-      "link_berita": "https://news.republika.co.id/berita/sigbl9377/analisis-politkus-pdip-mengapa-yasonna-diganti-ada-upaya-mengendalikan-golkar"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Jadi Menteri di Sisa 2 Bulan Kabinet, Bahlil Rosan Harus Ngapain?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sigtda502/jadi-menteri-di-sisa-2-bulan-kabinet-bahlil-rosan-harus-ngapain"
+    },
+    {
+      "judul": "PDIP Pertanyakan Pelantikan Menteri Baru tanpa Dihadiri Presiden Terpilih Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/sigr15484/pdip-pertanyakan-pelantikan-menteri-baru-tanpa-dihadiri-presiden-terpilih-prabowo"
+    },
     {
       "judul": "Unik, Langka, Membuat Kaset Banyak Diburu Anak Muda",
       "link_berita": "https://tv.republika.co.id/berita/sigpba216/unik-langka-membuat-kaset-banyak-diburu-anak-muda"
@@ -73,316 +81,308 @@
     {
       "judul": "Yasonna Digeser, PKB Digoyang, dan Anies Dikucilkan",
       "link_berita": "https://news.republika.co.id/berita/sifyun377/yasonna-digeser-pkb-digoyang-dan-anies-dikucilkan"
-    },
-    {
-      "judul": "Hari Ini KPU akan Menentukan, Dharma-Kun Ditetapkan Sebagai Cagub Jakarta atau Dibatalkan",
-      "link_berita": "https://news.republika.co.id/berita/sifw6l487/hari-ini-kpu-akan-menentukan-dharmakun-ditetapkan-sebagai-cagub-jakarta-atau-dibatalkan"
-    },
-    {
-      "judul": "KTP Warga Dicatut Jadi Pendukung, Dharma Pongrekun: Data Dikumpulkan Relawan",
-      "link_berita": "https://news.republika.co.id/berita/sifu1q377/ktp-warga-dicatut-jadi-pendukung-dharma-pongrekun-data-dikumpulkan-relawan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Komisi I DPRD Jabar Berharap Pencabutan Moratorium Pemekaran Daerah Segera Dicabut",
+      "link_berita": "https://rejabar.republika.co.id/berita/sigtkx490/komisi-i-dprd-jabar-berharap-pencabutan-moratorium-pemekaran-daerah-segera-dicabut",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:34:09"
+    },
+    {
+      "judul": "Polrestabes Semarang Bentuk Tim Usut Dugaan Perundungan Dokter ARL",
+      "link_berita": "https://rejogja.republika.co.id/berita/sigtj1282/polrestabes-semarang-bentuk-tim-usut-dugaan-perundungan-dokter-arl",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:32:46"
+    },
+    {
+      "judul": "'Wahai Penghuni Surga-Neraka, Tiada Kematian Setelah Ini!'",
+      "link_berita": "https://khazanah.republika.co.id/berita/sigtg4458/wahai-penghuni-surganeraka-tiada-kematian-setelah-ini",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:30:46"
+    },
+    {
+      "judul": "Jadi Menteri di Sisa 2 Bulan Kabinet, Bahlil Rosan Harus Ngapain?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sigtda502/jadi-menteri-di-sisa-2-bulan-kabinet-bahlil-rosan-harus-ngapain",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:29:46"
+    },
+    {
+      "judul": "BBMKG Denpasar Tegaskan Informasi Gempa Megathrust Bukan Peringatan Dini",
+      "link_berita": "https://esgnow.republika.co.id/berita/sigtcq416/bbmkg-denpasar-tegaskan-informasi-gempa-megathrust-bukan-peringatan-dini",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:28:46"
+    },
+    {
+      "judul": "Pedoman Dasar Seorang Muslim dalam Berpolitik",
+      "link_berita": "https://khazanah.republika.co.id/berita/sigt6y458/pedoman-dasar-seorang-muslim-dalam-berpolitik",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:25:46"
+    },
+    {
+      "judul": "Dinkes Depok Akan Lakukan Pemeriksaan IVA Tes Gratis, 200 Kuota Disiapkan, Catat Tanggalnya",
+      "link_berita": "https://ruzka.republika.co.id/edukasi/1674994235/dinkes-depok-akan-lakukan-pemeriksaan-iva-tes-gratis-200-kuota-disiapkan-catat-tanggalnya",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:23:46"
+    },
+    {
+      "judul": "79 Tahun Kemerdekaan RI Gaungkan Nusantara Baru, PNM Dukung UMKM Terus Maju",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sigss2490/79-tahun-kemerdekaan-ri-gaungkan-nusantara-baru-pnm-dukung-umkm-terus-maju",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:16:46"
+    },
+    {
+      "judul": "Adian Tuding Deklarasi RK-Suswono untuk Jegal PDIP di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sigsrk484/adian-tuding-deklarasi-rksuswono-untuk-jegal-pdip-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:16:46"
+    },
+    {
+      "judul": "Seru, Lomba Tarik Kereta Ala Daop 3 Cirebon Meriahkan Agustusan",
+      "link_berita": "https://gincumanis.com/posts/325768/seru-lomba-tarik-kereta-ala-daop-3-cirebon-meriahkan-agustusan",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:13:46"
+    },
+    {
+      "judul": "Transaksi Judi Online Hampir Tembus Rp 400 Triliun",
+      "link_berita": "https://news.republika.co.id/berita/sigsne416/transaksi-judi-online-hampir-tembus-rp-400-triliun",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:13:46"
+    },
+    {
+      "judul": "Pemkot Depok Gandeng Forum Anak, Gelar Ekspresi Anak 2024",
+      "link_berita": "https://ruzka.republika.co.id/edukasi/1674994181/pemkot-depok-gandeng-forum-anak-gelar-ekspresi-anak-2024",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:13:46"
+    },
+    {
+      "judul": "Dukung Atlet Berprestasi PON 2024, UMJ Jalin Kerja Sama Dengan KONI DKI Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sigsje490/dukung-atlet-berprestasi-pon-2024-umj-jalin-kerja-sama-dengan-koni-dki-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:11:46"
+    },
+    {
+      "judul": "Menteri Dari PDIP Masih Banyak di Kabinet Jokowi, Siapa Saja yang Tersisa?",
+      "link_berita": "https://news.republika.co.id/berita/sigsj0475/menteri-dari-pdip-masih-banyak-di-kabinet-jokowi-siapa-saja-yang-tersisa",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:11:46"
+    },
+    {
+      "judul": "Jokowi Lakukan Pelantikan Kabinet, Andi Atgas Jadi Menkumham Gantikan Yasonna",
+      "link_berita": "https://visual.republika.co.id/berita/sigrz6375/jokowi-lakukan-pelantikan-kabinet-andi-atgas-jadi-menkumham-gantikan-yasonna",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:09:46"
+    },
+    {
+      "judul": "Soal Kematian Dokter ARL, BEM Undip Soroti Hasil Investigasi Internal",
+      "link_berita": "https://rejogja.republika.co.id/berita/sigmrs291/soal-kematian-dokter-arl-bem-undip-soroti-hasil-investigasi-internal",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:08:46"
+    },
+    {
+      "judul": "PBNU Sudah Dapat Izin Tambang? Begini Penjelasan Menteri ESDM Bahlil",
+      "link_berita": "https://khazanah.republika.co.id/berita/sigs56451/pbnu-sudah-dapat-izin-tambang-begini-penjelasan-menteri-esdm-bahlil",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 12:02:46"
+    },
+    {
+      "judul": "Adaro Berbagi Kebahagiaan dengan Masyarakat Kurang Mampu Bersama Rumah Zakat",
+      "link_berita": "https://khazanah.republika.co.id/berita/sigrzx490/adaro-berbagi-kebahagiaan-dengan-masyarakat-kurang-mampu-bersama-rumah-zakat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:59:46"
+    },
+    {
+      "judul": "Daftar Tiga Pemenang Umroh Garislurus di Islamic Book Fair 2024",
+      "link_berita": "https://news.republika.co.id/berita/sigrum484/daftar-tiga-pemenang-umroh-garislurus-di-islamic-book-fair-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:56:46"
+    },
+    {
+      "judul": "Dua Pelaku Curi Uang di Kotak Amal Masjid Ditangkap, Satu Masih di Bawah Umur",
+      "link_berita": "https://rejogja.republika.co.id/berita/sigmdg291/dua-pelaku-curi-uang-di-kotak-amal-masjid-ditangkap-satu-masih-di-bawah-umur",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:55:46"
+    },
+    {
+      "judul": "Dinilai Berrprestasi, 42 Personel Polri dan ASN di Sukabumi Raih Penghargaan Kapolres",
+      "link_berita": "https://sukabumikini.com/posts/325765/dinilai-berrprestasi-42-personel-polri-dan-asn-di-sukabumi-raih-penghargaan-kapolres",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:44:46"
+    },
+    {
+      "judul": "PDIP Pertanyakan Pelantikan Menteri Baru tanpa Dihadiri Presiden Terpilih Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/sigr15484/pdip-pertanyakan-pelantikan-menteri-baru-tanpa-dihadiri-presiden-terpilih-prabowo",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:38:46"
+    },
+    {
+      "judul": "Studi: Masih Banyak Orang Indonesia Gemar Belanja Kebutuhan Sehari-hari di Toko Fisik",
+      "link_berita": "https://senandika.republika.co.id/lentera/1734994004/studi-masih-banyak-orang-indonesia-gemar-belanja-kebutuhan-sehari-hari-di-toko-fisik",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:38:46"
+    },
+    {
+      "judul": "Pemusnahan Barang Impor Ilegal Senilai Rp 22,2 Miliar",
+      "link_berita": "https://visual.republika.co.id/berita/sigqyd375/pemusnahan-barang-impor-ilegal-senilai-rp-222-miliar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:37:46"
+    },
+    {
+      "judul": "Nasib Khalifah Ottoman Terakhir: Diusir Saat Baca Alquran dan Ditolak Jenazahnya di Turki",
+      "link_berita": "https://khazanah.republika.co.id/berita/sigq2n320/nasib-khalifah-ottoman-terakhir-diusir-saat-baca-alquran-dan-ditolak-jenazahnya-di-turki",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:34:46"
+    },
+    {
+      "judul": "Anggota Polisi Tampar Warga Mesuji di Depan Anak-anak",
+      "link_berita": "https://sumatralink.id/posts/325759/anggota-polisi-tampar-warga-mesuji-di-depan-anak-anak",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:34:46"
+    },
+    {
       "judul": "Bea Cukai dan Australian Border Force Gelar C to C Talk 2024, Ini yang Dibahas",
       "link_berita": "https://republika.co.id/berita/sigptc490/bea-cukai-dan-australian-border-force-gelar-c-to-c-talk-2024-ini-yang-dibahas",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 11:12:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:34:46"
     },
     {
       "judul": "Bea Cukai Gencar Sosialisasikan Pemberantasan Rokok Ilegal di Berbagai Wilayah",
       "link_berita": "https://republika.co.id/berita/sigpoy490/bea-cukai-gencar-sosialisasikan-pemberantasan-rokok-ilegal-di-berbagai-wilayah",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 11:10:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:34:46"
+    },
+    {
+      "judul": "Cine-Concert \"Samsara\" Karya Garin Nugroho Dipentaskan di Mega Festival Indonesia Bertutur 2024",
+      "link_berita": "https://senandika.republika.co.id/genta/1734993899/cine-concert-samsara-karya-garin-nugroho-dipentaskan-di-mega-festival-indonesia-bertutur-2024",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 11:34:46"
     },
     {
       "judul": "Unik, Langka, Membuat Kaset Banyak Diburu Anak Muda",
       "link_berita": "https://tv.republika.co.id/berita/sigpba216/unik-langka-membuat-kaset-banyak-diburu-anak-muda",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 11:01:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Tips Aman Berkendara dengan Mobil Listrik",
       "link_berita": "https://ekonomi.republika.co.id/berita/sigp3q468/tips-aman-berkendara-dengan-mobil-listrik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:57:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Kawanan Drone Hizbullah Serang Langsung Markas Pasukan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/sigp0y483/kawanan-drone-hizbullah-serang-langsung-markas-pasukan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:55:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Pemkab Majalengka Umumkan Buka Seleksi CPNS, Ini 497 Formasinya",
       "link_berita": "https://rejabar.republika.co.id/berita/sigosw512/pemkab-majalengka-umumkan-buka-seleksi-cpns-ini-497-formasinya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:50:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Dukung Kelestarian Lingkungan, Unika Atma Jaya Produksi Eco Enzyme",
       "link_berita": "https://rejogja.republika.co.id/berita/sigm6p291/dukung-kelestarian-lingkungan-unika-atma-jaya-produksi-eco-enzyme",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:48:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Tel Aviv Diguncang Bom di Tengah Genosida Israel di Jalur Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/sigo00483/tel-aviv-diguncang-bom-di-tengah-genosida-israel-di-jalur-gaza",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:33:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Tak Masalah Kadernya Terkena Reshuffle, PDIP: Kami Terima Sepenuhnya",
       "link_berita": "https://news.republika.co.id/berita/signyp320/tak-masalah-kadernya-terkena-reshuffle-pdip-kami-terima-sepenuhnya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:32:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Permata Bank dan WWF Indonesia Luncurkan Program Konservasi di Jambi",
       "link_berita": "https://esgnow.republika.co.id/berita/signyh416/permata-bank-dan-wwf-indonesia-luncurkan-program-konservasi-di-jambi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:32:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Lorong Di Sekolah Tua",
       "link_berita": "https://retizen.republika.co.id/posts/325751/lorong-di-sekolah-tua",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:25:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "HUT ke 79 RI, Masyarakat Tionghoa Bandung Beri 1.200 Paket Kadedeuh untuk Veteran",
       "link_berita": "https://rejabar.republika.co.id/berita/signgi512/hut-ke-79-ri-masyarakat-tionghoa-bandung-beri-1200-paket-kadedeuh-untuk-veteran",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:21:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Anggota ID Food Gencarkan Pasar Murah di Sejumlah Provinsi",
       "link_berita": "https://ekonomi.republika.co.id/berita/signef416/anggota-id-food-gencarkan-pasar-murah-di-sejumlah-provinsi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:20:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "PKS Resmi Dukung Ridwan Kamil di Pilgub Jakarta, Peluang Anies Makin Menipis",
       "link_berita": "https://rejogja.republika.co.id/berita/sign7t282/pks-resmi-dukung-ridwan-kamil-di-pilgub-jakarta-peluang-anies-makin-menipis",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:16:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "'Teror' Virus Mpox Sampai di Filipina, Pasiennya Belum Pernah ke Luar Negeri",
       "link_berita": "https://ameera.republika.co.id/berita/sign31483/teror-virus-mpox-sampai-di-filipina-pasiennya-belum-pernah-ke-luar-negeri",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:16:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Senja Kala Kesultanan Ottoman, Detik-detik Kekhilafahan Islam Terakhir Digulingkan",
       "link_berita": "https://khazanah.republika.co.id/berita/sign5h320/senja-kala-kesultanan-ottoman-detikdetik-kekhilafahan-islam-terakhir-digulingkan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:15:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Harga Minyakita di Lampung Naik Jadi Rp 17.000 per Liter",
       "link_berita": "https://sumatralink.id/posts/325747/harga-minyakita-di-lampung-naik-jadi-rp-17-000-per-liter",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Pengmas FIB UI di Sumba Barat Revitalisasi Legenda ke Sastra Digital",
       "link_berita": "https://ruzka.republika.co.id/info-kampus/1674993674/pengmas-fib-ui-di-sumba-barat-revitalisasi-legenda-ke-sastra-digital",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Rumah Milik Warga Terdampak Pembangunan Rempang Eco-City Mulai Dibongkar",
       "link_berita": "https://ekonomi.republika.co.id/berita/sigmr9490/rumah-milik-warga-terdampak-pembangunan-rempang-ecocity-mulai-dibongkar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 10:34:46"
     },
     {
       "judul": "Sinopsis Drama Baru \u2018Dear Hyeri\u2019 yang Diperankan Shin Hye-sun",
       "link_berita": "https://senandika.republika.co.id/genta/1734993640/sinopsis-drama-baru-dear-hyeri-yang-diperankan-shin-hye-sun",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 09:34:46"
     },
     {
       "judul": "Unpopular Opinion: Facebook Ads Hanya Buang-Buang Uang?",
       "link_berita": "https://retizen.republika.co.id/posts/325718/unpopular-opinion-facebook-ads-hanya-buang-buang-uang",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 09:34:46"
     },
     {
       "judul": "Peringati HUT ke-79 RI, BRI Kembali Berikan Beasiswa Bagi Paskibraka Tingkat Pusat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sigm9m490/peringati-hut-ke79-ri-bri-kembali-berikan-beasiswa-bagi-paskibraka-tingkat-pusat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 09:34:46"
     },
     {
       "judul": "Dies Natalis ke-57, Filsafat UGM Usung Tema Filsafat & Agama di Tengah Pengaruh Teknologi",
       "link_berita": "https://rejogja.republika.co.id/berita/siglwg291/dies-natalis-ke57-filsafat-ugm-usung-tema-filsafat-agama-di-tengah-pengaruh-teknologi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 10:14:30"
-    },
-    {
-      "judul": "Sucofindo Lakukan Carbon Offsetting Dukung Pengurangan Emisi",
-      "link_berita": "https://esgnow.republika.co.id/berita/siglbx416/sucofindo-lakukan-carbon-offsetting-dukung-pengurangan-emisi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Nia Dinata akan Garap Dokumenter tentang Ikon Pariwisata Yogyakarta Raminten",
-      "link_berita": "https://rejogja.republika.co.id/berita/siglb4291/nia-dinata-akan-garap-dokumenter-tentang-ikon-pariwisata-yogyakarta-raminten",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Jokowi Resmi Reshuffle Kabinet Jelang Akhir Jabatan",
-      "link_berita": "https://tv.republika.co.id/berita/sigkzl418/jokowi-resmi-reshuffle-kabinet-jelang-akhir-jabatan",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "IESR Ingatkan Bahlil Soal Pentingnya Transisi Energi",
-      "link_berita": "https://esgnow.republika.co.id/berita/sigkr6416/iesr-ingatkan-bahlil-soal-pentingnya-transisi-energi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Ini Jurus Telkom Optimalkan Potensi AI Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/sigkor490/ini-jurus-telkom-optimalkan-potensi-ai-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Pilgub Jakarta, PKS Deklarasikan Pasangan 'Rawon' Gantikan 'Aman'",
-      "link_berita": "https://news.republika.co.id/berita/sigk7d377/pilgub-jakarta-pks-deklarasikan-pasangan-rawon-gantikan-aman",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Pesan Prabowo ke Rosan: Jalankan Amanah Sebagai Menteri",
-      "link_berita": "https://news.republika.co.id/berita/sigjdd484/pesan-prabowo-ke-rosan-jalankan-amanah-sebagai-menteri",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Pejabat Kemenlu Inggris Tolak Terlibat Kejahatan Perang Israel: Saya Mundur",
-      "link_berita": "https://khazanah.republika.co.id/berita/sigjt9483/pejabat-kemenlu-inggris-tolak-terlibat-kejahatan-perang-israel-saya-mundur",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Dunia Tanpa Password: Mimpi atau Nightmare?",
-      "link_berita": "https://retizen.republika.co.id/posts/325626/dunia-tanpa-password-mimpi-atau-nightmare",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "5 Sapi di Gunungpati Semarang Mati Mendadak Gara-Gara Ngorok",
-      "link_berita": "https://rejogja.republika.co.id/berita/sigjaq282/5-sapi-di-gunungpati-semarang-mati-mendadak-garagara-ngorok",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "IDI Jabar Kecam Aksi Perundungan di PPDS RSHS Bandung: Bertentangan dengan Kode Etik",
-      "link_berita": "https://rejabar.republika.co.id/berita/sigj95512/idi-jabar-kecam-aksi-perundungan-di-ppds-rshs-bandung-bertentangan-dengan-kode-etik",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Ketika Ulama Mendekati Penguasa",
-      "link_berita": "https://khazanah.republika.co.id/berita/sigj8z458/ketika-ulama-mendekati-penguasa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Ramaikan Pesta Kemerdekaan, Wondr BNI Hadir sebagai Teman Finansial untuk Diaspora",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sigj75490/ramaikan-pesta-kemerdekaan-wondr-bni-hadir-sebagai-teman-finansial-untuk-diaspora",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Dukung Kemaritiman Indonesia, BKI Ikut Ramaikan INSA Yacht Festival 2024",
-      "link_berita": "https://republika.co.id/berita/sigj68456/dukung-kemaritiman-indonesia-bki-ikut-ramaikan-insa-yacht-festival-2024",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Menggapai Optimisme dengan Berdoa",
-      "link_berita": "https://khazanah.republika.co.id/berita/sigj3v458/menggapai-optimisme-dengan-berdoa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Kronologi Lamborgini Tabrak Pemulung di Pluit Hingga Tewas",
-      "link_berita": "https://news.republika.co.id/berita/sigizi377/kronologi-lamborgini-tabrak-pemulung-di-pluit-hingga-tewas",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 09:14:30"
-    },
-    {
-      "judul": "Di Momen Hari Kemerdekaan, Sukabumi Tetap Gencarkan Layanan Dokumen Kependudukan",
-      "link_berita": "https://sukabumikini.com/posts/325566/di-momen-hari-kemerdekaan-sukabumi-tetap-gencarkan-layanan-dokumen-kependudukan",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Jadwal Japan Open 2024: Perubahan Drawing, Bagas/Leo Lawan Daddies Besok",
-      "link_berita": "https://badmintonews.id/posts/325719/jadwal-japan-open-2024-perubahan-drawing-bagas-leo-lawan-daddies-besok",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Desain Baru Paspor RI, Indonesia Banget!",
-      "link_berita": "https://retizen.republika.co.id/posts/325608/desain-baru-paspor-ri-indonesia-banget",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Cara Mengingat Apapun yang Anda Pelajari",
-      "link_berita": "https://retizen.republika.co.id/posts/325652/cara-mengingat-apapun-yang-anda-pelajari",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Menyoal Paskibra Copot Hijab, Potret Buruk Toleransi",
-      "link_berita": "https://retizen.republika.co.id/posts/325717/menyoal-paskibra-copot-hijab-potret-buruk-toleransi",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Rasulullah, Suri Teladan Kasih Sayang",
-      "link_berita": "https://khazanah.republika.co.id/berita/sigiqj458/rasulullah-suri-teladan-kasih-sayang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Ridwan Kamil-Suswono Siap Deklarasi Maju Pilgub Jakarta 2024",
-      "link_berita": "https://news.republika.co.id/berita/sigipr484/ridwan-kamilsuswono-siap-deklarasi-maju-pilgub-jakarta-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "The Script Umumkan Tur Musim Gugur, Bakal Sambangi Indonesia Tahun Depan",
-      "link_berita": "https://senandika.republika.co.id/genta/1734993279/the-scriptumumkan-tur-musim-gugur-bakal-sambangi-indonesia-tahun-depan",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Agar Hidup Disinari Cahaya Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/sigih0458/agar-hidup-disinari-cahaya-alquran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Lebih Terencana, Yuk Kembangkan Aset dengan Priority Relationship Manager BRI Prioritas",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sigibd490/lebih-terencana-yuk-kembangkan-aset-dengan-priority-relationship-manager-bri-prioritas",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
-    },
-    {
-      "judul": "Pemprov DKI Pastikan tak Ada Kebocoran Data Terkait Pencatutan KTP Warga",
-      "link_berita": "https://news.republika.co.id/berita/sigi11484/pemprov-dki-pastikan-tak-ada-kebocoran-data-terkait-pencatutan-ktp-warga",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 08:14:30"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 09:34:46"
     },
     {
       "judul": "'Teror' Virus Mpox Sampai di Filipina, Pasiennya Belum Pernah ke Luar Negeri",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Monday, 19 Aug 2024, 17:16:00"
     },
     {
-      "judul": "Permata Bank dan WWF Indonesia Luncurkan Program Konservasi di Jambi",
-      "link_berita": "https://esgnow.republika.co.id/berita/signyh416/permata-bank-dan-wwf-indonesia-luncurkan-program-konservasi-di-jambi",
+      "judul": "BBMKG Denpasar Tegaskan Informasi Gempa Megathrust Bukan Peringatan Dini",
+      "link_berita": "https://esgnow.republika.co.id/berita/sigtcq416/bbmkg-denpasar-tegaskan-informasi-gempa-megathrust-bukan-peringatan-dini",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 17:32:00"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 19:29:00"
     },
     {
-      "judul": "Tips Aman Berkendara dengan Mobil Listrik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sigp3q468/tips-aman-berkendara-dengan-mobil-listrik",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 17:57:00"
+      "judul": "Jadi Menteri di Sisa 2 Bulan Kabinet, Bahlil Rosan Harus Ngapain?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sigtda502/jadi-menteri-di-sisa-2-bulan-kabinet-bahlil-rosan-harus-ngapain",
+      "kategori": "Energi",
+      "tanggal_terbit": "Monday, 19 Aug 2024, 19:29:00"
     },
     {
       "judul": "BSI Ajak Usaha Kecil Naik Kelas Melalui Festival UMKM di Hari Kemerdekaaan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 14 Aug 2024, 19:47:00"
     },
     {
-      "judul": "Tak Masalah Kadernya Terkena Reshuffle, PDIP: Kami Terima Sepenuhnya",
-      "link_berita": "https://news.republika.co.id/berita/signyp320/tak-masalah-kadernya-terkena-reshuffle-pdip-kami-terima-sepenuhnya",
+      "judul": "Adian Tuding Deklarasi RK-Suswono untuk Jegal PDIP di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/sigsrk484/adian-tuding-deklarasi-rksuswono-untuk-jegal-pdip-di-jakarta",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 19 Aug 2024, 17:32:00"
+      "tanggal_terbit": "Monday, 19 Aug 2024, 19:16:00"
     }
   ],
-  "waktu_scraping": "Monday, 19 Aug 2024, 18:14:30"
+  "waktu_scraping": "Monday, 19 Aug 2024, 19:34:46"
 }
