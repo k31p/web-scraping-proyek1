@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Skotlandia Boikot 'Ketemuan' dengan Dubes Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/siipc4483/skotlandia-boikot-ketemuan-dengan-dubes-israel"
+    },
+    {
       "judul": "Polda Jakarta Hentikan Usut Pencatutan KTP untuk Dukung Dharma-Kun di Pilgub DKI",
       "link_berita": "https://republika.co.id/berita/siimuc282/polda-jakarta-hentikan-usut-pencatutan-ktp-untuk-dukung-dharma-kun-di-pilgub-dki"
     },
@@ -15,16 +19,20 @@
     {
       "judul": "Respons Putusan MK, Apakah PKS akan Balik Dukung Anies? Ini Jawaban Syaikhu",
       "link_berita": "https://news.republika.co.id/berita/siierw377/respons-putusan-mk-apakah-pks-akan-balik-dukung-anies-ini-jawaban-syaikhu"
-    },
-    {
-      "judul": "Putusan MK Buka Peluang Anies Maju Pilkada Jakarta, Das\u2019ad Latif: Siasat Allah Bekerja",
-      "link_berita": "https://khazanah.republika.co.id/berita/siibdz483/putusan-mk-buka-peluang-anies-maju-pilkada-jakarta-dasad-latif-siasat-allah-bekerja"
     }
   ],
   "berita_unggulan": [
     {
+      "judul": "Mengenal Hendrar Prihadi, Cawagub PDIP Pendamping Anies di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/siip1i484/mengenal-hendrar-prihadi-cawagub-pdip-pendamping-anies-di-jakarta"
+    },
+    {
       "judul": "Saran Ekonom, Alihkan Dividen untuk Genjot Investasi BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/siimxj370/saran-ekonom-alihkan-dividen-untuk-genjot-investasi-bumn"
+    },
+    {
+      "judul": "Golkar: Putusan MK Mengejutkan, Peta Koalisi Pilkada Bisa Berubah",
+      "link_berita": "https://news.republika.co.id/berita/siikj1377/golkar-putusan-mk-mengejutkan-peta-koalisi-pilkada-bisa-berubah"
     },
     {
       "judul": "Penasihat Presiden Palestina: Israel Ubah Hukum Perang demi Hancurkan Sekolah, RS, Masjid",
@@ -73,316 +81,308 @@
     {
       "judul": "Sebelum Tidur, Muslim Sebaiknya Perhatikan Adab Tidur Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/sihz7i366/sebelum-tidur-muslim-sebaiknya-perhatikan-adab-tidur-ini"
-    },
-    {
-      "judul": "IHSG Diprediksi Variatif di Tengah 'Wait and See' RDG Bank Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sihxpb423/ihsg-diprediksi-variatif-di-tengah-wait-and-see-rdg-bank-indonesia"
-    },
-    {
-      "judul": "Soal PKB, Gus Yahya: Kami tidak akan Berhenti Sampai Berhasil",
-      "link_berita": "https://news.republika.co.id/berita/sihuau487/soal-pkb-gus-yahya-kami-tidak-akan-berhenti-sampai-berhasil"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bahlil Lahadalia Hadiri Munas XI Partai Golkar",
+      "link_berita": "https://visual.republika.co.id/berita/siiq9s375/bahlil-lahadalia-hadiri-munas-xi-partai-golkar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:17:59"
+    },
+    {
+      "judul": "Tiga Jenis Doa Sebelum Tidur Beserta Latin dan Terjemahnya",
+      "link_berita": "https://iqra.republika.co.id/berita/sihym8483/tiga-jenis-doa-sebelum-tidur-beserta-latin-dan-terjemahnya",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:15:59"
+    },
+    {
+      "judul": "Pengamat: Strategi Pembangunan Infrastruktur Prabowo Bakal Berbeda dengan Jokowi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siiq6d370/pengamat-strategi-pembangunan-infrastruktur-prabowo-bakal-berbeda-dengan-jokowi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:15:59"
+    },
+    {
+      "judul": "Mahfud Saran KIM Plus Bubar dan Usung Calon Masing-Masing di Pilkada Usai Putusan MK",
+      "link_berita": "https://news.republika.co.id/berita/siiq13409/mahfud-saran-kim-plus-bubar-dan-usung-calon-masingmasing-di-pilkada-usai-putusan-mk",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:12:59"
+    },
+    {
+      "judul": "Candi Gayatri di Tulungagung Peninggalan Kerajaan Majapahit Era Prabu Hayam Wuruk Ambruk",
+      "link_berita": "https://rejogja.republika.co.id/berita/siipqi282/candi-gayatri-di-tulungagung-peninggalan-kerajaan-majapahit-era-prabu-hayam-wuruk-ambruk",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:05:59"
+    },
+    {
+      "judul": "Ekspor Perhiasan Meningkat, Kemenperin Tekankan Pentingnya SNI pada Produk Emas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siipkf349/ekspor-perhiasan-meningkat-kemenperin-tekankan-pentingnya-sni-pada-produk-emas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:02:59"
+    },
+    {
+      "judul": "Gen Z dan Milenial Apresiasi Berbagai Program Bupati Bandung Dadang Supriatna",
+      "link_berita": "https://news.republika.co.id/berita/siipj7370/gen-z-dan-milenial-apresiasi-berbagai-program-bupati-bandung-dadang-supriatna",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 13:01:59"
+    },
+    {
+      "judul": "Presiden Partai Buruh Said Iqbal Sebut Anies Kaget Dikabari Putusan MK, Siap Maju Pilgub",
+      "link_berita": "https://news.republika.co.id/berita/siipgj409/presiden-partai-buruh-said-iqbal-sebut-anies-kaget-dikabari-putusan-mk-siap-maju-pilgub",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:59:59"
+    },
+    {
+      "judul": "Skotlandia Boikot 'Ketemuan' dengan Dubes Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/siipc4483/skotlandia-boikot-ketemuan-dengan-dubes-israel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:57:59"
+    },
+    {
+      "judul": "17 Mahasiswa Universitas BSI Kampus Pontianak Ikuti PKL di Diskominfo Kalbar",
+      "link_berita": "https://news.republika.co.id/berita/siip8d370/17-mahasiswa-universitas-bsi-kampus-pontianak-ikuti-pkl-di-diskominfo-kalbar",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:54:59"
+    },
+    {
+      "judul": "Banu Muhammad Haidlir Terpilih Sebagai Direktur Umum PT Tirta Asasta Depok, akan Tambah Kapasitas Booster Pump",
+      "link_berita": "https://ruzka.republika.co.id/ekonomi/1674998504/banu-muhammad-haidlir-terpilih-sebagai-direktur-umum-pt-tirta-asasta-depok-akan-tambah-kapasitas-booster-pump",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:53:59"
+    },
+    {
+      "judul": "Ridwan Kamil dan Suswono Maju Pilkada Jakarta 2024, 12 Partai Dukung KIM Plus",
+      "link_berita": "https://gincumanis.com/posts/325939/ridwan-kamil-dan-suswono-maju-pilkada-jakarta-2024-12-partai-dukung-kim-plus",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:50:59"
+    },
+    {
+      "judul": "Mengenal Hendrar Prihadi, Cawagub PDIP Pendamping Anies di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/siip1i484/mengenal-hendrar-prihadi-cawagub-pdip-pendamping-anies-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:50:59"
+    },
+    {
+      "judul": "OJK Blokir 6.400 Rekening Diduga Terlibat Judi Online, Mayoritas Pakai Identitas Palsu",
+      "link_berita": "https://rejogja.republika.co.id/berita/siioyq282/ojk-blokir-6400-rekening-diduga-terlibat-judi-online-mayoritas-pakai-identitas-palsu",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:49:59"
+    },
+    {
+      "judul": "AGI dan Perusahaan Digital Nilai QRIS Berperan Kembangkan Industri Game",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siiopc430/agi-dan-perusahaan-digital-nilai-qris-berperan-kembangkan-industri-game",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:43:59"
+    },
+    {
+      "judul": "BI Diprediksi Turunkan Suku Bunga Lebih Awal, Pengamat: Tinggal Berani atau Enggak?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siiook370/bi-diprediksi-turunkan-suku-bunga-lebih-awal-pengamat-tinggal-berani-atau-enggak",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:43:59"
+    },
+    {
+      "judul": "NasDem Jabar Resmi Umumkan Pasangan Farhan-Erwin Maju ke Pilwalkot Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/siiois512/nasdem-jabar-resmi-umumkan-pasangan-farhanerwin-maju-ke-pilwalkot-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:39:59"
+    },
+    {
       "judul": "Biar tak Terlacak, Begini Cara Pelaku Judol Cuci Uang Haramnya",
       "link_berita": "https://rejogja.republika.co.id/berita/siinuj282/biar-tak-terlacak-begini-cara-pelaku-judol-cuci-uang-haramnya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:25:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:25:59"
     },
     {
       "judul": "Dosen Universitas BSI Berdayakan Masyarakat Bogor Lewat Pelatihan Ecobrick",
       "link_berita": "https://news.republika.co.id/berita/siinkn370/dosen-universitas-bsi-berdayakan-masyarakat-bogor-lewat-pelatihan-ecobrick",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:19:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "LPPM Universitas BSI Gelar Workshop Pengelolaan Jurnal Menuju Terindeks Scopus",
       "link_berita": "https://news.republika.co.id/berita/siindr370/lppm-universitas-bsi-gelar-workshop-pengelolaan-jurnal-menuju-terindeks-scopus",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:15:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "Disdukcapil Depok Raih Penghargaan Public Service of The Year Jabar Banten 2024",
       "link_berita": "https://ruzka.republika.co.id/serba-serbi/1674998355/disdukcapil-depok-raih-penghargaan-public-service-of-the-year-jabar-banten-2024",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:13:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "Dorong Kualitas Guru Madrasah, Itjen Kemenag Evaluasi Pemetaan dan Penataan Guru di Daerah",
       "link_berita": "https://rumahberkah.republika.co.id/posts/325956/dorong-kualitas-guru-madrasah-itjen-kemenag-evaluasi-pemetaan-dan-penataan-guru-di-daerah",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:07:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "Saran Ekonom, Alihkan Dividen untuk Genjot Investasi BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/siimxj370/saran-ekonom-alihkan-dividen-untuk-genjot-investasi-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:06:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "Polda Jakarta Hentikan Usut Pencatutan KTP untuk Dukung Dharma-Kun di Pilgub DKI",
       "link_berita": "https://republika.co.id/berita/siimuc282/polda-jakarta-hentikan-usut-pencatutan-ktp-untuk-dukung-dharma-kun-di-pilgub-dki",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:04:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "Pengamat Prediksi BI Bakal Turunkan Suku Bunga",
       "link_berita": "https://ekonomi.republika.co.id/berita/siimq3416/pengamat-prediksi-bi-bakal-turunkan-suku-bunga",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:01:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:20:59"
     },
     {
       "judul": "Mahmoud Abbas Ingin Kunjungi Gaza, Minta Ijin kepada Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/siim1w483/mahmoud-abbas-ingin-kunjungi-gaza-minta-ijin-kepada-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:47:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Mahfud: KPU Harus Patuhi Putusan MK Soal Ambang Batas Pencalonan Kepala Daerah",
       "link_berita": "https://news.republika.co.id/berita/siilxp409/mahfud-kpu-harus-patuhi-putusan-mk-soal-ambang-batas-pencalonan-kepala-daerah",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:44:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Gaungkan Literasi, Ratusan Generasi Muda di Sukabumi Dilatih Menulis Sambil Tamasya",
       "link_berita": "https://sukabumikini.com/posts/325945/gaungkan-literasi-ratusan-generasi-muda-di-sukabumi-dilatih-menulis-sambil-tamasya",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:43:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Anies Berpeluang Maju dari PDIP Pasca Putusan MK",
       "link_berita": "https://ruzkaindonesia.id/posts/325943/anies-berpeluang-maju-dari-pdip-pasca-putusan-mk",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:43:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "PDIP tak Masalah Jika Jokowi Jadi Ketua Dewan Pembina Partai Golkar",
       "link_berita": "https://news.republika.co.id/berita/siilo4409/pdip-tak-masalah-jika-jokowi-jadi-ketua-dewan-pembina-partai-golkar",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:38:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Salut dengan Putusan MK, PP Muhammadiyah: Dapat Mengakhiri Tirani",
       "link_berita": "https://khazanah.republika.co.id/berita/siillh483/salut-dengan-putusan-mk-pp-muhammadiyah-dapat-mengakhiri-tirani",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:37:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Warga Berdaya Luncurkan Platform LaporIklim",
       "link_berita": "https://esgnow.republika.co.id/berita/siili6416/warga-berdaya-luncurkan-platform-laporiklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Gunung Dukono Masih Erupsi, BNPB Ingatkan Pendaki Dekati Kawah",
       "link_berita": "https://republika.co.id/berita/siil8f282/gunung-dukono-masih-erupsi-bnpb-ingatkan-pendaki-dekati-kawah",
       "kategori": "Resulawesi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "UGM Luncurkan Forest Carbon Literacy Course untuk Dukung Pengelolaan Karbon Hutan",
       "link_berita": "https://rejogja.republika.co.id/berita/siii0k291/ugm-luncurkan-forest-carbon-literacy-course-untuk-dukung-pengelolaan-karbon-hutan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Golkar: Putusan MK Mengejutkan, Peta Koalisi Pilkada Bisa Berubah",
       "link_berita": "https://news.republika.co.id/berita/siikj1377/golkar-putusan-mk-mengejutkan-peta-koalisi-pilkada-bisa-berubah",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Badan Kesbangpol Kalsel Riang Gembira Bentangkan Sasirangan Rekor MURI 2024",
       "link_berita": "https://news.republika.co.id/berita/siikg2490/badan-kesbangpol-kalsel-riang-gembira-bentangkan-sasirangan-rekor-muri-2024",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Sambut Putusan MK, PDIP: Tekan Politik Mahar",
       "link_berita": "https://news.republika.co.id/berita/siike9484/sambut-putusan-mk-pdip-tekan-politik-mahar",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Penasihat Presiden Palestina: Israel Ubah Hukum Perang demi Hancurkan Sekolah, RS, Masjid",
       "link_berita": "https://khazanah.republika.co.id/berita/siik2t483/penasihat-presiden-palestina-israel-ubah-hukum-perang-demi-hancurkan-sekolah-rs-masjid",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Tanoto Kembali Buka Pendaftaran Program Beasiswa Teladan",
       "link_berita": "https://rejogja.republika.co.id/berita/siihjo291/tanoto-kembali-buka-pendaftaran-program-beasiswa-teladan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "PKS Akui Banyak Mendapat Perundungan Usai Batal Dukung Anies di Pilgub DKI Jakarta",
       "link_berita": "https://news.republika.co.id/berita/siijm3377/pks-akui-banyak-mendapat-perundungan-usai-batal-dukung-anies-di-pilgub-dki-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Anda Lulusan Luar Negeri Keagamaan? SIPIKO Hadir Mudahkan Penyetaraaan Ijazah",
       "link_berita": "https://khazanah.republika.co.id/berita/siijl8320/anda-lulusan-luar-negeri-keagamaan-sipiko-hadir-mudahkan-penyetaraaan-ijazah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Dukung Pertumbuhan Ekonomi, Bea Cukai Tinjau Fasilitas Industri di Cikarang dan Bekasi",
       "link_berita": "https://republika.co.id/berita/siijib490/dukung-pertumbuhan-ekonomi-bea-cukai-tinjau-fasilitas-industri-di-cikarang-dan-bekasi",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:20:59"
     },
     {
       "judul": "Bea Cukai Optimalkan Penerimaan dan Refresh Aturan Terbaru lewat Kunjungan ke Perusahaan",
       "link_berita": "https://republika.co.id/berita/siijcm490/bea-cukai-optimalkan-penerimaan-dan-refresh-aturan-terbaru-lewat-kunjungan-ke-perusahaan",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Realisasi PTSL 2024 di BPN Depok Tembus 2.950 Bidang Tanah, Pengembang Didesak Segera Daftarkan Aset",
       "link_berita": "https://ruzka.republika.co.id/nasional/1674997971/realisasi-ptsl-2024-di-bpn-depok-tembus-2950-bidang-tanah-pengembang-didesak-segera-daftarkan-aset",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Bagaimana Nasib Kepala BPIP Usai Polemik Jilbab Paskibraka? Ini Kata Komnas HAM",
       "link_berita": "https://khazanah.republika.co.id/berita/siij4g483/bagaimana-nasib-kepala-bpip-usai-polemik-jilbab-paskibraka-ini-kata-komnas-ham",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Fraksi PDIP DPRD DKI Serahkan Nama Cagub ke Megawati",
       "link_berita": "https://news.republika.co.id/berita/siiiyr484/fraksi-pdip-dprd-dki-serahkan-nama-cagub-ke-megawati",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Penanganan Dampak Sosial Kemasyarakatan Lahan UIII Menuju Tahap Akhir",
       "link_berita": "https://khazanah.republika.co.id/berita/siiith320/penanganan-dampak-sosial-kemasyarakatan-lahan-uiii-menuju-tahap-akhir",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Politik-Mati Langkah",
       "link_berita": "https://retizen.republika.co.id/posts/325825/politik-mati-langkah",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Aura Maghrib: Istilah Viral di Media Sosial",
       "link_berita": "https://retizen.republika.co.id/posts/325929/aura-maghrib-istilah-viral-di-media-sosial",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Menelusuri Keelokan Rekreasi Dieng",
       "link_berita": "https://retizen.republika.co.id/posts/325941/menelusuri-keelokan-rekreasi-dieng",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "Ini Misi yang Mustahil Dicapai Israel di Gaza, dengan atau tanpa Berperang",
-      "link_berita": "https://khazanah.republika.co.id/berita/siiih2320/ini-misi-yang-mustahil-dicapai-israel-di-gaza-dengan-atau-tanpa-berperang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "Kecerdasan Buatan Dinilai tak Bisa Gantikan Kecerdasan Manusia",
-      "link_berita": "https://tv.republika.co.id/berita/siiify467/kecerdasan-buatan-dinilai-tak-bisa-gantikan-kecerdasan-manusia",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "RK-Suswono, Pengamat: Upaya Menambah Koalisi",
-      "link_berita": "https://tv.republika.co.id/berita/siii65418/rksuswono-pengamat-upaya-menambah-koalisi",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "Hormati Putusan MK, Ridwan Kamil Nilai Lebih Banyak Calon di Pilkada Lebih Baik",
-      "link_berita": "https://news.republika.co.id/berita/siii2f409/hormati-putusan-mk-ridwan-kamil-nilai-lebih-banyak-calon-di-pilkada-lebih-baik",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "Ditanya Apakah PDIP akan Usung Anies di Pilgub Jakarta Usai Putusan MK, Ini Jawaban Ganjar",
-      "link_berita": "https://news.republika.co.id/berita/siihox409/ditanya-apakah-pdip-akan-usung-anies-di-pilgub-jakarta-usai-putusan-mk-ini-jawaban-ganjar",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "PDIP Pertimbangkan Usung Ahok atau Anies Maju Pilgub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/siihk0484/pdip-pertimbangkan-usung-ahok-atau-anies-maju-pilgub-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:35:05"
-    },
-    {
-      "judul": "5 Alasan Mengapa Sulit Bahagia Pasca Ditinggal Meninggal",
-      "link_berita": "https://retizen.republika.co.id/posts/325908/5-alasan-mengapa-sulit-bahagia-pasca-ditinggal-meninggal",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Kenapa Pria Sering Disalahkan Saat Selingkuh?",
-      "link_berita": "https://retizen.republika.co.id/posts/325926/kenapa-pria-sering-disalahkan-saat-selingkuh",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Mengapa Anwar Usman tak Ikut Memutus Putusan MK Soal Syarat Usia Calon Kepala Daerah?",
-      "link_berita": "https://news.republika.co.id/berita/siigu5409/mengapa-anwar-usman-tak-ikut-memutus-putusan-mk-soal-syarat-usia-calon-kepala-daerah",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Miris! Warganet Indonesia Komentar Rasis di IG Beauty Influencer Sudan Nyadollie",
-      "link_berita": "https://ameera.republika.co.id/berita/siigs5425/miris-warganet-indonesia-komentar-rasis-di-ig-beauty-influencer-sudan-nyadollie",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "7 Peta Jalan Pendidikan Agama Islam",
-      "link_berita": "https://retizen.republika.co.id/posts/325936/7-peta-jalan-pendidikan-agama-islam",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Seleksi CPNS Pemprov Jatim Resmi Dibuka, Sediakan 2.314 Formasi",
-      "link_berita": "https://sekitarsurabaya.com/posts/325910/seleksi-cpns-pemprov-jatim-resmi-dibuka-sediakan-2-314-formasi",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "SE DJPL 4/2024: Upaya Ditjen Hubla Tanggapi Ancaman Keamanan Kapal Indonesia di Lokasi Konflik",
-      "link_berita": "https://shippingcargo.co.id/posts/325916/se-djpl-4-2024-upaya-ditjen-hubla-tanggapi-ancaman-keamanan-kapal-indonesia-di-lokasi-konflik",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Ribuan Orang Teriakkan Free Palestine Jelang Pidato Biden di Konvensi Demokrat",
-      "link_berita": "https://khazanah.republika.co.id/berita/siighb483/ribuan-orang-teriakkan-free-palestine-jelang-pidato-biden-di-konvensi-demokrat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Komisi II DPR: Putusan MK Harus Dituangkan ke PKPU",
-      "link_berita": "https://news.republika.co.id/berita/siiggk484/komisi-ii-dpr-putusan-mk-harus-dituangkan-ke-pkpu",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Siap-Siap Nostalgia! Band Rock FireHouse Konser di Jakarta 18 Oktober",
-      "link_berita": "https://ameera.republika.co.id/berita/siigdm425/siapsiap-nostalgia-band-rock-firehouse-konser-di-jakarta-18-oktober",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
-    },
-    {
-      "judul": "Ciri Pemimpin yang Diberi Petunjuk Allah: Punya Menteri bukan 'ABS'",
-      "link_berita": "https://khazanah.republika.co.id/berita/siig9k458/ciri-pemimpin-yang-diberi-petunjuk-allah-punya-menteri-bukan-abs",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 09:35:05"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 10:20:59"
     },
     {
       "judul": "Miris! Warganet Indonesia Komentar Rasis di IG Beauty Influencer Sudan Nyadollie",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 20 Aug 2024, 18:34:00"
     },
     {
-      "judul": "Saran Ekonom, Alihkan Dividen untuk Genjot Investasi BUMN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/siimxj370/saran-ekonom-alihkan-dividen-untuk-genjot-investasi-bumn",
+      "judul": "Pengamat: Strategi Pembangunan Infrastruktur Prabowo Bakal Berbeda dengan Jokowi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siiq6d370/pengamat-strategi-pembangunan-infrastruktur-prabowo-bakal-berbeda-dengan-jokowi",
       "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 19:05:00"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 20:15:00"
     },
     {
       "judul": "BSI Ajak Usaha Kecil Naik Kelas Melalui Festival UMKM di Hari Kemerdekaaan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 14 Aug 2024, 19:47:00"
     },
     {
-      "judul": "Dosen Universitas BSI Berdayakan Masyarakat Bogor Lewat Pelatihan Ecobrick",
-      "link_berita": "https://news.republika.co.id/berita/siinkn370/dosen-universitas-bsi-berdayakan-masyarakat-bogor-lewat-pelatihan-ecobrick",
-      "kategori": "Bina Sarana Informatika",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 19:19:00"
+      "judul": "Mahfud Saran KIM Plus Bubar dan Usung Calon Masing-Masing di Pilkada Usai Putusan MK",
+      "link_berita": "https://news.republika.co.id/berita/siiq13409/mahfud-saran-kim-plus-bubar-dan-usung-calon-masingmasing-di-pilkada-usai-putusan-mk",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 20:12:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 20 Aug 2024, 19:35:05"
+  "waktu_scraping": "Tuesday, 20 Aug 2024, 20:20:59"
 }
