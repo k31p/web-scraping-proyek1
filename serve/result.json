@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Putusan Terbaru MK, PDIP Bisa Mengusung Anies-Hendrar Prihadi di Jakarta?",
+      "link_berita": "https://news.republika.co.id/berita/sii2eb484/putusan-terbaru-mk-pdip-bisa-mengusung-anieshendrar-prihadi-di-jakarta"
+    },
+    {
       "judul": "Lomba Tidur Nasional: Dalam Islam Tidur adalah Kenikmatan dari Allah, Apa Maksudnya?",
       "link_berita": "https://iqra.republika.co.id/berita/sihyua366/lomba-tidur-nasional-dalam-islam-tidur-adalah-kenikmatan-dari-allah-apa-maksudnya"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Profil Pendamping Ridwan Kamil, Suswono: NU-Muhammadiyah dalam Satu Keluarga",
       "link_berita": "https://news.republika.co.id/berita/sihp38451/profil-pendamping-ridwan-kamil-suswono-numuhammadiyah-dalam-satu-keluarga"
-    },
-    {
-      "judul": "Komandan Unit IDF Tewas Dibom Pesawat Israel Sendiri",
-      "link_berita": "https://news.republika.co.id/berita/sihmjg393/komandan-unit-idf-tewas-dibom-pesawat-israel-sendiri"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kala Islam Menguasai Negeri Cristiano Ronaldo",
+      "link_berita": "https://khazanah.republika.co.id/berita/sii1pd483/kala-islam-menguasai-negeri-cristiano-ronaldo"
+    },
     {
       "judul": "Sebelum Tidur, Muslim Sebaiknya Perhatikan Adab Tidur Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/sihz7i366/sebelum-tidur-muslim-sebaiknya-perhatikan-adab-tidur-ini"
@@ -77,312 +81,308 @@
     {
       "judul": "Di Atas Kertas, Koalisi RK-Suswono Kumpulkan Empat Juta Suara, Kok Bisa?",
       "link_berita": "https://news.republika.co.id/berita/sigxj8475/di-atas-kertas-koalisi-rksuswono-kumpulkan-empat-juta-suara-kok-bisa"
-    },
-    {
-      "judul": "'Wahai Penghuni Surga-Neraka, Tiada Kematian Setelah Ini!'",
-      "link_berita": "https://khazanah.republika.co.id/berita/sigtg4458/wahai-penghuni-surganeraka-tiada-kematian-setelah-ini"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Deforestasi Perburuk Dampak Perubahan Iklim di Afrika",
+      "link_berita": "https://esgnow.republika.co.id/berita/sii3n6416/deforestasi-perburuk-dampak-perubahan-iklim-di-afrika",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 05:08:50"
+    },
+    {
+      "judul": "38 DPD Seluruh Indonesia Hadiri Rapimnas Partai Golkar",
+      "link_berita": "https://visual.republika.co.id/berita/sii35z375/38-dpd-seluruh-indonesia-hadiri-rapimnas-partai-golkar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:58:50"
+    },
+    {
+      "judul": "Yasonna Ceritakan Isi Pertemuannya dengan Jokowi Sehari Sebelum Reshuffle",
+      "link_berita": "https://news.republika.co.id/berita/sii2l6487/yasonna-ceritakan-isi-pertemuannya-dengan-jokowi-sehari-sebelum-reshuffle",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:45:50"
+    },
+    {
+      "judul": "Putusan Terbaru MK, PDIP Bisa Mengusung Anies-Hendrar Prihadi di Jakarta?",
+      "link_berita": "https://news.republika.co.id/berita/sii2eb484/putusan-terbaru-mk-pdip-bisa-mengusung-anieshendrar-prihadi-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:41:50"
+    },
+    {
+      "judul": "KPK Didorong Segera Tetapkan Tersangka Skandal Demurrage Rp 294 M",
+      "link_berita": "https://genpop.republika.co.id/posts/325815/kpk-didorong-segera-tetapkan-tersangka-skandal-demurrage-rp-294-m",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:38:50"
+    },
+    {
+      "judul": "Pemkot Palangka Raya Libatkan BWI Fasilitasi Sertifikasi Lahan Wakaf",
+      "link_berita": "https://khazanah.republika.co.id/berita/sihqyq451/pemkot-palangka-raya-libatkan-bwi-fasilitasi-sertifikasi-lahan-wakaf",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:32:50"
+    },
+    {
+      "judul": "Kala Islam Menguasai Negeri Cristiano Ronaldo",
+      "link_berita": "https://khazanah.republika.co.id/berita/sii1pd483/kala-islam-menguasai-negeri-cristiano-ronaldo",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:26:50"
+    },
+    {
+      "judul": "Kualitas Udara Jakarta pada Selasa Pagi tidak Sehat, Ini Janji Ridwan Kamil Soal Polusi",
+      "link_berita": "https://news.republika.co.id/berita/sii1m3487/kualitas-udara-jakarta-pada-selasa-pagi-tidak-sehat-ini-janji-ridwan-kamil-soal-polusi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:24:50"
+    },
+    {
+      "judul": "Ilmuwan Temukan Penuaan Terjadi Secara Tiba-tiba Selama Usia 40-an dan 60-an",
+      "link_berita": "https://impresi.republika.co.id/news/1694996303/ilmuwan-temukan-penuaan-terjadi-secara-tiba-tiba-selama-usia-40-an-dan-60-an",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:20:50"
+    },
+    {
       "judul": "Mulai Dibuka Hari Ini, Berikut Syarat Seleksi CPNS di Majalengka",
       "link_berita": "https://rejabar.republika.co.id/berita/sii1aq512/mulai-dibuka-hari-ini-berikut-syarat-seleksi-cpns-di-majalengka",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:18:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:18:50"
     },
     {
       "judul": "Kasus Mpox Sudah Sampai Filipina, Ini Gejala yang Dialami Pasien",
       "link_berita": "https://ameera.republika.co.id/berita/sii170425/kasus-mpox-sudah-sampai-filipina-ini-gejala-yang-dialami-pasien",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:50"
     },
     {
       "judul": "Black Caviar, Kuda Pacu Legendaris Australia Meninggal Dunia Setelah Disuntik Mati",
       "link_berita": "https://ameera.republika.co.id/berita/sii0p2425/black-caviar-kuda-pacu-legendaris-australia-meninggal-dunia-setelah-disuntik-mati",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:05:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:50"
     },
     {
       "judul": "Akui Sempat Ada Persaingan, Dedi Mulyadi Sebut Pemilih Ridwan Kamil Beralih ke Dirinya",
       "link_berita": "https://rejabar.republika.co.id/berita/sii0nb512/akui-sempat-ada-persaingan-dedi-mulyadi-sebut-pemilih-ridwan-kamil-beralih-ke-dirinya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:04:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:50"
     },
     {
       "judul": "Universitas Pancasila Gelar Pelatihan Santripreunership",
       "link_berita": "https://khazanah.republika.co.id/berita/sihqsh451/universitas-pancasila-gelar-pelatihan-santripreunership",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:56:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:50"
     },
     {
       "judul": "Yenny Wahid Nilai PBNU dan PKB Punya Peran Masing-Masing, Ajak Kiai Maruf Tengahi Konflik",
       "link_berita": "https://news.republika.co.id/berita/sii07l487/yenny-wahid-nilai-pbnu-dan-pkb-punya-peran-masingmasing-ajak-kiai-maruf-tengahi-konflik",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:54:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:50"
     },
     {
       "judul": "PBB Ungkap 40 Ribu Nyawa Melayang dalam 10 Bulan Terakhir di Gaza",
       "link_berita": "https://news.republika.co.id/berita/sii06z425/pbb-ungkap-40-ribu-nyawa-melayang-dalam-10-bulan-terakhir-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:54:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:16:50"
     },
     {
       "judul": "Lewat Integrasi Teknologi dan Budaya, Solo Menuju Pusat Digital Berkelanjutan",
       "link_berita": "https://rejogja.republika.co.id/berita/sihzig456/lewat-integrasi-teknologi-dan-budaya-solo-menuju-pusat-digital-berkelanjutan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:39:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Benarkah Indonesia tidak Dijajah Belanda 350 Tahun? Bung Karno Bilang Ini",
       "link_berita": "https://oohya.republika.co.id/sekapur-sirih/1744996084/benarkah-indonesia-tidak-dijajah-belanda-350-tahun-bung-karno-bilang-ini",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:37:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Alumni Kedokteran Unisba Diterjunkan ke Pesantren, Bantu Atasi Berbagai Masalah Kesehatan",
       "link_berita": "https://rejabar.republika.co.id/berita/sihzen512/alumni-kedokteran-unisba-diterjunkan-ke-pesantren-bantu-atasi-berbagai-masalah-kesehatan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:37:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Sebelum Tidur, Muslim Sebaiknya Perhatikan Adab Tidur Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/sihz7i366/sebelum-tidur-muslim-sebaiknya-perhatikan-adab-tidur-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:33:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Taylor Swift Bertemu dengan Para Penyintas Insiden Penusukan Mematikan di Southport",
       "link_berita": "https://impresi.republika.co.id/sana-sini/1694996040/taylor-swift-bertemu-dengan-para-penyintas-insiden-penusukan-mematikan-di-southport",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:27:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Lomba Tidur Nasional: Dalam Islam Tidur adalah Kenikmatan dari Allah, Apa Maksudnya?",
       "link_berita": "https://iqra.republika.co.id/berita/sihyua366/lomba-tidur-nasional-dalam-islam-tidur-adalah-kenikmatan-dari-allah-apa-maksudnya",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:25:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Rumah Produksi Film Vina Dikritik Soal Unggahan Duka Kasus Bunuh Diri Dokter Undip",
       "link_berita": "https://ameera.republika.co.id/berita/sihyp6425/rumah-produksi-film-vina-dikritik-soal-unggahan-duka-kasus-bunuh-diri-dokter-undip",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Donald Trump Secara Keliru Klaim Taylor Swift Telah Mendukungnya",
       "link_berita": "https://impresi.republika.co.id/sosok/1694996005/donald-trump-secara-keliru-klaim-taylor-swift-telah-mendukungnya",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Neutra DC Summit, Telkom Ungkap Kesiapan Indonesia Hadapi Dinamika AI",
       "link_berita": "https://tv.republika.co.id/berita/sihy3y418/neutra-dc-summit-telkom-ungkap-kesiapan-indonesia-hadapi-dinamika-ai",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Sebanyak 1.512 Personel Tim Gabungan Diturunkan Amankan Pilkada Serentak di Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/sihxx9512/sebanyak-1512-personel-tim-gabungan-diturunkan-amankan-pilkada-serentak-di-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "IHSG Diprediksi Variatif di Tengah 'Wait and See' RDG Bank Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sihxpb423/ihsg-diprediksi-variatif-di-tengah-wait-and-see-rdg-bank-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Kemenag Gelar Asesmen Kompetensi Secara Nasional di 12.573 Madrasah",
       "link_berita": "https://khazanah.republika.co.id/berita/sihqmw451/kemenag-gelar-asesmen-kompetensi-secara-nasional-di-12573-madrasah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Musisi Bob Dylan Bakal Rilis Lagu Baru untuk Film Biopik Presiden Ke-40 AS Ronald Reagan",
       "link_berita": "https://ameera.republika.co.id/berita/sihxll425/musisi-bob-dylan-bakal-rilis-lagu-baru-untuk-film-biopik-presiden-ke40-as-ronald-reagan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Hadirkan Beragam Kemudahan Finansial, BRImo Kini Telah Diunduh 35,2 Juta User",
       "link_berita": "https://ekonomi.republika.co.id/berita/sihxin423/hadirkan-beragam-kemudahan-finansial-brimo-kini-telah-diunduh-352-juta-user",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 03:16:50"
     },
     {
       "judul": "Dukung Nusantara Baru, Para Insan Bank Jatim Kompak Berbusana Adat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sihwxm291/dukung-nusantara-baru-para-insan-bank-jatim-kompak-berbusana-adat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Ratusan TPS di Kabupaten Bogor Rawan Konflik",
       "link_berita": "https://rejabar.republika.co.id/berita/sihwtj512/ratusan-tps-di-kabupaten-bogor-rawan-konflik",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Tim F1QR Lanal Tanjung Balai Karimun Tangkap PMI Ilegal Tujuan Malaysia",
       "link_berita": "https://seputarmiliter.id/posts/325821/tim-f1qr-lanal-tanjung-balai-karimun-tangkap-pmi-ilegal-tujuan-malaysia",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Korsel Setuju Kurangi Porsi Pembiayaan RI untuk Proyek Jet Boramae",
       "link_berita": "https://seputarmiliter.id/posts/325831/korsel-setuju-kurangi-porsi-pembiayaan-ri-untuk-proyek-jet-boramae",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Pansus Angket Haji Punya Waktu Sebulan Hasilkan Kesimpulan",
       "link_berita": "https://khazanah.republika.co.id/berita/sihwee366/pansus-angket-haji-punya-waktu-sebulan-hasilkan-kesimpulan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Menteri PUPR Lakukan Penanaman Pohon Dukung Smart Forest City Indonesia di IKN",
       "link_berita": "https://esgnow.republika.co.id/berita/sihvoo423/menteri-pupr-lakukan-penanaman-pohon-dukung-smart-forest-city-indonesia-di-ikn",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Erick Sambut Inovasi Yayasan BUMN Lahirkan Wirausaha Sosial",
       "link_berita": "https://ekonomi.republika.co.id/berita/sihveb423/erick-sambut-inovasi-yayasan-bumn-lahirkan-wirausaha-sosial",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Pendidikan untuk Indonesia Maju di HUT ke-79 RI Bersama Cyber University",
       "link_berita": "https://news.republika.co.id/berita/sihsqj423/pendidikan-untuk-indonesia-maju-di-hut-ke79-ri-bersama-cyber-university",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Syukuri Hari Kemerdekaan, Sahabat Rizki Irmansyah se-Indonesia Gencarkan 'Berbagi Rizki'",
       "link_berita": "https://republika.co.id/berita/sihv4k456/syukuri-hari-kemerdekaan-sahabat-rizki-irmansyah-se-indonesia-gencarkan-berbagi-rizki",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Mahasiswa Cyber University Sukses Juarai Turnamen E-Sport Bergengsi",
       "link_berita": "https://news.republika.co.id/berita/sihs1f423/mahasiswa-cyber-university-sukses-juarai-turnamen-esport-bergengsi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Dedi Mulyadi: Suara Ridwan Kamil Beralih ke Saya",
       "link_berita": "https://news.republika.co.id/berita/sihuit377/dedi-mulyadi-suara-ridwan-kamil-beralih-ke-saya",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Menag: AKMI Wujud Komitmen Kemenag untuk Benahi Madrasah",
       "link_berita": "https://khazanah.republika.co.id/berita/sihq41451/menag-akmi-wujud-komitmen-kemenag-untuk-benahi-madrasah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 02:16:50"
     },
     {
       "judul": "Soal PKB, Gus Yahya: Kami tidak akan Berhenti Sampai Berhasil",
       "link_berita": "https://news.republika.co.id/berita/sihuau487/soal-pkb-gus-yahya-kami-tidak-akan-berhenti-sampai-berhasil",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Kementerian Kesehatan Palestina Konfirmasi Kasus Pertama Polio di Gaza Setelah 25 Tahun",
       "link_berita": "https://ameera.republika.co.id/berita/sihu1y425/kementerian-kesehatan-palestina-konfirmasi-kasus-pertama-polio-di-gaza-setelah-25-tahun",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Dalih PDIP yang Enggan Tarik Semua Kadernya dari Kabinet Jokowi",
       "link_berita": "https://news.republika.co.id/berita/sihtk6487/dalih-pdip-yang-enggan-tarik-semua-kadernya-dari-kabinet-jokowi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Ini Kutipan Pertama Anies Baswedan Usai Diganjal Maju di Pilgub Jakarta",
       "link_berita": "https://news.republika.co.id/berita/sihtfb377/ini-kutipan-pertama-anies-baswedan-usai-diganjal-maju-di-pilgub-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Tiga Perempuan Investor Bodong Asal Vietnam Dideportasi",
       "link_berita": "https://rejabar.republika.co.id/berita/sihtal512/tiga-perempuan-investor-bodong-asal-vietnam-dideportasi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Info Terkini Film John Wick 5, Keanu Reeves Diisukan Kembali",
       "link_berita": "https://ameera.republika.co.id/berita/sihtad425/info-terkini-film-john-wick-5-keanu-reeves-diisukan-kembali",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Pemindahan Sudirman Disebut Tunggu Rekomendasi LPSK, Siapa yang Ajukan?",
       "link_berita": "https://rejabar.republika.co.id/berita/sihszk512/pemindahan-sudirman-disebut-tunggu-rekomendasi-lpsk-siapa-yang-ajukan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Hobi Tidur dan Sering Ngantuk? Waspada Tanda Hipersomnia",
       "link_berita": "https://ameera.republika.co.id/berita/sihsx8425/hobi-tidur-dan-sering-ngantuk-waspada-tanda-hipersomnia",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Kru KRI Bima Sakti Ikut Rayakan Persaudaraan RI-Kamboja 65 Tahun",
-      "link_berita": "https://seputarmiliter.id/posts/325817/kru-kri-bima-sakti-ikut-rayakan-persaudaraan-ri-kamboja-65-tahun",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Eks Kepala Spionase: Pangeran MBS Palsukan Tanda Tangan Raja Saudi untuk Serang Yaman",
-      "link_berita": "https://news.republika.co.id/berita/sihsnn377/eks-kepala-spionase-pangeran-mbs-palsukan-tanda-tangan-raja-saudi-untuk-serang-yaman",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Mengapa PBB dan UNESCO ingin berkolaborasi dengan Artis K-pop? Ternyata Ini Alasannya",
-      "link_berita": "https://impresi.republika.co.id/leisure/1694995554/mengapa-pbb-dan-unesco-ingin-berkolaborasi-dengan-artis-k-pop-ternyata-ini-alasannya",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Nuansa Merah Putih di Hari Proklamasi RI",
-      "link_berita": "https://kangjepret.republika.co.id/posts/325457/nuansa-merah-putih-di-hari-proklamasi-ri",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Harapan PBNU kepada PKB, Begini Penjelasan Gus Yahya Staquf",
-      "link_berita": "https://news.republika.co.id/berita/sigseh451/harapan-pbnu-kepada-pkb-begini-penjelasan-gus-yahya-staquf",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Mau Jadi Content Creator Antiribet? Tasik Digital Kreatif Forum (TDKF) Siap Bongkar Ilmu",
-      "link_berita": "https://news.republika.co.id/berita/sihrvj423/mau-jadi-content-creator-antiribet-tasik-digital-kreatif-forum-tdkf-siap-bongkar-ilmu",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:23:29"
-    },
-    {
-      "judul": "Warga Desa Wowong Bentangkan Bendera Merah Putih Raksasa di Pantai Nusantara",
-      "link_berita": "https://ameera.republika.co.id/berita/sihrsj416/warga-desa-wowong-bentangkan-bendera-merah-putih-raksasa-di-pantai-nusantara",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 00:23:29"
-    },
-    {
-      "judul": "Bahlil Lahadalia Single Candidate for Golkar General Chairperson, Ridwan Hisyam Failed",
-      "link_berita": "https://en.republika.co.id/berita/sihrse415/bahlil-lahadalia-single-candidate-for-golkar-general-chairperson-ridwan-hisyam-failed",
-      "kategori": "En",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 04:23:29"
-    },
-    {
-      "judul": "Pemprov Jatim Buka Rekrutmen 2.314 Formasi CPNS, Tes Serentak Digelar Hari Ini",
-      "link_berita": "https://rejogja.republika.co.id/berita/sihros366/pemprov-jatim-buka-rekrutmen-2314-formasi-cpns-tes-serentak-digelar-hari-ini",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 00:23:29"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 01:16:50"
     },
     {
       "judul": "Kasus Mpox Sudah Sampai Filipina, Ini Gejala yang Dialami Pasien",
@@ -391,10 +391,10 @@
       "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:16:00"
     },
     {
-      "judul": "Banjir di Pakistan Renggut Ratusan Korban Jiwa",
-      "link_berita": "https://esgnow.republika.co.id/berita/sihqkg416/banjir-di-pakistan-renggut-ratusan-korban-jiwa",
+      "judul": "Deforestasi Perburuk Dampak Perubahan Iklim di Afrika",
+      "link_berita": "https://esgnow.republika.co.id/berita/sii3n6416/deforestasi-perburuk-dampak-perubahan-iklim-di-afrika",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 07:26:00"
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 12:09:00"
     },
     {
       "judul": "IHSG Diprediksi Variatif di Tengah 'Wait and See' RDG Bank Indonesia",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 14 Aug 2024, 19:47:00"
     },
     {
-      "judul": "Kasus Mpox Sudah Sampai Filipina, Ini Gejala yang Dialami Pasien",
-      "link_berita": "https://news.republika.co.id/berita/sii170425/kasus-mpox-sudah-sampai-filipina-ini-gejala-yang-dialami-pasien",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:16:00"
+      "judul": "Yasonna Ceritakan Isi Pertemuannya dengan Jokowi Sehari Sebelum Reshuffle",
+      "link_berita": "https://news.republika.co.id/berita/sii2l6487/yasonna-ceritakan-isi-pertemuannya-dengan-jokowi-sehari-sebelum-reshuffle",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Tuesday, 20 Aug 2024, 11:46:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 20 Aug 2024, 11:23:29"
+  "waktu_scraping": "Tuesday, 20 Aug 2024, 12:16:50"
 }
