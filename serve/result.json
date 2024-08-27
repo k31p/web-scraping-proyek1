@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Demo di Kota Semarang Berakhir Ricuh, 33 Orang Dirawat di RS",
+      "link_berita": "https://news.republika.co.id/berita/siurq9484/demo-di-kota-semarang-berakhir-ricuh-33-orang-dirawat-di-rs"
+    },
+    {
       "judul": "Kader Muda Golkar Buat Laporan ke Bareskrim Terkait Unggahan Foto Botol Miras",
       "link_berita": "https://news.republika.co.id/berita/siuq2t409/kader-muda-golkar-buat-laporan-ke-bareskrim-terkait-unggahan-foto-botol-miras"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Kunjungi Indonesia, Paus Fransiskus akan Angkat Isu Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/siul59483/kunjungi-indonesia-paus-fransiskus-akan-angkat-isu-palestina"
-    },
-    {
-      "judul": "Iran: Serangan Hizbullah Buktikan Rapuhnya Israel",
-      "link_berita": "https://www.republika.id/posts/54446/iran-serangan-hizbullah-buktikan-rapuhnya-israel"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Gempa Yogya Rusak Sejumlah Rumah Warga dan Bangunan Pasar, Paling Banyak di Gunungkidul",
+      "link_berita": "https://rejogja.republika.co.id/berita/siuse3282/gempa-yogya-rusak-sejumlah-rumah-warga-dan-bangunan-pasar-paling-banyak-di-gunungkidul"
+    },
+    {
+      "judul": "PDIP Siap Lawan Kartel Politik di Jakarta, Bagaimana Nasib Anies?",
+      "link_berita": "https://news.republika.co.id/berita/siuq91484/pdip-siap-lawan-kartel-politik-di-jakarta-bagaimana-nasib-anies"
+    },
     {
       "judul": "Bos OJK Sebut Perputaran Ekonomi di Industri Halal Dunia Capai Rp 36 Triliun",
       "link_berita": "https://sharia.republika.co.id/berita/siupp3502/bos-ojk-sebut-perputaran-ekonomi-di-industri-halal-dunia-capai-rp-36-triliun"
@@ -73,322 +81,314 @@
     {
       "judul": "Dibentak Hingga 'Diancam' Megawati Usai Dicalonkan Sebagai Cagub Banten, Ini Respons Airin",
       "link_berita": "https://news.republika.co.id/berita/sitna1487/dibentak-hingga-diancam-megawati-usai-dicalonkan-sebagai-cagub-banten-ini-respons-airin"
-    },
-    {
-      "judul": "Megawati Ingatkan Ahok: Selotip Masih Berjalan, Habis Nyerocos Saja",
-      "link_berita": "https://news.republika.co.id/berita/sitjrr377/megawati-ingatkan-ahok-selotip-masih-berjalan-habis-nyerocos-saja"
-    },
-    {
-      "judul": "Menteri Keamanan Israel Ungkap Rencana Bangun Sinagog di Al-Aqsa",
-      "link_berita": "https://news.republika.co.id/berita/sith9j393/menteri-keamanan-israel-ungkap-rencana-bangun-sinagog-di-alaqsa"
     }
   ],
   "berita_lainnya": [
     {
-      "judul": "Demo di Kota Semarang Berakhir Ricuh, 22 Orang Dirawat di RS",
-      "link_berita": "https://news.republika.co.id/berita/siurq9484/demo-di-kota-semarang-berakhir-ricuh-22-orang-dirawat-di-rs",
+      "judul": "Saat Melihat Ka'bah di Masjidil Haram, Bacalah Doa Ini",
+      "link_berita": "https://khazanah.republika.co.id/berita/siuvay430/saat-melihat-kabah-di-masjidil-haram-bacalah-doa-ini",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:37:46"
+    },
+    {
+      "judul": "Perusahaan Teknologi Dorong Pelaku Usaha Melakukan Digitalisasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siuutp430/perusahaan-teknologi-dorong-pelaku-usaha-melakukan-digitalisasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:30:17"
+    },
+    {
+      "judul": "Asia Tenggara Jadi Fokus Ekspansi Telkom",
+      "link_berita": "https://tv.republika.co.id/berita/siuuw2467/asia-tenggara-jadi-fokus-ekspansi-telkom",
+      "kategori": "Video",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:29:17"
+    },
+    {
+      "judul": "Indahnya Masjid Agung Isfahan",
+      "link_berita": "https://khazanah.republika.co.id/berita/siuup1458/indahnya-masjid-agung-isfahan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:24:17"
+    },
+    {
+      "judul": "Alhamdulillah tak Ada Likuefaksi dan Retakan Tanah Akibat Gempa Yogya",
+      "link_berita": "https://rejogja.republika.co.id/berita/siuum2282/alhamdulillah-tak-ada-likuefaksi-dan-retakan-tanah-akibat-gempa-yogya",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:23:17"
+    },
+    {
+      "judul": "'Tak Ada Lagi Tawaf Dalam Keadaan Telanjang'",
+      "link_berita": "https://khazanah.republika.co.id/berita/siuu4x458/tak-ada-lagi-tawaf-dalam-keadaan-telanjang",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:12:17"
+    },
+    {
+      "judul": "13 Warga Jabar Terjangkit Cacar Monyet Akibat Hubungan Seks Menyimpang (Homoseksual)",
+      "link_berita": "https://republika.co.id/berita/siuty3282/13-warga-jabar-terjangkit-cacar-monyet-akibat-hubungan-seks-menyimpang-homoseksual",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 02:08:17"
+    },
+    {
+      "judul": "Delegasi Pemuda ASEAN Pelajari Inovasi Ekonomi Digital Cina untuk Kemajuan Regional",
+      "link_berita": "https://rejogja.republika.co.id/berita/siutc5291/delegasi-pemuda-asean-pelajari-inovasi-ekonomi-digital-cina-untuk-kemajuan-regional",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:55:17"
+    },
+    {
+      "judul": "KPU Tasikmalaya Sebut Tiga Pasang Bakal Calon Wali Kota Siap Mendaftarkan Diri",
+      "link_berita": "https://rejabar.republika.co.id/berita/siut86512/kpu-tasikmalaya-sebut-tiga-pasang-bakal-calon-wali-kota-siap-mendaftarkan-diri",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:53:17"
+    },
+    {
+      "judul": "Panglima TNI Adakan Tatap Muka Bersama Satkowil Kodam Jaya",
+      "link_berita": "https://seputarmiliter.id/posts/327133/panglima-tni-adakan-tatap-muka-bersama-satkowil-kodam-jaya",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:52:17"
+    },
+    {
+      "judul": "Demi Keselamatan, Perjalanan Kereta Api Dihentikan Akibat Gempa Yogya",
+      "link_berita": "https://rejogja.republika.co.id/berita/siut4s282/demi-keselamatan-perjalanan-kereta-api-dihentikan-akibat-gempa-yogya",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:51:17"
+    },
+    {
+      "judul": "Isuzu Kembangkan Truk Menyetir Sendiri, Tahun 2027 Mengaspal",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siut3f468/isuzu-kembangkan-truk-menyetir-sendiri-tahun-2027-mengaspal",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:50:17"
+    },
+    {
+      "judul": "Kabar Oasis Reuni: Mimpi Menjadi Kenyataan?",
+      "link_berita": "https://ameera.republika.co.id/berita/siut20425/kabar-oasis-reuni-mimpi-menjadi-kenyataan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:49:17"
+    },
+    {
+      "judul": "Reog hingga Danggdut Semarakkan Festival WOW Indonesia di AS",
+      "link_berita": "https://tv.republika.co.id/berita/siusxg418/reog-hingga-danggdut-semarakkan-festival-wow-indonesia-di-as",
+      "kategori": "Video",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:46:17"
+    },
+    {
+      "judul": "BPJS Ketenagakerjaan Buka Booth di WJF, Edukasi Pekerja Dapat Perlindungan Jaminan Sosial",
+      "link_berita": "https://rejabar.republika.co.id/berita/siusqm512/bpjs-ketenagakerjaan-buka-booth-di-wjf-edukasi-pekerja-dapat-perlindungan-jaminan-sosial",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:42:17"
+    },
+    {
+      "judul": "Dukungan Riza-Marshel Dicabut, PKS Usung Kader Sendiri di Pilwalkot Tangsel",
+      "link_berita": "https://news.republika.co.id/berita/siush7484/dukungan-rizamarshel-dicabut-pks-usung-kader-sendiri-di-pilwalkot-tangsel",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:20:33"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:42:17"
+    },
+    {
+      "judul": "Catatan Hamka Soal Hubungan Muawiyah dan Ratu Sima di Jawa",
+      "link_berita": "https://khazanah.republika.co.id/berita/siusl3458/catatan-hamka-soal-hubungan-muawiyah-dan-ratu-sima-di-jawa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:39:17"
+    },
+    {
+      "judul": "Dinkes Sebut Belasan Kasus Cacar Monyet di Jabar Akibat Penyimpangan Hubungan Seksual",
+      "link_berita": "https://rejabar.republika.co.id/berita/siusgz512/dinkes-sebut-belasan-kasus-cacar-monyet-di-jabar-akibat-penyimpangan-hubungan-seksual",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:38:17"
+    },
+    {
+      "judul": "Gempa Yogya Rusak Sejumlah Rumah Warga dan Bangunan Pasar, Paling Banyak di Gunungkidul",
+      "link_berita": "https://rejogja.republika.co.id/berita/siuse3282/gempa-yogya-rusak-sejumlah-rumah-warga-dan-bangunan-pasar-paling-banyak-di-gunungkidul",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:38:17"
+    },
+    {
+      "judul": "Kanada Terapkan Tarif Bea Masuk 100 Persen Terhadap Mobil Listrik China",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siusbb468/kanada-terapkan-tarif-bea-masuk-100-persen-terhadap-mobil-listrik-china",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:38:17"
+    },
+    {
+      "judul": "Cara Bebas dan Mudah Menulis Puisi",
+      "link_berita": "https://retizen.republika.co.id/posts/327114/cara-bebas-dan-mudah-menulis-puisi",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:38:17"
+    },
+    {
+      "judul": "Demo di Kota Semarang Berakhir Ricuh, 33 Orang Dirawat di RS",
+      "link_berita": "https://news.republika.co.id/berita/siurq9484/demo-di-kota-semarang-berakhir-ricuh-33-orang-dirawat-di-rs",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:38:17"
     },
     {
       "judul": "Komika Praz Teguh Hengkang dari Podcast PWK: Izinkan Saya Pamit",
       "link_berita": "https://ameera.republika.co.id/berita/siurf9425/komika-praz-teguh-hengkang-dari-podcast-pwk-izinkan-saya-pamit",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:13:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:38:17"
     },
     {
       "judul": "Race Terakhir di Boyolali Jadi Penentu Siapa Juara Umum Superchallenge Supermoto Race 2024",
       "link_berita": "https://news.republika.co.id/berita/siuqv1456/race-terakhir-di-boyolali-jadi-penentu-siapa-juara-umum-superchallenge-supermoto-race-2024",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:01:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Benarkah Ali tak Akui Kepemimpinan Khalifah Abu Bakar?",
       "link_berita": "https://khazanah.republika.co.id/berita/siuqsr458/benarkah-ali-tak-akui-kepemimpinan-khalifah-abu-bakar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 01:00:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Kolaborasi Perajin dan Perancang Busana Jadikan Kriyanusa 2024 Lebih Berwarna",
       "link_berita": "https://ameera.republika.co.id/berita/siunu4416/kolaborasi-perajin-dan-perancang-busana-jadikan-kriyanusa-2024-lebih-berwarna",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:59:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Siap-Siap War Tiket MotoGP Cuma Rp 1",
       "link_berita": "https://ekonomi.republika.co.id/berita/siuqg5502/siapsiap-war-tiket-motogp-cuma-rp-1",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:52:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "PDIP Siap Lawan Kartel Politik di Jakarta, Bagaimana Nasib Anies?",
       "link_berita": "https://news.republika.co.id/berita/siuq91484/pdip-siap-lawan-kartel-politik-di-jakarta-bagaimana-nasib-anies",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:48:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Duh! Menteri Israel Ini Ingin Bangun Sinagoge di Kompleks Suci Al-Aqsa",
       "link_berita": "https://news.republika.co.id/berita/siuq82377/duh-menteri-israel-ini-ingin-bangun-sinagoge-di-kompleks-suci-alaqsa",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:47:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Haikal Sulaiman yang Diklaim Zionis Israel, Fakta atau Mitos?",
       "link_berita": "https://khazanah.republika.co.id/berita/siuq56458/haikal-sulaiman-yang-diklaim-zionis-israel-fakta-atau-mitos",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:45:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Kader Muda Golkar Buat Laporan ke Bareskrim Terkait Unggahan Foto Botol Miras",
       "link_berita": "https://news.republika.co.id/berita/siuq2t409/kader-muda-golkar-buat-laporan-ke-bareskrim-terkait-unggahan-foto-botol-miras",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:44:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Bos OJK Sebut Perputaran Ekonomi di Industri Halal Dunia Capai Rp 36 Triliun",
       "link_berita": "https://sharia.republika.co.id/berita/siupp3502/bos-ojk-sebut-perputaran-ekonomi-di-industri-halal-dunia-capai-rp-36-triliun",
       "kategori": "Sharia",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:36:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Salip Honda dan Nissan, BYD Sukses Jadi Produsen Mobil Terbesar Ketujuh Dunia",
       "link_berita": "https://motoresto.id/posts/327034/salip-honda-dan-nissan-byd-sukses-jadi-produsen-mobil-terbesar-ketujuh-dunia",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:35:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Banjir Bandang Ternate: 16 Warga Meningal, Tiga Hilang",
       "link_berita": "https://topnews62.com/posts/327116/banjir-bandang-ternate-16-warga-meningal-tiga-hilang",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:34:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Warga Korsel Gugat Pemerintah, Minta Kebebasan Gunakan Listrik Hijau",
       "link_berita": "https://esgnow.republika.co.id/berita/siupjz416/warga-korsel-gugat-pemerintah-minta-kebebasan-gunakan-listrik-hijau",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:33:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "2030 Darurat Emisi, ESDM Ungkap Enam Strategi Demi Mencapai NZE",
       "link_berita": "https://ekonomi.republika.co.id/berita/siupjb502/2030-darurat-emisi-esdm-ungkap-enam-strategi-demi-mencapai-nze",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:32:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Dalih Napoleon Tundukkan Mesir dan Dampaknya bagi Muslim",
       "link_berita": "https://news.republika.co.id/berita/siupbu458/dalih-napoleon-tundukkan-mesir-dan-dampaknya-bagi-muslim",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:28:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Anggota DPR Kritisi Puluhan Triliun Anggaran Pendidikan tak Terserap",
       "link_berita": "https://news.republika.co.id/berita/siupbo484/anggota-dpr-kritisi-puluhan-triliun-anggaran-pendidikan-tak-terserap",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:28:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "NeutraDC Summit 2024, Komitmen TelkomGroup dalam Memimpin Perkembangan Teknologi AI",
       "link_berita": "https://ekonomi.republika.co.id/berita/siup82502/neutradc-summit-2024-komitmen-telkomgroup-dalam-memimpin-perkembangan-teknologi-ai",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:26:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Jelang Maulid Nabi Marak Kembali Isu Bid'ah, Apa Kata Quraish Shihab?",
       "link_berita": "https://khazanah.republika.co.id/berita/siup7x483/jelang-maulid-nabi-marak-kembali-isu-bidah-apa-kata-quraish-shihab",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:26:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Anak Susah Diatur dan Suka Melawan? Baca 3 Doa Alquran Ini Setiap Pagi Hari Selama 1 Bulan",
       "link_berita": "https://iqra.republika.co.id/berita/siuow2320/anak-susah-diatur-dan-suka-melawan-baca-3-doa-alquran-ini-setiap-pagi-hari-selama-1-bulan",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:20:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Mengubah Redaksi Doa Sapu Jagat yang Ada dalam Alquran, Bolehkah?",
       "link_berita": "https://iqra.republika.co.id/berita/siuon0483/mengubah-redaksi-doa-sapu-jagat-yang-ada-dalam-alquran-bolehkah",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:20:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Kejagung Respons Unggahan Menantu Staf Ahli Jaksa Agung Terkait Gratifikasi",
       "link_berita": "https://news.republika.co.id/berita/siuoi4484/kejagung-respons-unggahan-menantu-staf-ahli-jaksa-agung-terkait-gratifikasi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:20:49"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:38:17"
     },
     {
       "judul": "Tembus Pertahanan Udara Israel, Roket dari Gaza Meledak di Tel Aviv",
       "link_berita": "https://khazanah.republika.co.id/berita/siuo5e483/tembus-pertahanan-udara-israel-roket-dari-gaza-meledak-di-tel-aviv",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
       "judul": "Doa yang Kerap Dilafazkan Usai Dhuha Bukan Berasal dari Quran dan Hadits, Ini Sumbernya",
       "link_berita": "https://iqra.republika.co.id/berita/siu3pk483/doa-yang-kerap-dilafazkan-usai-dhuha-bukan-berasal-dari-quran-dan-hadits-ini-sumbernya",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 00:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
       "judul": "Mundur dari PKS, Dewan Pakar Serahkan Jas dan KTA",
       "link_berita": "https://news.republika.co.id/berita/siunko484/mundur-dari-pks-dewan-pakar-serahkan-jas-dan-kta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
       "judul": "Regenerasi Wastra Indonesia, Kriyanusa 2024 Hadirkan Karya Perajin Muda",
       "link_berita": "https://ameera.republika.co.id/berita/siunja416/regenerasi-wastra-indonesia-kriyanusa-2024-hadirkan-karya-perajin-muda",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
       "judul": "Kader PKK Antusias Hadiri Puncak Peringatan HKG PKK ke-52 Tingkat Provinsi Banten",
       "link_berita": "https://news.republika.co.id/berita/siuni4502/kader-pkk-antusias-hadiri-puncak-peringatan-hkg-pkk-ke52-tingkat-provinsi-banten",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
       "judul": "Hadapi Cuaca Panas, Masyarakat di Jakarta Diimbau Waspadai Risiko Kebakaran",
       "link_berita": "https://news.republika.co.id/berita/siuner425/hadapi-cuaca-panas-masyarakat-di-jakarta-diimbau-waspadai-risiko-kebakaran",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
       "judul": "Di Balik Misteri Ilahi, Mengapa Takaran Rezeki Bagi Manusia Harus Berbeda?",
       "link_berita": "https://khazanah.republika.co.id/berita/siun6y483/di-balik-misteri-ilahi-mengapa-takaran-rezeki-bagi-manusia-harus-berbeda",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
+      "tanggal_terbit": "Monday, 26 Aug 2024, 23:38:17"
     },
     {
-      "judul": "Belasan Rumah di DIY Rusak Akibat Gempa",
-      "link_berita": "https://news.republika.co.id/berita/siun44416/belasan-rumah-di-diy-rusak-akibat-gempa",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Yoyok Sukawi Gandeng Ketua Gerindra Maju Pilwalkot Semarang 2024",
-      "link_berita": "https://news.republika.co.id/berita/siumpi484/yoyok-sukawi-gandeng-ketua-gerindra-maju-pilwalkot-semarang-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Muslimah Berhijab Juara Panahan Berkuda di Prancis, Benarkah Pemanah akan Dapat Pahala?",
-      "link_berita": "https://khazanah.republika.co.id/berita/siumnr483/muslimah-berhijab-juara-panahan-berkuda-di-prancis-benarkah-pemanah-akan-dapat-pahala",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Masyarakat Diimbau Sukseskan Pilkada 2024",
-      "link_berita": "https://republika.co.id/berita/siujkc430/masyarakat-diimbau-sukseskan-pilkada-2024",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Menjadi Pribadi yang Istiqamah",
-      "link_berita": "https://www.republika.id/posts/54439/menjadi-pribadi-yang-istiqamah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Gabung KIM Plus dan Dukung Bobby, 28 Dewan Pakar Mundur dari PKS",
-      "link_berita": "https://news.republika.co.id/berita/siulm6484/gabung-kim-plus-dan-dukung-bobby-28-dewan-pakar-mundur-dari-pks",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Dampak Gempa DIY, Sebelas Perjalanan Kereta Api Dihentikan Sementara, KA Mana Saja?",
-      "link_berita": "https://news.republika.co.id/berita/siuljp483/dampak-gempa-diy-sebelas-perjalanan-kereta-api-dihentikan-sementara-ka-mana-saja",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Serangan Israel ke Gaza Bawa Juga Sampah Kaleng Coca-Cola",
-      "link_berita": "https://news.republika.co.id/berita/siulj1393/serangan-israel-ke-gaza-bawa-juga-sampah-kaleng-cocacola",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Djarot Akui PDIP Dorong Kader Internal Maju Pilgub Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/siukgk484/djarot-akui-pdip-dorong-kader-internal-maju-pilgub-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Operasi Jagratara Imigrasi Akbar Amankan 4 WNA Diduga Lakukan Pelanggaran",
-      "link_berita": "https://news.republika.co.id/berita/siul82320/operasi-jagratara-imigrasi-akbar-amankan-4-wna-diduga-lakukan-pelanggaran",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Keluarga Asal Rawa Kalong yang Lahirkan Juara Panahan Berkuda Hingga ke Prancis",
-      "link_berita": "https://khazanah.republika.co.id/berita/siu2nm483/keluarga-asal-rawa-kalong-yang-lahirkan-juara-panahan-berkuda-hingga-ke-prancis",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Kunjungi Indonesia, Paus Fransiskus akan Angkat Isu Palestina",
-      "link_berita": "https://khazanah.republika.co.id/berita/siul59483/kunjungi-indonesia-paus-fransiskus-akan-angkat-isu-palestina",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Sudah 16 Korban Banjir Ternate Ditemukan Meninggal Dunia",
-      "link_berita": "https://www.republika.id/posts/54451/sudah-16-korban-banjir-ternate-ditemukan-meninggal-dunia",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 23:20:49"
-    },
-    {
-      "judul": "Rusia Lancarkan Serangan Besar-Besaran ke Ukraina",
-      "link_berita": "https://www.republika.id/posts/54445/rusia-lancarkan-serangan-besar-besaran-ke-ukraina",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Ketua KPU Ungkap Sengaja Bocorkan Draf PKPU Sebelum Konsultasi dengan Komisi II DPR",
-      "link_berita": "https://news.republika.co.id/berita/situ20487/ketua-kpu-ungkap-sengaja-bocorkan-draf-pkpu-sebelum-konsultasi-dengan-komisi-ii-dpr",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Terus Diburu Pejuang Palestina, Tujuh Tentara Israel Tewas",
-      "link_berita": "https://www.republika.id/posts/54443/terus-diburu-pejuang-palestina-tujuh-tentara-israel-tewas",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Nabi SAW Nubuatkan 6 Hal, 5 Terjadi dan 1 Belum yaitu Perang dengan Eropa, Maksudnya?",
-      "link_berita": "https://iqra.republika.co.id/berita/siujx7320/nabi-saw-nubuatkan-6-hal-5-terjadi-dan-1-belum-yaitu-perang-dengan-eropa-maksudnya",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Iran: Serangan Hizbullah Buktikan Rapuhnya Israel",
-      "link_berita": "https://www.republika.id/posts/54446/iran-serangan-hizbullah-buktikan-rapuhnya-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Sudirman Disiksa Lagi untuk Akui Pegi Pembunuh Vina? Pengacara Lama Ungkap Semua Kekejian",
-      "link_berita": "https://news.republika.co.id/berita/sitwks487/sudirman-disiksa-lagi-untuk-akui-pegi-pembunuh-vina-pengacara-lama-ungkap-semua-kekejian",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Hamas tidak akan Mengangkat Bendera Putih",
-      "link_berita": "https://www.republika.id/posts/54431/hamas-tidak-akan-mengangkat-bendera-putih",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 22:20:49"
-    },
-    {
-      "judul": "Apakah Anwar Usman Ikut Menyidangkan Perselisihan Pilkada? Ini Jawaban Ketua MK",
-      "link_berita": "https://news.republika.co.id/berita/situv5487/apakah-anwar-usman-ikut-menyidangkan-perselisihan-pilkada-ini-jawaban-ketua-mk",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Aug 2024, 21:20:49"
-    },
-    {
-      "judul": "Komika Praz Teguh Hengkang dari Podcast PWK: Izinkan Saya Pamit",
-      "link_berita": "https://ameera.republika.co.id/berita/siurf9425/komika-praz-teguh-hengkang-dari-podcast-pwk-izinkan-saya-pamit",
+      "judul": "Kabar Oasis Reuni: Mimpi Menjadi Kenyataan?",
+      "link_berita": "https://ameera.republika.co.id/berita/siut20425/kabar-oasis-reuni-mimpi-menjadi-kenyataan",
       "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 08:13:00"
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 08:49:00"
     },
     {
       "judul": "Warga Korsel Gugat Pemerintah, Minta Kebebasan Gunakan Listrik Hijau",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 27 Aug 2024, 07:33:00"
     },
     {
-      "judul": "Siap-Siap War Tiket MotoGP Cuma Rp 1",
-      "link_berita": "https://ekonomi.republika.co.id/berita/siuqg5502/siapsiap-war-tiket-motogp-cuma-rp-1",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Tuesday, 27 Aug 2024, 07:52:00"
+      "judul": "Isuzu Kembangkan Truk Menyetir Sendiri, Tahun 2027 Mengaspal",
+      "link_berita": "https://ekonomi.republika.co.id/berita/siut3f468/isuzu-kembangkan-truk-menyetir-sendiri-tahun-2027-mengaspal",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Tuesday, 27 Aug 2024, 08:50:00"
     },
     {
       "judul": "Bos OJK Sebut Perputaran Ekonomi di Industri Halal Dunia Capai Rp 36 Triliun",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 27 Aug 2024, 07:36:00"
     },
     {
-      "judul": "Demo di Kota Semarang Berakhir Ricuh, 22 Orang Dirawat di RS",
-      "link_berita": "https://news.republika.co.id/berita/siurq9484/demo-di-kota-semarang-berakhir-ricuh-22-orang-dirawat-di-rs",
+      "judul": "Demo di Kota Semarang Berakhir Ricuh, 33 Orang Dirawat di RS",
+      "link_berita": "https://news.republika.co.id/berita/siurq9484/demo-di-kota-semarang-berakhir-ricuh-33-orang-dirawat-di-rs",
       "kategori": "Nasional News",
       "tanggal_terbit": "Tuesday, 27 Aug 2024, 08:20:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 27 Aug 2024, 08:20:50"
+  "waktu_scraping": "Tuesday, 27 Aug 2024, 09:38:17"
 }
