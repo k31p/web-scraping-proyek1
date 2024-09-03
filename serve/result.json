@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Sederhananya Paus: Naik Pesawat Komersial, Diantar Mobil Kijang Hingga Menginap di Kedubes",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj869p483/sederhananya-paus-naik-pesawat-komersial-diantar-mobil-kijang-hingga-menginap-di-kedubes"
+    },
+    {
       "judul": "KDRT Maut di Solo, Suami Kesal Istri Buang Uang Rp 30 Ribu Hasil Jadi Tukang Parkir",
       "link_berita": "https://news.republika.co.id/berita/sj81zc377/kdrt-maut-di-solo-suami-kesal-istri-buang-uang-rp-30-ribu-hasil-jadi-tukang-parkir"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Saat Paus Fransiskus Membela Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/sj7vv3393/saat-paus-fransiskus-membela-islam"
-    },
-    {
-      "judul": "Paus Fransiskus ke Indonesia, Ini Syarat Umat Katolik Bisa Ikuti Misa Akbar di GBK",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj7v6n366/paus-fransiskus-ke-indonesia-ini-syarat-umat-katolik-bisa-ikuti-misa-akbar-di-gbk"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Antisipasi Potensi Gempa Megathrust, BMKG Sebut Pentingnya Penyesuaian Gaya Rumah",
+      "link_berita": "https://news.republika.co.id/berita/sj84td425/antisipasi-potensi-gempa-megathrust-bmkg-sebut-pentingnya-penyesuaian-gaya-rumah"
+    },
+    {
+      "judul": "Mimpi yang Mengejutkan Sahabat Nabi",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj838k458/mimpi-yang-mengejutkan-sahabat-nabi"
+    },
     {
       "judul": "Tangis Haru Theresia Dapat Lambaian Paus Fransiskus",
       "link_berita": "https://khazanah.republika.co.id/berita/sj82g6393/tangis-haru-theresia-dapat-lambaian-paus-fransiskus"
@@ -73,334 +81,326 @@
     {
       "judul": "Rahasia Ayat Terakhir al-Fatihah yang Luar Biasa",
       "link_berita": "https://iqra.republika.co.id/berita/sj6ami451/rahasia-ayat-terakhir-alfatihah-yang-luar-biasa"
-    },
-    {
-      "judul": "Hujan dan Angin Kencang Terjang Bogor, Pohon Tumbang, Reklame Roboh, Pintu Mall Hancur",
-      "link_berita": "https://rejabar.republika.co.id/berita/sj71fi282/hujan-dan-angin-kencang-terjang-bogor-pohon-tumbang-reklame-roboh-pintu-mall-hancur"
-    },
-    {
-      "judul": "Dijanjikan Vespa, Ibu di Sumenep Serahkan Putri Kandungnya untuk Diperkosa Kepala Sekolah",
-      "link_berita": "https://rejogja.republika.co.id/berita/sj712c282/dijanjikan-vespa-ibu-di-sumenep-serahkan-putri-kandungnya-untuk-diperkosa-kepala-sekolah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Mengenal IVF, Harapan Bagi Pejuang Dua Garis Biru",
+      "link_berita": "https://ameera.republika.co.id/berita/sj86v6349/mengenal-ivf-harapan-bagi-pejuang-dua-garis-biru",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:16:19"
+    },
+    {
+      "judul": "Delapan Kecamatan di Kabupaten Bekasi Krisis Air Bersih",
+      "link_berita": "https://esgnow.republika.co.id/berita/sj86uy416/delapan-kecamatan-di-kabupaten-bekasi-krisis-air-bersih",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:16:19"
+    },
+    {
+      "judul": "Janji Kampanye Aplikasi Layanan Curhat untuk Warga Jakarta yang Stres dan Kritik Psikolog",
+      "link_berita": "https://news.republika.co.id/berita/sj86rm409/janji-kampanye-aplikasi-layanan-curhat-untuk-warga-jakarta-yang-stres-dan-kritik-psikolog",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:14:19"
+    },
+    {
+      "judul": "Sambut Paus Fransiskus, Menag Ucapkan Selamat Datang di Bumi Pancasila",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj86pa483/sambut-paus-fransiskus-menag-ucapkan-selamat-datang-di-bumi-pancasila",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:12:19"
+    },
+    {
+      "judul": "Peluang Besar bagi Lulusan Program Studi Pariwisata di Era Modern",
+      "link_berita": "https://news.republika.co.id/berita/sj85zy370/peluang-besar-bagi-lulusan-program-studi-pariwisata-di-era-modern",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:12:19"
+    },
+    {
+      "judul": "Konversi Motor Listrik Dapat Insentif Rp 10 Juta, Begini Cara Daftarnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj86nc349/konversi-motor-listrik-dapat-insentif-rp-10-juta-begini-cara-daftarnya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:11:19"
+    },
+    {
+      "judul": "Aktor Robert Downey Jr Hampir Merusak Filmnya karena Candaan Cabul",
+      "link_berita": "https://ameera.republika.co.id/berita/sj86hm425/aktor-robert-downey-jr-hampir-merusak-filmnya-karena-candaan-cabul",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:08:19"
+    },
+    {
+      "judul": "ITB Resmi Beri Nama Gedung CRCS Jadi Lantai 2 Adaro",
+      "link_berita": "https://rejabar.republika.co.id/berita/sj86eg512/itb-resmi-beri-nama-gedung-crcs-jadi-lantai-2-adaro",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:06:19"
+    },
+    {
+      "judul": "Empat Kegiatan yang akan Dilakukan Paus Fransiskus Selama di Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj83l6483/empat-kegiatan-yang-akan-dilakukan-paus-fransiskus-selama-di-indonesia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:04:19"
+    },
+    {
+      "judul": "Sederhananya Paus: Naik Pesawat Komersial, Diantar Mobil Kijang Hingga Menginap di Kedubes",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj869p483/sederhananya-paus-naik-pesawat-komersial-diantar-mobil-kijang-hingga-menginap-di-kedubes",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:03:19"
+    },
+    {
+      "judul": "Hari Pertama di Indonesia, Paus Fransisku Beristirahat di Kedubes Vatikan",
+      "link_berita": "https://news.republika.co.id/berita/sj867y484/hari-pertama-di-indonesia-paus-fransisku-beristirahat-di-kedubes-vatikan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:02:19"
+    },
+    {
+      "judul": "Tak Menyesal Keluar dari RS Medistra, Ini Delapan Jenis Rezeki yang Menanti dr Diani",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj8339483/tak-menyesal-keluar-dari-rs-medistra-ini-delapan-jenis-rezeki-yang-menanti-dr-diani",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:00:19"
+    },
+    {
+      "judul": "Terungkap, Maulana Jalaluddin Rumi Pernah Bicara tentang Jawa Timur: Kata Khofifah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj7w7c451/terungkap-maulana-jalaluddin-rumi-pernah-bicara-tentang-jawa-timur-kata-khofifah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 07:00:19"
+    },
+    {
+      "judul": "Pengamat Soroti Biaya Sekolah Dasar yang Picu Inflasi: Pendidikan Masih Jadi Barang Mewah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj85mz370/pengamat-soroti-biaya-sekolah-dasar-yang-picu-inflasi-pendidikan-masih-jadi-barang-mewah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:57:19"
+    },
+    {
+      "judul": "Kebiasaan 5 Menit yang Bantu Anda Tidur Lebih Cepat",
+      "link_berita": "https://ameera.republika.co.id/berita/sj85ss425/kebiasaan-5-menit-yang-bantu-anda-tidur-lebih-cepat",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:53:19"
+    },
+    {
+      "judul": "KAI Logistik Percepat Distribusi Jawa Timur dengan KA Blambangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj85mc349/kai-logistik-percepat-distribusi-jawa-timur-dengan-ka-blambangan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:49:19"
+    },
+    {
+      "judul": "Kedalaman Sungai Amazon Menurun Drastis, Ancam Kehidupan Masyarakat",
+      "link_berita": "https://esgnow.republika.co.id/berita/sj85ho416/kedalaman-sungai-amazon-menurun-drastis-ancam-kehidupan-masyarakat",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:46:19"
+    },
+    {
+      "judul": "Intip Tren Karir di Era Digital: Teknologi dan Keterampilan Adaptif Jadi Andalan",
+      "link_berita": "https://news.republika.co.id/berita/sj858k370/intip-tren-karir-di-era-digital-teknologi-dan-keterampilan-adaptif-jadi-andalan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:41:19"
+    },
+    {
+      "judul": "Dosen UMJ Adakan Instalasi Hidroponik Bagi Kelompok Tani di Pesanggrahan",
+      "link_berita": "https://news.republika.co.id/berita/sj84zh370/dosen-umj-adakan-instalasi-hidroponik-bagi-kelompok-tani-di-pesanggrahan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:35:19"
+    },
+    {
+      "judul": "Muhammadiyah, Grand Syaikh Al Azhar, dan Paus Fransiskus",
+      "link_berita": "https://khazanah.republika.co.id/berita/sj7znc451/muhammadiyah-grand-syaikh-al-azhar-dan-paus-fransiskus",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:35:19"
+    },
+    {
+      "judul": "Antisipasi Potensi Gempa Megathrust, BMKG Sebut Pentingnya Penyesuaian Gaya Rumah",
+      "link_berita": "https://news.republika.co.id/berita/sj84td425/antisipasi-potensi-gempa-megathrust-bmkg-sebut-pentingnya-penyesuaian-gaya-rumah",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:32:19"
+    },
+    {
+      "judul": "Ilmuwan Menemukan Cara Baru Mengatasi Radang Sendi pada Lutut",
+      "link_berita": "https://impresiupdate.id/posts/328385/ilmuwan-menemukan-cara-baru-mengatasi-radang-sendi-pada-lutut",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:29:19"
+    },
+    {
+      "judul": "Incar Posisi Global Price Setter, MIND ID Perkuat Aliansi dan Eksplorasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj84m3349/incar-posisi-global-price-setter-mind-id-perkuat-aliansi-dan-eksplorasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:27:19"
+    },
+    {
       "judul": "Aset ASDP Indonesia Ferry Meroket Jadi Rp 11,05 Triliun Berkat Hal Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj81qk370/aset-asdp-indonesia-ferry-meroket-jadi-rp-1105-triliun-berkat-hal-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:22:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:22:19"
     },
     {
       "judul": "Jago Buat Konten YouTube? Yuk Kepoin Beasiswa Talenta Digital",
       "link_berita": "https://news.republika.co.id/berita/sj84az370/jago-buat-konten-youtube-yuk-kepoin-beasiswa-talenta-digital",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:21:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:21:19"
     },
     {
       "judul": "Istilah 'Mewing' Ngetren di Kalangan Gen Alpha, Apa Artinya?",
       "link_berita": "https://ameera.republika.co.id/berita/sj8424425/istilah-mewing-ngetren-di-kalangan-gen-alpha-apa-artinya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:15:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:17:19"
     },
     {
       "judul": "Polemik Aturan Jilbab di RS Medistra, Perempuan ICMI: Hati-Hati dalam Membuat Aturan",
       "link_berita": "https://khazanah.republika.co.id/berita/sj83u7370/polemik-aturan-jilbab-di-rs-medistra-perempuan-icmi-hatihati-dalam-membuat-aturan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:11:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:17:19"
     },
     {
       "judul": "Agar Jadi Pusat Fesyen Muslim Dunia, ini yang Harus Dilakukan Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/sj7v7p451/agar-jadi-pusat-fesyen-muslim-dunia-ini-yang-harus-dilakukan-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:00:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:17:19"
     },
     {
       "judul": "Mimpi yang Mengejutkan Sahabat Nabi",
       "link_berita": "https://khazanah.republika.co.id/berita/sj838k458/mimpi-yang-mengejutkan-sahabat-nabi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:58:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:17:19"
     },
     {
       "judul": "Ingin Resign dari Kantor? Pertimbangkan Dulu Hal Ini Agar tak Menyesal",
       "link_berita": "https://ameera.republika.co.id/berita/sj82td425/ingin-resign-dari-kantor-pertimbangkan-dulu-hal-ini-agar-tak-menyesal",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:49:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 06:17:19"
     },
     {
       "judul": "Kisah Cinta Rasulullah dan Khadijah",
       "link_berita": "https://khazanah.republika.co.id/berita/sj82jm458/kisah-cinta-rasulullah-dan-khadijah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:43:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Tangis Haru Theresia Dapat Lambaian Paus Fransiskus",
       "link_berita": "https://khazanah.republika.co.id/berita/sj82g6393/tangis-haru-theresia-dapat-lambaian-paus-fransiskus",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:41:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Badai Menewaskan Tujuh Orang di Filipina",
       "link_berita": "https://news.republika.co.id/berita/sj82cr416/badai-menewaskan-tujuh-orang-di-filipina",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:39:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "KDRT Maut di Solo, Suami Kesal Istri Buang Uang Rp 30 Ribu Hasil Jadi Tukang Parkir",
       "link_berita": "https://news.republika.co.id/berita/sj81zc377/kdrt-maut-di-solo-suami-kesal-istri-buang-uang-rp-30-ribu-hasil-jadi-tukang-parkir",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:31:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Jelang Sidang PK Kasus Vina, Warga Pasang Spanduk Beri Dukungan untuk Tujuh Terpidana",
       "link_berita": "https://rejabar.republika.co.id/berita/sj81wt512/jelang-sidang-pk-kasus-vina-warga-pasang-spanduk-beri-dukungan-untuk-tujuh-terpidana",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:29:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Polisi Korea Selidiki Dugaan Keterlibatan Telegram dalam Penyebaran Konten Deepfake Porno",
       "link_berita": "https://ameera.republika.co.id/berita/sj81sh425/polisi-korea-selidiki-dugaan-keterlibatan-telegram-dalam-penyebaran-konten-deepfake-porno",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Robertson Lega Liverpool Tuntaskan Dendam Musim Lalu Atas MU",
       "link_berita": "https://news.republika.co.id/berita/sj81s1348/robertson-lega-liverpool-tuntaskan-dendam-musim-lalu-atas-mu",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Oknum Fans NCT Diduga Jadi Dalang yang Tuntut Suga Hengkang dari BTS, Didesak Minta Maaf",
       "link_berita": "https://ameera.republika.co.id/berita/sj81gf425/oknum-fans-nct-diduga-jadi-dalang-yang-tuntut-suga-hengkang-dari-bts-didesak-minta-maaf",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Ibu di Kediri Aniaya Anak Kandung Hingga Meninggal, Diduga Gangguan Kejiwaan",
       "link_berita": "https://news.republika.co.id/berita/sj81ef370/ibu-di-kediri-aniaya-anak-kandung-hingga-meninggal-diduga-gangguan-kejiwaan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Tanda Ekonomi Melemah Makin Nyata, Pabrik-Pabrik Lesu, PHK Mencuat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj814z490/tanda-ekonomi-melemah-makin-nyata-pabrikpabrik-lesu-phk-mencuat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Manfaat Konsumsi Real Food Bagi Ibu Hamil",
       "link_berita": "https://ameera.republika.co.id/berita/sj814j425/manfaat-konsumsi-real-food-bagi-ibu-hamil",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "KPU Masih Tunggu Hasil Tes Pemeriksaan Bacagub dan Bacawagub di Pilgub Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/sj814d512/kpu-masih-tunggu-hasil-tes-pemeriksaan-bacagub-dan-bacawagub-di-pilgub-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Viral Jamaah Berpeci Merah Putih Nyanyi Lagu Kebangsaan di Masjid Istiqlal",
       "link_berita": "https://khazanah.republika.co.id/berita/sj80ox430/viral-jamaah-berpeci-merah-putih-nyanyi-lagu-kebangsaan-di-masjid-istiqlal",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "70 Persen Lebih Sekolah PBB-UNRWA di Gaza Palestina Hancur",
       "link_berita": "https://khazanah.republika.co.id/berita/sj7ska451/70-persen-lebih-sekolah-pbbunrwa-di-gaza-palestina-hancur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Habib Syarief M Alaydrus Nilai, Permasalahan di Bandung Masih Cukup Kompleks",
       "link_berita": "https://rejabar.republika.co.id/berita/sj808m512/habib-syarief-m-alaydrus-nilai-permasalahan-di-bandung-masih-cukup-kompleks",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Pedangdut Jirayut Penasaran Naik KRL, Malah Jatuh dan Berdarah di Stasiun Manggarai",
       "link_berita": "https://ameera.republika.co.id/berita/sj8075425/pedangdut-jirayut-penasaran-naik-krl-malah-jatuh-dan-berdarah-di-stasiun-manggarai",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 05:17:19"
     },
     {
       "judul": "Presiden Jokowi Bangga Semangat Atlet Indonesia di Paralimpiade Paris 2024",
       "link_berita": "https://news.republika.co.id/berita/sj7zwg348/presiden-jokowi-bangga-semangat-atlet-indonesia-di-paralimpiade-paris-2024",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:17:19"
     },
     {
       "judul": "GIK UGM akan Gelar Event Kerja Sama Indonesia dan Jepang 'The Life of Butoh'",
       "link_berita": "https://rejogja.republika.co.id/berita/sj7zrw291/gik-ugm-akan-gelar-event-kerja-sama-indonesia-dan-jepang-the-life-of-butoh",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:17:19"
     },
     {
       "judul": "Muhammadiyah: Kesederhanaan Paus Fransiskus Tunjukkan Teladan",
       "link_berita": "https://khazanah.republika.co.id/berita/sj7zj0458/muhammadiyah-kesederhanaan-paus-fransiskus-tunjukkan-teladan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:17:19"
     },
     {
       "judul": "Film dan Serial TV tentang Paus dengan Rating Terbaik Menurut IMDb",
       "link_berita": "https://ameera.republika.co.id/berita/sj7z4u425/film-dan-serial-tv-tentang-paus-dengan-rating-terbaik-menurut-imdb",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:17:19"
     },
     {
-      "judul": "Pesawat Presiden Maduro Disita Amerika, Venezuela Marah Sebut AS Lakukan Pembajakan",
-      "link_berita": "https://news.republika.co.id/berita/sj7yo2377/pesawat-presiden-maduro-disita-amerika-venezuela-marah-sebut-as-lakukan-pembajakan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
+      "judul": "Mengenal IVF, Harapan Bagi Pejuang Dua Garis Biru",
+      "link_berita": "https://ameera.republika.co.id/berita/sj86v6349/mengenal-ivf-harapan-bagi-pejuang-dua-garis-biru",
+      "kategori": "Health",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 14:16:00"
     },
     {
-      "judul": "Ini Saling Kunjung Bersejarah Kristen dan Islam Sejak Masa Rasulullah",
-      "link_berita": "https://news.republika.co.id/berita/sj7yjq393/ini-saling-kunjung-bersejarah-kristen-dan-islam-sejak-masa-rasulullah",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Terdakwa Kasus Timah Hanya Tiga Tahun Penjara, Kejaksaan Pikir-Pikir untuk Banding",
-      "link_berita": "https://news.republika.co.id/berita/sj7y5i377/terdakwa-kasus-timah-hanya-tiga-tahun-penjara-kejaksaan-pikirpikir-untuk-banding",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Truk Tambang Bertenaga Listrik dan Swakemudi Ini Mampu Pangkas Hingga Ratusan Ribu Emisi Karbon",
-      "link_berita": "https://ruzkaindonesia.id/posts/328391/truk-tambang-bertenaga-listrik-dan-swakemudi-ini-mampu-pangkas-hingga-ratusan-ribu-emisi-karbon",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Universitas Nusa Mandiri Dorong Transformasi Digital di SMPIT Ajimutu Global Insani",
-      "link_berita": "https://news.republika.co.id/berita/sj7xzu490/universitas-nusa-mandiri-dorong-transformasi-digital-di-smpit-ajimutu-global-insani",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Serba-serbi Kunjungan Apostolik Paus Fransiskus ke Indonesia",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj7xw4366/serbaserbi-kunjungan-apostolik-paus-fransiskus-ke-indonesia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Universitas BSI Kampus Bogor Gelar Workshop BSI Digination: Peluang di Industri Kreatif",
-      "link_berita": "https://news.republika.co.id/berita/sj7xvk490/universitas-bsi-kampus-bogor-gelar-workshop-bsi-digination-peluang-di-industri-kreatif",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Fakta Menarik Seputar Paus Fransiskus",
-      "link_berita": "https://news.republika.co.id/berita/sj7xtl458/fakta-menarik-seputar-paus-fransiskus",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Jubir Menag: Nama Saya Sunanto, Sering Akrab Dipanggil Cak Nanto",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj7sde451/jubir-menag-nama-saya-sunanto-sering-akrab-dipanggil-cak-nanto",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Anggaran Negara-Negara Afrika Tergerus Akibat Perubahan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/sj7xoj416/anggaran-negaranegara-afrika-tergerus-akibat-perubahan-iklim",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 04:26:12"
-    },
-    {
-      "judul": "Bos Mobil Audi Italia Tewas Jatuh dari Ketinggian 10 Ribu Kaki, Jasad Ditemukan di Jurang",
-      "link_berita": "https://news.republika.co.id/berita/sj7xj0377/bos-mobil-audi-italia-tewas-jatuh-dari-ketinggian-10-ribu-kaki-jasad-ditemukan-di-jurang",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Harga Emas Naik Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sj7xie490/harga-emas-naik-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Harga Pangan Naik Tipis, Bawang Putih Kini Rp 40.310 per Kg",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sj7xc1490/harga-pangan-naik-tipis-bawang-putih-kini-rp-40310-per-kg",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Bisa Bekerja Tapi Harus Lepas Jilbab, Siapa yang Dosa?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj7x8k430/bisa-bekerja-tapi-harus-lepas-jilbab-siapa-yang-dosa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Mahasiswa FT UMJ Raih Medali Emas Kejuaraan Pencak Silat Nasional",
-      "link_berita": "https://news.republika.co.id/berita/sj7x6b490/mahasiswa-ft-umj-raih-medali-emas-kejuaraan-pencak-silat-nasional",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Mahasiswa Cyber University Diajarkan Cara Bangun Bisnis Ekspor-Impor dari Pakar",
-      "link_berita": "https://news.republika.co.id/berita/sj7why490/mahasiswa-cyber-university-diajarkan-cara-bangun-bisnis-eksporimpor-dari-pakar",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Benarkah Partai Perubahan Indonesia Bentukan Anies Baswedan? Ini Penjelasan Jubir",
-      "link_berita": "https://news.republika.co.id/berita/sj7wi9377/benarkah-partai-perubahan-indonesia-bentukan-anies-baswedan-ini-penjelasan-jubir",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "PNM Peduli Tanam Ribuan Pohon Mangrove dan Terumbu Karang di Kalimantan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sj7wd5490/pnm-peduli-tanam-ribuan-pohon-mangrove-dan-terumbu-karang-di-kalimantan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Miniatur Rolls-Royce dan Mercedes-Maybach Hiasi Acara Mobil Kecil di Cina",
-      "link_berita": "https://motoresto.id/posts/328330/miniatur-rolls-royce-dan-mercedes-maybach-hiasi-acara-mobil-kecil-di-cina",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Penggunaan Ganja Bisa Menyebabkan Perubahan pada Epigenom Tubuh",
-      "link_berita": "https://impresiupdate.id/posts/328379/penggunaan-ganja-bisa-menyebabkan-perubahan-pada-epigenom-tubuh",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Diet Ketogenik Bisa Membantu Kurangi Jumlah Tumor Pankreas",
-      "link_berita": "https://impresiupdate.id/posts/328386/diet-ketogenik-bisa-membantu-kurangi-jumlah-tumor-pankreas",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "BRIN: Tingkatkan Kesiapan Hadapi Gempa Megathrust",
-      "link_berita": "https://esgnow.republika.co.id/berita/sj7w8n416/brin-tingkatkan-kesiapan-hadapi-gempa-megathrust",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Anime Jadi Nyata! Polisi Jepang Gunakan Mecha Patlabor untuk Patroli",
-      "link_berita": "https://ameera.republika.co.id/berita/sj7w1n425/anime-jadi-nyata-polisi-jepang-gunakan-mecha-patlabor-untuk-patroli",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 03:26:12"
-    },
-    {
-      "judul": "Istilah 'Mewing' Ngetren di Kalangan Gen Alpha, Apa Artinya?",
-      "link_berita": "https://ameera.republika.co.id/berita/sj8424425/istilah-mewing-ngetren-di-kalangan-gen-alpha-apa-artinya",
-      "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 13:15:00"
-    },
-    {
-      "judul": "Anggaran Negara-Negara Afrika Tergerus Akibat Perubahan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/sj7xoj416/anggaran-negaranegara-afrika-tergerus-akibat-perubahan-iklim",
+      "judul": "Delapan Kecamatan di Kabupaten Bekasi Krisis Air Bersih",
+      "link_berita": "https://esgnow.republika.co.id/berita/sj86uy416/delapan-kecamatan-di-kabupaten-bekasi-krisis-air-bersih",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 10:57:00"
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 14:16:00"
     },
     {
-      "judul": "Tanda Ekonomi Melemah Makin Nyata, Pabrik-Pabrik Lesu, PHK Mencuat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sj814z490/tanda-ekonomi-melemah-makin-nyata-pabrikpabrik-lesu-phk-mencuat",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 12:12:00"
+      "judul": "Konversi Motor Listrik Dapat Insentif Rp 10 Juta, Begini Cara Daftarnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj86nc349/konversi-motor-listrik-dapat-insentif-rp-10-juta-begini-cara-daftarnya",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 14:11:00"
     },
     {
       "judul": "Muhammadiyah-Bank Panin Dubai Syariah Umumkan Kerja Sama Layanan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 03 Sep 2024, 09:43:00"
     },
     {
-      "judul": "Jago Buat Konten YouTube? Yuk Kepoin Beasiswa Talenta Digital",
-      "link_berita": "https://news.republika.co.id/berita/sj84az370/jago-buat-konten-youtube-yuk-kepoin-beasiswa-talenta-digital",
-      "kategori": "Bina Sarana Informatika",
-      "tanggal_terbit": "Tuesday, 03 Sep 2024, 13:20:00"
+      "judul": "Janji Kampanye Aplikasi Layanan Curhat untuk Warga Jakarta yang Stres dan Kritik Psikolog",
+      "link_berita": "https://news.republika.co.id/berita/sj86rm409/janji-kampanye-aplikasi-layanan-curhat-untuk-warga-jakarta-yang-stres-dan-kritik-psikolog",
+      "kategori": "News Analysis",
+      "tanggal_terbit": "Tuesday, 03 Sep 2024, 14:14:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 03 Sep 2024, 13:26:12"
+  "waktu_scraping": "Tuesday, 03 Sep 2024, 14:17:19"
 }
