@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Rocky Gerung Sekak Silfester: 'Anda Baca Leo Tolstoy Bagian Mana'",
+      "link_berita": "https://news.republika.co.id/berita/sj9twh377/rocky-gerung-sekak-silfester-anda-baca-leo-tolstoy-bagian-mana"
+    },
+    {
       "judul": "MUI: Kunjungan Paus Fransiskus Momentum Umat Beragama Bangun Perdamaian",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9cgn451/mui-kunjungan-paus-fransiskus-momentum-umat-beragama-bangun-perdamaian"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Adu Tudingan, Rocky Gerung Nyaris Bertengkar di Acara Debat",
       "link_berita": "https://news.republika.co.id/berita/sj9kn0377/adu-tudingan-rocky-gerung-nyaris-bertengkar-di-acara-debat"
-    },
-    {
-      "judul": "Kemenag Minta Semua Stasiun TV Ganti Adzan Via Running Text Selama Misa Akbar Paus",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj9j1b430/kemenag-minta-semua-stasiun-tv-ganti-adzan-via-running-text-selama-misa-akbar-paus"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ditanya QR Code oleh Petugas SPBU? Ini Cara Daftar BBM Subsidi Pertamina",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj9ts7490/ditanya-qr-code-oleh-petugas-spbu-ini-cara-daftar-bbm-subsidi-pertamina"
+    },
+    {
+      "judul": "Anak Autoimun Bisa Divaksinasi, Ini Hal Penting yang Harus Diperhatikan Menurut Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/sj9rr8425/anak-autoimun-bisa-divaksinasi-ini-hal-penting-yang-harus-diperhatikan-menurut-dokter"
+    },
     {
       "judul": "Ketua MUI Setuju Adzan via Running Text Saat Misa Paus, Ada Adzan di Masjid",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9qvc483/ketua-mui-setuju-adzan-via-running-text-saat-misa-paus-ada-adzan-di-masjid"
@@ -73,316 +81,308 @@
     {
       "judul": "Saksi Ungkap Budi Said Pernah Masuk ke dalam Ruang Brankas Emas Butik Antam",
       "link_berita": "https://news.republika.co.id/berita/sj8ntz409/saksi-ungkap-budi-said-pernah-masuk-ke-dalam-ruang-brankas-emas-butik-antam"
-    },
-    {
-      "judul": "Kaesang Sudah di Jakarta, Raja Juli: Hampir Tiap Hari Berkantor di PSI",
-      "link_berita": "https://news.republika.co.id/berita/sj8mvw409/kaesang-sudah-di-jakarta-raja-juli-hampir-tiap-hari-berkantor-di-psi"
-    },
-    {
-      "judul": "Rahasia Malaysia Sukses dalam Pengembangan Ekonomi dan Keuangan Syariah",
-      "link_berita": "https://sharia.republika.co.id/berita/sj8mmj502/rahasia-malaysia-sukses-dalam-pengembangan-ekonomi-dan-keuangan-syariah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Seorang Nenek Rayakan Ulang Tahun ke-102 Dengan Terjun Payung",
+      "link_berita": "https://tv.republika.co.id/berita/sj9vv3418/seorang-nenek-rayakan-ulang-tahun-ke102-dengan-terjun-payung",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 05:14:11"
+    },
+    {
+      "judul": "Ini Komentar Ciro Alves Jelang Pertandingan Persib di ACL 2",
+      "link_berita": "https://matapantura.republika.co.id/posts/328603/ini-komentar-ciro-alves-jelang-pertandingan-persib-di-acl-2",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:38:11"
+    },
+    {
+      "judul": "Jaring Pemain Futsal Potensial, Turnamen Futsal Terbesar Tingkat SMA di Indonesia Siap Dig",
+      "link_berita": "https://news.republika.co.id/berita/sj9u77456/jaring-pemain-futsal-potensial-turnamen-futsal-terbesar-tingkat-sma-di-indonesia-siap-dig",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:38:11"
+    },
+    {
+      "judul": "Rocky Gerung Sekak Silfester: 'Anda Baca Leo Tolstoy Bagian Mana'",
+      "link_berita": "https://news.republika.co.id/berita/sj9twh377/rocky-gerung-sekak-silfester-anda-baca-leo-tolstoy-bagian-mana",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:31:11"
+    },
+    {
+      "judul": "Ditanya QR Code oleh Petugas SPBU? Ini Cara Daftar BBM Subsidi Pertamina",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj9ts7490/ditanya-qr-code-oleh-petugas-spbu-ini-cara-daftar-bbm-subsidi-pertamina",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:29:11"
+    },
+    {
+      "judul": "Sidang Perdana PK Enam Terpidana Hari Ini Digelar di PN Cirebon",
+      "link_berita": "https://rejabar.republika.co.id/berita/sj9tpc512/sidang-perdana-pk-enam-terpidana-hari-ini-digelar-di-pn-cirebon",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:27:11"
+    },
+    {
+      "judul": "Kuliah di UNM Kampus Margonda, Menyenangkan dan Penuh Peluang",
+      "link_berita": "https://news.republika.co.id/berita/sj9tl7490/kuliah-di-unm-kampus-margonda-menyenangkan-dan-penuh-peluang",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:25:11"
+    },
+    {
       "judul": "IAF 2024: Pertamina Buka Peluang Kolaborasi Pengembangan Energi di Afrika",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9t8e490/iaf-2024-pertamina-buka-peluang-kolaborasi-pengembangan-energi-di-afrika",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:17:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Inovasi Digital untuk Optimalisasi Pemasaran Produk, Dosen UNM Penerima Hibah DRTPM",
       "link_berita": "https://news.republika.co.id/berita/sj9t0i490/inovasi-digital-untuk-optimalisasi-pemasaran-produk-dosen-unm-penerima-hibah-drtpm",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:12:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "MUI: Kunjungan Paus Fransiskus Momentum Umat Beragama Bangun Perdamaian",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9cgn451/mui-kunjungan-paus-fransiskus-momentum-umat-beragama-bangun-perdamaian",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:11:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Kunjungan ke Indonesia Jadi Penerbangan Terpanjang Paus, Jokowi: Terima Kasih Bapa Suci",
       "link_berita": "https://news.republika.co.id/berita/sj9sxm377/kunjungan-ke-indonesia-jadi-penerbangan-terpanjang-paus-jokowi-terima-kasih-bapa-suci",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:10:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Bangun Smart Tourism Situ Rawagede Bojongmenteng, Tim UNM Bantu Manajerial dan Pemasaran",
       "link_berita": "https://news.republika.co.id/berita/sj9sph490/bangun-smart-tourism-situ-rawagede-bojongmenteng-tim-unm-bantu-manajerial-dan-pemasaran",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:05:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Enam Terpidana Kasus Vina Cirebon Hadiri Sidang PK",
       "link_berita": "https://matapantura.republika.co.id/posts/328585/enam-terpidana-kasus-vina-cirebon-hadiri-sidang-pk",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:03:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Menhub Godok Pembangunan Transportasi Massal ART hingga Sky Train di Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/sj9sds512/menhub-godok-pembangunan-transportasi-massal-art-hingga-sky-train-di-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:58:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Peringati Hari Pelanggan Nasional, PNM Ajak Pelaku UMKM Terapkan Hospitality",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9sa3490/peringati-hari-pelanggan-nasional-pnm-ajak-pelaku-umkm-terapkan-hospitality",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:56:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Siklon Tropis Yagi Terpantau di Laut Cina Selatan, BMKG: Tak Berdampak ke Indonesia",
       "link_berita": "https://esgnow.republika.co.id/berita/sj9s3e425/siklon-tropis-yagi-terpantau-di-laut-cina-selatan-bmkg-tak-berdampak-ke-indonesia",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:52:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Seru! Rumah Zakat Ajak Anak Asuh Binaan Jalan-Jalan",
       "link_berita": "https://news.republika.co.id/berita/sj9ryy490/seru-rumah-zakat-ajak-anak-asuh-binaan-jalanjalan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:49:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 04:19:11"
     },
     {
       "judul": "Anak Autoimun Bisa Divaksinasi, Ini Hal Penting yang Harus Diperhatikan Menurut Dokter",
       "link_berita": "https://ameera.republika.co.id/berita/sj9rr8425/anak-autoimun-bisa-divaksinasi-ini-hal-penting-yang-harus-diperhatikan-menurut-dokter",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:45:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Beroperasi Lebih 100 Tahun, PLTA Bengkok Jadi Bukti Perjalanan Panjang PLN Gunakan EBT",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9rmb490/beroperasi-lebih-100-tahun-plta-bengkok-jadi-bukti-perjalanan-panjang-pln-gunakan-ebt",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:42:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Putri Norwegia Nikahi Dukun Asal Amerika, Pilih Mundur dari Tugas Kerajaan",
       "link_berita": "https://ameera.republika.co.id/berita/sj9ren425/putri-norwegia-nikahi-dukun-asal-amerika-pilih-mundur-dari-tugas-kerajaan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:37:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Indonesia Tawarkan Proyek Hilirisasi Batu Bara ke Cina Pacu Dekarbonisasi",
       "link_berita": "https://esgnow.republika.co.id/berita/sj9rb1416/indonesia-tawarkan-proyek-hilirisasi-batu-bara-ke-cina-pacu-dekarbonisasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:35:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Terdampak Kekeringan, Puluhan Ribu Bantuan Air Bersih Dikirim ke Sejumlah Desa",
       "link_berita": "https://rejabar.republika.co.id/berita/sj9r5j512/terdampak-kekeringan-puluhan-ribu-bantuan-air-bersih-dikirim-ke-sejumlah-desa",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:32:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Ketua MUI Setuju Adzan via Running Text Saat Misa Paus, Ada Adzan di Masjid",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9qvc483/ketua-mui-setuju-adzan-via-running-text-saat-misa-paus-ada-adzan-di-masjid",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:26:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Paus Tiba di Istana Merdeka Disambut Upacara Kenegaraan",
       "link_berita": "https://news.republika.co.id/berita/sj9qka377/paus-tiba-di-istana-merdeka-disambut-upacara-kenegaraan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Nolep hingga Insecure tak Bisa Kuliah? Tenang, UNM Punya Beasiswa Jalur Undangan",
       "link_berita": "https://news.republika.co.id/berita/sj9qk2490/nolep-hingga-insecuretak-bisa-kuliah-tenang-unm-punya-beasiswa-jalur-undangan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Universitas BSI Kampus Ciputat Siap Gelar BSI Digination Bersama SMK Sirajul Falah",
       "link_berita": "https://news.republika.co.id/berita/sj9qci490/universitas-bsi-kampus-ciputat-siap-gelar-bsi-digination-bersama-smk-sirajul-falah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Soal 'Perang Bintang' di Pilgub Jateng, Ini Tanggapan Ahmad Luthfi",
       "link_berita": "https://news.republika.co.id/berita/sj9qbg377/soal-perang-bintang-di-pilgub-jateng-ini-tanggapan-ahmad-luthfi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Glorifikasi Kata 'Sederhana'",
       "link_berita": "https://retizen.republika.co.id/posts/328572/glorifikasi-kata-sederhana",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "WHO: Ponsel Tidak Berhubungan dengan Kanker Otak",
       "link_berita": "https://impresiupdate.id/posts/328571/who-ponsel-tidak-berhubungan-dengan-kanker-otak",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Benarkah Kopi Membahayakan Penderita Tekanan Darah Tinggi atau Penyakit Jantung?",
       "link_berita": "https://impresiupdate.id/posts/328575/benarkah-kopi-membahayakan-penderita-tekanan-darah-tinggi-atau-penyakit-jantung-",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "PB HMI: Kunjungan Paus Fransiskus Kesempatan unjuk Semangat Toleransi di RI",
       "link_berita": "https://khazanah.republika.co.id/berita/sj8e6n451/pb-hmi-kunjungan-paus-fransiskus-kesempatan-unjuk-semangat-toleransi-di-ri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Picu Kemarahan, Negara Bagian Assam di India Hapus Istirahat Sholat Jumat",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9pav366/picu-kemarahan-negara-bagian-assam-di-india-hapus-istirahat-sholat-jumat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Harga Emas Masih Bisa Naik Lagi? Ini Proyeksi dari Pegadaian",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9paq490/harga-emas-masih-bisa-naik-lagi-ini-proyeksi-dari-pegadaian",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 03:19:11"
     },
     {
       "judul": "Harga Emas Kembali Naik Jadi Rp 1.406.000 per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9p5p490/harga-emas-kembali-naik-jadi-rp-1406000-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Ferrari Prediksi Perebutan Gelar Konstruktor F1 Makin Sengit Usai GP Italia",
       "link_berita": "https://news.republika.co.id/berita/sj9p18348/ferrari-prediksi-perebutan-gelar-konstruktor-f1-makin-sengit-usai-gp-italia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Komisi VI DPR Dukung Pembagian Dividen BRI 4 Kali dalam Setahun",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9ozw490/komisi-vi-dpr-dukung-pembagian-dividen-bri-4-kali-dalam-setahun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Jadi Tersangka Dugaan Penganiayaan, Pria di Bandung Cari Keadilan",
       "link_berita": "https://sekitarbandung.id/posts/328567/jadi-tersangka-dugaan-penganiayaan-pria-di-bandung-cari-keadilan",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Kandidat Antibiotik Baru Ditemukan pada Bakteri dari Kedalaman Laut Arktik",
       "link_berita": "https://impresiupdate.id/posts/328568/kandidat-antibiotik-baru-ditemukan-pada-bakteri-dari-kedalaman-laut-arktik",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Menag Yaqut Bocorkan Salah Satu Topik yang akan Dibahas Paus dan Jokowi",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9ois366/menag-yaqut-bocorkan-salah-satu-topik-yang-akan-dibahas-paus-dan-jokowi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Rektor UIN: Kedatangan Paus Fransiskus Simbol Toleransi Umat Beragama",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9o63366/rektor-uin-kedatangan-paus-fransiskus-simbol-toleransi-umat-beragama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Kemenkes Siapkan Sanksi Hingga Pencabutan Surat Izin Praktik Bagi Pelaku Perundungan",
       "link_berita": "https://news.republika.co.id/berita/sj9o5g425/kemenkes-siapkan-sanksi-hingga-pencabutan-surat-izin-praktik-bagi-pelaku-perundungan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Abraham Wenas Tinggalkan Bali United Basketball, Siap Bela Kesatria Bengawan Solo di IBL",
       "link_berita": "https://news.republika.co.id/berita/sj9o11348/abraham-wenas-tinggalkan-bali-united-basketball-siap-bela-kesatria-bengawan-solo-di-ibl",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Resmikan Sharia Economic Development Indef, Ini 3 Hal yang Disoroti Wapres",
       "link_berita": "https://sharia.republika.co.id/berita/sj9ny5490/resmikan-sharia-economic-development-indef-ini-3-hal-yang-disoroti-wapres",
       "kategori": "Sharia",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Cita-citaku Berpijak di Al Azhar Kairo Mesir",
       "link_berita": "https://retizen.republika.co.id/posts/328562/cita-citaku-berpijak-di-al-azhar-kairo-mesir",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Pertamina Blokir 2.500 QR Code Penyalahgunaan BBM Subsidi",
       "link_berita": "https://ekonomi.republika.co.id/berita/sj9no8490/pertamina-blokir-2500-qr-code-penyalahgunaan-bbm-subsidi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Apple Dikabarkan Pakai Layar OLED untuk Semua iPhone Mulai 2025",
       "link_berita": "https://ameera.republika.co.id/berita/sj9nfk425/apple-dikabarkan-pakai-layar-oled-untuk-semua-iphone-mulai-2025",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Selain Bertemu Jokowi, Ini Agenda Lengkap Paus Fransiskus pada Hari Kedua di Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/sj9nd2366/selain-bertemu-jokowi-ini-agenda-lengkap-paus-fransiskus-pada-hari-kedua-di-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Cuaca Hari Ini: Sebagian Besar Wilayah Indonesia Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/sj9n1b366/cuaca-hari-ini-sebagian-besar-wilayah-indonesia-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Dapat Pengawalan dan Pengamanan Melekat, Ini Alasan 7 Terpidana Kasus Vina Dilindungi LPSK",
       "link_berita": "https://news.republika.co.id/berita/sj9mxr487/dapat-pengawalan-dan-pengamanan-melekat-ini-alasan-7-terpidana-kasus-vina-dilindungi-lpsk",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Sebelas Ribu Mahasiswa Ikuti Kampus Mengajar untuk Kuatkan Literasi",
       "link_berita": "https://khazanah.republika.co.id/berita/sj8f5z451/sebelas-ribu-mahasiswa-ikuti-kampus-mengajar-untuk-kuatkan-literasi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
-    },
-    {
-      "judul": "Ribuan Rokok Ilegal Disita di Cirebon",
-      "link_berita": "https://rejabar.republika.co.id/berita/sj9mns512/ribuan-rokok-ilegal-disita-di-cirebon",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
-    },
-    {
-      "judul": "Raih Bintang Satu, Toyota Raize Dikritik dalam Uji Tabrakan Latin NCAP 2024",
-      "link_berita": "https://motoresto.id/posts/328543/raih-bintang-satu-toyota-raize-dikritik-dalam-uji-tabrakan-latin-ncap-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
-    },
-    {
-      "judul": "Banjir Merendam 154 Unit Rumah Di Kabupaten Parigi Moutong",
-      "link_berita": "https://topnews62.com/posts/328557/banjir-merendam-154-unit-rumah-di-kabupaten-parigi-moutong",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:22:29"
-    },
-    {
-      "judul": "LPSK Beri Perlindungan ke Tujuh Terpidana Kasus Kematian Vina dan Eki Cirebon",
-      "link_berita": "https://rejabar.republika.co.id/berita/sj9mgf512/lpsk-beri-perlindungan-ke-tujuh-terpidana-kasus-kematian-vina-dan-eki-cirebon",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 01:22:29"
-    },
-    {
-      "judul": "Paus Fransiskus Diterima Hangat, Ini Pujian Alquran untuk Kaum Nasrani",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj9mci458/paus-fransiskus-diterima-hangat-ini-pujian-alquran-untuk-kaum-nasrani",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 01:22:29"
-    },
-    {
-      "judul": "Defisit Melebar, Israel akan Danai Genosida dengan Pembekuan Gaji dan Pemotongan Anggaran",
-      "link_berita": "https://khazanah.republika.co.id/berita/sj9m5s483/defisit-melebar-israel-akan-danai-genosida-dengan-pembekuan-gaji-dan-pemotongan-anggaran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 01:22:29"
-    },
-    {
-      "judul": "Pelantikan Adik Raffi Ahmad, Nisya Ahmad Jadi Polemik Ini Penjelasan KPU Jabar",
-      "link_berita": "https://rejabar.republika.co.id/berita/sj9m2u512/pelantikan-adik-raffi-ahmad-nisya-ahmad-jadi-polemik-ini-penjelasan-kpu-jabar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 01:22:29"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 02:19:11"
     },
     {
       "judul": "Anak Autoimun Bisa Divaksinasi, Ini Hal Penting yang Harus Diperhatikan Menurut Dokter",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 04 Sep 2024, 10:52:00"
     },
     {
-      "judul": "IAF 2024: Pertamina Buka Peluang Kolaborasi Pengembangan Energi di Afrika",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sj9t8e490/iaf-2024-pertamina-buka-peluang-kolaborasi-pengembangan-energi-di-afrika",
+      "judul": "Ditanya QR Code oleh Petugas SPBU? Ini Cara Daftar BBM Subsidi Pertamina",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sj9ts7490/ditanya-qr-code-oleh-petugas-spbu-ini-cara-daftar-bbm-subsidi-pertamina",
       "kategori": "Energi",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 11:17:00"
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 11:28:00"
     },
     {
       "judul": "Resmikan Sharia Economic Development Indef, Ini 3 Hal yang Disoroti Wapres",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 04 Sep 2024, 09:22:00"
     },
     {
-      "judul": "Inovasi Digital untuk Optimalisasi Pemasaran Produk, Dosen UNM Penerima Hibah DRTPM",
-      "link_berita": "https://news.republika.co.id/berita/sj9t0i490/inovasi-digital-untuk-optimalisasi-pemasaran-produk-dosen-unm-penerima-hibah-drtpm",
-      "kategori": "Dunia Kampus",
-      "tanggal_terbit": "Wednesday, 04 Sep 2024, 11:12:00"
+      "judul": "Jaring Pemain Futsal Potensial, Turnamen Futsal Terbesar Tingkat SMA di Indonesia Siap Dig",
+      "link_berita": "https://news.republika.co.id/berita/sj9u77456/jaring-pemain-futsal-potensial-turnamen-futsal-terbesar-tingkat-sma-di-indonesia-siap-dig",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 04 Sep 2024, 11:37:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 04 Sep 2024, 11:22:29"
+  "waktu_scraping": "Wednesday, 04 Sep 2024, 12:19:11"
 }
