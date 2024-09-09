@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Terungkap Data Jumlah Kelas Menengah RI Terus Turun dan Saran Ekonom untuk Pemerintah",
+      "link_berita": "https://news.republika.co.id/berita/sjj3qp409/terungkap-data-jumlah-kelas-menengah-ri-terus-turun-dan-saran-ekonom-untuk-pemerintah"
+    },
+    {
       "judul": "Ini Alasan Presiden Jokowi Habiskan Masa Jabatan di IKN",
       "link_berita": "https://news.republika.co.id/berita/sjj146377/ini-alasan-presiden-jokowi-habiskan-masa-jabatan-di-ikn"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Masuk Gaza, Tim Nakes TNI Rawat Korban di RS Lapangan UAE",
       "link_berita": "https://news.republika.co.id/berita/sjiuui484/masuk-gaza-tim-nakes-tni-rawat-korban-di-rs-lapangan-uae"
-    },
-    {
-      "judul": "Tiga Penjaga Israel Tewas di Perbatasan Yordania, Israel Hadapi Front Baru?",
-      "link_berita": "https://news.republika.co.id/berita/sjiry2393/tiga-penjaga-israel-tewas-di-perbatasan-yordania-israel-hadapi-front-baru"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Tahun 2024 Hampir Dipastikan Jadi Tahun Terpanas",
+      "link_berita": "https://esgnow.republika.co.id/berita/sjj431416/tahun-2024-hampir-dipastikan-jadi-tahun-terpanas"
+    },
+    {
+      "judul": "Soal Pajak Buat Bayar Utang, Prastowo Bantah Telah Rendahkan Pembayar Pajak",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sjj2hv377/soal-pajak-buat-bayar-utang-prastowo-bantah-telah-rendahkan-pembayar-pajak"
+    },
     {
       "judul": "Long Weekend Pekan Ini, Maulid Nabi Muhammad 2024 Jatuh Tanggal Berapa? Ini Jadwalnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sjj0n9366/long-weekend-pekan-ini-maulid-nabi-muhammad-2024-jatuh-tanggal-berapa-ini-jadwalnya"
@@ -73,328 +81,320 @@
     {
       "judul": "Wanita Surabaya Beli Skincare Online Tapi yang Datang Narkoba, Sempat Digerebek Polisi",
       "link_berita": "https://rejogja.republika.co.id/berita/sjhwox282/wanita-surabaya-beli-skincare-online-tapi-yang-datang-narkoba-sempat-digerebek-polisi"
-    },
-    {
-      "judul": "RK-Suswono akan Buat Program Makan Siang Gratis untuk Ojol",
-      "link_berita": "https://news.republika.co.id/berita/sjhszj328/rksuswono-akan-buat-program-makan-siang-gratis-untuk-ojol"
-    },
-    {
-      "judul": "Wakil Ketua Komisi III: Pelanggaran Etik Nurul Ghufron Jadi Catatan Seleksi Capim KPK",
-      "link_berita": "https://news.republika.co.id/berita/sjhpi9487/wakil-ketua-komisi-iii-pelanggaran-etik-nurul-ghufron-jadi-catatan-seleksi-capim-kpk"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Shin Tae-Yong: Kondisi Pemain Baik, Siap Raih Poin di GBK",
+      "link_berita": "https://tv.republika.co.id/berita/sjj55a467/shin-taeyong-kondisi-pemain-baik-siap-raih-poin-di-gbk",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 05:12:58"
+    },
+    {
+      "judul": "Teknologi Inovatif Dinilai Jadi Kunci Tingkatkan Produktivitas Padi di Lahan Sulfat Masam",
+      "link_berita": "https://rejogja.republika.co.id/berita/sjj4pb291/teknologi-inovatif-dinilai-jadi-kunci-tingkatkan-produktivitas-padi-di-lahan-sulfat-masam",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 05:02:58"
+    },
+    {
+      "judul": "Tahun 2024 Hampir Dipastikan Jadi Tahun Terpanas",
+      "link_berita": "https://esgnow.republika.co.id/berita/sjj431416/tahun-2024-hampir-dipastikan-jadi-tahun-terpanas",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:49:58"
+    },
+    {
+      "judul": "Pemkot Depok Gelontorkan Dana Rp 183 Juta, Renovasi 29 Rumah",
+      "link_berita": "https://ruzka.republika.co.id/serba-serbi/1675066653/pemkot-depok-gelontorkan-dana-rp-183-juta-renovasi-29-rumah",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:43:58"
+    },
+    {
+      "judul": "Asyik, Kini Fitur Pencarian Google Photos Tersedia di Semua Ponsel Android",
+      "link_berita": "https://impresi.republika.co.id/didaktika/1695068180/asyik-kini-fitur-pencarian-google-photos-tersedia-di-semua-ponsel-android",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:43:58"
+    },
+    {
+      "judul": "Terungkap Data Jumlah Kelas Menengah RI Terus Turun dan Saran Ekonom untuk Pemerintah",
+      "link_berita": "https://news.republika.co.id/berita/sjj3qp409/terungkap-data-jumlah-kelas-menengah-ri-terus-turun-dan-saran-ekonom-untuk-pemerintah",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:41:58"
+    },
+    {
+      "judul": "Pengelolaan Rupbasan, Komisi III DPR: Sitaan tak Dirawat, Saat Lelang Barang Rusak",
+      "link_berita": "https://news.republika.co.id/berita/sjivqf318/pengelolaan-rupbasan-komisi-iii-dpr-sitaan-tak-dirawat-saat-lelang-barang-rusak",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:41:58"
+    },
+    {
+      "judul": "Obligor BLBI Marimutu Sinivasan Diringkus Imigrasi Entikong",
+      "link_berita": "https://news.republika.co.id/berita/sjj3lc484/obligor-blbi-marimutu-sinivasan-diringkus-imigrasi-entikong",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:38:58"
+    },
+    {
+      "judul": "Apa itu Minuman Berbasis Edamame dan Apa Kelebihannya?",
+      "link_berita": "https://ameera.republika.co.id/berita/sjj3ko320/apa-itu-minuman-berbasis-edamame-dan-apa-kelebihannya",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:38:58"
+    },
+    {
+      "judul": "Kucing adalah Hewan Jelmaan Jin? Begini Penjelasan Ulama Al-Azhar Mesir",
+      "link_berita": "https://khazanah.republika.co.id/berita/sjj342320/kucing-adalah-hewan-jelmaan-jin-begini-penjelasan-ulama-alazhar-mesir",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:28:58"
+    },
+    {
       "judul": "Pengusulan Sri Sultan HB II Jadi Pahlawan Nasional, Tim Peneliti dan Pengkaji Gelar Daerah Dibentuk",
       "link_berita": "https://cari.republika.co.id/posts/329449/pengusulan-sri-sultan-hb-ii-jadi-pahlawan-nasional-tim-peneliti-dan-pengkaji-gelar-daerah-dibentuk",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:20:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:20:58"
     },
     {
       "judul": "Mahasiswa Cyber University Raih 2nd Runner Up di ACTION 3rd Abstract Competition",
       "link_berita": "https://news.republika.co.id/berita/sjj2ly370/mahasiswa-cyber-university-raih-2nd-runner-up-di-action-3rd-abstract-competition",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:17:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Pembangunan Bandara Nusantara di IKN Memiliki Panjang 1.975 Meter",
       "link_berita": "https://news.republika.co.id/berita/sjj2kv484/pembangunan-bandara-nusantara-di-ikn-memiliki-panjang-1975-meter",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:17:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Edarkan Obat Keras, Seorang Pemuda Dicokok Polisi di Cirebon",
       "link_berita": "https://rejabar.republika.co.id/berita/sjj2ih512/edarkan-obat-keras-seorang-pemuda-dicokok-polisi-di-cirebon",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:15:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Soal Pajak Buat Bayar Utang, Prastowo Bantah Telah Rendahkan Pembayar Pajak",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjj2hv377/soal-pajak-buat-bayar-utang-prastowo-bantah-telah-rendahkan-pembayar-pajak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:15:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Dokter Gaza Lulusan RI Buka Klinik Tenda BSMI di Rafah",
       "link_berita": "https://khazanah.republika.co.id/berita/sjj2bs483/dokter-gaza-lulusan-ri-buka-klinik-tenda-bsmi-di-rafah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:11:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Hari Pelanggan Nasional, Hotel BUMN Tebar Diskon Menarik",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjj1p8484/hari-pelanggan-nasional-hotel-bumn-tebar-diskon-menarik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:58:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Ukir Prestasi, Mahasiswa Cyber University Raih Juara 1 University Trading Competition",
       "link_berita": "https://news.republika.co.id/berita/sjj1m7370/ukir-prestasi-mahasiswa-cyber-university-raih-juara-1-university-trading-competition",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:56:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 04:18:58"
     },
     {
       "judul": "Ini Alasan Presiden Jokowi Habiskan Masa Jabatan di IKN",
       "link_berita": "https://news.republika.co.id/berita/sjj146377/ini-alasan-presiden-jokowi-habiskan-masa-jabatan-di-ikn",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:45:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Siapakah Maher Al-Jazi? Sopir Truk Misterius Pembunuh Tiga Petugas Keamanan Israel?",
       "link_berita": "https://khazanah.republika.co.id/berita/sjj11i483/siapakah-maher-aljazi-sopir-truk-misterius-pembunuh-tiga-petugas-keamanan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:44:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Gerak Cepat, Bea Cukai Malili Hentikan Mobil Pembawa Lima Karton Rokok Ilegal",
       "link_berita": "https://republika.co.id/berita/sjj0vu370/gerak-cepat-bea-cukai-malili-hentikan-mobil-pembawa-lima-karton-rokok-ilegal",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:40:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Long Weekend Pekan Ini, Maulid Nabi Muhammad 2024 Jatuh Tanggal Berapa? Ini Jadwalnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sjj0n9366/long-weekend-pekan-ini-maulid-nabi-muhammad-2024-jatuh-tanggal-berapa-ini-jadwalnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:35:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Apple Rilis iPhone 16 Sebentar Lagi, Ini Cara Menonton Acara Live Peluncurannya",
       "link_berita": "https://ameera.republika.co.id/berita/sjj0hs425/apple-rilis-iphone-16-sebentar-lagi-ini-cara-menonton-acara-live-peluncurannya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:32:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Universitas BSI Kampus Purwokerto Siap Sambut Mahasiswa Baru Lewat PKKMB 2024",
       "link_berita": "https://news.republika.co.id/berita/sjj091370/universitas-bsi-kampus-purwokerto-siap-sambut-mahasiswa-baru-lewat-pkkmb-2024",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:27:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Chint Indonesia - Nurinda Sepakati Kerja Sama Produksi MV Panel untuk Dukung TKDN",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjj039370/chint-indonesia-nurinda-sepakati-kerja-sama-produksi-mv-panel-untuk-dukung-tkdn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:23:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Tepis Takut Debat, Ini Alasan Kiai Imaduddin tak Hadir Diskusi Nasab Baalawi Rabithah",
       "link_berita": "https://news.republika.co.id/berita/sjj00t377/tepis-takut-debat-ini-alasan-kiai-imaduddin-tak-hadir-diskusi-nasab-baalawi-rabithah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Kenali Trik Pilih Obat Batuk Sesuai Gejala, Jangan Salah Lagi!",
       "link_berita": "https://ameera.republika.co.id/berita/sjizwq425/kenali-trik-pilih-obat-batuk-sesuai-gejala-jangan-salah-lagi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Jokowi Sebut MTQ Nasional XXX Penting Agar Masyarakat Mencintai Alquran",
       "link_berita": "https://khazanah.republika.co.id/berita/sjiz3g366/jokowi-sebut-mtq-nasional-xxx-penting-agar-masyarakat-mencintai-alquran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Abu Ubaida Nobatkan Penembak Tiga Petugas Keamanan Israel Sebagai Pahlawan",
       "link_berita": "https://khazanah.republika.co.id/berita/sjizji483/abu-ubaida-nobatkan-penembak-tiga-petugas-keamanan-israel-sebagai-pahlawan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Mengenal Ilmu Usul Fikih",
       "link_berita": "https://khazanah.republika.co.id/berita/sjizex458/mengenal-ilmu-usul-fikih",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Khalifah Umar Meriang Ketika Anaknya Disebut Bakal Penggantinya",
       "link_berita": "https://sumatralink.id/posts/329451/khalifah-umar-meriang-ketika-anaknya-disebut-bakal-penggantinya",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Kemeriahan Upacara Penutupan Paralimpiade Paris 2024",
       "link_berita": "https://visual.republika.co.id/berita/sjiz5u375/kemeriahan-upacara-penutupan-paralimpiade-paris-2024",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Muslimah Sholat Berdua dengan Lelaki Bukan Mahram, Sahkah?",
       "link_berita": "https://khazanah.republika.co.id/berita/sjiyvq458/muslimah-sholat-berdua-dengan-lelaki-bukan-mahram-sahkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 03:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Menag: MTQ Nasional XXX di Kaltim Tandai Peradaban Baru Bangsa",
       "link_berita": "https://khazanah.republika.co.id/berita/sjiyny366/menag-mtq-nasional-xxx-di-kaltim-tandai-peradaban-baru-bangsa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 03:18:58"
     },
     {
       "judul": "Dosen UNM Beri Pelatihan Pemanfaatan Claude AI untuk Manajemen Organisasi JPRMI Jakarta",
       "link_berita": "https://news.republika.co.id/berita/sjiygf370/dosen-unm-beri-pelatihan-pemanfaatan-claude-ai-untuk-manajemen-organisasi-jprmi-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "E-Materai Eror Saat Pendaftaran CPNS, Ombudsman Minta Pemerintah Tanggung Jawab",
       "link_berita": "https://news.republika.co.id/berita/sjiyg0409/ematerai-eror-saat-pendaftaran-cpns-ombudsman-minta-pemerintah-tanggung-jawab",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Kiprah Almarhumah Penyanyi Cilik Puput Novel, Pernah Raih Penjualan Album Terbanyak",
       "link_berita": "https://ameera.republika.co.id/berita/sjiyfe425/kiprah-almarhumah-penyanyi-cilik-puput-novel-pernah-raih-penjualan-album-terbanyak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Golkar Pecat Syaefudin dari Jabatan Ketua DPD Indramayu",
       "link_berita": "https://rejabar.republika.co.id/berita/sjiybq512/golkar-pecat-syaefudin-dari-jabatan-ketua-dpd-indramayu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Rayni Massardi Luncurkan Novel Terbaru Sinar: Cinta Luar Biasa Orang Biasa",
       "link_berita": "https://ameera.republika.co.id/berita/sjixy5425/rayni-massardi-luncurkan-novel-terbaru-sinar-cinta-luar-biasa-orang-biasa",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Berkoordinasi dengan Jasa Ekspedisi, Bea Cukai Bontang Gagalkan Pengiriman Arak Ilegal",
       "link_berita": "https://republika.co.id/berita/sjixs9370/berkoordinasi-dengan-jasa-ekspedisi-bea-cukai-bontang-gagalkan-pengiriman-arak-ilegal",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Pelamar CPNS di Majalengka Tembus 14 Ribu Orang",
       "link_berita": "https://rejabar.republika.co.id/berita/sjixq5512/pelamar-cpns-di-majalengka-tembus-14-ribu-orang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Maarten Paes is fluent in Indonesian with Books and Interactions",
       "link_berita": "https://en.republika.co.id/berita/sjiwhu415/maarten-paes-is-fluent-in-indonesian-with-books-and-interactions",
       "kategori": "En",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 05:18:58"
     },
     {
       "judul": "Hampir 443.000 Anak Gaza Terima Dosis Pertama Vaksinasi Polio",
       "link_berita": "https://news.republika.co.id/berita/sjix5w370/hampir-443000-anak-gaza-terima-dosis-pertama-vaksinasi-polio",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Bandung Great Sale, KAI Daop 2 Beri Diskon Tiket 20 Persen",
       "link_berita": "https://rejabar.republika.co.id/berita/sjiwyo512/bandung-great-sale-kai-daop-2-beri-diskon-tiket-20-persen",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Indonesia Ajak Investor AS Jajaki Kerja Sama Strategis",
       "link_berita": "https://tv.republika.co.id/berita/sjiwkx467/indonesia-ajak-investor-as-jajaki-kerja-sama-strategis",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Harga Emas Antam Senin Merosot Rp 7.000 Jadi Rp 1,398 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjiwft370/harga-emas-antam-senin-merosot-rp-7000-jadi-rp-1398-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Kajian Sakinah Finance Tentang Judi Online, Waspadai Benjol, Pinjol, dan Judol",
       "link_berita": "https://matapantura.republika.co.id/posts/329399/kajian-sakinah-finance-tentang-judi-online-waspadai-benjol-pinjol-dan-judol",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Menikmati Karya Maestro Lukis Indonesia di Pameran Lukisan Unity Art Project 2024",
       "link_berita": "https://kangjepret.republika.co.id/posts/329436/menikmati-karya-maestro-lukis-indonesia-di-pameran-lukisan-unity-art-project-2024",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
       "judul": "Enter Gaza, TNI Health Workers Team Treats Casualties at UAE Field Hospital",
       "link_berita": "https://en.republika.co.id/berita/sjiwd2415/enter-gaza-tni-health-workers-team-treats-casualties-at-uae-field-hospital",
       "kategori": "En",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 04:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 05:18:58"
     },
     {
       "judul": "Pemprov DKI Lakukan Penelusuran Cagar Budaya di Menteng",
       "link_berita": "https://news.republika.co.id/berita/sjiw6k484/pemprov-dki-lakukan-penelusuran-cagar-budaya-di-menteng",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 02:18:58"
     },
     {
-      "judul": "IPhone Terbaru Dikabarkan Bakal Pakai Teknologi Chip Arm, Apa Keunggulannya?",
-      "link_berita": "https://ameera.republika.co.id/berita/sjiw0o425/iphone-terbaru-dikabarkan-bakal-pakai-teknologi-chip-arm-apa-keunggulannya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 02:22:30"
+      "judul": "Apa itu Minuman Berbasis Edamame dan Apa Kelebihannya?",
+      "link_berita": "https://ameera.republika.co.id/berita/sjj3ko320/apa-itu-minuman-berbasis-edamame-dan-apa-kelebihannya",
+      "kategori": "Health",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 11:38:00"
     },
     {
-      "judul": "Pj Gubernur Jabar Bey Keluarkan Surat Edaran Waspada dan Siap Siaga Megathrust Selat Sunda",
-      "link_berita": "https://rejabar.republika.co.id/berita/sjivjr512/pj-gubernur-jabar-bey-keluarkan-surat-edaran-waspada-dan-siap-siaga-megathrust-selat-sunda",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "UMM Pertegas Komitmen Kampus Inklusi",
-      "link_berita": "https://rejogja.republika.co.id/berita/sjivbe291/umm-pertegas-komitmen-kampus-inklusi",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Warga Jatibening Dukung Tri Adhianto Saat Ngopi Bareng",
-      "link_berita": "https://news.republika.co.id/berita/sjiuwr318/warga-jatibening-dukung-tri-adhianto-saat-ngopi-bareng",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Masuk Gaza, Tim Nakes TNI Rawat Korban di RS Lapangan UAE",
-      "link_berita": "https://news.republika.co.id/berita/sjiuui484/masuk-gaza-tim-nakes-tni-rawat-korban-di-rs-lapangan-uae",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Ini Lokasi Tempat Pembakaran Nabi Ibrahim",
-      "link_berita": "https://khazanah.republika.co.id/berita/sjiutj458/ini-lokasi-tempat-pembakaran-nabi-ibrahim",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Milklife Soccer Challenge Surabaya Series 2 2024 Hasilkan Limpahan Bakat Sepak Bola Putri",
-      "link_berita": "https://news.republika.co.id/berita/sjiupk456/milklife-soccer-challenge-surabaya-series-2-2024-hasilkan-limpahan-bakat-sepak-bola-putri",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Hari Pelanggan Nasional, Juragan 99 Jadi Pramugara Bus AKAP Jakarta-Malang",
-      "link_berita": "https://rejogja.republika.co.id/berita/sjiu26291/hari-pelanggan-nasional-juragan-99-jadi-pramugara-bus-akap-jakartamalang",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Kisah Pemuda Batal Mencuri, Jadi Suami Janda Kaya",
-      "link_berita": "https://khazanah.republika.co.id/berita/sjitxs458/kisah-pemuda-batal-mencuri-jadi-suami-janda-kaya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Presiden Jokowi dan Ibu Iriana Kunjungi Aceh untuk Buka PON XXI",
-      "link_berita": "https://news.republika.co.id/berita/sjitnk484/presiden-jokowi-dan-ibu-iriana-kunjungi-aceh-untuk-buka-pon-xxi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 01:22:30"
-    },
-    {
-      "judul": "Apple Rilis iPhone 16 Sebentar Lagi, Ini Cara Menonton Acara Live Peluncurannya",
-      "link_berita": "https://ameera.republika.co.id/berita/sjj0hs425/apple-rilis-iphone-16-sebentar-lagi-ini-cara-menonton-acara-live-peluncurannya",
-      "kategori": "Tekno",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 10:32:00"
-    },
-    {
-      "judul": "Perlu Kolaborasi Antarnegara untuk Tangani Krisis Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/sjgxv9416/perlu-kolaborasi-antarnegara-untuk-tangani-krisis-iklim",
+      "judul": "Tahun 2024 Hampir Dipastikan Jadi Tahun Terpanas",
+      "link_berita": "https://esgnow.republika.co.id/berita/sjj431416/tahun-2024-hampir-dipastikan-jadi-tahun-terpanas",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Sunday, 08 Sep 2024, 14:15:00"
+      "tanggal_terbit": "Monday, 09 Sep 2024, 11:49:00"
     },
     {
       "judul": "Soal Pajak Buat Bayar Utang, Prastowo Bantah Telah Rendahkan Pembayar Pajak",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 05 Sep 2024, 15:07:00"
     },
     {
-      "judul": "Mahasiswa Cyber University Raih 2nd Runner Up di ACTION 3rd Abstract Competition",
-      "link_berita": "https://news.republika.co.id/berita/sjj2ly370/mahasiswa-cyber-university-raih-2nd-runner-up-di-action-3rd-abstract-competition",
-      "kategori": "Pendidikan",
-      "tanggal_terbit": "Monday, 09 Sep 2024, 11:17:00"
+      "judul": "Terungkap Data Jumlah Kelas Menengah RI Terus Turun dan Saran Ekonom untuk Pemerintah",
+      "link_berita": "https://news.republika.co.id/berita/sjj3qp409/terungkap-data-jumlah-kelas-menengah-ri-terus-turun-dan-saran-ekonom-untuk-pemerintah",
+      "kategori": "News Analysis",
+      "tanggal_terbit": "Monday, 09 Sep 2024, 11:42:00"
     }
   ],
-  "waktu_scraping": "Monday, 09 Sep 2024, 11:22:30"
+  "waktu_scraping": "Monday, 09 Sep 2024, 12:18:59"
 }
