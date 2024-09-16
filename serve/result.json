@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Polisi Akhirnya Buka Jalur Menuju Puncak Setelah Ditutup Lebih dari 8 Jam",
+      "link_berita": "https://news.republika.co.id/berita/sjwgeq409/polisi-akhirnya-buka-jalur-menuju-puncak-setelah-ditutup-lebih-dari-8-jam"
+    },
+    {
       "judul": "Imbas Macet Parah, Jalan ke Puncak Sudah Ditutup Delapan Jam",
       "link_berita": "https://news.republika.co.id/berita/sjwd6t484/imbas-macet-parah-jalan-ke-puncak-sudah-ditutup-delapan-jam"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Dalil Maulid Nabi, Rasulullah Juga Peringati Kelahiran Nabi Isa dan Adam",
       "link_berita": "https://khazanah.republika.co.id/berita/sjvusf451/dalil-maulid-nabi-rasulullah-juga-peringati-kelahiran-nabi-isa-dan-adam"
-    },
-    {
-      "judul": "Macet Horor Puncak Bogor, Wisatawan Terjebak Macet 12 Jam, Satu Orang Meninggal Kelelahan",
-      "link_berita": "https://rejabar.republika.co.id/berita/sjvzxa282/macet-horor-puncak-bogor-wisatawan-terjebak-macet-12-jam-satu-orang-meninggal-kelelahan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Dasco Sebut Kader Gerindra di Kabinet Prabowo Cuma Sedikit, Siapa Dapat Jatah Banyak?",
+      "link_berita": "https://news.republika.co.id/berita/sjwgr7487/dasco-sebut-kader-gerindra-di-kabinet-prabowo-cuma-sedikit-siapa-dapat-jatah-banyak"
+    },
     {
       "judul": "HRS Pusing Pendukung Anies dan PKS Kawan Seperjuangan Malah Saling Serang",
       "link_berita": "https://news.republika.co.id/berita/sjwcth484/hrs-pusing-pendukung-anies-dan-pks-kawan-seperjuangan-malah-saling-serang"
@@ -77,330 +81,326 @@
     {
       "judul": "Oscar Piastri Berjaya di GP Azerbaijan, Perez-Sainz Kecelakaan Saat Buru Podium",
       "link_berita": "https://news.republika.co.id/berita/sjvigi348/oscar-piastri-berjaya-di-gp-azerbaijan-perezsainz-kecelakaan-saat-buru-podium"
-    },
-    {
-      "judul": "Maulid Bukan Hanya Milik NU, Tokoh Muhammadiyah Ini Pun Karang Maulid Nabi",
-      "link_berita": "https://khazanah.republika.co.id/berita/sjrc3m483/maulid-bukan-hanya-milik-nu-tokoh-muhammadiyah-ini-pun-karang-maulid-nabi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ada Proyek Strategis PIK 2, Sandiaga Ingin Tangerang Masuk Kota Kreatif UNESCO",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sjwi1u490/ada-proyek-strategis-pik-2-sandiaga-ingin-tangerang-masuk-kota-kreatif-unesco",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:20:19"
+    },
+    {
+      "judul": "Pinang Betara di Desa Sukakarya, Dari Awalnya Kurang Dilirik Kini Bisa Dieskspor",
+      "link_berita": "https://esgnow.republika.co.id/berita/sjwhv8490/pinang-betara-di-desa-sukakarya-dari-awalnya-kurang-dilirik-kini-bisa-dieskspor",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:16:12"
+    },
+    {
+      "judul": "Pengamat: Pertemuan Prabowo-Megawati Bisa Buat Indonesia Maju",
+      "link_berita": "https://news.republika.co.id/berita/sjwhu9377/pengamat-pertemuan-prabowomegawati-bisa-buat-indonesia-maju",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:16:12"
+    },
+    {
+      "judul": "KPU Diminta Segera Tindak Lanjuti Putusan MK Soal Kampanye di Kampus",
+      "link_berita": "https://news.republika.co.id/berita/sjwhdp487/kpu-diminta-segera-tindak-lanjuti-putusan-mk-soal-kampanye-di-kampus",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:06:12"
+    },
+    {
+      "judul": "PPN Bakal Naik Jadi 12 Persen, Pengamat Nilai Kebijakan Moneter Mestinya Dilonggarkan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sjwh96490/ppn-bakal-naik-jadi-12-persen-pengamat-nilai-kebijakan-moneter-mestinya-dilonggarkan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:03:12"
+    },
+    {
+      "judul": "Rafael Struick Resmi Gabung Brisbane Roar Australia, Kenakan Jersey Nomor 7",
+      "link_berita": "https://news.republika.co.id/berita/sjwh8b483/rafael-struick-resmi-gabung-brisbane-roar-australia-kenakan-jersey-nomor-7",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:02:12"
+    },
+    {
+      "judul": "Maulid Nabi Muhammad SAW, Ini Sederet Masjid Megah yang Dibangun BUMN Karya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sjwh2u490/maulid-nabi-muhammad-saw-ini-sederet-masjid-megah-yang-dibangun-bumn-karya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:59:12"
+    },
+    {
+      "judul": "Dasco Sebut Kader Gerindra di Kabinet Prabowo Cuma Sedikit, Siapa Dapat Jatah Banyak?",
+      "link_berita": "https://news.republika.co.id/berita/sjwgr7487/dasco-sebut-kader-gerindra-di-kabinet-prabowo-cuma-sedikit-siapa-dapat-jatah-banyak",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:52:12"
+    },
+    {
+      "judul": "Lima Syair Maulid Simthud Duror Perlihatkan Cinta yang Mendalam kepada Rasulullah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sjwgqd483/lima-syair-maulid-simthud-duror-perlihatkan-cinta-yang-mendalam-kepada-rasulullah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:52:12"
+    },
+    {
+      "judul": "Polisi Akhirnya Buka Jalur Menuju Puncak Setelah Ditutup Lebih dari 8 Jam",
+      "link_berita": "https://news.republika.co.id/berita/sjwgeq409/polisi-akhirnya-buka-jalur-menuju-puncak-setelah-ditutup-lebih-dari-8-jam",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:45:12"
+    },
+    {
+      "judul": "Taylor Swift Dukung Harris, Trump Langsung Sebut Benci",
+      "link_berita": "https://ameera.republika.co.id/berita/sjwg25328/taylor-swift-dukung-harris-trump-langsung-sebut-benci",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:37:12"
+    },
+    {
+      "judul": "Langkah Revolusioner ZDS Jadi Suntikkan Energi Baru untuk Pasar Aset Digital",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sjwfx0456/langkah-revolusioner-zds-jadi-suntikkan-energi-baru-untuk-pasar-aset-digital",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:34:12"
+    },
+    {
+      "judul": "Fabil Natural Terus Berinovasi Hasilkan Produk Perawatan Halal",
+      "link_berita": "https://ameera.republika.co.id/berita/sjwfmj328/fabil-natural-terus-berinovasi-hasilkan-produk-perawatan-halal",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:28:12"
+    },
+    {
       "judul": "Ridwan Kamil Mengaku Ingin Bertemu Ahok dan Anies",
       "link_berita": "https://news.republika.co.id/berita/sjwewp484/ridwan-kamil-mengaku-ingin-bertemu-ahok-dan-anies",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 09:12:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Sukses Lepas Rindu Sheilagank di Medan, bank bjb Mudahkan Nasabah Dapat Tiket",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjwemj490/sukses-lepas-rindu-sheilagank-di-medan-bank-bjb-mudahkan-nasabah-dapat-tiket",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 09:06:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Pemerintah Bakal Naikkan PPN Jadi 12 Persen, Ekonom: Kondisi Ekonomi Makin Tertekan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjwefv490/pemerintah-bakal-naikkan-ppn-jadi-12-persen-ekonom-kondisi-ekonomi-makin-tertekan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 09:02:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Wasit Tinju PON Dinonaktifkan Usai Picu Kontroversi",
       "link_berita": "https://news.republika.co.id/berita/sjwec0348/wasit-tinju-pon-dinonaktifkan-usai-picu-kontroversi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 09:00:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Pengamat Sarankan Gubernur Jakarta Berikutnya Lanjutkan Pembangunan ITF Sunter",
       "link_berita": "https://esgnow.republika.co.id/berita/sjweaw328/pengamat-sarankan-gubernur-jakarta-berikutnya-lanjutkan-pembangunan-itf-sunter",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:59:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Indef: Keterbatasan Ruang Fiskal Bikin Ekonomi RI Rentan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjwe6a490/indef-keterbatasan-ruang-fiskal-bikin-ekonomi-ri-rentan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:57:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Analis: Pertemuan Prabowo dan Megawati Bawa Kebaikan bagi Bangsa",
       "link_berita": "https://news.republika.co.id/berita/sjwdyq484/analis-pertemuan-prabowo-dan-megawati-bawa-kebaikan-bagi-bangsa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:52:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 09:21:12"
     },
     {
       "judul": "Ingatkan PKS dan Pendukung Anies Jangan Mau Diadu Domba, HRS: Yang Mesti Diserang Fufufafa",
       "link_berita": "https://news.republika.co.id/berita/sjwdqj409/ingatkan-pks-dan-pendukung-anies-jangan-mau-diadu-domba-hrs-yang-mesti-diserang-fufufafa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:47:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 08:21:12"
     },
     {
       "judul": "Ridwan Kamil Targetkan Menang Pilgub Jakarta Satu Putaran",
       "link_berita": "https://news.republika.co.id/berita/sjwdhu484/ridwan-kamil-targetkan-menang-pilgub-jakarta-satu-putaran",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:42:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 08:21:12"
     },
     {
       "judul": "Imbas Macet Parah, Jalan ke Puncak Sudah Ditutup Delapan Jam",
       "link_berita": "https://news.republika.co.id/berita/sjwd6t484/imbas-macet-parah-jalan-ke-puncak-sudah-ditutup-delapan-jam",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:35:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 08:21:12"
     },
     {
       "judul": "HRS Pusing Pendukung Anies dan PKS Kawan Seperjuangan Malah Saling Serang",
       "link_berita": "https://news.republika.co.id/berita/sjwcth484/hrs-pusing-pendukung-anies-dan-pks-kawan-seperjuangan-malah-saling-serang",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:27:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 08:21:12"
     },
     {
       "judul": "Aktivis AS Bakar Diri Sebagai Protes Genosida Israel di Gaza, Media Barat 'Menutup-nutupi'",
       "link_berita": "https://news.republika.co.id/berita/sjwbdq409/aktivis-as-bakar-diri-sebagai-protes-genosida-israel-di-gaza-media-barat-menutupnutupi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 08:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 08:21:12"
     },
     {
       "judul": "Carlos Pena Minta Semua Pihak Taat Aturan Setelah Persija Dapat Sanksi PSSI",
       "link_berita": "https://en.republika.co.id/berita/sjwbdj348/carlos-pena-minta-semua-pihak-taat-aturan-setelah-persija-dapat-sanksi-pssi",
       "kategori": "En",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 09:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:21:12"
     },
     {
       "judul": "Sejak Kapan Hadis Palsu Marak Beredar?",
       "link_berita": "https://khazanah.republika.co.id/berita/sjwb8t458/sejak-kapan-hadis-palsu-marak-beredar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 08:21:12"
     },
     {
       "judul": "Ribuan WNI di Perbatasan Malaysia Rayakan Maulid Nabi, Dananya Swadaya",
       "link_berita": "https://khazanah.republika.co.id/berita/sjwaqp483/ribuan-wni-di-perbatasan-malaysia-rayakan-maulid-nabi-dananya-swadaya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Publik Optimis Pemerintahan Prabowo-Gibran Angkat Indonesia Lebih Maju dan Stabil",
       "link_berita": "https://news.republika.co.id/berita/sjw57c451/publik-optimis-pemerintahan-prabowogibran-angkat-indonesia-lebih-maju-dan-stabil",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Tamu MotoGP Sudah Pesan 1.400 Kamar Hotel di Mataram",
       "link_berita": "https://news.republika.co.id/berita/sjwant484/tamu-motogp-sudah-pesan-1400-kamar-hotel-di-mataram",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Prospek Kerja Lulusan Sains Data Universitas Nusa Mandiri",
       "link_berita": "https://news.republika.co.id/berita/sjw536423/prospek-kerja-lulusan-sains-data-universitas-nusa-mandiri",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Epik, Maulid Nabi di Kampung Islam Bali tak Berhenti Meski Hujan Turun Lebat",
       "link_berita": "https://khazanah.republika.co.id/berita/sjwa68483/epik-maulid-nabi-di-kampung-islam-bali-tak-berhenti-meski-hujan-turun-lebat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Sejarah Penulisan Hadits: Pernah Dilarang Hingga Dibolehkan Rasulullah",
       "link_berita": "https://khazanah.republika.co.id/berita/sjw9jo458/sejarah-penulisan-hadits-pernah-dilarang-hingga-dibolehkan-rasulullah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Analisis Prediksi Harga Emas Dunia Capai 2.700 pada September 2024, Ini Faktor-faktornya",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjw8zu423/analisis-prediksi-harga-emas-dunia-capai-2700-pada-september-2024-ini-faktorfaktornya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Pemkab Bogor Usul Skytrain untuk Kurangi Kemacetan Puncak, Ini Enam Stasiunnya",
       "link_berita": "https://news.republika.co.id/berita/sjw9fz483/pemkab-bogor-usul-skytrain-untuk-kurangi-kemacetan-puncak-ini-enam-stasiunnya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Penghuni Lapas Cipinang Tewas, Polisi Pastikan karena Sakit",
       "link_berita": "https://news.republika.co.id/berita/sjw96s484/penghuni-lapas-cipinang-tewas-polisi-pastikan-karena-sakit",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Jalur Wisata Puncak Dipadati Hingga 150 Ribu Kendaraan Saat Libur Maulid Nabi Muhammad",
       "link_berita": "https://news.republika.co.id/berita/sjw8u5425/jalur-wisata-puncak-dipadati-hingga-150-ribu-kendaraan-saat-libur-maulid-nabi-muhammad",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "OJK Dorong Kemudahan Akses Pembiayaan bagi UMKM",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjw8s5423/ojk-dorong-kemudahan-akses-pembiayaan-bagi-umkm",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Santap Steak di Cut&Grill Bersama Orang Tersayang, Dapatkan Promo Spesial dari BRI",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjw8ko423/santap-steak-di-cutgrill-bersama-orang-tersayang-dapatkan-promo-spesial-dari-bri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 07:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 07:21:12"
     },
     {
       "judul": "Gusmen Temui Menteri Haji Saudi di Jeddah, Susun Jadwal Haji 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/sjw8d0483/gusmen-temui-menteri-haji-saudi-di-jeddah-susun-jadwal-haji-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Hard Drive Musik dari Era 1990-an Terancam Rusak Permanen",
       "link_berita": "https://ameera.republika.co.id/berita/sjw8bi425/hard-drive-musik-dari-era-1990an-terancam-rusak-permanen",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Detik Detik Saat Pria yang Diduga Hendak Tembak Trump Dibekuk Polisi",
       "link_berita": "https://news.republika.co.id/berita/sjw7yx377/detik-detik-saat-pria-yang-diduga-hendak-tembak-trump-dibekuk-polisi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Kim Go-eun Tampil Segar dengan Gaya Rambut Pixie Cut, Fans Duga Ada Proyek Film Baru",
       "link_berita": "https://ameera.republika.co.id/berita/sjw7xf425/kim-goeun-tampil-segar-dengan-gaya-rambut-pixie-cut-fans-duga-ada-proyek-film-baru",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Harga Emas Dunia Meroket, Nyaris Sentuh 2.600 Dolar AS per Troy Ons",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjw7ty423/harga-emas-dunia-meroket-nyaris-sentuh-2600-dolar-as-per-troy-ons",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Wisatawan Meninggal di Puncak Pas Macet Parah, Pj Bupati Bogor Ikut Berduka",
       "link_berita": "https://news.republika.co.id/berita/sjw7la377/wisatawan-meninggal-di-puncak-pas-macet-parah-pj-bupati-bogor-ikut-berduka",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Potensi Nuklir di Dalam Lautan Sudah Diisyaratkan Alquran Sejak Dulu, Ini Buktinya",
       "link_berita": "https://khazanah.republika.co.id/berita/sjw74k483/potensi-nuklir-di-dalam-lautan-sudah-diisyaratkan-alquran-sejak-dulu-ini-buktinya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Guna Wujudkan Pendidikan Berkualitas, Cyber University Lakukan Visitasi Lapangan",
       "link_berita": "https://news.republika.co.id/berita/sjw4wx423/guna-wujudkan-pendidikan-berkualitas-cyber-university-lakukan-visitasi-lapangan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Utang Negara, Beban Masa Depan yang Harus Diwaspadai",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjw7ac423/utang-negara-beban-masa-depan-yang-harus-diwaspadai",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Ekonom Indef Wanti-Wanti Prabowo Soal Beban Utang",
       "link_berita": "https://ekonomi.republika.co.id/berita/sjw6yj484/ekonom-indef-wantiwanti-prabowo-soal-beban-utang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 06:21:12"
     },
     {
       "judul": "Megawati Introduces Pancasila during Her Visit to Russia, Azerbaijan",
       "link_berita": "https://en.republika.co.id/berita/sjvvqc451/megawati-introduces-pancasila-during-her-visit-to-russia-azerbaijan",
       "kategori": "En",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 09:23:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 10:21:12"
     },
     {
-      "judul": "Jejak Arsjad Rasjid, Dipilih Mufakat, Jadi Bos Timses Ganjar, dan Kini Dikudeta di Kadin",
-      "link_berita": "https://news.republika.co.id/berita/sjw6og377/jejak-arsjad-rasjid-dipilih-mufakat-jadi-bos-timses-ganjar-dan-kini-dikudeta-di-kadin",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
-    },
-    {
-      "judul": "Mengapa Harus Bershalawat kepada Nabi Muhammad? Ini Penjelasan Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/sjw6ka483/mengapa-harus-bershalawat-kepada-nabi-muhammad-ini-penjelasan-alquran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
-    },
-    {
-      "judul": "Shalawat Nariyah: Teks Arab, Latin dan Terjemahannya",
-      "link_berita": "https://iqra.republika.co.id/berita/sjw65m458/shalawat-nariyah-teks-arab-latin-dan-terjemahannya",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
-    },
-    {
-      "judul": "Warga Gaza Buat Sandal dari Kayu untuk Atasi Krisis Alas Kaki",
-      "link_berita": "https://tv.republika.co.id/berita/sjw5rj418/warga-gaza-buat-sandal-dari-kayu-untuk-atasi-krisis-alas-kaki",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 06:23:00"
-    },
-    {
-      "judul": "Meta akan Gunakan Konten Publik di Facebook dan Instagram untuk Melatih AI",
-      "link_berita": "https://ameera.republika.co.id/berita/sjw5g6425/meta-akan-gunakan-konten-publik-di-facebook-dan-instagram-untuk-melatih-ai",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Kisah Mukjizat Nabi Muhammad, Hujan Turun Hapus Kekeringan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sjw58h458/kisah-mukjizat-nabi-muhammad-hujan-turun-hapus-kekeringan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Batu 3,5 Kilogram Sebagai Pengganjal Pintu Selama Puluhan Tahun Itu Ternyata Bernilai Lebih dari Rp 16,5 Miliar",
-      "link_berita": "https://impresi.republika.co.id/news/1695093488/batu-35-kilogram-sebagai-pengganjal-pintu-selama-puluhan-tahun-itu-ternyata-bernilai-lebih-dari-rp-165-miliar",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Hari Ini, 1.453 Tahun Lalu Baginda Nabi Muhammad SAW Lahir",
-      "link_berita": "https://magenta.republika.co.id/khazanah/1705093174/hari-ini-1453-tahun-lalu-baginda-nabi-muhammad-saw-lahir",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Hebat!! SIMKATMAWA Universitas Nusa Mandiri Raih Predikat Unggul",
-      "link_berita": "https://news.republika.co.id/berita/sjw4k6423/hebat-simkatmawa-universitas-nusa-mandiri-raih-predikat-unggul",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Komentar Negatif Karyawan Hybe tentang Jungkook Picu Reaksi Keras Fans",
-      "link_berita": "https://ameera.republika.co.id/berita/sjw3uj425/komentar-negatif-karyawan-hybe-tentang-jungkook-picu-reaksi-keras-fans",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Surat Keberatan Sudah Dikirim ke Istana, Arsjad Rasjid Lobi Presiden Cegah Anindya Naik?",
-      "link_berita": "https://news.republika.co.id/berita/sjw3ic377/surat-keberatan-sudah-dikirim-ke-istana-arsjad-rasjid-lobi-presiden-cegah-anindya-naik",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Rektor Cyber University Dorong Inovasi Keuangan Berbasis Data Bersama OJK Institute",
-      "link_berita": "https://news.republika.co.id/berita/sjw3g5423/rektor-cyber-university-dorong-inovasi-keuangan-berbasis-data-bersama-ojk-institute",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Arus Balik Liburan, 178.621 Tiket Kereta Ludes Terjual",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sjw0t8423/arus-balik-liburan-178621-tiket-kereta-ludes-terjual",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 05:23:00"
-    },
-    {
-      "judul": "Hard Drive Musik dari Era 1990-an Terancam Rusak Permanen",
-      "link_berita": "https://ameera.republika.co.id/berita/sjw8bi425/hard-drive-musik-dari-era-1990an-terancam-rusak-permanen",
+      "judul": "Taylor Swift Dukung Harris, Trump Langsung Sebut Benci",
+      "link_berita": "https://ameera.republika.co.id/berita/sjwg25328/taylor-swift-dukung-harris-trump-langsung-sebut-benci",
       "kategori": "Happening",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 13:50:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 16:37:00"
     },
     {
-      "judul": "Pengamat Sarankan Gubernur Jakarta Berikutnya Lanjutkan Pembangunan ITF Sunter",
-      "link_berita": "https://esgnow.republika.co.id/berita/sjweaw328/pengamat-sarankan-gubernur-jakarta-berikutnya-lanjutkan-pembangunan-itf-sunter",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 15:59:00"
+      "judul": "Pinang Betara di Desa Sukakarya, Dari Awalnya Kurang Dilirik Kini Bisa Dieskspor",
+      "link_berita": "https://esgnow.republika.co.id/berita/sjwhv8490/pinang-betara-di-desa-sukakarya-dari-awalnya-kurang-dilirik-kini-bisa-dieskspor",
+      "kategori": "Csr Esg Now",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 17:16:00"
     },
     {
-      "judul": "Sukses Lepas Rindu Sheilagank di Medan, bank bjb Mudahkan Nasabah Dapat Tiket",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sjwemj490/sukses-lepas-rindu-sheilagank-di-medan-bank-bjb-mudahkan-nasabah-dapat-tiket",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 16:06:00"
+      "judul": "Ada Proyek Strategis PIK 2, Sandiaga Ingin Tangerang Masuk Kota Kreatif UNESCO",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sjwi1u490/ada-proyek-strategis-pik-2-sandiaga-ingin-tangerang-masuk-kota-kreatif-unesco",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 16 Sep 2024, 17:20:00"
     },
     {
       "judul": "BI: Kontribusi Pembiayaan Syariah Perbankan Masih Rendah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 14 Sep 2024, 18:46:00"
     },
     {
-      "judul": "Ridwan Kamil Mengaku Ingin Bertemu Ahok dan Anies",
-      "link_berita": "https://news.republika.co.id/berita/sjwewp484/ridwan-kamil-mengaku-ingin-bertemu-ahok-dan-anies",
+      "judul": "Pengamat: Pertemuan Prabowo-Megawati Bisa Buat Indonesia Maju",
+      "link_berita": "https://news.republika.co.id/berita/sjwhu9377/pengamat-pertemuan-prabowomegawati-bisa-buat-indonesia-maju",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 16 Sep 2024, 16:12:00"
+      "tanggal_terbit": "Monday, 16 Sep 2024, 17:15:00"
     }
   ],
-  "waktu_scraping": "Monday, 16 Sep 2024, 16:23:00"
+  "waktu_scraping": "Monday, 16 Sep 2024, 17:21:12"
 }
