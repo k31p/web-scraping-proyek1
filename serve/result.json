@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Polisi Usut Tujuh Mayat di Sungai Bekasi Diduga Pelaku Tawuran",
+      "link_berita": "https://news.republika.co.id/berita/sk7fmo484/polisi-usut-tujuh-mayat-di-sungai-bekasi-diduga-pelaku-tawuran"
+    },
+    {
+      "judul": "Penemuan 7 Mayat di Kali Bekasi, Polisi Duga Ini Penyebabnya",
+      "link_berita": "https://news.republika.co.id/berita/sk7dic425/penemuan-7-mayat-di-kali-bekasi-polisi-duga-ini-penyebabnya"
+    },
+    {
       "judul": "Tujuh Mayat di Kali Bekasi Ditemukan dengan Wajah Bengkak",
       "link_berita": "https://news.republika.co.id/berita/sk7bzp484/tujuh-mayat-di-kali-bekasi-ditemukan-dengan-wajah-bengkak"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Akhirnya Terungkap, Permintaan Kapten Philip Sebelum Dibebaskan oleh KKB",
       "link_berita": "https://news.republika.co.id/berita/sk75jz483/akhirnya-terungkap-permintaan-kapten-philip-sebelum-dibebaskan-oleh-kkb"
-    },
-    {
-      "judul": "Geger! Tujuh Mayat Misterius Ditemukan di Kali Bekasi",
-      "link_berita": "https://news.republika.co.id/berita/sk71sv377/geger-tujuh-mayat-misterius-ditemukan-di-kali-bekasi"
-    },
-    {
-      "judul": "Approval Rating Jokowi Turun, tapi Masih di Atas 60 Persen",
-      "link_berita": "https://news.republika.co.id/berita/sk70e4484/approval-rating-jokowi-turun-tapi-masih-di-atas-60-persen"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Empat Bank BUMN Masuk Daftar Perusahaan Terpercaya Dunia Versi Newsweek",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk7fsp423/empat-bank-bumn-masuk-daftar-perusahaan-terpercaya-dunia-versi-newsweek"
+    },
+    {
+      "judul": "OPM Bebaskan Pilot Susi Air, Kepala BNPT Ungkap Faktor Kesabaran",
+      "link_berita": "https://news.republika.co.id/berita/sk7d97484/opm-bebaskan-pilot-susi-air-kepala-bnpt-ungkap-faktor-kesabaran"
+    },
     {
       "judul": "Peneliti Ungkap Daftar Hewan yang Mungkin Jadi Asal-Usul Covid-19 di Wuhan China",
       "link_berita": "https://ameera.republika.co.id/berita/sk79jk425/peneliti-ungkap-daftar-hewan-yang-mungkin-jadi-asalusul-covid19-di-wuhan-china"
@@ -73,316 +81,308 @@
     {
       "judul": "Siap-siap! Balap Motor Listrik Konversi Pertama di Dunia Dapat Disaksikan Gratis Besok",
       "link_berita": "https://news.republika.co.id/berita/sk61e6502/siapsiap-balap-motor-listrik-konversi-pertama-di-dunia-dapat-disaksikan-gratis-besok"
-    },
-    {
-      "judul": "Perkebunan Topang Kebutuhan Pangan dan Energi Nasional",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sk58ve451/perkebunan-topang-kebutuhan-pangan-dan-energi-nasional"
-    },
-    {
-      "judul": "KPAI Investigasi Kasus Tewasnya Santri di Sukoharjo Akibat Kekerasan Seniornya",
-      "link_berita": "https://news.republika.co.id/berita/sk5y0y487/kpai-investigasi-kasus-tewasnya-santri-di-sukoharjo-akibat-kekerasan-seniornya"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KPU Tetapkan 2 Juta Pemilih di Pilbup Garut",
+      "link_berita": "https://rejabar.republika.co.id/berita/sk7g6z423/kpu-tetapkan-2-juta-pemilih-di-pilbup-garut",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "Empat Bank BUMN Masuk Daftar Perusahaan Terpercaya Dunia Versi Newsweek",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk7fsp423/empat-bank-bumn-masuk-daftar-perusahaan-terpercaya-dunia-versi-newsweek",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "Polisi Usut Tujuh Mayat di Sungai Bekasi Diduga Pelaku Tawuran",
+      "link_berita": "https://news.republika.co.id/berita/sk7fmo484/polisi-usut-tujuh-mayat-di-sungai-bekasi-diduga-pelaku-tawuran",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "RI Serahkan Pilot Philip Mehrtens ke Pemerintah Selandia Baru",
+      "link_berita": "https://news.republika.co.id/berita/sk6t68451/ri-serahkan-pilot-philip-mehrtens-ke-pemerintah-selandia-baru",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "Wamentan Sebut Indonesia Bisa Capai Swasembada Pangan Seperti China",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk7ess423/wamentan-sebut-indonesia-bisa-capai-swasembada-pangan-seperti-china",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "Cak Lontong: Nama Si Doel Jadi Representasi Rano Karno dalam Kampanye",
+      "link_berita": "https://news.republika.co.id/berita/sk7ehz484/cak-lontong-nama-si-doel-jadi-representasi-rano-karno-dalam-kampanye",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "Pansus I Optimistis Tepat Waktu Bahas Peraturan DPRD Jawa Barat tentang Tata Tertib DPRD",
+      "link_berita": "https://news.republika.co.id/berita/sk7eec423/pansus-i-optimistis-tepat-waktu-bahas-peraturan-dprd-jawa-barat-tentang-tata-tertib-dprd",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "PLN Gandeng PGE Bentuk Konsorsium Kembangkan Pembangkit Listrik Panas Bumi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk7e67423/pln-gandeng-pge-bentuk-konsorsium-kembangkan-pembangkit-listrik-panas-bumi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "Pemprov Sulawesi Barat Daftarkan Festival Sandeq ke UNESCO",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk6t2t451/pemprov-sulawesi-barat-daftarkan-festival-sandeq-ke-unesco",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
+      "judul": "KPU Jatim Tetapkan Tiga Pasangan Calon Gubernur dan Wakil Gubernur Jatim 2024",
+      "link_berita": "https://sekitarsurabaya.com/posts/332048/kpu-jatim-tetapkan-tiga-pasangan-calon-gubernur-dan-wakil-gubernur-jatim-2024",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
+    },
+    {
       "judul": "Penemuan 7 Mayat di Kali Bekasi, Polisi Duga Ini Penyebabnya",
       "link_berita": "https://news.republika.co.id/berita/sk7dic425/penemuan-7-mayat-di-kali-bekasi-polisi-duga-ini-penyebabnya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "OPM Bebaskan Pilot Susi Air, Kepala BNPT Ungkap Faktor Kesabaran",
       "link_berita": "https://news.republika.co.id/berita/sk7d97484/opm-bebaskan-pilot-susi-air-kepala-bnpt-ungkap-faktor-kesabaran",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Bahasa Indonesia yang Diucapkan IShowSpeed, yang Paling Heboh: \u2018Minggir Lu Miskin\u2019",
       "link_berita": "https://ameera.republika.co.id/berita/sk7cwh425/bahasa-indonesia-yang-diucapkan-ishowspeed-yang-paling-heboh-minggir-lu-miskin",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "SBY-Jokowi Sepakat Dukung Pemerintahan Prabowo",
       "link_berita": "https://tv.republika.co.id/berita/sk7csr418/sbyjokowi-sepakat-dukung-pemerintahan-prabowo",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Menkopolhukam klaim KKB tak Minta Imbalan untuk Pembebasan Pilot Philip Mehrtens",
       "link_berita": "https://news.republika.co.id/berita/sk6sm9451/menkopolhukam-klaim-kkb-tak-minta-imbalan-untuk-pembebasan-pilot-philip-mehrtens",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Tips Hadapi Anak yang Memberontak, Orang Tua Wajib Tahu",
       "link_berita": "https://ameera.republika.co.id/berita/sk7cfy425/tips-hadapi-anak-yang-memberontak-orang-tua-wajib-tahu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Rano Karno Pakai Nama Si Doel Saat Kampanye dan di Kertas Suara",
       "link_berita": "https://news.republika.co.id/berita/sk7c65484/rano-karno-pakai-nama-si-doel-saat-kampanye-dan-di-kertas-suara",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Tujuh Mayat di Kali Bekasi Ditemukan dengan Wajah Bengkak",
       "link_berita": "https://news.republika.co.id/berita/sk7bzp484/tujuh-mayat-di-kali-bekasi-ditemukan-dengan-wajah-bengkak",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Menko Polhukam: Pembebasan Philip Mehrtens Mengedepankan Soft Approach",
       "link_berita": "https://tv.republika.co.id/berita/sk7bxf418/menko-polhukam-pembebasan-philip-mehrtens-mengedepankan-soft-approach",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Warga PGP Jatiasih Geger dengan Penemuan Tujuh Mayat Mengapung di Sungai",
       "link_berita": "https://gincumanis.com/posts/332036/warga-pgp-jatiasih-geger-dengan-penemuan-tujuh-mayat-mengapung-di-sungai",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Indonesia Bisa Jadi Negara Penghasil Beras Terbesar Kedua di Dunia",
       "link_berita": "https://news.republika.co.id/berita/sk78le484/indonesia-bisa-jadi-negara-penghasil-beras-terbesar-kedua-di-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Usai Ditetapkan, Paslon Pramono-Rano Siap Melaju dengan Kecepatan Penuh",
       "link_berita": "https://news.republika.co.id/berita/sk7a58377/usai-ditetapkan-paslon-pramonorano-siap-melaju-dengan-kecepatan-penuh",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Peneliti Ungkap Daftar Hewan yang Mungkin Jadi Asal-Usul Covid-19 di Wuhan China",
       "link_berita": "https://ameera.republika.co.id/berita/sk79jk425/peneliti-ungkap-daftar-hewan-yang-mungkin-jadi-asalusul-covid19-di-wuhan-china",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Literasi Gemilang Perpustakaan 2024, Perpusnas RI Beri Penghargaan NJDP",
       "link_berita": "https://rejogja.republika.co.id/berita/sk76m5291/literasi-gemilang-perpustakaan-2024-perpusnas-ri-beri-penghargaan-njdp",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Sambut GP Mandalika, Pertamina Patra Niaga Naikkan Stok BBM 5 Kali Lipat Konsumsi Normal",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk78a4490/sambut-gp-mandalika-pertamina-patra-niaga-naikkan-stok-bbm-5-kali-lipat-konsumsi-normal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Basarnas: Penemuan Tujuh Mayat di Sungai Bekasi Jaraknya Berdekatan",
       "link_berita": "https://news.republika.co.id/berita/sk77ym377/basarnas-penemuan-tujuh-mayat-di-sungai-bekasi-jaraknya-berdekatan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "PPI Leiden Batalkan Pencalonan Giorgio Ramadhan dan Hapus Fotonya",
       "link_berita": "https://news.republika.co.id/berita/sk77x4484/ppi-leiden-batalkan-pencalonan-giorgio-ramadhan-dan-hapus-fotonya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Bos SKB Food Luncurkan Buku: Cah Ndeso Menjadi CEO",
       "link_berita": "https://news.republika.co.id/berita/sk77jx318/bos-skb-food-luncurkan-buku-cah-ndeso-menjadi-ceo",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Tanggapan Jokowi Atas Bebasnya Pilot Susi Air, Kapten Philip",
       "link_berita": "https://tv.republika.co.id/berita/sk779v418/tanggapan-jokowi-atas-bebasnya-pilot-susi-air-kapten-philip",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Brace Nicolas Jackson Bawa Chelsea Kalahkan West Ham",
       "link_berita": "https://visual.republika.co.id/berita/sk72yp375/brace-nicolas-jackson-bawa-chelsea-kalahkan-west-ham",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Soal Nomor Urut Calon, Bang Doel: Tak Masalah Nomor, 1, 2 atau 3",
       "link_berita": "https://news.republika.co.id/berita/sk76r0377/soal-nomor-urut-calon-bang-doel-tak-masalah-nomor-1-2-atau-3",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Sudah Meninggal Pun Masih Dihina, Israel Buang Jasad Pejuang Palestina dari Atas Gedung",
       "link_berita": "https://news.republika.co.id/berita/sk7697377/sudah-meninggal-pun-masih-dihina-israel-buang-jasad-pejuang-palestina-dari-atas-gedung",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Akhirnya Terungkap, Permintaan Kapten Philip Sebelum Dibebaskan oleh KKB",
       "link_berita": "https://news.republika.co.id/berita/sk75jz483/akhirnya-terungkap-permintaan-kapten-philip-sebelum-dibebaskan-oleh-kkb",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Ini Jurus HIN Tingkatkan Kualitas SDM Pariwisata lewat Pendidikan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk7583490/ini-jurus-hin-tingkatkan-kualitas-sdm-pariwisata-lewat-pendidikan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Kampanye Peduli Lingkungan di HBKB Jakarta",
       "link_berita": "https://visual.republika.co.id/berita/sk72bn375/kampanye-peduli-lingkungan-di-hbkb-jakarta",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Tujuh Mayat di Kali Bekasi Korban Tawuran?",
       "link_berita": "https://news.republika.co.id/berita/sk7477377/tujuh-mayat-di-kali-bekasi-korban-tawuran",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "BRI Masuk dalam Daftar \u201cWorld\u2019s Most Trustworthy Companies 2024\"",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk73et490/bri-masuk-dalam-daftar-worlds-most-trustworthy-companies-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Kronologi Penemuan Tujuh Mayat Mengambang di Kali Bekasi, Berawal dari Cari Kucing",
       "link_berita": "https://news.republika.co.id/berita/sk732a377/kronologi-penemuan-tujuh-mayat-mengambang-di-kali-bekasi-berawal-dari-cari-kucing",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Serikat Buruh akan 'Panaskan' Bandung, Siap Gelar Demo Tiga Hari",
       "link_berita": "https://news.republika.co.id/berita/sk72rg483/serikat-buruh-akan-panaskan-bandung-siap-gelar-demo-tiga-hari",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Harga iPhone 16 di Rusia Lebih Mahal Dibandingkan Negara Lain, Apa Penyebabnya?",
       "link_berita": "https://ameera.republika.co.id/berita/sk72kx425/harga-iphone-16-di-rusia-lebih-mahal-dibandingkan-negara-lain-apa-penyebabnya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Bupati Bantul: Yogyakomtek 2024 Buka Kesempatan Sosialisasi Produk Dalam Negeri",
       "link_berita": "https://rejogja.republika.co.id/berita/sk72a8291/bupati-bantul-yogyakomtek-2024-buka-kesempatan-sosialisasi-produk-dalam-negeri",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Real Madrid Pesta Gol ke Gawang Espanyol",
       "link_berita": "https://visual.republika.co.id/berita/sk725f375/real-madrid-pesta-gol-ke-gawang-espanyol",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Geger! Tujuh Mayat Misterius Ditemukan di Kali Bekasi",
       "link_berita": "https://news.republika.co.id/berita/sk71sv377/geger-tujuh-mayat-misterius-ditemukan-di-kali-bekasi",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Lewat Merangkul Sukabumi, Ratusan Generasi Millenial dan Gen Z Deklarasi Berperan di Pilkada",
       "link_berita": "https://sukabumikini.com/posts/331973/lewat-merangkul-sukabumi-ratusan-generasi-millenial-dan-gen-z-deklarasi-berperan-di-pilkada",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Komitmen Jalankan Bisnis Berkelanjutan, PLN Sabet Dua Penghargaan ESG",
       "link_berita": "https://esgnow.republika.co.id/berita/sk71gx490/komitmen-jalankan-bisnis-berkelanjutan-pln-sabet-dua-penghargaan-esg",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Jabar Hattrick Juara Umum PON XXI/2024, Kota Depok Sumbang 26 Medali",
       "link_berita": "https://ruzkaindonesia.id/posts/331998/jabar-hattrick-juara-umum-pon-xxi-2024-kota-depok-sumbang-26-medali",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Desa Wisata Perlu Daya Tarik Event untuk Dorong Pariwisata",
       "link_berita": "https://topnews62.com/posts/332019/desa-wisata-perlu-daya-tarik-event-untuk-dorong-pariwisata",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Mau Nonton Gratis Balap Motor Listrik Konversi Pertama di Dunia, Begini Caranya",
       "link_berita": "https://motoresto.id/posts/331999/mau-nonton-gratis-balap-motor-listrik-konversi-pertama-di-dunia-begini-caranya",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "PKBM Terpadu An Nur Gencarkan Semangat Literasi Bagi Siswa",
       "link_berita": "https://sajada.id/posts/332021/pkbm-terpadu-an-nur-gencarkan-semangat-literasi-bagi-siswa",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Bukti Cinta Nabi, Perbanyak Sholawat",
       "link_berita": "https://sajada.id/posts/332022/bukti-cinta-nabi-perbanyak-sholawat",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Ini Pentingnya Mematuhi Rambu Lalu Lintas untuk Keselamatan Berkendara",
-      "link_berita": "https://motoresto.id/posts/332010/ini-pentingnya-mematuhi-rambu-lalu-lintas-untuk-keselamatan-berkendara",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Gubuk Seng, Menyimpan Duka Tsunami Krakatau",
-      "link_berita": "https://sumatralink.id/posts/332025/gubuk-seng-menyimpan-duka-tsunami-krakatau",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Adopsi Digital Semakin Luas, Generasi Muda Diajak Ciptakan Perdamaian",
-      "link_berita": "https://rejogja.republika.co.id/berita/sk70qs291/adopsi-digital-semakin-luas-generasi-muda-diajak-ciptakan-perdamaian",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Approval Rating Jokowi Turun, tapi Masih di Atas 60 Persen",
-      "link_berita": "https://news.republika.co.id/berita/sk70e4484/approval-rating-jokowi-turun-tapi-masih-di-atas-60-persen",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Timteng Panas, Iran Kenalkan Rudal Baru dan Drone Berjelajah 4.000 km, Bisa Sampai Eropa",
-      "link_berita": "https://news.republika.co.id/berita/sk709n377/timteng-panas-iran-kenalkan-rudal-baru-dan-drone-berjelajah-4000-km-bisa-sampai-eropa",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "PSSI Trains the Women's National Team in Japan and the Netherlands",
-      "link_berita": "https://en.republika.co.id/berita/sk6zzp415/pssi-trains-the-womens-national-team-in-japan-and-the-netherlands",
-      "kategori": "En",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Lika-Liku Pembebasan Kapten Philip dari Penyanderaan OPM",
-      "link_berita": "https://news.republika.co.id/berita/sk6zr1393/likaliku-pembebasan-kapten-philip-dari-penyanderaan-opm",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Jelang Shalat Jumat, Tiga Terluka Saat Amankan Pria Bersenjata Pisau di Masjid Montreal",
-      "link_berita": "https://news.republika.co.id/berita/sk6zjk377/jelang-shalat-jumat-tiga-terluka-saat-amankan-pria-bersenjata-pisau-di-masjid-montreal",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Jelang Setahun Genosida, Eropa Menyala oleh Unjuk Rasa Pro-Palestina",
-      "link_berita": "https://news.republika.co.id/berita/sk6z6t393/jelang-setahun-genosida-eropa-menyala-oleh-unjuk-rasa-propalestina",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
-    },
-    {
-      "judul": "Aksi Bocah Usia 10 Tahun Pembawa Bendera Palestina Gocek Polisi Berlin",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk6yub483/aksi-bocah-usia-10-tahun-pembawa-bendera-palestina-gocek-polisi-berlin",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 07:16:33"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 08:22:02"
     },
     {
       "judul": "Bahasa Indonesia yang Diucapkan IShowSpeed, yang Paling Heboh: \u2018Minggir Lu Miskin\u2019",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Sunday, 22 Sep 2024, 09:55:00"
     },
     {
-      "judul": "Sambut GP Mandalika, Pertamina Patra Niaga Naikkan Stok BBM 5 Kali Lipat Konsumsi Normal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sk78a4490/sambut-gp-mandalika-pertamina-patra-niaga-naikkan-stok-bbm-5-kali-lipat-konsumsi-normal",
-      "kategori": "Energi",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 12:22:00"
+      "judul": "Empat Bank BUMN Masuk Daftar Perusahaan Terpercaya Dunia Versi Newsweek",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk7fsp423/empat-bank-bumn-masuk-daftar-perusahaan-terpercaya-dunia-versi-newsweek",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 15:05:00"
     },
     {
       "judul": "Moody\u2019s Ratings: Pembiayaan Syariah Ungguli Pembiayaan Konvensional",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 21 Sep 2024, 11:28:00"
     },
     {
-      "judul": "Penemuan 7 Mayat di Kali Bekasi, Polisi Duga Ini Penyebabnya",
-      "link_berita": "https://news.republika.co.id/berita/sk7dic425/penemuan-7-mayat-di-kali-bekasi-polisi-duga-ini-penyebabnya",
+      "judul": "Polisi Usut Tujuh Mayat di Sungai Bekasi Diduga Pelaku Tawuran",
+      "link_berita": "https://news.republika.co.id/berita/sk7fmo484/polisi-usut-tujuh-mayat-di-sungai-bekasi-diduga-pelaku-tawuran",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 14:15:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 15:01:00"
     }
   ],
-  "waktu_scraping": "Sunday, 22 Sep 2024, 14:16:33"
+  "waktu_scraping": "Sunday, 22 Sep 2024, 15:22:02"
 }
