@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Target Pertumbuhan 8 Persen Prabowo, Mungkinkah Tanpa Industrialisasi?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk8vd3490/target-pertumbuhan-8-persen-prabowo-mungkinkah-tanpa-industrialisasi"
+    },
+    {
+      "judul": "BMKG Prediksi Hujan Guyur Kota Besar Hari Ini",
+      "link_berita": "https://esgnow.republika.co.id/berita/sk8rrr416/bmkg-prediksi-hujan-guyur-kota-besar-hari-ini"
+    },
+    {
       "judul": "Fonseca Puji Penampilan Milan yang Berani Saat Bekuk Inter di Derby Milan",
       "link_berita": "https://news.republika.co.id/berita/sk8pt1348/fonseca-puji-penampilan-milan-yang-berani-saat-bekuk-inter-di-derby-milan"
     },
@@ -11,17 +19,21 @@
     {
       "judul": "Dibombardir Hizbullah, Wilayah Utara Israel Lumpuh",
       "link_berita": "https://news.republika.co.id/berita/sk8lpx393/dibombardir-hizbullah-wilayah-utara-israel-lumpuh"
-    },
-    {
-      "judul": "Garda Revolusi Iran Tangkap 12 Agen Mossad",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk8k2b483/garda-revolusi-iran-tangkap-12-agen-mossad"
-    },
-    {
-      "judul": "Sholat Tahajud Berjamaah, Benarkah Hukumnya Makruh?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk7zgb483/sholat-tahajud-berjamaah-benarkah-hukumnya-makruh"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Harga Emas Masih Stabil di Level Rp1,455 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk8ul6490/harga-emas-masih-stabil-di-level-rp1455-juta-per-gram"
+    },
+    {
+      "judul": "Ini Roket yang Digunakan Hizbullah Membombardir Israel",
+      "link_berita": "https://news.republika.co.id/berita/sk8t5s393/ini-roket-yang-digunakan-hizbullah-membombardir-israel"
+    },
+    {
+      "judul": "Era Tulip Dalam Sejarah Ottoman, Seperti Apa?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8so7458/era-tulip-dalam-sejarah-ottoman-seperti-apa"
+    },
     {
       "judul": "Membantu Orang Zalim",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8pn5458/membantu-orang-zalim"
@@ -69,338 +81,326 @@
     {
       "judul": "Anggota Kongres AS: Rakyat Palestina itu Manusia Juga",
       "link_berita": "https://khazanah.republika.co.id/berita/sk6toh451/anggota-kongres-as-rakyat-palestina-itu-manusia-juga"
-    },
-    {
-      "judul": "INDEF: Ada atau tidak Adanya Covid-19, Kinerja Sektor Pertanian Terus Merosot",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sk7ogy423/indef-ada-atau-tidak-adanya-covid19-kinerja-sektor-pertanian-terus-merosot"
-    },
-    {
-      "judul": "Satgas Cartenz Pastikan tak Ada Uang Tebusan Pembebasan Kapten Philip",
-      "link_berita": "https://news.republika.co.id/berita/sk7mi4328/satgas-cartenz-pastikan-tak-ada-uang-tebusan-pembebasan-kapten-philip"
-    },
-    {
-      "judul": "Tentara Israel Serbu dan Tutup Kantor TV Aljazirah di Ramallah",
-      "link_berita": "https://news.republika.co.id/berita/sk7i54423/tentara-israel-serbu-dan-tutup-kantor-tv-aljazirah-di-ramallah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Media Israel Laporkan Yahya Sinwar Terbunuh, Wartawan: Dulu Kami Juga Mengira Sudah Mati",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8voy483/media-israel-laporkan-yahya-sinwar-terbunuh-wartawan-dulu-kami-juga-mengira-sudah-mati",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:46:34"
+    },
+    {
+      "judul": "Mustika Ratu Menangkan ESG Award 2024 Berkat Inovasi Pelestarian Sosial dan Budaya",
+      "link_berita": "https://esgnow.republika.co.id/berita/sk8vl2490/mustika-ratu-menangkan-esg-award-2024-berkat-inovasi-pelestarian-sosial-dan-budaya",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:43:34"
+    },
+    {
+      "judul": "Target Pertumbuhan 8 Persen Prabowo, Mungkinkah Tanpa Industrialisasi?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk8vd3490/target-pertumbuhan-8-persen-prabowo-mungkinkah-tanpa-industrialisasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:38:34"
+    },
+    {
+      "judul": "Lagu \u2018Birds of a Feather\u2019 dari Billie Eilish Melejit ke Nomor 1 di Tangga Lagu Pop Airplay",
+      "link_berita": "https://ameera.republika.co.id/berita/sk8vaf425/lagu-birds-of-a-feather-dari-billie-eilish-melejit-ke-nomor-1-di-tangga-lagu-pop-airplay",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:37:34"
+    },
+    {
+      "judul": "Rieke Diah: Kartel Politik Gerogoti Fondasi Demokrasi",
+      "link_berita": "https://rejogja.republika.co.id/berita/sk8v3y291/rieke-diah-kartel-politik-gerogoti-fondasi-demokrasi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:33:34"
+    },
+    {
+      "judul": "Harga Emas Masih Stabil di Level Rp1,455 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk8ul6490/harga-emas-masih-stabil-di-level-rp1455-juta-per-gram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:22:34"
+    },
+    {
+      "judul": "Kemenag Pastikan Penempatan Tenda untuk Jamaah Haji Menyesuaikan Kapasitas",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8tug366/kemenag-pastikan-penempatan-tenda-untuk-jamaah-haji-menyesuaikan-kapasitas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:14:34"
+    },
+    {
+      "judul": "Kenali Budaya Islam di Jawa, Peserta AIMEP Kunjungi Pesantren Budaya Kaliopak",
+      "link_berita": "https://rejogja.republika.co.id/berita/sk8u7g291/kenali-budaya-islam-di-jawa-peserta-aimep-kunjungi-pesantren-budaya-kaliopak",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:13:34"
+    },
+    {
+      "judul": "Menlu Iran Bertemu dengan Pangeran Saudi di AS, Apa yang Dibahas?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8u6c483/menlu-iran-bertemu-dengan-pangeran-saudi-di-as-apa-yang-dibahas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:13:34"
+    },
+    {
+      "judul": "Manisnya Buah Kesabaran",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8tsz458/manisnya-buah-kesabaran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 02:05:34"
+    },
+    {
+      "judul": "Semarak Maulid Jadi Ajang Silaturahim Alumni Daarul Qur\u2019an",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8tig366/semarak-maulid-jadi-ajang-silaturahim-alumni-daarul-quran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:58:34"
+    },
+    {
+      "judul": "Peringati World Clean Up Day, BRI Hadirkan Pelatihan Pengelolaan Sampah di Mandalika",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk8tdt490/peringati-world-clean-up-day-bri-hadirkan-pelatihan-pengelolaan-sampah-di-mandalika",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:56:34"
+    },
+    {
+      "judul": "Awal Mula Rumi Bertemu Guru Spiritualnya",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8tbg458/awal-mula-rumi-bertemu-guru-spiritualnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:54:34"
+    },
+    {
+      "judul": "Ini Roket yang Digunakan Hizbullah Membombardir Israel",
+      "link_berita": "https://news.republika.co.id/berita/sk8t5s393/ini-roket-yang-digunakan-hizbullah-membombardir-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:51:34"
+    },
+    {
+      "judul": "Festival Budaya Islam Indonesia di Jepang: Belajar Sholat Hingga Bagi-Bagi Jilbab",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8sr5483/festival-budaya-islam-indonesia-di-jepang-belajar-sholat-hingga-bagibagi-jilbab",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:50:34"
+    },
+    {
+      "judul": "Era Tulip Dalam Sejarah Ottoman, Seperti Apa?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8so7458/era-tulip-dalam-sejarah-ottoman-seperti-apa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:50:34"
+    },
+    {
+      "judul": "Capai Nol Kasus Stunting Baru, Pemprov Jabar Miliki Dua Jurus Jitu",
+      "link_berita": "https://rejabar.republika.co.id/berita/sk8shh512/capai-nol-kasus-stunting-baru-pemprov-jabar-miliki-dua-jurus-jitu",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:50:34"
+    },
+    {
+      "judul": "Mengenal Pasukan Elite Ottoman, Janissari",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8s7g458/mengenal-pasukan-elite-ottoman-janissari",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:50:34"
+    },
+    {
       "judul": "BMKG Prediksi Hujan Guyur Kota Besar Hari Ini",
       "link_berita": "https://esgnow.republika.co.id/berita/sk8rrr416/bmkg-prediksi-hujan-guyur-kota-besar-hari-ini",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:21:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:50:34"
     },
     {
       "judul": "Gol Matteo Gabbia di Menit Akhir Pertandingan Bawa AC Milan Taklukkan Inter Milan",
       "link_berita": "https://visual.republika.co.id/berita/sk8rro375/gol-matteo-gabbia-di-menit-akhir-pertandingan-bawa-ac-milan-taklukkan-inter-milan",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:21:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 01:50:34"
     },
     {
       "judul": "Alumni Politeknik Kementan dan Mahasiswa MBKM Sasar Peran Strategis dalam Pertanian Modern",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk8rps456/alumni-politeknik-kementan-dan-mahasiswa-mbkm-sasar-peran-strategis-dalam-pertanian-modern",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:20:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Ekonom: Jangan Terpaku Kejar Target Pertumbuhan Ekonomi 8 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk8ro7490/ekonom-jangan-terpaku-kejar-target-pertumbuhan-ekonomi-8-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:19:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Keutamaan Hari Senin Menurut Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8rl8458/keutamaan-hari-senin-menurut-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:18:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Laga Persib Vs Persija, Pj Gubernur Jabar Ingatkan Bobotoh tak Lakukan Sweeping",
       "link_berita": "https://rejabar.republika.co.id/berita/sk8rir512/laga-persib-vs-persija-pj-gubernur-jabar-ingatkan-bobotoh-tak-lakukan-sweeping",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:16:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
-      "judul": "Ulama NU Gus Lik Wafat, Pemakamannya Dihadiri Sepuluh Ribu Warga",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk8pes483/ulama-nu-gus-lik-wafat-pemakamannya-dihadiri-sepuluh-ribu-warga",
+      "judul": "Ulama Karismatik NU Gus Lik Wafat, Pemakamannya Dihadiri Sepuluh Ribu Warga",
+      "link_berita": "https://khazanah.republika.co.id/berita/sk8pes483/ulama-karismatik-nu-gus-lik-wafat-pemakamannya-dihadiri-sepuluh-ribu-warga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:16:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Arteta Nilai Arsenal Ambil Satu Langkah Maju dalam Hasil Imbang di Kandang Man City",
       "link_berita": "https://news.republika.co.id/berita/sk8r6n348/arteta-nilai-arsenal-ambil-satu-langkah-maju-dalam-hasil-imbang-di-kandang-man-city",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:09:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Ketua Tim Pemenangan Koalisi Bedas, Ajak Semua Berkampanye Santun di Pilkada Serentak",
       "link_berita": "https://rejabar.republika.co.id/berita/sk8qnq512/ketua-tim-pemenangan-koalisi-bedas-ajak-semua-berkampanye-santun-di-pilkada-serentak",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:57:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Harga Bawang Putih Masih Terus Melonjak, Kini Mencapai Rp 42.400 per Kg",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk8qj1490/harga-bawang-putih-masih-terus-melonjak-kini-mencapai-rp-42400-per-kg",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:55:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Ancaman Keras OPM ke Kelompok Egianus Kogeya: Siapa Berkhianat akan Mati!",
       "link_berita": "https://news.republika.co.id/berita/sk8qe1377/ancaman-keras-opm-ke-kelompok-egianus-kogeya-siapa-berkhianat-akan-mati",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:52:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Pelajaran Berharga dari Runtuhnya Daulah Islam di Andalusia",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8qdy458/pelajaran-berharga-dari-runtuhnya-daulah-islam-di-andalusia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:52:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Jelang Pengundian No Urut Pilwalkot Bandung, Ketua KPU Diganti Ini Penyebabnya",
       "link_berita": "https://rejabar.republika.co.id/berita/sk8pvy512/jelang-pengundian-no-urut-pilwalkot-bandung-ketua-kpu-diganti-ini-penyebabnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:41:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Mentan Ajak Peternak Sapi Sukseskan Program Makan Bergizi Gratis",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk8pvs490/mentan-ajak-peternak-sapi-sukseskan-program-makan-bergizi-gratis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:41:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Fonseca Puji Penampilan Milan yang Berani Saat Bekuk Inter di Derby Milan",
       "link_berita": "https://news.republika.co.id/berita/sk8pt1348/fonseca-puji-penampilan-milan-yang-berani-saat-bekuk-inter-di-derby-milan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:39:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Membantu Orang Zalim",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8pn5458/membantu-orang-zalim",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:35:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Ribuan Rumah di Garut Terdampak Gempa, Sedang Diusulkan Dapat Bantuan",
       "link_berita": "https://rejabar.republika.co.id/berita/sk8pj5512/ribuan-rumah-di-garut-terdampak-gempa-sedang-diusulkan-dapat-bantuan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:33:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Berwudhu Saat Masih Pakai Make-up, Sahkah?",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8p9g458/berwudhu-saat-masih-pakai-makeup-sahkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 00:50:34"
     },
     {
       "judul": "Bidadari untuk Lelaki di Surga, Bagaimana dengan Muslimah?",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8ouf458/bidadari-untuk-lelaki-di-surga-bagaimana-dengan-muslimah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Tajir Melintir, Kekayaan Song Hye Kyo Capai Puluhan Miliar tanpa Repot Kerja Keras, Bagaimana Caranya?",
       "link_berita": "https://impresi.republika.co.id/leisure/1695117002/tajir-melintir-kekayaan-song-hye-kyo-capai-puluhan-miliar-tanpa-repot-kerja-keras-bagaimana-caranya",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Ngeri, Simak 5 Film Horor dengan Rating Tinggi Bulan Ini",
       "link_berita": "https://impresi.republika.co.id/leisure/1695114440/ngeri-simak-5-film-horor-dengan-rating-tinggi-bulan-ini",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Cara Melindungi Ponsel Android Anda dari Pencurian",
       "link_berita": "https://impresi.republika.co.id/news/1695114392/cara-melindungi-ponsel-android-anda-dari-pencurian",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Pilkada 2024, KPU Depok Umumkan Penetapan Paslon Wali Kota dan Wakil Wali Kota Depok, Ada 2 Paslon",
       "link_berita": "https://ruzka.republika.co.id/nasional/1675115220/pilkada-2024-kpu-depok-umumkan-penetapan-paslon-wali-kota-dan-wakil-wali-kota-depok-ada-2-paslon",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Wah, iPhone 16 Disebut Kurang Laku, Ternyata Ini Buktinya",
       "link_berita": "https://impresi.republika.co.id/didaktika/1695116894/wah-iphone-16-disebut-kurang-laku-ternyata-ini-buktinya",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Tiga Paslon Pilgub Jakarta akan Undi Nomor Urut Malam Ini",
       "link_berita": "https://news.republika.co.id/berita/sk8ojb409/tiga-paslon-pilgub-jakarta-akan-undi-nomor-urut-malam-ini",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "PR Prabowo, Pertumbuhan Ekonomi Berkualitas hingga Perkuat Industri Manufaktur",
       "link_berita": "https://ekonomi.republika.co.id/berita/sk8oi0490/pr-prabowo-pertumbuhan-ekonomi-berkualitas-hingga-perkuat-industri-manufaktur",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Tujuh Keutamaan Sholat Dhuha, Salah Satunya Dapat Istana Emas di Surga",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8oes483/tujuh-keutamaan-sholat-dhuha-salah-satunya-dapat-istana-emas-di-surga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 00:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Pesta Kemenangan Barcelona Atas Villarreal, Lewandowski Sumbang Dua Gol",
       "link_berita": "https://news.republika.co.id/berita/sk8nuh348/pesta-kemenangan-barcelona-atas-villarreal-lewandowski-sumbang-dua-gol",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Mees Hilgers Kalahkan Thom Haye dalam Duel Naturalisasi Indonesia di Liga Belanda",
       "link_berita": "https://news.republika.co.id/berita/sk8nac348/mees-hilgers-kalahkan-thom-haye-dalam-duel-naturalisasi-indonesia-di-liga-belanda",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Empat Objek di Israel yang Dibombardir Serangan Roket Hizbullah",
       "link_berita": "https://khazanah.republika.co.id/berita/sk8kvi483/empat-objek-di-israel-yang-dibombardir-serangan-roket-hizbullah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Tim SAR Hentikan Pencarian Jasad di Kali Bekasi",
       "link_berita": "https://news.republika.co.id/berita/sk8mnt409/tim-sar-hentikan-pencarian-jasad-di-kali-bekasi",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
       "judul": "Ketika Lamia Masa Kini Menguasai Teknologi Canggih!",
       "link_berita": "https://www.republika.id/posts/54838/ketika-lamia-masa-kini-menguasai-teknologi-canggih",
       "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
+      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:50:34"
     },
     {
-      "judul": "Man City Susah Payah Amankan Hasil Imbang Lawan Arsenal",
-      "link_berita": "https://news.republika.co.id/berita/sk8m75348/man-city-susah-payah-amankan-hasil-imbang-lawan-arsenal",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
-    },
-    {
-      "judul": "Dibombardir Hizbullah, Wilayah Utara Israel Lumpuh",
-      "link_berita": "https://news.republika.co.id/berita/sk8lpx393/dibombardir-hizbullah-wilayah-utara-israel-lumpuh",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
-    },
-    {
-      "judul": "AC Milan Taklukkan Inter, Menangi Duel Derbi Della Madonnina Lewat Gol Matteo Gabia",
-      "link_berita": "https://news.republika.co.id/berita/sk8ln9348/ac-milan-taklukkan-inter-menangi-duel-derbi-della-madonnina-lewat-gol-matteo-gabia",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 23:27:00"
-    },
-    {
-      "judul": "Penembakan Massal di Alabama, Empat Tewas 17 Terluka",
-      "link_berita": "https://news.republika.co.id/berita/sk8kpw393/penembakan-massal-di-alabama-empat-tewas-17-terluka",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 22:27:00"
-    },
-    {
-      "judul": "Garda Revolusi Iran Tangkap 12 Agen Mossad",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk8k2b483/garda-revolusi-iran-tangkap-12-agen-mossad",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 22:27:00"
-    },
-    {
-      "judul": "Muslim Sejati",
-      "link_berita": "https://www.republika.id/posts/54839/muslim-sejati",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 22:27:00"
-    },
-    {
-      "judul": "Dua Sekolah Pengungsi Dibombardir Israel Berturut-Turut",
-      "link_berita": "https://www.republika.id/posts/54836/dua-sekolah-pengungsi-dibombardir-israel-berturut-turut",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 22:27:00"
-    },
-    {
-      "judul": "Lebanon Bombardir Fasilitas Militer Israel",
-      "link_berita": "https://www.republika.id/posts/54835/lebanon-bombardir-fasilitas-militer-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 22:27:00"
-    },
-    {
-      "judul": "Pilot Selandia Baru Bebas, OPM Ribut Sendiri",
-      "link_berita": "https://www.republika.id/posts/54834/pilot-selandia-baru-bebas-opm-ribut-sendiri",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 21:27:00"
-    },
-    {
-      "judul": "Manfaat Puasa Senin-Kamis yang Jarang Diketahui Orang",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk7yu6483/manfaat-puasa-seninkamis-yang-jarang-diketahui-orang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 20:27:00"
-    },
-    {
-      "judul": "LazizNU and Poroz Send 12 Containers of Aid to Palestinians",
-      "link_berita": "https://en.republika.co.id/berita/sk7tv5415/laziznu-and-poroz-send-12-containers-of-aid-to-palestinians",
-      "kategori": "En",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:27:00"
-    },
-    {
-      "judul": "Police Identify 15 Suspects in Case of Discovery of Bodies in Kali Bekasi",
-      "link_berita": "https://en.republika.co.id/berita/sk7thf415/police-identify-15-suspects-in-case-of-discovery-of-bodies-in-kali-bekasi",
-      "kategori": "En",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:27:00"
-    },
-    {
-      "judul": "Sholat Tahajud Berjamaah, Benarkah Hukumnya Makruh?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk7zgb483/sholat-tahajud-berjamaah-benarkah-hukumnya-makruh",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 18:27:00"
-    },
-    {
-      "judul": "Four State-Owned Banks are on Newsweek's List of World's Trusted Companies",
-      "link_berita": "https://en.republika.co.id/berita/sk7tdp415/four-stateowned-banks-are-on-newsweeks-list-of-worlds-trusted-companies",
-      "kategori": "En",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 01:27:00"
-    },
-    {
-      "judul": "Presiden Xi Jinping-Raja Malaysia Bertemu Bahas Peradaban China-Islam",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk6tb3451/presiden-xi-jinpingraja-malaysia-bertemu-bahas-peradaban-chinaislam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 17:27:00"
-    },
-    {
-      "judul": "Polisi Diminta tak Tergesa Simpulkan 7 Remaja Tewas karena Mencebur ke Kali Bekasi",
-      "link_berita": "https://news.republika.co.id/berita/sk82z7377/polisi-diminta-tak-tergesa-simpulkan-7-remaja-tewas-karena-mencebur-ke-kali-bekasi",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 17:27:00"
-    },
-    {
-      "judul": "Khofifah Ajak Semua Pihak Terus Serukan Perdamaian di Palestina",
-      "link_berita": "https://khazanah.republika.co.id/berita/sk6tkm451/khofifah-ajak-semua-pihak-terus-serukan-perdamaian-di-palestina",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 17:27:00"
-    },
-    {
-      "judul": "Keluarga Korban Tenggelam di Kali Bekasi Datangi RS Polri",
-      "link_berita": "https://visual.republika.co.id/berita/sk81q3375/keluarga-korban-tenggelam-di-kali-bekasi-datangi-rs-polri",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 17:27:00"
-    },
-    {
-      "judul": "Ebiet G Ade Hadirkan Kesenduan dengan Lagu-Lagu Lawas",
-      "link_berita": "https://ameera.republika.co.id/berita/sk7xz5425/ebiet-g-ade-hadirkan-kesenduan-dengan-lagulagu-lawas",
+      "judul": "Lagu \u2018Birds of a Feather\u2019 dari Billie Eilish Melejit ke Nomor 1 di Tangga Lagu Pop Airplay",
+      "link_berita": "https://ameera.republika.co.id/berita/sk8vaf425/lagu-birds-of-a-feather-dari-billie-eilish-melejit-ke-nomor-1-di-tangga-lagu-pop-airplay",
       "kategori": "Happening",
-      "tanggal_terbit": "Sunday, 22 Sep 2024, 21:37:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 09:37:00"
     },
     {
-      "judul": "BMKG Prediksi Hujan Guyur Kota Besar Hari Ini",
-      "link_berita": "https://esgnow.republika.co.id/berita/sk8rrr416/bmkg-prediksi-hujan-guyur-kota-besar-hari-ini",
+      "judul": "Mustika Ratu Menangkan ESG Award 2024 Berkat Inovasi Pelestarian Sosial dan Budaya",
+      "link_berita": "https://esgnow.republika.co.id/berita/sk8vl2490/mustika-ratu-menangkan-esg-award-2024-berkat-inovasi-pelestarian-sosial-dan-budaya",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 08:21:00"
+      "tanggal_terbit": "Monday, 23 Sep 2024, 09:43:00"
     },
     {
-      "judul": "Alumni Politeknik Kementan dan Mahasiswa MBKM Sasar Peran Strategis dalam Pertanian Modern",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sk8rps456/alumni-politeknik-kementan-dan-mahasiswa-mbkm-sasar-peran-strategis-dalam-pertanian-modern",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 08:20:00"
+      "judul": "Target Pertumbuhan 8 Persen Prabowo, Mungkinkah Tanpa Industrialisasi?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sk8vd3490/target-pertumbuhan-8-persen-prabowo-mungkinkah-tanpa-industrialisasi",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 09:39:00"
     },
     {
       "judul": "Moody\u2019s Ratings: Pembiayaan Syariah Ungguli Pembiayaan Konvensional",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 21 Sep 2024, 11:28:00"
     },
     {
-      "judul": "Arteta Nilai Arsenal Ambil Satu Langkah Maju dalam Hasil Imbang di Kandang Man City",
-      "link_berita": "https://news.republika.co.id/berita/sk8r6n348/arteta-nilai-arsenal-ambil-satu-langkah-maju-dalam-hasil-imbang-di-kandang-man-city",
-      "kategori": "Sport",
-      "tanggal_terbit": "Monday, 23 Sep 2024, 08:08:00"
+      "judul": "Ini Roket yang Digunakan Hizbullah Membombardir Israel",
+      "link_berita": "https://news.republika.co.id/berita/sk8t5s393/ini-roket-yang-digunakan-hizbullah-membombardir-israel",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Monday, 23 Sep 2024, 08:51:00"
     }
   ],
-  "waktu_scraping": "Monday, 23 Sep 2024, 08:27:00"
+  "waktu_scraping": "Monday, 23 Sep 2024, 09:50:34"
 }
