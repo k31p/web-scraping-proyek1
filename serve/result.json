@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Israel Terus Gempur Hizbullah, Ini Janji Netanyahu",
+      "link_berita": "https://khazanah.republika.co.id/berita/skcnbp366/israel-terus-gempur-hizbullah-ini-janji-netanyahu"
+    },
+    {
       "judul": "Imam Marcellus dan Sejarah Kelam 'Lynching' Terhadap Kulit Hitam di Missouri",
       "link_berita": "https://news.republika.co.id/berita/skckxu393/imam-marcellus-dan-sejarah-kelam-lynching-terhadap-kulit-hitam-di-missouri"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Israel Tewaskan 569 di Lebanon, Puluhan Ribu Mengungsi",
       "link_berita": "https://news.republika.co.id/berita/skcgim393/israel-tewaskan-569-di-lebanon-puluhan-ribu-mengungsi"
-    },
-    {
-      "judul": "Hari Ini, Jokowi Groundbreaking Sejumlah Proyek Investor Asing di IKN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skce15502/hari-ini-jokowi-groundbreaking-sejumlah-proyek-investor-asing-di-ikn"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Rusia Dilaporkan Siap Suplai Rudal Supersonik untuk Houthi, Timur Tengah Semakin Bergolak",
+      "link_berita": "https://khazanah.republika.co.id/berita/skcnp4483/rusia-dilaporkan-siap-suplai-rudal-supersonik-untuk-houthi-timur-tengah-semakin-bergolak"
+    },
+    {
+      "judul": "Rhenald Kasali Soroti Tren FOMO Kelas Menengah, Meski Bokek Tetap Beli, Paylater pun Jadi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skcn2d502/rhenald-kasali-soroti-tren-fomo-kelas-menengah-meski-bokek-tetap-beli-paylater-pun-jadi"
+    },
     {
       "judul": "Mees Hilgers Tegaskan Twente tak Boleh Hormati MU Berlebihan dalam Laga di Old Trafford",
       "link_berita": "https://news.republika.co.id/berita/skck4x348/mees-hilgers-tegaskan-twente-tak-boleh-hormati-mu-berlebihan-dalam-laga-di-old-trafford"
@@ -73,322 +81,314 @@
     {
       "judul": "Melihat Latihan Resmi Timnas Indonesia U-20 Jelang Kualifikasi Piala Asia 2025",
       "link_berita": "https://visual.republika.co.id/berita/skbglt375/melihat-latihan-resmi-timnas-indonesia-u20-jelang-kualifikasi-piala-asia-2025"
-    },
-    {
-      "judul": "Hukum akan Ditegakkan, Bobotoh Pelaku Rusuh Usai Laga Persib vs Persija akan Diproses",
-      "link_berita": "https://news.republika.co.id/berita/skbfx6409/hukum-akan-ditegakkan-bobotoh-pelaku-rusuh-usai-laga-persib-vs-persija-akan-diproses"
-    },
-    {
-      "judul": "Keeper di Bali Safari and Marine Park Tewas Usai Diseruduk Gajah, Ini Penjelasan Polisi",
-      "link_berita": "https://news.republika.co.id/berita/skbf1s409/keeper-di-bali-safari-and-marine-park-tewas-usai-diseruduk-gajah-ini-penjelasan-polisi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Sean Diddy Combs Ditahan di New York Usai Digugat Wanita Ke-11",
+      "link_berita": "https://news.republika.co.id/berita/skcozg484/sean-diddy-combs-ditahan-di-new-york-usai-digugat-wanita-ke11",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 04:11:55"
+    },
+    {
+      "judul": "Kuningan Penghasil Kopi Berkualitas, Tersebar dari Cilebak Hingga Karangkancana",
+      "link_berita": "https://rejabar.republika.co.id/berita/skcori512/kuningan-penghasil-kopi-berkualitas-tersebar-dari-cilebak-hingga-karangkancana",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 04:06:55"
+    },
+    {
+      "judul": "Beasiswa BIDIKMANIS: Dorongan Baru bagi Mahasiswa Universitas BSI untuk Berkarya",
+      "link_berita": "https://news.republika.co.id/berita/skcoa6490/beasiswa-bidikmanis-dorongan-baru-bagi-mahasiswa-universitas-bsi-untuk-berkarya",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:59:55"
+    },
+    {
+      "judul": "Layanan AI Berbasis Cloud Google akan Diterapkan di Mobil Volkswagen",
+      "link_berita": "https://ameera.republika.co.id/berita/skcoed425/layanan-ai-berbasis-cloud-google-akan-diterapkan-di-mobil-volkswagen",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:58:55"
+    },
+    {
+      "judul": "Resmi jadi Pjs Bupati Indramayu, Dedi Taufik Siap Jaga Ketahanan Pangan",
+      "link_berita": "https://rejabar.republika.co.id/berita/skcodj512/resmi-jadi-pjs-bupati-indramayu-dedi-taufik-siap-jaga-ketahanan-pangan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:58:55"
+    },
+    {
+      "judul": "Program TJSLP BUMN di Karawang Diapresiasi, Peruri: Cerminan Komitmen",
+      "link_berita": "https://rejabar.republika.co.id/berita/skco48456/program-tjslp-bumn-di-karawang-diapresiasi-peruri-cerminan-komitmen",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:52:55"
+    },
+    {
+      "judul": "Dosen UBSI Ajak Ahli, Bantu Pengelolaan Air Bersih di Ciawi",
+      "link_berita": "https://news.republika.co.id/berita/skco0f490/dosen-ubsi-ajak-ahli-bantu-pengelolaan-air-bersih-di-ciawi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:50:55"
+    },
+    {
+      "judul": "Sambutan Rektor UNM di MOKA 2024: Selamat Tinggal Putih Abu-Abu",
+      "link_berita": "https://news.republika.co.id/berita/skcnuu490/sambutan-rektor-unm-di-moka-2024-selamat-tinggal-putih-abuabu",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:46:55"
+    },
+    {
+      "judul": "Aksi Penculikan Anak di Bandung Terekam CCTV, Motif Pelaku Masih Didalami",
+      "link_berita": "https://rejabar.republika.co.id/berita/skcnuq512/aksi-penculikan-anak-di-bandung-terekam-cctv-motif-pelaku-masih-didalami",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:46:55"
+    },
+    {
+      "judul": "Artis Korea Jung So-min dan Jung Hae-in Tiba di Bali, Ada Urusan Apa?",
+      "link_berita": "https://ameera.republika.co.id/berita/skcnr4425/artis-korea-jung-somin-dan-jung-haein-tiba-di-bali-ada-urusan-apa",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:44:55"
+    },
+    {
+      "judul": "Rusia Dilaporkan Siap Suplai Rudal Supersonik untuk Houthi, Timur Tengah Semakin Bergolak",
+      "link_berita": "https://khazanah.republika.co.id/berita/skcnp4483/rusia-dilaporkan-siap-suplai-rudal-supersonik-untuk-houthi-timur-tengah-semakin-bergolak",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:43:55"
+    },
+    {
+      "judul": "Dirut PT PAL Sebut Pemerintahan Prabowo Ingin Bangun Kapal Induk",
+      "link_berita": "https://news.republika.co.id/berita/skcnm5484/dirut-pt-pal-sebut-pemerintahan-prabowo-ingin-bangun-kapal-induk",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:41:55"
+    },
+    {
+      "judul": "Media Israel Ini Percaya Hizbullah Lebanon Masih Kuat dan Mampu Serang Israel",
+      "link_berita": "https://news.republika.co.id/berita/skcnc8320/media-israel-ini-percaya-hizbullah-lebanon-masih-kuat-dan-mampu-serang-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:35:55"
+    },
+    {
+      "judul": "Israel Terus Gempur Hizbullah, Ini Janji Netanyahu",
+      "link_berita": "https://khazanah.republika.co.id/berita/skcnbp366/israel-terus-gempur-hizbullah-ini-janji-netanyahu",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:35:55"
+    },
+    {
+      "judul": "Dirut BRI Sunarso Ungkap Pentingnya Memformalkan UMKM Untuk Peningkatan Tax Ratio",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skcnab490/dirut-bri-sunarso-ungkap-pentingnya-memformalkan-umkm-untuk-peningkatan-tax-ratio",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:34:55"
+    },
+    {
+      "judul": "Rhenald Kasali Soroti Tren FOMO Kelas Menengah, Meski Bokek Tetap Beli, Paylater pun Jadi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skcn2d502/rhenald-kasali-soroti-tren-fomo-kelas-menengah-meski-bokek-tetap-beli-paylater-pun-jadi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:29:55"
+    },
+    {
+      "judul": "IAPI Bersama Telkom University Dorong Lahirnya Kepemimpinan Muda",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skcmzs490/iapi-bersama-telkom-university-dorong-lahirnya-kepemimpinan-muda",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:28:55"
+    },
+    {
       "judul": "Siapa di Balik Eksekusi Mati Imam Marcellus Williams?",
       "link_berita": "https://news.republika.co.id/berita/skcmvi393/siapa-di-balik-eksekusi-mati-imam-marcellus-williams",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:26:07"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:25:55"
     },
     {
       "judul": "YouTube Memperluas YouTube Shopping di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/skcmo7490/youtube-memperluas-youtube-shopping-di-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:21:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:23:55"
     },
     {
       "judul": "Isu Fikih Disabilitas Dinilai tak Cukup Dapat Perhatian",
       "link_berita": "https://khazanah.republika.co.id/berita/skcmgq483/isu-fikih-disabilitas-dinilai-tak-cukup-dapat-perhatian",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:16:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:23:55"
     },
     {
       "judul": "Haaretz: 40 Ribu Pejuang dari Suriah, Irak, dan Yaman Tiba di Golan Siap Serang Israel",
       "link_berita": "https://news.republika.co.id/berita/skcmaz409/haaretz-40-ribu-pejuang-dari-suriah-irak-dan-yaman-tiba-di-golan-siap-serang-israel",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:13:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 03:23:55"
     },
     {
       "judul": "Imam Marcellus dan Sejarah Kelam 'Lynching' Terhadap Kulit Hitam di Missouri",
       "link_berita": "https://news.republika.co.id/berita/skckxu393/imam-marcellus-dan-sejarah-kelam-lynching-terhadap-kulit-hitam-di-missouri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:44:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "RI Kutuk Keras Rangkaian Serangan Israel ke Lebanon",
       "link_berita": "https://khazanah.republika.co.id/berita/skcklw483/ri-kutuk-keras-rangkaian-serangan-israel-ke-lebanon",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:36:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Selain The Batman II, Bakal Ada Banyak Semesta The Batman",
       "link_berita": "https://ameera.republika.co.id/berita/skck8h425/selain-the-batman-ii-bakal-ada-banyak-semesta-the-batman",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:28:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Mees Hilgers Tegaskan Twente tak Boleh Hormati MU Berlebihan dalam Laga di Old Trafford",
       "link_berita": "https://news.republika.co.id/berita/skck4x348/mees-hilgers-tegaskan-twente-tak-boleh-hormati-mu-berlebihan-dalam-laga-di-old-trafford",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Imam Marcellus Williams Ukir Pesan Terakhir Memuji Allah Sebelum Dieksekusi, Ini Isinya",
       "link_berita": "https://khazanah.republika.co.id/berita/skcjwf483/imam-marcellus-williams-ukir-pesan-terakhir-memuji-allah-sebelum-dieksekusi-ini-isinya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Putra Imam Marcellus Khalifah Williams: Saya Tahu Dia akan Masuk Surga",
       "link_berita": "https://khazanah.republika.co.id/berita/skcjit320/putra-imam-marcellus-khalifah-williams-saya-tahu-dia-akan-masuk-surga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Hutan Lindung Pegunungan Meratus akan Dijadikan Taman Nasional",
       "link_berita": "https://esgnow.republika.co.id/berita/skcgrv416/hutan-lindung-pegunungan-meratus-akan-dijadikan-taman-nasional",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Viral Penyembelihan Sapi dengan Pemingsanan di RPH Pegirian Surabaya, Ini Respons MUI",
       "link_berita": "https://khazanah.republika.co.id/berita/skcj4k320/viral-penyembelihan-sapi-dengan-pemingsanan-di-rph-pegirian-surabaya-ini-respons-mui",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Kurangi Jaringan Ilegal, Ribuan Rumah Tangga di Cianjur Terima Sambungan Listrik Gratis",
       "link_berita": "https://ekonomi.republika.co.id/berita/skcj27490/kurangi-jaringan-ilegal-ribuan-rumah-tangga-di-cianjur-terima-sambungan-listrik-gratis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Kerja sama Epik atau Cuma Gaya-Gayaan? Universitas Nusa Mandiri Gandeng Peluang.co",
       "link_berita": "https://news.republika.co.id/berita/skcivf490/kerja-sama-epik-atau-cuma-gayagayaan-universitas-nusa-mandiri-gandeng-peluangco",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 02:23:55"
     },
     {
       "judul": "Lima Kejanggalan Kasus Imam Marcellus 'Khalifah' Williams yang Diakhiri Eksekusi Mati",
       "link_berita": "https://khazanah.republika.co.id/berita/skcfew483/lima-kejanggalan-kasus-imam-marcellus-khalifah-williams-yang-diakhiri-eksekusi-mati",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Warga Akan Dapat Peringatan Dini Bencana dari TV Digital",
       "link_berita": "https://news.republika.co.id/berita/skci11393/warga-akan-dapat-peringatan-dini-bencana-dari-tv-digital",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Imam Marcellus Williams Dieksekusi Mati, Tulis Nama Allah di Pesan Terakhirnya",
       "link_berita": "https://news.republika.co.id/berita/skchz8409/imam-marcellus-williams-dieksekusi-mati-tulis-nama-allah-di-pesan-terakhirnya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Sosialisasi Hak Cipta dan Royalti di Era Digital, Tingkatkan Kesadaran Musisi",
       "link_berita": "https://ruzka.republika.co.id/gaya-hidup/1675124799/sosialisasi-hak-cipta-dan-royalti-di-era-digital-tingkatkan-kesadaran-musisi",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Polda Metro Ringkus Dua Pelaku Jaringan Sabu Malaysia",
       "link_berita": "https://news.republika.co.id/berita/skchno484/polda-metro-ringkus-dua-pelaku-jaringan-sabu-malaysia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Diadaptasi dari Webtoon Populer, Serial \"Sekotengs\" Tayang Perdana 26 September",
       "link_berita": "https://senandika.republika.co.id/genta/1735123614/diadaptasi-dari-webtoon-populer-serial-sekotengs-tayang-perdana-26-september",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Warga di Depok Didorong Memilah Sampah dari Sumbernya, Percepat Penghijauan",
       "link_berita": "https://ruzka.republika.co.id/serba-serbi/1675124486/warga-di-depok-didorong-memilah-sampah-dari-sumbernya-percepat-penghijauan",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Pemkot Depok akan Tambah Fasilitas Olahraga, Dukung Pengembangan Bakat Remaja",
       "link_berita": "https://ruzka.republika.co.id/serba-serbi/1675124561/pemkot-depok-akan-tambah-fasilitas-olahraga-dukung-pengembangan-bakat-remaja",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Gemas, Google Doodle Rayakan Kehadiran Popcorn dengan Game Interaktif, Ikuti Keseruannya",
       "link_berita": "https://impresi.republika.co.id/tangsel/1695124999/gemas-google-doodle-rayakan-kehadiran-popcorn-dengan-game-interaktif-ikuti-keseruannya",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Ancelotti Abaikan Fakta Madrid Hampir Gagal Kalahkan Alaves karena Lengah",
       "link_berita": "https://news.republika.co.id/berita/skchdi348/ancelotti-abaikan-fakta-madrid-hampir-gagal-kalahkan-alaves-karena-lengah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Arteria Dahlan Pertanyakan Para Remaja Mengapa Lari Bertemu Polisi",
       "link_berita": "https://news.republika.co.id/berita/skch9f484/arteria-dahlan-pertanyakan-para-remaja-mengapa-lari-bertemu-polisi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Iron Dome Gagal Cegah Roket Hizbullah Tembus Israel",
       "link_berita": "https://news.republika.co.id/berita/skch6n393/iron-dome-gagal-cegah-roket-hizbullah-tembus-israel",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Jokowi Bakal Groundbreaking Proyek Investasi Asing Murni di IKN",
       "link_berita": "https://ekonomi.republika.co.id/berita/skcgyx490/jokowi-bakal-groundbreaking-proyek-investasi-asing-murni-di-ikn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Mengelola Waktu",
       "link_berita": "https://www.republika.id/posts/54873/mengelola-waktu",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Israel Tewaskan 569 di Lebanon, Puluhan Ribu Mengungsi",
       "link_berita": "https://news.republika.co.id/berita/skcgim393/israel-tewaskan-569-di-lebanon-puluhan-ribu-mengungsi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Kerja Sama Indonesia-Cina Dapat Percepat Transisi Energi",
       "link_berita": "https://esgnow.republika.co.id/berita/skcgf6416/kerja-sama-indonesiacina-dapat-percepat-transisi-energi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Penanganan Serangan Jantung Akut dan Prosedur Medis PCI",
       "link_berita": "https://ameera.republika.co.id/berita/skcgci349/penanganan-serangan-jantung-akut-dan-prosedur-medis-pci",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Sebelum Disuntik Mati, Marcellus Khalifah Williams Dikenal Tekun Dalami Islam di Penjara",
       "link_berita": "https://khazanah.republika.co.id/berita/skcfzm320/sebelum-disuntik-mati-marcellus-khalifah-williams-dikenal-tekun-dalami-islam-di-penjara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
       "judul": "Kisah Nusaibah, Muslimah Pemberani di Medan Jihad",
       "link_berita": "https://khazanah.republika.co.id/berita/skcfwq458/kisah-nusaibah-muslimah-pemberani-di-medan-jihad",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 01:23:55"
     },
     {
-      "judul": "Puluhan Steward dan Bobotoh Alami Luka, Persib Pastikan Tanggung Semua Biaya Pengobatan",
-      "link_berita": "https://rejabar.republika.co.id/berita/skcfs1512/puluhan-steward-dan-bobotoh-alami-luka-persib-pastikan-tanggung-semua-biaya-pengobatan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Rudal Ini Jadi Senjata Anyar Hizbullah Gempur Israel",
-      "link_berita": "https://news.republika.co.id/berita/skcfrf377/rudal-ini-jadi-senjata-anyar-hizbullah-gempur-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Man City akan Ketahui Tingkat Keparahan Cedera Rodri Hari Ini",
-      "link_berita": "https://news.republika.co.id/berita/skcfm7348/man-city-akan-ketahui-tingkat-keparahan-cedera-rodri-hari-ini",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "ESDM Ungkap Bakal Ada Aturan Khusus Reklamasi Tambang di Sekitar IKN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skcfib490/esdm-ungkap-bakal-ada-aturan-khusus-reklamasi-tambang-di-sekitar-ikn",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Pejuang Palestina Melakukan Perlawanan Serentak di Tepi Barat",
-      "link_berita": "https://www.republika.id/posts/54862/pejuang-palestine-melakukan-perlawanan-serentak-di-tepi-barat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Keunikan Masjid Bambu di Banjar",
-      "link_berita": "https://khazanah.republika.co.id/berita/skcf83458/keunikan-masjid-bambu-di-banjar",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Sumber Energi Bersih Alternatif, ESDM Dorong Percepatan Pengembangan Hidrogen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skceig490/sumber-energi-bersih-alternatif-esdm-dorong-percepatan-pengembangan-hidrogen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Sejarah Panjang Hizbullah Melawan Israel",
-      "link_berita": "https://www.republika.id/posts/54864/sejarah-panjang-hizbullah-melawan-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Sempat Mau Mengebom Masjid, Richard Akhirnya Berislam",
-      "link_berita": "https://khazanah.republika.co.id/berita/skceh3458/sempat-mau-mengebom-masjid-richard-akhirnya-berislam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Indahnya Cara Alquran Memuliakan Kaum Disabilitas",
-      "link_berita": "https://iqra.republika.co.id/berita/skce55483/indahnya-cara-alquran-memuliakan-kaum-disabilitas",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Hari Ini, Jokowi Groundbreaking Sejumlah Proyek Investor Asing di IKN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skce15502/hari-ini-jokowi-groundbreaking-sejumlah-proyek-investor-asing-di-ikn",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Perang Israel Melawan Kebenaran",
-      "link_berita": "https://www.republika.id/posts/54861/perang-israel-melawan-kebenaran",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Persib: 21 Orang Terluka Usai Laga Vs Persija, Satu Masih Dirawat di RS",
-      "link_berita": "https://news.republika.co.id/berita/skcd9e409/persib-21-orang-terluka-usai-laga-vs-persija-satu-masih-dirawat-di-rs",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Viral Sholat Berjamaah dengan Bahasa Isyarat, Ini Pendapat MUI",
-      "link_berita": "https://khazanah.republika.co.id/berita/skcddy483/viral-sholat-berjamaah-dengan-bahasa-isyarat-ini-pendapat-mui",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 00:26:47"
-    },
-    {
-      "judul": "Awal Mula Syiar Islam di India",
-      "link_berita": "https://khazanah.republika.co.id/berita/skcd1a458/awal-mula-syiar-islam-di-india",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 24 Sep 2024, 23:26:47"
-    },
-    {
-      "judul": "Dharma Pongrekun Punya Program Kartu Jakarta Aman",
-      "link_berita": "https://news.republika.co.id/berita/skccvg409/dharma-pongrekun-punya-program-kartu-jakarta-aman",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 24 Sep 2024, 23:26:47"
-    },
-    {
-      "judul": "Biografi Abah Guru Sekumpul",
-      "link_berita": "https://khazanah.republika.co.id/berita/skccrl458/biografi-abah-guru-sekumpul",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 24 Sep 2024, 23:26:47"
-    },
-    {
-      "judul": "Selain The Batman II, Bakal Ada Banyak Semesta The Batman",
-      "link_berita": "https://ameera.republika.co.id/berita/skck8h425/selain-the-batman-ii-bakal-ada-banyak-semesta-the-batman",
-      "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 09:29:00"
+      "judul": "Layanan AI Berbasis Cloud Google akan Diterapkan di Mobil Volkswagen",
+      "link_berita": "https://ameera.republika.co.id/berita/skcoed425/layanan-ai-berbasis-cloud-google-akan-diterapkan-di-mobil-volkswagen",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 10:59:00"
     },
     {
       "judul": "Kerja Sama Indonesia-Cina Dapat Percepat Transisi Energi",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 25 Sep 2024, 08:06:00"
     },
     {
-      "judul": "YouTube Memperluas YouTube Shopping di Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skcmo7490/youtube-memperluas-youtube-shopping-di-indonesia",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 10:21:00"
+      "judul": "Dirut BRI Sunarso Ungkap Pentingnya Memformalkan UMKM Untuk Peningkatan Tax Ratio",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skcnab490/dirut-bri-sunarso-ungkap-pentingnya-memformalkan-umkm-untuk-peningkatan-tax-ratio",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 10:34:00"
     },
     {
       "judul": "Cerita Beasiswa Pendidikan dari Wakaf Produktif Bidang Kesehatan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 25 Sep 2024, 06:14:00"
     },
     {
-      "judul": "Siapa di Balik Eksekusi Mati Imam Marcellus Williams?",
-      "link_berita": "https://news.republika.co.id/berita/skcmvi393/siapa-di-balik-eksekusi-mati-imam-marcellus-williams",
+      "judul": "Sean Diddy Combs Ditahan di New York Usai Digugat Wanita Ke-11",
+      "link_berita": "https://news.republika.co.id/berita/skcozg484/sean-diddy-combs-ditahan-di-new-york-usai-digugat-wanita-ke11",
       "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 25 Sep 2024, 10:26:00"
+      "tanggal_terbit": "Wednesday, 25 Sep 2024, 11:11:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 25 Sep 2024, 10:26:47"
+  "waktu_scraping": "Wednesday, 25 Sep 2024, 11:23:55"
 }
