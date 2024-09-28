@@ -23,6 +23,18 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "Olahraga Terbaik yang Disarankan untuk Penderita Jantung",
+      "link_berita": "https://ameera.republika.co.id/berita/ski8js425/olahraga-terbaik-yang-disarankan-untuk-penderita-jantung"
+    },
+    {
+      "judul": "MPR Sepanjang September Membersihkan Nama Sukarno, Soeharto, dan Gus Dur",
+      "link_berita": "https://news.republika.co.id/berita/ski5b3484/mpr-sepanjang-september-membersihkan-nama-sukarno-soeharto-dan-gus-dur"
+    },
+    {
+      "judul": "Perwakilan Mabes TNI Kunjungi Ryamizard Ryacudu, Begini Kondisinya Terkini",
+      "link_berita": "https://news.republika.co.id/berita/ski35i484/perwakilan-mabes-tni-kunjungi-ryamizard-ryacudu-begini-kondisinya-terkini"
+    },
+    {
       "judul": "Adara Minta Persoalan Palestina Masuk dalam Agenda 100 Hari Kerja Pemerintahan Baru",
       "link_berita": "https://khazanah.republika.co.id/berita/skhyzi430/adara-minta-persoalan-palestina-masuk-dalam-agenda-100-hari-kerja-pemerintahan-baru"
     },
@@ -69,326 +81,314 @@
     {
       "judul": "IShowSpeed Akhiri Tur Asia Tenggara, Unggah Foto Pakai Lagu DJ Chen di Instagram",
       "link_berita": "https://ameera.republika.co.id/berita/skgvso425/ishowspeed-akhiri-tur-asia-tenggara-unggah-foto-pakai-lagu-dj-chen-di-instagram"
-    },
-    {
-      "judul": "Film Laut Tengah, Drama Poligami yang Lolos dari Amukan Penonton",
-      "link_berita": "https://ameera.republika.co.id/berita/skgvcl425/film-laut-tengah-drama-poligami-yang-lolos-dari-amukan-penonton"
-    },
-    {
-      "judul": "Harga Beras di Indonesia Lebih Mahal dari Negara-Negara ASEAN, Ini Penjelasan Jokowi",
-      "link_berita": "https://rejogja.republika.co.id/berita/skgqwl282/harga-beras-di-indonesia-lebih-mahal-dari-negaranegara-asean-ini-penjelasan-jokowi"
-    },
-    {
-      "judul": "Hippindo Sebut Dampak Boikot Israel Masih Terasa",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skgkgw370/hippindo-sebut-dampak-boikot-israel-masih-terasa"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Temukan Kacamata Ideal di Eyesoul, Dapatkan Harga Spesial dari BRI!",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ski9dy490/temukan-kacamata-ideal-di-eyesoul-dapatkan-harga-spesial-dari-bri",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Polisi Berhasil Evakuasi Pimpinan Ponpes Pelaku Pencabulan di Cikarang",
+      "link_berita": "https://news.republika.co.id/berita/ski9b0484/polisi-berhasil-evakuasi-pimpinan-ponpes-pelaku-pencabulan-di-cikarang",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Ketua Dewan Prihatin Tiga Anggota DPRD Periode 2024-2029 Ditahan KPK",
+      "link_berita": "https://news.republika.co.id/berita/ski8uy484/ketua-dewan-prihatin-tiga-anggota-dprd-periode-20242029-ditahan-kpk",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Olahraga Terbaik yang Disarankan untuk Penderita Jantung",
+      "link_berita": "https://ameera.republika.co.id/berita/ski8js425/olahraga-terbaik-yang-disarankan-untuk-penderita-jantung",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Kata Menperin Agus Gumiwang tentang Industri Halal",
+      "link_berita": "https://khazanah.republika.co.id/berita/skhwtp451/kata-menperin-agus-gumiwang-tentang-industri-halal",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Jokowi dan Prabowo Berlayar Menaiki KRI Dr Radjiman Wedyodiningrat",
+      "link_berita": "https://news.republika.co.id/berita/ski8dp484/jokowi-dan-prabowo-berlayar-menaiki-kri-dr-radjiman-wedyodiningrat",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Ubah Lahan Kritis, PLN Kembangkan Ekosistem Biomassa Berbasis Pertanian Terpadu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ski895490/ubah-lahan-kritis-pln-kembangkan-ekosistem-biomassa-berbasis-pertanian-terpadu",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Dandan-Arif Kukuhkan Duta Komunikasi Ngadandanan Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/ski7vf490/dandanarif-kukuhkan-duta-komunikasi-ngadandanan-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "PNM Mekaar Hadir di Pulau Natuna, Genjot Inklusi Keuangan di Wilayah 3T",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ski7gb490/pnm-mekaar-hadir-di-pulau-natuna-genjot-inklusi-keuangan-di-wilayah-3t",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "10 Ribu Usahawan Baru Ahmad Ali-AKA Tepat Atasi Kemiskinan Sulteng",
+      "link_berita": "https://news.republika.co.id/berita/ski2zo451/10-ribu-usahawan-baru-ahmad-aliakatepat-atasi-kemiskinan-sulteng",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
+      "judul": "Sandiaga Pastikan Motogp Mandalika Bakal Lanjut Sampai 2027",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ski1jc490/sandiaga-pastikan-motogp-mandalika-bakal-lanjut-sampai-2027",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
+    },
+    {
       "judul": "Panglima TNI Sematkan Brevet Hiu Kencana ke Presiden Jokowi",
       "link_berita": "https://news.republika.co.id/berita/ski68k484/panglima-tni-sematkan-brevet-hiu-kencana-ke-presiden-jokowi",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "GPS dan Dashcam MeTrack: Solusi Terpadu Mobilitas Kendaraan Pribadi",
       "link_berita": "https://ekonomi.republika.co.id/berita/ski5sn484/gps-dan-dashcam-metrack-solusi-terpadu-mobilitas-kendaraan-pribadi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Viral Video Mesum Oknum Guru, Ini Pesan Pengarang Kitab Talimul Muta\u2019allim",
       "link_berita": "https://khazanah.republika.co.id/berita/skhwmw451/viral-video-mesum-oknum-guru-ini-pesan-pengarang-kitab-talimul-mutaallim",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Raih Gelar Best TikTok Brand di KISCC 2024, Etawalin Fokus di Pemasaran Digital",
       "link_berita": "https://republika.co.id/berita/ski5gg456/raih-gelar-best-tiktok-brand-di-kiscc-2024-etawalin-fokus-di-pemasaran-digital",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "MPR Sepanjang September Membersihkan Nama Sukarno, Soeharto, dan Gus Dur",
       "link_berita": "https://news.republika.co.id/berita/ski5b3484/mpr-sepanjang-september-membersihkan-nama-sukarno-soeharto-dan-gus-dur",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Kementerian BUMN Gelar Fordigi Summit 2024 Navigating The Digital Horizon",
       "link_berita": "https://ekonomi.republika.co.id/berita/ski51s456/kementerian-bumn-gelar-fordigi-summit-2024-navigating-the-digital-horizon",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Tips Coblos Calon Kepala Daerah saat Pilkada 2024 Digelar buat Pemilih Pemula",
       "link_berita": "https://news.republika.co.id/berita/skhxu6451/tips-coblos-calon-kepala-daerah-saat-pilkada-2024-digelar-buat-pemilih-pemula",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Perwakilan Mabes TNI Kunjungi Ryamizard Ryacudu, Begini Kondisinya Terkini",
       "link_berita": "https://news.republika.co.id/berita/ski35i484/perwakilan-mabes-tni-kunjungi-ryamizard-ryacudu-begini-kondisinya-terkini",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Transjakarta Berkomitmen untuk Mudahkan Penyandang Disabilitas",
       "link_berita": "https://news.republika.co.id/berita/skhex6451/transjakarta-berkomitmen-untuk-mudahkan-penyandang-disabilitas",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Setahun Dibuka, Bursa Karbon Catat Volume Transaksi 613.740 Ton Karbon",
       "link_berita": "https://esgnow.republika.co.id/berita/ski0wu490/setahun-dibuka-bursa-karbon-catat-volume-transaksi-613740-ton-karbon",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "PT MRT Jakarta Pindahkan Tugu Jam Thamrin ke Lokasi Semula pada 2026",
       "link_berita": "https://news.republika.co.id/berita/ski2fe484/pt-mrt-jakarta-pindahkan-tugu-jam-thamrin-ke-lokasi-semula-pada-2026",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Adara Minta Persoalan Palestina Masuk dalam Agenda 100 Hari Kerja Pemerintahan Baru",
       "link_berita": "https://khazanah.republika.co.id/berita/skhyzi430/adara-minta-persoalan-palestina-masuk-dalam-agenda-100-hari-kerja-pemerintahan-baru",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Ecolab Gandeng Perusahaan Daur Ulang demi Hemat Penggunaan Air",
       "link_berita": "https://news.republika.co.id/berita/ski1ux484/ecolab-gandeng-perusahaan-daur-ulang-demi-hemat-penggunaan-air",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Pj Bupati Bogor Bachril Bakri Pastikan ASN Netral pada Pilkada 2024",
       "link_berita": "https://news.republika.co.id/berita/skhxp4451/pj-bupati-bogor-bachril-bakri-pastikan-asn-netral-pada-pilkada-2024",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Generasi Milenial dan Gen Z Mau Mulai Investasi? Ini Cara Melihat Risikonya",
       "link_berita": "https://ekonomi.republika.co.id/berita/ski171490/generasi-milenial-dan-gen-z-mau-mulai-investasi-ini-cara-melihat-risikonya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Indonesia Walkout Saat Netanyahu akan Pidato di Sidang Umum PBB",
       "link_berita": "https://news.republika.co.id/berita/ski16a484/indonesia-walkout-saat-netanyahu-akan-pidato-di-sidang-umum-pbb",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Sukuk Hijau Diprediksi Akan Melonjak di Tengah Dorongan Dekarbonisasi",
       "link_berita": "https://sharia.republika.co.id/berita/ski0kp490/sukuk-hijau-diprediksi-akan-melonjak-di-tengah-dorongan-dekarbonisasi",
       "kategori": "Sharia",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "LocknLock Kampanyekan #BawaTumblerSendiri Melalui Campus Tumbler Day",
       "link_berita": "https://ameera.republika.co.id/berita/ski0g8425/locknlock-kampanyekan-bawatumblersendiri-melalui-campus-tumbler-day",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Bahlil Sukses Pertemukan Arsjad dan Anindya: Keduanya Sudah Inshaf",
       "link_berita": "https://news.republika.co.id/berita/ski0fh484/bahlil-sukses-pertemukan-arsjad-dan-anindya-keduanya-sudah-inshaf",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "BSI Siap Jadi Mitra Strategis 400 Travel Umrah dan Haji",
       "link_berita": "https://sharia.republika.co.id/berita/ski0bz490/bsi-siap-jadi-mitra-strategis-400-travel-umrah-dan-haji",
       "kategori": "Sharia",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Komitmen Sehatkan Kinerja, Waskita Karya Fokus Jalankan Proses Restrukturisasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/ski06z490/komitmen-sehatkan-kinerja-waskita-karya-fokus-jalankan-proses-restrukturisasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Cerita Nusantara 2024 Ditargetkan Transaksi Rp 10 Miliar",
       "link_berita": "https://news.republika.co.id/berita/skhes4451/cerita-nusantara-2024-ditargetkan-transaksi-rp-10-miliar",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Kemenkeu: Pembayaran Bunga Utang Hingga Agustus 2024 Capai Rp 315,6 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/ski026490/kemenkeu-pembayaran-bunga-utang-hingga-agustus-2024-capai-rp-3156-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Usaha para Nasabah Mekaar di Banyuwangi Terus Berkembang",
       "link_berita": "https://ekonomi.republika.co.id/berita/skhzrq490/usaha-para-nasabah-mekaar-di-banyuwangi-terus-berkembang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "WiraMuda Academy Jadi Wadah Persiapan Mahasiswa Masuk Dunia Kerja",
       "link_berita": "https://news.republika.co.id/berita/skhwff430/wiramuda-academy-jadi-wadah-persiapan-mahasiswa-masuk-dunia-kerja",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "PT DI Bidik Perakitan Akhir, MRO, Uji Terbang dan Sertifikasi KF-21 Boramae",
       "link_berita": "https://news.republika.co.id/berita/skhxdt451/pt-di-bidik-perakitan-akhir-mro-uji-terbang-dan-sertifikasi-kf21-boramae",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "The Cure Rilis Lagu Baru 'Alone', Karya Emosional dan Penuh Rasa Takut",
       "link_berita": "https://ameera.republika.co.id/berita/skhxx5425/the-cure-rilis-lagu-baru-alone-karya-emosional-dan-penuh-rasa-takut",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Sebar Visi Misi, Pengamat: Anies tak Ingin Kehilangan Momentum Pilgub Jakarta",
       "link_berita": "https://news.republika.co.id/berita/skhxoz484/sebar-visi-misi-pengamat-anies-tak-ingin-kehilangan-momentum-pilgub-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Bappenas Ungkap Tantangan Hilirisasi Kelapa di Indonesia Timur",
       "link_berita": "https://news.republika.co.id/berita/skheo4451/bappenas-ungkap-tantangan-hilirisasi-kelapa-di-indonesia-timur",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Skandal Guru Besar, Akreditasi Universitas Lambung Mangkurat Anjlok Jadi C",
       "link_berita": "https://news.republika.co.id/berita/skhxa8484/skandal-guru-besar-akreditasi-universitas-lambung-mangkurat-anjlok-jadi-c",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Pemeran Film Harry Potter, Dame Maggie Smith, Meninggal Dunia",
       "link_berita": "https://ameera.republika.co.id/berita/skhwrp425/pemeran-film-harry-potter-dame-maggie-smith-meninggal-dunia",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Dukungan Kemenhan, PT DI Dapat Kontrak Satu Juta Dolar AS",
       "link_berita": "https://news.republika.co.id/berita/skhwa2484/dukungan-kemenhan-pt-di-dapat-kontrak-satu-juta-dolar-as",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Trailer Ballerina Dirilis, Anna de Armas Resmi Masuk Film Spin-off John Wick",
       "link_berita": "https://ameera.republika.co.id/berita/skhw72425/trailer-ballerina-dirilis-anna-de-armas-resmi-masuk-film-spinoff-john-wick",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Jurnalis SCTV-Indosiar Pimpin Forum Pemred, Diharap Membawa Forum Lebih Berpengaruh",
       "link_berita": "https://news.republika.co.id/berita/skhw0t475/jurnalis-sctvindosiar-pimpin-forum-pemred-diharap-membawa-forum-lebih-berpengaruh",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Indra Sjafri Akui Perubahan Formasi Babak Kedua Lawan Timor Leste U-20 tak Maksimal",
       "link_berita": "https://news.republika.co.id/berita/skhvy3348/indra-sjafri-akui-perubahan-formasi-babak-kedua-lawan-timor-leste-u20-tak-maksimal",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "PT Dirgantara Indonesia Tekankan RI Perlu Kuasai Teknologi Kunci Rafale",
       "link_berita": "https://news.republika.co.id/berita/skhegk451/pt-dirgantara-indonesia-tekankan-ri-perlu-kuasai-teknologi-kunci-rafale",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Pejuang Palestina Pukul Mundur IDF di Nablus",
       "link_berita": "https://www.republika.id/posts/54915/pejuang-palestina-pukul-mundur-idf-di-nablus",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Bertemu Prabowo, Pimpinan DPD Tukar Pikiran Selama Dua Jam",
       "link_berita": "https://news.republika.co.id/berita/skhvtl484/bertemu-prabowo-pimpinan-dpd-tukar-pikiran-selama-dua-jam",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
       "judul": "Muhamad Ragil Makin Termotivasi Selepas Cetak Gol Pertama untuk Timnas U-20",
       "link_berita": "https://news.republika.co.id/berita/skhvmg348/muhamad-ragil-makin-termotivasi-selepas-cetak-gol-pertama-untuk-timnas-u20",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 04:22:37"
     },
     {
-      "judul": "Bjorn Raven Sebut Putranya Jens Raven Berpeluang Latih Tim di Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/skhv9i348/bjorn-raven-sebut-putranya-jens-raven-berpeluang-latih-tim-di-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "7 Hal yang Tidak Boleh Dilakukan di Dealer Mobil",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skhv16468/7-hal-yang-tidak-boleh-dilakukan-di-dealer-mobil",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Tia Rahmania: Kritik Wakil Ketua KPK, Gelembungkan Suara, Dipecat PDIP",
-      "link_berita": "https://news.republika.co.id/berita/skhuyg484/tia-rahmania-kritik-wakil-ketua-kpk-gelembungkan-suara-dipecat-pdip",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "37 Pusat Kesehatan Lebanon Setop Beroperasi Menyusul Serangan Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/skheas451/37-pusat-kesehatan-lebanon-setop-beroperasi-menyusul-serangan-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Timnas U-20 Hanya Butuh Imbang untuk Lolos, Indra Sjafri Tetap Buru Kemenangan Atas Yaman",
-      "link_berita": "https://news.republika.co.id/berita/skhupi348/timnas-u20-hanya-butuh-imbang-untuk-lolos-indra-sjafri-tetap-buru-kemenangan-atas-yaman",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "AC Milan Catatkan Kemenangan Ketiga, Lecce Jadi Korban Berikutnya",
-      "link_berita": "https://news.republika.co.id/berita/skhucm348/ac-milan-catatkan-kemenangan-ketiga-lecce-jadi-korban-berikutnya",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Makin Kalap, Israel Bombardir Beirut",
-      "link_berita": "https://news.republika.co.id/berita/skhsep393/makin-kalap-israel-bombardir-beirut",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Sehari Semalam, Israel Tewaskan 50 Anak Lebanon",
-      "link_berita": "https://www.republika.id/posts/54914/sehari-semalam-israel-tewaskan-50-anak-lebanon",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Republika Holds FGD One Year Anniversary of Israeli Attack on Gaza",
-      "link_berita": "https://en.republika.co.id/berita/skhdib415/republika-holds-fgd-one-year-anniversary-of-israeli-attack-on-gaza",
-      "kategori": "En",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Korupsi Dana Desa untuk Hiburan Malam, Mantan Kades Gembong Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/skha3v409/korupsi-dana-desa-untuk-hiburan-malam-mantan-kades-gembong-ditangkap",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "Ustadz di Blitar Lempar Kayu Berpaku ke Santri Akibatkan Kematian, Ini Kronologinya",
-      "link_berita": "https://news.republika.co.id/berita/skh9m7409/ustadz-di-blitar-lempar-kayu-berpaku-ke-santri-akibatkan-kematian-ini-kronologinya",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 03:23:21"
-    },
-    {
-      "judul": "LocknLock Kampanyekan #BawaTumblerSendiri Melalui Campus Tumbler Day",
-      "link_berita": "https://ameera.republika.co.id/berita/ski0g8425/locknlock-kampanyekan-bawatumblersendiri-melalui-campus-tumbler-day",
-      "kategori": "Happening",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 08:07:00"
+      "judul": "Olahraga Terbaik yang Disarankan untuk Penderita Jantung",
+      "link_berita": "https://ameera.republika.co.id/berita/ski8js425/olahraga-terbaik-yang-disarankan-untuk-penderita-jantung",
+      "kategori": "Health",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 11:02:00"
     },
     {
       "judul": "Agincourt Resources Raih Penghargaan Good Mining Practice 2024",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Friday, 27 Sep 2024, 20:18:00"
     },
     {
-      "judul": "GPS dan Dashcam MeTrack: Solusi Terpadu Mobilitas Kendaraan Pribadi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ski5sn484/gps-dan-dashcam-metrack-solusi-terpadu-mobilitas-kendaraan-pribadi",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 10:02:00"
+      "judul": "Temukan Kacamata Ideal di Eyesoul, Dapatkan Harga Spesial dari BRI!",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ski9dy490/temukan-kacamata-ideal-di-eyesoul-dapatkan-harga-spesial-dari-bri",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 11:20:00"
     },
     {
       "judul": "Sukuk Hijau Diprediksi Akan Melonjak di Tengah Dorongan Dekarbonisasi",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 28 Sep 2024, 08:10:00"
     },
     {
-      "judul": "Panglima TNI Sematkan Brevet Hiu Kencana ke Presiden Jokowi",
-      "link_berita": "https://news.republika.co.id/berita/ski68k484/panglima-tni-sematkan-brevet-hiu-kencana-ke-presiden-jokowi",
+      "judul": "Polisi Berhasil Evakuasi Pimpinan Ponpes Pelaku Pencabulan di Cikarang",
+      "link_berita": "https://news.republika.co.id/berita/ski9b0484/polisi-berhasil-evakuasi-pimpinan-ponpes-pelaku-pencabulan-di-cikarang",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 10:12:00"
+      "tanggal_terbit": "Saturday, 28 Sep 2024, 11:18:00"
     }
   ],
-  "waktu_scraping": "Saturday, 28 Sep 2024, 10:23:21"
+  "waktu_scraping": "Saturday, 28 Sep 2024, 11:22:37"
 }
