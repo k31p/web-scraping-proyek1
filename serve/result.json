@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Media AS: Putra Mahkota Saudi Pangeran Salman Secara Pribadi 'tak Peduli' Isu Palestina",
+      "link_berita": "https://news.republika.co.id/berita/skkm57377/media-as-putra-mahkota-saudi-pangeran-salman-secara-pribadi-tak-peduli-isu-palestina"
+    },
+    {
+      "judul": "Jorge Martin tak Terbendung, Juara MotoGp Pertamina Grand Prix of Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/skkjcx377/jorge-martin-tak-terbendung-juara-motogp-pertamina-grand-prix-of-indonesia"
+    },
+    {
       "judul": "RI Dorong Anggota Tetap DK PBB Ambil Tindakan Konkret untuk Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/skkh5e483/ri-dorong-anggota-tetap-dk-pbb-ambil-tindakan-konkret-untuk-israel"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Bang Doel Sentil Ketua DPW PKB Soal tak Berkontribusi di Banten, 'Sibuk Jadi Bacanya Dikit",
       "link_berita": "https://news.republika.co.id/berita/skkf0s377/bang-doel-sentil-ketua-dpw-pkb-soal-tak-berkontribusi-di-banten-sibuk-jadi-bacanya-dikit"
-    },
-    {
-      "judul": "Khamenei: Iran akan Balas Israel Atas Kematian Hassan Nasrallah",
-      "link_berita": "https://news.republika.co.id/berita/skke0u377/khamenei-iran-akan-balas-israel-atas-kematian-hassan-nasrallah"
-    },
-    {
-      "judul": "Polisi Tangkap Pelaku Pembubaran Paksa Diskusi Refly Harun dkk, Dua Jadi Tersangka",
-      "link_berita": "https://news.republika.co.id/berita/skk9nb377/polisi-tangkap-pelaku-pembubaran-paksa-diskusi-refly-harun-dkk-dua-jadi-tersangka"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Tersangkut Kasus Perdagangan Seks, Ini Sumber Kekayaan P Diddy",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skklgp423/tersangkut-kasus-perdagangan-seks-ini-sumber-kekayaan-p-diddy"
+    },
+    {
+      "judul": "Ini Peran Lima Pelaku Pembubaran Paksa Diskusi Refly Harun dkk di Kemang",
+      "link_berita": "https://news.republika.co.id/berita/skkkbb377/ini-peran-lima-pelaku-pembubaran-paksa-diskusi-refly-harun-dkk-di-kemang"
+    },
     {
       "judul": "Benarkah Imam Masjid Dilarang Menerima Gaji?",
       "link_berita": "https://khazanah.republika.co.id/berita/skkir1483/benarkah-imam-masjid-dilarang-menerima-gaji"
@@ -73,316 +81,308 @@
     {
       "judul": "Jalan Syahid Hassan Nasrallah Sayyidul Muqawamah, Ini 5 Keutamaan Syuhada",
       "link_berita": "https://khazanah.republika.co.id/berita/skjrji320/jalan-syahid-hassan-nasrallah-sayyidul-muqawamah-ini-5-keutamaan-syuhada"
-    },
-    {
-      "judul": "ITDC Pastikan tak Pakai Pawang Hujan pada MotoGP Mandalika 2024",
-      "link_berita": "https://news.republika.co.id/berita/skjes7348/itdc-pastikan-tak-pakai-pawang-hujan-pada-motogp-mandalika-2024"
-    },
-    {
-      "judul": "Amnesty International: Indonesia Saat Ini Alami Situasi Darurat Konstitusi",
-      "link_berita": "https://news.republika.co.id/berita/skjcxe409/amnesty-international-indonesia-saat-ini-alami-situasi-darurat-konstitusi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pemerintah Targetkan Tambahan Kapasitas Terpasang PLTB Sebesar 5 GW Hingga 2030",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skkmts370/pemerintah-targetkan-tambahan-kapasitas-terpasang-pltb-sebesar-5-gw-hingga-2030",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Thailand dan Industri Halalnya Kejar Kerja Sama Global",
+      "link_berita": "https://sharia.republika.co.id/berita/skkmwu502/thailand-dan-industri-halalnya-kejar-kerja-sama-global",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Segudang Manfaat Pohon Bidara untuk Kesehatan",
+      "link_berita": "https://sumatralink.id/posts/332964/segudang-manfaat-pohon-bidara-untuk-kesehatan",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Grup MIND ID Kucurkan Investasi Rp 90,6 Triliun untuk Galakkan Hilirisasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skkmh7502/grup-mind-id-kucurkan-investasi-rp-906-triliun-untuk-galakkan-hilirisasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Penghapusan Kemiskinan Ekstrem Berjalan Baik Berkat Kolaborasi Bebagai Unsur",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skkmfu485/penghapusan-kemiskinan-ekstrem-berjalan-baik-berkat-kolaborasi-bebagai-unsur",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Said Sebut Fungsi Anggaran Banggar DPR RI Sangat Penting",
+      "link_berita": "https://news.republika.co.id/berita/skkma4320/said-sebut-fungsi-anggaran-banggar-dpr-ri-sangat-penting",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Media AS: Putra Mahkota Saudi Pangeran Salman Secara Pribadi 'tak Peduli' Isu Palestina",
+      "link_berita": "https://news.republika.co.id/berita/skkm57377/media-as-putra-mahkota-saudi-pangeran-salman-secara-pribadi-tak-peduli-isu-palestina",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "BI Hentikan Publikasi Jibor per 1 Januari 2026, Apa Dampaknya?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skklp0502/bi-hentikan-publikasi-jibor-per-1-januari-2026-apa-dampaknya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Tersangkut Kasus Perdagangan Seks, Ini Sumber Kekayaan P Diddy",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skklgp423/tersangkut-kasus-perdagangan-seks-ini-sumber-kekayaan-p-diddy",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Petugas Imigrasi Boleh Pakai Senpi, Dirjen: Sudah Ada yang Gugur!",
+      "link_berita": "https://news.republika.co.id/berita/skkl25483/petugas-imigrasi-boleh-pakai-senpi-dirjen-sudah-ada-yang-gugur",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
+      "judul": "Jurgen Klinsmann: Naturalisasi Sangat Normal, Anak Saya Bela Timnas Junior AS",
+      "link_berita": "https://news.republika.co.id/berita/skkkts348/jurgen-klinsmann-naturalisasi-sangat-normal-anak-saya-bela-timnas-junior-as",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
+    },
+    {
       "judul": "Ini Peran Lima Pelaku Pembubaran Paksa Diskusi Refly Harun dkk di Kemang",
       "link_berita": "https://news.republika.co.id/berita/skkkbb377/ini-peran-lima-pelaku-pembubaran-paksa-diskusi-refly-harun-dkk-di-kemang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Cak Amich Ungkap Masalah Disparitas Gender di Dunia Pendidikan",
       "link_berita": "https://khazanah.republika.co.id/berita/skkk2x451/cak-amich-ungkap-masalah-disparitas-gender-di-dunia-pendidikan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Juara MotoGP Indonesia, Jorge Martin Menjauh dari Bagnaia di Puncak Klasemen Pembalap",
       "link_berita": "https://news.republika.co.id/berita/skkjfi348/juara-motogp-indonesia-jorge-martin-menjauh-dari-bagnaia-di-puncak-klasemen-pembalap",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Jorge Martin tak Terbendung, Juara MotoGp Pertamina Grand Prix of Indonesia",
       "link_berita": "https://news.republika.co.id/berita/skkjcx377/jorge-martin-tak-terbendung-juara-motogp-pertamina-grand-prix-of-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Ulama Bulili: Anwar Hafid Pemimpin yang Rakyat Butuhkan",
       "link_berita": "https://news.republika.co.id/berita/skjzwu451/ulama-bulili-anwar-hafid-pemimpin-yang-rakyat-butuhkan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Bahlil Beberkan Sejumlah Cara Menaikkan Lifting Minyak",
       "link_berita": "https://ekonomi.republika.co.id/berita/skkj6z370/bahlil-beberkan-sejumlah-cara-menaikkan-lifting-minyak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Lebanon Memanas, Hassan Nasrallah Dibunuh, Menlu Retno: Kita Harus Setop Semua Ini",
       "link_berita": "https://news.republika.co.id/berita/skkj0p377/lebanon-memanas-hassan-nasrallah-dibunuh-menlu-retno-kita-harus-setop-semua-ini",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Benarkah Imam Masjid Dilarang Menerima Gaji?",
       "link_berita": "https://khazanah.republika.co.id/berita/skkir1483/benarkah-imam-masjid-dilarang-menerima-gaji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Aisyiyah DK Jakarta Deklarasikan Gerakan Tolak Politik Uang, Galak Puang",
       "link_berita": "https://khazanah.republika.co.id/berita/skki0f423/aisyiyah-dk-jakarta-deklarasikan-gerakan-tolak-politik-uang-galak-puang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Ikan Jenis Apa yang Diambil untuk Susu Ikan? Ini Penjelasan Menteri KKP",
       "link_berita": "https://khazanah.republika.co.id/berita/skkht2483/ikan-jenis-apa-yang-diambil-untuk-susu-ikan-ini-penjelasan-menteri-kkp",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Al-Qassam Menolak Padam Hancurkan Tank Merkava, Israel Catat Peningkatan Perlawanan Gaza",
       "link_berita": "https://news.republika.co.id/berita/skkhfg320/alqassam-menolak-padam-hancurkan-tank-merkava-israel-catat-peningkatan-perlawanan-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "RI Dorong Anggota Tetap DK PBB Ambil Tindakan Konkret untuk Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/skkh5e483/ri-dorong-anggota-tetap-dk-pbb-ambil-tindakan-konkret-untuk-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "TAP MPR Resmi Dicabut, Bamsoet Putar Video Gus Dur yang Sebut Prabowo 'Orang Ikhlas'",
       "link_berita": "https://news.republika.co.id/berita/skkgxm487/tap-mpr-resmi-dicabut-bamsoet-putar-video-gus-dur-yang-sebut-prabowo-orang-ikhlas",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Bak Teroris, Israel Ancam Pesawat Sipil Iran yang Hendak Mendarat di Beirut",
       "link_berita": "https://khazanah.republika.co.id/berita/skkgpo483/bak-teroris-israel-ancam-pesawat-sipil-iran-yang-hendak-mendarat-di-beirut",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Ikrar Relawan Badar Well ASIK Bandung Timur Siap Menangkan Dandan-Arif",
       "link_berita": "https://rejabar.republika.co.id/berita/skkg60423/ikrar-relawan-badar-well-asik-bandung-timur-siap-menangkan-dandanarif",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "IIBF 2024: Mari Merayakan Kecintaan pada Bacaan",
       "link_berita": "https://news.republika.co.id/berita/skkfxi423/iibf-2024-mari-merayakan-kecintaan-pada-bacaan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Mukjizat Nabi Muhammad Terbelahnya Bulan, Apakah Semua Manusia Melihat?",
       "link_berita": "https://khazanah.republika.co.id/berita/skkfpu430/mukjizat-nabi-muhammad-terbelahnya-bulan-apakah-semua-manusia-melihat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Lantai 4 Gedung Bakamla Kebakaran",
       "link_berita": "https://tv.republika.co.id/berita/skkffa467/lantai-4-gedung-bakamla-kebakaran",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Bang Doel Sentil Ketua DPW PKB Soal tak Berkontribusi di Banten, 'Sibuk Jadi Bacanya Dikit",
       "link_berita": "https://news.republika.co.id/berita/skkf0s377/bang-doel-sentil-ketua-dpw-pkb-soal-tak-berkontribusi-di-banten-sibuk-jadi-bacanya-dikit",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "PLN Raih Dua Penghargaan Internasional dalam Ajang ESG Business Awards 2024 di Singapura",
       "link_berita": "https://ekonomi.republika.co.id/berita/skkeny423/pln-raih-dua-penghargaan-internasional-dalam-ajang-esg-business-awards-2024-di-singapura",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Talkshow Hingga Konvoi dalam 'Pro Kontra Palestina'",
       "link_berita": "https://khazanah.republika.co.id/berita/skke75483/talkshow-hingga-konvoi-dalam-pro-kontra-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Khamenei: Iran akan Balas Israel Atas Kematian Hassan Nasrallah",
       "link_berita": "https://news.republika.co.id/berita/skke0u377/khamenei-iran-akan-balas-israel-atas-kematian-hassan-nasrallah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Usai Bunuh Hasan Nasrallah, Israel Kembali Berlindung di Bawah 'Ketiak' AS",
       "link_berita": "https://khazanah.republika.co.id/berita/skkdoy483/usai-bunuh-hasan-nasrallah-israel-kembali-berlindung-di-bawah-ketiak-as",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Hair Transplant, Upaya Atasi Masalah Kebotakan Rambut",
       "link_berita": "https://tv.republika.co.id/berita/skkddx216/hair-transplant-upaya-atasi-masalah-kebotakan-rambut",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Badai John Picu Longsor dan Banjir di Meksiko, 22 Warga Tewas",
       "link_berita": "https://esgnow.republika.co.id/berita/skkd32483/badai-john-picu-longsor-dan-banjir-di-meksiko-22-warga-tewas",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Kronologi Pembubaran Paksa Diskusi di Kemang, Ada Kemungkinan Penyusup Sudah Menginap",
       "link_berita": "https://news.republika.co.id/berita/skkcto377/kronologi-pembubaran-paksa-diskusi-di-kemang-ada-kemungkinan-penyusup-sudah-menginap",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "KPU Sahkan Caleg yang Sudah Dipecat, PKB: Ganggu Kewenangan Partai!",
       "link_berita": "https://news.republika.co.id/berita/skkc8v377/kpu-sahkan-caleg-yang-sudah-dipecat-pkb-ganggu-kewenangan-partai",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Dirating Buruk dan Disebut Tutup Permanen oleh Google, Takmir Masjid Al-Ikhlas Buka Suara",
       "link_berita": "https://khazanah.republika.co.id/berita/skkb53483/dirating-buruk-dan-disebut-tutup-permanen-oleh-google-takmir-masjid-alikhlas-buka-suara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "FK UI Tawarkan Upaya Preventif Kurangi Risiko Ablasio Retina Mata Hingga 80 Persen",
       "link_berita": "https://ruzkaindonesia.id/posts/332923/fk-ui-tawarkan-upaya-preventif-kurangi-risiko-ablasio-retina-mata-hingga-80-persen",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "5 Tahun Erick Thohir Memimpin, Ekonomi Jakarta Menggeliat, Konsumsi Listrik Naik 26,5",
       "link_berita": "https://ruzkaindonesia.id/posts/332926/5-tahun-erick-thohir-memimpin-ekonomi-jakarta-menggeliat-konsumsi-listrik-naik-26-5-",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Ubah Lahan Kritis Jadi Hijau dan Produktif, Pengembangan Ekosistem Biomassa Berbasis Ekonomi Rakyat",
       "link_berita": "https://ruzkaindonesia.id/posts/332927/ubah-lahan-kritis-jadi-hijau-dan-produktif-pengembangan-ekosistem-biomassa-berbasis-ekonomi-rakyat",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Wirid Lengkap Allahumma Antas Salam",
       "link_berita": "https://sajada.id/posts/332937/wirid-lengkap-allahumma-antas-salam",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Suara Adzan Membuat Hatinya Luluh, Eks Bos Gangster AS Ini Pun Masuk Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/skka32483/suara-adzan-membuat-hatinya-luluh-eks-bos-gangster-as-ini-pun-masuk-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Polisi Tangkap Pelaku Pembubaran Paksa Diskusi Refly Harun dkk, Dua Jadi Tersangka",
       "link_berita": "https://news.republika.co.id/berita/skk9nb377/polisi-tangkap-pelaku-pembubaran-paksa-diskusi-refly-harun-dkk-dua-jadi-tersangka",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Viral Pembubaran Diskusi Refly Harun dkk, Tokoh PBNU Angkat Bicara",
       "link_berita": "https://khazanah.republika.co.id/berita/skk92h377/viral-pembubaran-diskusi-refly-harun-dkk-tokoh-pbnu-angkat-bicara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Hassan Nasrallah, Pemimpin Hizbullah yang Syahid di Tangan Israel",
       "link_berita": "https://tv.republika.co.id/berita/skk8h4467/hassan-nasrallah-pemimpin-hizbullah-yang-syahid-di-tangan-israel",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Juventus Puncaki Klasemen Usai Kalahkan Genoa 3-0",
       "link_berita": "https://visual.republika.co.id/berita/skk4ym375/juventus-puncaki-klasemen-usai-kalahkan-genoa-30",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Terungkap Fakta Jumlah Bom yang Dijatuhkan Israel Hanya untuk Membidik Hassan Nasrallah",
       "link_berita": "https://news.republika.co.id/berita/skk7y8487/terungkap-fakta-jumlah-bom-yang-dijatuhkan-israel-hanya-untuk-membidik-hassan-nasrallah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Menlu Rusia: Pembunuhan Warga Palestina dengan Senjata AS Harus Dihentikan",
       "link_berita": "https://news.republika.co.id/berita/skk87e377/menlu-rusia-pembunuhan-warga-palestina-dengan-senjata-as-harus-dihentikan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "ABC News: Pasukan Israel Siap-Siap Serang Lebanon Lewat Jalur Darat",
-      "link_berita": "https://news.republika.co.id/berita/skk7hk487/abc-news-pasukan-israel-siapsiap-serang-lebanon-lewat-jalur-darat",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Parade Kirab Api Peparnas XVII Tiba di Balai Kota Solo",
-      "link_berita": "https://visual.republika.co.id/berita/skk4qa375/parade-kirab-api-peparnas-xvii-tiba-di-balai-kota-solo",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Quattrick Cole Palmer Bawa Chelsea Libas Brighton",
-      "link_berita": "https://visual.republika.co.id/berita/skk3i7375/quattrick-cole-palmer-bawa-chelsea-libas-brighton",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Waspada Gempa Susulan! Pemkab Bandung Minta Warga Pastikan Struktur Bangunan Aman",
-      "link_berita": "https://rejabar.republika.co.id/berita/skk50e423/waspadagempa-susulan-pemkab-bandung-minta-warga-pastikan-struktur-bangunan-aman",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Rindu Nabi Muhammad, Ini yang akan Disampaikan Artis Al-Ghazali Jika Bisa Bertemu",
-      "link_berita": "https://khazanah.republika.co.id/berita/skk4vp483/rindu-nabi-muhammad-ini-yang-akan-disampaikan-artis-alghazali-jika-bisa-bertemu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "VR46: Valentino Rossi akan Datang ke Mandalika pada 2025",
-      "link_berita": "https://news.republika.co.id/berita/skk30o348/vr46-valentino-rossi-akan-datang-ke-mandalika-pada-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Gedung Bakamla Kebakaran, 19 Unit Mobil Damkar Diterjunkan",
-      "link_berita": "https://visual.republika.co.id/berita/skk35y375/gedung-bakamla-kebakaran-19-unit-mobil-damkar-diterjunkan",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "UPLAND Project Meriahkan Temu Bisnis P3DN VIII di ICE BSD City",
-      "link_berita": "https://republika.co.id/berita/skk3y2456/upland-project-meriahkan-temu-bisnis-p3dn-viii-di-ice-bsd-city",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Dejan/Gloria dan Sabar/Reza Harapan Indonesia Raih Juara Macau Open",
-      "link_berita": "https://news.republika.co.id/berita/skk2th348/dejangloria-dan-sabarreza-harapan-indonesia-raih-juara-macau-open",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Suara Hati Petani, di Kaki Gunung Rinjani",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skk31j423/suara-hati-petani-di-kaki-gunung-rinjani",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
-    },
-    {
-      "judul": "Presiden AS Joe Biden Sebut Pembunuhan Hassan Nasrallah Bentuk Keadilan, Apa Maksudnya?",
-      "link_berita": "https://news.republika.co.id/berita/skk251487/presiden-as-joe-biden-sebut-pembunuhan-hassan-nasrallah-bentuk-keadilan-apa-maksudnya",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 10:18:28"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 11:15:45"
     },
     {
       "judul": "Secret Number Konser di Jakarta, Keluarga Dita Karang Beri Dukungan Penuh",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Sunday, 29 Sep 2024, 14:35:00"
     },
     {
-      "judul": "Bahlil Beberkan Sejumlah Cara Menaikkan Lifting Minyak",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skkj6z370/bahlil-beberkan-sejumlah-cara-menaikkan-lifting-minyak",
+      "judul": "Grup MIND ID Kucurkan Investasi Rp 90,6 Triliun untuk Galakkan Hilirisasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/skkmh7502/grup-mind-id-kucurkan-investasi-rp-906-triliun-untuk-galakkan-hilirisasi",
       "kategori": "Energi",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 16:47:00"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 17:58:00"
     },
     {
-      "judul": "Go Global, BSI Berangkatkan Lima UMKM Binaan ke Arab Saudi",
-      "link_berita": "https://sharia.republika.co.id/berita/skihqj490/go-global-bsi-berangkatkan-lima-umkm-binaan-ke-arab-saudi",
-      "kategori": "Keuangan Sharia",
-      "tanggal_terbit": "Saturday, 28 Sep 2024, 14:20:00"
+      "judul": "Thailand dan Industri Halalnya Kejar Kerja Sama Global",
+      "link_berita": "https://sharia.republika.co.id/berita/skkmwu502/thailand-dan-industri-halalnya-kejar-kerja-sama-global",
+      "kategori": "Industri Halal Sharia",
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 18:07:00"
     },
     {
-      "judul": "Ini Peran Lima Pelaku Pembubaran Paksa Diskusi Refly Harun dkk di Kemang",
-      "link_berita": "https://news.republika.co.id/berita/skkkbb377/ini-peran-lima-pelaku-pembubaran-paksa-diskusi-refly-harun-dkk-di-kemang",
+      "judul": "Said Sebut Fungsi Anggaran Banggar DPR RI Sangat Penting",
+      "link_berita": "https://news.republika.co.id/berita/skkma4320/said-sebut-fungsi-anggaran-banggar-dpr-ri-sangat-penting",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 29 Sep 2024, 17:11:00"
+      "tanggal_terbit": "Sunday, 29 Sep 2024, 17:54:00"
     }
   ],
-  "waktu_scraping": "Sunday, 29 Sep 2024, 17:18:28"
+  "waktu_scraping": "Sunday, 29 Sep 2024, 18:15:45"
 }
