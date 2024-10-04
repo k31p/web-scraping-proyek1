@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Tidak Boleh Gunakan Singkatan dalam Debat Pilgub Jakarta",
+      "link_berita": "https://tv.republika.co.id/berita/sktc6z418/tidak-boleh-gunakan-singkatan-dalam-debat-pilgub-jakarta"
+    },
+    {
       "judul": "Nasib Pedih Pria Pertama yang Membawa Berhala ke Arab: Ususnya Terjulur di Neraka",
       "link_berita": "https://khazanah.republika.co.id/berita/skt9rh483/nasib-pedih-pria-pertama-yang-membawa-berhala-ke-arab-ususnya-terjulur-di-neraka"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Israel Gempur RS Secara Brutal, 28 Petugas Kesehatan di Lebanon Syahid dalam 24 Jam",
       "link_berita": "https://news.republika.co.id/berita/skt3gg487/israel-gempur-rs-secara-brutal-28-petugas-kesehatan-di-lebanon-syahid-dalam-24-jam"
-    },
-    {
-      "judul": "Dubes Minta Warga Rusia Segera Tinggalkan Israel",
-      "link_berita": "https://news.republika.co.id/berita/sksxw5484/dubes-minta-warga-rusia-segera-tinggalkan-israel"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Geger Seorang Ibu di Kuningan Setubuhi Anak Kandungnya",
+      "link_berita": "https://rejabar.republika.co.id/berita/sktezp512/geger-seorang-ibu-di-kuningan-setubuhi-anak-kandungnya"
+    },
+    {
+      "judul": "KA Gajayana Tertemper Mobil di Perlintasan, Ini Perjalanan KA yang Terganggu",
+      "link_berita": "https://rejabar.republika.co.id/berita/sktefl512/ka-gajayana-tertemper-mobil-di-perlintasan-ini-perjalanan-ka-yang-terganggu"
+    },
+    {
+      "judul": "Dampak Israel-Iran IHSG Jumat Dibuka Melemah 12,04 Poin, Nilai Tukar Rupiah Turun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sktbz4423/dampak-israeliran-ihsg-jumat-dibuka-melemah-1204-poin-nilai-tukar-rupiah-turun"
+    },
     {
       "judul": "Dua Lantai Mall Citraland Hangus Terbakar pada Jumat Dini Hari",
       "link_berita": "https://republika.co.id/berita/skt7c7366/dua-lantai-mall-citraland-hangus-terbakar-pada-jumat-dini-hari"
@@ -69,320 +81,308 @@
     {
       "judul": "Israel tak Bisa Bohong, AP Rilis Citra Satelit Kandang F-35 Usai Dibom Iran",
       "link_berita": "https://khazanah.republika.co.id/berita/sks4xh483/israel-tak-bisa-bohong-ap-rilis-citra-satelit-kandang-f35-usai-dibom-iran"
-    },
-    {
-      "judul": "Debat Perdana Pilgub DKI Jakarta, Cagub-Cawagub Bisa Saling Bersahutan",
-      "link_berita": "https://news.republika.co.id/berita/sks4xe409/debat-perdana-pilgub-dki-jakarta-cagubcawagub-bisa-saling-bersahutan"
-    },
-    {
-      "judul": "Daya Beli Masyarakat Turun, Menko Airlangga Pastikan Program Bantuan Terus Mengalir",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sks3ws370/daya-beli-masyarakat-turun-menko-airlangga-pastikan-program-bantuan-terus-mengalir"
-    },
-    {
-      "judul": "Menlu Lebanon: Sebelum Gugur, Hassan Nasrallah Setuju Damai dengan Israel",
-      "link_berita": "https://news.republika.co.id/berita/sks00p484/menlu-lebanon-sebelum-gugur-hassan-nasrallah-setuju-damai-dengan-israel"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "BPDPKS Menilai Riset Jadi Kunci Hadapi Kampanye Hitam Sawit RI",
+      "link_berita": "https://news.republika.co.id/berita/skt2s0451/bpdpks-menilai-riset-jadi-kunci-hadapi-kampanye-hitam-sawit-ri",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 05:00:00"
+    },
+    {
+      "judul": "Geger Seorang Ibu di Kuningan Setubuhi Anak Kandungnya",
+      "link_berita": "https://rejabar.republika.co.id/berita/sktezp512/geger-seorang-ibu-di-kuningan-setubuhi-anak-kandungnya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:55:00"
+    },
+    {
+      "judul": "KA Gajayana Tertemper Mobil di Perlintasan, Ini Perjalanan KA yang Terganggu",
+      "link_berita": "https://rejabar.republika.co.id/berita/sktefl512/ka-gajayana-tertemper-mobil-di-perlintasan-ini-perjalanan-ka-yang-terganggu",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:43:00"
+    },
+    {
+      "judul": "Bawaslu Kabupaten Bandung Belum Terima Surat Cuti Anggota DPRD atau Pejabat yang Kampanye",
+      "link_berita": "https://rejabar.republika.co.id/berita/sktdy0512/bawaslu-kabupaten-bandung-belum-terima-surat-cuti-anggota-dprd-atau-pejabat-yang-kampanye",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:32:00"
+    },
+    {
+      "judul": "'Drama' Bola Voli Hari Kedua di BSI FLASH 2025 Tangerang Raya",
+      "link_berita": "https://news.republika.co.id/berita/skt6mg423/drama-bola-voli-hari-kedua-di-bsi-flash-2025-tangerang-raya",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:30:00"
+    },
+    {
+      "judul": "Bersama LAN RI dan Pijar Foundation, 40 Pimpinan ASN Siapkan Strategi Ekonomi Masa Depan",
+      "link_berita": "https://news.republika.co.id/berita/sktdoe456/bersama-lan-ri-dan-pijar-foundation-40-pimpinan-asn-siapkan-strategi-ekonomi-masa-depan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:27:00"
+    },
+    {
       "judul": "Harga Pangan Jumat Ini Fluktuatif, Harga Cabai Naik Minyak Goreng Turun",
       "link_berita": "https://ekonomi.republika.co.id/berita/sktbfh423/harga-pangan-jumat-ini-fluktuatif-harga-cabai-naik-minyak-goreng-turun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 04:16:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Pengusaha Digital Ungkap Alasan Kuat UMKM Gunakan QRIS",
       "link_berita": "https://ekonomi.republika.co.id/berita/sktd2l430/pengusaha-digital-ungkap-alasan-kuat-umkm-gunakan-qris",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 04:15:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Dampak Israel-Iran IHSG Jumat Dibuka Melemah 12,04 Poin, Nilai Tukar Rupiah Turun",
       "link_berita": "https://ekonomi.republika.co.id/berita/sktbz4423/dampak-israeliran-ihsg-jumat-dibuka-melemah-1204-poin-nilai-tukar-rupiah-turun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 04:04:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "BKSAP: Sistem Pendidikan Perlu Merujuk Kembali ke Ki Hajar Dewantara",
       "link_berita": "https://news.republika.co.id/berita/sktck0416/bksap-sistem-pendidikan-perlu-merujuk-kembali-ke-ki-hajar-dewantara",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 04:02:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Menhub: SDM Berkualitas Salah Satu Tonggak Utama Kemajuan Transportasi",
       "link_berita": "https://news.republika.co.id/berita/skt2mp451/menhub-sdm-berkualitas-salah-satu-tonggak-utama-kemajuan-transportasi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 04:00:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Tidak Boleh Gunakan Singkatan dalam Debat Pilgub Jakarta",
       "link_berita": "https://tv.republika.co.id/berita/sktc6z418/tidak-boleh-gunakan-singkatan-dalam-debat-pilgub-jakarta",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:54:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Infrastruktur Digital yang Kokoh: Fondasi Ekonomi Digital Indonesia",
       "link_berita": "https://retizen.republika.co.id/posts/333613/infrastruktur-digital-yang-kokoh-fondasi-ekonomi-digital-indonesia",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:54:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "OMIAI: Tadisi Perjodohan di Jepang",
       "link_berita": "https://retizen.republika.co.id/posts/333616/omiai-tadisi-perjodohan-di-jepang",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:54:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Prospek dan Ilmu yang Bermanfaat",
       "link_berita": "https://retizen.republika.co.id/posts/333637/prospek-dan-ilmu-yang-bermanfaat",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:54:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "5 Ide Masakan Sehat yang Mudah dan Lezat untuk Keseharian",
       "link_berita": "https://retizen.republika.co.id/posts/333640/5-ide-masakan-sehat-yang-mudah-dan-lezat-untuk-keseharian",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:53:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "7 Ide Makanan yang Cocok untuk Bekal Anak di Sekolah",
       "link_berita": "https://retizen.republika.co.id/posts/333654/7-ide-makanan-yang-cocok-untuk-bekal-anak-di-sekolah",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:53:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Ketika Rumah Hantu Disulap Menjadi Rumah Literasi",
       "link_berita": "https://retizen.republika.co.id/posts/333671/ketika-rumah-hantu-disulap-menjadi-rumah-literasi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:53:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Indonesia Berbagi Pengetahuan Implementasi REDD+",
       "link_berita": "https://esgnow.republika.co.id/berita/sktc46416/indonesia-berbagi-pengetahuan-implementasi-redd",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:52:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 04:19:00"
     },
     {
       "judul": "Citra Satelit Ungkap Kerusakan Lanud Nevatim Israel Akibat Rudal Iran",
       "link_berita": "https://news.republika.co.id/berita/sktbxu348/citra-satelit-ungkap-kerusakan-lanud-nevatim-israel-akibat-rudal-iran",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:49:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Pakai DIGI by bank bjb, Dapatkan Promo Menarik di Event FLEX-CON 2024",
       "link_berita": "https://news.republika.co.id/berita/sktb43423/pakai-digi-by-bank-bjb-dapatkan-promo-menarik-dievent-flexcon2024",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:45:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Kylian Mbappe tidak Masuk Skuad Prancis untuk Laga UEFA Nations League",
       "link_berita": "https://news.republika.co.id/berita/sktbl9348/kylian-mbappe-tidak-masuk-skuad-prancis-untuk-laga-uefa-nations-league",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:41:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Punya Salah Satu Tipe Ponsel Samsung Ini? Jangan Lakukan Update Dulu, Begini Alasannya",
       "link_berita": "https://impresi.republika.co.id/tangsel/1695158840/punya-salah-satu-tipe-ponsel-samsung-ini-jangan-lakukan-update-dulu-begini-alasannya",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:40:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Tayang 31 Oktober 2024, Film \"Aku Jati, Aku Asperger\" Rilis Poster dan Trailer",
       "link_berita": "https://senandika.republika.co.id/genta/1735158070/tayang-31-oktober-2024-film-aku-jati-aku-asperger-rilis-poster-dan-trailer",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:40:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Sibuk dengan Karier Masing-Masing, Benarkah Anggota Blackpink Berkonflik?",
       "link_berita": "https://impresi.republika.co.id/leisure/1695158863/sibuk-dengan-karier-masing-masing-benarkah-anggota-blackpink-berkonflik",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:39:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Pink Floyd Menjual Katalog Musiknya Seharga Rp 6 Triiun",
       "link_berita": "https://impresi.republika.co.id/sana-sini/1695159284/pink-floyd-menjual-katalog-musiknya-seharga-rp-6-triiun",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:38:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Penerimaan Barang dan Pentingnya dalam Industri Pelayaran",
       "link_berita": "https://shippingcargo.co.id/posts/333625/penerimaan-barang-dan-pentingnya-dalam-industri-pelayaran",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:37:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Harrow Central Mosque: Simbol Keharmonisan dan Pusat Komunitas",
       "link_berita": "https://topnews62.com/posts/333623/harrow-central-mosque-simbol-keharmonisan-dan-pusat-komunitas",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:36:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Discover Art & Batik, Wujud Apresiasi Karya Seni Budaya Indonesia",
       "link_berita": "https://tv.republika.co.id/berita/sktbc6467/discover-art-batik-wujud-apresiasi-karya-seni-budaya-indonesia",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:36:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Menderita Tekanan Darah Tinggi? Jaga Asupan Magnesium Dong...",
       "link_berita": "https://impresiupdate.id/posts/333653/menderita-tekanan-darah-tinggi-jaga-asupan-magnesium-dong-",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:35:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Wow...Musik Bisa Meningkatkan Kognisi Pasien Kanker yang Menjalani Kemoterapi",
       "link_berita": "https://impresiupdate.id/posts/333659/wow-musik-bisa-meningkatkan-kognisi-pasien-kanker-yang-menjalani-kemoterapi",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:35:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "KA Gajayana Tertemper Mobil di Perlintasan: Tak Ada Korban, tapi Sejumlah Perjalanan KA Terganggu",
       "link_berita": "https://gincumanis.com/posts/333661/ka-gajayana-tertemper-mobil-di-perlintasan-tak-ada-korban-tapi-sejumlah-perjalanan-ka-terganggu",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:35:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Beginilah Cara Mengurangi Risiko Jatuh Pada Lansia",
       "link_berita": "https://impresiupdate.id/posts/333664/beginilah-cara-mengurangi-risiko-jatuh-pada-lansia",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:35:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Kurangi Waktu Duduk 40 Menit Sehari Bisa Mencegah Nyeri Punggung, Coba Deh...",
       "link_berita": "https://impresiupdate.id/posts/333666/kurangi-waktu-duduk-40-menit-sehari-bisa-mencegah-nyeri-punggung-coba-deh-",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:34:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Hasil Studi: Larangan Merokok Bagi Gen Z Bisa Mencegah Kematian 1,2 Juta Jiwa",
       "link_berita": "https://impresiupdate.id/posts/333669/hasil-studi-larangan-merokok-bagi-gen-z-bisa-mencegah-kematian-1-2-juta-jiwa",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:34:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Prestasi Gemilang, Rafi Fadilah Bawa Medali Emas Judo untuk Universitas BSI Karawang",
       "link_berita": "https://news.republika.co.id/berita/skt683423/prestasi-gemilang-rafi-fadilah-bawa-medali-emas-judo-untuk-universitas-bsi-karawang",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:30:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Di Tengah Gempuran Digital, Kaset Kembali Diburu Penikmat Musik",
       "link_berita": "https://tv.republika.co.id/berita/skt9t5418/di-tengah-gempuran-digital-kaset-kembali-diburu-penikmat-musik",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Nasib Pedih Pria Pertama yang Membawa Berhala ke Arab: Ususnya Terjulur di Neraka",
       "link_berita": "https://khazanah.republika.co.id/berita/skt9rh483/nasib-pedih-pria-pertama-yang-membawa-berhala-ke-arab-ususnya-terjulur-di-neraka",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Akademisi: Program MBG Presiden Terpilih Angin Segar Peternak Mandiri",
       "link_berita": "https://news.republika.co.id/berita/skt2h1451/akademisi-program-mbg-presiden-terpilih-angin-segar-peternak-mandiri",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Dubes: 2.300 Perusahaan Korsel Investasi di Indonesia, Mencakup Seluruh Industri Inti",
       "link_berita": "https://ekonomi.republika.co.id/berita/skt9hj423/dubes-2300-perusahaan-korsel-investasi-di-indonesia-mencakup-seluruh-industri-inti",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Kebakaran Hebat, Mal Citraland di Jakarta Barat Tutup",
       "link_berita": "https://news.republika.co.id/berita/skt9iq484/kebakaran-hebat-mal-citraland-di-jakarta-barat-tutup",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 03:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 03:19:00"
     },
     {
       "judul": "Ekonom Senior Kritik Pertumbuhan Ekonomi Era Jokowi",
       "link_berita": "https://ekonomi.republika.co.id/berita/skt8wd423/ekonom-senior-kritik-pertumbuhan-ekonomi-era-jokowi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Mahasiswa Universitas BSI Lolos MBKM Wirausaha Merdeka-Khatulistiwa Business Academy",
       "link_berita": "https://news.republika.co.id/berita/skt5si423/mahasiswa-universitas-bsi-lolos-mbkm-wirausaha-merdekakhatulistiwa-business-academy",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Dua Lantai Mall Citraland Hangus Terbakar pada Jumat Dini Hari",
       "link_berita": "https://republika.co.id/berita/skt7c7366/dua-lantai-mall-citraland-hangus-terbakar-pada-jumat-dini-hari",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Mengenal Masjid Jumat di Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/skt6zo430/mengenal-masjid-jumat-di-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Rama Dauhan Tampilkan Koleksi Terinspirasi Tulang Punggung Keluarga",
       "link_berita": "https://ameera.republika.co.id/berita/skt6x7328/rama-dauhan-tampilkan-koleksi-terinspirasi-tulang-punggung-keluarga",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Profil Puan Maharani yang Terpilih Kembali Jadi Ketua DPR 2024-2029",
       "link_berita": "https://news.republika.co.id/berita/skt2be451/profil-puan-maharani-yang-terpilih-kembali-jadi-ketua-dpr-20242029",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Rangkaian Balapan MotoGP Jepang Dimulai Hari Ini di Sirkuit Motegi",
       "link_berita": "https://news.republika.co.id/berita/skt6sh348/rangkaian-balapan-motogp-jepang-dimulai-hari-ini-di-sirkuit-motegi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 02:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "KCC Glass di KITB Mulai Beroperasi, Perluas Hubungan Indonesia dengan Korsel",
       "link_berita": "https://ekonomi.republika.co.id/berita/skt6em423/kcc-glass-di-kitb-mulai-beroperasi-perluas-hubungan-indonesia-dengan-korsel",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 02:19:00"
     },
     {
       "judul": "Panglima TNI dan Tiga Kepala Staf Ziarah ke Taman Makam Pahlawan Kalibata",
       "link_berita": "https://news.republika.co.id/berita/skt6do484/panglima-tni-dan-tiga-kepala-staf-ziarah-ke-taman-makam-pahlawan-kalibata",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
-    },
-    {
-      "judul": "Jerman akan Berikan Suara Menentang Tarif UE untuk Mobil Listrik China",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skt66g468/jerman-akan-berikan-suara-menentang-tarif-ue-untuk-mobil-listrik-china",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
-    },
-    {
-      "judul": "Gapensi: Sektor Konstruksi Penting untuk Bangkitkan Daya Beli Masyarakat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skt605423/gapensi-sektor-konstruksi-penting-untuk-bangkitkan-daya-beli-masyarakat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
-    },
-    {
-      "judul": "Revolusi Pembelajaran di Universitas BSI Pontianak, Referensi Unggul dan Semangat Literasi",
-      "link_berita": "https://news.republika.co.id/berita/skt58m423/revolusi-pembelajaran-di-universitas-bsi-pontianak-referensi-unggul-dan-semangat-literasi",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
-    },
-    {
-      "judul": "Payroll BSI Masuk dalam Tiga Besar Bank yang Diminati ASN",
-      "link_berita": "https://news.republika.co.id/berita/skt4va423/payroll-bsi-masuk-dalam-tiga-besar-bank-yang-diminati-asn",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
-    },
-    {
-      "judul": "Pelajar Kuningan Pelaku Video Mesum LGBT Ditetapkan Sebagai Tersangka",
-      "link_berita": "https://rejabar.republika.co.id/berita/skt4x7512/pelajar-kuningan-pelaku-video-mesum-lgbt-ditetapkan-sebagai-tersangka",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
-    },
-    {
-      "judul": "Peran BCC Universitas BSI Pontianak dalam Mempersiapkan Mahasiswa Menuju Karier Gemilang",
-      "link_berita": "https://news.republika.co.id/berita/skt4ls423/peran-bcc-universitas-bsi-pontianak-dalam-mempersiapkan-mahasiswa-menuju-karier-gemilang",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 01:23:24"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 01:19:00"
     },
     {
       "judul": "Rama Dauhan Tampilkan Koleksi Terinspirasi Tulang Punggung Keluarga",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Friday, 04 Oct 2024, 10:52:00"
     },
     {
-      "judul": "Dubes: 2.300 Perusahaan Korsel Investasi di Indonesia, Mencakup Seluruh Industri Inti",
-      "link_berita": "https://ekonomi.republika.co.id/berita/skt9hj423/dubes-2300-perusahaan-korsel-investasi-di-indonesia-mencakup-seluruh-industri-inti",
+      "judul": "Harga Pangan Jumat Ini Fluktuatif, Harga Cabai Naik Minyak Goreng Turun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sktbfh423/harga-pangan-jumat-ini-fluktuatif-harga-cabai-naik-minyak-goreng-turun",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 09:59:00"
+      "tanggal_terbit": "Friday, 04 Oct 2024, 11:16:00"
     },
     {
       "judul": "Potensi dan Inovasi dalam Pengelolaan Keuangan Publik Syariah untuk Pembangunan Ekonomi",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 04 Oct 2024, 07:39:00"
     },
     {
-      "judul": "BKSAP: Sistem Pendidikan Perlu Merujuk Kembali ke Ki Hajar Dewantara",
-      "link_berita": "https://news.republika.co.id/berita/sktck0416/bksap-sistem-pendidikan-perlu-merujuk-kembali-ke-ki-hajar-dewantara",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 04 Oct 2024, 11:02:00"
+      "judul": "'Drama' Bola Voli Hari Kedua di BSI FLASH 2025 Tangerang Raya",
+      "link_berita": "https://news.republika.co.id/berita/skt6mg423/drama-bola-voli-hari-kedua-di-bsi-flash-2025-tangerang-raya",
+      "kategori": "Bina Sarana Informatika",
+      "tanggal_terbit": "Friday, 04 Oct 2024, 11:30:00"
     }
   ],
-  "waktu_scraping": "Friday, 04 Oct 2024, 11:23:24"
+  "waktu_scraping": "Friday, 04 Oct 2024, 12:19:00"
 }
