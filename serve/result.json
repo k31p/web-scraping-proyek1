@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Profit Jumbo BUMN, Siapa Paling Besar?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sl94fs377/profit-jumbo-bumn-siapa-paling-besar"
+    },
+    {
+      "judul": "Norwegia Evakuasi Diplomatnya dari Lebanon",
+      "link_berita": "https://news.republika.co.id/berita/sl9o28430/norwegia-evakuasi-diplomatnya-dari-lebanon"
+    },
+    {
       "judul": "Timnas Indonesia Gelar Latihan Perdana di Qingdao pada Sabtu",
       "link_berita": "https://news.republika.co.id/berita/sl9q8h348/timnas-indonesia-gelar-latihan-perdana-di-qingdao-pada-sabtu"
     },
@@ -11,17 +19,21 @@
     {
       "judul": "Basarnas Malut: Korban Speedboat Bella 72 yang Terbakar Berjumlah 33 Orang",
       "link_berita": "https://news.republika.co.id/berita/sl9lkm348/basarnas-malut-korban-speedboat-bella-72-yang-terbakar-berjumlah-33-orang"
-    },
-    {
-      "judul": "Ini Sosok Benny Laos, Cagub Malut yang Tewas dalam Insiden Kapal Terbakar",
-      "link_berita": "https://news.republika.co.id/berita/sl92l2377/ini-sosok-benny-laos-cagub-malut-yang-tewas-dalam-insiden-kapal-terbakar"
-    },
-    {
-      "judul": "Otoritas Gaza Desak Warga Tolak Perintah Evakuasi Israel",
-      "link_berita": "https://news.republika.co.id/berita/sl908m377/otoritas-gaza-desak-warga-tolak-perintah-evakuasi-israel"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pelatih Portugal Puji Peningkatan Skuadnya Sejak Tersingkir dari Euro 2024",
+      "link_berita": "https://news.republika.co.id/berita/sl9u7k348/pelatih-portugal-puji-peningkatan-skuadnya-sejak-tersingkir-dari-euro-2024"
+    },
+    {
+      "judul": "Steward Korban Pengeroyokan di Stadion Si Jalak Harupat Bakal Cabut Laporan Polisi",
+      "link_berita": "https://news.republika.co.id/berita/sl9pm6348/steward-korban-pengeroyokan-di-stadion-si-jalak-harupat-bakal-cabut-laporan-polisi"
+    },
+    {
+      "judul": "Perempuan Berdaya, Negara Sejahtera",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sl8v63423/perempuan-berdaya-negara-sejahtera"
+    },
     {
       "judul": "Gol Tunggal Zubimendi Pastikan Kemenangan Spanyol Atas Denmark",
       "link_berita": "https://news.republika.co.id/berita/sl9mn5348/gol-tunggal-zubimendi-pastikan-kemenangan-spanyol-atas-denmark"
@@ -69,326 +81,314 @@
     {
       "judul": "Cagub Pramono Bakal Bangun Hunian di Atas Kantor Kecamatan",
       "link_berita": "https://news.republika.co.id/berita/sl8dgc484/cagub-pramono-bakal-bangun-hunian-di-atas-kantor-kecamatan"
-    },
-    {
-      "judul": "NTB Sedang Peralihan Muslim, Suhu Mencapai 37 Derajat Celsius",
-      "link_berita": "https://news.republika.co.id/berita/sl891k366/ntb-sedang-peralihan-muslim-suhu-mencapai-37-derajat-celsius"
-    },
-    {
-      "judul": "TNI Pastikan Prajuritnya di Lebanon Aman dan Bertugas Seperti Biasa",
-      "link_berita": "https://khazanah.republika.co.id/berita/sl7bet451/tni-pastikan-prajuritnya-di-lebanon-aman-dan-bertugas-seperti-biasa"
-    },
-    {
-      "judul": "Buldozer IDF Robohkan Tembok-Tembok UNIFIL, Tank Zionis Kembali Incar Pasukan PBB",
-      "link_berita": "https://khazanah.republika.co.id/berita/sl832c483/buldozer-idf-robohkan-temboktembok-unifil-tank-zionis-kembali-incar-pasukan-pbb"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Direktur Sepak Bola Man City Txiki Begiristain Tinggalkan Klub, Hugo Viana Jadi Pengganti",
+      "link_berita": "https://news.republika.co.id/berita/sl9wfc348/direktur-sepak-bola-man-city-txiki-begiristain-tinggalkan-klub-hugo-viana-jadi-pengganti",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Lima Orang Pekerja Migran Asal Jabar di Lebanon Telah Dievakuasi",
+      "link_berita": "https://rejabar.republika.co.id/berita/sl9ws5512/lima-orang-pekerja-migran-asal-jabar-di-lebanon-telah-dievakuasi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Dokter Sebut Pemilihan Air Mineral dengan Mineral Esensial Bantu Jaga Performa Pelari",
+      "link_berita": "https://ameera.republika.co.id/berita/sl9wrj490/dokter-sebut-pemilihan-air-mineral-dengan-mineral-esensial-bantu-jaga-performa-pelari",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "KPU Tunggu Usulan Pergantian Cagub Benny Laos yang Meninggal Dunia",
+      "link_berita": "https://news.republika.co.id/berita/sl9w1o348/kpu-tunggu-usulan-pergantian-cagub-benny-laos-yang-meninggal-dunia",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Unisba Gelar Sunatan Massal dan Tes Pap Smear Gratis",
+      "link_berita": "https://rejabar.republika.co.id/berita/sl9wi3512/unisba-gelar-sunatan-massal-dan-tes-pap-smear-gratis",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Dosen FEB UMJ Raih Gelar Guru Besar Bidang Ilmu Manajemen Pemasaran",
+      "link_berita": "https://news.republika.co.id/berita/sl9whb490/dosen-feb-umj-raih-gelar-guru-besar-bidang-ilmu-manajemen-pemasaran",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Konsumsi AS Stabil, Inflasi Tekan Konsumen Rendah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sl9rbb430/konsumsi-as-stabil-inflasi-tekan-konsumen-rendah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Gubernur Kalteng: UMKM Kuat Jadi Penggerak Perekonomian Akar Rumput",
+      "link_berita": "https://news.republika.co.id/berita/sl9vsc490/gubernur-kalteng-umkm-kuat-jadi-penggerak-perekonomian-akar-rumput",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Prakiraan Cuaca Kota Surabaya 13 Oktober 2024: Panas Menyengat",
+      "link_berita": "https://rejogja.republika.co.id/berita/sl8j2n1958077890/prakiraan-cuaca-kota-surabaya-13-oktober-2024-panas-menyengat",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Ketum IMM Sebut Prof Abdul Mu'ti Sosok Tepat Menjadi Menteri Pendidikan",
+      "link_berita": "https://cari.republika.co.id/posts/482281/ketum-imm-sebut-prof-abdul-muti-sosok-tepat-menjadi-menteri-pendidikan",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Bertemu Anak Yatimnya di Palestina, Orang Tua Asuh Hanya Bisa Berderai Air Mata",
+      "link_berita": "https://news.republika.co.id/berita/sl9vam490/bertemu-anak-yatimnya-di-palestina-orang-tua-asuh-hanya-bisa-berderai-air-mata",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Prakiraan Cuaca Hari Ini di Kota Malang: Cerah Berawan",
+      "link_berita": "https://rejogja.republika.co.id/berita/sl8jb2168698766/prakiraan-cuaca-hari-ini-di-kota-malang-cerah-berawan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "KAI Daop 2 Lakukan Perbaikan Rel Perlintasan di Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/sl9uy5512/kai-daop-2-lakukan-perbaikan-rel-perlintasan-di-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Profit Jumbo BUMN, Siapa Paling Besar?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sl94fs377/profit-jumbo-bumn-siapa-paling-besar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Ini Prioritas Lebanon di tengah Agresi Israel",
+      "link_berita": "https://news.republika.co.id/berita/sl9oem430/ini-prioritas-lebanon-di-tengah-agresi-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Pelatih Portugal Puji Peningkatan Skuadnya Sejak Tersingkir dari Euro 2024",
+      "link_berita": "https://news.republika.co.id/berita/sl9u7k348/pelatih-portugal-puji-peningkatan-skuadnya-sejak-tersingkir-dari-euro-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "Hari Jadi Ke-79 Jatim, DPRD Harap Persoalan Daerah Diselesaikan Kepemimpinan Mendatang",
+      "link_berita": "https://news.republika.co.id/berita/sl9u5h291/hari-jadi-ke79-jatim-dprd-harap-persoalan-daerah-diselesaikan-kepemimpinan-mendatang",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
+      "judul": "The Indonesian National Team Held its First Practice in Qingdao",
+      "link_berita": "https://en.republika.co.id/berita/sl9u2o415/the-indonesian-national-team-held-its-first-practice-in-qingdao",
+      "kategori": "En",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
+    },
+    {
       "judul": "Dubai Islamic Bank Terbitkan Sukuk Senilai Rp 7,6 Triliun",
       "link_berita": "https://sharia.republika.co.id/berita/sl9r4a430/dubai-islamic-bank-terbitkan-sukuk-senilai-rp-76-triliun",
       "kategori": "Sharia",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Van Dijk Kembali ke Liverpool Setelah Gagal Tampil Lawan Jerman karena Kartu Merah",
       "link_berita": "https://news.republika.co.id/berita/sl9r58348/van-dijk-kembali-ke-liverpool-setelah-gagal-tampil-lawan-jerman-karena-kartu-merah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Norwegia Evakuasi Diplomatnya dari Lebanon",
       "link_berita": "https://news.republika.co.id/berita/sl9o28430/norwegia-evakuasi-diplomatnya-dari-lebanon",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Steward Korban Pengeroyokan di Stadion Si Jalak Harupat Bakal Cabut Laporan Polisi",
       "link_berita": "https://news.republika.co.id/berita/sl9pm6348/steward-korban-pengeroyokan-di-stadion-si-jalak-harupat-bakal-cabut-laporan-polisi",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Soal Pernikahan Beda Agama Disebut dalam Alquran",
       "link_berita": "https://iqra.republika.co.id/berita/sl9na3430/soal-pernikahan-beda-agama-disebut-dalam-alquran",
       "kategori": "Iqra",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Penjelasan Hukum Potong Tangan dalam Alquran",
       "link_berita": "https://iqra.republika.co.id/berita/sl9mli430/penjelasan-hukum-potong-tangan-dalam-alquran",
       "kategori": "Iqra",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Menkop UKM Ajak seluruh Mahasiswa UGM Bangun Perekonomian Bangsa",
       "link_berita": "https://rejogja.republika.co.id/berita/sl9qap291/menkop-ukm-ajak-seluruh-mahasiswa-ugm-bangun-perekonomian-bangsa",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Timnas Indonesia Gelar Latihan Perdana di Qingdao pada Sabtu",
       "link_berita": "https://news.republika.co.id/berita/sl9q8h348/timnas-indonesia-gelar-latihan-perdana-di-qingdao-pada-sabtu",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Gerbangtara: Kemenpora Buka Ruang Inklusif untuk Pemuda",
       "link_berita": "https://rejogja.republika.co.id/berita/sl9pzg291/gerbangtara-kemenpora-buka-ruang-inklusif-untuk-pemuda",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Utilizing the Natural Potential and Advancement of Labuan Bajo Tourism",
       "link_berita": "https://en.republika.co.id/berita/sl9o7k415/utilizing-the-natural-potential-and-advancement-of-labuan-bajo-tourism",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Bukayo Saka Kembali ke Arsenal, Tinggalkan Skuad Inggris karena Cedera Kaki",
       "link_berita": "https://news.republika.co.id/berita/sl9p69348/bukayo-saka-kembali-ke-arsenal-tinggalkan-skuad-inggris-karena-cedera-kaki",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "OJK Strengthens Digital Finance Through Various Initiatives",
       "link_berita": "https://en.republika.co.id/berita/sl9o30415/ojk-strengthens-digital-finance-through-various-initiatives",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Lima Tips Agar Tidak Lupa Mengingat Allah, Ajarkan Pada Anak",
       "link_berita": "https://khazanah.republika.co.id/berita/sl9kqt430/lima-tips-agar-tidak-lupa-mengingat-allah-ajarkan-pada-anak",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Erick Thohir Calls for Importance of Focus on Adolescent Mental Health",
       "link_berita": "https://en.republika.co.id/berita/sl9nv8415/erick-thohir-calls-for-importance-of-focus-on-adolescent-mental-health",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Ronaldo Cetak Gol Saat Portugal Sikat Polandia 3-1 di UEFA Nations League",
       "link_berita": "https://news.republika.co.id/berita/sl9n91348/ronaldo-cetak-gol-saat-portugal-sikat-polandia-31-di-uefa-nations-league",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "State-Owned Enterprises Support Key to MSME Success",
       "link_berita": "https://en.republika.co.id/berita/sl9n85415/stateowned-enterprises-support-key-to-msme-success",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Perempuan Berdaya, Negara Sejahtera",
       "link_berita": "https://ekonomi.republika.co.id/berita/sl8v63423/perempuan-berdaya-negara-sejahtera",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Gol Tunggal Zubimendi Pastikan Kemenangan Spanyol Atas Denmark",
       "link_berita": "https://news.republika.co.id/berita/sl9mn5348/gol-tunggal-zubimendi-pastikan-kemenangan-spanyol-atas-denmark",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Apakah Nabi-Nabi Sebelum Nabi Muhammad Beragama Islam?",
       "link_berita": "https://khazanah.republika.co.id/berita/sl9ka9430/apakah-nabinabi-sebelum-nabi-muhammad-beragama-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Basarnas Malut: Korban Speedboat Bella 72 yang Terbakar Berjumlah 33 Orang",
       "link_berita": "https://news.republika.co.id/berita/sl9lkm348/basarnas-malut-korban-speedboat-bella-72-yang-terbakar-berjumlah-33-orang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "UAH Ungkap 4 Keutamaan Sholat Tahajud: Angkat Derajat, Keberkahan Usaha, Hingga Bantu Keluar dari Kesulitan",
       "link_berita": "https://kurusetra.net/posts/482314/uah-ungkap-4-keutamaan-sholat-tahajud-angkat-derajat-keberkahan-usaha-hingga-bantu-keluar-dari-kesulitan",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Mengapa Guru Ngaji Masih Sangat Diperlukan di Dunia Saat Ini?",
       "link_berita": "https://retizen.republika.co.id/posts/482103/mengapa-guru-ngaji-masih-sangat-diperlukan-di-dunia-saat-ini",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Sayyidina Ali bin Abi Thalib: Balasan Orang yang Bersedekah",
       "link_berita": "https://retizen.republika.co.id/posts/482107/sayyidina-ali-bin-abi-thalib-balasan-orang-yang-bersedekah",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Yang Terserak dari Harapan",
       "link_berita": "https://retizen.republika.co.id/posts/482170/yang-terserak-dari-harapan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Hari Kesehatan Jiwa Sedunia 2024: Isu Kesehatan Mental di Tempat Kerja, Antara Bertahan atau Meninggalkan?",
       "link_berita": "https://retizen.republika.co.id/posts/482214/hari-kesehatan-jiwa-sedunia-2024-isu-kesehatan-mental-di-tempat-kerja-antara-bertahan-atau-meninggalkan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "5 Bahaya Grooming",
       "link_berita": "https://retizen.republika.co.id/posts/482231/5-bahaya-grooming",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Kebelinger di Zaman Modern",
       "link_berita": "https://retizen.republika.co.id/posts/482190/kebelinger-di-zaman-modern",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Gowes APTISI V dan Universitas Sanata Dharma: Semakin Meningkatkan Kolaborasi Jogjaversitas",
       "link_berita": "https://retizen.republika.co.id/posts/482250/gowes-aptisi-v-dan-universitas-sanata-dharma-semakin-meningkatkan-kolaborasi-jogjaversitas",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Makanan Otak: Bagaimana Burnout Pada Mahasiswa Dapat Diatasi Melalui Makanan Bergizi?",
       "link_berita": "https://retizen.republika.co.id/posts/482198/makanan-otak-bagaimana-burnout-pada-mahasiswa-dapat-diatasi-melalui-makanan-bergizi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Kurikulum Merdeka: Apakah Kebebasan Membawa Kualitas?",
       "link_berita": "https://retizen.republika.co.id/posts/482222/kurikulum-merdeka-apakah-kebebasan-membawa-kualitas",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Senyum Manis Penerus Dakwah Nabi",
       "link_berita": "https://retizen.republika.co.id/posts/482262/senyum-manis-penerus-dakwah-nabi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
       "judul": "Basbousa: Kudapan Manis dari Timur Tengah",
       "link_berita": "https://retizen.republika.co.id/posts/482263/basbousa-kudapan-manis-dari-timur-tengah",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 02:55:01"
     },
     {
-      "judul": "BANTUAN KESEHATAN",
-      "link_berita": "https://retizen.republika.co.id/posts/482265/bantuan-kesehatan",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Riba Halal dan Riba Haram: Memahami Perbedaan dan Implikasinya dalam Ekonomi Islam",
-      "link_berita": "https://retizen.republika.co.id/posts/482279/riba-halal-dan-riba-haram-memahami-perbedaan-dan-implikasinya-dalam-ekonomi-islam",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Eksploitasi Keindahan Daerah Kajang",
-      "link_berita": "https://retizen.republika.co.id/posts/482284/eksploitasi-keindahan-daerah-kajang",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Memahami Pentingnya Literasi Digital di Era Modern",
-      "link_berita": "https://retizen.republika.co.id/posts/482287/memahami-pentingnya-literasi-digital-di-era-modern",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Lima Kunci Hidup Bijak: Pelajaran dari Pengalaman",
-      "link_berita": "https://retizen.republika.co.id/posts/482305/lima-kunci-hidup-bijak-pelajaran-dari-pengalaman",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Lelaki dalam keluarga: Peran Ayah dan Suami dalam Kehidupan Sehari-hari",
-      "link_berita": "https://retizen.republika.co.id/posts/482289/lelaki-dalam-keluarga-peran-ayah-dan-suami-dalam-kehidupan-sehari-hari",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Badai PHK, Bagaimana Solusinya dalam Islam?",
-      "link_berita": "https://retizen.republika.co.id/posts/482306/badai-phk-bagaimana-solusinya-dalam-islam",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Generasi Digital di Persimpangan Jalan: Media Sosial Antara Konektivitas dan Krisis Nilai",
-      "link_berita": "https://retizen.republika.co.id/posts/482307/generasi-digital-di-persimpangan-jalan-media-sosial-antara-konektivitas-dan-krisis-nilai",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Gempar Pelecehan Seksual Meningkat: Ini Pengaruh Sosial Media Terhadap Pelecehan Seksual",
-      "link_berita": "https://retizen.republika.co.id/posts/482309/gempar-pelecehan-seksual-meningkat-ini-pengaruh-sosial-media-terhadap-pelecehan-seksual",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Resmi Meluncur di Indonesia, Segini Harga Chery Tiggo 8",
-      "link_berita": "https://motoresto.id/posts/334149/resmi-meluncur-di-indonesia-segini-harga-chery-tiggo-8",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Keren, Kemenag Raih Penghargaan Penyelenggara Inovasi Pelayanan Publik Terbaik Tahun 2024",
-      "link_berita": "https://sajada.id/posts/334238/keren-kemenag-raih-penghargaan-penyelenggara-inovasi-pelayanan-publik-terbaik-tahun-2024",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Pilkada dan Air Bersih: Ratu Dewa Memetakan Masalah Air Bersih Palembang",
-      "link_berita": "https://kingdomsriwijaya.id/posts/334310/pilkada-dan-air-bersih-ratu-dewa-memetakan-masalah-air-bersih-palembang",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Imam Besar Masjid Nabawi Berkunjung ke Kantor Pusat PBNU Jakarta",
-      "link_berita": "https://ruzkaindonesia.id/posts/334260/imam-besar-masjid-nabawi-berkunjung-ke-kantor-pusat-pbnu-jakarta",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Gajah Way Kambas Mati, Penyakit Ancam Populasi Satwa Lainnya",
-      "link_berita": "https://sumatralink.id/posts/334312/gajah-way-kambas-mati-penyakit-ancam-populasi-satwa-lainnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "PKS Kecam Nyinyiran Terkait Rencana Pembangunan Fly Over Jalan Raya Sawangan Depok",
-      "link_berita": "https://ruzkaindonesia.id/posts/334322/pks-kecam-nyinyiran-terkait-rencana-pembangunan-fly-over-jalan-raya-sawangan-depok",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Pelanggaran Data Karena AI Tingkatkan Kekhawatiran bagi Bisnis di Asia Pasifik",
-      "link_berita": "https://ruzkaindonesia.id/posts/334395/pelanggaran-data-karena-ai-tingkatkan-kekhawatiran-bagi-bisnis-di-asia-pasifik",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Hasil Penelitian: Berhenti Merokok Bahkan di Usia 75 Tahun Meningkatkan Harapan Hidup",
-      "link_berita": "https://impresiupdate.id/posts/481990/hasil-penelitian-berhenti-merokok-bahkan-di-usia-75-tahun-meningkatkan-harapan-hidup",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Pesantren Didorong Lahirkan Santripreneur Lewat Sekolah Bisnis Pesantren",
-      "link_berita": "https://ruzkaindonesia.id/posts/482018/pesantren-didorong-lahirkan-santripreneur-lewat-sekolah-bisnis-pesantren",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 01:39:53"
-    },
-    {
-      "judul": "Erick Thohir Serukan Pentingnya Fokus pada Kesehatan Mental Remaja",
-      "link_berita": "https://ameera.republika.co.id/berita/sl8vbt502/erick-thohir-serukan-pentingnya-fokus-pada-kesehatan-mental-remaja",
+      "judul": "Dokter Sebut Pemilihan Air Mineral dengan Mineral Esensial Bantu Jaga Performa Pelari",
+      "link_berita": "https://ameera.republika.co.id/berita/sl9wrj490/dokter-sebut-pemilihan-air-mineral-dengan-mineral-esensial-bantu-jaga-performa-pelari",
       "kategori": "Health",
-      "tanggal_terbit": "Saturday, 12 Oct 2024, 20:11:00"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 09:40:00"
     },
     {
       "judul": "4 Daerah di NTB Dinyatakan Masuk Level Awas Kekeringan",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Saturday, 12 Oct 2024, 14:36:00"
     },
     {
-      "judul": "Dukungan BUMN Kunci Sukses UMKM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sl8ucw423/dukungan-bumn-kunci-sukses-umkm",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Saturday, 12 Oct 2024, 22:00:00"
+      "judul": "Konsumsi AS Stabil, Inflasi Tekan Konsumen Rendah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sl9rbb430/konsumsi-as-stabil-inflasi-tekan-konsumen-rendah",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 09:30:00"
     },
     {
-      "judul": "MUI: Dewan Pengawas Syariah Perkuat Lembaga Keuangan Syariah",
-      "link_berita": "https://sharia.republika.co.id/berita/sl8etv423/mui-dewan-pengawas-syariah-perkuat-lembaga-keuangan-syariah",
+      "judul": "Dubai Islamic Bank Terbitkan Sukuk Senilai Rp 7,6 Triliun",
+      "link_berita": "https://sharia.republika.co.id/berita/sl9r4a430/dubai-islamic-bank-terbitkan-sukuk-senilai-rp-76-triliun",
       "kategori": "Keuangan Sharia",
-      "tanggal_terbit": "Saturday, 12 Oct 2024, 14:15:00"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 08:30:00"
     },
     {
-      "judul": "Timnas Indonesia Gelar Latihan Perdana di Qingdao pada Sabtu",
-      "link_berita": "https://news.republika.co.id/berita/sl9q8h348/timnas-indonesia-gelar-latihan-perdana-di-qingdao-pada-sabtu",
+      "judul": "Direktur Sepak Bola Man City Txiki Begiristain Tinggalkan Klub, Hugo Viana Jadi Pengganti",
+      "link_berita": "https://news.republika.co.id/berita/sl9wfc348/direktur-sepak-bola-man-city-txiki-begiristain-tinggalkan-klub-hugo-viana-jadi-pengganti",
       "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 13 Oct 2024, 07:19:00"
+      "tanggal_terbit": "Sunday, 13 Oct 2024, 09:50:00"
     }
   ],
-  "waktu_scraping": "Sunday, 13 Oct 2024, 08:39:53"
+  "waktu_scraping": "Sunday, 13 Oct 2024, 09:55:01"
 }
