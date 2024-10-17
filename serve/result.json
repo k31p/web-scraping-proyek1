@@ -23,8 +23,16 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "Tujuh Kendaraan Terlibat Tabrakan Beruntun di Subang Tewaskan Dua Orang, Ini Kronologinya",
+      "link_berita": "https://rejabar.republika.co.id/berita/slhsfn512/tujuh-kendaraan-terlibat-tabrakan-beruntun-di-subang-tewaskan-dua-orang-ini-kronologinya"
+    },
+    {
       "judul": "Angka Harapan Hidup di DIY Tinggi, Tapi Kasus Bunuh Diri Juga Meningkat Tajam",
       "link_berita": "https://rejogja.republika.co.id/berita/slhq2o282/angka-harapan-hidup-di-diy-tinggi-tapi-kasus-bunuh-diri-juga-meningkat-tajam"
+    },
+    {
+      "judul": "Warga Israel Berbondong-bondong Kabur, Alquran Sudah Ungkap Watak Asli Mereka",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhlu8320/warga-israel-berbondongbondong-kabur-alquran-sudah-ungkap-watak-asli-mereka"
     },
     {
       "judul": "Rekam Jejak Karier Militer Herindra Sebelum Ditunjuk Jadi Kepala BIN dan Opini Pengamat",
@@ -73,334 +81,326 @@
     {
       "judul": "Gubernur BI Sampaikan Optimisme Pertumbuhan Ekonomi Indonesia di Triwulan IV 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/slggna423/gubernur-bi-sampaikan-optimisme-pertumbuhan-ekonomi-indonesia-di-triwulan-iv-2024"
-    },
-    {
-      "judul": "Pendakwah Islam Punya 5 Rolex dan Mercedes Baru di Jerman Ditangkap, Dituduh Tilep Donasi",
-      "link_berita": "https://khazanah.republika.co.id/berita/slgdnt320/pendakwah-islam-punya-5-rolex-dan-mercedes-baru-di-jerman-ditangkap-dituduh-tilep-donasi"
-    },
-    {
-      "judul": "Bahrain Merengek Minta Laga Lawan Timnas Dipindah dari Indonesia, Ini Jawaban Exco PSSI",
-      "link_berita": "https://news.republika.co.id/berita/slgarj348/bahrain-merengek-minta-laga-lawan-timnas-dipindah-dari-indonesia-ini-jawaban-exco-pssi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "NCC Dukung Mahasiswa Prodi Informatika UNM jadi Fullstack Developer Lewat Program Magang",
+      "link_berita": "https://news.republika.co.id/berita/slhtsa490/ncc-dukung-mahasiswa-prodi-informatika-unm-jadi-fullstack-developer-lewat-program-magang",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:17:02"
+    },
+    {
+      "judul": "DPRD Kota Bandung Minta Pemkot Lebih Gencar Sosialisasikan Perda",
+      "link_berita": "https://rejabar.republika.co.id/berita/slhtrg512/dprd-kota-bandung-minta-pemkot-lebih-gencar-sosialisasikan-perda",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:16:02"
+    },
+    {
+      "judul": "Harta Hanya Titipan, Bukan Segalanya",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhtiw458/harta-hanya-titipan-bukan-segalanya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:11:02"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 18 Oktober 2024 - Kota Depok: Berawan",
+      "link_berita": "https://news.republika.co.id/berita/slhtc1924217412/prakiraan-cuaca-besok-18-oktober-2024-kota-depok-berawan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:07:02"
+    },
+    {
+      "judul": "Inilah Lima Hiasan Dunia Menurut Rasulullah",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhtbu458/inilah-lima-hiasan-dunia-menurut-rasulullah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:07:02"
+    },
+    {
+      "judul": "Prabowo dan Surya Paloh Bertemu di Kemenhan, Ini Penjelasan Nasdem",
+      "link_berita": "https://news.republika.co.id/berita/slht7h377/prabowo-dan-surya-paloh-bertemu-di-kemenhan-ini-penjelasan-nasdem",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:04:02"
+    },
+    {
+      "judul": "Netanyahu Klaim IDF Temukan 'Senjata Canggih' Buatan Rusia di Markas Hizbullah",
+      "link_berita": "https://news.republika.co.id/berita/slht5g409/netanyahu-klaim-idf-temukan-senjata-canggih-buatan-rusia-di-markas-hizbullah",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:03:02"
+    },
+    {
+      "judul": "Allah Itu Dekat, Apa Maksudnya?",
+      "link_berita": "https://khazanah.republika.co.id/berita/slht1l458/allah-itu-dekat-apa-maksudnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:01:02"
+    },
+    {
+      "judul": "Perlu Pakta Internasional Baru untuk Atasi Krisis Air Global",
+      "link_berita": "https://esgnow.republika.co.id/berita/slhszt416/perlu-pakta-internasional-baru-untuk-atasi-krisis-air-global",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 09:00:02"
+    },
+    {
+      "judul": "Istri Mensyaratkan tidak Poligami Saat Akad Nikah, Apakah Dibolehkan?",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhsyy483/istri-mensyaratkan-tidak-poligami-saat-akad-nikah-apakah-dibolehkan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:59:02"
+    },
+    {
+      "judul": "Indef: Makan Bergizi Gratis Tingkatkan Kualitas Pendidikan Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/slhsyi370/indef-makan-bergizi-gratis-tingkatkan-kualitas-pendidikan-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:59:02"
+    },
+    {
+      "judul": "Politisi PKS Kecam Pernyataan Menlu Jerman yang Sebut Israel Boleh Bunuh Warga Sipil Gaza",
+      "link_berita": "https://rejogja.republika.co.id/berita/slhsy3291/politisi-pks-kecam-pernyataan-menlu-jerman-yang-sebut-israel-boleh-bunuh-warga-sipil-gaza",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:59:02"
+    },
+    {
+      "judul": "Tingkatkan Kompetensi Karyawan Milenial dan Gen Z, PNM Kembali Gelar Learning Festival",
+      "link_berita": "https://ekonomi.republika.co.id/berita/slhsxy490/tingkatkan-kompetensi-karyawan-milenial-dan-gen-z-pnm-kembali-gelar-learning-festival",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:59:02"
+    },
+    {
+      "judul": "Renungan untuk Orang Tua",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhswt458/renungan-untuk-orang-tua",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:58:02"
+    },
+    {
+      "judul": "Psikolog: Penyebab Bunuh Diri karena Vulgarnya Informasi di Medsos",
+      "link_berita": "https://rejogja.republika.co.id/berita/slhsqm282/psikolog-penyebab-bunuh-diri-karena-vulgarnya-informasi-di-medsos",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:54:02"
+    },
+    {
+      "judul": "Perbuatan Abu Bakar dan Marahnya Rasulullah",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhsol458/perbuatan-abu-bakar-dan-marahnya-rasulullah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:53:02"
+    },
+    {
+      "judul": "SIG dan BTN Bangun Perumahan Ramah Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/slhsnr416/sig-dan-btn-bangun-perumahan-ramah-lingkungan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:53:02"
+    },
+    {
+      "judul": "Tujuh Kendaraan Terlibat Tabrakan Beruntun di Subang Tewaskan Dua Orang, Ini Kronologinya",
+      "link_berita": "https://rejabar.republika.co.id/berita/slhsfn512/tujuh-kendaraan-terlibat-tabrakan-beruntun-di-subang-tewaskan-dua-orang-ini-kronologinya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:48:02"
+    },
+    {
+      "judul": "PLN Perkuat Hubungan dengan Publik, Raih 7 Penghargaan dalam Ajang AHI 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/slhsec490/pln-perkuat-hubungan-dengan-publik-raih-7-penghargaan-dalam-ajang-ahi-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:47:02"
+    },
+    {
+      "judul": "Top Halal Award Tingkatkan Kepercayaan Masyarakat Terhadap Produk Halal",
+      "link_berita": "https://tv.republika.co.id/berita/slhsai467/top-halal-award-tingkatkan-kepercayaan-masyarakat-terhadap-produk-halal",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:45:02"
+    },
+    {
+      "judul": "Ini 4 Kelompok Munculkan Hadis Palsu",
+      "link_berita": "https://khazanah.republika.co.id/berita/slhs87458/ini-4-kelompok-munculkan-hadis-palsu",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:43:02"
+    },
+    {
+      "judul": "Ibu Hamil Diberi Gratis Tablet MMS, Apa Itu?",
+      "link_berita": "https://ameera.republika.co.id/berita/slhruo328/ibu-hamil-diberi-gratis-tablet-mms-apa-itu",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:35:02"
+    },
+    {
+      "judul": "Krisis Air Global Ancam Produksi Pangan Dunia",
+      "link_berita": "https://esgnow.republika.co.id/berita/slhrsw416/krisis-air-global-ancam-produksi-pangan-dunia",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:34:02"
+    },
+    {
+      "judul": "Hasilkan 4.366 Penindakan dalam Operasi Gempur I, Bea Cukai Lanjutkan Operasi Gempur II",
+      "link_berita": "https://republika.co.id/berita/slhrss370/hasilkan-4-366-penindakan-dalam-operasi-gempur-i-bea-cukai-lanjutkan-operasi-gempur-ii",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:34:02"
+    },
+    {
+      "judul": "Kanada Salurkan Bantuan Keuangan untuk Pengungsi Palestina",
+      "link_berita": "https://news.republika.co.id/berita/slhrr0458/kanada-salurkan-bantuan-keuangan-untuk-pengungsi-palestina",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:33:02"
+    },
+    {
+      "judul": "Tokoh Jabar Turun Gunung Menangkan Pasangan Bedas",
+      "link_berita": "https://rejabar.republika.co.id/berita/slhrq1512/tokoh-jabar-turun-gunung-menangkan-pasangan-bedas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:32:02"
+    },
+    {
+      "judul": "Sambangi Bawaslu Jateng, Tim Andika-Hendi Sodorkan Dugaan Pelanggaran Netralitas Kades",
+      "link_berita": "https://rejogja.republika.co.id/berita/slhrky291/sambangi-bawaslu-jateng-tim-andikahendi-sodorkan-dugaan-pelanggaran-netralitas-kades",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:29:02"
+    },
+    {
       "judul": "Surya Paloh Temui Prabowo di Kemenhan, Disusul Zulhas, Bahlil, Cak Imin, dan AHY, Ada Apa?",
       "link_berita": "https://news.republika.co.id/berita/slhrab487/surya-paloh-temui-prabowo-di-kemenhan-disusul-zulhas-bahlil-cak-imin-dan-ahy-ada-apa",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:22:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:23:02"
     },
     {
       "judul": "Dapatkan MDR QRIS Nol Persen dengan Jadi Merchant BRI, Begini Caranya",
       "link_berita": "https://ekonomi.republika.co.id/berita/slhr1q370/dapatkan-mdr-qris-nol-persen-dengan-jadi-merchant-bri-begini-caranya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:17:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Seperti Prabowo, Gibran Juga Tinggalkan Hambalang Saat Pembekalan Menteri Berlangsung",
       "link_berita": "https://news.republika.co.id/berita/slhqwr409/seperti-prabowo-gibran-juga-tinggalkan-hambalang-saat-pembekalan-menteri-berlangsung",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:14:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "AS Berharap Israel Lakukan Serangan ke Iran Sebelum Pilpres",
       "link_berita": "https://news.republika.co.id/berita/slhqw2487/as-berharap-israel-lakukan-serangan-ke-iran-sebelum-pilpres",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:14:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Pria Bantul Gantung Diri dengan Tali Plastik di Pohon Mangga",
       "link_berita": "https://rejogja.republika.co.id/berita/slhqw0282/pria-bantul-gantung-diri-dengan-tali-plastik-di-pohon-mangga",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:14:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Laga Vs Indonesia Diminta Pindah ke Luar NKRI, Coach Justin: Bentuk Arogansi Bahrain",
       "link_berita": "https://news.republika.co.id/berita/slhqf7348/laga-vs-indonesia-diminta-pindah-ke-luar-nkri-coach-justin-bentuk-arogansi-bahrain",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:10:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "IKN Jadi Kota Dunia, Otorita: Bahasa Indonesia Tetap Utama",
       "link_berita": "https://news.republika.co.id/berita/slhqm7458/ikn-jadi-kota-dunia-otorita-bahasa-indonesia-tetap-utama",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:08:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Dosen UI: Pemanggilan Calon Menteri Bukti Komunikasi Jokowi-Prabowo Berjalan Baik",
       "link_berita": "https://news.republika.co.id/berita/slhqkx377/dosen-ui-pemanggilan-calon-menteri-bukti-komunikasi-jokowiprabowo-berjalan-baik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:07:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "GP Australia di Phillip Island Berlangsung Akhir Pekan Ini, Berikut Catatan Menariknya",
       "link_berita": "https://news.republika.co.id/berita/slhq75348/gp-australia-di-phillip-island-berlangsung-akhir-pekan-ini-berikut-catatan-menariknya",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:59:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Angka Harapan Hidup di DIY Tinggi, Tapi Kasus Bunuh Diri Juga Meningkat Tajam",
       "link_berita": "https://rejogja.republika.co.id/berita/slhq2o282/angka-harapan-hidup-di-diy-tinggi-tapi-kasus-bunuh-diri-juga-meningkat-tajam",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:56:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Pimpinan Muhammadiyah: Erick Thohir Pekerja Keras Bisa Berbuat Lebih untuk Rakyat",
       "link_berita": "https://khazanah.republika.co.id/berita/slhpxd483/pimpinan-muhammadiyah-erick-thohir-pekerja-keras-bisa-berbuat-lebih-untuk-rakyat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:53:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 08:21:02"
     },
     {
       "judul": "Uni Eropa Tunda Pelaksanaan Undang-Undang Deforestasi",
       "link_berita": "https://esgnow.republika.co.id/berita/slhpsh416/uni-eropa-tunda-pelaksanaan-undangundang-deforestasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:50:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Biar Enggak Makan Tabungan, Ini Pentingnya Bijak Kelola Keuangan dengan Tabungan BRI",
       "link_berita": "https://ekonomi.republika.co.id/berita/slhph3370/biar-enggak-makan-tabungan-ini-pentingnya-bijak-kelola-keuangan-dengan-tabungan-bri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:43:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Erick Thohir Masuk Kabinet Lagi, Ini Harapan PP Muhammadiyah",
       "link_berita": "https://khazanah.republika.co.id/berita/slhpe7430/erick-thohir-masuk-kabinet-lagi-ini-harapan-pp-muhammadiyah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:41:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Mobil Subaru Ini Dapat Menempuh Lebih 1.000 KM dengan Tangki Bensin Penuh",
       "link_berita": "https://ekonomi.republika.co.id/berita/slhpbm468/mobil-subaru-ini-dapat-menempuh-lebih-1000-km-dengan-tangki-bensin-penuh",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:40:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "AS Kerahkan Jet Siluman B-2 Bombardir Houthi, Sinyal Peringatan ke Iran?",
       "link_berita": "https://news.republika.co.id/berita/slhpai377/as-kerahkan-jet-siluman-b2-bombardir-houthi-sinyal-peringatan-ke-iran",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:39:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Pengamat Anggap Permintaan Bahrain Pindah Lokasi Pertandingan Lawan Indonesia Lebay",
       "link_berita": "https://news.republika.co.id/berita/slhp8e348/pengamat-anggap-permintaan-bahrain-pindah-lokasi-pertandingan-lawan-indonesia-lebay",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:38:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "PBNU Berharap Menlu Baru Era Prabowo Terus Kawal Isu Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/slhp1u430/pbnu-berharap-menlu-baru-era-prabowo-terus-kawal-isu-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:34:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Video Terakhir Liam Payne Sebelum Meninggal",
       "link_berita": "https://tv.republika.co.id/berita/slhoss418/video-terakhir-liam-payne-sebelum-meninggal",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:28:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Punya Utang Pinjol Rp 3,5 Juta, Pria Yogya Nekat Curi Motor Tetangganya",
       "link_berita": "https://rejogja.republika.co.id/berita/slho9x282/punya-utang-pinjol-rp-35-juta-pria-yogya-nekat-curi-motor-tetangganya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:25:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Rapat Paripurna DPR Setujui M Herindra Sebagai Kepala BIN",
       "link_berita": "https://visual.republika.co.id/berita/slho7j375/rapat-paripurna-dpr-setujui-m-herindra-sebagai-kepala-bin",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:25:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Jokowi Bocorkan Nama Panggilan Anak Kaesang",
       "link_berita": "https://tv.republika.co.id/berita/slhnma418/jokowi-bocorkan-nama-panggilan-anak-kaesang",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:25:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
       "judul": "Bagikan Foto Jenazah Liam Payne, Media TMZ Dikecam",
       "link_berita": "https://ameera.republika.co.id/berita/slhnih425/bagikan-foto-jenazah-liam-payne-media-tmz-dikecam",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:25:49"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 07:21:02"
     },
     {
-      "judul": "Api Lalap Gedung Yayasan, Petugas Damkar dan Warga Terluka",
-      "link_berita": "https://rejabar.republika.co.id/berita/slhn96512/api-lalap-gedung-yayasan-petugas-damkar-dan-warga-terluka",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
+      "judul": "Ibu Hamil Diberi Gratis Tablet MMS, Apa Itu?",
+      "link_berita": "https://ameera.republika.co.id/berita/slhruo328/ibu-hamil-diberi-gratis-tablet-mms-apa-itu",
+      "kategori": "Health",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 15:35:00"
     },
     {
-      "judul": "Ini Deretan Sepeda motor yang akan Hadir di IMOS 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/slhn8r370/ini-deretan-sepeda-motor-yang-akan-hadir-di-imos-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Golkar Optimistis Dapat Delapan Kursi Menteri di Kabinet Prabowo",
-      "link_berita": "https://news.republika.co.id/berita/slhmud409/golkar-optimistis-dapat-delapan-kursi-menteri-di-kabinet-prabowo",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Genjot Dana Murah, Bank Mega Syariah Catat CASA 35 Persen",
-      "link_berita": "https://sharia.republika.co.id/berita/slhmpl502/genjot-dana-murah-bank-mega-syariah-catat-casa-35-persen",
-      "kategori": "Sharia",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Impor Beras dan Gula Naik Terus, Neraca Perdagangan Indonesia-Thailand Tekor Terus",
-      "link_berita": "https://ekonomi.republika.co.id/berita/slhmfl502/impor-beras-dan-gula-naik-terus-neraca-perdagangan-indonesiathailand-tekor-terus",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Amran Copot Tiga Pegawai, Diduga Korupsi di Kementan, Disebut Sudah Terima Rp 10 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/slhmbx487/amran-copot-tiga-pegawai-diduga-korupsi-di-kementan-disebut-sudah-terima-rp-10-miliar",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Di Mana Posisi Muhaimin di Kabinet Prabowo-Gibran? Ini Kata PKB",
-      "link_berita": "https://rejogja.republika.co.id/berita/slhm8g377/di-mana-posisi-muhaimin-di-kabinet-prabowogibran-ini-kata-pkb",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Slank Ajak Publik Doakan Kesembuhan Gitaris Abdee Negara",
-      "link_berita": "https://ameera.republika.co.id/berita/slhm4l425/slank-ajak-publik-doakan-kesembuhan-gitaris-abdee-negara",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Warga Israel Berbondong-bondong Kabur, Alquran Sudah Ungkap Watak Asli Mereka",
-      "link_berita": "https://khazanah.republika.co.id/berita/slhlu8320/warga-israel-berbondongbondong-kabur-alquran-sudah-ungkap-watak-asli-mereka",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Berawal Bakar Sampah, Gedung Sekolah di Cirebon Dilalap Api",
-      "link_berita": "https://rejabar.republika.co.id/berita/slhlrg512/berawal-bakar-sampah-gedung-sekolah-di-cirebon-dilalap-api",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Ini Penjelasan Dahnil Soal Kepergian Prabowo dari Hambalang",
-      "link_berita": "https://news.republika.co.id/berita/slhlpj377/ini-penjelasan-dahnil-soal-kepergian-prabowo-dari-hambalang",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Merdeka Belajar Dinilai Lemahkan Keterampilan Berpikir, Perlukah Abdul Mu'ti Menggantinya?",
-      "link_berita": "https://news.republika.co.id/berita/slhlnj487/merdeka-belajar-dinilai-lemahkan-keterampilan-berpikir-perlukah-abdul-muti-menggantinya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Kepala BPKH Raih Gelar Doktor Setelah Bedah Kinerja Keuangan Rumah Sakit Swasta di Era JKN",
-      "link_berita": "https://news.republika.co.id/berita/slhlmw502/kepala-bpkh-raih-gelar-doktor-setelah-bedah-kinerja-keuangan-rumah-sakit-swasta-di-era-jkn",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Permintaan Energi Meningkat, Limbah Nuklir di AS Menumpuk",
-      "link_berita": "https://esgnow.republika.co.id/berita/slhhht416/permintaan-energi-meningkat-limbah-nuklir-di-as-menumpuk",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Heru Budi Diberhentikan Sebagai Pj Gubernur Jakarta, Penggantinya Dilantik Besok",
-      "link_berita": "https://news.republika.co.id/berita/slhkm3487/heru-budi-diberhentikan-sebagai-pj-gubernur-jakarta-penggantinya-dilantik-besok",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "Eksodus Besar-besaran Warga Israel yang tak Pernah Terjadi Sebelumnya",
-      "link_berita": "https://khazanah.republika.co.id/berita/slhkk2320/eksodus-besarbesaran-warga-israel-yang-tak-pernah-terjadi-sebelumnya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 06:25:49"
-    },
-    {
-      "judul": "PT Korea Hightech Indonesia Terima Izin Fasilitas Kawasan Berikat",
-      "link_berita": "https://republika.co.id/berita/slhjeo370/pt-korea-hightech-indonesia-terima-izin-fasilitas-kawasan-berikat",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Ikut Pembekalan di Hambalang, Ini Kata Thomas Dijwandono",
-      "link_berita": "https://news.republika.co.id/berita/slhkb8377/ikut-pembekalan-di-hambalang-ini-kata-thomas-dijwandono",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Prabowo Tinggalkan Pembekalan Anggota Kabinet, Mau Bertemu Megawati?",
-      "link_berita": "https://news.republika.co.id/berita/slhjwl377/prabowo-tinggalkan-pembekalan-anggota-kabinet-mau-bertemu-megawati",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Fajar/Rian Matangkan Adaptasi pada 16 Besar Denmark Open",
-      "link_berita": "https://news.republika.co.id/berita/slhjjv348/fajarrian-matangkan-adaptasi-pada-16-besar-denmark-open",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Rekam Jejak Karier Militer Herindra Sebelum Ditunjuk Jadi Kepala BIN dan Opini Pengamat",
-      "link_berita": "https://news.republika.co.id/berita/slhjcu409/rekam-jejak-karier-militer-herindra-sebelum-ditunjuk-jadi-kepala-bin-dan-opini-pengamat",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Kocaknya Jin BTS Saat Jemput J-Hope: Jongkok Pegangi Mic Wartawan",
-      "link_berita": "https://ameera.republika.co.id/berita/slhjbq425/kocaknya-jin-bts-saat-jemput-jhope-jongkok-pegangi-mic-wartawan",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Lincahnya Dalang Cilik Memainkan Wayang Lakon Bimo Meguru",
-      "link_berita": "https://news.republika.co.id/berita/slhja8487/lincahnya-dalang-cilik-memainkan-wayang-lakon-bimo-meguru",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Bea Cukai dan Pemda Bersinergi Amankan Rokok Ilegal di Jakarta",
-      "link_berita": "https://republika.co.id/berita/slhiyt370/bea-cukai-dan-pemda-bersinergi-amankan-rokok-ilegal-di-jakarta",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Israel Hancurkan Situs Makam Putra Nabi Yakub di Lebanon",
-      "link_berita": "https://news.republika.co.id/berita/slhinm370/israel-hancurkan-situs-makam-putra-nabi-yakub-di-lebanon",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Film Horor Paling Menakutkan dalam 5 Tahun Terakhir, Ada yang Sampai Dilarang Tayang",
-      "link_berita": "https://ameera.republika.co.id/berita/slhi3s425/film-horor-paling-menakutkan-dalam-5-tahun-terakhir-ada-yang-sampai-dilarang-tayang",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Budi Arie Sebut Calon Menteri Bakal Terima Pembekalan di Akmil Magelang, untuk Apa?",
-      "link_berita": "https://news.republika.co.id/berita/slhi39487/budi-arie-sebut-calon-menteri-bakal-terima-pembekalan-di-akmil-magelang-untuk-apa",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 05:25:49"
-    },
-    {
-      "judul": "Bagikan Foto Jenazah Liam Payne, Media TMZ Dikecam",
-      "link_berita": "https://ameera.republika.co.id/berita/slhnih425/bagikan-foto-jenazah-liam-payne-media-tmz-dikecam",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 14:01:00"
-    },
-    {
-      "judul": "Uni Eropa Tunda Pelaksanaan Undang-Undang Deforestasi",
-      "link_berita": "https://esgnow.republika.co.id/berita/slhpsh416/uni-eropa-tunda-pelaksanaan-undangundang-deforestasi",
+      "judul": "Perlu Pakta Internasional Baru untuk Atasi Krisis Air Global",
+      "link_berita": "https://esgnow.republika.co.id/berita/slhszt416/perlu-pakta-internasional-baru-untuk-atasi-krisis-air-global",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 14:50:00"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 15:59:00"
     },
     {
-      "judul": "Dapatkan MDR QRIS Nol Persen dengan Jadi Merchant BRI, Begini Caranya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/slhr1q370/dapatkan-mdr-qris-nol-persen-dengan-jadi-merchant-bri-begini-caranya",
+      "judul": "Indef: Makan Bergizi Gratis Tingkatkan Kualitas Pendidikan Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/slhsyi370/indef-makan-bergizi-gratis-tingkatkan-kualitas-pendidikan-indonesia",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 15:17:00"
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 15:59:00"
     },
     {
       "judul": "Genjot Dana Murah, Bank Mega Syariah Catat CASA 35 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 17 Oct 2024, 13:44:00"
     },
     {
-      "judul": "Surya Paloh Temui Prabowo di Kemenhan, Disusul Zulhas, Bahlil, Cak Imin, dan AHY, Ada Apa?",
-      "link_berita": "https://news.republika.co.id/berita/slhrab487/surya-paloh-temui-prabowo-di-kemenhan-disusul-zulhas-bahlil-cak-imin-dan-ahy-ada-apa",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 17 Oct 2024, 15:22:00"
+      "judul": "NCC Dukung Mahasiswa Prodi Informatika UNM jadi Fullstack Developer Lewat Program Magang",
+      "link_berita": "https://news.republika.co.id/berita/slhtsa490/ncc-dukung-mahasiswa-prodi-informatika-unm-jadi-fullstack-developer-lewat-program-magang",
+      "kategori": "Dunia Kampus",
+      "tanggal_terbit": "Thursday, 17 Oct 2024, 16:16:00"
     }
   ],
-  "waktu_scraping": "Thursday, 17 Oct 2024, 15:25:49"
+  "waktu_scraping": "Thursday, 17 Oct 2024, 16:21:02"
 }
