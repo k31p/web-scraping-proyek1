@@ -23,6 +23,18 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "BRICS Dorong Aksi untuk Atasi Kekeringan dan Degradasi Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sm1w0h416/brics-dorong-aksi-untuk-atasi-kekeringan-dan-degradasi-lingkungan"
+    },
+    {
+      "judul": "Tuai Kontroversi, Bandara Incheon Korea Batalkan Rencana Pintu Khusus Artis",
+      "link_berita": "https://ameera.republika.co.id/berita/sm1xie425/tuai-kontroversi-bandara-incheon-korea-batalkan-rencana-pintu-khusus-artis"
+    },
+    {
+      "judul": "Dendam, Seorang Pria di Majalaya Bandung Tusuk Teman Pakai Pisau Dapur Hingga Tewas",
+      "link_berita": "https://rejabar.republika.co.id/berita/sm1wn0512/dendam-seorang-pria-di-majalaya-bandung-tusuk-teman-pakai-pisau-dapur-hingga-tewas"
+    },
+    {
       "judul": "Tips Agar Baterai iPhone Awet dan Enggak Gampang Bocor",
       "link_berita": "https://ameera.republika.co.id/berita/sm1usk425/tips-agar-baterai-iphone-awet-dan-enggak-gampang-bocor"
     },
@@ -69,338 +81,326 @@
     {
       "judul": "Karding: Pak Prabowo Biaya Sendiri Retreat Kabinet di Akmil Magelang",
       "link_berita": "https://news.republika.co.id/berita/sm1e2n377/karding-pak-prabowo-biaya-sendiri-retreat-kabinet-di-akmil-magelang"
-    },
-    {
-      "judul": "Parlemen Arab Bersatu Bentuk Tim Penangkapan Netanyahu Lewat ICC",
-      "link_berita": "https://news.republika.co.id/berita/sm1e0n393/parlemen-arab-bersatu-bentuk-tim-penangkapan-netanyahu-lewat-icc"
-    },
-    {
-      "judul": "Ayatollah Khamenei Beri Lampu Hijau kepada IRGC Balas Serangan Israel",
-      "link_berita": "https://news.republika.co.id/berita/sm0tyw409/ayatollah-khamenei-beri-lampu-hijau-kepada-irgc-balas-serangan-israel"
-    },
-    {
-      "judul": "Hasil dan Klasemen Liga Primer Inggris: Manchester City Gusur Liverpool di Puncak",
-      "link_berita": "https://news.republika.co.id/berita/sm1cj2348/hasil-dan-klasemen-liga-primer-inggris-manchester-city-gusur-liverpool-di-puncak"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Hari Sumpah Pemuda, Pj Gubernur Jabar Bey Minta Semua Pemuda Berperan dalam Pembangunan",
+      "link_berita": "https://rejabar.republika.co.id/berita/sm1zb4512/hari-sumpah-pemuda-pj-gubernur-jabar-bey-minta-semua-pemuda-berperan-dalam-pembangunan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:28:17"
+    },
+    {
+      "judul": "PR Menteri Pariwisata Lindungi 40 Juta Masyarakat Pariwisata Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sm1z0j423/pr-menteri-pariwisata-lindungi-40-juta-masyarakat-pariwisata-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:22:09"
+    },
+    {
+      "judul": "Pertamina Hulu Energi Dorong Lahirnya Inovasi Melalui Forum CIP",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sm1yzr456/pertamina-hulu-energi-dorong-lahirnya-inovasi-melalui-forum-cip",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:21:09"
+    },
+    {
+      "judul": "Pramuka KJRI Davao City Gelar Perkemahan",
+      "link_berita": "https://news.republika.co.id/berita/sm1yzp451/pramuka-kjri-davao-city-gelar-perkemahan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:21:09"
+    },
+    {
+      "judul": "Uni Eropa Dilarang Bernegosiasi dengan Produsen Mobil Listrik China",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sm1yvx468/uni-eropa-dilarang-bernegosiasi-dengan-produsen-mobil-listrik-china",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:19:09"
+    },
+    {
+      "judul": "Ini Cara Keluarga Sandera Permalukan Netanyahu Habis-habisan",
+      "link_berita": "https://khazanah.republika.co.id/berita/sm1ysj483/ini-cara-keluarga-sandera-permalukan-netanyahu-habishabisan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:17:09"
+    },
+    {
+      "judul": "Bea Cukai Tinjau Langsung Proses Bisnis Perusahaan Melalui Lawatan Dinas",
+      "link_berita": "https://republika.co.id/berita/sm1yrb423/bea-cukai-tinjau-langsung-proses-bisnis-perusahaan-melalui-lawatan-dinas",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:16:09"
+    },
+    {
+      "judul": "Bea Cukai Riau Gagalkan Penyelundupan 17 Ribu Batang Rokok Ilegal dan Ratusan Smartphone",
+      "link_berita": "https://republika.co.id/berita/sm1yd0423/bea-cukai-riau-gagalkan-penyelundupan-17-ribu-batang-rokok-ilegal-dan-ratusan-smartphone",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:08:09"
+    },
+    {
+      "judul": "Usai Ikut Penggemblengan di Akmil Magelang, Raffi Ahmad: Alhamdulillah Kompak Semua",
+      "link_berita": "https://news.republika.co.id/berita/sm1y49349/usai-ikut-penggemblengan-di-akmil-magelang-raffi-ahmad-alhamdulillah-kompak-semua",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:02:09"
+    },
+    {
+      "judul": "MTQ Sarana Ciptakan Generasi Cinta Alquran",
+      "link_berita": "https://khazanah.republika.co.id/berita/sm1n39451/mtq-sarana-ciptakan-generasi-cinta-alquran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:00:09"
+    },
+    {
+      "judul": "BRICS Dorong Aksi untuk Atasi Kekeringan dan Degradasi Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sm1w0h416/brics-dorong-aksi-untuk-atasi-kekeringan-dan-degradasi-lingkungan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 06:00:09"
+    },
+    {
+      "judul": "Nouman Ali Khan: Pernah Jadi Ateis, Bermimpi Terbaring di Kuburan yang Mengeluarkan Api",
+      "link_berita": "https://khazanah.republika.co.id/berita/sm1xw9483/nouman-ali-khan-pernah-jadi-ateis-bermimpi-terbaring-di-kuburan-yang-mengeluarkan-api",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:58:09"
+    },
+    {
+      "judul": "Bank bjb Dukung Kejuaraan Nasional Baseball Softball Salman Al Farisi III",
+      "link_berita": "https://news.republika.co.id/berita/sm1xvz423/bank-bjb-dukung-kejuaraan-nasional-baseball-softball-salman-al-farisi-iii",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:57:09"
+    },
+    {
+      "judul": "Tuai Kontroversi, Bandara Incheon Korea Batalkan Rencana Pintu Khusus Artis",
+      "link_berita": "https://ameera.republika.co.id/berita/sm1xie425/tuai-kontroversi-bandara-incheon-korea-batalkan-rencana-pintu-khusus-artis",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:49:09"
+    },
+    {
+      "judul": "Pemprov Gorontalo dan IIF Dukung Konservasi Hiu Paus",
+      "link_berita": "https://esgnow.republika.co.id/berita/sm1x0v416/pemprov-gorontalo-dan-iif-dukung-konservasi-hiu-paus",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:39:09"
+    },
+    {
+      "judul": "Dendam, Seorang Pria di Majalaya Bandung Tusuk Teman Pakai Pisau Dapur Hingga Tewas",
+      "link_berita": "https://rejabar.republika.co.id/berita/sm1wn0512/dendam-seorang-pria-di-majalaya-bandung-tusuk-teman-pakai-pisau-dapur-hingga-tewas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:30:09"
+    },
+    {
+      "judul": "Hari Sumpah Pemuda, Kemenpora Ajak Generasi Muda Perkuat Kolaborasi",
+      "link_berita": "https://news.republika.co.id/berita/sm1wgo416/hari-sumpah-pemuda-kemenpora-ajak-generasi-muda-perkuat-kolaborasi",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:29:09"
+    },
+    {
       "judul": "7 Doa yang Mudah Dikabulkan Allah Saat Gelombang Cobaan Datang",
       "link_berita": "https://iqra.republika.co.id/berita/sm1uk0366/7-doa-yang-mudah-dikabulkan-allah-saat-gelombang-cobaan-datang",
       "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 05:05:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:29:09"
     },
     {
       "judul": "Jawab Kebutuhan Estetika yang Bertumbuh, Kalbe Luncurkan Skin Booster DQHA35",
       "link_berita": "https://rejogja.republika.co.id/berita/sm1v8j291/jawab-kebutuhan-estetika-yang-bertumbuh-kalbe-luncurkan-skin-booster-dqha35",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 05:00:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:29:09"
     },
     {
       "judul": "KSAL Resmikan Gedung Santri dan Rumah Singgah Santri Lansia di Garut",
       "link_berita": "https://khazanah.republika.co.id/berita/sm1myn451/ksal-resmikan-gedung-santri-dan-rumah-singgah-santri-lansia-di-garut",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 05:00:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 05:29:09"
     },
     {
       "judul": "Tips Agar Baterai iPhone Awet dan Enggak Gampang Bocor",
       "link_berita": "https://ameera.republika.co.id/berita/sm1usk425/tips-agar-baterai-iphone-awet-dan-enggak-gampang-bocor",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:51:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Pemikiran KH Ahmad Dahlan: Relevansi dalam Menghadapi Tantangan Modern",
       "link_berita": "https://retizen.republika.co.id/posts/484663/pemikiran-kh-ahmad-dahlan-relevansi-dalam-menghadapi-tantangan-modern",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:50:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Ternyata Kalangan Tua Juga Hadir di Kongres Pemuda yang Hasilkan Sumpah Pemuda",
       "link_berita": "https://oohya.republika.co.id/posts/484666/ternyata-kalangan-tua-juga-hadir-di-kongres-pemuda-yang-hasilkan-sumpah-pemuda",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:49:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Semua Timnas Indonesia Lolos Piala Asia. Erick Thohir, Bukti Level Kita Sudah Naik",
       "link_berita": "https://news.republika.co.id/berita/sm1udu348/semua-timnas-indonesia-lolos-piala-asia-erick-thohir-bukti-level-kita-sudah-naik",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:42:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "RK Dadan Surya Negara Sosialisasi Perda Fasilitasi Penyelenggaraan Pesantren di Cianjur",
       "link_berita": "https://rejabar.republika.co.id/berita/sm1ud2370/rk-dadan-surya-negara-sosialisasi-perda-fasilitasi-penyelenggaraan-pesantren-di-cianjur",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:41:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Biznet Festival Bali 2024, Perpaduan Musik, Teknologi dan Hiburan untuk Masyarakat Bali",
       "link_berita": "https://ekonomi.republika.co.id/berita/sm1u72370/biznet-festival-bali-2024-perpaduan-musik-teknologi-dan-hiburan-untuk-masyarakat-bali",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:38:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Dokumen Internal Hybe Terungkap ke Publik, Apa Saja Isinya?",
       "link_berita": "https://ameera.republika.co.id/berita/sm1tyd425/dokumen-internal-hybe-terungkap-ke-publik-apa-saja-isinya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:32:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Peringati Sumpah Pemuda, Pelajar Gelar Upacara Bendera di Kali Cisadane",
       "link_berita": "https://visual.republika.co.id/berita/sm1tra375/peringati-sumpah-pemuda-pelajar-gelar-upacara-bendera-di-kali-cisadane",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:28:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Afsel akan Serahkan Bukti Forensik Genosida Israel ke Mahkamah Internasional",
       "link_berita": "https://khazanah.republika.co.id/berita/sm1tpq366/afsel-akan-serahkan-bukti-forensik-genosida-israel-ke-mahkamah-internasional",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:27:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Aksi Muda Jaga Iklim 2024: Puluhan Ribu Pemuda Indonesia Bersatu Melawan Krisis Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/sm1tlk416/aksi-muda-jaga-iklim-2024-puluhan-ribu-pemuda-indonesia-bersatu-melawan-krisis-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:25:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Program Pemberdayaan BRI dorong Klaster Usaha Manggis di Bali Perluas Jaringan Pemasaran",
       "link_berita": "https://ekonomi.republika.co.id/berita/sm1t9n370/program-pemberdayaan-bri-dorong-klaster-usaha-manggis-di-bali-perluas-jaringan-pemasaran",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Mesir Usul Gencatan Senjata Sementara di Gaza Palestina untuk Pertukaran Sandera",
       "link_berita": "https://khazanah.republika.co.id/berita/sm1muz451/mesir-usul-gencatan-senjata-sementara-di-gaza-palestina-untuk-pertukaran-sandera",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 04:29:09"
     },
     {
       "judul": "Google Kembangkan Project Jarvis, AI yang Bisa Disuruh Beli Produk dan Pesan Tiket Pesawat",
       "link_berita": "https://ameera.republika.co.id/berita/sm1sb7425/google-kembangkan-project-jarvis-ai-yang-bisa-disuruh-beli-produk-dan-pesan-tiket-pesawat",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 04:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "Cara Kemenag Bolmong Wujudkan Masjid Ramah Anak",
       "link_berita": "https://khazanah.republika.co.id/berita/sm1rvg366/cara-kemenag-bolmong-wujudkan-masjid-ramah-anak",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "Sembilan Mahasiswa UNM Lolos Program Digitalent Kominfo",
       "link_berita": "https://news.republika.co.id/berita/sm1rrp370/sembilan-mahasiswa-unm-lolos-program-digitalent-kominfo",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "Juara Indonesia International Challenge 2024, Rahmat/Yere Bersiap di Super 100",
       "link_berita": "https://badmintonews.id/posts/484644/juara-indonesia-international-challenge-2024-rahmat-yere-bersiap-di-super-100",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "LPS Tanggapi Keinginan Pemerintah Indonesia Bergabung dengan BRICS",
       "link_berita": "https://rejogja.republika.co.id/berita/sm1qsz291/lps-tanggapi-keinginan-pemerintah-indonesia-bergabung-dengan-brics",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "Tayang di Bioskop, Venom 3 Dianggap 'Loyo' Dibandingkan Film Pertama dan Kedua",
       "link_berita": "https://ameera.republika.co.id/berita/sm1qoo425/tayang-di-bioskop-venom-3-dianggap-loyo-dibandingkan-film-pertama-dan-kedua",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "BDS Serukan Boikot TV Arab Jadi Corong Israel, Ini Daftarnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sm1q4k366/bds-serukan-boikot-tv-arab-jadi-corong-israel-ini-daftarnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "Apakah Hamas akan Kalah? Begini Penjelasan Tokoh Senior Kelompok Tersebut",
       "link_berita": "https://khazanah.republika.co.id/berita/sm1mog451/apakah-hamas-akan-kalah-begini-penjelasan-tokoh-senior-kelompok-tersebut",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 03:29:09"
     },
     {
       "judul": "Palestina Serahkan Bukti Penggunaan Fosfor Putih Oleh Israel ke ICC",
       "link_berita": "https://news.republika.co.id/berita/sm1pau370/palestina-serahkan-bukti-penggunaan-fosfor-putih-oleh-israel-ke-icc",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 03:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Dokumen Internal Hybe Bocor, Ada Rencana Mau 'Nyingkirin' NewJeans?",
       "link_berita": "https://ameera.republika.co.id/berita/sm1p7h425/dokumen-internal-hybe-bocor-ada-rencana-mau-nyingkirin-newjeans",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Kritik terhadap Kebijakan Zonasi Pendidikan di Indonesia",
       "link_berita": "https://retizen.republika.co.id/posts/484615/kritik-terhadap-kebijakan-zonasi-pendidikan-di-indonesia",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Sumpah Pemuda: Pemuda Penggerak Teknologi",
       "link_berita": "https://retizen.republika.co.id/posts/484628/sumpah-pemuda-pemuda-penggerak-teknologi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Peran Pemuda dalam Mewujudkan Indonesia Emas 2045",
       "link_berita": "https://retizen.republika.co.id/posts/484630/peran-pemuda-dalam-mewujudkan-indonesia-emas-2045",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Pengawasan Partisipatif Pilkada 2024",
       "link_berita": "https://retizen.republika.co.id/posts/484632/pengawasan-partisipatif-pilkada-2024",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Cerita Penyidik Jampidsus Temukan Uang Hampir Rp 1 Triliun di Rumah Zaroh",
       "link_berita": "https://tv.republika.co.id/berita/sm1ov6467/cerita-penyidik-jampidsus-temukan-uang-hampir-rp-1-triliun-di-rumah-zaroh",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Ini Penyebab Koran Bintang Timoer Sepelekan Kongres Pemuda yang Hasilkan Sumpah Pemuda",
       "link_berita": "https://oohya.republika.co.id/posts/484629/ini-penyebab-koran-bintang-timoer-sepelekan-kongres-pemuda-yang-hasilkan-sumpah-pemuda",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Serial Netflix 'Liam Payne Building the Band' Ditunda",
       "link_berita": "https://impresiupdate.id/posts/484621/serial-netflix-liam-payne-building-the-band-ditunda",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
       "judul": "Teknik Laser Baru Ungkap Rahasia Kuantum Air yang Tersembunyi",
       "link_berita": "https://impresiupdate.id/posts/484622/teknik-laser-baru-ungkap-rahasia-kuantum-air-yang-tersembunyi",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 02:29:09"
     },
     {
-      "judul": "Ilmuwan Mengembangkan Plester Listrik Kecil Untuk Melawan Infeksi Kulit Tanpa Obat",
-      "link_berita": "https://impresiupdate.id/posts/484625/ilmuwan-mengembangkan-plester-listrik-kecil-untuk-melawan-infeksi-kulit-tanpa-obat",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
+      "judul": "Tuai Kontroversi, Bandara Incheon Korea Batalkan Rencana Pintu Khusus Artis",
+      "link_berita": "https://ameera.republika.co.id/berita/sm1xie425/tuai-kontroversi-bandara-incheon-korea-batalkan-rencana-pintu-khusus-artis",
+      "kategori": "Happening",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 12:49:00"
     },
     {
-      "judul": "Harga Emas Antam Senin Turun Rp 7.000 Jadi Rp 1,527 Juta per Gram",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sm1om4370/harga-emas-antam-senin-turun-rp-7000-jadi-rp-1527-juta-per-gram",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "Mahasiswa Prodi Sistem Informasi Berhasil Lolos Program Magang di Kementrian ATR/BPN",
-      "link_berita": "https://news.republika.co.id/berita/sm1ntl370/mahasiswa-prodi-sistem-informasi-berhasil-lolos-program-magang-di-kementrian-atrbpn",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "Pemberdayaan Konten Lokal Melalui SnackVillage",
-      "link_berita": "https://ameera.republika.co.id/berita/sm1nnq370/pemberdayaan-konten-lokal-melalui-snackvillage",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "Ini Daftar 16 Tim yang Lolos ke Putaran Final Piala Asia U-17, Indonesia Salah Satunya",
-      "link_berita": "https://news.republika.co.id/berita/sm1mzi348/ini-daftar-16-tim-yang-lolos-ke-putaran-final-piala-asia-u17-indonesia-salah-satunya",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "Komitmen Tingkatkan Pelayanan untuk Jamaah Umroh, Begini Penjelasannya",
-      "link_berita": "https://khazanah.republika.co.id/berita/sm1b36451/komitmen-tingkatkan-pelayanan-untuk-jamaah-umroh-begini-penjelasannya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "DPRD Provinsi Jawa Barat Gelar Rapat Paripurna Pandangan Umum Fraksi atas 3 Ranperda",
-      "link_berita": "https://rejabar.republika.co.id/berita/sm1muf370/dprd-provinsi-jawa-barat-gelar-rapat-paripurna-pandangan-umum-fraksi-atas-3-ranperda",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "Program Deradikalisasi Napiter di Lapas Surabaya Terus Diperkuat",
-      "link_berita": "https://rejogja.republika.co.id/berita/sm1k76291/program-deradikalisasi-napiter-di-lapas-surabaya-terus-diperkuat",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 02:20:10"
-    },
-    {
-      "judul": "Lokasi dan Jadwal SIM Keliling di Jakarta, Senin 28 Oktober 2024",
-      "link_berita": "https://news.republika.co.id/berita/sm1m72366/lokasi-dan-jadwal-sim-keliling-di-jakarta-senin-28-oktober-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Slot Masih Tolak Status Liverpool Sebagai Penantang Gelar Juara Usai Imbang Lawan Arsenal",
-      "link_berita": "https://news.republika.co.id/berita/sm1m22348/slot-masih-tolak-status-liverpool-sebagai-penantang-gelar-juara-usai-imbang-lawan-arsenal",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Apakah Sumpah Pemuda Jadi Berita Utama di Koran-Koran Masa Itu?",
-      "link_berita": "https://oohya.republika.co.id/posts/484611/apakah-sumpah-pemuda-jadi-berita-utama-di-koran-koran-masa-itu",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Berkunjung dan Ziarah ke Masjid Faisal di Islamabad Pakistan",
-      "link_berita": "https://topnews62.com/posts/484614/berkunjung-dan-ziarah-ke-masjid-faisal-di-islamabad-pakistan",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Adab di Medsos tak Terkait Tinggi Rendah Pendidikan Seseorang",
-      "link_berita": "https://magentatoday.id/posts/484566/adab-di-medsos-tak-terkait-tinggi-rendah-pendidikan-seseorang",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Kronologi Lengkap BEM FISIP Unair Dibekukan Usai Singgung Prabowo-Gibran dan Jokowi",
-      "link_berita": "https://news.republika.co.id/berita/sm1l47484/kronologi-lengkap-bem-fisip-unair-dibekukan-usai-singgung-prabowogibran-dan-jokowi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "KPU Jabar Mulai Distribusikan Surat Suara ke Lima Kabupaten/Kota",
-      "link_berita": "https://rejabar.republika.co.id/berita/sm1kv6512/kpu-jabar-mulai-distribusikan-surat-suara-ke-lima-kabupatenkota",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Upayakan Green Energy, Universitas AKPRIND Kembangkan Instalasi BIOSAM dan Bio-Slurry",
-      "link_berita": "https://rejogja.republika.co.id/berita/sm0j96291/upayakan-green-energy-universitas-akprind-kembangkan-instalasi-biosam-dan-bioslurry",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Mari Berbahasa Satu, Bahasa Indonesia",
-      "link_berita": "https://analisis.republika.co.id/berita/sm1k4y318/mari-berbahasa-satu-bahasa-indonesia",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 01:20:10"
-    },
-    {
-      "judul": "Tips Agar Baterai iPhone Awet dan Enggak Gampang Bocor",
-      "link_berita": "https://ameera.republika.co.id/berita/sm1usk425/tips-agar-baterai-iphone-awet-dan-enggak-gampang-bocor",
-      "kategori": "Tekno",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 11:50:00"
-    },
-    {
-      "judul": "Aksi Muda Jaga Iklim 2024: Puluhan Ribu Pemuda Indonesia Bersatu Melawan Krisis Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/sm1tlk416/aksi-muda-jaga-iklim-2024-puluhan-ribu-pemuda-indonesia-bersatu-melawan-krisis-iklim",
+      "judul": "BRICS Dorong Aksi untuk Atasi Kekeringan dan Degradasi Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/sm1w0h416/brics-dorong-aksi-untuk-atasi-kekeringan-dan-degradasi-lingkungan",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 11:24:00"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 13:00:00"
     },
     {
-      "judul": "Biznet Festival Bali 2024, Perpaduan Musik, Teknologi dan Hiburan untuk Masyarakat Bali",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sm1u72370/biznet-festival-bali-2024-perpaduan-musik-teknologi-dan-hiburan-untuk-masyarakat-bali",
+      "judul": "PR Menteri Pariwisata Lindungi 40 Juta Masyarakat Pariwisata Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sm1z0j423/pr-menteri-pariwisata-lindungi-40-juta-masyarakat-pariwisata-indonesia",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 11:37:00"
+      "tanggal_terbit": "Monday, 28 Oct 2024, 13:21:00"
     },
     {
       "judul": "OJK Terbitkan Tiga Pedoman Produk Perbankan Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 27 Oct 2024, 22:05:00"
     },
     {
-      "judul": "Semua Timnas Indonesia Lolos Piala Asia. Erick Thohir, Bukti Level Kita Sudah Naik",
-      "link_berita": "https://news.republika.co.id/berita/sm1udu348/semua-timnas-indonesia-lolos-piala-asia-erick-thohir-bukti-level-kita-sudah-naik",
-      "kategori": "Sport",
-      "tanggal_terbit": "Monday, 28 Oct 2024, 11:41:00"
+      "judul": "Pramuka KJRI Davao City Gelar Perkemahan",
+      "link_berita": "https://news.republika.co.id/berita/sm1yzp451/pramuka-kjri-davao-city-gelar-perkemahan",
+      "kategori": "Pendidikan",
+      "tanggal_terbit": "Monday, 28 Oct 2024, 13:21:00"
     }
   ],
-  "waktu_scraping": "Monday, 28 Oct 2024, 12:20:10"
+  "waktu_scraping": "Monday, 28 Oct 2024, 13:29:09"
 }
