@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "BYD Rekrut 200.000 Karyawan untuk Tingkatkan Produksi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smd57s468/byd-rekrut-200000-karyawan-untuk-tingkatkan-produksi"
+    },
+    {
       "judul": "Prabowo Ungkap Ketika Diundang Cina, AS Ikut Undang Juga",
       "link_berita": "https://news.republika.co.id/berita/smd12b484/prabowo-ungkap-ketika-diundang-cina-as-ikut-undang-juga"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Eks Anak Buahnya Ditangkap Polisi di Kasus Buka Blokir Judi Online, Ini Respons Budi Arie",
       "link_berita": "https://news.republika.co.id/berita/smcplr409/eks-anak-buahnya-ditangkap-polisi-di-kasus-buka-blokir-judi-online-ini-respons-budi-arie"
-    },
-    {
-      "judul": "Wapres Gibran Tanggapi Kasus Perusakan Kafe di Solo",
-      "link_berita": "https://news.republika.co.id/berita/smcj4t451/wapres-gibran-tanggapi-kasus-perusakan-kafe-di-solo"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "UAH: Judi Menghambat Kebahagiaan",
+      "link_berita": "https://khazanah.republika.co.id/berita/smd7c5458/uah-judi-menghambat-kebahagiaan"
+    },
+    {
+      "judul": "Menlu Rusia: Rusia - AS Berada di Tubir Pertikaian Langsung",
+      "link_berita": "https://news.republika.co.id/berita/smd3nq475/menlu-rusia-rusia-as-berada-di-tubir-pertikaian-langsung"
+    },
     {
       "judul": "Sambut Hari Belanja Nasional, E-Commerce Berlomba Tingkatkan Kualitas Layanan",
       "link_berita": "https://ekonomi.republika.co.id/berita/smd192370/sambut-hari-belanja-nasional-ecommerce-berlomba-tingkatkan-kualitas-layanan"
@@ -73,316 +81,308 @@
     {
       "judul": "Utusan Palestina: Israel Sedang Lancarkan Perang Terbuka terhadap PBB",
       "link_berita": "https://khazanah.republika.co.id/berita/smbicv483/utusan-palestina-israel-sedang-lancarkan-perang-terbuka-terhadap-pbb"
-    },
-    {
-      "judul": "Mobil Jenderal Israel Terbalik d Lebanon",
-      "link_berita": "https://news.republika.co.id/berita/smbdnp393/mobil-jenderal-israel-terbalik-d-lebanon"
-    },
-    {
-      "judul": "Helikopter TNI AD Mendarat Darurat di Blora, Ini Penjelasan Kodam IV Diponegoro",
-      "link_berita": "https://news.republika.co.id/berita/smbbyc487/helikopter-tni-ad-mendarat-darurat-di-blora-ini-penjelasan-kodam-iv-diponegoro"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Prakiraan Cuaca Besok 4 November 2024: Kota Semarang Cerah Berawan",
+      "link_berita": "https://news.republika.co.id/berita/smd860604805944/prakiraan-cuaca-besok-4-november-2024-kota-semarang-cerah-berawan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 4 November 2024: Daerah Tangerang dan Cilegon",
+      "link_berita": "https://news.republika.co.id/berita/smd7kj1826283264/prakiraan-cuaca-besok-4-november-2024-daerah-tangerang-dan-cilegon",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Universitas BSI-SMK Negeri 1 Teluk Batang Kembangkan IoT untuk Pertanian Modern",
+      "link_berita": "https://news.republika.co.id/berita/smd7kc370/universitas-bsismk-negeri-1-teluk-batang-kembangkan-iot-untuk-pertanian-modern",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "KKP Gandeng Yayasan Konservasi Kebut Implementasi Ekonomi Biru",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smcys5416/kkp-gandeng-yayasan-konservasi-kebut-implementasi-ekonomi-biru",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "UAH: Judi Menghambat Kebahagiaan",
+      "link_berita": "https://khazanah.republika.co.id/berita/smd7c5458/uah-judi-menghambat-kebahagiaan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 4 November 2024 di Bandung dan Garut",
+      "link_berita": "https://news.republika.co.id/berita/smd7ac1229134660/prakiraan-cuaca-besok-4-november-2024-di-bandung-dan-garut",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 4 November 2024 untuk Daerah Kota Jakarta dan Sekitarnya: Hujan Ringan di Jakarta Selatan 4 November 2024",
+      "link_berita": "https://news.republika.co.id/berita/smd70d64703204/prakiraan-cuaca-besok-4-november-2024-untuk-daerah-kota-jakarta-dan-sekitarnya-hujan-ringan-di-jakarta-selatan-4-november-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Bahas KUR, UU Ciptaker, Hingga Tiket Pesawat, Airlangga cs Gelar Rakortas di Hari Libur",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smd6uf475/bahas-kur-uu-ciptaker-hingga-tiket-pesawat-airlangga-cs-gelar-rakortas-di-hari-libur",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "The Fed Diprediksi akan Pangkas Suku Bunga 25 Bps pada Minggu Depan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smd6kw370/the-fed-diprediksi-akan-pangkas-suku-bunga-25-bps-pada-minggu-depan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Ridwan Kamil Didukung Prabowo dan Jokowi pada Pilgub DKI 2024",
+      "link_berita": "https://news.republika.co.id/berita/smd6g3484/ridwan-kamil-didukung-prabowo-dan-jokowi-pada-pilgub-dki-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 4 November 2024 untuk Bekasi dan Sekitarnya, Karawang: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/smd66c1224997811/prakiraan-cuaca-besok-4-november-2024-untuk-bekasi-dan-sekitarnya-karawang-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Baznas dan BSI Luncurkan Green Zakat Framework",
+      "link_berita": "https://esgnow.republika.co.id/berita/smcxfa416/baznas-dan-bsi-luncurkan-green-zakat-framework",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
+      "judul": "Wamen: Pembelajaran Saintek dan Matematika Mesti Menyenangkan Siswa",
+      "link_berita": "https://news.republika.co.id/berita/smd5u5458/wamen-pembelajaran-saintek-dan-matematika-mesti-menyenangkan-siswa",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
+    },
+    {
       "judul": "BYD Rekrut 200.000 Karyawan untuk Tingkatkan Produksi",
       "link_berita": "https://ekonomi.republika.co.id/berita/smd57s468/byd-rekrut-200000-karyawan-untuk-tingkatkan-produksi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Presiden AS Pilihan Diaspora Indonesia",
       "link_berita": "https://tv.republika.co.id/berita/smd540418/presiden-as-pilihan-diaspora-indonesia",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Azerbaijan akan Luncurkan Pedoman Pendanaan Iklim Terpadu",
       "link_berita": "https://esgnow.republika.co.id/berita/smcx76416/azerbaijan-akan-luncurkan-pedoman-pendanaan-iklim-terpadu",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Presiden Prabowo Sahkan UU Kerja Sama Pertahanan Lima Negara",
       "link_berita": "https://news.republika.co.id/berita/smd2o8484/presiden-prabowo-sahkan-uu-kerja-sama-pertahanan-lima-negara",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
-      "judul": "Perlu Jihat Berjamaah untuk Melawan Judi Online",
-      "link_berita": "https://news.republika.co.id/berita/smd3kl318/perlu-jihat-berjamaah-untuk-melawan-judi-online",
+      "judul": "Perlu Jihad Berjamaah untuk Melawan Judi Online",
+      "link_berita": "https://news.republika.co.id/berita/smd3kl318/perlu-jihad-berjamaah-untuk-melawan-judi-online",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Menlu Rusia: Rusia - AS Berada di Tubir Pertikaian Langsung",
       "link_berita": "https://news.republika.co.id/berita/smd3nq475/menlu-rusia-rusia-as-berada-di-tubir-pertikaian-langsung",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
-      "judul": "Rosan Sebut GSN Pererat Persaturan Rakyat Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/smd3kk484/rosan-sebut-gsn-pererat-persaturan-rakyat-indonesia",
+      "judul": "Rosan Sebut GSN Pererat Persatuan Rakyat Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/smd3kk484/rosan-sebut-gsn-pererat-persatuan-rakyat-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "UNM Buka Pintu S3 Informatika, Saatnya Jadi Doktor, Bukan Hanya Ahli Teori",
       "link_berita": "https://news.republika.co.id/berita/smd2w9370/unm-buka-pintu-s3-informatika-saatnya-jadi-doktor-bukan-hanya-ahli-teori",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Kata Pakar Hukum Tata Negara Soal Pencalonan Aditya-Said di Banjarbaru",
       "link_berita": "https://news.republika.co.id/berita/smcukj451/kata-pakar-hukum-tata-negara-soal-pencalonan-adityasaid-di-banjarbaru",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Pameran Kendaraan Digelar di Wilayah Priangan, Bapenda Jabar Siapkan Diskon",
       "link_berita": "https://rejabar.republika.co.id/berita/smd2ik512/pameran-kendaraan-digelar-di-wilayah-priangan-bapenda-jabar-siapkan-diskon",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Ilham Habibie Nilai Jabar Bisa Jadi Pusat Kemajuan Teknologi",
       "link_berita": "https://rejabar.republika.co.id/berita/smd2h0282/ilham-habibie-nilai-jabar-bisa-jadi-pusat-kemajuan-teknologi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Sambut Hari Belanja Nasional, E-Commerce Berlomba Tingkatkan Kualitas Layanan",
       "link_berita": "https://ekonomi.republika.co.id/berita/smd192370/sambut-hari-belanja-nasional-ecommerce-berlomba-tingkatkan-kualitas-layanan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Kendaraan Rusak Tertimpa Pohon Tumbang di Bandung Bisa Ajukan Ganti Rugi, Ini Syaratnya",
       "link_berita": "https://rejabar.republika.co.id/berita/smd15e512/kendaraan-rusak-tertimpa-pohon-tumbang-di-bandung-bisa-ajukan-ganti-rugi-ini-syaratnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Prabowo Ungkap Ketika Diundang Cina, AS Ikut Undang Juga",
       "link_berita": "https://news.republika.co.id/berita/smd12b484/prabowo-ungkap-ketika-diundang-cina-as-ikut-undang-juga",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Hamas dan Fatah Berembuk di Kairo Bahas Pembentukan Komite Pemerintahan Gaza",
       "link_berita": "https://news.republika.co.id/berita/smcxvo409/hamas-dan-fatah-berembuk-di-kairo-bahas-pembentukan-komite-pemerintahan-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Majelis Masyayikh Tekankan Perlindungan bagi Lulusan Pesantren",
       "link_berita": "https://news.republika.co.id/berita/smd0nf456/majelis-masyayikh-tekankan-perlindungan-bagi-lulusan-pesantren",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "UNIFIL Bantah Terlibat dalam Penculikan Kapten Laut Lebanon oleh IDF",
       "link_berita": "https://news.republika.co.id/berita/smcwqc409/unifil-bantah-terlibat-dalam-penculikan-kapten-laut-lebanon-oleh-idf",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Unik, Duo Bebek Raksasa Dipamerkan di Mal Festlink Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/smczke512/unik-duo-bebek-raksasa-dipamerkan-di-mal-festlink-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Ridwan Kamil Minta Restu Jokowi, Hasto: Itu Menunjukkan Mentalitas Kalah",
       "link_berita": "https://news.republika.co.id/berita/smcxbt409/ridwan-kamil-minta-restu-jokowi-hasto-itu-menunjukkan-mentalitas-kalah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Pendekatan ini Diyakini Bank Indonesia Dongkrak Kualitas UMKM",
       "link_berita": "https://news.republika.co.id/berita/smcr7b451/pendekatan-ini-diyakini-bank-indonesia-dongkrak-kualitas-umkm",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Gagal Kalahkan Hizbullah di Lebanon Selatan, Israel akan Hentikan Serangan Darat",
       "link_berita": "https://news.republika.co.id/berita/smcyky377/gagal-kalahkan-hizbullah-di-lebanon-selatan-israel-akan-hentikan-serangan-darat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Ahmad Syaikhu Ajak Masyarakat Bangkitkan Budaya Sunda, Lewat Lagu Pepeling",
       "link_berita": "https://rejabar.republika.co.id/berita/smcyek512/ahmad-syaikhu-ajak-masyarakat-bangkitkan-budaya-sunda-lewat-lagu-pepeling",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Jumlah Wartawan Terbunuh di Gaza Lebih dari Dua Kali Lipat Rata-Rata Global",
       "link_berita": "https://news.republika.co.id/berita/smcwy9409/jumlah-wartawan-terbunuh-di-gaza-lebih-dari-dua-kali-lipat-ratarata-global",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Tingkatkan Angka Wisausahawan Muda, Prudential Gelar NextGen Fest",
       "link_berita": "https://ekonomi.republika.co.id/berita/smcw3m370/tingkatkan-angka-wisausahawan-muda-prudential-gelar-nextgen-fest",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Di Inggris, Mahasiswa Palestina Bela Negaranya, Begini Nasibnya Sekarang",
       "link_berita": "https://khazanah.republika.co.id/berita/smcs9v451/di-inggris-mahasiswa-palestina-bela-negaranya-begini-nasibnya-sekarang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Ini Elektabilitas Dedi-Erwan dan Ahmad Syaikhu-Ilham Habibie Menurut Survei Dua Lembaga",
       "link_berita": "https://news.republika.co.id/berita/smcxnq409/ini-elektabilitas-dedierwan-dan-ahmad-syaikhuilham-habibie-menurut-survei-dua-lembaga",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "DKPP Periksa Kandungan Anggur Shine Muscat yang Dijual di Kota Bandung, Ini Hasilnya",
       "link_berita": "https://rejabar.republika.co.id/berita/smcx9x512/dkpp-periksa-kandungan-anggur-shine-muscat-yang-dijual-di-kota-bandung-ini-hasilnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Lokasi di Indonesia Ini Diminati Sutradara Asing untuk Syuting Film",
       "link_berita": "https://ameera.republika.co.id/berita/smcvuo370/lokasi-di-indonesia-ini-diminati-sutradara-asing-untuk-syuting-film",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Sopir Truk Kontainer yang Viral Tabrak 16 Kendaraan di Tangerang Jadi Tersangka",
       "link_berita": "https://news.republika.co.id/berita/smcwl0409/sopir-truk-kontainer-yang-viral-tabrak-16-kendaraan-di-tangerang-jadi-tersangka",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Gibran Ajak Keluarga Melarisi UMKM di Solo",
       "link_berita": "https://rejogja.republika.co.id/berita/smcr0x451/gibran-ajak-keluarga-melarisi-umkm-di-solo",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Hamas Nilai Usulan Gencatan Senjata di Gaza Hanya Tipu Daya Israel",
       "link_berita": "https://news.republika.co.id/berita/smcw38409/hamas-nilai-usulan-gencatan-senjata-di-gaza-hanya-tipu-daya-israel",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Whoosh akan Tambah Jumlah Armada Jadi 62 KA per Hari pada Awal 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/smcv91370/whoosh-akan-tambah-jumlah-armada-jadi-62-ka-per-hari-pada-awal-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "PP Syarikat Islam dan LAZ Syarikat Islam Siap Gelar Jumat Berkah se-Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/smcu6c451/pp-syarikat-islam-dan-laz-syarikat-islam-siap-gelar-jumat-berkah-seindonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Jumlah Penumpang Terus Naik, Whoosh akan Tambah Jumlah Perjalanan Jadi 62 Kali per Hari",
       "link_berita": "https://rejabar.republika.co.id/berita/smcvd5282/jumlah-penumpang-terus-naik-whoosh-akan-tambah-jumlah-perjalanan-jadi-62-kali-per-hari",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Seberapa Berhasil Program Kehamilan Melalui Bayi Tabung?",
       "link_berita": "https://ameera.republika.co.id/berita/smctz4370/seberapa-berhasil-program-kehamilan-melalui-bayi-tabung",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Sederet Fakta Rumah Sakit Indonesia di Jalur Gaza Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/smcs30451/sederet-fakta-rumah-sakit-indonesia-di-jalur-gaza-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Warga Pegambiran Tolak Alih Fungsi Gudang jadi Gereja",
       "link_berita": "https://rejabar.republika.co.id/berita/smcufu512/warga-pegambiran-tolak-alih-fungsi-gudang-jadi-gereja",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Rusia Tuduh Ukraina Sabotase Pertukaran Tawanan Perang untuk Show Politik",
-      "link_berita": "https://news.republika.co.id/berita/smcu3j409/rusia-tuduh-ukraina-sabotase-pertukaran-tawanan-perang-untuk-show-politik",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "BRI Insurance Sabet Indonesia Best General Insurance 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smctdn370/bri-insurance-sabet-indonesia-best-general-insurance-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Tiga Pati Kemenhan Promosi Jabat Kasetpres, Sesmilpres, dan Danseskoad",
-      "link_berita": "https://news.republika.co.id/berita/smctua484/tiga-pati-kemenhan-promosi-jabat-kasetpres-sesmilpres-dan-danseskoad",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "AI dan Masa Depan Pendidikan",
-      "link_berita": "https://analisis.republika.co.id/berita/smcju7451/ai-dan-masa-depan-pendidikan",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Dukung Swasembada Pangan, Bapanas Dorong Penggunaan Bibit Padi Unggul",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smcswe370/dukung-swasembada-pangan-bapanas-dorong-penggunaan-bibit-padi-unggul",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Amerika Tegas Minta Satu Hal ini ke Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/smcsnh451/amerika-tegas-minta-satu-hal-ini-ke-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Dirut BEI Sebut Ada Tiga Perusahaan Mercusuar akan IPO pada Akhir 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smcs05370/dirut-bei-sebut-ada-tiga-perusahaan-mercusuar-akan-ipo-pada-akhir-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Sebagian Besar Wilayah RI Berpotensi Diguyur Hujan, Ini Rincian Daerahnya Menurut BMKG",
-      "link_berita": "https://news.republika.co.id/berita/smcrns409/sebagian-besar-wilayah-ri-berpotensi-diguyur-hujan-ini-rincian-daerahnya-menurut-bmkg",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Kata PBNU Soal Peredaran Miras yang Kian Marak",
-      "link_berita": "https://khazanah.republika.co.id/berita/smcjnk451/kata-pbnu-soal-peredaran-miras-yang-kian-marak",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Pohon Tumbang di Bandung Timpa Empat Mobil dan Lukai Tiga Orang",
-      "link_berita": "https://rejabar.republika.co.id/berita/smcq77370/pohon-tumbang-di-bandung-timpa-empat-mobil-dan-lukai-tiga-orang",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Gunawan Sadbor Ditahan di Mapolres Sukabumi, Ini Alasan Penahanannya Menurut Polisi",
-      "link_berita": "https://news.republika.co.id/berita/smcqex409/gunawan-sadbor-ditahan-di-mapolres-sukabumi-ini-alasan-penahanannya-menurut-polisi",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Garuda Indonesia Terbang dari Halim Perdanakusuma Bisa Pilih Kursi Gratis, Ini Syaratnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smcpr2370/garuda-indonesia-terbang-dari-halim-perdanakusuma-bisa-pilih-kursi-gratis-ini-syaratnya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
-    },
-    {
-      "judul": "Eks Anak Buahnya Ditangkap Polisi di Kasus Buka Blokir Judi Online, Ini Respons Budi Arie",
-      "link_berita": "https://news.republika.co.id/berita/smcplr409/eks-anak-buahnya-ditangkap-polisi-di-kasus-buka-blokir-judi-online-ini-respons-budi-arie",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 07:17:46"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 08:22:26"
     },
     {
       "judul": "Seberapa Berhasil Program Kehamilan Melalui Bayi Tabung?",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Friday, 01 Nov 2024, 17:04:00"
     },
     {
-      "judul": "BYD Rekrut 200.000 Karyawan untuk Tingkatkan Produksi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smd57s468/byd-rekrut-200000-karyawan-untuk-tingkatkan-produksi",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 14:09:00"
+      "judul": "Bahas KUR, UU Ciptaker, Hingga Tiket Pesawat, Airlangga cs Gelar Rakortas di Hari Libur",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smd6uf475/bahas-kur-uu-ciptaker-hingga-tiket-pesawat-airlangga-cs-gelar-rakortas-di-hari-libur",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 14:44:00"
     },
     {
       "judul": "Indonesia Raih Destinasi Ramah Muslim Terbaik 2024, Pariwisata Halal Semakin Berkembang",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 02 Nov 2024, 23:53:00"
     },
     {
-      "judul": "Presiden Prabowo Sahkan UU Kerja Sama Pertahanan Lima Negara",
-      "link_berita": "https://news.republika.co.id/berita/smd2o8484/presiden-prabowo-sahkan-uu-kerja-sama-pertahanan-lima-negara",
+      "judul": "Prakiraan Cuaca Besok 4 November 2024: Daerah Tangerang dan Cilegon",
+      "link_berita": "https://news.republika.co.id/berita/smd7kj1826283264/prakiraan-cuaca-besok-4-november-2024-daerah-tangerang-dan-cilegon",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 03 Nov 2024, 13:57:00"
+      "tanggal_terbit": "Sunday, 03 Nov 2024, 15:00:00"
     }
   ],
-  "waktu_scraping": "Sunday, 03 Nov 2024, 14:17:46"
+  "waktu_scraping": "Sunday, 03 Nov 2024, 15:22:26"
 }
