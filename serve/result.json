@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Teheran Nyatakan Hasil Pilpres AS tidak Penting Buat Iran",
+      "link_berita": "https://news.republika.co.id/berita/smj5yz487/teheran-nyatakan-hasil-pilpres-as-tidak-penting-buat-iran"
+    },
+    {
       "judul": "Sudah Siapkan Tenda, Peluncuran Danantara Batal Digelar Besok",
       "link_berita": "https://ekonomi.republika.co.id/berita/smj5kl502/sudah-siapkan-tenda-peluncuran-danantara-batal-digelar-besok"
     },
@@ -15,16 +19,16 @@
     {
       "judul": "BREAKING NEWS: Menang! Donald Trump Terpilih Jadi Presiden AS",
       "link_berita": "https://news.republika.co.id/berita/smiv27377/breaking-news-menang-donald-trump-terpilih-jadi-presiden-as"
-    },
-    {
-      "judul": "UMP Jakarta 2025 Dipastikan Naik, Berapa Kenaikannya? Ini Kata Kepala Dinas Tenaga Kerja",
-      "link_berita": "https://news.republika.co.id/berita/smivyx487/ump-jakarta-2025-dipastikan-naik-berapa-kenaikannya-ini-kata-kepala-dinas-tenaga-kerja"
     }
   ],
   "berita_unggulan": [
     {
-      "judul": "Bareskrim Umumkan Mantan Direktur Umum PT Pertamina Tersangka Korupsi",
-      "link_berita": "https://news.republika.co.id/berita/smj3hi487/bareskrim-umumkan-mantan-direktur-umum-pt-pertamina-tersangka-korupsi"
+      "judul": "Terjaganya Nabi Muhammad dari Dosa",
+      "link_berita": "https://khazanah.republika.co.id/berita/smj683430/terjaganya-nabi-muhammad-dari-dosa"
+    },
+    {
+      "judul": "Pertamina Hormati Proses Hukum oleh Bareskrim Polri Terhadap Direktur Umum 2012-2014",
+      "link_berita": "https://news.republika.co.id/berita/smj3hi487/pertamina-hormati-proses-hukum-oleh-bareskrim-polri-terhadap-direktur-umum-20122014"
     },
     {
       "judul": "Baguan, Model Perkiraan Cuaca Canggih yang Baru Diluncurkan Alibaba",
@@ -77,312 +81,308 @@
     {
       "judul": "Penjualan iPhone 16 Dilarang di Indonesia, Senjata Ampuh Tarik Investasi?",
       "link_berita": "https://ameera.republika.co.id/berita/smibnw425/penjualan-iphone-16-dilarang-di-indonesia-senjata-ampuh-tarik-investasi"
-    },
-    {
-      "judul": "Polda Maluku Copot Perwira Pelaku Pemukulan Sopir Taksi Daring",
-      "link_berita": "https://news.republika.co.id/berita/smi94t484/polda-maluku-copot-perwira-pelaku-pemukulan-sopir-taksi-daring"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "BWI Ajak Mahasiswa Berwakaf sehingga Berkontribusi Bangun Peradaban",
+      "link_berita": "https://khazanah.republika.co.id/berita/smj3iu451/bwi-ajak-mahasiswa-berwakaf-sehingga-berkontribusi-bangun-peradaban",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 14:16:07"
+    },
+    {
+      "judul": "Persija Kalahkan Madura United 4-1, Naik ke Posisi Kelima Klasemen BRI Liga 1",
+      "link_berita": "https://news.republika.co.id/berita/smj8wv348/persija-kalahkan-madura-united-41-naik-ke-posisi-kelima-klasemen-bri-liga-1",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 14:15:07"
+    },
+    {
+      "judul": "Mengapa Harus Sholat di Maqam Ibrahim?",
+      "link_berita": "https://khazanah.republika.co.id/berita/smj8tw430/mengapa-harus-sholat-di-maqam-ibrahim",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 14:13:07"
+    },
+    {
+      "judul": "Pelaku UMKM Tekstil Dinilai Masih Bisa Terus Bersaing dan Berkembang",
+      "link_berita": "https://rejabar.republika.co.id/berita/smj8rl512/pelaku-umkm-tekstil-dinilai-masih-bisa-terus-bersaing-dan-berkembang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 14:12:07"
+    },
+    {
+      "judul": "FKDT: Program Kang DS Terbukti Maslahat Bagi Masyarakat Kabupaten Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/smj8li423/fkdt-program-kang-ds-terbukti-maslahat-bagi-masyarakat-kabupaten-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 14:08:07"
+    },
+    {
+      "judul": "Kereta Bandara Internasional Adi Soemarmo Solo Kini Sampai Madiun",
+      "link_berita": "https://kreta.id/posts/486087/kereta-bandara-internasional-adi-soemarmo-solo-kini-sampai-madiun",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 14:05:07"
+    },
+    {
+      "judul": "Meski Hanya Seri Lawan Lille, Thiago Motta Sudah Puas dengan Penampilan Juventus",
+      "link_berita": "https://news.republika.co.id/berita/smj7xw348/meski-hanya-seri-lawan-lille-thiago-motta-sudah-puas-dengan-penampilan-juventus",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:54:07"
+    },
+    {
+      "judul": "Induk BTM akan Selenggarakan Muhammadiyah Microfinance Summit III 2024",
+      "link_berita": "https://sharia.republika.co.id/berita/smj7wk349/induk-btm-akan-selenggarakan-muhammadiyah-microfinance-summit-iii-2024",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:53:07"
+    },
+    {
+      "judul": "Ketua Komisi XII DPR Dorong Terobosan Teknologi untuk Tingkatkan Lifting Migas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smj7w4320/ketua-komisi-xii-dpr-dorong-terobosan-teknologi-untuk-tingkatkan-lifting-migas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:53:07"
+    },
+    {
+      "judul": "Mahasiswa UMJ Boyong Lima Piala Festival Pemuda Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/smj7p1423/mahasiswa-umj-boyong-lima-piala-festival-pemuda-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:48:07"
+    },
+    {
+      "judul": "Sekolah BM 400 Cibubur Luncurkan Program International Baccalaureate Tahun Depan",
+      "link_berita": "https://news.republika.co.id/berita/smj7mi348/sekolah-bm-400-cibubur-luncurkan-program-international-baccalaureate-tahun-depan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:47:07"
+    },
+    {
+      "judul": "Polda Metro Jaya Cari Dua DPO Kasus Judi Online yang Libatkan Oknum Komdigi",
+      "link_berita": "https://news.republika.co.id/berita/smj7ki487/polda-metro-jaya-cari-dua-dpo-kasus-judi-online-yang-libatkan-oknum-komdigi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:46:07"
+    },
+    {
+      "judul": "Tingkatkan Kompetensi Jurnalis, Dewan Pers Apresiasi BRI Fellowship Journalism 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smj7av423/tingkatkan-kompetensi-jurnalis-dewan-pers-apresiasi-bri-fellowship-journalism-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:40:07"
+    },
+    {
+      "judul": "Wamenkeu: Jangan FOMO, Fokus pada Kebutuhan Finansial, Bukan Tren!",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smj758423/wamenkeu-jangan-fomo-fokus-pada-kebutuhan-finansial-bukan-tren",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:37:07"
+    },
+    {
+      "judul": "Soal Isu Bulog di Bawah Presiden, Menko Zulhas dan Mentan Arman Beri Tanggapan Begini",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smj71z430/soal-isu-bulog-di-bawah-presiden-menko-zulhas-dan-mentan-arman-beri-tanggapan-begini",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:35:07"
+    },
+    {
+      "judul": "'Diperlukan Kurikulum Adaptif Agar Pendidikan Tinggi Eksis'",
+      "link_berita": "https://rejogja.republika.co.id/berita/smj71h291/diperlukan-kurikulum-adaptif-agar-pendidikan-tinggi-eksis",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:34:07"
+    },
+    {
+      "judul": "Senyum di Balik Kacamata",
+      "link_berita": "https://retizen.republika.co.id/posts/486082/senyum-di-balik-kacamata",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:32:07"
+    },
+    {
+      "judul": "Babak 1: Diwarnai Dua Penalti, Persija Ungguli Madura United 2-1",
+      "link_berita": "https://news.republika.co.id/berita/smj6v3348/babak-1-diwarnai-dua-penalti-persija-ungguli-madura-united-21",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:31:07"
+    },
+    {
+      "judul": "Manfaatkan Sistem Informasi Geospasial, Pemkot Surabaya Raih Predikat Emas dari BIG",
+      "link_berita": "https://news.republika.co.id/berita/smj6mi291/manfaatkan-sistem-informasi-geospasial-pemkot-surabaya-raih-predikat-emas-dari-big",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:25:07"
+    },
+    {
       "judul": "Larangan Membunuh dalam Ajaran Islam",
       "link_berita": "https://iqra.republika.co.id/berita/smj6jf430/larangan-membunuh-dalam-ajaran-islam",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:24:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:24:07"
     },
     {
       "judul": "Terjaganya Nabi Muhammad dari Dosa",
       "link_berita": "https://khazanah.republika.co.id/berita/smj683430/terjaganya-nabi-muhammad-dari-dosa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:17:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Teheran Nyatakan Hasil Pilpres AS tidak Penting Buat Iran",
       "link_berita": "https://news.republika.co.id/berita/smj5yz487/teheran-nyatakan-hasil-pilpres-as-tidak-penting-buat-iran",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:11:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
-      "judul": "Herry IP Rencanakan Empas Ganda Campuran Pelapis di Pelatnas Naik Kelas",
-      "link_berita": "https://news.republika.co.id/berita/smj5ul348/herry-ip-rencanakan-empas-ganda-campuran-pelapis-di-pelatnas-naik-kelas",
+      "judul": "Herry IP Rencanakan Empat Ganda Campuran Pelapis di Pelatnas Naik Kelas",
+      "link_berita": "https://news.republika.co.id/berita/smj5ul348/herry-ip-rencanakan-empat-ganda-campuran-pelapis-di-pelatnas-naik-kelas",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:09:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Jawaban Menko Yusril Atas Tuduhan Boyamin Saiman Soal Status Tersangka Sisminbakum",
       "link_berita": "https://news.republika.co.id/berita/smj5os377/jawaban-menko-yusril-atas-tuduhan-boyamin-saiman-soal-status-tersangka-sisminbakum",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:05:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Prabowo Hapus Utang Petani, KTNA Indramayu : Harus Selektif, Jangan Asal Ngaku Petani",
       "link_berita": "https://rejabar.republika.co.id/berita/smj5or512/prabowo-hapus-utang-petani-ktna-indramayu-harus-selektif-jangan-asal-ngaku-petani",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:05:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Sudah Siapkan Tenda, Peluncuran Danantara Batal Digelar Besok",
       "link_berita": "https://ekonomi.republika.co.id/berita/smj5kl502/sudah-siapkan-tenda-peluncuran-danantara-batal-digelar-besok",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:03:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Berapa Kali Imam Ahmad bin Hanbal Naik Haji?",
       "link_berita": "https://khazanah.republika.co.id/berita/smj5ic430/berapa-kali-imam-ahmad-bin-hanbal-naik-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:01:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Presiden Prabowo Terima Kunjungan Kenegaraan PM Singapura",
       "link_berita": "https://visual.republika.co.id/berita/smj5ht375/presiden-prabowo-terima-kunjungan-kenegaraan-pm-singapura",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:01:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Prabowo Hapus Utang Macet Nelayan, HNSI Indramayu Tunggu Penjelasan Teknis",
       "link_berita": "https://rejabar.republika.co.id/berita/smj57c512/prabowo-hapus-utang-macet-nelayan-hnsi-indramayu-tunggu-penjelasan-teknis",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:55:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Versi QS Asia Ranking, UI Tak Tergoyahkan di Posisi 1 di Indonesia Selama 5 Tahun Berturut-turut",
       "link_berita": "https://ruzkaindonesia.id/posts/486057/versi-qs-asia-ranking-ui-tak-tergoyahkan-di-posisi-1-di-indonesia-selama-5-tahun-berturut-turut",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:54:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Komisi III DPR RI Puji Prestasi Bareskrim Bongkar Jaringan Narkoba Internasional, Sita 2 Ton Narkoba",
       "link_berita": "https://ruzkaindonesia.id/posts/486060/komisi-iii-dpr-ri-puji-prestasi-bareskrim-bongkar-jaringan-narkoba-internasional-sita-2-ton-narkoba",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:54:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Pj Gubernur Jabar Kunjungi Lokasi Banjir di Sukabumi",
       "link_berita": "https://sukabumikini.com/posts/486075/pj-gubernur-jabar-kunjungi-lokasi-banjir-di-sukabumi",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:52:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Prabowo Dipastikan Lanjutkan Proses Capim dan Dewas KPK, tak akan Kaji Ulang",
       "link_berita": "https://news.republika.co.id/berita/smj51t487/prabowo-dipastikan-lanjutkan-proses-capim-dan-dewas-kpk-tak-akan-kaji-ulang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:51:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 13:18:07"
     },
     {
       "judul": "Ketika Guru tak Lagi Dihargai",
       "link_berita": "https://retizen.republika.co.id/posts/486045/ketika-guru-tak-lagi-dihargai",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:47:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "DPRD Kota Bandung Optimistis Perubahan Nama Perumda Tirtawening Bisa Tingkatkan Pelayanan",
       "link_berita": "https://rejabar.republika.co.id/berita/smj4ty512/dprd-kota-bandung-optimistis-perubahan-nama-perumda-tirtawening-bisa-tingkatkan-pelayanan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:47:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Korupsi Menggerogoti Negeri: Penegakan Hukum yang Pincang",
       "link_berita": "https://retizen.republika.co.id/posts/486049/korupsi-menggerogoti-negeri-penegakan-hukum-yang-pincang",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:46:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Dianggap Memihak, Jokowi Membuka Diri untuk Semua Calon di Pilkada yang Ingin Bertemu",
       "link_berita": "https://rejogja.republika.co.id/berita/smj4sj282/dianggap-memihak-jokowi-membuka-diri-untuk-semua-calon-di-pilkada-yang-ingin-bertemu",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:46:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Desainer: Kita Optimistis Busana Syari Masih Disukai Masyarakat",
       "link_berita": "https://khazanah.republika.co.id/berita/smj3fj451/desainer-kita-optimistis-busana-syari-masih-disukai-masyarakat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:45:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Serba-serbi Pilpres AS: Suara Elektoral dan Kekhawatiran Internasional",
       "link_berita": "https://news.republika.co.id/berita/smj4b3487/serbaserbi-pilpres-as-suara-elektoral-dan-kekhawatiran-internasional",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:40:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Dukung Usulan Uji Materi UU Zakat Oleh Lazismu, Indonesia Zakat Watch Soroti 3 Isu Utama",
       "link_berita": "https://khazanah.republika.co.id/berita/smj4b6320/dukung-usulan-uji-materi-uu-zakat-oleh-lazismu-indonesia-zakat-watch-soroti-3-isu-utama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:35:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Program ini Diyakini Dongkrak Literasi Keuangan Syariah",
       "link_berita": "https://khazanah.republika.co.id/berita/smj3b5451/program-ini-diyakini-dongkrak-literasi-keuangan-syariah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:30:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Forum Guru Mengaji Berharap Pemkot Bandung Lebih Memperhatikan Kesejahteraan Mereka",
       "link_berita": "https://rejabar.republika.co.id/berita/smj40k512/forum-guru-mengaji-berharap-pemkot-bandung-lebih-memperhatikan-kesejahteraan-mereka",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:29:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Para Pemimpin Dunia Beri Ucapan Selamat kepada Donald Trump, Termasuk Benjamin Netanyahu",
       "link_berita": "https://news.republika.co.id/berita/smj3wh487/para-pemimpin-dunia-beri-ucapan-selamat-kepada-donald-trump-termasuk-benjamin-netanyahu",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:27:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Aliansi Pesantren dan Ajengan Jabar Dukung KDM, Siap Laporkan Pelaku Politik SARA",
       "link_berita": "https://rejabar.republika.co.id/berita/smj3j8512/aliansi-pesantren-dan-ajengan-jabar-dukung-kdm-siap-laporkan-pelaku-politik-sara",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
-      "judul": "Bareskrim Umumkan Mantan Direktur Umum PT Pertamina Tersangka Korupsi",
-      "link_berita": "https://news.republika.co.id/berita/smj3hi487/bareskrim-umumkan-mantan-direktur-umum-pt-pertamina-tersangka-korupsi",
+      "judul": "Pertamina Hormati Proses Hukum oleh Bareskrim Polri Terhadap Direktur Umum 2012-2014",
+      "link_berita": "https://news.republika.co.id/berita/smj3hi487/pertamina-hormati-proses-hukum-oleh-bareskrim-polri-terhadap-direktur-umum-20122014",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Terus Merugi, Produsen Mobil Listrik China Neta Dikabarkan Stop Produksi",
       "link_berita": "https://ekonomi.republika.co.id/berita/smj3dc468/terus-merugi-produsen-mobil-listrik-china-neta-dikabarkan-stop-produksi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "BWI Dorong Kampus-Kampus Jadi Nadzir Wakaf Uang",
       "link_berita": "https://khazanah.republika.co.id/berita/smj37a430/bwi-dorong-kampuskampus-jadi-nadzir-wakaf-uang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Museum Kekejaman Zionis-Israel",
       "link_berita": "https://retizen.republika.co.id/posts/486058/museum-kekejaman-zionis-israel",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "FKUB: Qanun Syariat Islam Inspirasi Toleransi Beragama di Aceh",
       "link_berita": "https://khazanah.republika.co.id/berita/smj31h451/fkub-qanun-syariat-islam-inspirasi-toleransi-beragama-di-aceh",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Minuman Surga Disebutkan Alquran, Disukai Rasulullah SAW, dan Berkhasiat Secara Medis",
       "link_berita": "https://iqra.republika.co.id/berita/smj2v9320/minuman-surga-disebutkan-alquran-disukai-rasulullah-saw-dan-berkhasiat-secara-medis",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
-    },
-    {
-      "judul": "Pemerintah Didorong Segera Buat Peta Jalan Pensiun Dini PLTU Batu Bara",
-      "link_berita": "https://esgnow.republika.co.id/berita/smiyrx416/pemerintah-didorong-segera-buat-peta-jalan-pensiun-dini-pltu-batu-bara",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:25:02"
-    },
-    {
-      "judul": "Dukung Perkembangan Ekonomi Syariah, Quran Cordoba Kembali Terlibat di ISEF 2024",
-      "link_berita": "https://khazanah.republika.co.id/berita/smj2bk349/dukung-perkembangan-ekonomi-syariah-quran-cordoba-kembali-terlibat-di-isef-2024",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Indonesia Zakat Watch: Usulan Pembenahan UU Zakat Sangat Tepat",
-      "link_berita": "https://khazanah.republika.co.id/berita/smj1u9366/indonesia-zakat-watch-usulan-pembenahan-uu-zakat-sangat-tepat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Survei Litbang Kompas Pilgub Jateng: Andika Perkasa Unggul Tipis dari Luthfi-Gus Yasin",
-      "link_berita": "https://rejogja.republika.co.id/berita/smj1qa282/survei-litbang-kompas-pilgub-jateng-andika-perkasa-unggul-tipis-dari-luthfigus-yasin",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Kemenkeu Terbitkan PMK 78/2024 Sederhanakan Aturan Bea Meterai",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smj1mp423/kemenkeu-terbitkan-pmk-782024-sederhanakan-aturan-bea-meterai",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Menanti Bukti Komitmen Besar Pemerintah Atasi Judi Online",
-      "link_berita": "https://analisis.republika.co.id/berita/smj1ds320/menanti-bukti-komitmen-besar-pemerintah-atasi-judi-online",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Cegah Kekerasan Perempuan dan Anak, Pemkot-Kemenag Tangsel Susun Buku Nasihat Tokoh Agama",
-      "link_berita": "https://news.republika.co.id/berita/smio7h451/cegah-kekerasan-perempuan-dan-anak-pemkotkemenag-tangsel-susun-buku-nasihat-tokoh-agama",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 7 November 2024 Daerah Kota Padang dan Sekitarnya: Udara Kabur",
-      "link_berita": "https://news.republika.co.id/berita/smj18u1445032522/prakiraan-cuaca-besok-7-november-2024-daerah-kota-padang-dan-sekitarnya-udara-kabur",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Pengamat: Penghapusan Piutang Macet UMKM Adalah Kebijakan yang Tepat, Tapi...",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smj180423/pengamatpenghapusan-piutang-macet-umkm-adalah-kebijakan-yang-tepat-tapi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Apple Disebut Bakal Investasi di Bandung, Pj Gubernur Jabar: Belum Ada Detailnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smj0rr490/apple-disebut-bakal-investasi-di-bandung-pj-gubernur-jabar-belum-ada-detailnya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Zulhas: PP Penghapusan Piutang Bukti Presiden Berpihak pada UMKM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smj0qm423/zulhas-pp-penghapusan-piutang-bukti-presiden-berpihak-pada-umkm",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Istana: Prabowo Minta Aparat Penegak Hukum tak Ragu Tindak Tegas Kejahatan Judi Online",
-      "link_berita": "https://news.republika.co.id/berita/smj0m1409/istana-prabowo-minta-aparat-penegak-hukum-tak-ragu-tindak-tegas-kejahatan-judi-online",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Jual Ribuan Obat Terlarang, Mantan Pemain Timnas U-23 Ditangkap Polisi di Cianjur",
-      "link_berita": "https://rejabar.republika.co.id/berita/smj0kj282/jual-ribuan-obat-terlarang-mantan-pemain-timnas-u23-ditangkap-polisi-di-cianjur",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Badan Geologi Sebut Gunung Lewotobi Laki-Laki Masih Berpotensi Erupsi",
-      "link_berita": "https://news.republika.co.id/berita/smj0k0416/badan-geologi-sebut-gunung-lewotobi-lakilaki-masih-berpotensi-erupsi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Gelar Aksi di Balai Kota, Buruh Minta Upah Minimum DKI Jakarta 2025 Naik Jadi Rp6,5 Juta",
-      "link_berita": "https://news.republika.co.id/berita/smj0ck409/gelar-aksi-di-balai-kota-buruh-minta-upah-minimum-dki-jakarta-2025-naik-jadi-rp65-juta",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 7 November 2024 di Kota Banda Aceh dan Sekitarnya: Cerah Berawan",
-      "link_berita": "https://news.republika.co.id/berita/smj0a6504938735/prakiraan-cuaca-besok-7-november-2024-di-kota-banda-aceh-dan-sekitarnya-cerah-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Pengamat: RK dan Ahmad Luthfi Percaya dengan Bertemu Jokowi Bisa Dongkrak Elektabilitas",
-      "link_berita": "https://news.republika.co.id/berita/smj02e409/pengamat-rk-dan-ahmad-luthfi-percaya-dengan-bertemu-jokowi-bisa-dongkrak-elektabilitas",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Baguan, Model Perkiraan Cuaca Canggih yang Baru Diluncurkan Alibaba",
-      "link_berita": "https://ameera.republika.co.id/berita/smizxg425/baguan-model-perkiraan-cuaca-canggih-yang-baru-diluncurkan-alibaba",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
-    },
-    {
-      "judul": "Mengapa Dunia Islam Terdiam Saksikan Rakyat Palestina Dibantai Israel? ini Kata AWG",
-      "link_berita": "https://khazanah.republika.co.id/berita/smijtw451/mengapa-dunia-islam-terdiam-saksikan-rakyat-palestina-dibantai-israel-ini-kata-awg",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 11:25:02"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 12:18:07"
     },
     {
       "judul": "Baguan, Model Perkiraan Cuaca Canggih yang Baru Diluncurkan Alibaba",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Wednesday, 06 Nov 2024, 17:16:00"
     },
     {
-      "judul": "Sudah Siapkan Tenda, Peluncuran Danantara Batal Digelar Besok",
-      "link_berita": "https://ekonomi.republika.co.id/berita/smj5kl502/sudah-siapkan-tenda-peluncuran-danantara-batal-digelar-besok",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 20:02:00"
+      "judul": "Ketua Komisi XII DPR Dorong Terobosan Teknologi untuk Tingkatkan Lifting Migas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/smj7w4320/ketua-komisi-xii-dpr-dorong-terobosan-teknologi-untuk-tingkatkan-lifting-migas",
+      "kategori": "Energi",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 20:52:00"
     },
     {
-      "judul": "BSI Dukung Program Prabowo Soal Digitalisasi Pilar Utama Ekonomi",
-      "link_berita": "https://sharia.republika.co.id/berita/smgd7v490/bsi-dukung-program-prabowo-soal-digitalisasi-pilar-utama-ekonomi",
+      "judul": "Induk BTM akan Selenggarakan Muhammadiyah Microfinance Summit III 2024",
+      "link_berita": "https://sharia.republika.co.id/berita/smj7wk349/induk-btm-akan-selenggarakan-muhammadiyah-microfinance-summit-iii-2024",
       "kategori": "Keuangan Sharia",
-      "tanggal_terbit": "Tuesday, 05 Nov 2024, 07:55:00"
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 20:53:00"
     },
     {
-      "judul": "Teheran Nyatakan Hasil Pilpres AS tidak Penting Buat Iran",
-      "link_berita": "https://news.republika.co.id/berita/smj5yz487/teheran-nyatakan-hasil-pilpres-as-tidak-penting-buat-iran",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 06 Nov 2024, 20:11:00"
+      "judul": "Persija Kalahkan Madura United 4-1, Naik ke Posisi Kelima Klasemen BRI Liga 1",
+      "link_berita": "https://news.republika.co.id/berita/smj8wv348/persija-kalahkan-madura-united-41-naik-ke-posisi-kelima-klasemen-bri-liga-1",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 06 Nov 2024, 21:14:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 06 Nov 2024, 20:25:02"
+  "waktu_scraping": "Wednesday, 06 Nov 2024, 21:18:07"
 }
