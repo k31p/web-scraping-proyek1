@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Rusia-Ukraina Memanas, AS Tutup Kedubes di Kyiv",
+      "link_berita": "https://news.republika.co.id/berita/sn8qyx393/rusiaukraina-memanas-as-tutup-kedubes-di-kyiv"
+    },
+    {
       "judul": "Tinggalkan Brasil, Presiden Prabowo Terbang Menuju Inggris",
       "link_berita": "https://news.republika.co.id/berita/sn8oyz484/tinggalkan-brasil-presiden-prabowo-terbang-menuju-inggris"
     },
@@ -15,10 +19,6 @@
     {
       "judul": "Tim-tim Kuat Conmebol Masih di Zona Aman Lolos ke Piala Dunia 2026",
       "link_berita": "https://news.republika.co.id/berita/sn8j1f348/timtim-kuat-conmebol-masih-di-zona-aman-lolos-ke-piala-dunia-2026"
-    },
-    {
-      "judul": "Hasil Tes Psikologi, ITB Ungkap Ada Mahasiswa Baru Alami Masalah Kesehatan Mental Berat",
-      "link_berita": "https://rejabar.republika.co.id/berita/sn8gtn512/hasil-tes-psikologi-itb-ungkap-ada-mahasiswa-baru-alami-masalah-kesehatan-mental-berat"
     }
   ],
   "berita_unggulan": [
@@ -88,7 +88,115 @@
       "judul": "Pengumuman Tender Umum PERHUTANI",
       "link_berita": "https://www.republika.co.id/berita/sn708o325/pengumuman-tender-umum-perhutani",
       "kategori": "Native",
-      "tanggal_terbit": "Tuesday, 19 Nov 2024, 22:27:21"
+      "tanggal_terbit": "Tuesday, 19 Nov 2024, 22:21:59"
+    },
+    {
+      "judul": "Survei LSI: Andi Seto Berpeluang Salip Munafi di Pilwalkot Makassar",
+      "link_berita": "https://news.republika.co.id/berita/sn8sbt318/survei-lsi-andi-seto-berpeluang-salip-munafi-di-pilwalkot-makassar",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:18:59"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 21 November 2024: Kota Medan dan Sekitarnya - Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/sn8sk91864757184/prakiraan-cuaca-besok-21-november-2024-kota-medan-dan-sekitarnya-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:18:59"
+    },
+    {
+      "judul": "Anies Belum Ucapkan Dukungan Resmi, Pramono: Tunggu Satu Dua Hari Lagi",
+      "link_berita": "https://news.republika.co.id/berita/sn8sf6484/anies-belum-ucapkan-dukungan-resmi-pramono-tunggu-satu-dua-hari-lagi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:15:59"
+    },
+    {
+      "judul": "Ekonom Bank Mandiri Optimistis Ekonomi Indonesia Tetap Solid di Tengah Dinamika Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sn8s46423/ekonom-bank-mandiri-optimistis-ekonomi-indonesia-tetap-solid-di-tengah-dinamika-global",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:09:59"
+    },
+    {
+      "judul": "Kumpul Lagi dengan Pramono-Rano, Anies Pose Tiga Jari",
+      "link_berita": "https://news.republika.co.id/berita/sn8s23377/kumpul-lagi-dengan-pramonorano-anies-pose-tiga-jari",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:07:59"
+    },
+    {
+      "judul": "Guru Besar Ekonomi UI Ungkap Dampak Dinamika Global Terhadap Kelas Menengah Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sn8s07490/guru-besar-ekonomi-ui-ungkap-dampak-dinamika-global-terhadap-kelas-menengah-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:06:59"
+    },
+    {
+      "judul": "Adhisty Zara dan Abun Sungkar tak Kesulitan Bangun Chemistry di Film Cinta Dalam Ikhlas",
+      "link_berita": "https://ameera.republika.co.id/berita/sn8rvi425/adhisty-zara-dan-abun-sungkar-tak-kesulitan-bangun-chemistry-di-film-cinta-dalam-ikhlas",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:04:59"
+    },
+    {
+      "judul": "Justin Hubner: Soal Kartu Merah Bagian dari Pekerjaan",
+      "link_berita": "https://news.republika.co.id/berita/sn8rux348/justin-hubner-soal-kartu-merah-bagian-dari-pekerjaan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 09:03:59"
+    },
+    {
+      "judul": "Menag Sampaikan Belasungkawa atas Musibah di Pesantren Yaspida",
+      "link_berita": "https://khazanah.republika.co.id/berita/sn8bwt451/menag-sampaikan-belasungkawa-atas-musibah-di-pesantren-yaspida",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:59:59"
+    },
+    {
+      "judul": "Harga Minyak Goreng Minyakita Ditemukan di Atas HET, Mendag Janji Temui Distributor",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sn8rjo490/harga-minyak-goreng-minyakita-ditemukan-di-atas-het-mendag-janji-temui-distributor",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:56:59"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok di Kota Surabaya dan Sekitarnya - 21 November 2024",
+      "link_berita": "https://news.republika.co.id/berita/sn8r6e930844431/prakiraan-cuaca-besok-di-kota-surabaya-dan-sekitarnya-21-november-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:48:59"
+    },
+    {
+      "judul": "Transaksi Pembayaran Melalui QRIS Tumbuh Hingga 183,9 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sn8r4i490/transaksi-pembayaran-melalui-qris-tumbuh-hingga-1839-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:47:59"
+    },
+    {
+      "judul": "Rusia-Ukraina Memanas, AS Tutup Kedubes di Kyiv",
+      "link_berita": "https://news.republika.co.id/berita/sn8qyx393/rusiaukraina-memanas-as-tutup-kedubes-di-kyiv",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:44:59"
+    },
+    {
+      "judul": "Hati-Hati Penipuan Berkedok Rekrutmen KCIC",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sn8qkt423/hatihati-penipuan-berkedok-rekrutmen-kcic",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:35:59"
+    },
+    {
+      "judul": "Bea Cukai dan Pemkab Probolinggo Ekspose Hasil Operasi Pemberantasan Rokok Ilegal",
+      "link_berita": "https://republika.co.id/berita/sn8oyo370/bea-cukai-dan-pemkab-probolinggo-ekspose-hasil-operasi-pemberantasan-rokok-ilegal",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:34:59"
+    },
+    {
+      "judul": "Geruduk Kantor Kejari Bandung, Korban Investasi Bodong DNA Pro Hampir Ricuh dengan Petugas",
+      "link_berita": "https://rejabar.republika.co.id/berita/sn8qfu512/geruduk-kantor-kejari-bandung-korban-investasi-bodong-dna-pro-hampir-ricuh-dengan-petugas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:33:59"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 21 November 2024 untuk Kota Yogyakarta dan Sekitarnya: Hujan Petir",
+      "link_berita": "https://news.republika.co.id/berita/sn8qc61634916360/prakiraan-cuaca-besok-21-november-2024-untuk-kota-yogyakarta-dan-sekitarnya-hujan-petir",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:30:59"
+    },
+    {
+      "judul": "Entrepreneur Fest, Ajang Kolaborasi Mahasiswa dan Pengusaha Muda di UNM",
+      "link_berita": "https://news.republika.co.id/berita/sn8q9c423/entrepreneur-fest-ajang-kolaborasi-mahasiswa-dan-pengusaha-muda-di-unm",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:29:59"
     },
     {
       "judul": "Sudaryono Instruksikan Pasukan Jangkrik Menangkan Luthfi-Taj Yasin",
@@ -100,301 +208,193 @@
       "judul": "Terkait Isu Perudungan pada Mahasiswa ITB yang Diduga Bunuh Diri, Ini Penjelasan Polisi",
       "link_berita": "https://rejabar.republika.co.id/berita/sn8pz5512/terkait-isu-perudungan-pada-mahasiswa-itb-yang-diduga-bunuh-diri-ini-penjelasan-polisi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:23:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:22:59"
     },
     {
       "judul": "Imam Budi Hartono: Pendidikan adalah Kunci Utama Kemajuan Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/sn8pwj423/imam-budi-hartono-pendidikan-adalah-kunci-utama-kemajuan-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:22:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Kekasih Selena Gomez Benny Blanco Bikin Heboh, Ngaku Nggak tak Setiap Hari Mandi",
       "link_berita": "https://ameera.republika.co.id/berita/sn8pjb425/kekasih-selena-gomez-benny-blanco-bikin-heboh-ngaku-nggak-tak-setiap-hari-mandi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:14:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Prakiraan Cuaca Besok 21 November 2024: Semarang Cerah Berawan",
       "link_berita": "https://news.republika.co.id/berita/sn8pi0711145134/prakiraan-cuaca-besok-21-november-2024-semarang-cerah-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:13:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Gubernur BI: Ekonomi Indonesia Terjaga, Prospek 2024 Positif",
       "link_berita": "https://ekonomi.republika.co.id/berita/sn8pdt416/gubernur-bi-ekonomi-indonesia-terjaga-prospek-2024-positif",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:10:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Didukung Shopee, Aerostreet x Wonderful Indonesia Pecahkan Rekor Penjualan dalam 10 Menit",
       "link_berita": "https://ekonomi.republika.co.id/berita/sn8pd7423/didukung-shopee-aerostreet-x-wonderful-indonesia-pecahkan-rekor-penjualan-dalam-10-menit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:10:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "BP Batam: Pengakhiran dan Pembatalan Alokasi Lahan Purajaya Sesuai Prosedur",
       "link_berita": "https://news.republika.co.id/berita/sn8olm370/bp-batam-pengakhiran-dan-pembatalan-alokasi-lahan-purajaya-sesuai-prosedur",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:10:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Paus Serukan Penyelidikan Tentukan Serangan Israel di Gaza adalah Genosida",
       "link_berita": "https://khazanah.republika.co.id/berita/sn8pbe366/paus-serukan-penyelidikan-tentukan-serangan-israel-di-gaza-adalah-genosida",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:09:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Wamenlu Anis Matta Apresiasi Lembaga Filantropi Bantu Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/sn8bly451/wamenlu-anis-matta-apresiasi-lembaga-filantropi-bantu-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:04:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Tinggalkan Brasil, Presiden Prabowo Terbang Menuju Inggris",
       "link_berita": "https://news.republika.co.id/berita/sn8oyz484/tinggalkan-brasil-presiden-prabowo-terbang-menuju-inggris",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:01:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Prakiraan Cuaca Besok, 21 November 2024 di Tangerang: Hujan Ringan Diperkirakan di Siang Hari",
       "link_berita": "https://news.republika.co.id/berita/sn8owd1851597165/prakiraan-cuaca-besok-21-november-2024-di-tangerang-hujan-ringan-diperkirakan-di-siang-hari",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:00:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Bank Indonesia Pertahankan Suku Bunga Acuan di 6 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sn8ou9370/bank-indonesia-pertahankan-suku-bunga-acuan-di-6-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:59:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Film Dokumenter 'Tangguh Atau Runtuh' Ciptakan Kesadaran tentang Kesejahteraan Anak",
       "link_berita": "https://rejogja.republika.co.id/berita/sn8osh291/film-dokumenter-tangguh-atau-runtuh-ciptakan-kesadaran-tentang-kesejahteraan-anak",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:58:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Bertemu di TMII, Jokowi Bisikin Para Putra Jawa untuk Dukung RK",
       "link_berita": "https://news.republika.co.id/berita/sn8oo8377/bertemu-di-tmii-jokowi-bisikin-para-putra-jawa-untuk-dukung-rk",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:55:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Ketergantungan Indonesia Terhadap Batu Bara Masih Tinggi",
       "link_berita": "https://esgnow.republika.co.id/berita/sn8on6416/ketergantungan-indonesia-terhadap-batu-bara-masih-tinggi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:54:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Prakiraan Cuaca Besok: Bandung dan Sekitarnya - 21 November 2024 | Cuaca Berawan",
       "link_berita": "https://news.republika.co.id/berita/sn8omm722046981/prakiraan-cuaca-besok-bandung-dan-sekitarnya-21-november-2024-cuaca-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:54:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Pendukung Sahrul Gunawan Berbondong-bondong Dukung Dadang Supriatna-Ali Syakieb",
       "link_berita": "https://rejabar.republika.co.id/berita/sn8oko423/pendukung-sahrul-gunawan-berbondongbondong-dukung-dadang-supriatnaali-syakieb",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:53:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 08:21:59"
     },
     {
       "judul": "Nasihat dan Doa untuk Mencegah Keinginan Bunuh Diri",
       "link_berita": "https://iqra.republika.co.id/berita/sn8ohp430/nasihat-dan-doa-untuk-mencegah-keinginan-bunuh-diri",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:51:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Dorong Laju Investasi di Ngawi, Bea Cukai Terbitkan Izin Fasilitas Kawasan Berikat",
       "link_berita": "https://republika.co.id/berita/sn8oes370/dorong-laju-investasi-di-ngawi-bea-cukai-terbitkan-izin-fasilitas-kawasan-berikat",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:49:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Ayah Nia Gadis Penjual Gorengan Kecam Kuburan Anaknya Jadi Lokasi Syuting Video Klip",
       "link_berita": "https://ameera.republika.co.id/berita/sn8ocy425/ayah-nia-gadis-penjual-gorengan-kecam-kuburan-anaknya-jadi-lokasi-syuting-video-klip",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:48:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Prakiraan Cuaca Besok 21 November 2024: Jakarta Utara Berawan",
       "link_berita": "https://news.republika.co.id/berita/sn8oci355823188/prakiraan-cuaca-besok-21-november-2024-jakarta-utara-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:48:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Bambang Brodjonegoro: Kelas Menengah Indonesia Tergerus oleh Biaya Hidup yang Melonjak",
       "link_berita": "https://ekonomi.republika.co.id/berita/sn8nys370/bambang-brodjonegoro-kelas-menengah-indonesia-tergerus-oleh-biaya-hidup-yang-melonjak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:40:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Harga Terus Naik, Ini Kiat Buat Generasi Muda Agar Bisa Punya Rumah",
       "link_berita": "https://ekonomi.republika.co.id/berita/sn8ny4423/harga-terus-naik-ini-kiat-buat-generasi-muda-agar-bisa-punya-rumah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:39:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Ini Makna Syubhat Dalam Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/sn8nxc458/ini-makna-syubhat-dalam-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:39:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Dirut PLN Sebut Harga Energi Terbarukan Semakin Terjangkau",
       "link_berita": "https://esgnow.republika.co.id/berita/sn8nug416/dirut-pln-sebut-harga-energi-terbarukan-semakin-terjangkau",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:37:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Prakiraan Cuaca Bekasi dan Sekitarnya 21 November 2024: Hujan Sedang di Bekasi",
       "link_berita": "https://news.republika.co.id/berita/sn8nih739687994/prakiraan-cuaca-bekasi-dan-sekitarnya-21-november-2024-hujan-sedang-di-bekasi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:30:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Polisi dan KAI Daop 4 Semarang Tangkap Pelaku Pelemparan KA di Tegal",
       "link_berita": "https://news.republika.co.id/berita/sn8cr3451/polisi-dan-kai-daop-4-semarang-tangkap-pelaku-pelemparan-ka-di-tegal",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:30:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Wujudkan Ketahanan Siber dengan Semangat Kepahlawanan dalam Seminar Cyber Freedom",
       "link_berita": "https://news.republika.co.id/berita/sn8na7370/wujudkan-ketahanan-siber-dengan-semangat-kepahlawanan-dalam-seminar-cyber-freedom",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Ditahan di Rutan Salemba, Tom Lembong Tetap Tersenyum karena Sang Istri",
       "link_berita": "https://news.republika.co.id/berita/sn8n7f484/ditahan-di-rutan-salemba-tom-lembong-tetap-tersenyum-karena-sang-istri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "OJK Harap Asuransi Barang Milik Negara Diperluas ke Aset Bergerak, Seperti Mobil Dinas",
       "link_berita": "https://ekonomi.republika.co.id/berita/sn8mt9370/ojk-harap-asuransi-barang-milik-negara-diperluas-ke-aset-bergerak-seperti-mobil-dinas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
       "judul": "Dua Laboran Umsida Lolos Program Kilab 2024, Inovasinya Permudah Pembelajaran",
       "link_berita": "https://rejogja.republika.co.id/berita/sn8mb7291/dua-laboran-umsida-lolos-program-kilab-2024-inovasinya-permudah-pembelajaran",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:21:59"
     },
     {
-      "judul": "Siap Buktikan Pernyataannya Bukan Hoaks, Said Didu Tolak Jalur Musyawarah dengan Apdesi",
-      "link_berita": "https://news.republika.co.id/berita/sn8m8i409/siap-buktikan-pernyataannya-bukan-hoaks-said-didu-tolak-jalur-musyawarah-dengan-apdesi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 21 November 2024 untuk Bogor dan Sekitarnya: Hujan di Depok",
-      "link_berita": "https://news.republika.co.id/berita/sn8m4t1998638601/prakiraan-cuaca-besok-21-november-2024-untuk-bogor-dan-sekitarnya-hujan-di-depok",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
-    },
-    {
-      "judul": "Wapres Gibran Semua Pihak Jaga Situasi Tetap Kondusif Jelang Pilkada 2024",
-      "link_berita": "https://news.republika.co.id/berita/sn89p6451/wapres-gibran-semua-pihak-jaga-situasi-tetap-kondusif-jelang-pilkada-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
-    },
-    {
-      "judul": "Wamenlu China, Iran, dan Saudi Bertemu, Sepakat dalam Hal Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/sn8m19430/wamenlu-china-iran-dan-saudi-bertemu-sepakat-dalam-hal-ini",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:27:21"
-    },
-    {
-      "judul": "Ini Fakta yang Ditemukan Polisi di Kasus Tewasnya Mahasiswa ITB Usai Loncat dari Apartemen",
-      "link_berita": "https://news.republika.co.id/berita/sn8ljn409/ini-fakta-yang-ditemukan-polisi-di-kasus-tewasnya-mahasiswa-itb-usai-loncat-dari-apartemen",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Tangis Malaikat Maut",
-      "link_berita": "https://khazanah.republika.co.id/berita/sn8ld6458/tangis-malaikat-maut",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Indonesia Ingin Gabung BRICS, Ini Respons AS",
-      "link_berita": "https://news.republika.co.id/berita/sn8l4c409/indonesia-ingin-gabung-brics-ini-respons-as",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Presiden Marcos Pastikan Terpidana Mati Narkoba Mary Jane Veloso Pulang ke Filipina",
-      "link_berita": "https://news.republika.co.id/berita/sn8kif409/presiden-marcos-pastikan-terpidana-mati-narkoba-mary-jane-veloso-pulang-ke-filipina",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Hakim Pertimbangkan Tom Lembong Dihadirkan di Sidang Praperadilan",
-      "link_berita": "https://news.republika.co.id/berita/sn8kcs409/hakim-pertimbangkan-tom-lembong-dihadirkan-di-sidang-praperadilan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Allah Sebaik-baik Penolong",
-      "link_berita": "https://khazanah.republika.co.id/berita/sn8k6w458/allah-sebaikbaik-penolong",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Bantah Bebaskan Terpidana Mati Mary Jane, Menko Yusril: Pemerintah Indonesia Mengembalikan",
-      "link_berita": "https://news.republika.co.id/berita/sn8k2t487/bantah-bebaskan-terpidana-mati-mary-jane-menko-yusril-pemerintah-indonesia-mengembalikan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Daftar Pelaut Muslim yang Sudah Tiba di Amerika Sebelum Columbus",
-      "link_berita": "https://khazanah.republika.co.id/berita/sn8jqs430/daftar-pelaut-muslim-yang-sudah-tiba-di-amerika-sebelum-columbus",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Indonesia Gabung BRICS, Dubes AS: Kami Menghargai",
-      "link_berita": "https://news.republika.co.id/berita/sn8jht377/indonesia-gabung-brics-dubes-as-kami-menghargai",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "ITB Temukan Mahasiswa Punya Masalah Kesehatan Mental Serius, yang Berat Dimonitor Khusus",
-      "link_berita": "https://news.republika.co.id/berita/sn8jie487/itb-temukan-mahasiswa-punya-masalah-kesehatan-mental-serius-yang-berat-dimonitor-khusus",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Helldy Agustian Ajak Berpolitik Sehat di Pilwakot Cilegon",
-      "link_berita": "https://news.republika.co.id/berita/sn8jfx318/helldy-agustian-ajak-berpolitik-sehat-di-pilwakot-cilegon",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Konflik Laut China Selatan, Dubes AS: Harus Sesuai UNCLOS",
-      "link_berita": "https://news.republika.co.id/berita/sn8jei484/konflik-laut-china-selatan-dubes-as-harus-sesuai-unclos",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Catat Efisiensi Biaya, SBMA Justru Raih Kenaikan Pendapatan Hingga Rp 97 Miliar di 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sn8jeh349/catat-efisiensi-biaya-sbma-justru-raih-kenaikan-pendapatan-hingga-rp-97-miliar-di-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Banyak Muslim Afrika Dijadikan Budak di Amerika",
-      "link_berita": "https://khazanah.republika.co.id/berita/sn8jb9430/banyak-muslim-afrika-dijadikan-budak-di-amerika",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 06:27:21"
-    },
-    {
-      "judul": "Kekasih Selena Gomez Benny Blanco Bikin Heboh, Ngaku Nggak tak Setiap Hari Mandi",
-      "link_berita": "https://ameera.republika.co.id/berita/sn8pjb425/kekasih-selena-gomez-benny-blanco-bikin-heboh-ngaku-nggak-tak-setiap-hari-mandi",
+      "judul": "Adhisty Zara dan Abun Sungkar tak Kesulitan Bangun Chemistry di Film Cinta Dalam Ikhlas",
+      "link_berita": "https://ameera.republika.co.id/berita/sn8rvi425/adhisty-zara-dan-abun-sungkar-tak-kesulitan-bangun-chemistry-di-film-cinta-dalam-ikhlas",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 15:13:00"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 16:04:00"
     },
     {
       "judul": "Ketergantungan Indonesia Terhadap Batu Bara Masih Tinggi",
@@ -403,10 +403,10 @@
       "tanggal_terbit": "Wednesday, 20 Nov 2024, 14:54:00"
     },
     {
-      "judul": "Gubernur BI: Ekonomi Indonesia Terjaga, Prospek 2024 Positif",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sn8pdt416/gubernur-bi-ekonomi-indonesia-terjaga-prospek-2024-positif",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 15:10:00"
+      "judul": "Ekonom Bank Mandiri Optimistis Ekonomi Indonesia Tetap Solid di Tengah Dinamika Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sn8s46423/ekonom-bank-mandiri-optimistis-ekonomi-indonesia-tetap-solid-di-tengah-dinamika-global",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 16:09:00"
     },
     {
       "judul": "Bank Mega Syariah Catat Pertumbuhan Aset 16 Persen",
@@ -415,11 +415,11 @@
       "tanggal_terbit": "Wednesday, 20 Nov 2024, 07:52:00"
     },
     {
-      "judul": "Sudaryono Instruksikan Pasukan Jangkrik Menangkan Luthfi-Taj Yasin",
-      "link_berita": "https://news.republika.co.id/berita/sn8q4z484/sudaryono-instruksikan-pasukan-jangkrik-menangkan-luthfitaj-yasin",
+      "judul": "Survei LSI: Andi Seto Berpeluang Salip Munafi di Pilwalkot Makassar",
+      "link_berita": "https://news.republika.co.id/berita/sn8sbt318/survei-lsi-andi-seto-berpeluang-salip-munafi-di-pilwalkot-makassar",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 20 Nov 2024, 15:26:00"
+      "tanggal_terbit": "Wednesday, 20 Nov 2024, 16:19:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 20 Nov 2024, 15:27:21"
+  "waktu_scraping": "Wednesday, 20 Nov 2024, 16:21:59"
 }
