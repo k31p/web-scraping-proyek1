@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "G7 Bahas Perintah ICC Tangkap Netanyahu dan Yoav Gallant",
+      "link_berita": "https://khazanah.republika.co.id/berita/sne085451/g7-bahas-perintah-icc-tangkap-netanyahu-dan-yoav-gallant"
+    },
+    {
       "judul": "Mega Batal Hadiri Kampanye Pramono-Rano, Hasto: Kita Lihat Intimidasi",
       "link_berita": "https://news.republika.co.id/berita/sne489484/mega-batal-hadiri-kampanye-pramonorano-hasto-kita-lihat-intimidasi"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Pilkada Serentak 2024, MUI Ingatkan Muslim Memilih Pemimpin Hukumnya Wajib",
       "link_berita": "https://khazanah.republika.co.id/berita/sndyf8366/pilkada-serentak-2024-mui-ingatkan-muslim-memilih-pemimpin-hukumnya-wajib"
-    },
-    {
-      "judul": "China Sebut Veto AS di DK PBB Terkait Gaza Tunjukkan Standar Ganda",
-      "link_berita": "https://news.republika.co.id/berita/sndtdt484/china-sebut-veto-as-di-dk-pbb-terkait-gaza-tunjukkan-standar-ganda"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Dharma-Kun Basuh Kaki Seorang Ibu dalam Kampanye Akbar",
+      "link_berita": "https://news.republika.co.id/berita/sne5vr377/dharmakun-basuh-kaki-seorang-ibu-dalam-kampanye-akbar"
+    },
+    {
+      "judul": "Foke tidak Ikhlas Jika Jakarta Dipimpin Orang yang tak Cocok",
+      "link_berita": "https://news.republika.co.id/berita/sne58t484/foke-tidak-ikhlas-jika-jakarta-dipimpin-orang-yang-tak-cocok"
+    },
     {
       "judul": "Pertarungan Pilgub Jakarta Sangat Ketat, Ini Elektabilitas Terbaru Hasil Survei Alvara",
       "link_berita": "https://news.republika.co.id/berita/sne2u5487/pertarungan-pilgub-jakarta-sangat-ketat-ini-elektabilitas-terbaru-hasil-survei-alvara"
@@ -73,316 +81,308 @@
     {
       "judul": "Janjikan Kejutan di Kampanye Terakhir Pramono-Rano, Cak Lontong: Saya Juga akan Terkejut",
       "link_berita": "https://news.republika.co.id/berita/sndp5q483/janjikan-kejutan-di-kampanye-terakhir-pramonorano-cak-lontong-saya-juga-akan-terkejut"
-    },
-    {
-      "judul": "Maruarar Sirait: Dukungan Anies ke Pramono, Bangunkan Macan Tidur Jokowi dan Prabowo",
-      "link_berita": "https://news.republika.co.id/berita/sndhhi377/maruarar-sirait-dukungan-anies-ke-pramono-bangunkan-macan-tidur-jokowi-dan-prabowo"
-    },
-    {
-      "judul": "Tak Mencoblos di Jakarta, Suswono Gunakan Hak Pilihnya di Bogor",
-      "link_berita": "https://news.republika.co.id/berita/sndgx4377/tak-mencoblos-di-jakarta-suswono-gunakan-hak-pilihnya-di-bogor"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bank bjb Terus Perkuat Bisnis, Kini Jadi BPD Pertama Penyimpan Dana Margin di Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/sne6ky423/bank-bjb-terus-perkuat-bisnis-kini-jadi-bpd-pertama-penyimpan-dana-margin-di-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "BSI FLASH 2025 Seru! Festival dan Liga Antarsekolah Tasikmalaya Bikin Semua Terpukau",
+      "link_berita": "https://news.republika.co.id/berita/sne65e423/bsi-flash-2025-seru-festival-dan-liga-antarsekolah-tasikmalaya-bikin-semua-terpukau",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok, 24 November 2024: Bogor dan Kota Depok",
+      "link_berita": "https://news.republika.co.id/berita/sne64l1531011891/prakiraan-cuaca-besok-24-november-2024-bogor-dan-kota-depok",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "G7 Bahas Perintah ICC Tangkap Netanyahu dan Yoav Gallant",
+      "link_berita": "https://khazanah.republika.co.id/berita/sne085451/g7-bahas-perintah-icc-tangkap-netanyahu-dan-yoav-gallant",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Dharma-Kun Basuh Kaki Seorang Ibu dalam Kampanye Akbar",
+      "link_berita": "https://news.republika.co.id/berita/sne5vr377/dharmakun-basuh-kaki-seorang-ibu-dalam-kampanye-akbar",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Banyak Pesaing Baru, BYD Optimistis Tetap Pimpin Pasar EV di Indoesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sne5ka468/banyak-pesaing-baru-byd-optimistis-tetap-pimpin-pasar-ev-di-indoesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Survei Alvara: Elektabilitas Khofifah-Emil Unggul Signifikan di Pilgub Jatim",
+      "link_berita": "https://news.republika.co.id/berita/sne3st487/survei-alvara-elektabilitas-khofifahemil-unggul-signifikan-di-pilgub-jatim",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Foke tidak Ikhlas Jika Jakarta Dipimpin Orang yang tak Cocok",
+      "link_berita": "https://news.republika.co.id/berita/sne58t484/foke-tidak-ikhlas-jika-jakarta-dipimpin-orang-yang-tak-cocok",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Indonesia Dukung ICC Keluarkan Penangkapan Netanyahu, Langkah Maju untuk Keadilan",
+      "link_berita": "https://news.republika.co.id/berita/sne56a377/indonesia-dukung-icc-keluarkan-penangkapan-netanyahu-langkah-maju-untuk-keadilan",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Didukung Empat Mantan Gubernur Jakarta, Hasto: Pramono Itu Merangkul",
+      "link_berita": "https://news.republika.co.id/berita/sne4uw484/didukung-empat-mantan-gubernur-jakarta-hasto-pramono-itu-merangkul",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
+      "judul": "Ini yang Ditawarkan Mobil China BAIC di Ajang Gaikindo Jakarta Auto Week 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sne4nd468/ini-yang-ditawarkan-mobil-china-baic-di-ajang-gaikindo-jakarta-auto-week-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
+    },
+    {
       "judul": "PLN Sabet Penghargaan CNBC Indonesia Communications Strategist Award 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sne4g1423/pln-sabet-penghargaan-cnbc-indonesia-communications-strategist-award-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Mega Batal Hadiri Kampanye Pramono-Rano, Hasto: Kita Lihat Intimidasi",
       "link_berita": "https://news.republika.co.id/berita/sne489484/mega-batal-hadiri-kampanye-pramonorano-hasto-kita-lihat-intimidasi",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Sustainability Bond Bank bjb Banjir Peminat, Oversubscribed Hampir 5 Kali Lipat",
       "link_berita": "https://news.republika.co.id/berita/sne47o423/sustainability-bond-bank-bjb-banjir-peminat-oversubscribed-hampir-5-kali-lipat",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Diamond Sense Hadir, Mitsubishi Xforce Ultimate DS Makin Canggih dan Aman",
       "link_berita": "https://ekonomi.republika.co.id/berita/sne467349/diamond-sense-hadir-mitsubishi-xforce-ultimate-ds-makin-canggih-dan-aman",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Perkenalkan Ini Mobil Listrik Terbaru Kia, EV3",
       "link_berita": "https://ekonomi.republika.co.id/berita/sne3n7468/perkenalkan-ini-mobil-listrik-terbaru-kia-ev3",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Pertarungan Pilgub Jakarta Sangat Ketat, Ini Elektabilitas Terbaru Hasil Survei Alvara",
       "link_berita": "https://news.republika.co.id/berita/sne2u5487/pertarungan-pilgub-jakarta-sangat-ketat-ini-elektabilitas-terbaru-hasil-survei-alvara",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Anies tak Hadiri Kampanye Akbar Pramono-Rano, Ahok Jawab Begini",
       "link_berita": "https://news.republika.co.id/berita/sne2hh484/anies-tak-hadiri-kampanye-akbar-pramonorano-ahok-jawab-begini",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Memanfaatkan Teknologi AI untuk Kurangi Sampah Makanan",
       "link_berita": "https://tv.republika.co.id/berita/sne076467/memanfaatkan-teknologi-ai-untuk-kurangi-sampah-makanan",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "RI Segera Realisasikan Investasi 8,5 Miliar Dolar AS dari Inggris",
       "link_berita": "https://ekonomi.republika.co.id/berita/sndzfr370/ri-segera-realisasikan-investasi-85-miliar-dolar-as-dari-inggris",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Cagub Pramono Ingatkan KPU Harus Adil, Yakin Menang Satu Putaran",
       "link_berita": "https://news.republika.co.id/berita/sne0zj484/cagub-pramono-ingatkan-kpu-harus-adil-yakin-menang-satu-putaran",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Prabowo Raih Komitmen Investasi 8,5 Miliar Dolar AS dari Roundtable Forum",
       "link_berita": "https://ekonomi.republika.co.id/berita/sndz2u370/prabowo-raih-komitmen-investasi-85-miliar-dolar-as-dari-roundtable-forum",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Marak Boikot Anti-Israel, Starbucks Tutup 50 Gerai di Malaysia",
       "link_berita": "https://news.republika.co.id/berita/sne0bm484/marak-boikot-antiisrael-starbucks-tutup-50-gerai-di-malaysia",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "ICC Perintahkan Tangkap Netanyahu, Begini Sikap Pemerintah Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/sne03x451/icc-perintahkan-tangkap-netanyahu-begini-sikap-pemerintah-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Jelang Natal dan Tahun Baru, Menag Ajak Masyarakat Ciptakan Situasi Kondusif",
       "link_berita": "https://news.republika.co.id/berita/sndz4t458/jelang-natal-dan-tahun-baru-menag-ajak-masyarakat-ciptakan-situasi-kondusif",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "BKPM: Perlu Investasi Rp 13.528 Triliun untuk Capai Ekonomi 8 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sndyxz370/bkpm-perlu-investasi-rp-13528-triliun-untuk-capai-ekonomi-8-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Ahok Hadir, Anies tak Muncul di Kampanye Akbar Pramono-Rano",
       "link_berita": "https://news.republika.co.id/berita/sndyv3484/ahok-hadir-anies-tak-muncul-di-kampanye-akbar-pramonorano",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Plastics & Rubber Indonesia 2024; Dorong Inovasi dan Keberlanjutan Industri",
       "link_berita": "https://republika.co.id/berita/sndytx456/plastics-dorong-inovasi-dan-keberlanjutan-industri",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "PKT Perkuat Komitmen Keberlanjutan lewat Inisiatif ESG",
       "link_berita": "https://esgnow.republika.co.id/berita/sndyno370/pkt-perkuat-komitmen-keberlanjutan-lewat-inisiatif-esg",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Pilkada Serentak 2024, MUI Ingatkan Muslim Memilih Pemimpin Hukumnya Wajib",
       "link_berita": "https://khazanah.republika.co.id/berita/sndyf8366/pilkada-serentak-2024-mui-ingatkan-muslim-memilih-pemimpin-hukumnya-wajib",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Menjadi Ulil Albab",
       "link_berita": "https://khazanah.republika.co.id/berita/sndyce458/menjadi-ulil-albab",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Jonatan dan Sabar/Reza Tantang Wakil Tuan Rumah di Semifinal China Masters",
       "link_berita": "https://news.republika.co.id/berita/sndyc2348/jonatan-dan-sabarreza-tantang-wakil-tuan-rumah-di-semifinal-china-masters",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Ini Reaksi AS dan UE Soal Surat Penangkapan ICC Atas Netanyahu",
       "link_berita": "https://tv.republika.co.id/berita/sndy3l467/ini-reaksi-as-dan-ue-soal-surat-penangkapan-icc-atas-netanyahu",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Jika para Pejabat Hanya Takut kepada Allah, Inilah yang akan Terjadi",
       "link_berita": "https://khazanah.republika.co.id/berita/sndy1e458/jika-para-pejabat-hanya-takut-kepada-allah-inilah-yang-akan-terjadi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Kisah Sudirman: Guru SD Menjadi Panglima Besar TNI",
       "link_berita": "https://khazanah.republika.co.id/berita/sndxa0458/kisah-sudirman-guru-sd-menjadi-panglima-besar-tni",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Kampanye Akbar di Lapangan Tabaci: Hidup Kun Fayakun, Lolos Satu Putaran!",
       "link_berita": "https://news.republika.co.id/berita/sndx93484/kampanye-akbar-di-lapangan-tabaci-hidup-kun-fayakun-lolos-satu-putaran",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Kemenkes Beri Pelatihan Penangnan Kardiovaskuler Bagi Perawat Vanuatu",
       "link_berita": "https://news.republika.co.id/berita/sndwk4484/kemenkes-beri-pelatihan-penangnan-kardiovaskuler-bagi-perawat-vanuatu",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Harga Emas Antam Sabtu, 23 November 2024 Melonjak Rp 21 Ribu Jadi Segini",
       "link_berita": "https://ekonomi.republika.co.id/berita/sndvqs366/harga-emas-antam-sabtu-23-november-2024-melonjak-rp-21-ribu-jadi-segini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "KKP Gandeng Singapura untuk Program Ekonomi Biru",
       "link_berita": "https://ekonomi.republika.co.id/berita/sndvmz483/kkp-gandeng-singapura-untuk-program-ekonomi-biru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Wamen Tiko Bawahi 24 Perusahaan dan Dony Oskaria 23 Pelat Merah",
       "link_berita": "https://news.republika.co.id/berita/sndv36484/wamen-tiko-bawahi-24-perusahaan-dan-dony-oskaria-23-pelat-merah",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "China Sebut Veto AS di DK PBB Terkait Gaza Tunjukkan Standar Ganda",
       "link_berita": "https://news.republika.co.id/berita/sndtdt484/china-sebut-veto-as-di-dk-pbb-terkait-gaza-tunjukkan-standar-ganda",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Jokowi Dijadwalkan Hadiri Kampanye Terakhir Pasangan RIDO, SBY Masih Tunggu Konfirmasi",
       "link_berita": "https://news.republika.co.id/berita/sndtbj483/jokowi-dijadwalkan-hadiri-kampanye-terakhir-pasangan-rido-sby-masih-tunggu-konfirmasi",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "China Perluas Kebijakan Bebas Visa, Indonesia tidak Termasuk",
       "link_berita": "https://news.republika.co.id/berita/sndsz8484/china-perluas-kebijakan-bebas-visa-indonesia-tidak-termasuk",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Klaim Patuhi Keputusan ICC, Beranikah Inggris Menangkap Netanyahu?",
       "link_berita": "https://news.republika.co.id/berita/sndsy8483/klaim-patuhi-keputusan-icc-beranikah-inggris-menangkap-netanyahu",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "ICC Perintahkan Tangkap Netanyahu, Lebanon: Keputusan Tunjukkan Kredibilitas Pengadilan",
       "link_berita": "https://khazanah.republika.co.id/berita/sndsei366/icc-perintahkan-tangkap-netanyahu-lebanon-keputusan-tunjukkan-kredibilitas-pengadilan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "MES Jabar Luncurkan Akademi Ekonomi Syariah",
       "link_berita": "https://sharia.republika.co.id/berita/snds0s483/mes-jabar-luncurkan-akademi-ekonomi-syariah",
       "kategori": "Sharia",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "PBB Minta Anggotanya Patuhi ICC Tangkap Netanyahu",
       "link_berita": "https://www.republika.id/posts/55683/pbb-minta-anggotanya-patuhi-icc-tangkap-netanyahu",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Jumlah Tentaranya Minimalis, Inggris Klaim Siap Perang Jika Rusia Invasi Eropa Timur",
       "link_berita": "https://news.republika.co.id/berita/sndre2483/jumlah-tentaranya-minimalis-inggris-klaim-siap-perang-jika-rusia-invasi-eropa-timur",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Menhub Prediksi Ada Pergerakan 110,67 Juta Orang pada Tahun Baru",
       "link_berita": "https://news.republika.co.id/berita/sncx1z483/menhub-prediksi-ada-pergerakan-11067-juta-orang-pada-tahun-baru",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "200 Pejuang Mati-Matian Pertahankan Jabalia",
       "link_berita": "https://www.republika.id/posts/55690/200-pejuang-mati-matian-pertahankan-jabalia",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Orang Yahudi Coba Suap Pria Muslim Ini, Sikapnya Jadi Teladan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sndqzl430/orang-yahudi-coba-suap-pria-muslim-ini-sikapnya-jadi-teladan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Vinfast Mulai Kirim Mobil Listrik VF 5 ke Konsumen Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sndq8u366/vinfast-mulai-kirim-mobil-listrik-vf-5-ke-konsumen-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "KAI Daop 6 Yogya Lakukan Ramp Check Antisipasi Lonjakan Penumpang di Nataru",
-      "link_berita": "https://rejogja.republika.co.id/berita/sndq2g483/kai-daop-6-yogya-lakukan-ramp-check-antisipasi-lonjakan-penumpang-di-nataru",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Hadiri NGO Fair, Pengurus MUI Soroti Sejarah Hubungan Nusantara dengan Turki Utsmani",
-      "link_berita": "https://khazanah.republika.co.id/berita/sndpr1483/hadiri-ngo-fair-pengurus-mui-soroti-sejarah-hubungan-nusantara-dengan-turki-utsmani",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Janjikan Kejutan di Kampanye Terakhir Pramono-Rano, Cak Lontong: Saya Juga akan Terkejut",
-      "link_berita": "https://news.republika.co.id/berita/sndp5q483/janjikan-kejutan-di-kampanye-terakhir-pramonorano-cak-lontong-saya-juga-akan-terkejut",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Silaturahmi Simpul Pemuda Demak, Konsisten Kawal Demokrasi Bersih dan Jujur di Jateng",
-      "link_berita": "https://rejogja.republika.co.id/berita/sndowi456/silaturahmi-simpul-pemuda-demak-konsisten-kawal-demokrasi-bersih-dan-jujur-di-jateng",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Respons Kecelakaan Truk, Pemkot Semarang Pertimbangkan untuk Landaikan Turunan Silayur",
-      "link_berita": "https://news.republika.co.id/berita/sndoun483/respons-kecelakaan-truk-pemkot-semarang-pertimbangkan-untuk-landaikan-turunan-silayur",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Didukung Jokowi, Ahmad Luthfi: Tidak Ada Cawe-Cawe",
-      "link_berita": "https://news.republika.co.id/berita/sndoil483/didukung-jokowi-ahmad-luthfi-tidak-ada-cawecawe",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Waqf Run 2024 Siap Digelar 22 Desember",
-      "link_berita": "https://khazanah.republika.co.id/berita/snd0oy483/waqf-run-2024-siap-digelar-22-desember",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Tidak Sinkron Jadi Tantangan Perbankan Syariah dan Industri Halal",
-      "link_berita": "https://sharia.republika.co.id/berita/sncwqr483/tidak-sinkron-jadi-tantangan-perbankan-syariah-dan-industri-halal",
-      "kategori": "Sharia",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 23 November 2024 untuk Kota Palembang dan Sekitarnya",
-      "link_berita": "https://news.republika.co.id/berita/sndksh1475001174/prakiraan-cuaca-hari-ini-23-november-2024-untuk-kota-palembang-dan-sekitarnya",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 06:26:47"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 07:18:53"
     },
     {
       "judul": "Video Aktor 'Vampire Diaries' Michael Malarkey Tolak Minum Starbucks, Lihat di Sini",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Saturday, 23 Nov 2024, 11:19:00"
     },
     {
-      "judul": "PLN Sabet Penghargaan CNBC Indonesia Communications Strategist Award 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sne4g1423/pln-sabet-penghargaan-cnbc-indonesia-communications-strategist-award-2024",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 13:24:00"
+      "judul": "Banyak Pesaing Baru, BYD Optimistis Tetap Pimpin Pasar EV di Indoesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sne5ka468/banyak-pesaing-baru-byd-optimistis-tetap-pimpin-pasar-ev-di-indoesia",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 13:48:00"
     },
     {
       "judul": "MES Jabar Luncurkan Akademi Ekonomi Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 23 Nov 2024, 08:55:00"
     },
     {
-      "judul": "Mega Batal Hadiri Kampanye Pramono-Rano, Hasto: Kita Lihat Intimidasi",
-      "link_berita": "https://news.republika.co.id/berita/sne489484/mega-batal-hadiri-kampanye-pramonorano-hasto-kita-lihat-intimidasi",
+      "judul": "Bank bjb Terus Perkuat Bisnis, Kini Jadi BPD Pertama Penyimpan Dana Margin di Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/sne6ky423/bank-bjb-terus-perkuat-bisnis-kini-jadi-bpd-pertama-penyimpan-dana-margin-di-indonesia",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Saturday, 23 Nov 2024, 13:19:00"
+      "tanggal_terbit": "Saturday, 23 Nov 2024, 14:10:00"
     }
   ],
-  "waktu_scraping": "Saturday, 23 Nov 2024, 13:26:47"
+  "waktu_scraping": "Saturday, 23 Nov 2024, 14:18:53"
 }
