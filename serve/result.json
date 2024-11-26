@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Praperadilan Ditolak, Penetapan Tom Lembong Sebagai Tersangka Dinyatakan Sah",
+      "link_berita": "https://news.republika.co.id/berita/snjv8y487/praperadilan-ditolak-penetapan-tom-lembong-sebagai-tersangka-dinyatakan-sah"
+    },
+    {
       "judul": "Amran Tindak 27 Perusahaan Pengadaan Pupuk yang Rugikan Negara dan Petani",
       "link_berita": "https://ekonomi.republika.co.id/berita/snjser370/amran-tindak-27-perusahaan-pengadaan-pupuk-yang-rugikan-negara-dan-petani"
     },
@@ -9,23 +13,23 @@
       "link_berita": "https://news.republika.co.id/berita/snjq5o377/tak-gentar-dengan-ancaman-israel-tni-akan-tetap-kirim-pasukan-ke-lebanon"
     },
     {
-      "judul": "Upah Minim: Guru Ngonten, Narik, Sampai Jadi Buruh",
-      "link_berita": "https://news.republika.co.id/berita/snjo03393/upah-minim-guru-ngonten-narik-sampai-jadi-buruh"
-    },
-    {
       "judul": "Indomobil Group Kolaborasi dengan PLN Icon Plus Dukung Percepatan Adopsi EV",
       "link_berita": "https://ekonomi.republika.co.id/berita/sna6io468/indomobil-group-kolaborasi-dengan-pln-icon-plus-dukung-percepatan-adopsi-ev"
     },
     {
-      "judul": "Raffi Ahmad Unggah Surat Instruksi Prabowo Dukung RK-Suswono di IG, Mengapa Lalu Dihapus?",
-      "link_berita": "https://news.republika.co.id/berita/snjn05409/raffi-ahmad-unggah-surat-instruksi-prabowo-dukung-rksuswono-di-ig-mengapa-lalu-dihapus"
+      "judul": "Upah Minim: Guru Ngonten, Narik, Sampai Jadi Buruh",
+      "link_berita": "https://news.republika.co.id/berita/snjo03393/upah-minim-guru-ngonten-narik-sampai-jadi-buruh"
     },
     {
-      "judul": "Kapolrestabes Semarang Bela Anak Buahnya Tembak Siswa SMK: Kami Bertindak Kalian Salahkan!",
-      "link_berita": "https://news.republika.co.id/berita/snjkiq487/kapolrestabes-semarang-bela-anak-buahnya-tembak-siswa-smk-kami-bertindak-kalian-salahkan"
+      "judul": "Raffi Ahmad Unggah Surat Instruksi Prabowo Dukung RK-Suswono di IG, Mengapa Lalu Dihapus?",
+      "link_berita": "https://news.republika.co.id/berita/snjn05409/raffi-ahmad-unggah-surat-instruksi-prabowo-dukung-rksuswono-di-ig-mengapa-lalu-dihapus"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Begini Dahsyatnya Kehancuran Akibat Serangan Hizbullah ke Israel",
+      "link_berita": "https://news.republika.co.id/berita/snjult393/begini-dahsyatnya-kehancuran-akibat-serangan-hizbullah-ke-israel"
+    },
     {
       "judul": "Anggota Paskibraka Tewas Ditembak Polisi, Pra-Rekonstruksi Arahkan Kasus ke Tawuran",
       "link_berita": "https://news.republika.co.id/berita/snjsgt377/anggota-paskibraka-tewas-ditembak-polisi-prarekonstruksi-arahkan-kasus-ke-tawuran"
@@ -81,13 +85,159 @@
     {
       "judul": "Wanita Ini Menjadi Salah Satu Guru Imam Syafii yang Paling Berjasa",
       "link_berita": "https://khazanah.republika.co.id/berita/snierg430/wanita-ini-menjadi-salah-satu-guru-imam-syafii-yang-paling-berjasa"
-    },
-    {
-      "judul": "Siswa SMK 4 Semarang Anggota Paskibra Tewas Diduga Ditembak Oknum Polisi",
-      "link_berita": "https://rejogja.republika.co.id/berita/snic55282/siswa-smk-4-semarang-anggota-paskibra-tewas-diduga-ditembak-oknum-polisi"
     }
   ],
   "berita_lainnya": [
+    {
+      "judul": "BPJS Ketenagakerjaan Cari Solusi Indonesia Lepas dari Middle Income Trap",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snjwp7349/bpjs-ketenagakerjaan-cari-solusi-indonesia-lepas-dari-middle-income-trap",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:22:19"
+    },
+    {
+      "judul": "WRI Indonesia Sambut Positif Kesepakatan Dana Iklim COP29",
+      "link_berita": "https://esgnow.republika.co.id/berita/snjwmw416/wri-indonesia-sambut-positif-kesepakatan-dana-iklim-cop29",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:20:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok, 27 November 2024, untuk Kota Medan dan Sekitarnya: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/snjwk843192734/prakiraan-cuaca-besok-27-november-2024-untuk-kota-medan-dan-sekitarnya-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:19:26"
+    },
+    {
+      "judul": "Agar tak Gampang Sakit, Yuk Ajarkan Anak Terbiasa Cuci Tangan Pakai Sabun",
+      "link_berita": "https://kidnews.id/posts/489688/agar-tak-gampang-sakit-yuk-ajarkan-anak-terbiasa-cuci-tangan-pakai-sabun",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:15:26"
+    },
+    {
+      "judul": "FPTI Jabar Gelar Road to Indonesian Climbing Festival 2025 di Citatah",
+      "link_berita": "https://rejabar.republika.co.id/berita/snjwbw512/fpti-jabar-gelar-road-to-indonesian-climbing-festival-2025-di-citatah",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:14:26"
+    },
+    {
+      "judul": "Prancis akan Kirim Bantuan Rudal untuk Ukraina Pakai Dana Rusia",
+      "link_berita": "https://news.republika.co.id/berita/snjw62483/prancis-akan-kirim-bantuan-rudal-untuk-ukraina-pakai-dana-rusia",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:10:26"
+    },
+    {
+      "judul": "Polisi 'Enteng' Tembak Orang, Ketua MPR: Perlu Evaluasi Berkala Anggota yang Pegang Pistol",
+      "link_berita": "https://news.republika.co.id/berita/snjw2s487/polisi-enteng-tembak-orang-ketua-mpr-perlu-evaluasi-berkala-anggota-yang-pegang-pistol",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:08:26"
+    },
+    {
+      "judul": "Menaker Sebut 2025 akan Jadi Tahun Peningkatan Produktivitas TKN",
+      "link_berita": "https://news.republika.co.id/berita/snjw0j349/menaker-sebut-2025-akan-jadi-tahun-peningkatan-produktivitas-tkn",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:07:26"
+    },
+    {
+      "judul": "Kesejahteraan Guru Bukan Sekadar Gaji, Tapi Ada Hak-Hak Lain yang Negara Harus Penuhi",
+      "link_berita": "https://news.republika.co.id/berita/snjvxl282/kesejahteraan-guru-bukan-sekadar-gaji-tapi-ada-hakhak-lain-yang-negara-harus-penuhi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:05:26"
+    },
+    {
+      "judul": "Investasi AS di Indonesia Capai Rp 1.066 Triliun dalam Satu Dekade Terakhir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snjvx2416/investasi-as-di-indonesia-capai-rp-1066-triliun-dalam-satu-dekade-terakhir",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:05:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 27 November 2024 Kota Malang dan Sekitarnya: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/snjvvk1350905599/prakiraan-cuaca-besok-27-november-2024-kota-malang-dan-sekitarnya-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:04:26"
+    },
+    {
+      "judul": "Hakim Tolak Praperadilan, Tom Lembong Tetap Tersangka Impor Gula",
+      "link_berita": "https://news.republika.co.id/berita/snjvr7484/hakim-tolak-praperadilan-tom-lembong-tetap-tersangka-impor-gula",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:01:26"
+    },
+    {
+      "judul": "Jelang Libur Nataru, TNI AD Gelar Simulasi Penanganan Ancaman Bom di Bandara",
+      "link_berita": "https://visual.republika.co.id/berita/snjuuu375/jelang-libur-nataru-tni-ad-gelar-simulasi-penanganan-ancaman-bom-di-bandara",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 09:00:26"
+    },
+    {
+      "judul": "Mensos Ungkap Presiden Prabowo Segera Umumkan Pahlawan Nasional 2024",
+      "link_berita": "https://news.republika.co.id/berita/snjvhn484/mensos-ungkap-presiden-prabowo-segera-umumkan-pahlawan-nasional-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:56:26"
+    },
+    {
+      "judul": "Praperadilan Ditolak, Penetapan Tom Lembong Sebagai Tersangka Dinyatakan Sah",
+      "link_berita": "https://news.republika.co.id/berita/snjv8y487/praperadilan-ditolak-penetapan-tom-lembong-sebagai-tersangka-dinyatakan-sah",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:51:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok: Udara Kabur di Surabaya, 27 November 2024",
+      "link_berita": "https://news.republika.co.id/berita/snjv68688421400/prakiraan-cuaca-besok-udara-kabur-di-surabaya-27-november-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:49:26"
+    },
+    {
+      "judul": "Bea Cukai Tindak 60 Ribu Ekor Benih Bening Lobster Bernilai Rp 9,1 M di Lampung Selatan",
+      "link_berita": "https://republika.co.id/berita/snjuwb370/bea-cukai-tindak-60-ribu-ekor-benih-bening-lobster-bernilai-rp-91-m-di-lampung-selatan",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:43:26"
+    },
+    {
+      "judul": "Begini Dahsyatnya Kehancuran Akibat Serangan Hizbullah ke Israel",
+      "link_berita": "https://news.republika.co.id/berita/snjult393/begini-dahsyatnya-kehancuran-akibat-serangan-hizbullah-ke-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:37:26"
+    },
+    {
+      "judul": "Guru: Dunia Pendidikan di Persimpangan yang Berbahaya",
+      "link_berita": "https://news.republika.co.id/berita/snjukv487/guru-dunia-pendidikan-di-persimpangan-yang-berbahaya",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:36:26"
+    },
+    {
+      "judul": "Ini Alasan Gong Yoo Tertarik Main di Drama 'The Trunk'",
+      "link_berita": "https://ameera.republika.co.id/berita/snjujc425/ini-alasan-gong-yoo-tertarik-main-di-drama-the-trunk",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:35:26"
+    },
+    {
+      "judul": "Sasar Ibu-ibu, Petani, dan Pedagang dengan Pinjaman Kecil, Ini Langkah OJK Kembangkan LKM",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snjui5490/sasar-ibuibu-petani-dan-pedagang-dengan-pinjaman-kecil-ini-langkah-ojk-kembangkan-lkm",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:34:26"
+    },
+    {
+      "judul": "Jelang Nataru, BUMN Pangan Jamin Ketersediaan dan Stabilitas Harga Daging",
+      "link_berita": "https://news.republika.co.id/berita/snjuge451/jelang-nataru-bumn-pangan-jamin-ketersediaan-dan-stabilitas-harga-daging",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:33:26"
+    },
+    {
+      "judul": "Panglima TNI Terjunkan 168 Ribu Personel, Ajak Masyarakat Ciptakan Suasana Damai",
+      "link_berita": "https://rejabar.republika.co.id/berita/snjue9512/panglima-tni-terjunkan-168-ribu-personel-ajak-masyarakat-ciptakan-suasana-damai",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:32:26"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 27 November 2024 di Kota Yogyakarta: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/snjucc1361712192/prakiraan-cuaca-besok-27-november-2024-di-kota-yogyakarta-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:31:26"
+    },
+    {
+      "judul": "Amran Copot 11 Pegawai Kementan Diduga Terlibat Proses Pengadaan Pupuk Palsu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snju5p370/amran-copot-11-pegawai-kementan-diduga-terlibat-proses-pengadaan-pupuk-palsu",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:27:26"
+    },
     {
       "judul": "Proses Distribusi Logistik Pilkada Jakarta Jelang Pencoblosan",
       "link_berita": "https://visual.republika.co.id/berita/snju41375/proses-distribusi-logistik-pilkada-jakarta-jelang-pencoblosan",
@@ -98,313 +248,163 @@
       "judul": "Negara Berkembang Perlu Pembiayaan Iklim yang Tidak Bebani Ekonomi",
       "link_berita": "https://esgnow.republika.co.id/berita/snjtzt490/negara-berkembang-perlu-pembiayaan-iklim-yang-tidak-bebani-ekonomi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:24:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:23:26"
     },
     {
       "judul": "Bayern Munchen Vs PSG, Vincent Kompany Sanjung Kualitas Les Rouge et Bleus",
       "link_berita": "https://news.republika.co.id/berita/snjtxw348/bayern-munchen-vs-psg-vincent-kompany-sanjung-kualitas-les-rouge-et-bleus",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Dian Sastrowardoyo Sebut AI tak Bisa Gantikan Kreativitas Manusia",
       "link_berita": "https://ameera.republika.co.id/berita/snjtsd425/dian-sastrowardoyo-sebut-ai-tak-bisa-gantikan-kreativitas-manusia",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:19:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Ini Kesaksian Warga yang Lihat Kengerian Truk Tabrak 8 Kendaraan di Slipi: Blong dari Atas",
       "link_berita": "https://news.republika.co.id/berita/snjts2487/ini-kesaksian-warga-yang-lihat-kengerian-truk-tabrak-8-kendaraan-di-slipi-blong-dari-atas",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:19:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Heroik, Militan Hizbullah yang Terluka Parah Akibat Ledakan Pager Kini Ikut Bertempur Lagi",
       "link_berita": "https://news.republika.co.id/berita/snjtrt409/heroik-militan-hizbullah-yang-terluka-parah-akibat-ledakan-pager-kini-ikut-bertempur-lagi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:19:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Gerindra: Surat Prabowo Dukung Rido Dibuat Sudah Lama",
       "link_berita": "https://news.republika.co.id/berita/snjtra484/gerindra-surat-prabowo-dukung-rido-dibuat-sudah-lama",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:18:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Oknum Polisi Tembak Pelajar SMA Semarang, Dewan: Jangan Biarkan Arogansi Polri",
       "link_berita": "https://khazanah.republika.co.id/berita/snjtjg320/oknum-polisi-tembak-pelajar-sma-semarang-dewan-jangan-biarkan-arogansi-polri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:14:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "OJK: Pilkada Serentak 2024 Dorong Optimisme Perbankan dan Ekonomi Domestik",
       "link_berita": "https://ekonomi.republika.co.id/berita/snjtje349/ojk-pilkada-serentak-2024-dorong-optimisme-perbankan-dan-ekonomi-domestik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:14:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Inter Milan Siaga Satu Sambut Kedatangan RB Leipzig",
       "link_berita": "https://news.republika.co.id/berita/snjth1348/inter-milan-siaga-satu-sambut-kedatangan-rb-leipzig",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:12:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Dukung Prabowo Percepat Transisi Energi, Damri Tambah Unit Bus Listrik",
       "link_berita": "https://ekonomi.republika.co.id/berita/snjtdh490/dukung-prabowo-percepat-transisi-energi-damri-tambah-unit-bus-listrik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:10:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Prabowo Rapat Bahas Ketahanan Pangan Jelang Natal dan Tahun Baru",
       "link_berita": "https://news.republika.co.id/berita/snjtc6484/prabowo-rapat-bahas-ketahanan-pangan-jelang-natal-dan-tahun-baru",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:09:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Bukan di Jakarta, Ini Lokasi Nyoblos Cagub Ridwan Kamil",
       "link_berita": "https://rejabar.republika.co.id/berita/snjtbq512/bukan-di-jakarta-ini-lokasi-nyoblos-cagub-ridwan-kamil",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:09:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Kemenhut Genjot Program Kehutanan Sosial untuk Ketahanan Pangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/snjtbi416/kemenhut-genjot-program-kehutanan-sosial-untuk-ketahanan-pangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:09:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "FoMO di Kalangan Generasi Z: Hidup Elit Ekonomi Sulit",
       "link_berita": "https://retizen.republika.co.id/posts/489621/fomo-di-kalangan-generasi-z-hidup-elit-ekonomi-sulit",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:03:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Olahraga dan Kesehatan Mental",
       "link_berita": "https://retizen.republika.co.id/posts/489622/olahraga-dan-kesehatan-mental",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:03:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Teknik-Teknik dalam Manajemen Stres",
       "link_berita": "https://retizen.republika.co.id/posts/489644/teknik-teknik-dalam-manajemen-stres",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:03:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
-      "judul": "Prakiraan Cuaca Besok 27 November 2024 di Tangerang dan Sekitarnya dengan Hujan di Cilegon 27 November 2024",
-      "link_berita": "https://news.republika.co.id/berita/snjswn1508460772/prakiraan-cuaca-besok-27-november-2024-di-tangerang-dan-sekitarnya-dengan-hujan-di-cilegon-27-november-2024",
+      "judul": "Prakiraan Cuaca Besok 27 November 2024 di Tangerang dan Sekitarnya: Hujan di Cilegon",
+      "link_berita": "https://news.republika.co.id/berita/snjswn1508460772/prakiraan-cuaca-besok-27-november-2024-di-tangerang-dan-sekitarnya-hujan-di-cilegon",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:00:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Bocah Perempuan Ditemukan Tewas Tenggelam di Parit di Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/snjsv6512/bocah-perempuan-ditemukan-tewas-tenggelam-di-parit-di-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:59:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Kiper Tottenham Ternyata Main dengan Engkel Kaki Kanan yang Retak Saat Kalahkan Man City",
       "link_berita": "https://news.republika.co.id/berita/snjsua348/kiper-tottenham-ternyata-main-dengan-engkel-kaki-kanan-yang-retak-saat-kalahkan-man-city",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:59:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Kemenhub Gencarkan Inspeksi Angkutan Udara Jelang Libur Nataru",
       "link_berita": "https://ekonomi.republika.co.id/berita/snjsr8490/kemenhub-gencarkan-inspeksi-angkutan-udara-jelang-libur-nataru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:57:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Cagub Ridwan Kamil Bakal Nyoblos di TPS 23 Bandung",
       "link_berita": "https://news.republika.co.id/berita/snjsqf377/cagub-ridwan-kamil-bakal-nyoblos-di-tps-23-bandung",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:56:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
-      "judul": "Prakiraan Cuaca Besok 27 November 2024 untuk Bandung dan Sekitarnya: Hujan Ringan Diperkirakan pada Siang Hari",
-      "link_berita": "https://news.republika.co.id/berita/snjsmj1843698839/prakiraan-cuaca-besok-27-november-2024-untuk-bandung-dan-sekitarnya-hujan-ringan-diperkirakan-pada-siang-hari",
+      "judul": "Prakiraan Cuaca Besok 27 November 2024 Bandung dan Sekitarnya: Hujan Ringan Siang Hari",
+      "link_berita": "https://news.republika.co.id/berita/snjsmj1843698839/prakiraan-cuaca-besok-27-november-2024-bandung-dan-sekitarnya-hujan-ringan-siang-hari",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:54:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Satpol PP dan Dishub Kota Cilegon Tertibkan Alat Peraga Kampanye",
       "link_berita": "https://magentatoday.id/posts/489609/satpol-pp-dan-dishub-kota-cilegon-tertibkan-alat-peraga-kampanye",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:53:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
       "judul": "Indonesia Masters 2025: Ginting Berambisi Rebut Gelar Juara Ketiga Kalinya",
       "link_berita": "https://badmintonews.id/posts/489653/indonesia-masters-2025-ginting-berambisi-rebut-gelar-juara-ketiga-kalinya",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:53:20"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 08:22:26"
     },
     {
-      "judul": "Pentingnya Keselamatan Laut: Tanggung Jawab Bersama?",
-      "link_berita": "https://shippingcargo.co.id/posts/489642/pentingnya-keselamatan-laut-tanggung-jawab-bersama",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:52:20"
-    },
-    {
-      "judul": "Hyundai dan KIA Recall 145.235 Mobil Listrik Mereka, Kenapa?",
-      "link_berita": "https://motoresto.id/posts/489662/hyundai-dan-kia-recall-145-235-mobil-listrik-mereka-kenapa-",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:52:20"
-    },
-    {
-      "judul": "Menanti Implementasi Pendanaan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/snjsi7416/menanti-implementasi-pendanaan-iklim",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:51:20"
-    },
-    {
-      "judul": "Arteta tak Ingin Arsenal Hanya Fokus pada Striker Sporting Gyokeres",
-      "link_berita": "https://news.republika.co.id/berita/snjsi4348/arteta-tak-ingin-arsenal-hanya-fokus-pada-striker-sporting-gyokeres",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:51:20"
-    },
-    {
-      "judul": "Anggota Paskibraka Tewas Ditembak Polisi, Pra-Rekonstruksi Arahkan Kasus ke Tawuran",
-      "link_berita": "https://news.republika.co.id/berita/snjsgt377/anggota-paskibraka-tewas-ditembak-polisi-prarekonstruksi-arahkan-kasus-ke-tawuran",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:51:20"
-    },
-    {
-      "judul": "Amran Tindak 27 Perusahaan Pengadaan Pupuk yang Rugikan Negara dan Petani",
-      "link_berita": "https://ekonomi.republika.co.id/berita/snjser370/amran-tindak-27-perusahaan-pengadaan-pupuk-yang-rugikan-negara-dan-petani",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:49:20"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 27 November 2024, Jakarta Utara Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/snjscp925002875/prakiraan-cuaca-besok-27-november-2024-jakarta-utara-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:48:20"
-    },
-    {
-      "judul": "SMKN 4 Semarang Kaget Polisi Sebut Siswa yang Tewas Ditembak Terlibat Gangster Kreak",
-      "link_berita": "https://news.republika.co.id/berita/snjryo409/smkn-4-semarang-kaget-polisi-sebut-siswa-yang-tewas-ditembak-terlibat-gangster-kreak",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:40:20"
-    },
-    {
-      "judul": "Nusa Mandiri Career: Lulusan Baru Sering Sulit Dapat Kerja? Ini Cara Cepat Atasinya",
-      "link_berita": "https://news.republika.co.id/berita/snjrrd370/nusa-mandiri-career-lulusan-baru-sering-sulit-dapat-kerja-ini-cara-cepat-atasinya",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:35:20"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok: Bekasi dan Sekitarnya, Berawan \u2013 27 November 2024",
-      "link_berita": "https://news.republika.co.id/berita/snjrii1411114023/prakiraan-cuaca-besok-bekasi-dan-sekitarnya-berawan-27-november-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:30:20"
-    },
-    {
-      "judul": "Kisah Janda Menangis di Makam Satu Tahun",
-      "link_berita": "https://khazanah.republika.co.id/berita/snjrem458/kisah-janda-menangis-di-makam-satu-tahun",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:28:20"
-    },
-    {
-      "judul": "Genjot Infrastruktur, Waskita Fokus Inovasi dan Keberlanjutan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/snjrem490/genjot-infrastruktur-waskita-fokus-inovasi-dan-keberlanjutan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:28:20"
-    },
-    {
-      "judul": "Korban Tewas Tabrakan Truk Slipi Bertambah Jadi 2 Orang, 1 Warga Depok, 1 Warga Bekasi",
-      "link_berita": "https://republika.co.id/berita/snjrai282/korban-tewas-tabrakan-truk-slipi-bertambah-jadi-2-orang-1-warga-depok-1-warga-bekasi",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Ada Dua Imam Nawawi yang Dihormati Umat Islam, Ini Perbedaannya",
-      "link_berita": "https://khazanah.republika.co.id/berita/snjr9d483/ada-dua-imam-nawawi-yang-dihormati-umat-islam-ini-perbedaannya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Peran Al-Qur'an dalam Membangun Karakter Generasi Muda",
-      "link_berita": "https://retizen.republika.co.id/posts/489583/peran-al-quran-dalam-membangun-karakter-generasi-muda",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Pilih Sepatu Lari Carbon atau Non Karbon? Ini Tips untuk Para Pelari",
-      "link_berita": "https://retizen.republika.co.id/posts/489654/pilih-sepatu-lari-carbon-atau-non-karbon-ini-tips-untuk-para-pelari",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Interaksi Sosial Antar Masyarakat",
-      "link_berita": "https://retizen.republika.co.id/posts/489625/interaksi-sosial-antar-masyarakat",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Mengapa Warna Buah Naga Menempel di Kulit? Ini Penjelasannya!",
-      "link_berita": "https://retizen.republika.co.id/posts/489627/mengapa-warna-buah-naga-menempel-di-kulit-ini-penjelasannya",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Menemukan Khusyu yang Hilang",
-      "link_berita": "https://retizen.republika.co.id/posts/489634/menemukan-khusyu-yang-hilang",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Rahasia Bumbu Pak Hendra",
-      "link_berita": "https://retizen.republika.co.id/posts/489649/rahasia-bumbu-pak-hendra",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Ekonomi Sirkular Kunci Atasi Masalah Sampah Plastik",
-      "link_berita": "https://esgnow.republika.co.id/berita/snjr1r416/ekonomi-sirkular-kunci-atasi-masalah-sampah-plastik",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Universitas Brawijaya (UB) Buka 143 Formasi Lowongan Dosen, Cek Formasi dan Persyaratan Lengkapnya",
-      "link_berita": "https://kampus.republika.co.id/posts/489661/universitas-brawijaya-ub-buka-143-formasi-lowongan-dosen-cek-formasi-dan-persyaratan-lengkapnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Dapat Dukungan Erick, BPOM Optimistis Genjot Akselerasi Sertifikasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/snjqu8370/dapat-dukungan-erick-bpom-optimistis-genjot-akselerasi-sertifikasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "BP Haji Mulai Bertugas, Ini yang Dilakukan Dahnil Azhar di Asrama Haji Makassar",
-      "link_berita": "https://khazanah.republika.co.id/berita/snjqss483/bp-haji-mulai-bertugas-ini-yang-dilakukan-dahnil-azhar-di-asrama-haji-makassar",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Penyebab Kecelakaan Truk Beruntun di Slipi, Sopir Langgar Regulasi dan Ngantuk Saat Nyetir",
-      "link_berita": "https://republika.co.id/berita/snjqqo282/penyebab-kecelakaan-truk-beruntun-di-slipi-sopir-langgar-regulasi-dan-ngantuk-saat-nyetir",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 07:27:20"
-    },
-    {
-      "judul": "Dian Sastrowardoyo Sebut AI tak Bisa Gantikan Kreativitas Manusia",
-      "link_berita": "https://ameera.republika.co.id/berita/snjtsd425/dian-sastrowardoyo-sebut-ai-tak-bisa-gantikan-kreativitas-manusia",
+      "judul": "Ini Alasan Gong Yoo Tertarik Main di Drama 'The Trunk'",
+      "link_berita": "https://ameera.republika.co.id/berita/snjujc425/ini-alasan-gong-yoo-tertarik-main-di-drama-the-trunk",
       "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 15:19:00"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 15:35:00"
     },
     {
-      "judul": "Negara Berkembang Perlu Pembiayaan Iklim yang Tidak Bebani Ekonomi",
-      "link_berita": "https://esgnow.republika.co.id/berita/snjtzt490/negara-berkembang-perlu-pembiayaan-iklim-yang-tidak-bebani-ekonomi",
+      "judul": "WRI Indonesia Sambut Positif Kesepakatan Dana Iklim COP29",
+      "link_berita": "https://esgnow.republika.co.id/berita/snjwmw416/wri-indonesia-sambut-positif-kesepakatan-dana-iklim-cop29",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 15:23:00"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 16:20:00"
     },
     {
-      "judul": "OJK: Pilkada Serentak 2024 Dorong Optimisme Perbankan dan Ekonomi Domestik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/snjtje349/ojk-pilkada-serentak-2024-dorong-optimisme-perbankan-dan-ekonomi-domestik",
+      "judul": "BPJS Ketenagakerjaan Cari Solusi Indonesia Lepas dari Middle Income Trap",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snjwp7349/bpjs-ketenagakerjaan-cari-solusi-indonesia-lepas-dari-middle-income-trap",
       "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 15:14:00"
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 16:22:00"
     },
     {
       "judul": "BSI Konsisten Tingkatkan GCG, 3 Tahun Berturut Raih Indonesia Most Trusted Companies",
@@ -413,11 +413,11 @@
       "tanggal_terbit": "Tuesday, 26 Nov 2024, 10:59:00"
     },
     {
-      "judul": "Bayern Munchen Vs PSG, Vincent Kompany Sanjung Kualitas Les Rouge et Bleus",
-      "link_berita": "https://news.republika.co.id/berita/snjtxw348/bayern-munchen-vs-psg-vincent-kompany-sanjung-kualitas-les-rouge-et-bleus",
-      "kategori": "Sport",
-      "tanggal_terbit": "Tuesday, 26 Nov 2024, 15:22:00"
+      "judul": "Prancis akan Kirim Bantuan Rudal untuk Ukraina Pakai Dana Rusia",
+      "link_berita": "https://news.republika.co.id/berita/snjw62483/prancis-akan-kirim-bantuan-rudal-untuk-ukraina-pakai-dana-rusia",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Tuesday, 26 Nov 2024, 16:10:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 26 Nov 2024, 15:27:20"
+  "waktu_scraping": "Tuesday, 26 Nov 2024, 16:22:26"
 }
