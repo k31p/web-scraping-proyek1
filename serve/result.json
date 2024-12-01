@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "80 Persen Tunanetra Muslim tak Bisa Baca Alquran Braille",
+      "link_berita": "https://khazanah.republika.co.id/berita/sntmve483/80-persen-tunanetra-muslim-tak-bisa-baca-alquran-braille"
+    },
+    {
       "judul": "Terungkap Sederet Fakta Baru Kasus Remaja Bunuh Ayah-Nenek di Jaksel dari Kesaksian Warga",
       "link_berita": "https://news.republika.co.id/berita/sntotm487/terungkap-sederet-fakta-baru-kasus-remaja-bunuh-ayahnenek-di-jaksel-dari-kesaksian-warga"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Wamen Imipas: Golden Visa Dirancang Tarik Investor Bernilai Tinggi",
       "link_berita": "https://ekonomi.republika.co.id/berita/snshnx370/wamen-imipas-golden-visa-dirancang-tarik-investor-bernilai-tinggi"
-    },
-    {
-      "judul": "KPU Tetapkan Pramono-Rano Menang di Kepulauan Seribu",
-      "link_berita": "https://news.republika.co.id/berita/snthxo409/kpu-tetapkan-pramonorano-menang-di-kepulauan-seribu"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Sejarah Alquran Braille di Indonesia: Dari Mushaf Hingga Iqra",
+      "link_berita": "https://khazanah.republika.co.id/berita/sntoia483/sejarah-alquran-braille-di-indonesia-dari-mushaf-hingga-iqra"
+    },
     {
       "judul": "PDIP Tegaskan Jateng Masih 'Kandang Banteng', Ini Argumentasinya Meski Andika-Hendi Kalah",
       "link_berita": "https://news.republika.co.id/berita/sntlju409/pdip-tegaskan-jateng-masih-kandang-banteng-ini-argumentasinya-meski-andikahendi-kalah"
@@ -77,312 +81,308 @@
     {
       "judul": "UMR Naik 6,5 Persen pada 2025, Rosan Tekankan Soal Produktivitas",
       "link_berita": "https://ekonomi.republika.co.id/berita/snt5bl370/umr-naik-65-persen-pada-2025-rosan-tekankan-soal-produktivitas"
-    },
-    {
-      "judul": "Trump Ancam Negara-Negara BRICS dengan Tarif 100 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/snt1zc370/trump-ancam-negaranegara-brics-dengan-tarif-100-persen"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pangeran Turki Doakan Pemerintahan Prabowo Maju dan Berjaya",
+      "link_berita": "https://news.republika.co.id/berita/snu8kn484/pangeran-turki-doakan-pemerintahan-prabowo-maju-dan-berjaya",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 23:15:11"
+    },
+    {
+      "judul": "Kalahkan Getafe 2-0 di Bernabeu, Real Madrid Kini Hanya Terpaut Satu Angka dari Barcelona",
+      "link_berita": "https://news.republika.co.id/berita/snu8k8348/kalahkan-getafe-20-di-bernabeu-real-madrid-kini-hanya-terpaut-satu-angka-dari-barcelona",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 23:14:11"
+    },
+    {
+      "judul": "Eduardo Boven Pingsan di Lapangan, Laga Fiorentina Vs Inter Ditunda",
+      "link_berita": "https://news.republika.co.id/berita/snu892348/eduardo-boven-pingsan-di-lapangan-laga-fiorentina-vs-inter-ditunda",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 23:08:11"
+    },
+    {
+      "judul": "Manchester City Masih Merana, Takluk 0-2 dari Liverpool di Anfield",
+      "link_berita": "https://news.republika.co.id/berita/snu7xa348/manchester-city-masih-merana-takluk-02-dari-liverpool-di-anfield",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 23:01:11"
+    },
+    {
+      "judul": "Sejarah Alquran Braille di Indonesia: Dari Mushaf Hingga Iqra",
+      "link_berita": "https://khazanah.republika.co.id/berita/sntoia483/sejarah-alquran-braille-di-indonesia-dari-mushaf-hingga-iqra",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 23:00:11"
+    },
+    {
+      "judul": "10 Universitas Top Dunia Versi QS World University Rankings 2025, MIT Nomor Satu",
+      "link_berita": "https://kampus.republika.co.id/posts/490722/10-universitas-top-dunia-versi-qs-world-university-rankings-2025-mit-nomor-satu",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:59:11"
+    },
+    {
+      "judul": "Wamentan Optimistis Tahun Depan Produksi Padi Meningkat, Bulog Siap Kerja Keras",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snu7dk370/wamentan-optimistis-tahun-depan-produksi-padi-meningkat-bulog-siap-kerja-keras",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:49:11"
+    },
+    {
+      "judul": "MU Catatkan Kemenangan Perdana di Liga Inggris Bersama Ruben Amorim",
+      "link_berita": "https://news.republika.co.id/berita/snu7ap348/mu-catatkan-kemenangan-perdana-di-liga-inggris-bersama-ruben-amorim",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:47:11"
+    },
+    {
+      "judul": "Pemerintah Segera Bentuk Satgas PHK Usai UMP Naik 6,5 Persen, untuk Apa?",
+      "link_berita": "https://news.republika.co.id/berita/sntqcf487/pemerintah-segera-bentuk-satgas-phk-usai-ump-naik-65-persen-untuk-apa",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:45:11"
+    },
+    {
+      "judul": "80 Persen Tunanetra Muslim tak Bisa Baca Alquran Braille",
+      "link_berita": "https://khazanah.republika.co.id/berita/sntmve483/80-persen-tunanetra-muslim-tak-bisa-baca-alquran-braille",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:31:11"
+    },
+    {
+      "judul": "Mendikdasmen Abdul Mu'ti Isyaratkan Sistem Zonasi PPDB Dipertahankan, Ini Penjelasannya",
+      "link_berita": "https://news.republika.co.id/berita/sntjtk409/mendikdasmen-abdul-muti-isyaratkan-sistem-zonasi-ppdb-dipertahankan-ini-penjelasannya",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:31:11"
+    },
+    {
+      "judul": "Imam Syafii Ungkap Tiga Fungsi Hukum Islam",
+      "link_berita": "https://khazanah.republika.co.id/berita/snu6bh430/imam-syafii-ungkap-tiga-fungsi-hukum-islam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:26:11"
+    },
+    {
+      "judul": "Imam Syafi'i Dakwahi Baghdad, Majelis Ahli Ra'yi Ditinggalkan",
+      "link_berita": "https://khazanah.republika.co.id/berita/snu65m483/imam-syafii-dakwahi-baghdad-majelis-ahli-rayi-ditinggalkan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:22:11"
+    },
+    {
+      "judul": "Judi Online Menggurita, MUI Ajak Dai Berantas Kemungkaran",
+      "link_berita": "https://khazanah.republika.co.id/berita/snu5yo430/judi-online-menggurita-mui-ajak-dai-berantas-kemungkaran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:19:11"
+    },
+    {
       "judul": "Transformasi Secara Digital Dinilai Menjadi Salah Satu Tantangan Pendidikan",
       "link_berita": "https://news.republika.co.id/berita/snu5rz430/transformasi-secara-digital-dinilai-menjadi-salah-satu-tantangan-pendidikan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:18:00"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:19:11"
     },
     {
       "judul": "Terungkap Sederet Fakta Baru Kasus Remaja Bunuh Ayah-Nenek di Jaksel dari Kesaksian Warga",
       "link_berita": "https://news.republika.co.id/berita/sntotm487/terungkap-sederet-fakta-baru-kasus-remaja-bunuh-ayahnenek-di-jaksel-dari-kesaksian-warga",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:14:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:19:11"
     },
     {
       "judul": "PDIP Tegaskan Jateng Masih 'Kandang Banteng', Ini Argumentasinya Meski Andika-Hendi Kalah",
       "link_berita": "https://news.republika.co.id/berita/sntlju409/pdip-tegaskan-jateng-masih-kandang-banteng-ini-argumentasinya-meski-andikahendi-kalah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:11:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:19:11"
     },
     {
       "judul": "Keluarga Gamma Berhasil Amankan CCTV yang Rekam Polisi Lepaskan Tembakan, tak Ada Tawuran",
       "link_berita": "https://news.republika.co.id/berita/sntkrf409/keluarga-gamma-berhasil-amankan-cctv-yang-rekam-polisi-lepaskan-tembakan-tak-ada-tawuran",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:04:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:19:11"
     },
     {
       "judul": "Warga Cerita Profesi Ayah, Nenek, dan Ibu dari Anak Pelaku Pembunuhan di Lebak Bulus",
       "link_berita": "https://news.republika.co.id/berita/sntl8f409/warga-cerita-profesi-ayah-nenek-dan-ibu-dari-anak-pelaku-pembunuhan-di-lebak-bulus",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:01:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:19:11"
     },
     {
       "judul": "Alasan PDIP Pecat Effendi Simbolon, Beda Prinsip Hingga Temui Jokowi Saat Pilkada",
       "link_berita": "https://news.republika.co.id/berita/snu4k1377/alasan-pdip-pecat-effendi-simbolon-beda-prinsip-hingga-temui-jokowi-saat-pilkada",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 21:47:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 21:19:11"
     },
     {
-      "judul": "Infografis Kelengkapan Mushaf Alquran Braile",
-      "link_berita": "https://visual.republika.co.id/berita/sntcy5430/infografis-kelengkapan-mushaf-alquran-braile",
+      "judul": "Infografis Kelengkapan Mushaf Alquran Braille",
+      "link_berita": "https://visual.republika.co.id/berita/sntcy5430/infografis-kelengkapan-mushaf-alquran-braille",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 20:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 20:19:11"
     },
     {
-      "judul": "Infografis Format Mushaf Alquran Braile",
-      "link_berita": "https://visual.republika.co.id/berita/sntcrj430/infografis-format-mushaf-alquran-braile",
+      "judul": "Infografis Format Mushaf Alquran Braille",
+      "link_berita": "https://visual.republika.co.id/berita/sntcrj430/infografis-format-mushaf-alquran-braille",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 18:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 18:19:11"
     },
     {
       "judul": "Keindahan Bunga Langka Rhizanthes Deceptor yang Mekar di Bengkulu",
       "link_berita": "https://visual.republika.co.id/berita/sntk9d375/keindahan-bunga-langka-rhizanthes-deceptor-yang-mekar-di-bengkulu",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:19:11"
     },
     {
       "judul": "Kasus Penembakan Siswa SMKN 4, Kapolrestabes Semarang Siap Penuhi Panggilan DPR RI",
       "link_berita": "https://rejogja.republika.co.id/berita/sntqxi282/kasus-penembakan-siswa-smkn-4-kapolrestabes-semarang-siap-penuhi-panggilan-dpr-ri",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:19:11"
     },
     {
       "judul": "Kuota Haji Aceh Besar 2025 Diperkirakan 370 Jamaah",
       "link_berita": "https://khazanah.republika.co.id/berita/snt4i4366/kuota-haji-aceh-besar-2025-diperkirakan-370-jamaah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:19:11"
     },
     {
       "judul": "Obesitas dan Kelebihan Berat Badan di Kalangan Anak-anak Serta Remaja",
       "link_berita": "https://retizen.republika.co.id/posts/490631/obesitas-dan-kelebihan-berat-badan-di-kalangan-anak-anak-serta-remaja",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:19:11"
     },
     {
       "judul": "Kenapa Anak Muda Sering Cuek Sama Pola Makan dan Gimana Cara Mengatasinya",
       "link_berita": "https://retizen.republika.co.id/posts/490677/kenapa-anak-muda-sering-cuek-sama-pola-makan-dan-gimana-cara-mengatasinya",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:19:11"
     },
     {
       "judul": "Mampukah Industri Hiburan Indonesia Setara dengan Industri Hiburan Korea?",
       "link_berita": "https://retizen.republika.co.id/posts/490675/mampukah-industri-hiburan-indonesia-setara-dengan-industri-hiburan-korea",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:19:11"
     },
     {
       "judul": "Menjaga Warisan di Tengah Modernisasi",
       "link_berita": "https://retizen.republika.co.id/posts/490680/menjaga-warisan-di-tengah-modernisasi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Tren Nama Makanan dengan Nama-Nama Setan",
       "link_berita": "https://retizen.republika.co.id/posts/490694/tren-nama-makanan-dengan-nama-nama-setan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Peran dan Tanggung Jawab Warga dalam Menjaga dan Melestarikan Situs Giri Kedaton",
       "link_berita": "https://retizen.republika.co.id/posts/490699/peran-dan-tanggung-jawab-warga-dalam-menjaga-dan-melestarikan-situs-giri-kedaton",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 17:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Ketaatan sebagai Warga terhadap Nilai-nilai Islam di Makam Sunan Giri dalam Konteks Modernisasi",
       "link_berita": "https://retizen.republika.co.id/posts/490687/ketaatan-sebagai-warga-terhadap-nilai-nilai-islam-di-makam-sunan-giri-dalam-konteks-modernisasi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Keluarga GRO Sebut Diminta Polisi tak Perpanjang Kasus Penembakan, Ini Kata Kapolrestabes",
       "link_berita": "https://rejogja.republika.co.id/berita/sntqfb282/keluarga-gro-sebut-diminta-polisi-tak-perpanjang-kasus-penembakan-ini-kata-kapolrestabes",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Polisi Sebut GRO Beli Senjata Tawuran di Shoope, Keluarga Gamma: Mana Bukti Pembeliannya?",
       "link_berita": "https://rejogja.republika.co.id/berita/sntq3v282/polisi-sebut-gro-beli-senjata-tawuran-di-shoope-keluarga-gamma-mana-bukti-pembeliannya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Aksi Peselancar di Kejuaraan Surfing Internasional World Surf League Manokwari",
       "link_berita": "https://visual.republika.co.id/berita/sntk71375/aksi-peselancar-di-kejuaraan-surfing-internasional-world-surf-league-manokwari",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Mandiri Sekuritas Hadirkan Platfom Online Trading Growin' Syariah",
       "link_berita": "https://ekonomi.republika.co.id/berita/snshex370/mandiri-sekuritas-hadirkan-platfom-online-trading-growin-syariah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Bendungan Sutami, Infrastruktur Pendukung Program Swasembada Pangan Pemerintah",
       "link_berita": "https://visual.republika.co.id/berita/sntk3v375/bendungan-sutami-infrastruktur-pendukung-program-swasembada-pangan-pemerintah",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Bupati Bandung Naik Haji, Orang Sunda Tawaf Bawa Gabah",
       "link_berita": "https://oohya.republika.co.id/posts/490670/bupati-bandung-naik-haji-orang-sunda-tawaf-bawa-gabah",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Militer China Sudah Mendarat di Halim untuk Latgab Bersama TNI",
       "link_berita": "https://seputarmiliter.id/posts/490690/militer-china-sudah-mendarat-di-halim-untuk-latgab-bersama-tni",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Penggemar Wicked Peringatkan Semua Orang untuk Berhenti Lakukan Dua Hal Ini Saat Menonton",
       "link_berita": "https://filmusiku.com/posts/490686/penggemar-wicked-peringatkan-semua-orang-untuk-berhenti-lakukan-dua-hal-ini-saat-menonton",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 16:19:11"
     },
     {
       "judul": "Jumlah Korban Jiwa Longsor Uganda Bertambah Jadi 17 Orang",
       "link_berita": "https://esgnow.republika.co.id/berita/snt4rx366/jumlah-korban-jiwa-longsor-uganda-bertambah-jadi-17-orang",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Wamen Imipas: Golden Visa Dirancang Tarik Investor Bernilai Tinggi",
       "link_berita": "https://ekonomi.republika.co.id/berita/snshnx370/wamen-imipas-golden-visa-dirancang-tarik-investor-bernilai-tinggi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Adu Ketangkasan Penyandang Disabilitas di Kejuaraan Panjat Tebing",
       "link_berita": "https://visual.republika.co.id/berita/sntk1i375/adu-ketangkasan-penyandang-disabilitas-di-kejuaraan-panjat-tebing",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Pinjaman Online di Kalangan Mahasiswa: Menyikapinya dengan Prinsip Islam",
       "link_berita": "https://retizen.republika.co.id/posts/490625/pinjaman-online-di-kalangan-mahasiswa-menyikapinya-dengan-prinsip-islam",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Menjaga Marwah Demokrasi dan Peran Strategisnya Mahasiswa Pasca Pilkada 2024",
       "link_berita": "https://retizen.republika.co.id/posts/490623/menjaga-marwah-demokrasi-dan-peran-strategisnya-mahasiswa-pasca-pilkada-2024",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Mengintegrasikan Pendidikan Muatan Lokal Diniyah dalam Kurikulum Nasional: Sebuah Kebutuhan Mendesak",
       "link_berita": "https://retizen.republika.co.id/posts/490617/mengintegrasikan-pendidikan-muatan-lokal-diniyah-dalam-kurikulum-nasional-sebuah-kebutuhan-mendesak",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Etika Bisnis Islam: Kunci Sukses Generasi Z Berbisnis dengan Integritas",
       "link_berita": "https://retizen.republika.co.id/posts/490644/etika-bisnis-islam-kunci-sukses-generasi-z-berbisnis-dengan-integritas",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Dampak Sinar UV terhadap Mata Anak dan Cara Perlindungannya",
       "link_berita": "https://retizen.republika.co.id/posts/490638/dampak-sinar-uv-terhadap-mata-anak-dan-cara-perlindungannya",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Pahlawan Tanpa Sirine: Dari Medan Operasi ke Ruang Operasi",
       "link_berita": "https://retizen.republika.co.id/posts/490646/pahlawan-tanpa-sirine-dari-medan-operasi-ke-ruang-operasi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Mengapa Anak-Anak Mulai tak Tertarik Mengaji?",
       "link_berita": "https://retizen.republika.co.id/posts/490645/mengapa-anak-anak-mulai-tak-tertarik-mengaji",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
-    },
-    {
-      "judul": "Di Mana Masa Lalu Menjadi Pemenangnya",
-      "link_berita": "https://retizen.republika.co.id/posts/490651/di-mana-masa-lalu-menjadi-pemenangnya",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
-    },
-    {
-      "judul": "Penggunaan Teknologi AI dalam Dunia Medis Semakin Dibutuhkan",
-      "link_berita": "https://retizen.republika.co.id/posts/490652/penggunaan-teknologi-ai-dalam-dunia-medis-semakin-dibutuhkan",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
-    },
-    {
-      "judul": "Pecahan Ombak Itu Rinduku",
-      "link_berita": "https://retizen.republika.co.id/posts/490649/pecahan-ombak-itu-rinduku",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
-    },
-    {
-      "judul": "Puluhan Ribu Pelari dari 29 Negara Ikuti Borobudur Marathon",
-      "link_berita": "https://visual.republika.co.id/berita/sntjvo375/puluhan-ribu-pelari-dari-29-negara-ikuti-borobudur-marathon",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
-    },
-    {
-      "judul": "Mukernas PP Persis Serukan Moderasi Beragama, Palestina Hingga Bahaya Judol",
-      "link_berita": "https://khazanah.republika.co.id/berita/snt7gw366/mukernas-pp-persis-serukan-moderasi-beragama-palestina-hingga-bahaya-judol",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:18:43"
-    },
-    {
-      "judul": "KPU Tetapkan Pramono-Rano Menang di Kepulauan Seribu",
-      "link_berita": "https://news.republika.co.id/berita/snthxo409/kpu-tetapkan-pramonorano-menang-di-kepulauan-seribu",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 14:18:43"
-    },
-    {
-      "judul": "Banyak Startup Gagal, BINUS Business School Dorong Ketahanan Bisnis",
-      "link_berita": "https://news.republika.co.id/berita/sntk7p320/banyak-startup-gagal-binus-business-school-dorong-ketahanan-bisnis",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 14:18:43"
-    },
-    {
-      "judul": "Mengenal Tradisi Serak Gulo, Wujud Syukur Muslim Keturunan India di Padang",
-      "link_berita": "https://visual.republika.co.id/berita/sntjss375/mengenal-tradisi-serak-gulo-wujud-syukur-muslim-keturunan-india-di-padang",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 14:18:43"
-    },
-    {
-      "judul": "Sejarawan AS Asli Palestina: Warga Israel tak Paham Konflik, Mereka Hidup di Kepalsuan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sntj01320/sejarawan-as-asli-palestina-warga-israel-tak-paham-konflik-mereka-hidup-di-kepalsuan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 14:18:43"
-    },
-    {
-      "judul": "Rekapitulasi Suara Pilgub Jabar Sudah di Tingkat Kabupaten dan Kota, Dedi-Erwan Unggul",
-      "link_berita": "https://news.republika.co.id/berita/snthnu409/rekapitulasi-suara-pilgub-jabar-sudah-di-tingkat-kabupaten-dan-kota-dedierwan-unggul",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 14:18:43"
-    },
-    {
-      "judul": "Mendes Ajak Muhammadiyah Bangun Desa demi Majukan Indonesia",
-      "link_berita": "https://khazanah.republika.co.id/berita/snthtw366/mendes-ajak-muhammadiyah-bangun-desa-demi-majukan-indonesia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 13:18:43"
-    },
-    {
-      "judul": "Kalahkan Persik 2-0, Persija Naik ke Posisi Empat Klasemen Liga 1",
-      "link_berita": "https://news.republika.co.id/berita/snthgp409/kalahkan-persik-20-persija-naik-ke-posisi-empat-klasemen-liga-1",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 13:18:43"
-    },
-    {
-      "judul": "Perjuangan Imam Nawawi Menuntut Ilmu",
-      "link_berita": "https://khazanah.republika.co.id/berita/sntg7z430/perjuangan-imam-nawawi-menuntut-ilmu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 13:18:43"
-    },
-    {
-      "judul": "Keluarga Gamma Sempat Diminta Polisi untuk Bungkam di Kasus Penembakan SMKN 4 Semarang",
-      "link_berita": "https://rejogja.republika.co.id/berita/sntgle282/keluarga-gamma-sempat-diminta-polisi-untuk-bungkam-di-kasus-penembakan-smkn-4-semarang",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 13:18:43"
+      "tanggal_terbit": "Sunday, 01 Dec 2024, 15:19:11"
     },
     {
       "judul": "Vietnam Larang Vape Mulai 2025",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Sunday, 01 Dec 2024, 22:47:00"
     },
     {
-      "judul": "Wamen Imipas: Golden Visa Dirancang Tarik Investor Bernilai Tinggi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/snshnx370/wamen-imipas-golden-visa-dirancang-tarik-investor-bernilai-tinggi",
+      "judul": "Wamentan Optimistis Tahun Depan Produksi Padi Meningkat, Bulog Siap Kerja Keras",
+      "link_berita": "https://ekonomi.republika.co.id/berita/snu7dk370/wamentan-optimistis-tahun-depan-produksi-padi-meningkat-bulog-siap-kerja-keras",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Sunday, 01 Dec 2024, 22:32:00"
+      "tanggal_terbit": "Monday, 02 Dec 2024, 05:48:00"
     },
     {
       "judul": "Prinsip Green Economy Syariah: Tidak Boleh Ada yang Mubazir",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 30 Nov 2024, 17:08:00"
     },
     {
-      "judul": "Terungkap Sederet Fakta Baru Kasus Remaja Bunuh Ayah-Nenek di Jaksel dari Kesaksian Warga",
-      "link_berita": "https://news.republika.co.id/berita/sntotm487/terungkap-sederet-fakta-baru-kasus-remaja-bunuh-ayahnenek-di-jaksel-dari-kesaksian-warga",
+      "judul": "Pangeran Turki Doakan Pemerintahan Prabowo Maju dan Berjaya",
+      "link_berita": "https://news.republika.co.id/berita/snu8kn484/pangeran-turki-doakan-pemerintahan-prabowo-maju-dan-berjaya",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 02 Dec 2024, 05:15:00"
+      "tanggal_terbit": "Monday, 02 Dec 2024, 06:14:00"
     }
   ],
-  "waktu_scraping": "Monday, 02 Dec 2024, 05:18:43"
+  "waktu_scraping": "Monday, 02 Dec 2024, 06:19:11"
 }
