@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "RI: Standar Ganda di Gaza Jadi Lampu Hijau Lanjutkan Genosida",
+      "link_berita": "https://khazanah.republika.co.id/berita/so1jgz483/ri-standar-ganda-di-gaza-jadi-lampu-hijau-lanjutkan-genosida"
+    },
+    {
+      "judul": "Persimpangan Jalan Transisi Energi",
+      "link_berita": "https://esgnow.republika.co.id/berita/so1oki416/persimpangan-jalan-transisi-energi"
+    },
+    {
       "judul": "Muhammad Jadi Nama Bayi Laki-Laki Terbanyak di Inggris-Wales pada 2023",
       "link_berita": "https://khazanah.republika.co.id/berita/so1lte483/muhammad-jadi-nama-bayi-lakilaki-terbanyak-di-inggriswales-pada-2023"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Pejuang Sergap 50 Tentara Penjajah di Selatan Gaza",
       "link_berita": "https://news.republika.co.id/berita/so1l2s393/pejuang-sergap-50-tentara-penjajah-di-selatan-gaza"
-    },
-    {
-      "judul": "Assad Terancam, Oposisi Suriah Sukses Rebut Kota Hama",
-      "link_berita": "https://news.republika.co.id/berita/so1jvw377/assad-terancam-oposisi-suriah-sukses-rebut-kota-hama"
-    },
-    {
-      "judul": "Kejar Swasembada Pangan, Menteri Dody: PU Hanya Sekadar Tukang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/so0sbv370/kejar-swasembada-pangan-menteri-dody-pu-hanya-sekadar-tukang"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Prabowo Minta Rosan dan Airlangga Kawal Proyek Blok Masela",
+      "link_berita": "https://news.republika.co.id/berita/so1m7b484/prabowo-minta-rosan-dan-airlangga-kawal-proyek-blok-masela"
+    },
+    {
+      "judul": "Manchester City Satu Grup dengan Juventus, Ini Hasil Undian Lengkap Piala Dunia Antarklub",
+      "link_berita": "https://news.republika.co.id/berita/so1ng4348/manchester-city-satu-grup-dengan-juventus-ini-hasil-undian-lengkap-piala-dunia-antarklub"
+    },
     {
       "judul": "Naskah Khutbah Jumat: Jangan Remehkan Dosa-Dosa Kecil",
       "link_berita": "https://iqra.republika.co.id/berita/so1nfo366/naskah-khutbah-jumat-jangan-remehkan-dosadosa-kecil"
@@ -73,316 +81,308 @@
     {
       "judul": "KPK Lelang Berbagai Barang Rampasan dari Rafael Alun, Ini Daftarnya",
       "link_berita": "https://news.republika.co.id/berita/so0nj1487/kpk-lelang-berbagai-barang-rampasan-dari-rafael-alun-ini-daftarnya"
-    },
-    {
-      "judul": "17 Tujuan Diturunkannya Surat Yasin dan 3 Hadits tentang Keutamaaan Membacanya",
-      "link_berita": "https://iqra.republika.co.id/berita/so0l6x320/17-tujuan-diturunkannya-surat-yasin-dan-3-hadits-tentang-keutamaaan-membacanya"
-    },
-    {
-      "judul": "Pengamat Bandingkan STY dan Satoru Soal Adaptasi Bahasa dan Lagu Indonesia Raya",
-      "link_berita": "https://news.republika.co.id/berita/so0kqn348/pengamat-bandingkan-sty-dan-satoru-soal-adaptasi-bahasa-dan-lagu-indonesia-raya"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Upaya Mewujudkan Ketahanan Pangan Indonesia Terus Tuai Dukungan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/so1toj456/upaya-mewujudkan-ketahanan-pangan-indonesia-terus-tuai-dukungan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:42:00"
+    },
+    {
+      "judul": "BSI Targetkan Penjualan Rumah Lebih dari 20 Ribu Unit hingga Akhir 2024",
+      "link_berita": "https://sharia.republika.co.id/berita/so1tsz490/bsi-targetkan-penjualan-rumah-lebih-dari-20-ribu-unit-hingga-akhir-2024",
+      "kategori": "Sharia",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:36:45"
+    },
+    {
+      "judul": "Jadwal Pekan Ke-15 Liga Italia: Incar Puncak Klasemen, Atalanta Hadapi Ujian dari AC Milan",
+      "link_berita": "https://news.republika.co.id/berita/so1tas348/jadwal-pekan-ke15-liga-italia-incar-puncak-klasemen-atalanta-hadapi-ujian-dari-ac-milan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:25:45"
+    },
+    {
+      "judul": "Diakui Sebagai Bank Global, BNI Sabet 2 Penghargaan Bergengsi Internasional dari Corporate",
+      "link_berita": "https://ekonomi.republika.co.id/berita/so1t9m456/diakui-sebagai-bank-global-bni-sabet-2-penghargaan-bergengsi-internasional-dari-corporate",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:24:45"
+    },
+    {
+      "judul": "Bawaslu Jakarta Sudah Panggil Grace Natalie, Cheryl Tanzil, dan Maruarar Sirait",
+      "link_berita": "https://news.republika.co.id/berita/so1t7y484/bawaslu-jakarta-sudah-panggil-grace-natalie-cheryl-tanzil-dan-maruarar-sirait",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:23:45"
+    },
+    {
+      "judul": "Kemenhub hingga Pelni Bikin Program Tiket Kapal Gratis Nataru, Ini Cara Daftarnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/so1t4k490/kemenhub-hingga-pelni-bikin-program-tiket-kapal-gratis-nataru-ini-cara-daftarnya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:21:45"
+    },
+    {
+      "judul": "KPU Tetapkan Paslon Iqbal-Dinda Pemenang Pilgub NTB 2024",
+      "link_berita": "https://news.republika.co.id/berita/so1svu484/kpu-tetapkan-paslon-iqbaldinda-pemenang-pilgub-ntb-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:16:45"
+    },
+    {
+      "judul": "LPOI Pererat Hubungan Indonesia China via Jalur Sutra",
+      "link_berita": "https://khazanah.republika.co.id/berita/so1k8x483/lpoi-pererat-hubungan-indonesia-china-via-jalur-sutra",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:03:45"
+    },
+    {
+      "judul": "Jadwal La Liga Spanyol: Real Madrid Hadapi Girona Saat Peforma Mbappe Dipertanyakan",
+      "link_berita": "https://news.republika.co.id/berita/so1sa4348/jadwal-la-liga-spanyol-real-madrid-hadapi-girona-saat-peforma-mbappe-dipertanyakan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 01:03:45"
+    },
+    {
+      "judul": "Ada 71 Ribu Perempuan Indonesia Ingin Childfree, Begini Kata BKKBN",
+      "link_berita": "https://khazanah.republika.co.id/berita/so1juz483/ada-71-ribu-perempuan-indonesia-ingin-childfree-begini-kata-bkkbn",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:55:45"
+    },
+    {
+      "judul": "IRT Ini Berdoa Tiap Kali Lihat Kontainer, Setahun Kemudian Apa Hasilnya?",
+      "link_berita": "https://oohya.republika.co.id/posts/491924/irt-ini-berdoa-tiap-kali-lihat-kontainer-setahun-kemudian-apa-hasilnya",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:44:45"
+    },
+    {
+      "judul": "Menulis (Puisi) Sebagai Terapi",
+      "link_berita": "https://kingdomsriwijaya.id/posts/491846/menulis-puisi-sebagai-terapi",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Sukabumi Raih Predikat Kota Sangat Inovatif dari Kemendagri",
+      "link_berita": "https://sukabumikini.com/posts/491865/sukabumi-raih-predikat-kota-sangat-inovatif-dari-kemendagri",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Climeon Pakai Teknologi ORC, Kurangi Emisi Gas Rumah Kaca Industri Maritim",
+      "link_berita": "https://shippingcargo.co.id/posts/491851/climeon-pakai-teknologi-orc-kurangi-emisi-gas-rumah-kaca-industri-maritim",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Kurator Batal Hadiri Mediasi, Ini Tanggapan Sritex",
+      "link_berita": "https://rublikasi.com/posts/491909/kurator-batal-hadiri-mediasi-ini-tanggapan-sritex",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Darjeeling, Resto di Bandung Utara yang Hadir dengan Menu Baru Lebih Otentik",
+      "link_berita": "https://bandung24jam.id/posts/491916/darjeeling-resto-di-bandung-utara-yang-hadir-dengan-menu-baru-lebih-otentik",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Kisah Seseorang Sedekah Sembunyi-Sembunyi Namun tidak Tepat Sasaran",
+      "link_berita": "https://magentatoday.id/posts/491949/kisah-seseorang-sedekah-sembunyi-sembunyi-namun-tidak-tepat-sasaran",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Proses Seleksi Petugas Haji Diperketat, Kemenag Jamin Transparansi",
+      "link_berita": "https://topnews62.com/posts/491986/proses-seleksi-petugas-haji-diperketat-kemenag-jamin-transparansi",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "All New Santa Fe Hybrid, Menjelajahi Perbukitan Bandung Tanpa Kesulitan",
+      "link_berita": "https://motoresto.id/posts/491989/all-new-santa-fe-hybrid-menjelajahi-perbukitan-bandung-tanpa-kesulitan",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Cara Mengubah Ponsel Lama Anda Menjadi Kamera Dasbor, Simak Langkahnya",
+      "link_berita": "https://impresiupdate.id/posts/491992/cara-mengubah-ponsel-lama-anda-menjadi-kamera-dasbor-simak-langkahnya",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "Gagal Menang Pilwalkot Batu 2024, Krisdayanti Minta Maaf ke Megawati",
+      "link_berita": "https://news.republika.co.id/berita/so1qr1484/gagal-menang-pilwalkot-batu-2024-krisdayanti-minta-maaf-ke-megawati",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 00:42:45"
+    },
+    {
+      "judul": "RI: Standar Ganda di Gaza Jadi Lampu Hijau Lanjutkan Genosida",
+      "link_berita": "https://khazanah.republika.co.id/berita/so1jgz483/ri-standar-ganda-di-gaza-jadi-lampu-hijau-lanjutkan-genosida",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
+    },
+    {
+      "judul": "Lahan Pertanian di Lumajang Gunakan Pompa Air Tenaga Surya untuk Irigasi",
+      "link_berita": "https://visual.republika.co.id/berita/so16ba375/lahan-pertanian-di-lumajang-gunakan-pompa-air-tenaga-surya-untuk-irigasi",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
+    },
+    {
+      "judul": "Golkar Siap Terima Jokowi dan Gibran Jika Ingin Bergabung",
+      "link_berita": "https://news.republika.co.id/berita/so1ncz484/golkar-siap-terima-jokowi-dan-gibran-jika-ingin-bergabung",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
+    },
+    {
+      "judul": "Persimpangan Jalan Transisi Energi",
+      "link_berita": "https://esgnow.republika.co.id/berita/so1oki416/persimpangan-jalan-transisi-energi",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
+    },
+    {
+      "judul": "Prabowo Minta Rosan dan Airlangga Kawal Proyek Blok Masela",
+      "link_berita": "https://news.republika.co.id/berita/so1m7b484/prabowo-minta-rosan-dan-airlangga-kawal-proyek-blok-masela",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
+    },
+    {
       "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024 di Kota Palembang: Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/so1ng6986174412/prakiraan-cuaca-hari-ini-6-desember-2024-di-kota-palembang-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:19:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
     },
     {
       "judul": "Manchester City Satu Grup dengan Juventus, Ini Hasil Undian Lengkap Piala Dunia Antarklub",
       "link_berita": "https://news.republika.co.id/berita/so1ng4348/manchester-city-satu-grup-dengan-juventus-ini-hasil-undian-lengkap-piala-dunia-antarklub",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:19:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
     },
     {
       "judul": "Naskah Khutbah Jumat: Jangan Remehkan Dosa-Dosa Kecil",
       "link_berita": "https://iqra.republika.co.id/berita/so1nfo366/naskah-khutbah-jumat-jangan-remehkan-dosadosa-kecil",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:18:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:42:45"
     },
     {
       "judul": "Pemkab Kuningan Larang Pertemuan Rutin Jemaah Ahmadiyah Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/so11ua483/pemkab-kuningan-larang-pertemuan-rutin-jemaah-ahmadiyah-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:12:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Tottenham Hotspur Tim Unggulan Terbaru yang Jadi Korban Bournemouth di Liga Inggris",
       "link_berita": "https://news.republika.co.id/berita/so1n1m348/tottenham-hotspur-tim-unggulan-terbaru-yang-jadi-korban-bournemouth-di-liga-inggris",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:10:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Basuki: Perkantoran dan Hunian di IKN Siap Digunakan Bulan Ini",
       "link_berita": "https://news.republika.co.id/berita/so1ly3484/basuki-perkantoran-dan-hunian-di-ikn-siap-digunakan-bulan-ini",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:09:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "BP Haji Jamin tak Ada Rekomendasi Keluarga dalam Seleksi Petugas Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/so0zml483/bp-haji-jamin-tak-ada-rekomendasi-keluarga-dalam-seleksi-petugas-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:06:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Mengapa Partisipasi Pemilih di Jakarta Sangat Rendah? Ini Analisis dari Pengamat",
       "link_berita": "https://news.republika.co.id/berita/so1mu5377/mengapa-partisipasi-pemilih-di-jakarta-sangat-rendah-ini-analisis-dari-pengamat",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:06:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Hattrick Noslin Antarkan Lazio Singkirkan Napoli di 16 Besar Coppa Italia",
       "link_berita": "https://news.republika.co.id/berita/so1mor348/hattrick-noslin-antarkan-lazio-singkirkan-napoli-di-16-besar-coppa-italia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:02:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Industri Logistik Minta Tarif Tol JTCC Dievaluasi, Ini Alasannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/so1mmo320/industri-logistik-minta-tarif-tol-jtcc-dievaluasi-ini-alasannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:01:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Ikhtiar Mengakhiri Korupsi Melalui Transparansi dan Keterbukaan Dana Publik",
       "link_berita": "https://analisis.republika.co.id/berita/so1mfe320/ikhtiar-mengakhiri-korupsi-melalui-transparansi-dan-keterbukaan-dana-publik",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:57:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "RUU Masyarakat Adat Kunci Keberhasilan Konservasi",
       "link_berita": "https://esgnow.republika.co.id/berita/so1mf5416/ruu-masyarakat-adat-kunci-keberhasilan-konservasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:57:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Prakiraan Cuaca Hari Ini Tanggal 6 Desember 2024: Kota Denpasar Bali dan Sekitarnya - Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/so1m231396728191/prakiraan-cuaca-hari-ini-tanggal-6-desember-2024-kota-denpasar-bali-dan-sekitarnya-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:49:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Allah Memberi Takaran Rezeki Berbeda kepada Setiap Manusia, Apa Rahasianya?",
       "link_berita": "https://khazanah.republika.co.id/berita/so1082483/allah-memberi-takaran-rezeki-berbeda-kepada-setiap-manusia-apa-rahasianya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:46:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Muhammad Jadi Nama Bayi Laki-Laki Terbanyak di Inggris-Wales pada 2023",
       "link_berita": "https://khazanah.republika.co.id/berita/so1lte483/muhammad-jadi-nama-bayi-lakilaki-terbanyak-di-inggriswales-pada-2023",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:43:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "AS Ngotot tak Ada Genosida di Gaza",
       "link_berita": "https://news.republika.co.id/berita/so1lsw393/as-ngotot-tak-ada-genosida-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:43:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Timnas Putri Berterima Kasih pada Masyarakat Indonesia Usai Juara Piala AFF 2024",
       "link_berita": "https://news.republika.co.id/berita/so1lsv348/timnas-putri-berterima-kasih-pada-masyarakat-indonesia-usai-juara-piala-aff-2024",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:43:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Interpol Indonesia Ungkap Lima Pintu Imigrasi yang Sering Dipakai WNA Buronan ke Tanah Air",
       "link_berita": "https://news.republika.co.id/berita/so1lc1348/interpol-indonesia-ungkap-lima-pintu-imigrasi-yang-sering-dipakai-wna-buronan-ke-tanah-air",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:33:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024 di Kota Makassar dan Sekitarnya: Hujan Sedang",
       "link_berita": "https://news.republika.co.id/berita/so1l8d966540269/prakiraan-cuaca-hari-ini-6-desember-2024-di-kota-makassar-dan-sekitarnya-hujan-sedang",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:31:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Pejuang Sergap 50 Tentara Penjajah di Selatan Gaza",
       "link_berita": "https://news.republika.co.id/berita/so1l2s393/pejuang-sergap-50-tentara-penjajah-di-selatan-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:27:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024: Medan, Hujan Sedang",
       "link_berita": "https://news.republika.co.id/berita/so1ko72124892199/prakiraan-cuaca-hari-ini-6-desember-2024-medan-hujan-sedang",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:20:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Tiga Arti Kata yang Diucapkan Gus Miftah ke Yati Pesek Menurut KBBI",
       "link_berita": "https://khazanah.republika.co.id/berita/so1kml430/tiga-arti-kata-yang-diucapkan-gus-miftah-ke-yati-pesek-menurut-kbbi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:20:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Pramono-Rano Unggul di Pilgub Jakarta dengan Tingkat Partisipasi Pemilih Hanya 58 Persen",
       "link_berita": "https://news.republika.co.id/berita/so12wc409/pramonorano-unggul-di-pilgub-jakarta-dengan-tingkat-partisipasi-pemilih-hanya-58-persen",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:20:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "WN China, Buronan Interpol Sindikat Judol Diringkus Imigrasi Batam",
       "link_berita": "https://news.republika.co.id/berita/so1kij377/wn-china-buronan-interpol-sindikat-judol-diringkus-imigrasi-batam",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:20:34"
-    },
-    {
-      "judul": "Assad Terancam, Oposisi Suriah Sukses Rebut Kota Hama",
-      "link_berita": "https://news.republika.co.id/berita/so1jvw377/assad-terancam-oposisi-suriah-sukses-rebut-kota-hama",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:20:34"
-    },
-    {
-      "judul": "Rahasia di Balik Doa dengan Asmaul Husna",
-      "link_berita": "https://khazanah.republika.co.id/berita/so10mk483/rahasia-di-balik-doa-dengan-asmaul-husna",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini Tanggal 6 Desember 2024 Daerah Kota Surabaya dan Sekitarnya",
-      "link_berita": "https://news.republika.co.id/berita/so1jab814404042/prakiraan-cuaca-hari-ini-tanggal-6-desember-2024-daerah-kota-surabaya-dan-sekitarnya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 21:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024: Udara Kabur di Kota Yogyakarta dan Sekitarnya",
-      "link_berita": "https://news.republika.co.id/berita/so1ig21415967329/prakiraan-cuaca-hari-ini-6-desember-2024-udara-kabur-di-kota-yogyakarta-dan-sekitarnya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 21:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024: Kota Semarang Berawan",
-      "link_berita": "https://news.republika.co.id/berita/so1hm5819997596/prakiraan-cuaca-hari-ini-6-desember-2024-kota-semarang-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 21:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024: Kota Tangerang dan Sekitarnya Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/so1h0m1022142057/prakiraan-cuaca-hari-ini-6-desember-2024-kota-tangerang-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 21:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024 untuk Kota Jakarta: Hujan Ringan di Jakarta Selatan",
-      "link_berita": "https://news.republika.co.id/berita/so1ggj1261255364/prakiraan-cuaca-hari-ini-6-desember-2024-untuk-kota-jakarta-hujan-ringan-di-jakarta-selatan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Judul: Ketahui Waktu Tepat untuk Menunaikan Ibadah: Jadwal Sholat Hari ini di Palembang, 06 December 2024",
-      "link_berita": "https://iqra.republika.co.id/berita/so1g2w968205171/judul-ketahui-waktu-tepat-untuk-menunaikan-ibadah-jadwal-sholat-hari-ini-di-palembang-06-december-2024",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024 Daerah Bekasi dan Sekitarnya Berawan",
-      "link_berita": "https://news.republika.co.id/berita/so1fmd398889578/prakiraan-cuaca-hari-ini-6-desember-2024-daerah-bekasi-dan-sekitarnya-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini, 6 Desember 2024: Cerah di Bukittinggi",
-      "link_berita": "https://news.republika.co.id/berita/so1fl12116862980/prakiraan-cuaca-hari-ini-6-desember-2024-cerah-di-bukittinggi",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Ada Pendapat Lelaki Akhir Zaman akan Menikahi 50 Perempuan, Ini Penjelasan UAH",
-      "link_berita": "https://khazanah.republika.co.id/berita/so11j8483/ada-pendapat-lelaki-akhir-zaman-akan-menikahi-50-perempuan-ini-penjelasan-uah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini, 6 Desember 2024: Menggapai Ketentraman dengan Sholat di Yogyakarta",
-      "link_berita": "https://iqra.republika.co.id/berita/so1eoz1481650722/jadwal-sholat-hari-ini-6-desember-2024-menggapai-ketentraman-dengan-sholat-di-yogyakarta",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini, 6 Desember 2024, Kota Banda Aceh dan Sekitarnya: Berawan",
-      "link_berita": "https://news.republika.co.id/berita/so1elz665145356/prakiraan-cuaca-hari-ini-6-desember-2024-kota-banda-aceh-dan-sekitarnya-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 20:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024, Kota Mataram dan Sekitarnya",
-      "link_berita": "https://news.republika.co.id/berita/so1dq31367544163/prakiraan-cuaca-hari-ini-6-desember-2024-kota-mataram-dan-sekitarnya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 19:20:34"
-    },
-    {
-      "judul": "Keutamaan Sholat dan Jadwal Sholat Hari Ini di Jakarta - 06 Desember 2024",
-      "link_berita": "https://iqra.republika.co.id/berita/so1d5x657930939/keutamaan-sholat-dan-jadwal-sholat-hari-ini-di-jakarta-06-desember-2024",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 19:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024 Daerah Kota Balikpapan dan Sekitarnya: Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/so1d2q218311433/prakiraan-cuaca-hari-ini-6-desember-2024-daerah-kota-balikpapan-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 19:20:34"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini untuk Kota Medan dan Tanggal 06 Desember 2024: Pentingnya Mengoptimalkan Ibadah",
-      "link_berita": "https://iqra.republika.co.id/berita/so1bqb445009488/jadwal-sholat-hari-ini-untuk-kota-medan-dan-tanggal-06-desember-2024-pentingnya-mengoptimalkan-ibadah",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 19:20:34"
-    },
-    {
-      "judul": "Kejar Swasembada Pangan, Menteri Dody: PU Hanya Sekadar Tukang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/so0sbv370/kejar-swasembada-pangan-menteri-dody-pu-hanya-sekadar-tukang",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 19:20:34"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 6 Desember 2024 untuk Bogor dan Sekitarnya Hujan Petir",
-      "link_berita": "https://news.republika.co.id/berita/so1bgk2059502411/prakiraan-cuaca-hari-ini-6-desember-2024-untuk-bogor-dan-sekitarnya-hujan-petir",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 19:20:34"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Depok, 06 Desember 2024: Tingkatkan Ketakwaan dengan Kebiasaan Baik",
-      "link_berita": "https://iqra.republika.co.id/berita/so1ara2022604004/jadwal-sholat-hari-ini-di-depok-06-desember-2024-tingkatkan-ketakwaan-dengan-kebiasaan-baik",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 18:20:34"
-    },
-    {
-      "judul": "Kementan Usulkan Rp 23,61 Triliun dari Anggaran 2025 untuk Swasembada Beras",
-      "link_berita": "https://ekonomi.republika.co.id/berita/so0s4o370/kementan-usulkan-rp-2361-triliun-dari-anggaran-2025-untuk-swasembada-beras",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 18:20:34"
-    },
-    {
-      "judul": "Anwar Ibrahim Soroti Gus Miftah Hina Penjual Es Teh, Bagi Dirinya Juga Jadi Pelajaran",
-      "link_berita": "https://news.republika.co.id/berita/so121u409/anwar-ibrahim-soroti-gus-miftah-hina-penjual-es-teh-bagi-dirinya-juga-jadi-pelajaran",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 18:20:34"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini: Semarang, 06 December 2024",
-      "link_berita": "https://iqra.republika.co.id/berita/so19lm296226598/jadwal-sholat-hari-ini-semarang-06-december-2024",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 18:20:34"
-    },
-    {
-      "judul": "PELNI Siapkan 55 Kapal untuk Periode Natal 2024 dan Tahun Baru 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/so0rwk370/pelni-siapkan-55-kapal-untuk-periode-natal-2024-dan-tahun-baru-2025",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 18:20:34"
-    },
-    {
-      "judul": "Kekuatan Sholat Tahajud Menurut Alquran dan Hadits",
-      "link_berita": "https://khazanah.republika.co.id/berita/so1109483/kekuatan-sholat-tahajud-menurut-alquran-dan-hadits",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 18:20:34"
-    },
-    {
-      "judul": "Indonesia Women's Team Wins AFF Cup 2024 After Silencing Cambodia 3-1",
-      "link_berita": "https://en.republika.co.id/berita/so13ep415/indonesia-womens-team-wins-aff-cup-2024-after-silencing-cambodia-31",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 23:20:34"
+      "tanggal_terbit": "Thursday, 05 Dec 2024, 22:42:45"
     },
     {
       "judul": "Taylor Swift, Artis Top Global Spotify 2024 dengan 26,6 Miliar Streaming",
@@ -391,29 +391,29 @@
       "tanggal_terbit": "Thursday, 05 Dec 2024, 23:29:00"
     },
     {
-      "judul": "RUU Masyarakat Adat Kunci Keberhasilan Konservasi",
-      "link_berita": "https://esgnow.republika.co.id/berita/so1mf5416/ruu-masyarakat-adat-kunci-keberhasilan-konservasi",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 06 Dec 2024, 05:57:00"
+      "judul": "Persimpangan Jalan Transisi Energi",
+      "link_berita": "https://esgnow.republika.co.id/berita/so1oki416/persimpangan-jalan-transisi-energi",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 06:43:00"
     },
     {
-      "judul": "Industri Logistik Minta Tarif Tol JTCC Dievaluasi, Ini Alasannya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/so1mmo320/industri-logistik-minta-tarif-tol-jtcc-dievaluasi-ini-alasannya",
+      "judul": "Diakui Sebagai Bank Global, BNI Sabet 2 Penghargaan Bergengsi Internasional dari Corporate",
+      "link_berita": "https://ekonomi.republika.co.id/berita/so1t9m456/diakui-sebagai-bank-global-bni-sabet-2-penghargaan-bergengsi-internasional-dari-corporate",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 06 Dec 2024, 06:01:00"
+      "tanggal_terbit": "Friday, 06 Dec 2024, 08:24:00"
     },
     {
-      "judul": "BPJPH dan Kementan Sinergi Pantau Jaminan Produk Halal di RPH",
-      "link_berita": "https://sharia.republika.co.id/berita/so0jzt490/bpjph-dan-kementan-sinergi-pantau-jaminan-produk-halal-di-rph",
-      "kategori": "Industri Halal Sharia",
-      "tanggal_terbit": "Thursday, 05 Dec 2024, 16:07:00"
+      "judul": "BSI Targetkan Penjualan Rumah Lebih dari 20 Ribu Unit hingga Akhir 2024",
+      "link_berita": "https://sharia.republika.co.id/berita/so1tsz490/bsi-targetkan-penjualan-rumah-lebih-dari-20-ribu-unit-hingga-akhir-2024",
+      "kategori": "Keuangan Sharia",
+      "tanggal_terbit": "Friday, 06 Dec 2024, 08:36:00"
     },
     {
-      "judul": "Manchester City Satu Grup dengan Juventus, Ini Hasil Undian Lengkap Piala Dunia Antarklub",
-      "link_berita": "https://news.republika.co.id/berita/so1ng4348/manchester-city-satu-grup-dengan-juventus-ini-hasil-undian-lengkap-piala-dunia-antarklub",
+      "judul": "Jadwal Pekan Ke-15 Liga Italia: Incar Puncak Klasemen, Atalanta Hadapi Ujian dari AC Milan",
+      "link_berita": "https://news.republika.co.id/berita/so1tas348/jadwal-pekan-ke15-liga-italia-incar-puncak-klasemen-atalanta-hadapi-ujian-dari-ac-milan",
       "kategori": "Sport",
-      "tanggal_terbit": "Friday, 06 Dec 2024, 06:19:00"
+      "tanggal_terbit": "Friday, 06 Dec 2024, 08:25:00"
     }
   ],
-  "waktu_scraping": "Friday, 06 Dec 2024, 06:20:34"
+  "waktu_scraping": "Friday, 06 Dec 2024, 08:42:45"
 }
