@@ -1,12 +1,16 @@
 {
   "berita_headline": [
     {
+      "judul": "Pendeta Gilbert: Halal Untuk Kita Semua, Bukan Islamisasi",
+      "link_berita": "https://khazanah.republika.co.id/berita/soojap430/pendeta-gilbert-halal-untuk-kita-semua-bukan-islamisasi"
+    },
+    {
       "judul": "Australia Tarik Produk Indomie dari Peredaran, Mengandung Alergen yang tak Dicatat",
       "link_berita": "https://ekonomi.republika.co.id/berita/soogwf370/australia-tarik-produk-indomie-dari-peredaran-mengandung-alergen-yang-tak-dicatat"
     },
     {
-      "judul": "Lima Ibu-Ibu Ikut Ditetapkan Tersangka dalam Kasus Penyiksaan Bocah di Boyolali",
-      "link_berita": "https://news.republika.co.id/berita/sooe6i377/lima-ibuibu-ikut-ditetapkan-tersangka-dalam-kasus-penyiksaan-bocah-di-boyolali"
+      "judul": "Lima Ibu Ikut Ditetapkan Tersangka dalam Kasus Penyiksaan Bocah di Boyolali",
+      "link_berita": "https://news.republika.co.id/berita/sooe6i377/lima-ibu-ikut-ditetapkan-tersangka-dalam-kasus-penyiksaan-bocah-di-boyolali"
     },
     {
       "judul": "Warga Bentrok dengan Pekerja Proyek di Tanah Abang Tewaskan Satu Orang",
@@ -15,13 +19,17 @@
     {
       "judul": "Exit Tol KM 149 dan KM 151 Padaleunyi Dapat Digunakan Saat Libur Nataru",
       "link_berita": "https://rejabar.republika.co.id/berita/soo9vx512/exit-tol-km-149-dan-km-151-padaleunyi-dapat-digunakan-saat-libur-nataru"
-    },
-    {
-      "judul": "Politisi Senior PDIP Yasonna Laoly Penuhi Panggilan KPK",
-      "link_berita": "https://news.republika.co.id/berita/soo7gy409/politisi-senior-pdip-yasonna-laoly-penuhi-panggilan-kpk"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Usai Jokowi Dipecat PDIP, Projo Siap Berubah Jadi Partai",
+      "link_berita": "https://news.republika.co.id/berita/sook7s484/usai-jokowi-dipecat-pdip-projo-siap-berubah-jadi-partai"
+    },
+    {
+      "judul": "Perwira IDF Tewas Ketiban Gedung di Rafah",
+      "link_berita": "https://news.republika.co.id/berita/sooiwm393/perwira-idf-tewas-ketiban-gedung-di-rafah"
+    },
     {
       "judul": "Kremlin: Jenderal Rusia yang Dibunuh Berulangkali Ungkap Kejahatan Amerika dkk",
       "link_berita": "https://news.republika.co.id/berita/soofr3377/kremlin-jenderal-rusia-yang-dibunuh-berulangkali-ungkap-kejahatan-amerika-dkk"
@@ -73,316 +81,308 @@
     {
       "judul": "Untuk Hadapi Tesla dan Produsen EV China, Honda dan Nissan Mulai Negosiasi Merger",
       "link_berita": "https://ekonomi.republika.co.id/berita/songen468/untuk-hadapi-tesla-dan-produsen-ev-china-honda-dan-nissan-mulai-negosiasi-merger"
-    },
-    {
-      "judul": "Menhub: Direct Train Bisa Kurangi Penggunaan Kendaraan Pribadi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/son9c0423/menhub-direct-train-bisa-kurangi-penggunaan-kendaraan-pribadi"
-    },
-    {
-      "judul": "Positif Narkoba, Sembilan Napi di Rutan Semarang Dipindah ke Nusakambangan",
-      "link_berita": "https://news.republika.co.id/berita/son36l430/positif-narkoba-sembilan-napi-di-rutan-semarang-dipindah-ke-nusakambangan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kemendagri Raih Penghargaan Keterbukaan Informasi Publik Tahun 2024",
+      "link_berita": "https://news.republika.co.id/berita/sookne370/kemendagri-raih-penghargaan-keterbukaan-informasi-publik-tahun-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:23:22"
+    },
+    {
+      "judul": "Baznas RI Alokasikan 40 Persen untuk Pengentasan Kemiskinan dan Stunting",
+      "link_berita": "https://khazanah.republika.co.id/berita/sookie423/baznas-ri-alokasikan-40-persen-untuk-pengentasan-kemiskinan-dan-stunting",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:20:22"
+    },
+    {
+      "judul": "Bea Cukai Resmikan Pemberlakuan 10 Alat Pemindai Peti Kemas di Pelabuhan Tanjung Priok",
+      "link_berita": "https://republika.co.id/berita/sookho370/bea-cukai-resmikan-pemberlakuan-10-alat-pemindai-peti-kemas-di-pelabuhan-tanjung-priok",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:20:22"
+    },
+    {
+      "judul": "Usai Jokowi Dipecat PDIP, Projo Siap Berubah Jadi Partai",
+      "link_berita": "https://news.republika.co.id/berita/sook7s484/usai-jokowi-dipecat-pdip-projo-siap-berubah-jadi-partai",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:14:22"
+    },
+    {
+      "judul": "Rayakan HUT Ke-129, BRI Punya Promo Spesial KPR dengan Suku Bunga Mulai dari 2,29 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sooexm502/rayakan-hut-ke129-bri-punya-promo-spesial-kpr-dengan-suku-bunga-mulai-dari-229-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:14:22"
+    },
+    {
+      "judul": "Prakiraan Cuaca untuk 19 Desember 2024 di Kota Semarang: Cerah Berawan",
+      "link_berita": "https://news.republika.co.id/berita/sook641020183601/prakiraan-cuaca-untuk-19-desember-2024-di-kota-semarang-cerah-berawan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:13:22"
+    },
+    {
+      "judul": "60 Ribu Masyarakat di Kota Bandung Alami Kemiskinan Ekstrem",
+      "link_berita": "https://rejabar.republika.co.id/berita/sook19512/60-ribu-masyarakat-di-kota-bandung-alami-kemiskinan-ekstrem",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:10:22"
+    },
+    {
+      "judul": "Al-Irsyad DKI Jakarta Gelar Muswil, Bahas Krisis Lingkungan Perkotaan",
+      "link_berita": "https://khazanah.republika.co.id/berita/soojeo430/alirsyad-dki-jakarta-gelar-muswil-bahas-krisis-lingkungan-perkotaan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:07:22"
+    },
+    {
+      "judul": "Pendeta Gilbert: Halal Untuk Kita Semua, Bukan Islamisasi",
+      "link_berita": "https://khazanah.republika.co.id/berita/soojap430/pendeta-gilbert-halal-untuk-kita-semua-bukan-islamisasi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:06:22"
+    },
+    {
+      "judul": "Bangun Desa Cerdas, Kementerian Desa Perkuat Literasi Digital dengan OVP",
+      "link_berita": "https://news.republika.co.id/berita/sooclo451/bangun-desa-cerdas-kementerian-desa-perkuat-literasi-digital-dengan-ovp",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:01:22"
+    },
+    {
+      "judul": "Prakiraan Cuaca Kota Tangerang dan Sekitarnya, 19 Desember 2024",
+      "link_berita": "https://news.republika.co.id/berita/soojkb464666794/prakiraan-cuaca-kota-tangerang-dan-sekitarnya-19-desember-2024",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 08:00:22"
+    },
+    {
+      "judul": "BNPB: Risiko Bencana Semakin Tinggi",
+      "link_berita": "https://esgnow.republika.co.id/berita/soojg2416/bnpb-risiko-bencana-semakin-tinggi",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:57:22"
+    },
+    {
+      "judul": "Prakiraan Cuaca Bandung dan Sekitarnya Besok 19 Desember 2024: Hujan di Siang Hari",
+      "link_berita": "https://news.republika.co.id/berita/soojad1797833986/prakiraan-cuaca-bandung-dan-sekitarnya-besok-19-desember-2024-hujan-di-siang-hari",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:54:22"
+    },
+    {
+      "judul": "ASN Pemkot Cimahi yang Terlibat Dugaan Korupsi Diberhentikan Sementara",
+      "link_berita": "https://rejabar.republika.co.id/berita/sooj86512/asn-pemkot-cimahi-yang-terlibat-dugaan-korupsi-diberhentikan-sementara",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:53:22"
+    },
+    {
+      "judul": "Hukum Garansi dalam Transaksi Jual Beli",
+      "link_berita": "https://retizen.republika.co.id/posts/496601/hukum-garansi-dalam-transaksi-jual-beli",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:52:22"
+    },
+    {
+      "judul": "Minum Secangkir Coklat Hangat Atasi Stres",
+      "link_berita": "https://retizen.republika.co.id/posts/496610/minum-secangkir-coklat-hangat-atasi-stres",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:51:22"
+    },
+    {
+      "judul": "Pengaruh Kedatangan Portugis bagi Kota Pelabuhan di Nusantara",
+      "link_berita": "https://retizen.republika.co.id/posts/496623/pengaruh-kedatangan-portugis-bagi-kota-pelabuhan-di-nusantara",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:51:22"
+    },
+    {
+      "judul": "Muhasabah atas Musibah",
+      "link_berita": "https://retizen.republika.co.id/posts/496631/muhasabah-atas-musibah",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:51:22"
+    },
+    {
+      "judul": "Aksi Bela Palestina Perspektif Gerakan Sosial Islam",
+      "link_berita": "https://retizen.republika.co.id/posts/496640/aksi-bela-palestina-perspektif-gerakan-sosial-islam",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:51:22"
+    },
+    {
+      "judul": "Nabi Muhammad SAW: Lebih Baik Bekerja daripada Meminta-Minta",
+      "link_berita": "https://khazanah.republika.co.id/berita/sooj5w430/nabi-muhammad-saw-lebih-baik-bekerja-daripada-memintaminta",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:51:22"
+    },
+    {
+      "judul": "Perwira IDF Tewas Ketiban Gedung di Rafah",
+      "link_berita": "https://news.republika.co.id/berita/sooiwm393/perwira-idf-tewas-ketiban-gedung-di-rafah",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:46:22"
+    },
+    {
+      "judul": "RDG Desember 2024: BI Tetap Pertahankan Suku Bunga di 6 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sooiwa370/rdg-desember-2024-bi-tetap-pertahankan-suku-bunga-di-6-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:45:22"
+    },
+    {
+      "judul": "Prodi Manajemen UNM Kunjungi BEI, Tingkatkan Pemahaman Pasar Modal Mahasiswa",
+      "link_berita": "https://news.republika.co.id/berita/sooiqm370/prodi-manajemen-unm-kunjungi-bei-tingkatkan-pemahaman-pasar-modal-mahasiswa",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:42:22"
+    },
+    {
+      "judul": "Ringo Starr Berharap The Beatles Memenangkan Grammy untuk Lagu Now and Then",
+      "link_berita": "https://impresiupdate.id/posts/496583/ringo-starr-berharap-the-beatles-memenangkan-grammy-untuk-lagu-now-and-then",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:40:22"
+    },
+    {
+      "judul": "Pharrell Williams Ditunjuk Sebagai Duta Besar UNESCO Pendidikan Seni dan Kewirausahaan",
+      "link_berita": "https://impresiupdate.id/posts/496581/pharrell-williams-ditunjuk-sebagai-duta-besar-unesco-pendidikan-seni-dan-kewirausahaan",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:40:22"
+    },
+    {
+      "judul": "Sam Fender: Pita Suara Kanan Saya Berdarah, Saya Benar-benar Patah Hati",
+      "link_berita": "https://impresiupdate.id/posts/496578/sam-fender-pita-suara-kanan-saya-berdarah-saya-benar-benar-patah-hati",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:40:22"
+    },
+    {
+      "judul": "Melihat Keseruan Even Legendaris Balap Kereta Peti Sabun",
+      "link_berita": "https://bandung24jam.id/posts/496566/melihat-keseruan-even-legendaris-balap-kereta-peti-sabun",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:40:22"
+    },
+    {
+      "judul": "Budaya Makan Ikan Sebagai Upaya Percepatan Penurunan Angka Stunting",
+      "link_berita": "https://bandung24jam.id/posts/496586/budaya-makan-ikan-sebagai-upaya-percepatan-penurunan-angka-stunting",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:39:22"
+    },
+    {
+      "judul": "Kalah di Pilkada Depok, Paslon Imam-Ririn Akhirnya Ucapkan Selamat ke Supian-Chandra",
+      "link_berita": "https://ruzkaindonesia.id/posts/496600/kalah-di-pilkada-depok-paslon-imam-ririn-akhirnya-ucapkan-selamat-ke-supian-chandra",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:39:22"
+    },
+    {
+      "judul": "Kurs Pajak 18-24 Desember 2024",
+      "link_berita": "https://shippingcargo.co.id/posts/496558/kurs-pajak-18-24-desember-2024",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:38:22"
+    },
+    {
+      "judul": "Libur Nataru 2024: Ini Tarif Tol Trans Jawa Terbaru Golongan I, Jakarta ke Yogya Siapkan Saldo Rp 536.500",
+      "link_berita": "https://magentatoday.id/posts/496622/libur-nataru-2024-ini-tarif-tol-trans-jawa-terbaru-golongan-i-jakarta-ke-yogya-siapkan-saldo-rp-536-500",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:38:22"
+    },
+    {
+      "judul": "Kemendag Tindak Pelaku Produksi Baja Lembaran Lapis Seng Tak Bersertifikat SNI, Senilai Rp 23,77 Miliar",
+      "link_berita": "https://ruzkaindonesia.id/posts/496639/kemendag-tindak-pelaku-produksi-baja-lembaran-lapis-seng-tak-bersertifikat-sni-senilai-rp-23-77-miliar",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:38:22"
+    },
+    {
+      "judul": "Akses Layanan Kesehatan Perlu Keterlibatan Swasta",
+      "link_berita": "https://diagnosa.id/posts/496644/akses-layanan-kesehatan-perlu-keterlibatan-swasta",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:37:22"
+    },
+    {
+      "judul": "Menteri ESDM Pastikan Ketersediaan Solar untuk Nelayan Selama Periode Nataru",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sooiix522/menteri-esdm-pastikan-ketersediaan-solar-untuk-nelayan-selama-periode-nataru",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:37:22"
+    },
+    {
+      "judul": "Ajak Influencer, Kemenkes Gencarkan Pertolongan Pertama Luka Psikologis dan Skrining Jiwa",
+      "link_berita": "https://diagnosa.id/posts/496648/ajak-influencer-kemenkes-gencarkan-pertolongan-pertama-luka-psikologis-dan-skrining-jiwa",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:37:22"
+    },
+    {
+      "judul": "Dukung Ekonomi Ramah Lingkungan, Anggota DPR Novita Hardini: Kami Ingin Gali Emas Hijau",
+      "link_berita": "https://news.republika.co.id/berita/soocc4451/dukung-ekonomi-ramah-lingkungan-anggota-dpr-novita-hardini-kami-ingin-gali-emas-hijau",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:34:22"
+    },
+    {
+      "judul": "BRI Yakini Momen Natal-Tahun Baru Semakin Perkuat Posisi AgenBRILink",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sooia6502/bri-yakini-momen-nataltahun-baru-semakin-perkuat-posisi-agenbrilink",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:32:22"
+    },
+    {
+      "judul": "Dukung Kementan, Polri Siapkan Pilot Project Peningkatan Produksi Jagung Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sooi6w370/dukung-kementan-polri-siapkan-pilot-project-peningkatan-produksi-jagung-nasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:30:22"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 19 Desember 2024: Bekasi dan Cuaca Berawan Karawang",
+      "link_berita": "https://news.republika.co.id/berita/sooi6b527032991/prakiraan-cuaca-besok-19-desember-2024-bekasi-dan-cuaca-berawan-karawang",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:30:22"
+    },
+    {
+      "judul": "Pesta Adat Ngarot, Tradisi Sambut Musim Tanam Padi di Indramayu",
+      "link_berita": "https://visual.republika.co.id/berita/soogxn375/pesta-adat-ngarot-tradisi-sambut-musim-tanam-padi-di-indramayu",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:30:22"
+    },
+    {
+      "judul": "Kemenkes Tetapkan Pelabuhan Pupuk Kaltim Jadi Pelabuhan Sehat 2024",
+      "link_berita": "https://esgnow.republika.co.id/berita/sooi28522/kemenkes-tetapkan-pelabuhan-pupuk-kaltim-jadi-pelabuhan-sehat-2024",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
+    },
+    {
+      "judul": "Posko Nataru di Bandara Internasional Soekarno-Hatta Resmi Dibuka",
+      "link_berita": "https://ekonomi.republika.co.id/berita/soohts423/posko-nataru-di-bandara-internasional-soekarnohatta-resmi-dibuka",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
+    },
+    {
       "judul": "EBMC dan BRI Bikers Community Lakukan Aksi Penanaman Pohon",
       "link_berita": "https://visual.republika.co.id/berita/sooh2w375/ebmc-dan-bri-bikers-community-lakukan-aksi-penanaman-pohon",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:14:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Kompetisi BSI Flash 2025 Kembali Digelar di Pontianak, Ayo Tunjukkan Talenta Terbaik",
       "link_berita": "https://news.republika.co.id/berita/soohf3370/kompetisi-bsi-flash-2025-kembali-digelar-di-pontianak-ayo-tunjukkan-talenta-terbaik",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:13:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Kata Menteri Fadli Zon tentang Desa Budaya",
       "link_berita": "https://news.republika.co.id/berita/sooc46451/kata-menteri-fadli-zon-tentang-desa-budaya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:11:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Australia Tarik Produk Indomie dari Peredaran, Mengandung Alergen yang tak Dicatat",
       "link_berita": "https://ekonomi.republika.co.id/berita/soogwf370/australia-tarik-produk-indomie-dari-peredaran-mengandung-alergen-yang-tak-dicatat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:02:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Lindungi Anak-Anak dari Ancaman Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/soogvk416/lindungi-anakanak-dari-ancaman-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:02:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Amanda Manopo Spill Gojek Wrapped, Pengeluarannya Capai Rp259 Juta Setahun di Gojek",
       "link_berita": "https://ameera.republika.co.id/berita/soogtz425/amanda-manopo-spill-gojek-wrapped-pengeluarannya-capai-rp259-juta-setahun-di-gojek",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:01:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Kemendag Sita Puluhan Ribu Baja Lembaran Lapis Seng Tidak Sesuai SNI",
       "link_berita": "https://visual.republika.co.id/berita/soogtp375/kemendag-sita-puluhan-ribu-baja-lembaran-lapis-seng-tidak-sesuai-sni",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:00:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Prakiraan Cuaca Besok, 19 Desember 2024 untuk Bogor dan Kota Depok",
       "link_berita": "https://news.republika.co.id/berita/soogse1591445949/prakiraan-cuaca-besok-19-desember-2024-untuk-bogor-dan-kota-depok",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:00:31"
-    },
-    {
-      "judul": "China Beri Bebas Visa 10 Hari untuk 54 Negara, Indonesia tak Termasuk",
-      "link_berita": "https://news.republika.co.id/berita/soogrm484/china-beri-bebas-visa-10-hari-untuk-54-negara-indonesia-tak-termasuk",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:59:31"
-    },
-    {
-      "judul": "KSEI Luncurkan Aplikasi K-CASH untuk Transaksi Reksa Dana",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soogkf370/ksei-luncurkan-aplikasi-kcash-untuk-transaksi-reksa-dana",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:55:31"
-    },
-    {
-      "judul": "Mendagri Ungkap Program Stunting Rp 10 Miliar, Sampai ke Rakyat Cuma Rp 2 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/soog8f502/mendagri-ungkap-program-stunting-rp-10-miliar-sampai-ke-rakyat-cuma-rp-2-miliar",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:48:31"
-    },
-    {
-      "judul": "PPN Naik Jadi 12 Persen, 'Amankan' Isi Dompet dengan Tips Ini",
-      "link_berita": "https://ameera.republika.co.id/berita/soog3j425/ppn-naik-jadi-12-persen-amankan-isi-dompet-dengan-tips-ini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:45:31"
-    },
-    {
-      "judul": "Kremlin: Jenderal Rusia yang Dibunuh Berulangkali Ungkap Kejahatan Amerika dkk",
-      "link_berita": "https://news.republika.co.id/berita/soofr3377/kremlin-jenderal-rusia-yang-dibunuh-berulangkali-ungkap-kejahatan-amerika-dkk",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:37:31"
-    },
-    {
-      "judul": "Polisi Tembak Warga Hingga Meninggal di Kalteng",
-      "link_berita": "https://tv.republika.co.id/berita/soofea313/polisi-tembak-warga-hingga-meninggal-di-kalteng",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:30:31"
-    },
-    {
-      "judul": "Benarkah HTS Lebih Moderat Usai Jatuhkan Assad? Ini Kata BNPT Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/sooerr377/benarkah-hts-lebih-moderat-usai-jatuhkan-assad-ini-kata-bnpt-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:19:31"
-    },
-    {
-      "judul": "Cara Daftar BRImo Buat Raih Banyak Keuntungan Promo di HUT Ke-129 BRI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sooen9502/cara-daftar-brimo-buat-raih-banyak-keuntungan-promo-di-hut-ke129-bri",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:19:31"
-    },
-    {
-      "judul": "Lima Ibu-Ibu Ikut Ditetapkan Tersangka dalam Kasus Penyiksaan Bocah di Boyolali",
-      "link_berita": "https://news.republika.co.id/berita/sooe6i377/lima-ibuibu-ikut-ditetapkan-tersangka-dalam-kasus-penyiksaan-bocah-di-boyolali",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:19:31"
-    },
-    {
-      "judul": "Pengamat Terorisme: Waspada Kepentingan Politik Praktis di Balik Ajakan Berjihad ke Suriah",
-      "link_berita": "https://rejogja.republika.co.id/berita/soob4f291/pengamat-terorisme-waspada-kepentingan-politik-praktis-di-balik-ajakan-berjihadke-suriah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:19:31"
-    },
-    {
-      "judul": "Laporan: Bukan Pasukan Tangguh, Ratusan Tentara Korut Jadi Korban Perang-Rusia Ukraina",
-      "link_berita": "https://news.republika.co.id/berita/soodly377/laporan-bukan-pasukan-tangguh-ratusan-tentara-korut-jadi-korban-perangrusia-ukraina",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:19:31"
-    },
-    {
-      "judul": "Sustain: Rp354 T dari Usulan Peningkatan Pungutan Batu Bara untuk Transisi Energi",
-      "link_berita": "https://esgnow.republika.co.id/berita/soocs1456/sustain-rp354-t-dari-usulan-peningkatan-pungutan-batu-bara-untuk-transisi-energi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 06:19:31"
-    },
-    {
-      "judul": "Kilang Pertamina Internasional Pastikan Transisi Energi dengan Konsep ESG",
-      "link_berita": "https://esgnow.republika.co.id/berita/soocf0456/kilang-pertamina-internasional-pastikan-transisi-energi-dengan-konsep-esg",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Bea Cukai Musnahkan Rokok dan Pakaian Bekas Impor Ilegal di Entikong",
-      "link_berita": "https://republika.co.id/berita/soocti370/bea-cukai-musnahkan-rokok-dan-pakaian-bekas-impor-ilegal-di-entikong",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Anak-Anak Kudus Antusias Ikuti PAUD Cerdas Bergerak",
-      "link_berita": "https://rejogja.republika.co.id/berita/sooc1n456/anakanak-kudus-antusias-ikuti-paud-cerdas-bergerak",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Warga Bentrok dengan Pekerja Proyek di Tanah Abang Tewaskan Satu Orang",
-      "link_berita": "https://news.republika.co.id/berita/sooc10484/warga-bentrok-dengan-pekerja-proyek-di-tanah-abang-tewaskan-satu-orang",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Menteri BUMN Erick Thohir Ganti Dirut PT Pindad",
-      "link_berita": "https://news.republika.co.id/berita/soobsz484/menteri-bumn-erick-thohir-ganti-dirut-pt-pindad",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Ekonom Nilai PPN 12 Persen Harus Disertai Perbaikan Tata Kelola Pajak",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soobij370/ekonom-nilai-ppn-12-persen-harus-disertai-perbaikan-tata-kelola-pajak",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Mau Traveling Liburan Tahun Baru? Ini Doa Rasulullah Saat Safar",
-      "link_berita": "https://iqra.republika.co.id/berita/soobcl483/mau-traveling-liburan-tahun-baru-ini-doa-rasulullah-saat-safar",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Pria Bakar Lembaran Alquran-Alkitab di Punjab, Begini Cara Pemuka Agama Menyelesaikannya",
-      "link_berita": "https://khazanah.republika.co.id/berita/soob34483/pria-bakar-lembaran-alquranalkitab-di-punjab-begini-cara-pemuka-agama-menyelesaikannya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Nataru 2024/2025, Warga Depok Diimbau Tak Panic Buying",
-      "link_berita": "https://ruzkaindonesia.id/posts/496584/nataru-2024-2025-warga-depok-diimbau-tak-panic-buying",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Pondok Indah International Junior Golf Championship, 109 Pegolf Junior Adu Bakat",
-      "link_berita": "https://news.republika.co.id/berita/sooaz6456/pondok-indah-international-junior-golf-championship-109-pegolf-junior-adu-bakat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 05:19:31"
-    },
-    {
-      "judul": "Penguatan GCG, Indonesia Re Catatkan Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sooan4456/penguatan-gcg-indonesia-re-catatkan-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Arteta: Juara Piala Carabao Memotivasi Arsenal Raih Gelar Liga Primer Inggris",
-      "link_berita": "https://news.republika.co.id/berita/sooafy348/arteta-juara-piala-carabao-memotivasi-arsenal-raih-gelar-liga-primer-inggris",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Exit Tol KM 149 dan KM 151 Padaleunyi Dapat Digunakan Saat Libur Nataru",
-      "link_berita": "https://rejabar.republika.co.id/berita/soo9vx512/exit-tol-km-149-dan-km-151-padaleunyi-dapat-digunakan-saat-libur-nataru",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Okupansi Penerbangan ke Singapura dari BIJB Kertajati Capai 80 Persen",
-      "link_berita": "https://rejabar.republika.co.id/berita/soo9ka512/okupansi-penerbangan-ke-singapura-dari-bijb-kertajati-capai-80-persen",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Vlahovic Senang Ejekan Fans Juventus Berubah Dukungan dalam Kemenangan di Coppa Italia",
-      "link_berita": "https://news.republika.co.id/berita/soo9j3348/vlahovic-senang-ejekan-fans-juventus-berubah-dukungan-dalam-kemenangan-di-coppa-italia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Musim Jalan-Jalan, Ini Tata Cara Sholat Jamak Dzuhur dan Ashar, Maghrib dan Isya",
-      "link_berita": "https://khazanah.republika.co.id/berita/soo9g5483/musim-jalanjalan-ini-tata-cara-sholat-jamak-dzuhur-dan-ashar-maghrib-dan-isya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Pemprov Jabar Gandeng ABC Salurkan Bantuan Pangan Sarden ke Daerah Rentan Kemiskinan",
-      "link_berita": "https://rejabar.republika.co.id/berita/soo94q512/pemprov-jabar-gandeng-abc-salurkan-bantuan-pangan-sarden-ke-daerah-rentan-kemiskinan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "TJSL BUMN Bantu Akses Air Bersih Sekolah di NTT",
-      "link_berita": "https://esgnow.republika.co.id/berita/soo8in416/tjsl-bumn-bantu-akses-air-bersih-sekolah-di-ntt",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 04:19:31"
-    },
-    {
-      "judul": "Konsolidasi Brigade Pangan, Langkah Strategis Percepatan Swasembada",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soo741490/konsolidasi-brigade-pangan-langkah-strategis-percepatan-swasembada",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Politisi Senior PDIP Yasonna Laoly Penuhi Panggilan KPK",
-      "link_berita": "https://news.republika.co.id/berita/soo7gy409/politisi-senior-pdip-yasonna-laoly-penuhi-panggilan-kpk",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Penumpang Whoosh Meningkat Saat Libur Nataru, KCIC Siapkan Strategi Antisipasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soo22b502/penumpang-whoosh-meningkat-saat-libur-nataru-kcic-siapkan-strategi-antisipasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Anggota Bank Sampah Bakal Dibebaskan dari Retribusi",
-      "link_berita": "https://esgnow.republika.co.id/berita/soo767416/anggota-bank-sampah-bakal-dibebaskan-dari-retribusi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Tren Pelemahan Rupiah Bisa Jadi Alasan BI Tahan Suku Bunga",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soo6ym490/tren-pelemahan-rupiah-bisa-jadi-alasan-bi-tahan-suku-bunga",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Alami Sakit Kepala Hebat, Kapan Harus Waspada?",
-      "link_berita": "https://ameera.republika.co.id/berita/soo6kd425/alami-sakit-kepala-hebat-kapan-harus-waspada",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Tunggu Keputusan Suku Bunga Bank Indonesia, IHSG Diprediksi Mendatar",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soo5vc490/tunggu-keputusan-suku-bunga-bank-indonesia-ihsg-diprediksi-mendatar",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Pemprov DKI Jakarta Akui Ini Penyebab Utama Banjir Rob di Utara Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/soo5ny409/pemprov-dki-jakarta-akui-ini-penyebab-utama-banjir-rob-di-utara-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Tren Terbaru Wisata Indonesia: Wisatawan Lebih Suka Petualangan Alam",
-      "link_berita": "https://ameera.republika.co.id/berita/soo5k1425/tren-terbaru-wisata-indonesia-wisatawan-lebih-suka-petualangan-alam",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "SNBP 2025, Cek Aturan Baru, Ketentuan, Persyaratan, Pilihan Prodi, dan Jadwalnya",
-      "link_berita": "https://kampus.republika.co.id/posts/496556/snbp-2025-cek-aturan-baru-ketentuan-persyaratan-pilihan-prodi-dan-jadwalnya",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Harga Emas Stabil tak Bergerak, Dibanderol Rp 1,52 juta per Gram",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soo5av490/harga-emas-stabil-tak-bergerak-dibanderol-rp-152-juta-per-gram",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 03:19:31"
-    },
-    {
-      "judul": "Jalur Majalengka - Kuningan via Cikijing Kembali Bisa Dilalui Kendaraan",
-      "link_berita": "https://rejabar.republika.co.id/berita/soo56d512/jalur-majalengka-kuningan-via-cikijing-kembali-bisa-dilalui-kendaraan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 02:19:31"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 07:27:22"
     },
     {
       "judul": "Amanda Manopo Spill Gojek Wrapped, Pengeluarannya Capai Rp259 Juta Setahun di Gojek",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Wednesday, 18 Dec 2024, 14:01:00"
     },
     {
-      "judul": "Lindungi Anak-Anak dari Ancaman Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/soogvk416/lindungi-anakanak-dari-ancaman-iklim",
+      "judul": "BNPB: Risiko Bencana Semakin Tinggi",
+      "link_berita": "https://esgnow.republika.co.id/berita/soojg2416/bnpb-risiko-bencana-semakin-tinggi",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 14:02:00"
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 14:57:00"
     },
     {
-      "judul": "Australia Tarik Produk Indomie dari Peredaran, Mengandung Alergen yang tak Dicatat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/soogwf370/australia-tarik-produk-indomie-dari-peredaran-mengandung-alergen-yang-tak-dicatat",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 14:02:00"
+      "judul": "RDG Desember 2024: BI Tetap Pertahankan Suku Bunga di 6 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sooiwa370/rdg-desember-2024-bi-tetap-pertahankan-suku-bunga-di-6-persen",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 14:45:00"
     },
     {
       "judul": "Perkuat Implementasi ESG, BSI Kembangkan Ekonomi dan Tanam Pohon di Desa Semoyo Yogyakarta",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 17 Dec 2024, 17:08:00"
     },
     {
-      "judul": "Kompetisi BSI Flash 2025 Kembali Digelar di Pontianak, Ayo Tunjukkan Talenta Terbaik",
-      "link_berita": "https://news.republika.co.id/berita/soohf3370/kompetisi-bsi-flash-2025-kembali-digelar-di-pontianak-ayo-tunjukkan-talenta-terbaik",
-      "kategori": "Bina Sarana Informatika",
-      "tanggal_terbit": "Wednesday, 18 Dec 2024, 14:13:00"
+      "judul": "Kemendagri Raih Penghargaan Keterbukaan Informasi Publik Tahun 2024",
+      "link_berita": "https://news.republika.co.id/berita/sookne370/kemendagri-raih-penghargaan-keterbukaan-informasi-publik-tahun-2024",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Wednesday, 18 Dec 2024, 15:23:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 18 Dec 2024, 14:19:31"
+  "waktu_scraping": "Wednesday, 18 Dec 2024, 15:27:22"
 }
