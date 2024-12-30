@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Seruan Pembebasan Dr Abu Safiya Menguat",
+      "link_berita": "https://news.republika.co.id/berita/spb0bm393/seruan-pembebasan-dr-abu-safiya-menguat"
+    },
+    {
+      "judul": "Terobos Al Aqsa, Menteri Israel: Di Masa Depan, Gerbang Yerusalem akan Sampai Damaskus",
+      "link_berita": "https://news.republika.co.id/berita/spayw6377/terobos-al-aqsa-menteri-israel-di-masa-depan-gerbang-yerusalem-akan-sampai-damaskus"
+    },
+    {
       "judul": "Terungkap, Detail Kebiadaban Israel di RS Kamal Adwan",
       "link_berita": "https://news.republika.co.id/berita/spawu7393/terungkap-detail-kebiadaban-israel-di-rs-kamal-adwan"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Hendaknya Sholat Sunah Safar Sebelum Pergi Liburan Tahun Baru",
       "link_berita": "https://khazanah.republika.co.id/berita/sparmm430/hendaknya-sholat-sunah-safar-sebelum-pergi-liburan-tahun-baru"
-    },
-    {
-      "judul": "Hakim Keluarkan Ibunda Helena Lim Saat Sidang Putusan Kasus Timah, Ini Alasannya",
-      "link_berita": "https://news.republika.co.id/berita/spao4t487/hakim-keluarkan-ibunda-helena-lim-saat-sidang-putusan-kasus-timah-ini-alasannya"
-    },
-    {
-      "judul": "Viral Aksi Pengamen di Bandung, Meminta Paksa Uang ke Pengemudi Hingga Rusak Kaca Mobil",
-      "link_berita": "https://rejabar.republika.co.id/berita/spal0t512/viral-aksi-pengamen-di-bandung-meminta-paksa-uang-ke-pengemudi-hingga-rusak-kaca-mobil"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Empat Kecelakaan Pesawat dalam 5 Hari dan Baris Kursi 'Paling Aman' Menurut Penelitian",
+      "link_berita": "https://news.republika.co.id/berita/spazxk409/empat-kecelakaan-pesawat-dalam-5-hari-dan-baris-kursi-paling-aman-menurut-penelitian"
+    },
+    {
+      "judul": "Sepasang Bayi Kembar Meninggal Kedinginan di Gaza",
+      "link_berita": "https://news.republika.co.id/berita/spay8s393/sepasang-bayi-kembar-meninggal-kedinginan-di-gaza"
+    },
     {
       "judul": "Prabowo Sebut Koruptor Seharusnya Divonis 50 Tahun Penjara, Sindir Hakim Harvey Moeis?",
       "link_berita": "https://news.republika.co.id/berita/spav3t409/prabowo-sebut-koruptor-seharusnya-divonis-50-tahun-penjara-sindir-hakim-harvey-moeis"
@@ -73,316 +81,308 @@
     {
       "judul": "Hasil Liga Inggris 29 Desember dan Klasemen Sementara, Liverpool Unggul 8 Poin di Puncak",
       "link_berita": "https://news.republika.co.id/berita/spa397409/hasil-liga-inggris-29-desember-dan-klasemen-sementara-liverpool-unggul-8-poin-di-puncak"
-    },
-    {
-      "judul": "Alasan Mengapa Islam Menjunjung Tinggi Nasab",
-      "link_berita": "https://khazanah.republika.co.id/berita/sp8zq9483/alasan-mengapa-islam-menjunjung-tinggi-nasab"
-    },
-    {
-      "judul": "Doa Nabi Muhammad di Pagi Hari, Memohon Tiga Hal Ini",
-      "link_berita": "https://iqra.republika.co.id/berita/sp9zn4366/doa-nabi-muhammad-di-pagi-hari-memohon-tiga-hal-ini"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Mentan Amran, Menteri PU dan TNI AD Kompak Perkuat Kolaborasi Percepat Swasembada Pangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spb0ep423/mentan-amran-menteri-pu-dan-tni-ad-kompak-perkuat-kolaborasi-percepat-swasembada-pangan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:11:42"
+    },
+    {
+      "judul": "Seruan Pembebasan Dr Abu Safiya Menguat",
+      "link_berita": "https://news.republika.co.id/berita/spb0bm393/seruan-pembebasan-dr-abu-safiya-menguat",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:09:42"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok, 31 Desember 2024, di Kota Banda Aceh dan Sekitarnya: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/spb09x1965916516/prakiraan-cuaca-besok-31-desember-2024-di-kota-banda-aceh-dan-sekitarnya-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:08:42"
+    },
+    {
+      "judul": "Dukung Ketahanan Pangan, BRI Salurkan Kredit Rp 199,83 Triliun di Sektor Pertanian",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sparod423/dukung-ketahanan-pangan-bri-salurkan-kredit-rp-19983-triliun-di-sektor-pertanian",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:07:42"
+    },
+    {
+      "judul": "Anggota Polisi Jabar yang Dipecat Naik Nyaris Dua Kali Lipat",
+      "link_berita": "https://news.republika.co.id/berita/spb08m377/anggota-polisi-jabar-yang-dipecat-naik-nyaris-dua-kali-lipat",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:07:42"
+    },
+    {
+      "judul": "Memetik Hikmah dari Kisah Dua Orang Diampuni Allah karena Memberi Minum Anjing Kehausan",
+      "link_berita": "https://magentatoday.id/posts/500653/memetik-hikmah-dari-kisah-dua-orang-diampuni-allah-karena-memberi-minum-anjing-kehausan",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:04:42"
+    },
+    {
+      "judul": "Empat Kecelakaan Pesawat dalam 5 Hari dan Baris Kursi 'Paling Aman' Menurut Penelitian",
+      "link_berita": "https://news.republika.co.id/berita/spazxk409/empat-kecelakaan-pesawat-dalam-5-hari-dan-baris-kursi-paling-aman-menurut-penelitian",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 11:00:42"
+    },
+    {
+      "judul": "Mengapa BPJS Kesehatan Harvey Moeis dan Sandra Dewi Ditanggung APBD? Ini Kata Pj Gubernur",
+      "link_berita": "https://news.republika.co.id/berita/spazpl377/mengapa-bpjs-kesehatan-harvey-moeis-dan-sandra-dewi-ditanggung-apbd-ini-kata-pj-gubernur",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:55:42"
+    },
+    {
+      "judul": "KSAU Sebut Jet Tempur Canggih T-50 Buatan Korsel akan Datang pada 2025",
+      "link_berita": "https://news.republika.co.id/berita/spazoo487/ksau-sebut-jet-tempur-canggih-t50-buatan-korsel-akan-datang-pada-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:55:42"
+    },
+    {
+      "judul": "Prakiraan Cuaca 31 Desember 2024: Kota Mataram Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/spaze01422667832/prakiraan-cuaca-31-desember-2024-kota-mataram-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:48:42"
+    },
+    {
+      "judul": "Surveyor Indonesia Kawal Proyek Besar Pemerintah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spazaq416/surveyor-indonesia-kawal-proyek-besar-pemerintah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:47:42"
+    },
+    {
+      "judul": "Wisata Literasi di Perpustakaan Nasional saat Libur Akhir Tahun",
+      "link_berita": "https://visual.republika.co.id/berita/spawlo375/wisata-literasi-di-perpustakaan-nasional-saat-libur-akhir-tahun",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:44:42"
+    },
+    {
+      "judul": "Sektor Energi dan Perbankan Paling Banyak Tebar Dividen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spaywo416/sektor-energi-dan-perbankan-paling-banyak-tebar-dividen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:38:42"
+    },
+    {
+      "judul": "Terobos Al Aqsa, Menteri Israel: Di Masa Depan, Gerbang Yerusalem akan Sampai Damaskus",
+      "link_berita": "https://news.republika.co.id/berita/spayw6377/terobos-al-aqsa-menteri-israel-di-masa-depan-gerbang-yerusalem-akan-sampai-damaskus",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:38:42"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 31 Desember 2024 Kota Balikpapan dan Sekitarnya - Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/spayqu540073556/prakiraan-cuaca-besok-31-desember-2024-kota-balikpapan-dan-sekitarnya-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:35:42"
+    },
+    {
+      "judul": "BKPRMI Rumuskan Resolusi 2025",
+      "link_berita": "https://khazanah.republika.co.id/berita/spayoe483/bkprmi-rumuskan-resolusi-2025",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:33:42"
+    },
+    {
+      "judul": "Dibanding Naikkan PPN, Pemerintah Diusulkan Terapkan Cukai Karbon Kendaraan",
+      "link_berita": "https://esgnow.republika.co.id/berita/spayn4416/dibanding-naikkan-ppn-pemerintah-diusulkan-terapkan-cukai-karbon-kendaraan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:32:42"
+    },
+    {
+      "judul": "Sepasang Bayi Kembar Meninggal Kedinginan di Gaza",
+      "link_berita": "https://news.republika.co.id/berita/spay8s393/sepasang-bayi-kembar-meninggal-kedinginan-di-gaza",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:24:42"
+    },
+    {
+      "judul": "Riset: TikTok Jadi Platform Media Sosial Paling Populer 2024",
+      "link_berita": "https://republika.co.id/berita/spay24430/riset-tiktok-jadi-platform-media-sosial-paling-populer-2024",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:21:42"
+    },
+    {
       "judul": "Prakiraan Cuaca Besok 31 Desember 2024: Palembang dan Sekitarnya Cerah",
       "link_berita": "https://news.republika.co.id/berita/spay072021026096/prakiraan-cuaca-besok-31-desember-2024-palembang-dan-sekitarnya-cerah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:19:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:19:42"
     },
     {
       "judul": "Harvey Moeis Divonis 6,5 Tahun, Kini Helena Lim 5 Tahun, Uang Pengganti 'Hanya' Rp900 Juta",
       "link_berita": "https://news.republika.co.id/berita/spaxyx487/harvey-moeis-divonis-65-tahun-kini-helena-lim-5-tahun-uang-pengganti-hanya-rp900-juta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:18:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:18:42"
     },
     {
       "judul": "Tolak Kenaikan PPN, Massa dari Aliansi Jogja Memanggil Gelar Aksi di DPRD DIY",
       "link_berita": "https://visual.republika.co.id/berita/spawet375/tolak-kenaikan-ppn-massa-dari-aliansi-jogja-memanggil-gelar-aksi-di-dprd-diy",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:14:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Terkait Boeing 737-800, Lion Group Optimalkan Perawatan Menyeluruh",
       "link_berita": "https://ekonomi.republika.co.id/berita/spax7u423/terkait-boeing-737800-lion-group-optimalkan-perawatan-menyeluruh",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:09:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "BRI Mudahkan UMKM Bertransaksi Digital dengan QRIS UMI Gratis MDR",
       "link_berita": "https://ekonomi.republika.co.id/berita/spaqla423/bri-mudahkan-umkm-bertransaksi-digital-dengan-qris-umi-gratis-mdr",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:07:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "35 Pejabat BP Haji Dilantik, Ini Daftar Nama-namanya",
       "link_berita": "https://khazanah.republika.co.id/berita/spax79366/35-pejabat-bp-haji-dilantik-ini-daftar-namanamanya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:06:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Sidang MKD Rieke Diah Pitaloka Batal Digelar, Ini Alasannya",
       "link_berita": "https://news.republika.co.id/berita/spaxbl377/sidang-mkd-rieke-diah-pitaloka-batal-digelar-ini-alasannya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:04:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Akibat Perubahan Iklim, Jepang Kehilangan Satu Bulan Musim Dingin",
       "link_berita": "https://esgnow.republika.co.id/berita/spax8m416/akibat-perubahan-iklim-jepang-kehilangan-satu-bulan-musim-dingin",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 10:02:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Celios: Potensi Kebocoran Rp 8,5 Triliun di Program Makanan Bergizi Gratis",
       "link_berita": "https://ekonomi.republika.co.id/berita/spawwz423/celios-potensi-kebocoran-rp-85-triliun-di-program-makanan-bergizi-gratis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:55:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Terungkap, Detail Kebiadaban Israel di RS Kamal Adwan",
       "link_berita": "https://news.republika.co.id/berita/spawu7393/terungkap-detail-kebiadaban-israel-di-rs-kamal-adwan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:53:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Ini Sosok Dua Orang yang Selamat dalam Tragedi Jeju Air dan Kesaksian Saat Pesawat Jatuh",
       "link_berita": "https://news.republika.co.id/berita/spawsp377/ini-sosok-dua-orang-yang-selamat-dalam-tragedi-jeju-air-dan-kesaksian-saat-pesawat-jatuh",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:53:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Prakiraan Cuaca Besok, 31 Desember 2024: Hujan di Kota Denpasar, Bali",
       "link_berita": "https://news.republika.co.id/berita/spawm6616630166/prakiraan-cuaca-besok-31-desember-2024-hujan-di-kota-denpasar-bali",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:49:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Prabowo Ungkap Tantangan Makan Gratis Jika Ekonomi RI Tumbuh 8 Persen",
       "link_berita": "https://news.republika.co.id/berita/spawhj487/prabowo-ungkap-tantangan-makan-gratis-jika-ekonomi-ri-tumbuh-8-persen",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:46:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 10:15:42"
     },
     {
       "judul": "Menag Usul Biaya Haji Rp 93,4 Juta, Jamaah akan Tanggung Bipih Rp 65,4 Juta",
       "link_berita": "https://khazanah.republika.co.id/berita/spawer483/menag-usul-biaya-haji-rp-934-juta-jamaah-akan-tanggung-bipih-rp-654-juta",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:44:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Problematika Dakwah Digital: Peluang dan Tantangan",
       "link_berita": "https://news.republika.co.id/berita/spawea423/problematika-dakwah-digital-peluang-dan-tantangan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:44:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Makar pada Malam Tahun Baru",
       "link_berita": "https://news.republika.co.id/berita/spawdw458/makar-pada-malam-tahun-baru",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:44:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Pedagang Parsel di Cikini Sepi Pembeli Selama Momen Nataru",
       "link_berita": "https://visual.republika.co.id/berita/spavvd375/pedagang-parsel-di-cikini-sepi-pembeli-selama-momen-nataru",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:33:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Prakiraan Cuaca Kota Makassar Besok 31 Desember 2024: Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/spavse116412832/prakiraan-cuaca-kota-makassar-besok-31-desember-2024-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:31:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Jokowi Jawab Tudingan Hasto, 'Jangan Mem-Framing Jahat Seperti Itu'",
       "link_berita": "https://news.republika.co.id/berita/spavec409/jokowi-jawab-tudingan-hasto-jangan-memframing-jahat-seperti-itu",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:22:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Prakiraan Cuaca Besok 31 Desember 2024: Cuaca Hujan di Kota Medan dan Sekitarnya",
       "link_berita": "https://news.republika.co.id/berita/spav8c1087493740/prakiraan-cuaca-besok-31-desember-2024-cuaca-hujan-di-kota-medan-dan-sekitarnya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Prabowo Sebut Koruptor Seharusnya Divonis 50 Tahun Penjara, Sindir Hakim Harvey Moeis?",
       "link_berita": "https://news.republika.co.id/berita/spav3t409/prabowo-sebut-koruptor-seharusnya-divonis-50-tahun-penjara-sindir-hakim-harvey-moeis",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Hewan Bisa \u2018Cemburu\u2019, Mitos atau Fakta?",
       "link_berita": "https://ameera.republika.co.id/berita/spav3p425/hewan-bisa-cemburu-mitos-atau-fakta",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Hikmah Haramnya Zina",
       "link_berita": "https://khazanah.republika.co.id/berita/spav1d458/hikmah-haramnya-zina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "OJK Terbitkan Tiga Aturan Baru untuk Perkuat BPR dan BPRS",
       "link_berita": "https://ekonomi.republika.co.id/berita/spauz6423/ojk-terbitkan-tiga-aturan-baru-untuk-perkuat-bpr-dan-bprs",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Refleksi Akhir Tahun 2024: Kolaborasi Hebat untuk Indonesia dan Dunia",
       "link_berita": "https://khazanah.republika.co.id/berita/spaupr371/refleksi-akhir-tahun-2024-kolaborasi-hebat-untuk-indonesia-dan-dunia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Sehari Usai Pesawat Jatuh, Jeju Air Kembali Bermasalah di Roda, Putar Balik ke Bandara",
       "link_berita": "https://news.republika.co.id/berita/spaupi377/sehari-usai-pesawat-jatuh-jeju-air-kembali-bermasalah-di-roda-putar-balik-ke-bandara",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Lewat Pembiayaan dan Pemberdayaan, BRI Sukseskan Program Makan Bergizi Gratis",
       "link_berita": "https://ekonomi.republika.co.id/berita/spamvd423/lewat-pembiayaan-dan-pemberdayaan-bri-sukseskan-program-makan-bergizi-gratis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Rieke Suarakan Aspirasi Tolak PPN 12 Persen Malah Mau Disidang MKD, PDIP Beri Peringatan",
       "link_berita": "https://news.republika.co.id/berita/spauk6409/rieke-suarakan-aspirasi-tolak-ppn-12-persen-malah-mau-disidang-mkd-pdip-beri-peringatan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Prakiraan Cuaca Besok: Kota Malang Berawan pada 31 Desember 2024",
       "link_berita": "https://news.republika.co.id/berita/spauj5256265634/prakiraan-cuaca-besok-kota-malang-berawan-pada-31-desember-2024",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Rieke Diah Pitaloka Bertanya-tanya Siapa Sosok Alfadjri Aditia yang Laporkannya ke MKD",
       "link_berita": "https://news.republika.co.id/berita/spau49377/rieke-diah-pitaloka-bertanyatanya-siapa-sosok-alfadjri-aditia-yang-laporkannya-ke-mkd",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Polri Copot Direktur Reserse Narkoba Polda Metro Jaya Buntut Kasus Pemerasan di Konser DWP",
       "link_berita": "https://news.republika.co.id/berita/spau3v409/polri-copot-direktur-reserse-narkoba-polda-metro-jaya-buntut-kasus-pemerasan-di-konser-dwp",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 09:20:39"
-    },
-    {
-      "judul": "Prakiraan Cuaca Kota Surabaya dan Sekitarnya, Hujan Ringan 31 Desember 2024",
-      "link_berita": "https://news.republika.co.id/berita/spatu61326309318/prakiraan-cuaca-kota-surabaya-dan-sekitarnya-hujan-ringan-31-desember-2024",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Babak Baru Kasus Pemerasan Warga Malaysia Saat Konser DWP, 18 Polisi Mulai Disidang",
-      "link_berita": "https://news.republika.co.id/berita/spatau487/babak-baru-kasus-pemerasan-warga-malaysia-saat-konser-dwp-18-polisi-mulai-disidang",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Donald Trump Minta Pelarangan TikTok di Amerika Ditunda, Apa Alasannya?",
-      "link_berita": "https://ameera.republika.co.id/berita/spat9t425/donald-trump-minta-pelarangan-tiktok-di-amerika-ditunda-apa-alasannya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 31 Desember 2024 di Kota Yogyakarta dan Sekitarnya - Cerah",
-      "link_berita": "https://news.republika.co.id/berita/spat021003078689/prakiraan-cuaca-besok-31-desember-2024-di-kota-yogyakarta-dan-sekitarnya-cerah",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Unggah Sampul Video Dewasa, Pemeran Transgender \u2018Squid Game 2\u2019 Park Sung-hoon Menyesal",
-      "link_berita": "https://ameera.republika.co.id/berita/spaswb425/unggah-sampul-video-dewasa-pemeran-transgender-squid-game-2-park-sunghoon-menyesal",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "BEI Targetkan Bakal Gunakan Sistem Nasdaq pada Pertengahan 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spasuz370/bei-targetkan-bakal-gunakan-sistem-nasdaq-pada-pertengahan-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Makna Muhasabah",
-      "link_berita": "https://khazanah.republika.co.id/berita/spasuf458/makna-muhasabah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Jumlah Emiten Baru Berkurang Drastis 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spasqm416/jumlah-emiten-baru-berkurang-drastis-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Fonseca Tegaskan tak Takut Hadapi Tekanan di Milan Usai Hasil Imbang Lawan Roma",
-      "link_berita": "https://news.republika.co.id/berita/sparc7348/fonseca-tegaskan-tak-takut-hadapi-tekanan-di-milan-usai-hasil-imbang-lawan-roma",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "PHE Raih Rating BBB untuk Penerapan ESG",
-      "link_berita": "https://esgnow.republika.co.id/berita/spas6y416/phe-raih-rating-bbb-untuk-penerapan-esg",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 31 Desember 2024: Semarang Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/spas691685059650/prakiraan-cuaca-besok-31-desember-2024-semarang-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Kinerja Saham Modal Syariah Naik Tipis pada 2024, Market Cap Capai Rp 6.759 Triliun",
-      "link_berita": "https://sharia.republika.co.id/berita/sparxx502/kinerja-saham-modal-syariah-naik-tipis-pada-2024-market-cap-capai-rp-6759-triliun",
-      "kategori": "Sharia",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Rasio Kredit Bermasalah BRI Turun Berkat Strategi Manajemen Risiko yang Disiplin",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spaltp423/rasio-kredit-bermasalah-bri-turun-berkat-strategi-manajemen-risiko-yang-disiplin",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Politikus PKB: Prabowo Ingin Tunjukkan ke Dunia Bahwa Indonesia Ada",
-      "link_berita": "https://news.republika.co.id/berita/sparu8377/politikus-pkb-prabowo-ingin-tunjukkan-ke-dunia-bahwa-indonesia-ada",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "KEK Tanjung Lesung Targetkan 1.000 Wisatawan di Akhir Tahun",
-      "link_berita": "https://news.republika.co.id/berita/spaej4366/kek-tanjung-lesung-targetkan-1000-wisatawan-di-akhir-tahun",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Hendaknya Sholat Sunah Safar Sebelum Pergi Liburan Tahun Baru",
-      "link_berita": "https://khazanah.republika.co.id/berita/sparmm430/hendaknya-sholat-sunah-safar-sebelum-pergi-liburan-tahun-baru",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Cek Dua Gudang Ekspedisi, Bea Cukai Teluk Bayur Temukan 548.000 Batang Rokok Ilegal",
-      "link_berita": "https://republika.co.id/berita/spaqfn370/cek-dua-gudang-ekspedisi-bea-cukai-teluk-bayur-temukan-548-000-batang-rokok-ilegal",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Renungan Akhir Tahun: Prabowo dan Pemberantasan Korupsi",
-      "link_berita": "https://analisis.republika.co.id/berita/sparga458/renungan-akhir-tahun-prabowo-dan-pemberantasan-korupsi",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 31 Desember 2024 di Bandung: Hujan Ringan Menyapa Garut",
-      "link_berita": "https://news.republika.co.id/berita/sparae150448770/prakiraan-cuaca-besok-31-desember-2024-di-bandung-hujan-ringan-menyapa-garut",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 08:20:39"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 09:15:42"
     },
     {
       "judul": "Hewan Bisa \u2018Cemburu\u2019, Mitos atau Fakta?",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Monday, 30 Dec 2024, 16:16:00"
     },
     {
-      "judul": "Akibat Perubahan Iklim, Jepang Kehilangan Satu Bulan Musim Dingin",
-      "link_berita": "https://esgnow.republika.co.id/berita/spax8m416/akibat-perubahan-iklim-jepang-kehilangan-satu-bulan-musim-dingin",
+      "judul": "Dibanding Naikkan PPN, Pemerintah Diusulkan Terapkan Cukai Karbon Kendaraan",
+      "link_berita": "https://esgnow.republika.co.id/berita/spayn4416/dibanding-naikkan-ppn-pemerintah-diusulkan-terapkan-cukai-karbon-kendaraan",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 17:02:00"
+      "tanggal_terbit": "Monday, 30 Dec 2024, 17:33:00"
     },
     {
-      "judul": "Celios: Potensi Kebocoran Rp 8,5 Triliun di Program Makanan Bergizi Gratis",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spawwz423/celios-potensi-kebocoran-rp-85-triliun-di-program-makanan-bergizi-gratis",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 16:55:00"
+      "judul": "Mentan Amran, Menteri PU dan TNI AD Kompak Perkuat Kolaborasi Percepat Swasembada Pangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spb0ep423/mentan-amran-menteri-pu-dan-tni-ad-kompak-perkuat-kolaborasi-percepat-swasembada-pangan",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 18:11:00"
     },
     {
       "judul": "Kinerja Saham Modal Syariah Naik Tipis pada 2024, Market Cap Capai Rp 6.759 Triliun",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 30 Dec 2024, 15:08:00"
     },
     {
-      "judul": "Harvey Moeis Divonis 6,5 Tahun, Kini Helena Lim 5 Tahun, Uang Pengganti 'Hanya' Rp900 Juta",
-      "link_berita": "https://news.republika.co.id/berita/spaxyx487/harvey-moeis-divonis-65-tahun-kini-helena-lim-5-tahun-uang-pengganti-hanya-rp900-juta",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 30 Dec 2024, 17:18:00"
+      "judul": "Seruan Pembebasan Dr Abu Safiya Menguat",
+      "link_berita": "https://news.republika.co.id/berita/spb0bm393/seruan-pembebasan-dr-abu-safiya-menguat",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Monday, 30 Dec 2024, 18:09:00"
     }
   ],
-  "waktu_scraping": "Monday, 30 Dec 2024, 17:20:39"
+  "waktu_scraping": "Monday, 30 Dec 2024, 18:15:42"
 }
