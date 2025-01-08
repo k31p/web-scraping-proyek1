@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Jaksa Agung Ungkap Ada Pejabat KLHK Jadi Tersangka",
+      "link_berita": "https://news.republika.co.id/berita/sprmrg487/jaksa-agung-ungkap-ada-pejabat-klhk-jadi-tersangka"
+    },
+    {
       "judul": "Orang Tua Merasakan Manfaat Program MBG: Sebulan Hemat Ratusan Ribu Rupiah",
       "link_berita": "https://news.republika.co.id/berita/sprktj484/orang-tua-merasakan-manfaat-program-mbg-sebulan-hemat-ratusan-ribu-rupiah"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Jaksa Agung Umumkan Bakal Ada Tersangka Kasus Perkebunan Kelapa Sawit",
       "link_berita": "https://news.republika.co.id/berita/sprc69484/jaksa-agung-umumkan-bakal-ada-tersangka-kasus-perkebunan-kelapa-sawit"
-    },
-    {
-      "judul": "Dokumen Rahasia Ungkap Pencucian Uang Fantastis dan Nama Antek Bashar Assad di Rusia",
-      "link_berita": "https://khazanah.republika.co.id/berita/spr76g451/dokumen-rahasia-ungkap-pencucian-uang-fantastis-dan-nama-antek-bashar-assad-di-rusia"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "IDI Tegaskan Virus HMPV tak akan Picu Pandemi, Ini Alasannya",
+      "link_berita": "https://ameera.republika.co.id/berita/sprndl425/idi-tegaskan-virus-hmpv-tak-akan-picu-pandemi-ini-alasannya"
+    },
+    {
+      "judul": "PDIP Jamin Hasto tak Kabur: Setiap Hari di Kantor DPP PDIP",
+      "link_berita": "https://rejogja.republika.co.id/berita/sprfhr484/pdip-jamin-hasto-tak-kabur-setiap-hari-di-kantor-dpp-pdip"
+    },
     {
       "judul": "Pariwisata Israel Ambruk, 60 Ribu Usaha Gulung Tikar",
       "link_berita": "https://news.republika.co.id/berita/sprk4k393/pariwisata-israel-ambruk-60-ribu-usaha-gulung-tikar"
@@ -73,334 +81,326 @@
     {
       "judul": "China Nilai Indonesia Jadi Kekuatan Penting di BRICS, Ini Pernyataan Resmi Beijing",
       "link_berita": "https://news.republika.co.id/berita/spqc8o409/china-nilai-indonesia-jadi-kekuatan-penting-di-brics-ini-pernyataan-resmi-beijing"
-    },
-    {
-      "judul": "OJK: 41 Perusahaan Asuransi Ajukan 'Spin Off' Unit Usaha Syariah",
-      "link_berita": "https://sharia.republika.co.id/berita/spq6nk423/ojk-41-perusahaan-asuransi-ajukan-spin-off-unit-usaha-syariah"
-    },
-    {
-      "judul": "Investasi Rp 16,4 Triliun, Apple Akhirnya Produksi AirTag di Batam",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spq4c9423/investasi-rp-164-triliun-apple-akhirnya-produksi-airtag-di-batam"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Awas! Konsumsi Obat Sembarangan Bisa Picu Gagal Ginjal",
+      "link_berita": "https://ameera.republika.co.id/berita/sprok0425/awas-konsumsi-obat-sembarangan-bisa-picu-gagal-ginjal",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:13:56"
+    },
+    {
+      "judul": "Pemerintah Batasi Eksploitasi Berlebihan Air Tanah di Daerah Zona Kritis dan Rusak",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sprofq423/pemerintah-batasi-eksploitasi-berlebihan-air-tanah-di-daerah-zona-kritis-dan-rusak",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:11:56"
+    },
+    {
+      "judul": "Media Israel tak Habis Pikir Pejuang Gaza Gunakan Bom Israel untuk Ledakkan Tentara IDF",
+      "link_berita": "https://news.republika.co.id/berita/sproea320/media-israel-tak-habis-pikir-pejuang-gaza-gunakan-bom-israel-untuk-ledakkan-tentara-idf",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:10:56"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok Tanggal 9 Januari 2025 Daerah Kota Banda Aceh dan Sekitarnya: Cuaca Cerah Berawan",
+      "link_berita": "https://news.republika.co.id/berita/spro9v825260015/prakiraan-cuaca-besok-tanggal-9-januari-2025-daerah-kota-banda-aceh-dan-sekitarnya-cuaca-cerah-berawan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:07:56"
+    },
+    {
+      "judul": "Puluhan TPA di Jawa Tengah Overload",
+      "link_berita": "https://esgnow.republika.co.id/berita/spro3g416/puluhan-tpa-di-jawa-tengah-overload",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:04:56"
+    },
+    {
+      "judul": "Wamentan Minta Pengusaha Datangkan Sapi Indukan Luar Negeri, Dukung Makan Bergizi Gratis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sprnxl423/wamentan-minta-pengusaha-datangkan-sapi-indukan-luar-negeri-dukung-makan-bergizi-gratis",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:00:56"
+    },
+    {
+      "judul": "Kala Bani Israel 'Memaksa' Harut Marut Ajarkan Sihir",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprnsc483/kala-bani-israel-memaksa-harut-marut-ajarkan-sihir",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:57:56"
+    },
+    {
+      "judul": "Joe Biden Tebar Insentif Pajak untuk Proyek Energi Bersih",
+      "link_berita": "https://esgnow.republika.co.id/berita/sprno3416/joe-biden-tebar-insentif-pajak-untuk-proyek-energi-bersih",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:54:56"
+    },
+    {
+      "judul": "Mabuk Miras, Gerbang Banyak Keburukan",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprnjc458/mabuk-miras-gerbang-banyak-keburukan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:51:56"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok di Kota Mataram: Hujan Ringan pada 9 Januari 2025",
+      "link_berita": "https://news.republika.co.id/berita/sprne51143201403/prakiraan-cuaca-besok-di-kota-mataram-hujan-ringan-pada-9-januari-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:48:56"
+    },
+    {
+      "judul": "IDI Tegaskan Virus HMPV tak akan Picu Pandemi, Ini Alasannya",
+      "link_berita": "https://ameera.republika.co.id/berita/sprndl425/idi-tegaskan-virus-hmpv-tak-akan-picu-pandemi-ini-alasannya",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:48:56"
+    },
+    {
+      "judul": "Respons Wacana Libur Sekolah Saat Ramadhan, Menag: Sedang Dikaji",
+      "link_berita": "https://news.republika.co.id/berita/sprn6i409/respons-wacana-libur-sekolah-saat-ramadhan-menag-sedang-dikaji",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:44:56"
+    },
+    {
+      "judul": "Jeju Air Pangkas Ribuan Penerbangan Setelah Kecelakaan Maut",
+      "link_berita": "https://news.republika.co.id/berita/sprmzx425/jeju-air-pangkas-ribuan-penerbangan-setelah-kecelakaan-maut",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:40:56"
+    },
+    {
+      "judul": "Wahai Para Suami, Pahami Makna Zhihar!",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprmyv458/wahai-para-suami-pahami-makna-zhihar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:39:56"
+    },
+    {
+      "judul": "Empat Hal untuk Meraih Haji Mabrur",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprki1430/empat-hal-untuk-meraih-haji-mabrur",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:39:56"
+    },
+    {
+      "judul": "Ketika Umat Islam, Nasrani, dan Yahudi Bawa Kitab Suci Masing-masing Demo Bareng",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprmtz320/ketika-umat-islam-nasrani-dan-yahudi-bawa-kitab-suci-masingmasing-demo-bareng",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:36:56"
+    },
+    {
+      "judul": "Bekal Ibadah Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprk7e430/bekal-ibadah-haji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:36:56"
+    },
+    {
+      "judul": "Jaksa Agung Ungkap Ada Pejabat KLHK Jadi Tersangka",
+      "link_berita": "https://news.republika.co.id/berita/sprmrg487/jaksa-agung-ungkap-ada-pejabat-klhk-jadi-tersangka",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:35:56"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 9 Januari 2025 untuk Kota Balikpapan dan Sekitarnya: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/sprmqs397682429/prakiraan-cuaca-besok-9-januari-2025-untuk-kota-balikpapan-dan-sekitarnya-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:34:56"
+    },
+    {
+      "judul": "Mempelajari Cara Administrasi Bekerja di Rumah Sakit",
+      "link_berita": "https://retizen.republika.co.id/posts/503713/mempelajari-cara-administrasi-bekerja-di-rumah-sakit",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:33:56"
+    },
+    {
+      "judul": "Rektor UMJ Terima Kunjungan Studi Santri Muhammadiyah Boarding School Bumiayu",
+      "link_berita": "https://news.republika.co.id/berita/sprmn2423/rektor-umj-terima-kunjungan-studi-santri-muhammadiyah-boarding-school-bumiayu",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:32:56"
+    },
+    {
+      "judul": "Tidak Tutup Lapak Sepenuhnya, Ini Layanan Virtual yang Jadi Fokus Bukalapak",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sprmg4370/tidak-tutup-lapak-sepenuhnya-ini-layanan-virtual-yang-jadi-fokus-bukalapak",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:28:56"
+    },
+    {
+      "judul": "Menkes Minta Masyarakat tak Khawatirkan HMPV, tidak Menyebabkan Kematian",
+      "link_berita": "https://news.republika.co.id/berita/sprmev409/menkes-minta-masyarakat-tak-khawatirkan-hmpv-tidak-menyebabkan-kematian",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:27:56"
+    },
+    {
+      "judul": "Delapan Faktor Penting yang Menentukan Sukses tidaknya Haji di Masa Prabowo",
+      "link_berita": "https://khazanah.republika.co.id/berita/sprmd5483/delapan-faktor-penting-yang-menentukan-sukses-tidaknya-haji-di-masa-prabowo",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:26:56"
+    },
+    {
+      "judul": "IHSG Ditutup Melemah Dipimpin Sektor Barang Baku",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sprmac423/ihsg-ditutup-melemah-dipimpin-sektor-barang-baku",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:24:56"
+    },
+    {
+      "judul": "Polres Indramayu Dukung Program Makan Siang Bergizi Gratis untuk Pelajar",
+      "link_berita": "https://rejabar.republika.co.id/berita/sprm8c512/polres-indramayu-dukung-program-makan-siang-bergizi-gratis-untuk-pelajar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:23:56"
+    },
+    {
+      "judul": "Ketua KPK Sambangi Mabes Polri",
+      "link_berita": "https://news.republika.co.id/berita/sprm4i415/ketua-kpk-sambangi-mabes-polri",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:21:56"
+    },
+    {
+      "judul": "KLH Perintahkan Pemda Gencarkan Gaya Hidup Sadar Sampah",
+      "link_berita": "https://esgnow.republika.co.id/berita/sprm47416/klh-perintahkan-pemda-gencarkan-gaya-hidup-sadar-sampah",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:21:56"
+    },
+    {
       "judul": "Prakiraan Cuaca Besok, 9 Januari 2025, untuk Kota Palembang dan Sekitarnya: Cerah dan Udara Kabur",
       "link_berita": "https://news.republika.co.id/berita/sprm05188159976/prakiraan-cuaca-besok-9-januari-2025-untuk-kota-palembang-dan-sekitarnya-cerah-dan-udara-kabur",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:18:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:18:56"
     },
     {
       "judul": "Pasangan Imam-Ririn Cabut Gugatan Hasil Pilkada Depok di MK",
       "link_berita": "https://news.republika.co.id/berita/sprlyc409/pasangan-imamririn-cabut-gugatan-hasil-pilkada-depok-di-mk",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:17:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:17:56"
     },
     {
       "judul": "Pasar Respons Negatif Bukalapak Tutup Marketplace, Sahamnya Turun 4,1 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sprlwo370/pasar-respons-negatif-bukalapak-tutup-marketplace-sahamnya-turun-41-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:16:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:16:56"
     },
     {
       "judul": "PDIP Klaim tak Ada Bukti Signifikan di Rumah Hasto, Ini Barang Bukti yang Disita KPK",
       "link_berita": "https://news.republika.co.id/berita/sprlq9487/pdip-klaim-tak-ada-bukti-signifikan-di-rumah-hasto-ini-barang-bukti-yang-disita-kpk",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:12:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Nasihat Umar agar Suami Bersabar",
       "link_berita": "https://khazanah.republika.co.id/berita/sprlnh458/nasihat-umar-agar-suami-bersabar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:11:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Rupiah Melemah Seiring Penguatan Data Sektor Tenaga Kerja AS",
       "link_berita": "https://ekonomi.republika.co.id/berita/sprljh423/rupiah-melemah-seiring-penguatan-data-sektor-tenaga-kerja-as",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:08:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Belum Memenuhi Target, DPRD Jawa Barat Dorong Peningkatan Realisasi Program Jabar Caang",
       "link_berita": "https://rejabar.republika.co.id/berita/sprlfx370/belum-memenuhi-target-dprd-jawa-barat-dorong-peningkatan-realisasi-program-jabar-caang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:06:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Tujuh Eks Penyidik KPK akan Perkuat BP Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/sprlca483/tujuh-eks-penyidik-kpk-akan-perkuat-bp-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:04:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Setan Galau karena 4 Perkara Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/sprl6y458/setan-galau-karena-4-perkara-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:01:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "PDIP Jamin Hasto tak Kabur: Setiap Hari di Kantor DPP PDIP",
       "link_berita": "https://rejogja.republika.co.id/berita/sprfhr484/pdip-jamin-hasto-tak-kabur-setiap-hari-di-kantor-dpp-pdip",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:58:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Polres Indramayu Ungkap Kasus Penyalahgunaan Obat Tanpa Izin Edar",
       "link_berita": "https://rejabar.republika.co.id/berita/sprl0e512/polres-indramayu-ungkap-kasus-penyalahgunaan-obat-tanpa-izin-edar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:57:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Wamen ESDM: Jakarta Hingga Kalimantan Kritis Air Tanah",
       "link_berita": "https://esgnow.republika.co.id/berita/sprkvu522/wamen-esdm-jakarta-hingga-kalimantan-kritis-air-tanah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:54:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Unsur Indonesia di Masjid Istiqlal Bosnia",
       "link_berita": "https://khazanah.republika.co.id/berita/sprkuj458/unsur-indonesia-di-masjid-istiqlal-bosnia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:53:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Orang Tua Merasakan Manfaat Program MBG: Sebulan Hemat Ratusan Ribu Rupiah",
       "link_berita": "https://news.republika.co.id/berita/sprktj484/orang-tua-merasakan-manfaat-program-mbg-sebulan-hemat-ratusan-ribu-rupiah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:53:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Bukalapak Setop Layanan Produk Fisik, Bagaimana Nasib Pesanan yang Belum Selesai?",
       "link_berita": "https://ekonomi.republika.co.id/berita/sprksf423/bukalapak-setop-layanan-produk-fisikbagaimananasib-pesanan-yang-belum-selesai",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:52:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Kepala BPJPH Resmikan As-Syafi'iyah Halal Center",
       "link_berita": "https://khazanah.republika.co.id/berita/sprkqy483/kepala-bpjph-resmikan-assyafiiyah-halal-center",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:51:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Semua Kandidat Hadir Penetapan Gubernur dan Wagub Jakarta Terpilih, Kecuali Ridwan Kamil",
       "link_berita": "https://news.republika.co.id/berita/sprkpn487/semua-kandidat-hadir-penetapan-gubernur-dan-wagub-jakarta-terpilih-kecuali-ridwan-kamil",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:50:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "BRICS Buka Akses RI Peroleh Minyak Mentah Murah Dari Rusia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sprko5370/brics-buka-akses-ri-peroleh-minyak-mentah-murah-dari-rusia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:50:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Ada 7 Kata Baru Korea di Kamus Oxford",
       "link_berita": "https://chingudeul.republika.co.id/posts/503667/ada-7-kata-baru-korea-di-kamus-oxford",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:49:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "Prakiraan Cuaca Besok 9 Januari 2025 di Kota Denpasar Bali: Cerah Berawan",
       "link_berita": "https://news.republika.co.id/berita/sprkmc1256200786/prakiraan-cuaca-besok-9-januari-2025-di-kota-denpasar-bali-cerah-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:49:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:15:56"
     },
     {
       "judul": "PSSI Announces Patrick Kluivert as Indonesia National Team Coach",
       "link_berita": "https://en.republika.co.id/berita/sprkfp415/pssi-announces-patrick-kluivert-as-indonesia-national-team-coach",
       "kategori": "En",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 10:20:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 11:15:56"
     },
     {
       "judul": "ASDP: Layanan Penyeberangan Bebas PPN 12 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sprkfa423/asdp-layanan-penyeberangan-bebas-ppn-12-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:44:53"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:15:56"
     },
     {
-      "judul": "Menperin: Investasi AirTag Apple Belum Bisa Bikin iPhone 16 Masuk RI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprkcg370/menperin-investasi-airtag-apple-belum-bisa-bikin-iphone-16-masuk-ri",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:43:53"
+      "judul": "Awas! Konsumsi Obat Sembarangan Bisa Picu Gagal Ginjal",
+      "link_berita": "https://ameera.republika.co.id/berita/sprok0425/awas-konsumsi-obat-sembarangan-bisa-picu-gagal-ginjal",
+      "kategori": "Health",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 18:14:00"
     },
     {
-      "judul": "Pariwisata Israel Ambruk, 60 Ribu Usaha Gulung Tikar",
-      "link_berita": "https://news.republika.co.id/berita/sprk4k393/pariwisata-israel-ambruk-60-ribu-usaha-gulung-tikar",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:38:53"
-    },
-    {
-      "judul": "Nabi Muhammad SAW Tidak Menimbun Harta Walau Hanya Satu Malam",
-      "link_berita": "https://khazanah.republika.co.id/berita/sprjrm430/nabi-muhammad-saw-tidak-menimbun-harta-walau-hanya-satu-malam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:37:53"
-    },
-    {
-      "judul": "Patrick Kluivert Ungkap Alasan Terima Tawaran Latih Timnas Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/sprk15348/patrick-kluivert-ungkap-alasan-terima-tawaran-latih-timnas-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:36:53"
-    },
-    {
-      "judul": "Rahasia Yudist Ardhana: Bongkar Cara Sukses di YouTube Shopping!",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprf8r423/rahasia-yudist-ardhana-bongkar-cara-sukses-di-youtube-shopping",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:29:53"
-    },
-    {
-      "judul": "Program Sedekah Energi Terangi Masjid dengan Panel Surya",
-      "link_berita": "https://esgnow.republika.co.id/berita/sprjp7416/program-sedekah-energi-terangi-masjid-dengan-panel-surya",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:29:53"
-    },
-    {
-      "judul": "2025, Kertajati Menjadi Bandara Resmi Haji dan Umrah",
-      "link_berita": "https://bandung24jam.id/posts/503692/2025-kertajati-menjadi-bandara-resmi-haji-dan-umrah",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:28:53"
-    },
-    {
-      "judul": "Tiga Tingkatan Ikhlas",
-      "link_berita": "https://khazanah.republika.co.id/berita/sprjn8430/tiga-tingkatan-ikhlas",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:27:53"
-    },
-    {
-      "judul": "OJK Rilis Aturan Tentang Laporan Berkala Dana Pensiun dan Asuransi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprjlu370/ojk-rilis-aturan-tentang-laporan-berkala-dana-pensiun-dan-asuransi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:27:53"
-    },
-    {
-      "judul": "Menteri Pigai: 44 Ribu Napi Calon Penerima Amnesti akan Jalani Pendidikan HAM",
-      "link_berita": "https://news.republika.co.id/berita/sprjja487/menteri-pigai-44-ribu-napi-calon-penerima-amnesti-akan-jalani-pendidikan-ham",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:25:53"
-    },
-    {
-      "judul": "Implikasi Iman",
-      "link_berita": "https://khazanah.republika.co.id/berita/sprjiy458/implikasi-iman",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:25:53"
-    },
-    {
-      "judul": "75 Tahun Harris Effendi Thahar dan Nasib Sastra Koran",
-      "link_berita": "https://kingdomsriwijaya.id/posts/503695/75-tahun-harris-effendi-thahar-dan-nasib-sastra-koran",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:24:53"
-    },
-    {
-      "judul": "'Neraka akan Pecah' di Timur Tengah, Trump akan Habisi Hamas?",
-      "link_berita": "https://news.republika.co.id/berita/sprje4377/neraka-akan-pecah-di-timur-tengah-trump-akan-habisi-hamas",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:22:53"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok, 9 Januari 2025: Kota Medan dan Sekitarnya - Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/sprj8c648630136/prakiraan-cuaca-besok-9-januari-2025-kota-medan-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Ridwan Kamil Dipastikan tak Hadiri Penetapan Pramono-Rano Pemenang Pilkada Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sprj3e409/ridwan-kamil-dipastikan-tak-hadiri-penetapan-pramonorano-pemenang-pilkada-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Politisi Israel: Pasukan IDF Tewas Tanda Politik dan Pemerintah Netanyahu Kian Melemah",
-      "link_berita": "https://khazanah.republika.co.id/berita/spriup451/politisi-israel-pasukan-idf-tewas-tanda-politik-dan-pemerintah-netanyahu-kian-melemah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Prabowo Gandeng Investor Qatar Bangun Sejuta Rumah untuk Rakyat",
-      "link_berita": "https://news.republika.co.id/berita/spri5d484/prabowo-gandeng-investor-qatar-bangun-sejuta-rumah-untuk-rakyat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "KPK Geledah Kediaman Hasto, Ini Sikap PDIP",
-      "link_berita": "https://news.republika.co.id/berita/spril2377/kpk-geledah-kediaman-hasto-ini-sikap-pdip",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Chery Berkomitmen Penuhi TKDN Hingga 40 Persen, Ini Tanggapan Kemenperin",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprijt349/chery-berkomitmen-penuhi-tkdn-hingga-40-persen-ini-tanggapan-kemenperin",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 9 Januari 2025 di Kota Malang dan Sekitarnya: Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/spriji514442878/prakiraan-cuaca-besok-9-januari-2025-di-kota-malang-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Peta Jalan 3 Juta Rumah Disiapkan, Pembangunan Diprioritaskan di Pedesaan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprifb416/peta-jalan-3-juta-rumah-disiapkan-pembangunan-diprioritaskan-di-pedesaan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Kejari Bandung Ungkap Praktik Pemotongan Dana PIP Diduga Berpotensi Terjadi di Kampus Lain",
-      "link_berita": "https://rejabar.republika.co.id/berita/sprian512/kejari-bandung-ungkap-praktik-pemotongan-dana-pip-diduga-berpotensi-terjadi-di-kampus-lain",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "BI: Cadangan Devisa Indonesia Desember 2024 Sebesar 155,7 Miliar Dolar AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spri4i370/bi-cadangan-devisa-indonesia-desember-2024-sebesar-1557-miliar-dolar-as",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 09:20:53"
-    },
-    {
-      "judul": "Meski Ada MBG, KPPPA Minta Orang Tua Tetap Perhatikan Gizi Anak di Rumah",
-      "link_berita": "https://news.republika.co.id/berita/sprhxl425/meski-ada-mbg-kpppa-minta-orang-tua-tetap-perhatikan-gizi-anak-di-rumah",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 08:20:53"
-    },
-    {
-      "judul": "Wanita Bebas Melihat Aurat Wanita Lainnya, Benarkah?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sprhxh483/wanita-bebas-melihat-aurat-wanita-lainnya-benarkah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 08:20:53"
-    },
-    {
-      "judul": "Wamen Fahri: 80 Persen Rumah di Indonesia tak Kuat dengan Gempa 7 SR",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprhvy349/wamen-fahri-80-persen-rumah-di-indonesia-tak-kuat-dengan-gempa-7-sr",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 08:20:53"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 9 Januari 2025: Surabaya Cerah",
-      "link_berita": "https://news.republika.co.id/berita/sprhu91829984957/prakiraan-cuaca-besok-9-januari-2025-surabaya-cerah",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 08:20:53"
-    },
-    {
-      "judul": "RESMI: PSSI Umumkan Patrick Kluivert Sebagai Pelatih Timnas Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/sprhhb348/resmi-pssi-umumkan-patrick-kluivert-sebagai-pelatih-timnas-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 08:20:53"
-    },
-    {
-      "judul": "Bikin Perhiasan dari ASI dan Tali Pusar Bayi, Bagaimana Hukumnya dalam Islam?",
-      "link_berita": "https://ameera.republika.co.id/berita/sprg5j425/bikin-perhiasan-dari-asi-dan-tali-pusar-bayi-bagaimana-hukumnya-dalam-islam",
-      "kategori": "My Halal",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 15:12:00"
-    },
-    {
-      "judul": "Wamen ESDM: Jakarta Hingga Kalimantan Kritis Air Tanah",
-      "link_berita": "https://esgnow.republika.co.id/berita/sprkvu522/wamen-esdm-jakarta-hingga-kalimantan-kritis-air-tanah",
+      "judul": "Puluhan TPA di Jawa Tengah Overload",
+      "link_berita": "https://esgnow.republika.co.id/berita/spro3g416/puluhan-tpa-di-jawa-tengah-overload",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 16:55:00"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 18:04:00"
     },
     {
-      "judul": "Pasar Respons Negatif Bukalapak Tutup Marketplace, Sahamnya Turun 4,1 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sprlwo370/pasar-respons-negatif-bukalapak-tutup-marketplace-sahamnya-turun-41-persen",
+      "judul": "Pemerintah Batasi Eksploitasi Berlebihan Air Tanah di Daerah Zona Kritis dan Rusak",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sprofq423/pemerintah-batasi-eksploitasi-berlebihan-air-tanah-di-daerah-zona-kritis-dan-rusak",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 17:17:00"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 18:11:00"
     },
     {
       "judul": "ICDX Catat Transaksi Komoditi Berbasis Syariah Rp 2,01 Triliun",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 08 Jan 2025, 12:13:00"
     },
     {
-      "judul": "Pasangan Imam-Ririn Cabut Gugatan Hasil Pilkada Depok di MK",
-      "link_berita": "https://news.republika.co.id/berita/sprlyc409/pasangan-imamririn-cabut-gugatan-hasil-pilkada-depok-di-mk",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 17:18:00"
+      "judul": "Media Israel tak Habis Pikir Pejuang Gaza Gunakan Bom Israel untuk Ledakkan Tentara IDF",
+      "link_berita": "https://news.republika.co.id/berita/sproea320/media-israel-tak-habis-pikir-pejuang-gaza-gunakan-bom-israel-untuk-ledakkan-tentara-idf",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 18:10:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 08 Jan 2025, 17:20:53"
+  "waktu_scraping": "Wednesday, 08 Jan 2025, 18:15:56"
 }
