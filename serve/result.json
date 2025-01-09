@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kata Kemenag Soal MBG di Pesantren, Begini Penjelasannya",
+      "link_berita": "https://khazanah.republika.co.id/berita/spswrr451/kata-kemenag-soal-mbg-di-pesantren-begini-penjelasannya"
+    },
+    {
       "judul": "Minum Kopi Pagi Hari Disebut Bisa Turunkan Risiko Kematian Akibat Penyakit Jantung",
       "link_berita": "https://ameera.republika.co.id/berita/spssvb425/minum-kopi-pagi-hari-disebut-bisa-turunkan-risiko-kematian-akibat-penyakit-jantung"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Janji Tindak Polisi Terlibat Kasus DWP, Kapolri: Komitmen untuk Terus \u2018Bersih-Bersih\u2019",
       "link_berita": "https://news.republika.co.id/berita/sps154409/janji-tindak-polisi-terlibat-kasus-dwp-kapolri-komitmen-untuk-terus-bersihbersih"
-    },
-    {
-      "judul": "Anak Rentan Tertular HMPV di Sekolah, Ini Saran Mencegahnya Menurut IDI",
-      "link_berita": "https://ameera.republika.co.id/berita/sps09k425/anak-rentan-tertular-hmpv-di-sekolah-ini-saran-mencegahnya-menurut-idi"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Takut Diburu, IDF Sembunyikan Nama-Nama Prajurit",
+      "link_berita": "https://news.republika.co.id/berita/spsx98393/takut-diburu-idf-sembunyikan-namanama-prajurit"
+    },
+    {
+      "judul": "Harga Emas Terus Merangkak Naik, Ini Daftar Harga Lengkapnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spsw1x490/harga-emas-terus-merangkak-naik-ini-daftar-harga-lengkapnya"
+    },
+    {
+      "judul": "Arab Saudi Terancam Banjir Bandang, Makkah dan Madinah Berstatus Merah",
+      "link_berita": "https://khazanah.republika.co.id/berita/spsu6i483/arab-saudi-terancam-banjir-bandang-makkah-dan-madinah-berstatus-merah"
+    },
     {
       "judul": "Kubu Hasto Bertanya-tanya Mengapa KPK Periksa Mantan Penyidik?",
       "link_berita": "https://news.republika.co.id/berita/spssra377/kubu-hasto-bertanyatanya-mengapa-kpk-periksa-mantan-penyidik"
@@ -69,326 +81,314 @@
     {
       "judul": "PDIP Jamin Hasto tak Kabur: Setiap Hari di Kantor DPP PDIP",
       "link_berita": "https://rejogja.republika.co.id/berita/sprfhr484/pdip-jamin-hasto-tak-kabur-setiap-hari-di-kantor-dpp-pdip"
-    },
-    {
-      "judul": "Pariwisata Israel Ambruk, 60 Ribu Usaha Gulung Tikar",
-      "link_berita": "https://news.republika.co.id/berita/sprk4k393/pariwisata-israel-ambruk-60-ribu-usaha-gulung-tikar"
-    },
-    {
-      "judul": "KPK Geledah Kediaman Hasto, Ini Sikap PDIP",
-      "link_berita": "https://news.republika.co.id/berita/spril2377/kpk-geledah-kediaman-hasto-ini-sikap-pdip"
-    },
-    {
-      "judul": "Peta Israel Caplok Palestina Yordania Hingga Suriah, Qatar Murka",
-      "link_berita": "https://news.republika.co.id/berita/spreta377/peta-israel-caplok-palestina-yordania-hingga-suriah-qatar-murka"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KSAD Rayakan Natal di Kodam I/BB dan Renovasi Panti Asuhan Bait Allah",
+      "link_berita": "https://news.republika.co.id/berita/spsxta484/ksad-rayakan-natal-di-kodam-ibb-dan-renovasi-panti-asuhan-bait-allah",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:31:47"
+    },
+    {
+      "judul": "Temuan Ombudsman, Pagar Laut 30 Kilometer di Tangerang Rusak Ekosistem",
+      "link_berita": "https://news.republika.co.id/berita/spsxj8377/temuan-ombudsman-pagar-laut-30-kilometer-di-tangerang-rusak-ekosistem",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:25:47"
+    },
+    {
+      "judul": "Takut Diburu, IDF Sembunyikan Nama-Nama Prajurit",
+      "link_berita": "https://news.republika.co.id/berita/spsx98393/takut-diburu-idf-sembunyikan-namanama-prajurit",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:19:47"
+    },
+    {
+      "judul": "Kata Kemenag Soal MBG di Pesantren, Begini Penjelasannya",
+      "link_berita": "https://khazanah.republika.co.id/berita/spswrr451/kata-kemenag-soal-mbg-di-pesantren-begini-penjelasannya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:09:47"
+    },
+    {
+      "judul": "Mengenang Kembali Momen Patrick Kluivert saat Menjuarai Liga Champions 1995",
+      "link_berita": "https://visual.republika.co.id/berita/spswqm375/mengenang-kembali-momen-patrick-kluivert-saat-menjuarai-liga-champions-1995",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:08:47"
+    },
+    {
+      "judul": "Cadangan Devisa di Akhir 2024 Meningkat, Rupiah Tetap Tertekan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spsw6x490/cadangan-devisa-di-akhir-2024-meningkat-rupiah-tetap-tertekan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:04:47"
+    },
+    {
+      "judul": "Tunggu Risalah The Fed, IHSG Bergerak Galau",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spswht490/tunggu-risalah-the-fed-ihsg-bergerak-galau",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 03:03:47"
+    },
+    {
+      "judul": "Pilih PTN Mana di SNBP 2025 ? Cek 10 PTN Terbanyak Menerima Mahasiswa Baru di SNBP 2024",
+      "link_berita": "https://kampus.republika.co.id/posts/503894/pilih-ptn-mana-di-snbp-2025-cek-10-ptn-terbanyak-menerima-mahasiswa-baru-di-snbp-2024",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:55:47"
+    },
+    {
+      "judul": "Pakar Ungkap Risiko Munculnya Sentimen Dari Negara Barat Setelah Indonesia gabung BRICS",
+      "link_berita": "https://sekitarsurabaya.com/posts/503875/pakar-ungkap-risiko-munculnya-sentimen-dari-negara-barat-setelah-indonesia-gabung-brics",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:54:47"
+    },
+    {
+      "judul": "Kemenkes Siaga Cepat Hadapi Flu Burung",
+      "link_berita": "https://diagnosa.id/posts/503885/kemenkes-siaga-cepat-hadapi-flu-burung",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:54:47"
+    },
+    {
+      "judul": "Kurs Pajak 8-14 Januari 2024",
+      "link_berita": "https://shippingcargo.co.id/posts/503879/kurs-pajak-8-14-januari-2024",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:54:47"
+    },
+    {
+      "judul": "RS Mohammad Hoesin Bangun Gedung Baru untuk Tangani Kanker di Sumatera Selatan",
+      "link_berita": "https://diagnosa.id/posts/503890/rs-mohammad-hoesin-bangun-gedung-baru-untuk-tangani-kanker-di-sumatera-selatan",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:53:47"
+    },
+    {
+      "judul": "Harga Emas Terus Merangkak Naik, Ini Daftar Harga Lengkapnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spsw1x490/harga-emas-terus-merangkak-naik-ini-daftar-harga-lengkapnya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:53:47"
+    },
+    {
+      "judul": "Formula 1 Perpanjang Kontrak GP Belgia Hingga 2031",
+      "link_berita": "https://news.republika.co.id/berita/spsw0t348/formula-1-perpanjang-kontrak-gp-belgia-hingga-2031",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:52:47"
+    },
+    {
+      "judul": "Misteri Gunung: dari Ayat Bertasbih Hingga Penelitian Gunung Misterius Pendingin Bumi",
+      "link_berita": "https://iqra.republika.co.id/berita/spsvyi451/misteri-gunung-dari-ayat-bertasbih-hingga-penelitian-gunung-misterius-pendingin-bumi",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:51:47"
+    },
+    {
+      "judul": "Trump Bakal Deklarasikan Darurat Nasional, Rupiah Makin Tertekan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spsvqk490/trump-bakal-deklarasikan-darurat-nasional-rupiah-makin-tertekan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:46:47"
+    },
+    {
+      "judul": "Effendi Tuntut Mega Mundur, Pengacara Hasto: PDIP dan Megawati Diincar",
+      "link_berita": "https://news.republika.co.id/berita/spsvn2377/effendi-tuntut-mega-mundur-pengacara-hasto-pdip-dan-megawati-diincar",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:44:47"
+    },
+    {
+      "judul": "Kemenhub Ungkap Rencana Penutupan Stasiun Karet Masih Belum Pasti",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spsvjw490/kemenhub-ungkap-rencana-penutupan-stasiun-karet-masih-belum-pasti",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:42:47"
+    },
+    {
+      "judul": "Presiden Prabowo Bertemu PM Malaysia Anwar Ibrahim di Kuala Lumpur",
+      "link_berita": "https://news.republika.co.id/berita/spsvbi484/presiden-prabowo-bertemu-pm-malaysia-anwar-ibrahim-di-kuala-lumpur",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:37:47"
+    },
+    {
+      "judul": "Ribuan Data Karyawan Casio Dibobol Peretas",
+      "link_berita": "https://ameera.republika.co.id/berita/spsuwm425/ribuan-data-karyawan-casio-dibobol-peretas",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:37:47"
+    },
+    {
+      "judul": "Prabowo Bertolak ke Malaysia, Lakukan Pertemuan dengan Anwar Ibrahim, Ini yang Dibahas",
+      "link_berita": "https://news.republika.co.id/berita/spsuht377/prabowo-bertolak-ke-malaysia-lakukan-pertemuan-dengan-anwar-ibrahim-ini-yang-dibahas",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:37:47"
+    },
+    {
+      "judul": "Dua Ruas Jalan di Jakbar Masih Terendam Banjir",
+      "link_berita": "https://news.republika.co.id/berita/spsufz366/dua-ruas-jalan-di-jakbar-masih-terendam-banjir",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:37:47"
+    },
+    {
+      "judul": "Arab Saudi Terancam Banjir Bandang, Makkah dan Madinah Berstatus Merah",
+      "link_berita": "https://khazanah.republika.co.id/berita/spsu6i483/arab-saudi-terancam-banjir-bandang-makkah-dan-madinah-berstatus-merah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:37:47"
+    },
+    {
+      "judul": "Militer Sudan Terlibat Pemerkosaan 500 Wanita Plus Genosida, Amerika Berikan Sanksi ini",
+      "link_berita": "https://news.republika.co.id/berita/spstrb451/militer-sudan-terlibat-pemerkosaan-500-wanita-plus-genosida-amerika-berikan-sanksi-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
+    },
+    {
       "judul": "KBS Lebih Siap Arungi IBL Musim 2025, Bidik Target Berlaga di Final",
       "link_berita": "https://news.republika.co.id/berita/spst94348/kbs-lebih-siap-arungi-ibl-musim-2025-bidik-target-berlaga-di-final",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:53:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Ini Salah Satu Solusi untuk Kendali Penuh atas Investasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/spssxb456/ini-salah-satu-solusi-untuk-kendali-penuh-atas-investasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:46:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Kisruh di Universitas Bandung, LL Dikti Minta Pembelajaran Tetap Berjalan",
       "link_berita": "https://rejabar.republika.co.id/berita/spsswn512/kisruh-di-universitas-bandung-ll-dikti-minta-pembelajaran-tetap-berjalan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:46:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Minum Kopi Pagi Hari Disebut Bisa Turunkan Risiko Kematian Akibat Penyakit Jantung",
       "link_berita": "https://ameera.republika.co.id/berita/spssvb425/minum-kopi-pagi-hari-disebut-bisa-turunkan-risiko-kematian-akibat-penyakit-jantung",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:45:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Kubu Hasto Bertanya-tanya Mengapa KPK Periksa Mantan Penyidik?",
       "link_berita": "https://news.republika.co.id/berita/spssra377/kubu-hasto-bertanyatanya-mengapa-kpk-periksa-mantan-penyidik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:43:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Ini Daftar Lengkap 17 Kepala Daerah Pemenang Pilkada di Jabar yang Ditetapkan Hari Ini",
       "link_berita": "https://rejabar.republika.co.id/berita/spssnt512/ini-daftar-lengkap-17-kepala-daerah-pemenang-pilkada-di-jabar-yang-ditetapkan-hari-ini",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:41:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Rajab Bulan Mulia dan Amalan yang Dianjurkan",
       "link_berita": "https://sajada.id/posts/503856/rajab-bulan-mulia-dan-amalan-yang-dianjurkan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Sukabumi Ajukan Dana untuk Pembangunan 8.145 Rumah Korban Bencana, Bey: Segera Realisiskan",
       "link_berita": "https://rejabar.republika.co.id/berita/spss88512/sukabumi-ajukan-dana-untuk-pembangunan-8145-rumah-korban-bencana-bey-segera-realisiskan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:31:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Trump Serius Mau Caplok Greenland, tapi Blinken Malah Bilang Begini",
       "link_berita": "https://news.republika.co.id/berita/spss61451/trump-serius-mau-caplok-greenland-tapi-blinken-malah-bilang-begini",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:30:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Jadwal Tanding Lima Wakil Indonesia di 16 Besar Malaysia Open 2025 Hari Ini",
       "link_berita": "https://news.republika.co.id/berita/spss1l348/jadwal-tanding-lima-wakil-indonesia-di-16-besar-malaysia-open-2025-hari-ini",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:27:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Dukung Perbankan Syariah, OJK Terbitkan Aturan Baru Perluasan Kegiatan Usaha",
       "link_berita": "https://ekonomi.republika.co.id/berita/spsrqe490/dukung-perbankan-syariah-ojk-terbitkan-aturan-baru-perluasan-kegiatan-usaha",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:21:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "BSI Optimistis Lanjutkan Kinerja Positif Pembiayaan Otomotif di 2025",
       "link_berita": "https://sharia.republika.co.id/berita/spsr97490/bsi-optimistis-lanjutkan-kinerja-positif-pembiayaan-otomotif-di-2025",
       "kategori": "Sharia",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:10:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:37:47"
     },
     {
       "judul": "Kebakaran Landa Grage Mall Cirebon, Pengunjung Sempat Panik",
       "link_berita": "https://rejabar.republika.co.id/berita/spsr1z512/kebakaran-landa-grage-mall-cirebon-pengunjung-sempat-panik",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:06:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Kelanjutan Hasto Sebagai Sekjen PDIP di Tangan Megawati",
       "link_berita": "https://news.republika.co.id/berita/spspuv377/kelanjutan-hasto-sebagai-sekjen-pdip-di-tangan-megawati",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 01:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Liga Arab: Peta Provokatif Israel Caplok Palestina, Suriah, Lebanon Tumbuhkan Ekstremisme",
       "link_berita": "https://khazanah.republika.co.id/berita/spsk9r451/liga-arab-peta-provokatif-israel-caplok-palestina-suriah-lebanon-tumbuhkan-ekstremisme",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Kena Perangkap, Komandan Tank IDF Tewas",
       "link_berita": "https://news.republika.co.id/berita/spspfd393/kena-perangkap-komandan-tank-idf-tewas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Menhan Sjafrie Terima Penganugerahan Bintang LVRI",
       "link_berita": "https://seputarmiliter.id/posts/503793/menhan-sjafrie-terima-penganugerahan-bintang-lvri",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Kontroversi Kepemilikan Data di Industri Maritim, Siapa Regulatornya?",
       "link_berita": "https://shippingcargo.co.id/posts/503676/kontroversi-kepemilikan-data-di-industri-maritim-siapa-regulatornya",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Pererat Komunikasi Siswa-Guru Setelah Libur Panjang, Dinamyc Days Festival Digelar",
       "link_berita": "https://bandung24jam.id/posts/503800/pererat-komunikasi-siswa-guru-setelah-libur-panjang-dinamyc-days-festival-digelar",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Termasuk Sunnah Nabi SAW: Menghabiskan Makanan",
       "link_berita": "https://iqra.republika.co.id/berita/spsowj430/termasuk-sunnah-nabi-saw-menghabiskan-makanan",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Banyak Lihat Orang Bohong? Itu Tanda Kiamat",
       "link_berita": "https://iqra.republika.co.id/berita/spsokm430/banyak-lihat-orang-bohong-itu-tanda-kiamat",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:03:01"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 00:37:47"
     },
     {
       "judul": "Kemenag Buka Program Beasiswa Indonesia Bangkit 2025, Cek Kuotanya",
       "link_berita": "https://khazanah.republika.co.id/berita/spsjxy451/kemenag-buka-program-beasiswa-indonesia-bangkit-2025-cek-kuotanya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:37:47"
     },
     {
       "judul": "Hujan Deras Semalaman, Ini Titik Banjir di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/spsm4l377/hujan-deras-semalaman-ini-titik-banjir-di-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:37:47"
     },
     {
       "judul": "Libas Bilbao 2-0, Barcelona ke Final Piala Super, Tunggu Pemenang Madrid Vs Mallorca",
       "link_berita": "https://news.republika.co.id/berita/spsm4e348/libas-bilbao-20-barcelona-ke-final-piala-super-tunggu-pemenang-madrid-vs-mallorca",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:37:47"
     },
     {
       "judul": "Prakiraan Cuaca Hari Ini Tanggal 9 Januari 2025: Kota Palembang dan Sekitarnya - Berawan",
       "link_berita": "https://news.republika.co.id/berita/spsm4d1563159903/prakiraan-cuaca-hari-ini-tanggal-9-januari-2025-kota-palembang-dan-sekitarnya-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:37:47"
     },
     {
       "judul": "Kaprodi PPDS Undip Diperiksa Polisi Enam Jam",
       "link_berita": "https://news.republika.co.id/berita/spslja377/kaprodi-ppds-undip-diperiksa-polisi-enam-jam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
+      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:37:47"
     },
     {
-      "judul": "Gol Lucas Bergvall Pastikan Kemenangan Tottenham Atas Liverpool di Piala Liga Inggris",
-      "link_berita": "https://news.republika.co.id/berita/spsl7u348/gol-lucas-bergvall-pastikan-kemenangan-tottenham-atas-liverpool-di-piala-liga-inggris",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini, 9 Januari 2025, di Kota Denpasar Bali dan Sekitarnya: Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/spskq9901119990/prakiraan-cuaca-hari-ini-9-januari-2025-di-kota-denpasar-bali-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
-    },
-    {
-      "judul": "Legislator Minta PAM Jaya Tekan Tingkat Kebocoran Air",
-      "link_berita": "https://news.republika.co.id/berita/spskpu484/legislator-minta-pam-jaya-tekan-tingkat-kebocoran-air",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 23:03:01"
-    },
-    {
-      "judul": "Erick Thohir: If I Want to Relax and Find Popularity, I Choose to Continue with STY",
-      "link_berita": "https://en.republika.co.id/berita/spskia415/erick-thohir-if-i-want-to-relax-and-find-popularity-i-choose-to-continue-with-sty",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 02:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 9 Januari 2025 Kota Makassar dan Sekitarnya: Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/spsjw5230950749/prakiraan-cuaca-hari-ini-9-januari-2025-kota-makassar-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Minum Kopi: Dari Sufi untuk Qiyamul Lail Hingga Riset Jelaskan untuk Kesehatan Jantung",
-      "link_berita": "https://khazanah.republika.co.id/berita/spsjs3451/minum-kopi-dari-sufi-untuk-qiyamul-lail-hingga-riset-jelaskan-untuk-kesehatan-jantung",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Muhammadiyah Tetapkan Awal Puasa Ramadhan Lebih Dulu, Begini Respons Menag",
-      "link_berita": "https://khazanah.republika.co.id/berita/spsjpc430/muhammadiyah-tetapkan-awal-puasa-ramadhan-lebih-dulu-begini-respons-menag",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini, 9 Januari 2025: Kota Medan dan Sekitarnya, Hujan Ringan pada Malam Hari di Binjai",
-      "link_berita": "https://news.republika.co.id/berita/spsjc41043825750/prakiraan-cuaca-hari-ini-9-januari-2025-kota-medan-dan-sekitarnya-hujan-ringan-pada-malam-hari-di-binjai",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini: Malang dan Sekitarnya - Hujan Ringan | 9 Januari 2025",
-      "link_berita": "https://news.republika.co.id/berita/spsine611078953/prakiraan-cuaca-hari-ini-malang-dan-sekitarnya-hujan-ringan-9-januari-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 9 Januari 2025: Kota Surabaya dan Sekitarnya - Berawan",
-      "link_berita": "https://news.republika.co.id/berita/spshy5587958343/prakiraan-cuaca-hari-ini-9-januari-2025-kota-surabaya-dan-sekitarnya-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Kecerdikan Al Qassam: Modifikasi Persenjataan Israel Hingga Rekrut Pejuang Baru",
-      "link_berita": "https://khazanah.republika.co.id/berita/sprwll483/kecerdikan-al-qassam-modifikasi-persenjataan-israel-hingga-rekrut-pejuang-baru",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 22:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 9 Januari 2025 Daerah Kota Yogyakarta dan Sekitarnya: Berawan atau Hujan?",
-      "link_berita": "https://news.republika.co.id/berita/spsh471653096012/prakiraan-cuaca-hari-ini-9-januari-2025-daerah-kota-yogyakarta-dan-sekitarnya-berawan-atau-hujan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 21:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari ini 9 Januari 2025: Kota Semarang dan Sekitarnya - Hujan Ringan",
-      "link_berita": "https://news.republika.co.id/berita/spsgag1130866677/prakiraan-cuaca-hari-ini-9-januari-2025-kota-semarang-dan-sekitarnya-hujan-ringan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 21:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini: Tangerang dan Sekitarnya 9 Januari 2025 - Hujan Ringan Diperkirakan di Kota Serang dan Kota Tangerang Selatan",
-      "link_berita": "https://news.republika.co.id/berita/spsfop997334363/prakiraan-cuaca-hari-ini-tangerang-dan-sekitarnya-9-januari-2025-hujan-ringan-diperkirakan-di-kota-serang-dan-kota-tangerang-selatan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 21:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini: Hujan Ringan di Jakarta Utara 09 Januari 2025",
-      "link_berita": "https://news.republika.co.id/berita/spsf4f1662435868/prakiraan-cuaca-hari-ini-hujan-ringan-di-jakarta-utara-09-januari-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 21:03:01"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini, 9 Januari 2025, di Palembang: Menggapai Keberkahan dalam Kehidupan Sehari-hari",
-      "link_berita": "https://iqra.republika.co.id/berita/spser41471890565/jadwal-sholat-hari-ini-9-januari-2025-di-palembang-menggapai-keberkahan-dalam-kehidupan-seharihari",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 21:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 9 Januari 2025 untuk Bekasi dan Sekitarnya: Hujan Ringan Diprediksi",
-      "link_berita": "https://news.republika.co.id/berita/spseal1809513990/prakiraan-cuaca-hari-ini-9-januari-2025-untuk-bekasi-dan-sekitarnya-hujan-ringan-diprediksi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 20:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 9 Januari 2025 untuk Kota Padang dan Sekitarnya: Hujan Ringan Pada Malam Hari",
-      "link_berita": "https://news.republika.co.id/berita/spse8u1001833948/prakiraan-cuaca-hari-ini-9-januari-2025-untuk-kota-padang-dan-sekitarnya-hujan-ringan-pada-malam-hari",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 20:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 9 Januari 2025: Dari Bandung hingga Garut dan Cimahi",
-      "link_berita": "https://news.republika.co.id/berita/spsdov687152148/prakiraan-cuaca-hari-ini-9-januari-2025-dari-bandung-hingga-garut-dan-cimahi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 20:03:01"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Yogyakarta, 09 January 2025",
-      "link_berita": "https://iqra.republika.co.id/berita/spsdd11824549064/jadwal-sholat-hari-ini-di-yogyakarta-09-january-2025",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 20:03:01"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini dan Pentingnya Sholat dalam Kehidupan \u2013 Jakarta, 09 Januari 2025",
-      "link_berita": "https://iqra.republika.co.id/berita/spsbtv383966378/jadwal-sholat-hari-ini-dan-pentingnya-sholat-dalam-kehidupan-jakarta-09-januari-2025",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 20:03:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini di Kota Balikpapan dan Sekitarnya: Petir dan Berawan 9 Januari 2025",
-      "link_berita": "https://news.republika.co.id/berita/spsbqy985327206/prakiraan-cuaca-hari-ini-di-kota-balikpapan-dan-sekitarnya-petir-dan-berawan-9-januari-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 20:03:01"
-    },
-    {
-      "judul": "Infografis Momen Bersejarah Shin Tae-yong Bersama Timnas Indonesia",
-      "link_berita": "https://visual.republika.co.id/berita/sprwqq409/infografis-momen-bersejarah-shin-taeyong-bersama-timnas-indonesia",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 19:03:01"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini: 09 Januari 2025 untuk Wilayah Medan",
-      "link_berita": "https://iqra.republika.co.id/berita/spsae7385724565/jadwal-sholat-hari-ini-09-januari-2025-untuk-wilayah-medan",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 08 Jan 2025, 19:03:01"
-    },
-    {
-      "judul": "Minum Kopi Pagi Hari Disebut Bisa Turunkan Risiko Kematian Akibat Penyakit Jantung",
-      "link_berita": "https://ameera.republika.co.id/berita/spssvb425/minum-kopi-pagi-hari-disebut-bisa-turunkan-risiko-kematian-akibat-penyakit-jantung",
-      "kategori": "Health",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 08:45:00"
+      "judul": "Ribuan Data Karyawan Casio Dibobol Peretas",
+      "link_berita": "https://ameera.republika.co.id/berita/spsuwm425/ribuan-data-karyawan-casio-dibobol-peretas",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 09:29:00"
     },
     {
       "judul": "Uni Eropa Peringatkan Dampak Keluarnya AS dari Perjanjian Paris",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 08 Jan 2025, 19:03:00"
     },
     {
-      "judul": "Ini Salah Satu Solusi untuk Kendali Penuh atas Investasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spssxb456/ini-salah-satu-solusi-untuk-kendali-penuh-atas-investasi",
+      "judul": "Cadangan Devisa di Akhir 2024 Meningkat, Rupiah Tetap Tertekan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spsw6x490/cadangan-devisa-di-akhir-2024-meningkat-rupiah-tetap-tertekan",
       "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 08:46:00"
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 10:05:00"
     },
     {
       "judul": "BSI Optimistis Lanjutkan Kinerja Positif Pembiayaan Otomotif di 2025",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 09 Jan 2025, 08:10:00"
     },
     {
-      "judul": "KBS Lebih Siap Arungi IBL Musim 2025, Bidik Target Berlaga di Final",
-      "link_berita": "https://news.republika.co.id/berita/spst94348/kbs-lebih-siap-arungi-ibl-musim-2025-bidik-target-berlaga-di-final",
-      "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 09 Jan 2025, 08:53:00"
+      "judul": "KSAD Rayakan Natal di Kodam I/BB dan Renovasi Panti Asuhan Bait Allah",
+      "link_berita": "https://news.republika.co.id/berita/spsxta484/ksad-rayakan-natal-di-kodam-ibb-dan-renovasi-panti-asuhan-bait-allah",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 09 Jan 2025, 10:31:00"
     }
   ],
-  "waktu_scraping": "Thursday, 09 Jan 2025, 09:03:01"
+  "waktu_scraping": "Thursday, 09 Jan 2025, 10:37:47"
 }
