@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "KKP: Lokasi Pagar Laut Tidak Berada di Area PSN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spuwqj490/kkp-lokasi-pagar-laut-tidak-berada-di-area-psn"
+    },
+    {
+      "judul": "BPIP Jelaskan Peran Indonesia dalam BRICS",
+      "link_berita": "https://khazanah.republika.co.id/berita/spubk3451/bpip-jelaskan-peran-indonesia-dalam-brics"
+    },
+    {
       "judul": "Benarkah Pemagaran Laut Ada di Lokasi PSN PIK-2? Ini Jawaban KKP",
       "link_berita": "https://news.republika.co.id/berita/spuuda377/benarkah-pemagaran-laut-ada-di-lokasi-psn-pik2-ini-jawaban-kkp"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Kerugian Kebakaran California Diprediksi Hampir Rp 1.000 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuq8s490/kerugian-kebakaran-california-diprediksi-hampir-rp-1000-triliun"
-    },
-    {
-      "judul": "AS Sahkan RUU untuk Sanksi ICC yang Ingin Tangkap Netanyahu",
-      "link_berita": "https://khazanah.republika.co.id/berita/spuq8k483/as-sahkan-ruu-untuk-sanksi-icc-yang-ingin-tangkap-netanyahu"
-    },
-    {
-      "judul": "Makan Bergizi Gratis Bisa Dorong Perekonomian, Ini Syaratnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spul8h490/makan-bergizi-gratis-bisa-dorong-perekonomian-ini-syaratnya"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Rusia Ungkap Peran RI di BRICS Sangat Penting Satukan Timur-Selatan Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spv0hc502/rusia-ungkap-peran-ri-di-brics-sangat-penting-satukan-timurselatan-global"
+    },
+    {
+      "judul": "Potensi Kerugian Asuransi Kebakaran California Diprediksi Tembus Rp 323 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spuxo3370/potensi-kerugian-asuransi-kebakaran-california-diprediksi-tembus-rp-323-triliun"
+    },
     {
       "judul": "Terus Diburu di Berbagai Negara, Dunia Semakin Sempit Bagi Tentara Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/spura4483/terus-diburu-di-berbagai-negara-dunia-semakin-sempit-bagi-tentara-israel"
@@ -73,316 +81,308 @@
     {
       "judul": "Ini Inti Pembicaraan Antara Prabowo dan Anwar Ibrahim Menurut Seskab",
       "link_berita": "https://news.republika.co.id/berita/sptnqq409/ini-inti-pembicaraan-antara-prabowo-dan-anwar-ibrahim-menurut-seskab"
-    },
-    {
-      "judul": "Gabung BRICS, Indonesia Ikut Lawan Hegemoni Barat?",
-      "link_berita": "https://tv.republika.co.id/berita/sptn2y467/gabung-brics-indonesia-ikut-lawan-hegemoni-barat"
-    },
-    {
-      "judul": "Selisih Paham MUI Pusat dengan MUI Banten Soal PSN di PIK 2, Ada Apa?",
-      "link_berita": "https://khazanah.republika.co.id/berita/sptmie483/selisih-paham-mui-pusat-dengan-mui-banten-soal-psn-di-pik-2-ada-apa"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Polisi Ungkap, Tewasnya Remaja Tertancap Pagar Trotoar di Cianjur Kecelakaan Tunggal",
+      "link_berita": "https://rejabar.republika.co.id/berita/spv0k2512/polisi-ungkap-tewasnya-remaja-tertancap-pagar-trotoar-di-cianjur-kecelakaan-tunggal",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 06:26:08"
+    },
+    {
+      "judul": "Rusia Ungkap Peran RI di BRICS Sangat Penting Satukan Timur-Selatan Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spv0hc502/rusia-ungkap-peran-ri-di-brics-sangat-penting-satukan-timurselatan-global",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 06:25:08"
+    },
+    {
+      "judul": "Kemnaker: Kenaikan Usia Pensiun Pekerja Secara Otomatis Berlaku",
+      "link_berita": "https://news.republika.co.id/berita/spv0b6370/kemnaker-kenaikan-usia-pensiun-pekerja-secara-otomatis-berlaku",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 06:21:08"
+    },
+    {
+      "judul": "KPK Tantang Sekjen PDIP Hasto Kasih Dokumen yang Dititip Connie ke Rusia",
+      "link_berita": "https://news.republika.co.id/berita/spv0a5377/kpk-tantang-sekjen-pdip-hasto-kasih-dokumen-yang-dititip-connie-ke-rusia",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 06:20:08"
+    },
+    {
+      "judul": "Praktis dan Efisien, Andal by Taspen Sudah Diunduh Lebih dari 1 Juta Peserta",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spuzdw370/praktis-dan-efisien-andal-by-taspen-sudah-diunduh-lebih-dari-1-juta-peserta",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 06:01:08"
+    },
+    {
+      "judul": "Riset FEB UB: Kemitraan Jadi Fondasi Keberhasilan Hilirisasi Mineral di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spuxk6490/riset-feb-ub-kemitraan-jadi-fondasi-keberhasilan-hilirisasi-mineral-di-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:55:08"
+    },
+    {
+      "judul": "Lembaga Iklim Konfirmasi 2024 Jadi Tahun Terpanas",
+      "link_berita": "https://esgnow.republika.co.id/berita/spuz07416/lembaga-iklim-konfirmasi-2024-jadi-tahun-terpanas",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:53:08"
+    },
+    {
+      "judul": "DLHK Minta Warga tak Buang Sampah di Pinggir Jalan Sukajadi Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/spuybu512/dlhk-minta-warga-tak-buang-sampah-di-pinggir-jalan-sukajadi-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:38:08"
+    },
+    {
+      "judul": "Lima Pelaku Penganiayaan Terhadap Pegiat Motor Trail di Bandung Ditangkap",
+      "link_berita": "https://rejabar.republika.co.id/berita/spuy3d512/lima-pelaku-penganiayaan-terhadap-pegiat-motor-trail-di-bandung-ditangkap",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:33:08"
+    },
+    {
+      "judul": "Riset FEB Universitas Brawijaya Sorot Kolaborasi Saling Menguntungkan Hilirisasi di Gresik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spuxeu490/riset-feb-universitas-brawijaya-sorot-kolaborasi-saling-menguntungkan-hilirisasi-di-gresik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:30:08"
+    },
+    {
+      "judul": "Potensi Kerugian Asuransi Kebakaran California Diprediksi Tembus Rp 323 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spuxo3370/potensi-kerugian-asuransi-kebakaran-california-diprediksi-tembus-rp-323-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:28:08"
+    },
+    {
       "judul": "Sempat Viral Batal Nikah karena tak Jadi CPNS, Daffa Malah Sukses jadi CEO Stratup Travel",
       "link_berita": "https://rejabar.republika.co.id/berita/spux55512/sempat-viral-batal-nikah-karena-tak-jadi-cpns-daffa-malah-sukses-jadi-ceo-stratup-travel",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 05:12:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:28:08"
     },
     {
       "judul": "KKP: Lokasi Pagar Laut Tidak Berada di Area PSN",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuwqj490/kkp-lokasi-pagar-laut-tidak-berada-di-area-psn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 05:03:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:28:08"
     },
     {
       "judul": "BPIP Jelaskan Peran Indonesia dalam BRICS",
       "link_berita": "https://khazanah.republika.co.id/berita/spubk3451/bpip-jelaskan-peran-indonesia-dalam-brics",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 05:01:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:28:08"
     },
     {
       "judul": "Harga Cabai di Pasar Tradisional di Bandung Meroket, Tembus Rp 140 Ribu Per Kilogram",
       "link_berita": "https://rejabar.republika.co.id/berita/spuwld512/harga-cabai-di-pasar-tradisional-di-bandung-meroket-tembus-rp-140-ribu-per-kilogram",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 05:00:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 05:28:08"
     },
     {
       "judul": "Erick Ungkap Qatar Siap Bangun 1 Juta Perumahan Rakyat",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuqfx490/erick-ungkap-qatar-siap-bangun-1-juta-perumahan-rakyat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:54:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Kasus DBD di Kota Cimahi Meroket Sepanjang Tahun 2024, Ini Pemicunya",
       "link_berita": "https://rejabar.republika.co.id/berita/spuw4x512/kasus-dbd-di-kota-cimahi-meroket-sepanjang-tahun-2024-ini-pemicunya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:50:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Lima Selebritas yang Kehilangan Rumah Akibat Kebakaran di LA, Salah Satunya Paris Hilton",
       "link_berita": "https://ameera.republika.co.id/berita/spuvjj416/lima-selebritas-yang-kehilangan-rumah-akibat-kebakaran-di-la-salah-satunya-paris-hilton",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:37:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Tahun Ini Penjulan Otomotif di Jabar Masih Prospektif, SUV Hyundai Targetkan Naik 15 %",
       "link_berita": "https://rejabar.republika.co.id/berita/spuv85512/tahun-ini-penjulan-otomotif-di-jabar-masih-prospektif-suv-hyundai-targetkan-naik-15",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:30:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Emisi AS Turun Meski Aktivitas Ekonomi Meningkat",
       "link_berita": "https://esgnow.republika.co.id/berita/spuuif416/emisi-as-turun-meski-aktivitas-ekonomi-meningkat",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Keutamaan Umat Islam Bahagia Sambut Ramadhan: Diharamkan Jasadnya Masuk Neraka",
       "link_berita": "https://khazanah.republika.co.id/berita/spuui0425/keutamaan-umat-islam-bahagia-sambut-ramadhan-diharamkan-jasadnya-masuk-neraka",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Benarkah Pemagaran Laut Ada di Lokasi PSN PIK-2? Ini Jawaban KKP",
       "link_berita": "https://news.republika.co.id/berita/spuuda377/benarkah-pemagaran-laut-ada-di-lokasi-psn-pik2-ini-jawaban-kkp",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Saat sidang Pilpres Lebanon, drone Israel terdeteksi aktif di Nabatieh",
       "link_berita": "https://khazanah.republika.co.id/berita/spubfo451/saat-sidang-pilpres-lebanon-drone-israel-terdeteksi-aktif-di-nabatieh",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 04:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 04:28:08"
     },
     {
       "judul": "Terus Diburu di Berbagai Negara, Dunia Semakin Sempit Bagi Tentara Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/spura4483/terus-diburu-di-berbagai-negara-dunia-semakin-sempit-bagi-tentara-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Ratusan Mahasiswa Ikuti Huawei National ICT Competition 2024-2025",
       "link_berita": "https://rejogja.republika.co.id/berita/sput6h291/ratusan-mahasiswa-ikuti-huawei-national-ict-competition-20242025",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Wow... Membantu Mendidik Anak-anak Tentang Musik, Ed Sheeran Dirikan Yayasan Ed Sheeran",
       "link_berita": "https://impresiupdate.id/posts/504120/wow-membantu-mendidik-anak-anak-tentang-musik-ed-sheeran-dirikan-yayasan-ed-sheeran",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Catatan Cak AT: Gerakkan Lokavora, Yuk!",
       "link_berita": "https://ruzkaindonesia.id/posts/504123/catatan-cak-at-gerakkan-lokavora-yuk-",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Bad Bunny: Saya Masih Merasa Seperti Pendatang Baru di Industri Musik",
       "link_berita": "https://impresiupdate.id/posts/504126/bad-bunny-saya-masih-merasa-seperti-pendatang-baru-di-industri-musik",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Perubahan Jalur Perdagangan Minyak Global: Apa Dampaknya pada Ekonomi Dunia?",
       "link_berita": "https://shippingcargo.co.id/posts/503970/perubahan-jalur-perdagangan-minyak-global-apa-dampaknya-pada-ekonomi-dunia",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Resmi Ditetapkan Jadi Calon Bupati Indramayu Terpilih, Lucky Hakim: Guyub Lagi",
       "link_berita": "https://rejabar.republika.co.id/berita/spusu8512/resmi-ditetapkan-jadi-calon-bupati-indramayu-terpilih-lucky-hakim-guyub-lagi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Pertamina: Konsumsi BBM di Jateng-DIY selama Nataru 2024/2025 Meningkat",
       "link_berita": "https://rejogja.republika.co.id/berita/spusht291/pertamina-konsumsi-bbm-di-jatengdiy-selama-nataru-20242025-meningkat",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Usai Isi BBM, Angkot di Kuningan Ludes Terbakar",
       "link_berita": "https://rejabar.republika.co.id/berita/spusca512/usai-isi-bbm-angkot-di-kuningan-ludes-terbakar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "The Fed Ungkap Sikap Hawkish, Rupiah Diprediksi Bakal Meleyot",
       "link_berita": "https://ekonomi.republika.co.id/berita/spus41490/the-fed-ungkap-sikap-hawkish-rupiah-diprediksi-bakal-meleyot",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "CCTV Ungkap Fakta Remaja HZM yang Tewas Tertancap di Pagar di Cianjur",
       "link_berita": "https://news.republika.co.id/berita/spus1h377/cctv-ungkap-fakta-remaja-hzm-yang-tewas-tertancap-di-pagar-di-cianjur",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Masjid Al-Fath UBSI Kampus BSD Siap Hadirkan Koh Denis Lim: Kajian Inspiratif untuk Wanita",
       "link_berita": "https://news.republika.co.id/berita/spuruq490/masjid-alfath-ubsi-kampus-bsd-siap-hadirkan-koh-denis-lim-kajian-inspiratif-untuk-wanita",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Ini Langkah Tegas BRI Ciptakan Lingkungan Kerja Bebas Fraud",
       "link_berita": "https://ekonomi.republika.co.id/berita/spurnb490/ini-langkah-tegas-briciptakan-lingkungan-kerja-bebas-fraud",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Sejumlah Diaspora Indonesia Terdampak Kebakaran di Los Angeles",
       "link_berita": "https://tv.republika.co.id/berita/spurg4418/sejumlah-diaspora-indonesia-terdampak-kebakaran-di-los-angeles",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Perpustakaan UNM Tingkatkan Literasi Digital untuk Hadapi Era Kecerdasan Buatan",
       "link_berita": "https://news.republika.co.id/berita/spurch490/perpustakaan-unm-tingkatkan-literasi-digital-untuk-hadapi-era-kecerdasan-buatan",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Dukung Israel Hancurkan Gaza, Aktor James Woods Kini Menangis Rumahnya Kebakaran",
       "link_berita": "https://news.republika.co.id/berita/spurbp484/dukung-israel-hancurkan-gaza-aktor-james-woods-kini-menangis-rumahnya-kebakaran",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Cuaca Buruk di Musim Dingin Hantam Berbagai Belahan Dunia",
       "link_berita": "https://esgnow.republika.co.id/berita/spur8v416/cuaca-buruk-di-musim-dingin-hantam-berbagai-belahan-dunia",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Syekh Ibnu Athaillah Ungkap Ciri-Ciri Pecinta Allah",
       "link_berita": "https://khazanah.republika.co.id/berita/spub8c451/syekh-ibnu-athaillah-ungkap-ciriciri-pecinta-allah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Cara Rasulullah Mendidik Anak",
       "link_berita": "https://khazanah.republika.co.id/berita/spur4q458/cara-rasulullah-mendidik-anak",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "Tak Berizin dan Berpotensi Merusak Ekosistem, Siapa Pembuat Pagar Laut di Tangerang?",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuqzm490/tak-berizin-dan-berpotensi-merusak-ekosistem-siapa-pembuat-pagar-laut-di-tangerang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 03:28:08"
     },
     {
       "judul": "KKP Tegaskan Pemagaran Ruang Laut Langgar Aturan",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuql8490/kkp-tegaskan-pemagaran-ruang-laut-langgar-aturan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 03:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "Gua-Gua Bersejarah dalam Perspektif Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/spuqbh458/guagua-bersejarah-dalam-perspektif-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "Kerugian Kebakaran California Diprediksi Hampir Rp 1.000 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuq8s490/kerugian-kebakaran-california-diprediksi-hampir-rp-1000-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "AS Sahkan RUU untuk Sanksi ICC yang Ingin Tangkap Netanyahu",
       "link_berita": "https://khazanah.republika.co.id/berita/spuq8k483/as-sahkan-ruu-untuk-sanksi-icc-yang-ingin-tangkap-netanyahu",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "Masih Strong, Harga Emas Naik Lagi Hari Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/spuq2l490/masih-strong-harga-emas-naik-lagi-hari-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "Kisah Tawasul 3 Pemuda saat Terkurung Dalam Gua",
       "link_berita": "https://khazanah.republika.co.id/berita/spupud458/kisah-tawasul-3-pemuda-saat-terkurung-dalam-gua",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "Virgil Van Dijk Nantikan Leg Kedua Piala Liga Inggris Lawan Tottenham Hotspur",
       "link_berita": "https://news.republika.co.id/berita/spupq3348/virgil-van-dijk-nantikan-leg-kedua-piala-liga-inggris-lawan-tottenham-hotspur",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Ketika para Ashabul Kahfi Keluar dari Gua",
-      "link_berita": "https://khazanah.republika.co.id/berita/spuphl458/ketika-para-ashabul-kahfi-keluar-dari-gua",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Ancelotti Antisipasi Duel tak Terduga pada El Clasico di Piala Super Spanyol",
-      "link_berita": "https://news.republika.co.id/berita/spupgp348/ancelotti-antisipasi-duel-tak-terduga-pada-el-clasico-di-piala-super-spanyol",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Berapa Jumlah Pemuda Ashabul Kahfi?",
-      "link_berita": "https://khazanah.republika.co.id/berita/spup29458/berapa-jumlah-pemuda-ashabul-kahfi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Ingin Optimalkan Bandara Kertajati, Ini Strategi Menhub",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spup1c490/ingin-optimalkan-bandara-kertajati-ini-strategi-menhub",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Jadi Primary Dealer, Volume Transaksi SBSN di BSI Tumbuh 65,38 Persen",
-      "link_berita": "https://sharia.republika.co.id/berita/spuov2490/jadi-primary-dealer-volume-transaksi-sbsn-di-bsi-tumbuh-6538-persen",
-      "kategori": "Sharia",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Epidemiolog: Pemerintah Harus Siap Siaga Terhadap Virus HMPV",
-      "link_berita": "https://tv.republika.co.id/berita/spuoii418/epidemiolog-pemerintah-harus-siap-siaga-terhadap-virus-hmpv",
-      "kategori": "Video",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "MUI Pusat Apresiasi Prabowo akan Tinjau Ulang PSN di PIK2",
-      "link_berita": "https://khazanah.republika.co.id/berita/spuapr451/mui-pusat-apresiasi-prabowo-akan-tinjau-ulang-psn-di-pik2",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Polri dan Kementerian P2MI Sinergi Lindungi Pekerja Migran Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/spunve522/polri-dan-kementerian-p2mi-sinergi-lindungi-pekerja-migran-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 02:18:49"
-    },
-    {
-      "judul": "Maksimalkan Pemanfaatan LNG Tangguh, PGN Gandeng BUMD Papua Barat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spuniy522/maksimalkan-pemanfaatan-lng-tangguh-pgn-gandeng-bumd-papua-barat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 01:18:49"
-    },
-    {
-      "judul": "BYD Xia Resmi Mengaspal, Harga Mulai Rp 500 Jutaan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spumu1370/byd-xia-resmi-mengaspal-harga-mulai-rp-500-jutaan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 01:18:49"
-    },
-    {
-      "judul": "Makhluk Penglaris",
-      "link_berita": "https://retizen.republika.co.id/posts/504077/makhluk-penglaris",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 01:18:49"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 02:28:08"
     },
     {
       "judul": "Lima Selebritas yang Kehilangan Rumah Akibat Kebakaran di LA, Salah Satunya Paris Hilton",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Friday, 10 Jan 2025, 11:38:00"
     },
     {
-      "judul": "Emisi AS Turun Meski Aktivitas Ekonomi Meningkat",
-      "link_berita": "https://esgnow.republika.co.id/berita/spuuif416/emisi-as-turun-meski-aktivitas-ekonomi-meningkat",
+      "judul": "Lembaga Iklim Konfirmasi 2024 Jadi Tahun Terpanas",
+      "link_berita": "https://esgnow.republika.co.id/berita/spuz07416/lembaga-iklim-konfirmasi-2024-jadi-tahun-terpanas",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 11:15:00"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 12:52:00"
     },
     {
-      "judul": "KKP: Lokasi Pagar Laut Tidak Berada di Area PSN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/spuwqj490/kkp-lokasi-pagar-laut-tidak-berada-di-area-psn",
+      "judul": "Rusia Ungkap Peran RI di BRICS Sangat Penting Satukan Timur-Selatan Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/spv0hc502/rusia-ungkap-peran-ri-di-brics-sangat-penting-satukan-timurselatan-global",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 12:03:00"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 13:24:00"
     },
     {
       "judul": "Jadi Primary Dealer, Volume Transaksi SBSN di BSI Tumbuh 65,38 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 10 Jan 2025, 09:13:00"
     },
     {
-      "judul": "Benarkah Pemagaran Laut Ada di Lokasi PSN PIK-2? Ini Jawaban KKP",
-      "link_berita": "https://news.republika.co.id/berita/spuuda377/benarkah-pemagaran-laut-ada-di-lokasi-psn-pik2-ini-jawaban-kkp",
+      "judul": "Kemnaker: Kenaikan Usia Pensiun Pekerja Secara Otomatis Berlaku",
+      "link_berita": "https://news.republika.co.id/berita/spv0b6370/kemnaker-kenaikan-usia-pensiun-pekerja-secara-otomatis-berlaku",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 10 Jan 2025, 11:12:00"
+      "tanggal_terbit": "Friday, 10 Jan 2025, 13:21:00"
     }
   ],
-  "waktu_scraping": "Friday, 10 Jan 2025, 12:18:50"
+  "waktu_scraping": "Friday, 10 Jan 2025, 13:28:08"
 }
