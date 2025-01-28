@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "CIA Sebut Pandemi Covid-19 Bukan Kejadian Alami Tapi Kebocoran Lab, Ini Bantahan Beijing",
+      "link_berita": "https://news.republika.co.id/berita/sqscwg409/cia-sebut-pandemi-covid19-bukan-kejadian-alami-tapi-kebocoran-lab-ini-bantahan-beijing"
+    },
+    {
       "judul": "Saraya Al-Quds Rilis Video Buktikan Tawanan Israel Arbel Yehud Masih Hidup",
       "link_berita": "https://news.republika.co.id/berita/sqsa9q409/saraya-alquds-rilis-video-buktikan-tawanan-israel-arbel-yehud-masih-hidup"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Dunia Kompak Menolak Ide Trump Kala Ribuan Warga Palestina Pulang ke Rumah Masing-Masing",
       "link_berita": "https://news.republika.co.id/berita/sqs2i3409/dunia-kompak-menolak-ide-trump-kala-ribuan-warga-palestina-pulang-ke-rumah-masingmasing"
-    },
-    {
-      "judul": "Quraish Shihab: Maknai Isra Miraj dengan Keakraban di Tengah Masyarakat",
-      "link_berita": "https://tv.republika.co.id/berita/sqrzk8418/quraish-shihab-maknai-isra-miraj-dengan-keakraban-di-tengah-masyarakat"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ternyata Ini yang Memotivasi Warga Israel Tempati Daerah Jajahan",
+      "link_berita": "https://khazanah.republika.co.id/berita/sqsdah451/ternyata-ini-yang-memotivasi-warga-israel-tempati-daerah-jajahan"
+    },
+    {
+      "judul": "Begini Strategi Spionase Iran Manfaatkan Teknologi Digital Bobol Pertahanan Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/sqsc40451/begini-strategi-spionase-iran-manfaatkan-teknologi-digital-bobol-pertahanan-israel"
+    },
     {
       "judul": "Tannos Klaim Jadi WN Guinea-Bissau Penangkapan Disebut tak Sah, Ini Sikap KPK",
       "link_berita": "https://news.republika.co.id/berita/sqsaqz377/tannos-klaim-jadi-wn-guineabissau-penangkapan-disebut-tak-sah-ini-sikap-kpk"
@@ -73,316 +81,308 @@
     {
       "judul": "Prodia Bantah Terlibat Kasus Pembunuhan dan Pemerasan Rp 20 Miliar",
       "link_berita": "https://news.republika.co.id/berita/sqr3j4484/prodia-bantah-terlibat-kasus-pembunuhan-dan-pemerasan-rp-20-miliar"
-    },
-    {
-      "judul": "Takluk dari Suriah, Timnas U-20 Telan Kekalahan Kedua di Mandiri U-20 Challenge Series",
-      "link_berita": "https://news.republika.co.id/berita/sqr4rb348/takluk-dari-suriah-timnas-u20-telan-kekalahan-kedua-di-mandiri-u20-challenge-series"
-    },
-    {
-      "judul": "Kabar Duka, Emilia Contessa Meninggal Dunia",
-      "link_berita": "https://news.republika.co.id/berita/sqr46u377/kabar-duka-emilia-contessa-meninggal-dunia"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pemulangan Paulus Tannos Masih Diurus, KPK: Belum Ada Info Kapan Selesainya",
+      "link_berita": "https://news.republika.co.id/berita/sqseqs487/pemulangan-paulus-tannos-masih-diurus-kpk-belum-ada-info-kapan-selesainya",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 07:13:43"
+    },
+    {
+      "judul": "Senyum Warga Palestina saat Pulang Kembali ke Rumah Mereka di Gaza Utara",
+      "link_berita": "https://visual.republika.co.id/berita/sqsena375/senyum-warga-palestina-saat-pulang-kembali-ke-rumah-mereka-di-gaza-utara",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 07:11:43"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok, 29 Januari 2025: Bogor dan Sekitarnya, Hingga Sukabumi",
+      "link_berita": "https://news.republika.co.id/berita/sqse4r1064760464/prakiraan-cuaca-besok-29-januari-2025-bogor-dan-sekitarnya-hingga-sukabumi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 07:00:43"
+    },
+    {
+      "judul": "Warga Jabar Harus Waspadai Cuaca Ekstrem 26-30 Januari",
+      "link_berita": "https://rejabar.republika.co.id/berita/sqse4i512/warga-jabar-harus-waspadai-cuaca-ekstrem-2630-januari",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 07:00:43"
+    },
+    {
+      "judul": "Geram Lihat Perayaan Kemenangan, Israel Tangkap Orang Gaza dan Serang Jurnalis Amerika",
+      "link_berita": "https://khazanah.republika.co.id/berita/sqsduj451/geram-lihat-perayaan-kemenangan-israel-tangkap-orang-gaza-dan-serang-jurnalis-amerika",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:54:43"
+    },
+    {
+      "judul": "Gen Z dan Era Digital, Peran UBSI kampus Pontianak dalam Membangun Indonesia Emas",
+      "link_berita": "https://news.republika.co.id/berita/sqsdhy490/gen-z-dan-era-digital-peran-ubsi-kampus-pontianak-dalam-membangun-indonesia-emas",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:46:43"
+    },
+    {
+      "judul": "Ternyata Ini yang Memotivasi Warga Israel Tempati Daerah Jajahan",
+      "link_berita": "https://khazanah.republika.co.id/berita/sqsdah451/ternyata-ini-yang-memotivasi-warga-israel-tempati-daerah-jajahan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:42:43"
+    },
+    {
+      "judul": "Imbas Pembangunan Stasiun LRT Manggarai, Transjakarta Modifikasi Jalur",
+      "link_berita": "https://news.republika.co.id/berita/sqsd88484/imbas-pembangunan-stasiun-lrt-manggarai-transjakarta-modifikasi-jalur",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:40:43"
+    },
+    {
+      "judul": "Dokumentasi Ini Perjelas Penolakan Mesir Atas Rencana Trump Pindahkan Warga Gaza ke Sinai",
+      "link_berita": "https://news.republika.co.id/berita/sqsd4d320/dokumentasi-ini-perjelas-penolakan-mesir-atas-rencana-trump-pindahkan-warga-gaza-ke-sinai",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:38:43"
+    },
+    {
+      "judul": "CIA Sebut Pandemi Covid-19 Bukan Kejadian Alami Tapi Kebocoran Lab, Ini Bantahan Beijing",
+      "link_berita": "https://news.republika.co.id/berita/sqscwg409/cia-sebut-pandemi-covid19-bukan-kejadian-alami-tapi-kebocoran-lab-ini-bantahan-beijing",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:33:43"
+    },
+    {
+      "judul": "Polsektro Gambir Tangkap 20 Pelaku Penipuan Daring di Apartemen Jakpus",
+      "link_berita": "https://news.republika.co.id/berita/sqscov484/polsektro-gambir-tangkap-20-pelaku-penipuan-daring-di-apartemen-jakpus",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:29:43"
+    },
+    {
+      "judul": "Ada Pagar Laut Ilegal di Bekasi, Pemprov Jabar Layangkan Surat Teguran ke PT TRPN",
+      "link_berita": "https://rejabar.republika.co.id/berita/sqsclp512/ada-pagar-laut-ilegal-di-bekasi-pemprov-jabar-layangkan-surat-teguran-ke-pt-trpn",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:27:43"
+    },
+    {
       "judul": "Kantor Media Gaza: Lebih dari 300 Ribu Warga Palestina Telah Kembali ke Gaza Utara",
       "link_berita": "https://news.republika.co.id/berita/sqsccj409/kantor-media-gaza-lebih-dari-300-ribu-warga-palestina-telah-kembali-ke-gaza-utara",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:21:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:21:43"
     },
     {
       "judul": "Begini Strategi Spionase Iran Manfaatkan Teknologi Digital Bobol Pertahanan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/sqsc40451/begini-strategi-spionase-iran-manfaatkan-teknologi-digital-bobol-pertahanan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:16:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:17:43"
     },
     {
       "judul": "Hamas Serahkan Daftar 33 Tawanan Israel yang akan Dibebaskan",
       "link_berita": "https://news.republika.co.id/berita/sqsbtk409/hamas-serahkan-daftar-33-tawanan-israel-yang-akan-dibebaskan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:10:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 06:17:43"
     },
     {
       "judul": "Tannos Klaim Jadi WN Guinea-Bissau Penangkapan Disebut tak Sah, Ini Sikap KPK",
       "link_berita": "https://news.republika.co.id/berita/sqsaqz377/tannos-klaim-jadi-wn-guineabissau-penangkapan-disebut-tak-sah-ini-sikap-kpk",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:47:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Saraya Al-Quds Rilis Video Buktikan Tawanan Israel Arbel Yehud Masih Hidup",
       "link_berita": "https://news.republika.co.id/berita/sqsa9q409/saraya-alquds-rilis-video-buktikan-tawanan-israel-arbel-yehud-masih-hidup",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:36:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Catatan Cak AT: Menantang Tirani Kemustahilan",
       "link_berita": "https://ruzkaindonesia.id/posts/506880/catatan-cak-at-menantang-tirani-kemustahilan",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:36:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Unand Telah Buka Pendaftaran Mahasiswa Baru di Tahun Ini, Sediakan 7 Ribu Lebih Kuota",
       "link_berita": "https://inforemaja.id/posts/506629/unand-telah-buka-pendaftaran-mahasiswa-baru-di-tahun-ini-sediakan-7-ribu-lebih-kuota",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:35:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Ulah Terbaru Militer Israel Bikin Warga Palestina Semakin Menderita",
       "link_berita": "https://khazanah.republika.co.id/berita/sqsa7a430/ulah-terbaru-militer-israel-bikin-warga-palestina-semakin-menderita",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:35:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Isra Mi'raj dan Perjalanan Menembus Tiga Alam",
       "link_berita": "https://sajada.id/posts/506886/isra-mi-raj-dan-perjalanan-menembus-tiga-alam",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:35:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Prodi TI Cyber University: Fokus Keterampilan dan Sertifikasi untuk Masa Depan Lulusan",
       "link_berita": "https://news.republika.co.id/berita/sqsa6o490/prodi-ti-cyber-university-fokus-keterampilan-dan-sertifikasi-untuk-masa-depan-lulusan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:35:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "BRI Salurkan ZIS Rp 126,7 Miliar Sepanjang 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sqsa0a490/bri-salurkan-zis-rp-1267-miliar-sepanjang-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:31:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Renungkanlah Ayat-Ayat Alquran Ini Jika Merasa tak Ada Lagi Jalan Keluar Hadapi Cobaan",
       "link_berita": "https://khazanah.republika.co.id/berita/sqs92k320/renungkanlah-ayatayat-alquran-ini-jika-merasa-tak-ada-lagi-jalan-keluar-hadapi-cobaan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Senator AS Nilai Usulan Trump untuk Gaza Sebagai Pembersihan Etnis dan Kejahatan Perang",
       "link_berita": "https://news.republika.co.id/berita/sqs8xt409/senator-as-nilai-usulan-trump-untuk-gaza-sebagai-pembersihan-etnis-dan-kejahatan-perang",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Pemprov Jakarta Segera Terbitkan Ingub Penghematan Anggaran",
       "link_berita": "https://news.republika.co.id/berita/sqs8rk484/pemprov-jakarta-segera-terbitkan-ingub-penghematan-anggaran",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Soal Pelantikan Ngatiyana-Adhitia jadi Wali dan Wakil Wali Kota Cimahi, Ini Kata Pemkot",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs857512/soal-pelantikan-ngatiyanaadhitia-jadi-wali-dan-wakil-wali-kota-cimahi-ini-kata-pemkot",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Usai Tangkap Paulus Tannos, KPK Jamin Tetap Buru Harun Masiku",
       "link_berita": "https://news.republika.co.id/berita/sqs82u484/usai-tangkap-paulus-tannos-kpk-jamin-tetap-buru-harun-masiku",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 05:17:43"
     },
     {
       "judul": "Sambil Menangis Tinggalkan Gaza, Tentara Israel Sebut Perang 1 Tahun Sia-sia Belaka",
       "link_berita": "https://khazanah.republika.co.id/berita/sqs7v9320/sambil-menangis-tinggalkan-gaza-tentara-israel-sebut-perang-1-tahun-siasia-belaka",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Pelantikan Adik Ipar Raffi Ahmad Sebagai Bupati Bandung Barat Tertunda Gara-gara Hal Ini",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs7u0512/pelantikan-adik-ipar-raffi-ahmad-sebagai-bupati-bandung-barat-tertunda-garagara-hal-ini",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Sejarah Perpustakaan al-Azhar Mesir",
       "link_berita": "https://khazanah.republika.co.id/berita/sqp1w3458/sejarah-perpustakaan-alazhar-mesir",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Perkuat Jaringan, Telkomsel Pasang BTS hingga ke Pelosok Cianjur",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs7gu512/perkuat-jaringan-telkomsel-pasang-bts-hingga-ke-pelosok-cianjur",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Heboh Ratusan Orang Diduga Jadi Korban Investasi Bodong di Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs70x512/heboh-ratusan-orang-diduga-jadi-korban-investasi-bodong-di-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Libur Panjang Isra Miraj, Goa Sunyaragi Ramai Dikunjungi Wisatawan",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs6s1512/libur-panjang-isra-miraj-goa-sunyaragi-ramai-dikunjungi-wisatawan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Ramai Warga Palestina Kembali ke Gaza Utara, Israel Geram, Begini Kata Media Zionis",
       "link_berita": "https://khazanah.republika.co.id/berita/sqs6la451/ramai-warga-palestina-kembali-ke-gaza-utara-israel-geram-begini-kata-media-zionis",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Hafal Surat Pendek Alquran, Penumpang Anak KA Dapat Souvenir Menarik",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs6eo512/hafal-surat-pendek-alquran-penumpang-anak-ka-dapat-souvenir-menarik",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Kereta Whoosh Pecahkan Rekor 24.350 Penumpang Sehari",
       "link_berita": "https://news.republika.co.id/berita/sqs69v484/kereta-whoosh-pecahkan-rekor-24350-penumpang-sehari",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Cek Promo Imlek 2025 Banjir Cuan dari BNI",
       "link_berita": "https://ekonomi.republika.co.id/berita/sqs67q490/cek-promo-imlek-2025-banjir-cuan-dari-bni",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Rahasia Surat Al-Isra Ayat 1 yang Mengantarkan Qari Aceh Jemput Ajalnya dengan Indah",
       "link_berita": "https://iqra.republika.co.id/berita/sqs666320/rahasia-surat-alisra-ayat-1-yang-mengantarkan-qari-aceh-jemput-ajalnya-dengan-indah",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Polisi Periksa CCTV Pastikan Penyebab Avega Tabrak Juru Parkir Hingga Tewas di Jatinangor",
       "link_berita": "https://rejabar.republika.co.id/berita/sqs5vh512/polisi-periksa-cctv-pastikan-penyebab-avega-tabrak-juru-parkir-hingga-tewas-di-jatinangor",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "BRI UMKM EXPO(RT) dan Microfinance Outlook 2025 Digelar 30 Januari-2 Februari di ICE BSD",
       "link_berita": "https://ekonomi.republika.co.id/berita/sqs5qk490/bri-umkm-export-danmicrofinance-outlook-2025-digelar-30-januari2-februari-di-ice-bsd",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Tolak Usulan Trump, Al Azhar Mesir dan Jusuf Kalla Angkat Suara",
       "link_berita": "https://khazanah.republika.co.id/berita/sqs5be451/tolak-usulan-trump-al-azhar-mesir-dan-jusuf-kalla-angkat-suara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Harga Emas Antam Anjlok Sehari Jelang Imlek, Cek Detailnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/sqs592490/harga-emas-antam-anjlok-sehari-jelang-imlek-cek-detailnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 04:17:43"
     },
     {
       "judul": "Arkeolog Ungkap Harta Karun Bisa Dicari, Petunjuknya dalam Alquran Surat Al Qasas",
       "link_berita": "https://iqra.republika.co.id/berita/sqs53d430/arkeolog-ungkap-harta-karun-bisa-dicari-petunjuknya-dalam-alquran-surat-al-qasas",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Bait al-Hikmah, Simbol Kosmopolitan Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/sqp20i458/bait-alhikmah-simbol-kosmopolitan-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Tesla dan BMW Gugat Tarif Tambahan Uni Eropa untuk Mobil Produksi China",
       "link_berita": "https://ekonomi.republika.co.id/berita/sqs4ux468/tesla-dan-bmw-gugat-tarif-tambahan-uni-eropa-untuk-mobil-produksi-china",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Agar Mobil Tetap Prima Pasca Liburan, Ini yang Perlu Dilakukan",
       "link_berita": "https://motoresto.id/posts/506831/agar-mobil-tetap-prima-pasca-liburan-ini-yang-perlu-dilakukan",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Kontrak Layanan Haji di Saudi Mulai Ditandatangani, Target Selesai Sebelum 14 Februari",
       "link_berita": "https://sajada.id/posts/506861/kontrak-layanan-haji-di-saudi-mulai-ditandatangani-target-selesai-sebelum-14-februari",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Album 'Mayhem' Lady Gaga Dirilis 7 Maret",
       "link_berita": "https://impresiupdate.id/posts/506868/album-mayhem-lady-gaga-dirilis-7-maret",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Dehidrasi Memengaruhi Kesehatan Jantung pada Lansia",
       "link_berita": "https://impresiupdate.id/posts/506870/dehidrasi-memengaruhi-kesehatan-jantung-pada-lansia",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
-    },
-    {
-      "judul": "Air Bersoda Bisa Menurunkan Berat Badan dan Meningkatkan Kesehatan Metabolisme",
-      "link_berita": "https://impresiupdate.id/posts/506871/air-bersoda-bisa-menurunkan-berat-badan-dan-meningkatkan-kesehatan-metabolisme",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
-    },
-    {
-      "judul": "Cara Mengatasi 'Plateau' Penurunan Berat Badan",
-      "link_berita": "https://impresiupdate.id/posts/506873/cara-mengatasi-plateau-penurunan-berat-badan",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
-    },
-    {
-      "judul": "Polisi Selidiki Pria Tabrak Lari Hingga Jatuhkan Anak dari Motor di Jaktim",
-      "link_berita": "https://news.republika.co.id/berita/sqs4k7484/polisi-selidiki-pria-tabrak-lari-hingga-jatuhkan-anak-dari-motor-di-jaktim",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
-    },
-    {
-      "judul": "Guru Besar UI Berbagi 12 Strategi Cegah Karies Anak Usia Dini",
-      "link_berita": "https://ameera.republika.co.id/berita/sqs35o366/guru-besar-ui-berbagi-12-strategi-cegah-karies-anak-usia-dini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
-    },
-    {
-      "judul": "Ini Sosok Qari Aceh yang Wafat Ketika Membaca Surat Al Isra Ayat 1 Semasa Hidupnya",
-      "link_berita": "https://khazanah.republika.co.id/berita/sqs2z0320/ini-sosok-qari-aceh-yang-wafat-ketika-membaca-surat-al-isra-ayat-1-semasa-hidupnya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:26:36"
-    },
-    {
-      "judul": "China Minta AS Hentikan Politisasi Asal-usul Virus Corona",
-      "link_berita": "https://news.republika.co.id/berita/sqs2re484/china-minta-as-hentikan-politisasi-asalusul-virus-corona",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
-    },
-    {
-      "judul": "Dunia Kompak Menolak Ide Trump Kala Ribuan Warga Palestina Pulang ke Rumah Masing-Masing",
-      "link_berita": "https://news.republika.co.id/berita/sqs2i3409/dunia-kompak-menolak-ide-trump-kala-ribuan-warga-palestina-pulang-ke-rumah-masingmasing",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
-    },
-    {
-      "judul": "Jerman Tolak Rencana Relokasi Warga Gaza ke Negara Tetangga",
-      "link_berita": "https://khazanah.republika.co.id/berita/sqs2hz430/jerman-tolak-rencana-relokasi-warga-gaza-ke-negara-tetangga",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
-    },
-    {
-      "judul": "Ini Kewajiban Orang Tua kepada Anak",
-      "link_berita": "https://khazanah.republika.co.id/berita/sqp257458/ini-kewajiban-orang-tua-kepada-anak",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
-    },
-    {
-      "judul": "Honda N-Box Jadi Mobil Terlaris di Jepang Sepanjang 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sqs1sy468/honda-nbox-jadi-mobil-terlaris-di-jepang-sepanjang-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
-    },
-    {
-      "judul": "BPKH Kelola Dana Haji Rp 177 Triliun dan Terus Tumbuh",
-      "link_berita": "https://khazanah.republika.co.id/berita/sqs0it484/bpkh-kelola-dana-haji-rp-177-triliun-dan-terus-tumbuh",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
-    },
-    {
-      "judul": "Bank Mandiri Dorong Akselerasi Inklusi Keuangan Melalui Kolaborasi Strategis dengan Sucor",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sqs0hm490/bank-mandiri-dorong-akselerasi-inklusi-keuangan-melalui-kolaborasi-strategis-dengan-sucor",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 02:26:36"
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 03:17:43"
     },
     {
       "judul": "Guru Besar UI Berbagi 12 Strategi Cegah Karies Anak Usia Dini",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 27 Jan 2025, 16:20:00"
     },
     {
-      "judul": "Kantor Media Gaza: Lebih dari 300 Ribu Warga Palestina Telah Kembali ke Gaza Utara",
-      "link_berita": "https://news.republika.co.id/berita/sqsccj409/kantor-media-gaza-lebih-dari-300-ribu-warga-palestina-telah-kembali-ke-gaza-utara",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Tuesday, 28 Jan 2025, 13:21:00"
+      "judul": "Pemulangan Paulus Tannos Masih Diurus, KPK: Belum Ada Info Kapan Selesainya",
+      "link_berita": "https://news.republika.co.id/berita/sqseqs487/pemulangan-paulus-tannos-masih-diurus-kpk-belum-ada-info-kapan-selesainya",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Tuesday, 28 Jan 2025, 14:13:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 28 Jan 2025, 13:26:36"
+  "waktu_scraping": "Tuesday, 28 Jan 2025, 14:17:43"
 }
