@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Prabowo: Hubungan Indonesia dan Turkiye Sudah Lama dari Kekaisaran Ottoman",
+      "link_berita": "https://news.republika.co.id/berita/srk4fq484/prabowo-hubungan-indonesia-dan-turkiye-sudah-lama-dari-kekaisaran-ottoman"
+    },
+    {
       "judul": "HKI Keluhkan Keberadaan Ormas, Pj Gubernur Jabar Bey: Jangan Sampai Ganggu Investasi",
       "link_berita": "https://rejabar.republika.co.id/berita/srk0cr512/hki-keluhkan-keberadaan-ormas-pj-gubernur-jabar-bey-jangan-sampai-ganggu-investasi"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Trump Ancam Batalkan Gencatan Senjata Hamas-Israel, Begini Penjelasannya",
       "link_berita": "https://khazanah.republika.co.id/berita/srjsww451/trump-ancam-batalkan-gencatan-senjata-hamasisrael-begini-penjelasannya"
-    },
-    {
-      "judul": "Indonesia Disebut Negara Pungli di Balik Seruan #Kaburajadulu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srjpw7502/indonesia-disebut-negara-pungli-di-balik-seruan-kaburajadulu"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Sebelum Ikut Retreat Prabowo, Kepala Daerah dari PDIP Diberi Pembekalan Khusus Partai",
+      "link_berita": "https://news.republika.co.id/berita/srk50r377/sebelum-ikut-retreat-prabowo-kepala-daerah-dari-pdip-diberi-pembekalan-khusus-partai"
+    },
+    {
+      "judul": "Lahan Gambut dan Hutan Bakau Ekosistem Ajaib Penyerap Karbon",
+      "link_berita": "https://esgnow.republika.co.id/berita/srk26b416/lahan-gambut-dan-hutan-bakau-ekosistem-ajaib-penyerap-karbon"
+    },
     {
       "judul": "Prabowo Sambut Erdogan dan Perkenalkan Kabinet Indonesia Maju di Istana Bogor",
       "link_berita": "https://news.republika.co.id/berita/srjzxi484/prabowo-sambut-erdogan-dan-perkenalkan-kabinet-indonesia-maju-di-istana-bogor"
@@ -73,316 +81,308 @@
     {
       "judul": "Niat Puasa Qadha Ramadhan, Dibaca Sebelum Bayar Utang Puasa",
       "link_berita": "https://khazanah.republika.co.id/berita/srj500366/niat-puasa-qadha-ramadhan-dibaca-sebelum-bayar-utang-puasa"
-    },
-    {
-      "judul": "Kaidah Fikih Islam tentang Cashback",
-      "link_berita": "https://khazanah.republika.co.id/berita/sriwej458/kaidah-fikih-islam-tentang-cashback"
-    },
-    {
-      "judul": "Kelompok Pejuang Palestina: Rencana Trump adalah 'Pernyataan Perang'",
-      "link_berita": "https://khazanah.republika.co.id/berita/srisui458/kelompok-pejuang-palestina-rencana-trump-adalah-pernyataan-perang"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kementerian PAN-RB Efisiensikan Anggaran Hingga 47,05 persen, Belanja Pegawai Terpangkas?",
+      "link_berita": "https://news.republika.co.id/berita/srk6v5487/kementerian-panrb-efisiensikan-anggaran-hingga-4705-persen-belanja-pegawai-terpangkas",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:16:00"
+    },
+    {
+      "judul": "Dulu Bersorak Gembira Ledakkan Gaza, Kini Tentara Israel Dihantui Penangkapan",
+      "link_berita": "https://khazanah.republika.co.id/berita/srk6uo451/dulu-bersorak-gembira-ledakkan-gaza-kini-tentara-israel-dihantui-penangkapan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:16:00"
+    },
+    {
+      "judul": "Pemprov Sulit Penuhi Permintaan KBB Soal Tambahan Kuota ke TPA Sarimukti, Ini Alasannya",
+      "link_berita": "https://rejabar.republika.co.id/berita/srk6mh512/pemprov-sulit-penuhi-permintaan-kbb-soal-tambahan-kuota-ke-tpa-sarimukti-ini-alasannya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:11:00"
+    },
+    {
+      "judul": "Erdogan ke Indonesia, Tepis Isu Walk Out pada Saat Prabowo Pidato di D-8",
+      "link_berita": "https://news.republika.co.id/berita/srk6g9377/erdogan-ke-indonesia-tepis-isu-walk-out-pada-saat-prabowo-pidato-di-d8",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:07:00"
+    },
+    {
+      "judul": "PHE Catat Temuan Cadangan Eksplorasi Terbesar dalam 15 Tahun Terakhir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srk6ag490/phe-catat-temuan-cadangan-eksplorasi-terbesar-dalam-15-tahun-terakhir",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:04:00"
+    },
+    {
+      "judul": "Aktivis Iklim Gugat Shell ke Mahkamah Agung Belanda",
+      "link_berita": "https://esgnow.republika.co.id/berita/srk69s416/aktivis-iklim-gugat-shell-ke-mahkamah-agung-belanda",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:03:00"
+    },
+    {
+      "judul": "Ini Tiga Hal yang Disorot Ombudsman Terkait Distribusi LPG 3 Kg",
+      "link_berita": "https://news.republika.co.id/berita/srk664487/ini-tiga-hal-yang-disorot-ombudsman-terkait-distribusi-lpg-3-kg",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:01:00"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 13 Februari 2025 untuk Daerah Bogor dan Sekitarnya Termasuk Kota Depok",
+      "link_berita": "https://news.republika.co.id/berita/srk64j1154786221/prakiraan-cuaca-besok-13-februari-2025-untuk-daerah-bogor-dan-sekitarnya-termasuk-kota-depok",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 07:00:00"
+    },
+    {
+      "judul": "Merasakan Manisnya Iman",
+      "link_berita": "https://khazanah.republika.co.id/berita/srk5jh458/merasakan-manisnya-iman",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:48:00"
+    },
+    {
+      "judul": "Isu PDIP Gabung Prabowo, Pengamat IPO: Mengamankan Kasus Hasto Kristianto",
+      "link_berita": "https://news.republika.co.id/berita/srk5jb318/isu-pdip-gabung-prabowo-pengamat-ipo-mengamankan-kasus-hasto-kristianto",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:48:00"
+    },
+    {
+      "judul": "Pria Sepuh Tewas Tertemper Kereta Api Feeder di Kota Cimahi Ketika Sedang Berjemur",
+      "link_berita": "https://rejabar.republika.co.id/berita/srk5ij512/pria-sepuh-tewas-tertemper-kereta-api-feeder-di-kota-cimahi-ketika-sedang-berjemur",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:47:00"
+    },
+    {
+      "judul": "Trump Temui Raja Yordania, Bahas Gaza?",
+      "link_berita": "https://tv.republika.co.id/berita/srk59w418/trump-temui-raja-yordania-bahas-gaza",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:42:00"
+    },
+    {
+      "judul": "Badan Gizi Nasional Siapkan 500 Lebih SPPG Sukseskan MBG di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/srk57l425/badan-gizi-nasional-siapkan-500-lebih-sppg-sukseskan-mbg-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:41:00"
+    },
+    {
+      "judul": "Sebelum Ikut Retreat Prabowo, Kepala Daerah dari PDIP Diberi Pembekalan Khusus Partai",
+      "link_berita": "https://news.republika.co.id/berita/srk50r377/sebelum-ikut-retreat-prabowo-kepala-daerah-dari-pdip-diberi-pembekalan-khusus-partai",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:36:00"
+    },
+    {
+      "judul": "Tersertifikasi Halal, Tahun Ini Pos Kembali Layani Pengiriman Logistik Jamaah Haji",
+      "link_berita": "https://rejabar.republika.co.id/berita/srk4u0512/tersertifikasi-halal-tahun-ini-pos-kembali-layani-pengiriman-logistik-jamaah-haji",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:32:00"
+    },
+    {
+      "judul": "8.700 Loker Sudah Disiapkan Awal 2025 Realisasi Janji Politik Bupati Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/srk4q2423/8700-loker-sudah-disiapkan-awal-2025-realisasi-janji-politik-bupati-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:30:00"
+    },
+    {
       "judul": "Berbeda dengan Raya Yordania, Presiden Mesir Batalkan Kunjungan ke Gedung Putih",
       "link_berita": "https://news.republika.co.id/berita/srk4jp409/berbeda-dengan-raya-yordania-presiden-mesir-batalkan-kunjungan-ke-gedung-putih",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:26:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:26:00"
     },
     {
       "judul": "Prabowo: Hubungan Indonesia dan Turkiye Sudah Lama dari Kekaisaran Ottoman",
       "link_berita": "https://news.republika.co.id/berita/srk4fq484/prabowo-hubungan-indonesia-dan-turkiye-sudah-lama-dari-kekaisaran-ottoman",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:23:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:24:00"
     },
     {
       "judul": "Ancelotti Nilai Madrid Pantas Menang di Kandang Man City, Beri Pujian ke Lini Belakang",
       "link_berita": "https://news.republika.co.id/berita/srk46l348/ancelotti-nilai-madrid-pantas-menang-di-kandang-man-city-beri-pujian-ke-lini-belakang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Vaksin Kanker Baru Bisa Mencegah Kambuhnnya Kanker Ginjal",
       "link_berita": "https://impresiupdate.id/posts/508940/vaksin-kanker-baru-bisa-mencegah-kambuhnnya-kanker-ginjal",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:13:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Catatan Cak AT: Raja Berita di Ratusan Kota",
       "link_berita": "https://ruzkaindonesia.id/posts/508930/catatan-cak-at-raja-berita-di-ratusan-kota",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:13:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "TNI AL Terus Lanjutkan Pembongkaran Pagar Laut di Tangerang, Tersisa 5,26 Km",
       "link_berita": "https://news.republika.co.id/berita/srk3rv409/tni-al-terus-lanjutkan-pembongkaran-pagar-laut-di-tangerang-tersisa-526-km",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:09:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Ini Spesifikasi Lengkap BYD Sealion Plug-In Hybrid yang Diluncurkan Resmi di IIMS 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/srk3ib468/ini-spesifikasi-lengkap-byd-sealion-plugin-hybrid-yang-diluncurkan-resmi-di-iims-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:03:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Lahan Gambut dan Hutan Bakau Ekosistem Ajaib Penyerap Karbon",
       "link_berita": "https://esgnow.republika.co.id/berita/srk26b416/lahan-gambut-dan-hutan-bakau-ekosistem-ajaib-penyerap-karbon",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:59:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Efisiensi Anggaran, DPMPTSP Jabar Sebut Bisa Lakukan Pencarian Modal di Luar APBD",
       "link_berita": "https://rejabar.republika.co.id/berita/srk3av512/efisiensi-anggaran-dpmptsp-jabar-sebut-bisa-lakukan-pencarian-modal-di-luar-apbd",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:59:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Prabowo dan Erdogan Gelar Pertemuan Bilateral di Istana Bogor",
       "link_berita": "https://news.republika.co.id/berita/srk33u484/prabowo-dan-erdogan-gelar-pertemuan-bilateral-di-istana-bogor",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:54:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Everton Bersiap Lakoni Derby Merseyside Terakhir Lawan Liverpool di Goodison Park",
       "link_berita": "https://news.republika.co.id/berita/srk2xn348/everton-bersiap-lakoni-derby-merseyside-terakhir-lawan-liverpool-di-goodison-park",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:51:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 06:18:00"
     },
     {
       "judul": "Komunikasi dengan Dedi Mulyadi, Farhan akan Hilangkan Perjalanan Luar Negeri Ini Alasannya",
       "link_berita": "https://rejabar.republika.co.id/berita/srk2ci512/komunikasi-dengan-dedi-mulyadi-farhan-akan-hilangkan-perjalanan-luar-negeri-ini-alasannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:38:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:18:00"
     },
     {
       "judul": "TPS Bandung Barat Overload, Permintaan Tambahan Kuota ke TPA Sarimukti Digantung Pemprov",
       "link_berita": "https://rejabar.republika.co.id/berita/srk0th512/tps-bandung-barat-overload-permintaan-tambahan-kuota-ke-tpa-sarimukti-digantung-pemprov",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:18:00"
     },
     {
       "judul": "Propam Polri Buka Layanan Masyarakat Laporkan Polisi Bermasalah Via WA, Ini Nomornya",
       "link_berita": "https://news.republika.co.id/berita/srk0sy409/propam-polri-buka-layanan-masyarakat-laporkan-polisi-bermasalah-via-wa-ini-nomornya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:18:00"
     },
     {
       "judul": "Bangun Produksi PLTS Terapung ber-TKDN, Utomodeck Gandeng SolaRUV",
       "link_berita": "https://esgnow.republika.co.id/berita/srk0fc483/bangun-produksi-plts-terapung-bertkdn-utomodeck-gandeng-solaruv",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:18:00"
     },
     {
       "judul": "HKI Keluhkan Keberadaan Ormas, Pj Gubernur Jabar Bey: Jangan Sampai Ganggu Investasi",
       "link_berita": "https://rejabar.republika.co.id/berita/srk0cr512/hki-keluhkan-keberadaan-ormas-pj-gubernur-jabar-bey-jangan-sampai-ganggu-investasi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:18:00"
     },
     {
       "judul": "Prioritaskan Keamanan Data Peserta, TASPEN Terapkan Teknologi Mutakhir",
       "link_berita": "https://ekonomi.republika.co.id/berita/srk06r490/prioritaskan-keamanan-data-peserta-taspen-terapkan-teknologi-mutakhir",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 05:18:00"
     },
     {
       "judul": "Mahasiswa Universitas Nusa Mandiri Temukan Celah Keamanan di NASA, Masuk Hall of Fame!",
       "link_berita": "https://news.republika.co.id/berita/srjzz3490/mahasiswa-universitas-nusa-mandiri-temukan-celah-keamanan-di-nasa-masuk-hall-of-fame",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Prabowo Sambut Erdogan dan Perkenalkan Kabinet Indonesia Maju di Istana Bogor",
       "link_berita": "https://news.republika.co.id/berita/srjzxi484/prabowo-sambut-erdogan-dan-perkenalkan-kabinet-indonesia-maju-di-istana-bogor",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Siap-Siap Berkarier! UBSI Kampus Pontianak Gelar Campus Recruitment Bersama Moratelindo",
       "link_berita": "https://news.republika.co.id/berita/srjzv3490/siapsiap-berkarier-ubsi-kampus-pontianak-gelar-campus-recruitment-bersama-moratelindo",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Ide Terbaru Natalius Pigai: Kampung Redam",
       "link_berita": "https://news.republika.co.id/berita/srjzp2483/ide-terbaru-natalius-pigai-kampung-redam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Alasan BRI Buyback Saham: Jaga Harga dan Motivasi Pekerja Lebih Giat",
       "link_berita": "https://ekonomi.republika.co.id/berita/srjzmg484/alasan-bri-buyback-saham-jaga-harga-dan-motivasi-pekerja-lebih-giat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "MIF 2025: Strategi Investasi dan Inovasi untuk Mendorong Pertumbuhan Ekonomi Berkelanjutan",
       "link_berita": "https://ekonomi.republika.co.id/berita/srjzi5490/mif-2025-strategi-investasi-dan-inovasi-untuk-mendorong-pertumbuhan-ekonomi-berkelanjutan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "PJ Gubernur Bey Minta Investasi di Jabar Bisa Merata",
       "link_berita": "https://rejabar.republika.co.id/berita/srjzep512/pj-gubernur-bey-minta-investasi-di-jabar-bisa-merata",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Paus Fransiskus: Amerika Serikat Sedang Krisis Besar di Tangan Donald Trump",
       "link_berita": "https://news.republika.co.id/berita/srjzdn451/paus-fransiskus-amerika-serikat-sedang-krisis-besar-di-tangan-donald-trump",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Besti 2025 Dibuka! 140 Kuota Tersedia",
       "link_berita": "https://rejabar.republika.co.id/berita/srjz7z490/besti-2025-dibuka-140-kuota-tersedia",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Catat Tanggalnya! Ini Awal Ramadhan, Idul Fitri dan Idul Adha 2025 Versi Muhammadiyah",
       "link_berita": "https://khazanah.republika.co.id/berita/srjz6w483/catat-tanggalnya-ini-awal-ramadhan-idul-fitri-dan-idul-adha-2025-versi-muhammadiyah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "KAI Tetap Sediakan Kereta Ekonomi Bersubsidi, Ini Daftarnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/srjz2e490/kai-tetap-sediakan-kereta-ekonomi-bersubsidi-ini-daftarnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Profil Deddy Corbuzier, dari Mentalis Hingga Jabat Stafsus Menhan",
       "link_berita": "https://ameera.republika.co.id/berita/srjyx9425/profil-deddy-corbuzier-dari-mentalis-hingga-jabat-stafsus-menhan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Penampakan Penjara Terketat di Amerika Latin",
       "link_berita": "https://tv.republika.co.id/berita/srjyvg313/penampakan-penjara-terketat-di-amerika-latin",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Tanah Milik 31 KK di Bandung Barat Terdampak PLTA Upper Cisokan, Warga Minta Ganti Rugi",
       "link_berita": "https://rejabar.republika.co.id/berita/srjyv3512/tanah-milik-31-kk-di-bandung-barat-terdampak-plta-upper-cisokan-warga-minta-ganti-rugi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Kecerdasan dan Kesiapan",
       "link_berita": "https://rejogja.republika.co.id/berita/srjysa291/kecerdasan-dan-kesiapan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "AP Diharamkan Trump Reportase di Ruang Oval, Pemred: Coreng Konstitusi Amerika",
       "link_berita": "https://news.republika.co.id/berita/srjyph451/ap-diharamkan-trump-reportase-di-ruang-oval-pemred-coreng-konstitusi-amerika",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Pakar Timur Tengah: Israel Telah Melakukan Pelanggaran Gencatan Senjata",
       "link_berita": "https://khazanah.republika.co.id/berita/srjyor483/pakar-timur-tengah-israel-telah-melakukan-pelanggaran-gencatan-senjata",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Legislator Senior PDIP Ineu Purwadewi Sundari Dorong Optimalisasi BIJB Jadi Bandara Umrah",
-      "link_berita": "https://rejabar.republika.co.id/berita/srjygj512/legislator-senior-pdip-ineu-purwadewi-sundari-dorong-optimalisasi-bijb-jadi-bandara-umrah",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Anggota Komisi V Iwan Koswara Harap Pemerintah Daerah Dukung Sukseskan CKG",
-      "link_berita": "https://rejabar.republika.co.id/berita/srjyfd490/anggota-komisi-v-iwan-koswara-harap-pemerintah-daerah-dukung-sukseskan-ckg",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Pendiri Majelis Ulama Nusantara Soal Pagar Laut: Maslahat dan Punya Legal Standing",
-      "link_berita": "https://khazanah.republika.co.id/berita/srjy2b483/pendiri-majelis-ulama-nusantara-soal-pagar-laut-maslahat-dan-punya-legal-standing",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Pemerasan Politik Ala Trump Terhadap Yordania dalam Kacamata Pemberitaan Media Arab",
-      "link_berita": "https://news.republika.co.id/berita/srjy22409/pemerasan-politik-ala-trump-terhadap-yordania-dalam-kacamata-pemberitaan-media-arab",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Houthi Ancam Serang Israel Besar-besaran Jika Langgar Gencatan Senjata",
-      "link_berita": "https://khazanah.republika.co.id/berita/srjy04320/houthi-ancam-serang-israel-besarbesaran-jika-langgar-gencatan-senjata",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Cegah Kondisi Serius di Masa Depan, Penderita Hipertensi Harus Cek Mandiri Berkala",
-      "link_berita": "https://rejabar.republika.co.id/berita/srjxr5512/cegah-kondisi-serius-di-masa-depan-penderita-hipertensi-harus-cek-mandiri-berkala",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:27:42"
-    },
-    {
-      "judul": "Arah Suku Bunga The Fed tak Berubah, Rupiah Berpeluang Menguat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srjxlt490/arah-suku-bunga-the-fed-tak-berubah-rupiah-berpeluang-menguat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Jenderal Iran Sebut Strategi Jitu Perangi Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/srjxik451/jenderal-iran-sebut-strategi-jitu-perangi-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Dulu Alauddin kini Prabowo: Sejarah Bantuan Militer Turki ke Nusantara",
-      "link_berita": "https://news.republika.co.id/berita/srjxi2393/dulu-alauddin-kini-prabowo-sejarah-bantuan-militer-turki-ke-nusantara",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "IHSG Berada di Zona Hijau, Ada Potensi Rebound Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srjxdg490/ihsg-berada-di-zona-hijau-ada-potensi-rebound-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Kritisi Rekomendasi MUI Cabut PSN di PIK 2, Majelis Ulama Nusantara akan Gelar Munas",
-      "link_berita": "https://khazanah.republika.co.id/berita/srjwui483/kritisi-rekomendasi-mui-cabut-psn-di-pik-2-majelis-ulama-nusantara-akan-gelar-munas",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Trump Ancam Batalkan Gencatan Senjata, Hamas: Omongan tak Bernilai",
-      "link_berita": "https://khazanah.republika.co.id/berita/srjwn0451/trump-ancam-batalkan-gencatan-senjata-hamas-omongan-tak-bernilai",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Kronologi Dua Mahasiswa Semarang Tewas Tenggelam di Kolam Gegara Sayembara Rp 50 Ribu",
-      "link_berita": "https://news.republika.co.id/berita/srjw4n377/kronologi-dua-mahasiswa-semarang-tewas-tenggelam-di-kolam-gegara-sayembara-rp-50-ribu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Benarkah Baca Surat Yasin 3 Kali Malam Nisfu Syaban tidak Boleh? Ini Penjelasan MUI",
-      "link_berita": "https://khazanah.republika.co.id/berita/srjvyp320/benarkah-baca-surat-yasin-3-kali-malam-nisfu-syaban-tidak-boleh-ini-penjelasan-mui",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Laba BRI Tembus Rp 60,64 Triliun di 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srjv9b490/laba-bri-tembus-rp-6064-triliun-di-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
-    },
-    {
-      "judul": "Elon Musk Mau Beli OpenAI, Ditolak Mentah-Mentah, Malah \u2018Ditantang\u2019 Balik",
-      "link_berita": "https://ameera.republika.co.id/berita/srjv12425/elon-musk-mau-beli-openai-ditolak-mentahmentah-malah-ditantang-balik",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 03:27:42"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 04:18:00"
     },
     {
       "judul": "Profil Deddy Corbuzier, dari Mentalis Hingga Jabat Stafsus Menhan",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Wednesday, 12 Feb 2025, 11:24:00"
     },
     {
-      "judul": "Bangun Produksi PLTS Terapung ber-TKDN, Utomodeck Gandeng SolaRUV",
-      "link_berita": "https://esgnow.republika.co.id/berita/srk0fc483/bangun-produksi-plts-terapung-bertkdn-utomodeck-gandeng-solaruv",
+      "judul": "Aktivis Iklim Gugat Shell ke Mahkamah Agung Belanda",
+      "link_berita": "https://esgnow.republika.co.id/berita/srk69s416/aktivis-iklim-gugat-shell-ke-mahkamah-agung-belanda",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 11:57:00"
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 14:03:00"
     },
     {
-      "judul": "Ini Spesifikasi Lengkap BYD Sealion Plug-In Hybrid yang Diluncurkan Resmi di IIMS 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srk3ib468/ini-spesifikasi-lengkap-byd-sealion-plugin-hybrid-yang-diluncurkan-resmi-di-iims-2025",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 13:03:00"
+      "judul": "PHE Catat Temuan Cadangan Eksplorasi Terbesar dalam 15 Tahun Terakhir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srk6ag490/phe-catat-temuan-cadangan-eksplorasi-terbesar-dalam-15-tahun-terakhir",
+      "kategori": "Energi",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 14:03:00"
     },
     {
       "judul": "Komut BSI Pastikan Gangguan Super App BYOND Segera Teratasi",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 11 Feb 2025, 18:42:00"
     },
     {
-      "judul": "Berbeda dengan Raya Yordania, Presiden Mesir Batalkan Kunjungan ke Gedung Putih",
-      "link_berita": "https://news.republika.co.id/berita/srk4jp409/berbeda-dengan-raya-yordania-presiden-mesir-batalkan-kunjungan-ke-gedung-putih",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 12 Feb 2025, 13:26:00"
+      "judul": "Kementerian PAN-RB Efisiensikan Anggaran Hingga 47,05 persen, Belanja Pegawai Terpangkas?",
+      "link_berita": "https://news.republika.co.id/berita/srk6v5487/kementerian-panrb-efisiensikan-anggaran-hingga-4705-persen-belanja-pegawai-terpangkas",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Wednesday, 12 Feb 2025, 14:16:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 12 Feb 2025, 13:27:42"
+  "waktu_scraping": "Wednesday, 12 Feb 2025, 14:18:00"
 }
