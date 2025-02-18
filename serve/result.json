@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Dana Transfer Rp 130 Miliar Pemkab Bandung Barat Terpangkas karena Efisiensi",
+      "link_berita": "https://rejabar.republika.co.id/berita/srvvdl512/dana-transfer-rp-130-miliar-pemkab-bandung-barat-terpangkas-karena-efisiensi"
+    },
+    {
       "judul": "Usai Dioperasi karena Jaringan Otot yang Robek, Menag Bekerja dari RS",
       "link_berita": "https://khazanah.republika.co.id/berita/srvt73483/usai-dioperasi-karena-jaringan-otot-yang-robek-menag-bekerja-dari-rs"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Usai Tetapkan Status Tersangka, Bareskrim Cegah Kades Kohod Keluar Negeri",
       "link_berita": "https://news.republika.co.id/berita/srvmvi409/usai-tetapkan-status-tersangka-bareskrim-cegah-kades-kohod-keluar-negeri"
-    },
-    {
-      "judul": "Anggaran Pakaian Dinas untuk Gubernur dan Wagub Banten Capai Rp 1 M, Andra Soni Menolak",
-      "link_berita": "https://news.republika.co.id/berita/srvjn1409/anggaran-pakaian-dinas-untuk-gubernur-dan-wagub-banten-capai-rp-1-m-andra-soni-menolak"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Sirkuit Mandalika akan Jadi Tuan Rumah GT World Challenge Asia 2025",
+      "link_berita": "https://visual.republika.co.id/berita/srvwkr375/sirkuit-mandalika-akan-jadi-tuan-rumah-gt-world-challenge-asia-2025"
+    },
+    {
+      "judul": "Ratusan Mahasiswa di Semarang Demo, Protes Efisiensi Anggaran Bidang Pendidikan",
+      "link_berita": "https://rejogja.republika.co.id/berita/srvuoo282/ratusan-mahasiswa-di-semarang-demo-protes-efisiensi-anggaran-bidang-pendidikan"
+    },
     {
       "judul": "Kades Kohod Tersangka Pemalsuan Sertifikat Pagar Laut, Apa Peran dan Motifnya?",
       "link_berita": "https://tv.republika.co.id/berita/srvsek313/kades-kohod-tersangka-pemalsuan-sertifikat-pagar-laut-apa-peran-dan-motifnya"
@@ -73,334 +81,326 @@
     {
       "judul": "Hati-Hati, Aktivitas Ini Bisa Timbulkan Risiko Kanker Kulit",
       "link_berita": "https://ameera.republika.co.id/berita/sruzuq425/hatihati-aktivitas-ini-bisa-timbulkan-risiko-kanker-kulit"
-    },
-    {
-      "judul": "Kegiatan Perdagangan Indonesia dan Israel Masih Terus Berlangsung, Ini Komoditas Utamanya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srux0k490/kegiatan-perdagangan-indonesia-dan-israel-masih-terus-berlangsung-ini-komoditas-utamanya"
-    },
-    {
-      "judul": "Manajemen Persib Tegaskan Posisi Maung Bandung di Puncak Klasemen Liga 1 Belum Aman",
-      "link_berita": "https://news.republika.co.id/berita/srutxs348/manajemen-persib-tegaskan-posisi-maung-bandung-di-puncak-klasemen-liga-1-belum-aman"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Jepang Menyetujui Rencana Iklim dan Energi Baru",
+      "link_berita": "https://esgnow.republika.co.id/berita/srvx5x430/jepang-menyetujui-rencana-iklim-dan-energi-baru",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 15:17:47"
+    },
+    {
+      "judul": "Pemkot Bandung Pastikan tak ada Pemangkasan Tenaga Honorer",
+      "link_berita": "https://khazanah.republika.co.id/berita/srvwws430/pemkot-bandung-pastikan-tak-ada-pemangkasan-tenaga-honorer",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 15:12:47"
+    },
+    {
+      "judul": "Sirkuit Mandalika akan Jadi Tuan Rumah GT World Challenge Asia 2025",
+      "link_berita": "https://visual.republika.co.id/berita/srvwkr375/sirkuit-mandalika-akan-jadi-tuan-rumah-gt-world-challenge-asia-2025",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 15:04:47"
+    },
+    {
+      "judul": "Dana Transfer Rp 130 Miliar Pemkab Bandung Barat Terpangkas karena Efisiensi",
+      "link_berita": "https://rejabar.republika.co.id/berita/srvvdl512/dana-transfer-rp-130-miliar-pemkab-bandung-barat-terpangkas-karena-efisiensi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:39:47"
+    },
+    {
+      "judul": "Di IES 2025, Arsjad Rasjid: Sinergi Publik-Privat Kunci Indonesia Tumbuh",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srvv5u456/di-ies-2025-arsjad-rasjid-sinergi-publikprivat-kunci-indonesia-tumbuh",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:34:47"
+    },
+    {
+      "judul": "Film Komang Siap Menghiasi Bioskop pada Lebaran 2025",
+      "link_berita": "https://ameera.republika.co.id/berita/srvv5f425/film-komang-siap-menghiasi-bioskop-pada-lebaran-2025",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:34:47"
+    },
+    {
+      "judul": "Puluhan Rumah Tangga di Kota Cimahi Belum Terjamah Air Bersih",
+      "link_berita": "https://rejabar.republika.co.id/berita/srvut8512/puluhan-rumah-tangga-di-kota-cimahi-belum-terjamah-air-bersih",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:26:47"
+    },
+    {
+      "judul": "Ratusan Mahasiswa di Semarang Demo, Protes Efisiensi Anggaran Bidang Pendidikan",
+      "link_berita": "https://rejogja.republika.co.id/berita/srvuoo282/ratusan-mahasiswa-di-semarang-demo-protes-efisiensi-anggaran-bidang-pendidikan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:24:47"
+    },
+    {
+      "judul": "Korban TPPO Pengantin Pesanan Diminta Cari Mangsa, Diiming-imingi Uang",
+      "link_berita": "https://rejabar.republika.co.id/berita/srvufz512/korban-tppo-pengantin-pesanan-diminta-cari-mangsa-diimingimingi-uang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
+    },
+    {
       "judul": "Doa yang tidak akan Tertolak, Berdoa pada Hari Jumat",
       "link_berita": "https://retizen.republika.co.id/posts/510123/doa-yang-tidak-akan-tertolak-berdoa-pada-hari-jumat",
       "kategori": "Retizen",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:13:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
-      "judul": "Honda akan Luncurkan SUV Listrik S7, Ini Bocoran Spesifikasinya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srvu5i468/honda-akan-luncurkan-suv-listrik-s7-ini-bocoran-spesifikasinya",
+      "judul": "Ini Bocoran Spesifikasi Lengkap SUV Listrik Honda S7 yang Segera Meluncur",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srvu5i468/ini-bocoran-spesifikasi-lengkap-suv-listrik-honda-s7-yang-segera-meluncur",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:12:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
       "judul": "Ketua APINDO Jabar Ungkap Ini Penyebab Adanya Gangguan Ormas di Dunia Usaha",
       "link_berita": "https://rejabar.republika.co.id/berita/srvu5e512/ketua-apindo-jabar-ungkap-ini-penyebab-adanya-gangguan-ormas-di-dunia-usaha",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:12:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
       "judul": "Wamenhan Harap Forum Bisnis RI dan Ceko Tingkatkan Investasi",
       "link_berita": "https://seputarmiliter.id/posts/510114/wamenhan-harap-forum-bisnis-ri-dan-ceko-tingkatkan-investasi",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:12:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
       "judul": "982 Burung Asal Pekanbaru Gagal Diselundupkan ke Bekasi",
       "link_berita": "https://sumatralink.id/posts/510121/982-burung-asal-pekanbaru-gagal-diselundupkan-ke-bekasi",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:11:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
       "judul": "Satlantas Polrestro Depok Sosialisasikan Operasi Keselamatan Jaya 2025 di Pasar Swalayan dan Mal",
       "link_berita": "https://ruzkaindonesia.id/posts/510133/satlantas-polrestro-depok-sosialisasikan-operasi-keselamatan-jaya-2025-di-pasar-swalayan-dan-mal",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:11:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
       "judul": "Solusi Dude Harlino Atasi GTM Anak: Pakai \u2018Sentuhan\u2019 Ayah",
       "link_berita": "https://ameera.republika.co.id/berita/srvtna425/solusi-dude-harlino-atasi-gtm-anak-pakai-sentuhan-ayah",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:01:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 14:21:47"
     },
     {
       "judul": "Usai Dioperasi karena Jaringan Otot yang Robek, Menag Bekerja dari RS",
       "link_berita": "https://khazanah.republika.co.id/berita/srvt73483/usai-dioperasi-karena-jaringan-otot-yang-robek-menag-bekerja-dari-rs",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:52:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "JETOUR Targetkan Miliki 30 Diler Tahun Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvt6a468/jetour-targetkan-miliki-30-diler-tahun-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:51:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Belal Muhammad Tegaskan tak Tertarik Melawan Islam Mahkachev di Kelas Ringan UFC",
       "link_berita": "https://news.republika.co.id/berita/srvqt1409/belal-muhammad-tegaskan-tak-tertarik-melawan-islam-mahkachev-di-kelas-ringan-ufc",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:48:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Kades Kohod Tersangka Pemalsuan Sertifikat Pagar Laut, Apa Peran dan Motifnya?",
       "link_berita": "https://tv.republika.co.id/berita/srvsek313/kades-kohod-tersangka-pemalsuan-sertifikat-pagar-laut-apa-peran-dan-motifnya",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:35:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Sambut Ramadhan, Zalora Gelar Pameran Fashion Zaloraya 2025",
       "link_berita": "https://ameera.republika.co.id/berita/srvrlu425/sambut-ramadhan-zalora-gelar-pameran-fashion-zaloraya-2025",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Ini Penjelasan Pj Gubernur Jakarta terkait Tunjangan Keluarga Pahlawan Ditiadakan",
       "link_berita": "https://news.republika.co.id/berita/srvrla487/ini-penjelasan-pj-gubernur-jakarta-terkait-tunjangan-keluarga-pahlawan-ditiadakan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Terdakwa Bantah Tembak Bos Rental Sambil Merokok, Ini Pengakuannya di Pengadilan Militer",
       "link_berita": "https://news.republika.co.id/berita/srvrff409/terdakwa-bantah-tembak-bos-rental-sambil-merokok-ini-pengakuannya-di-pengadilan-militer",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Jelang Pelantikan Kepala Daerah, Kawasan Monas Ditutup untuk Publik",
       "link_berita": "https://news.republika.co.id/berita/srvrag487/jelang-pelantikan-kepala-daerah-kawasan-monas-ditutup-untuk-publik",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Hasto Siap Kooperatif dengan KPK, tapi Beri Syarat Ini",
       "link_berita": "https://news.republika.co.id/berita/srvqwl487/hasto-siap-kooperatif-dengan-kpk-tapi-beri-syarat-ini",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Generasi Z Menilai Upaya Iklim Pemerintah Belum Memadai",
       "link_berita": "https://esgnow.republika.co.id/berita/srvnfp416/generasi-z-menilai-upaya-iklim-pemerintah-belum-memadai",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Eks Kadishub Kota Bandung Beberkan Fakta Atensi Dewan di Kasus Korupsi Bandung Smart City",
       "link_berita": "https://rejabar.republika.co.id/berita/srvqmp512/eks-kadishub-kota-bandung-beberkan-fakta-atensi-dewan-di-kasus-korupsi-bandung-smart-city",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:21:47"
     },
     {
       "judul": "Diaspora Muslim Indonesia Perkenalkan Budaya Islam ke Masyarakat Jepang",
       "link_berita": "https://khazanah.republika.co.id/berita/srvqbv483/diaspora-muslim-indonesia-perkenalkan-budaya-islam-ke-masyarakat-jepang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 13:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Izin Bulion Terbit, Saham BRIS Naik 4,78 Persen Bulan Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvq6y423/izin-bulion-terbit-saham-bris-naik-478-persen-bulan-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Istana Sebut Mobil Listrik dari Erdogan Bukan untuk Prabowo Tapi untuk Pemerintah RI",
       "link_berita": "https://news.republika.co.id/berita/srvq39409/istana-sebut-mobil-listrik-dari-erdogan-bukan-untuk-prabowo-tapi-untuk-pemerintah-ri",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Menteri PPPA Sebut Masalah Kesehatan Mata Banyak Ditemukan Saat CKG, karena Gadget?",
       "link_berita": "https://ameera.republika.co.id/berita/srvq0a425/menteri-pppa-sebut-masalah-kesehatan-mata-banyak-ditemukan-saat-ckg-karena-gadget",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Politisi Golkar ini Imbau Masyarakat Kawal Kebijakan Prabowo Tumbuhkan Ekonomi Nasional",
       "link_berita": "https://news.republika.co.id/berita/srvf47451/politisi-golkar-ini-imbau-masyarakat-kawal-kebijakan-prabowo-tumbuhkan-ekonomi-nasional",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Makan Sahur dan Berbuka Puasa, Tradisi yang Punya Landasan Syar\u2019i Kuat",
       "link_berita": "https://khazanah.republika.co.id/berita/srvppa430/makan-sahur-dan-berbuka-puasa-tradisi-yang-punya-landasan-syari-kuat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Cerita Korban TPPO Pengantin Pesanan Asal Indramayu Dibawa ke China Tertipu dan Menderita",
       "link_berita": "https://rejabar.republika.co.id/berita/srvpkz512/cerita-korban-tppo-pengantin-pesanan-asal-indramayu-dibawa-ke-china-tertipu-dan-menderita",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Pos Indonesia Dilibatkan Dalam Operasi Pasar Jelang Ramadhan",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvpe9423/pos-indonesia-dilibatkan-dalam-operasi-pasar-jelang-ramadhan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Sandiaga dan Caroline Riady Diskusi Tingkatkan Kualitas Kesehatan Nasional",
       "link_berita": "https://news.republika.co.id/berita/srvp9n484/sandiaga-dan-caroline-riady-diskusi-tingkatkan-kualitas-kesehatan-nasional",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "49.218 Jamaah Haji Reguler Lunasi Biaya Haji, Jabar Jadi yang Terbanyak",
       "link_berita": "https://khazanah.republika.co.id/berita/srvp2p483/49218-jamaah-haji-reguler-lunasi-biaya-haji-jabar-jadi-yang-terbanyak",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Pemprov NTT Beri Tenggat Hingga Rabu ke Yayasan GKI Soal Kedatangan Cristiano Ronaldo",
       "link_berita": "https://news.republika.co.id/berita/srvot8409/pemprov-ntt-beri-tenggat-hingga-rabu-ke-yayasan-gki-soal-kedatangan-cristiano-ronaldo",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Belum Miliki Aturan Soal Perlindungan Perempuan, DPRD Kota Bandung Matangkan Raperda",
       "link_berita": "https://rejabar.republika.co.id/berita/srvopq512/belum-miliki-aturan-soal-perlindungan-perempuan-dprd-kota-bandung-matangkan-raperda",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Kamar Penginapan di Sekitar Akmil Penuh Selama Retreat Kepala Daerah",
       "link_berita": "https://news.republika.co.id/berita/srvo6r484/kamar-penginapan-di-sekitar-akmil-penuh-selama-retreat-kepala-daerah",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "OJK Dorong Pengembangan Bank Bulion untuk Stabilitas Ekonomi Nasional",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvoe5423/ojk-dorong-pengembangan-bank-bulion-untuk-stabilitas-ekonomi-nasional",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Batas Usia Pendamping Jamaah Haji Diminta Dibatasi",
       "link_berita": "https://khazanah.republika.co.id/berita/srvo8v483/batas-usia-pendamping-jamaah-haji-diminta-dibatasi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "PU Percepat Pembangunan Tol Fungsional Antisipasi Macet Mudik",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvo8b370/pu-percepat-pembangunan-tol-fungsional-antisipasi-macet-mudik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Perkuat Ekosistem Ekspor, PPI Bantu UMKM Tembus Pasar Eropa",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvnue416/perkuat-ekosistem-ekspor-ppi-bantu-umkm-tembus-pasar-eropa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 12:21:47"
     },
     {
       "judul": "Indra Sjafri: Dua Kekalahan di Piala Asia U-20 Tanggung Jawab Pelatih",
       "link_berita": "https://news.republika.co.id/berita/srvnfx348/indra-sjafri-dua-kekalahan-di-piala-asia-u20-tanggung-jawab-pelatih",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:21:47"
     },
     {
       "judul": "Sambut Kongres, AHY Siap Kembali Memimpin Partai Demokrat",
       "link_berita": "https://news.republika.co.id/berita/srvn2g484/sambut-kongres-ahy-siap-kembali-memimpin-partai-demokrat",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:21:47"
     },
     {
       "judul": "Ahli Dermatologi Lihat Potensi Besar Industri Kosmetik Halal Indonesia",
       "link_berita": "https://sharia.republika.co.id/berita/srvn6o370/ahli-dermatologi-lihat-potensi-besar-industri-kosmetik-halal-indonesia",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:21:47"
     },
     {
       "judul": "Ini Dia Tiga Fokus Utama Perkuat Ekonomi Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/srvn5h423/ini-dia-tiga-fokus-utama-perkuat-ekonomi-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:21:47"
     },
     {
       "judul": "Jelang Ramadhan, Polisi di Indramayu Gagalkan Pengiriman Petasan",
       "link_berita": "https://rejabar.republika.co.id/berita/srvmy0512/jelang-ramadhan-polisi-di-indramayu-gagalkan-pengiriman-petasan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:21:47"
     },
     {
       "judul": "Alyssa Soebandono Ungkap Cara Menyemangati Anak Puasa Ramadhan",
       "link_berita": "https://ameera.republika.co.id/berita/srvmx0425/alyssa-soebandono-ungkap-cara-menyemangati-anak-puasa-ramadhan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:21:47"
     },
     {
-      "judul": "Usai Tetapkan Status Tersangka, Bareskrim Cegah Kades Kohod Keluar Negeri",
-      "link_berita": "https://news.republika.co.id/berita/srvmvi409/usai-tetapkan-status-tersangka-bareskrim-cegah-kades-kohod-keluar-negeri",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Korban PHK Dapat Upah 6 Bulan, Ini Kata Kadin",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srvms7370/korban-phk-dapat-upah-6-bulan-ini-kata-kadin",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Menko AHY: Presiden Prabowo Fokuskan Pembangunan di Empat Provinsi Papua",
-      "link_berita": "https://news.republika.co.id/berita/srvmol484/menko-ahy-presiden-prabowo-fokuskan-pembangunan-di-empat-provinsi-papua",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Menunggu Bukti DNA Banyak Wide dan Sumitro pada Prabowo",
-      "link_berita": "https://analisis.republika.co.id/berita/srvmof475/menunggu-bukti-dna-banyak-wide-dan-sumitro-pada-prabowo",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Warga Serbu Operasi Pasar Gas Elpiji 3 Kg di Palangka Raya",
-      "link_berita": "https://visual.republika.co.id/berita/srvifk375/warga-serbu-operasi-pasar-gas-elpiji-3-kg-di-palangka-raya",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok, 19 Februari 2025, di Kota Padang Berawan",
-      "link_berita": "https://news.republika.co.id/berita/srvmkp219311943/prakiraan-cuaca-besok-19-februari-2025-di-kota-padang-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Gen Z Kurang Dilibatkan dalam Aksi Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/srvmjf416/gen-z-kurang-dilibatkan-dalam-aksi-iklim",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Warga Bandung Diduga Jadi Korban Investasi Forex, Rugi Rp 5 Miliar",
-      "link_berita": "https://rejabar.republika.co.id/berita/srvmcs512/warga-bandung-diduga-jadi-korban-investasi-forex-rugi-rp-5-miliar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Kembali ke Indonesia, Motorola Luncurkan Ponsel Pintar Moto G45 5G",
-      "link_berita": "https://ameera.republika.co.id/berita/srvm1u370/kembali-ke-indonesia-motorola-luncurkan-ponsel-pintar-moto-g45-5g",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 11:18:33"
-    },
-    {
-      "judul": "Solusi Dude Harlino Atasi GTM Anak: Pakai \u2018Sentuhan\u2019 Ayah",
-      "link_berita": "https://ameera.republika.co.id/berita/srvtna425/solusi-dude-harlino-atasi-gtm-anak-pakai-sentuhan-ayah",
+      "judul": "Film Komang Siap Menghiasi Bioskop pada Lebaran 2025",
+      "link_berita": "https://ameera.republika.co.id/berita/srvv5f425/film-komang-siap-menghiasi-bioskop-pada-lebaran-2025",
       "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 21:01:00"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 21:34:00"
     },
     {
-      "judul": "Gen Z Kurang Dilibatkan dalam Aksi Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/srvmjf416/gen-z-kurang-dilibatkan-dalam-aksi-iklim",
+      "judul": "Jepang Menyetujui Rencana Iklim dan Energi Baru",
+      "link_berita": "https://esgnow.republika.co.id/berita/srvx5x430/jepang-menyetujui-rencana-iklim-dan-energi-baru",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 18:28:00"
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 22:17:00"
     },
     {
-      "judul": "Honda akan Luncurkan SUV Listrik S7, Ini Bocoran Spesifikasinya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srvu5i468/honda-akan-luncurkan-suv-listrik-s7-ini-bocoran-spesifikasinya",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Tuesday, 18 Feb 2025, 21:12:00"
+      "judul": "Di IES 2025, Arsjad Rasjid: Sinergi Publik-Privat Kunci Indonesia Tumbuh",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srvv5u456/di-ies-2025-arsjad-rasjid-sinergi-publikprivat-kunci-indonesia-tumbuh",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Tuesday, 18 Feb 2025, 21:34:00"
     },
     {
       "judul": "Ahli Dermatologi Lihat Potensi Besar Industri Kosmetik Halal Indonesia",
@@ -415,5 +415,5 @@
       "tanggal_terbit": "Tuesday, 18 Feb 2025, 20:49:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 18 Feb 2025, 21:18:33"
+  "waktu_scraping": "Tuesday, 18 Feb 2025, 22:21:47"
 }
