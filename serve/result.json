@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Tanggapi #IndonesiaGelap, Luhut: Yang Gelap Kau, Bukan Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/srxhlb409/tanggapi-indonesiagelap-luhut-yang-gelap-kau-bukan-indonesia"
+    },
+    {
       "judul": "Ketum Muhammadiyah Puji Sosok Mendikti Saintek yang Baru",
       "link_berita": "https://news.republika.co.id/berita/srxei9458/ketum-muhammadiyah-puji-sosok-mendikti-saintek-yang-baru"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "BI Pertahankan Suku Bunga di 5,75 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/srx869370/bi-pertahankan-suku-bunga-di-575-persen"
-    },
-    {
-      "judul": "Begini Penampakan Kediaman Mendikti Satryo yang Dikabarkan Dicopot",
-      "link_berita": "https://news.republika.co.id/berita/srx4hk377/begini-penampakan-kediaman-mendikti-satryo-yang-dikabarkan-dicopot"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Negara Tetangga Efisiensi, Singapura Justru Bagikan Ratusan Dolar ke Warganya",
+      "link_berita": "https://news.republika.co.id/berita/srxi5t475/negara-tetangga-efisiensi-singapura-justru-bagikan-ratusan-dolar-ke-warganya"
+    },
+    {
+      "judul": "Ini Susunan Pemain Timnas Indonesia U-20 Vs Yaman U-20: Ikram Dicadangkan",
+      "link_berita": "https://news.republika.co.id/berita/srxgke348/ini-susunan-pemain-timnas-indonesia-u20-vs-yaman-u20-ikram-dicadangkan"
+    },
     {
       "judul": "Musisi Fariz RM Kembali Ditangkap Polisi Kasus Dugaan Penyalahgunaan Narkoba",
       "link_berita": "https://ameera.republika.co.id/berita/srxeb9425/musisi-fariz-rm-kembali-ditangkap-polisi-kasus-dugaan-penyalahgunaan-narkoba"
@@ -73,334 +81,326 @@
     {
       "judul": "Satgas Cartenz Tangkap Mantan Anggota Polri Curi 4 Senpi yang Gabung KKB",
       "link_berita": "https://news.republika.co.id/berita/srwovd484/satgas-cartenz-tangkap-mantan-anggota-polri-curi-4-senpi-yang-gabung-kkb"
-    },
-    {
-      "judul": "Jelang Ramadhan, Dokter Ajak Umat Islam Mulai Terapkan Pola Hidup Sehat",
-      "link_berita": "https://ameera.republika.co.id/berita/srwnxm366/jelang-ramadhan-dokter-ajak-umat-islam-mulai-terapkan-pola-hidup-sehat"
-    },
-    {
-      "judul": "Anggota DPR Papua Ingatkan Pelajar, Jangan Terprovokasi Isu Miring MBG, Awas Ditunggangi",
-      "link_berita": "https://news.republika.co.id/berita/srwisw377/anggota-dpr-papua-ingatkan-pelajar-jangan-terprovokasi-isu-miring-mbg-awas-ditunggangi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bos Freeport Tampik Isu Smelter Sengaja Dibakar demi Ekspor Konsentrat, Ini Bantahannya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srxkan409/bos-freeport-tampik-isu-smelter-sengaja-dibakar-demi-ekspor-konsentrat-ini-bantahannya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:34:45"
+    },
+    {
+      "judul": "Babak Pertama Berakhir, tak Ada Gol pada Laga Indonesia Vs Yaman di Piala Asia U-20",
+      "link_berita": "https://news.republika.co.id/berita/srxk17348/babak-pertama-berakhir-tak-ada-gol-pada-laga-indonesia-vs-yaman-di-piala-asia-u20",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:29:45"
+    },
+    {
+      "judul": "Puasa Intermiten Disebut Potensial Cegah Kanker",
+      "link_berita": "https://ameera.republika.co.id/berita/srxjuj425/puasa-intermiten-disebut-potensial-cegah-kanker",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:25:45"
+    },
+    {
+      "judul": "Stok Pangan di Jakarta Dipastikan Aman Selama Ramadhan, Warga Diminta tak Panic Buying",
+      "link_berita": "https://news.republika.co.id/berita/srxjtr487/stok-pangan-di-jakarta-dipastikan-aman-selama-ramadhan-warga-diminta-tak-panic-buying",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:24:45"
+    },
+    {
+      "judul": "Tim SAR Lanjutkan Pencarian Pendaki yang Hilang di Gunung Manglayang",
+      "link_berita": "https://rejabar.republika.co.id/berita/srxjgy512/tim-sar-lanjutkan-pencarian-pendaki-yang-hilang-di-gunung-manglayang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:17:45"
+    },
+    {
+      "judul": "Kementerian Imipas Nonaktifkan 71 Pegawai Terkait Kasus Pungli WNA China di Bandara Soetta",
+      "link_berita": "https://news.republika.co.id/berita/srxjed409/kementerian-imipas-nonaktifkan-71-pegawai-terkait-kasus-pungli-wna-china-di-bandara-soetta",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:15:45"
+    },
+    {
+      "judul": "Berkali-kali Mangkir, Walkot Semarang Ita dan Suami Akhirnya Ditahan KPK",
+      "link_berita": "https://rejogja.republika.co.id/berita/srxja0282/berkalikali-mangkir-walkot-semarang-ita-dan-suami-akhirnya-ditahan-kpk",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:12:45"
+    },
+    {
+      "judul": "481 Kepala Daerah Dilantik di Istana Besok, Hindari Ruas Jalan Ini",
+      "link_berita": "https://news.republika.co.id/berita/srxiyr487/481-kepala-daerah-dilantik-di-istana-besok-hindari-ruas-jalan-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:06:45"
+    },
+    {
+      "judul": "War Tiket KA Lebaran, Daop 6 Yogya Sebut Okupansi Bahkan di Atas 100 Persen",
+      "link_berita": "https://rejogja.republika.co.id/berita/srxiw0282/war-tiket-ka-lebaran-daop-6-yogya-sebut-okupansi-bahkan-di-atas-100-persen",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 12:04:45"
+    },
+    {
+      "judul": "UN Women dan Srikandi BUMN Promosikan Kesetaraan Gender",
+      "link_berita": "https://ameera.republika.co.id/berita/srxfsa416/un-women-dan-srikandi-bumn-promosikan-kesetaraan-gender",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:59:45"
+    },
+    {
+      "judul": "KPK Akhirnya Tahan Wali Kota Semarang Hevearita Gunaryanti Usai Empat Kali Mangkir",
+      "link_berita": "https://news.republika.co.id/berita/srxinl409/kpk-akhirnya-tahan-wali-kota-semarang-hevearita-gunaryanti-usai-empat-kali-mangkir",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:59:45"
+    },
+    {
+      "judul": "Prabowo Lakukan Reshuffle Kabinet",
+      "link_berita": "https://sajada.id/posts/510309/prabowo-lakukan-reshuffle-kabinet",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:57:45"
+    },
+    {
+      "judul": "Pesan KPK untuk Hasto: Tidak Ada Larangan Pemeriksaan Meski Praperadilan Sedang Berjalan",
+      "link_berita": "https://news.republika.co.id/berita/srxif1487/pesan-kpk-untuk-hasto-tidak-ada-larangan-pemeriksaan-meski-praperadilan-sedang-berjalan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:54:45"
+    },
+    {
+      "judul": "Negara Tetangga Efisiensi, Singapura Justru Bagikan Ratusan Dolar ke Warganya",
+      "link_berita": "https://news.republika.co.id/berita/srxi5t475/negara-tetangga-efisiensi-singapura-justru-bagikan-ratusan-dolar-ke-warganya",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:48:45"
+    },
+    {
+      "judul": "Kemenkes Targetkan Peningkatan Kualitas RSUD di Daerah Terpencil",
+      "link_berita": "https://ameera.republika.co.id/berita/srxi4k425/kemenkes-targetkan-peningkatan-kualitas-rsud-di-daerah-terpencil",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:48:45"
+    },
+    {
+      "judul": "Ini Janji Mendiktisaintek Brian Yuliarto Usai Dilantik Presiden Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/srxi17487/ini-janji-mendiktisaintek-brian-yuliarto-usai-dilantik-presiden-prabowo",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:46:45"
+    },
+    {
+      "judul": "FH UMC Gelar Seminar Linguistik Forensik: Analisis Peran Bahasa dalam Penegakan Hukum",
+      "link_berita": "https://rejabar.republika.co.id/berita/srxhqj291/fh-umc-gelar-seminar-linguistik-forensik-analisis-peran-bahasa-dalam-penegakan-hukum",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:39:45"
+    },
+    {
+      "judul": "Sambut Ramadhan, Perkuat Komitmen Mengaji Alquran",
+      "link_berita": "https://khazanah.republika.co.id/berita/srxhov458/sambut-ramadhan-perkuat-komitmen-mengaji-alquran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:38:45"
+    },
+    {
+      "judul": "Suarakan Dukungan, MUI Ajak Jadikan Ramadhan Ini Sebagai Bulan Palestina",
+      "link_berita": "https://khazanah.republika.co.id/berita/srxhmy366/suarakan-dukungan-mui-ajak-jadikan-ramadhan-ini-sebagai-bulan-palestina",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:37:45"
+    },
+    {
+      "judul": "Pemerintah Gandeng Artis Dorong Tren #KaburAjaDulu Lebih Produktif",
+      "link_berita": "https://ameera.republika.co.id/berita/srxhlz425/pemerintah-gandeng-artis-dorong-tren-kaburajadulu-lebih-produktif",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
+    },
+    {
+      "judul": "Tanggapi #IndonesiaGelap, Luhut: Yang Gelap Kau, Bukan Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/srxhlb409/tanggapi-indonesiagelap-luhut-yang-gelap-kau-bukan-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok di Kota Padang dan Sekitarnya: Hujan Ringan - 20 Februari 2025",
+      "link_berita": "https://news.republika.co.id/berita/srxh8r341881824/prakiraan-cuaca-besok-di-kota-padang-dan-sekitarnya-hujan-ringan-20-februari-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
+    },
+    {
+      "judul": "PP Muhammadiyah Dukung Kepercayaan Prabowo Tunjuk Brian Yuliarto Jabat Mendikti Saintek",
+      "link_berita": "https://news.republika.co.id/berita/srxh8m409/pp-muhammadiyah-dukung-kepercayaan-prabowo-tunjuk-brian-yuliarto-jabat-mendikti-saintek",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
+    },
+    {
+      "judul": "UNM Bermitra dengan PT Mitra Pajakku Buka Peluang Karier Talenta Muda",
+      "link_berita": "https://news.republika.co.id/berita/srxgwk472/unm-bermitra-dengan-pt-mitra-pajakku-buka-peluang-karier-talenta-muda",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
+    },
+    {
+      "judul": "Riset Kesehatan Harus Dikembangkan Lebih Lanjut",
+      "link_berita": "https://news.republika.co.id/berita/srwmuv451/riset-kesehatan-harus-dikembangkan-lebih-lanjut",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
+    },
+    {
       "judul": "Ini Susunan Pemain Timnas Indonesia U-20 Vs Yaman U-20: Ikram Dicadangkan",
       "link_berita": "https://news.republika.co.id/berita/srxgke348/ini-susunan-pemain-timnas-indonesia-u20-vs-yaman-u20-ikram-dicadangkan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:15:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
     },
     {
       "judul": "Prakiraan Cuaca Besok Tanggal 20 Februari 2025 untuk Kota Banda Aceh dan Sekitarnya: Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/srxg9q598324889/prakiraan-cuaca-besok-tanggal-20-februari-2025-untuk-kota-banda-aceh-dan-sekitarnya-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:08:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:36:45"
     },
     {
       "judul": "Sysmex CEO Forum 2025 Soroti Tinginya Angka Limbah Medis",
       "link_berita": "https://ameera.republika.co.id/berita/srxg70425/sysmex-ceo-forum-2025-soroti-tinginya-angka-limbah-medis",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:06:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Indonesia dan Norwegia Jajaki Kerja Sama Rehabilitasi Mangrove",
       "link_berita": "https://esgnow.republika.co.id/berita/srxdt8416/indonesia-dan-norwegia-jajaki-kerja-sama-rehabilitasi-mangrove",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:00:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Prakiraan Cuaca Besok 20 Februari 2025 di Kota Mataram dan Sekitarnya: Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/srxfe2687167679/prakiraan-cuaca-besok-20-februari-2025-di-kota-mataram-dan-sekitarnya-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:49:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Indonesia Economic Summit 2025, Langkah Nyata Menuju Pertumbuhan Berkelanjutan",
       "link_berita": "https://ekonomi.republika.co.id/berita/srxf55456/indonesia-economic-summit-2025-langkah-nyata-menuju-pertumbuhan-berkelanjutan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:44:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Pembekalan Kepala Daerah Disebut Sebagai Ikhtiar untuk Membangun Kesepahaman",
       "link_berita": "https://news.republika.co.id/berita/srxf14318/pembekalan-kepala-daerah-disebut-sebagai-ikhtiar-untuk-membangun-kesepahaman",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:41:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Prakiraan Cuaca Besok 20 Februari 2025: Kota Balikpapan dan Sekitarnya - Berawan",
       "link_berita": "https://news.republika.co.id/berita/srxeqs485315532/prakiraan-cuaca-besok-20-februari-2025-kota-balikpapan-dan-sekitarnya-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:35:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Lolos ke 16 Besar Liga Champions, Pelatih Feyenoord Bangga Karakter Timnya",
       "link_berita": "https://news.republika.co.id/berita/srxel3348/lolos-ke-16-besar-liga-champions-pelatih-feyenoord-bangga-karakter-timnya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:32:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Ketum Muhammadiyah Puji Sosok Mendikti Saintek yang Baru",
       "link_berita": "https://news.republika.co.id/berita/srxei9458/ketum-muhammadiyah-puji-sosok-mendikti-saintek-yang-baru",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:30:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Musisi Fariz RM Kembali Ditangkap Polisi Kasus Dugaan Penyalahgunaan Narkoba",
       "link_berita": "https://ameera.republika.co.id/berita/srxeb9425/musisi-fariz-rm-kembali-ditangkap-polisi-kasus-dugaan-penyalahgunaan-narkoba",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:26:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Data Jadi Strategi Unilever Hadapi Perubahan Pasar Demi Dongkrak Laba",
       "link_berita": "https://ekonomi.republika.co.id/berita/srxeb1370/data-jadi-strategi-unilever-hadapi-perubahan-pasar-demi-dongkrak-laba",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:26:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Lulusan Teknologi Informasi Cyber University Siap Bersaing di Era Digital",
       "link_berita": "https://news.republika.co.id/berita/srxe9k472/lulusan-teknologi-informasi-cyber-university-siap-bersaing-di-era-digital",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:25:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Prakiraan Cuaca Besok 20 Februari 2025: Palembang",
       "link_berita": "https://news.republika.co.id/berita/srxe03740679875/prakiraan-cuaca-besok-20-februari-2025-palembang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:19:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Kemenag Imbau Warga Daftar Haji Furoda di Travel Resmi",
       "link_berita": "https://khazanah.republika.co.id/berita/srxdy9430/kemenag-imbau-warga-daftar-haji-furoda-di-travel-resmi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:18:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Pramono akan Sampaikan Pidato Perdana di DPRD Usai Dilantik, Anies Dikabarkan Hadir",
       "link_berita": "https://news.republika.co.id/berita/srxdxh487/pramono-akan-sampaikan-pidato-perdana-di-dprd-usai-dilantik-anies-dikabarkan-hadir",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:18:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "ITPLN Sabet Medali Emas di IPITEx 2025 Berkat Inovasi Produksi Green Hydrogen",
       "link_berita": "https://ekonomi.republika.co.id/berita/srxdq1368/itpln-sabet-medali-emas-di-ipitex-2025-berkat-inovasi-produksi-green-hydrogen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Mau Mudah Kerja? Ikuti Internship Experience Program (IEP) di Universitas Nusa Mandiri",
       "link_berita": "https://news.republika.co.id/berita/srxdmd472/mau-mudah-kerja-ikuti-internship-experience-program-iep-di-universitas-nusa-mandiri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Ketika Rasulullah Biarkan Dirinya akan Dicambuk",
       "link_berita": "https://khazanah.republika.co.id/berita/srxdlj458/ketika-rasulullah-biarkan-dirinya-akan-dicambuk",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "DPR: UU Haji Perlu Direvisi karena Sudah tak Relevan",
       "link_berita": "https://khazanah.republika.co.id/berita/srxdiv430/dpr-uu-haji-perlu-direvisi-karena-sudah-tak-relevan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Kemenekraf Gandeng Spotify Majukan Industri Ekonomi Kreatif",
       "link_berita": "https://ameera.republika.co.id/berita/srxdgk425/kemenekraf-gandeng-spotify-majukan-industri-ekonomi-kreatif",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:36:45"
     },
     {
       "judul": "Berbagai Lokasi Dakwah Para Nabi",
       "link_berita": "https://khazanah.republika.co.id/berita/srxdfq458/berbagai-lokasi-dakwah-para-nabi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:36:45"
     },
     {
       "judul": "Komisi VIII Ungkap Negara Sahabat Bersedia Sumbang Ribuan Kuota Haji untuk Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/srxdci483/komisi-viii-ungkap-negara-sahabat-bersedia-sumbang-ribuan-kuota-haji-untuk-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:36:45"
     },
     {
       "judul": "Hamas Tegaskan Tolak Segala Upaya Pelucutan Senjata dan Pengusiran dari Gaza",
       "link_berita": "https://news.republika.co.id/berita/srxd6g409/hamas-tegaskan-tolak-segala-upaya-pelucutan-senjata-dan-pengusiran-dari-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:36:45"
     },
     {
       "judul": "Usai Lantik Pejabat, Prabowo Diberi Uang Bertanda Tangan Ayahnya",
       "link_berita": "https://news.republika.co.id/berita/srxd4o484/usai-lantik-pejabat-prabowo-diberi-uang-bertanda-tangan-ayahnya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:36:45"
     },
     {
-      "judul": "IHSG Ditutup Melemah, Ikuti Bursa Kawasan Asia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srxd06370/ihsg-ditutup-melemah-ikuti-bursa-kawasan-asia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok: Hujan Ringan di Kota Denpasar dan Sekitarnya 20 Februari 2025.",
-      "link_berita": "https://news.republika.co.id/berita/srxcm2816898659/prakiraan-cuaca-besok-hujan-ringan-di-kota-denpasar-dan-sekitarnya-20-februari-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:16:07"
-    },
-    {
-      "judul": "MUI: Jadikan Ramadhan Bulan Palestina",
-      "link_berita": "https://khazanah.republika.co.id/berita/srxcfq483/mui-jadikan-ramadhan-bulan-palestina",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "UNM Bermitra dengan PT Mitra Pajakku Buka Peluang Karier Talenta Muda",
-      "link_berita": "https://news.republika.co.id/berita/srxcad472/unm-bermitra-dengan-pt-mitra-pajakku-buka-peluang-karier-talenta-muda",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Kapal Tongkang Tabrak Jembatan Mahakam",
-      "link_berita": "https://tv.republika.co.id/berita/srxc5v313/kapal-tongkang-tabrak-jembatan-mahakam",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Luhut Minta Presiden Prabowo Audit Sistem Coretax",
-      "link_berita": "https://news.republika.co.id/berita/srxc4l484/luhut-minta-presiden-prabowo-audit-sistem-coretax",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Prakiraan Cuaca Kota Makassar dan Sekitarnya: Hujan Ringan Diprediksi Besok, 20 Februari 2025",
-      "link_berita": "https://news.republika.co.id/berita/srxbse2070152695/prakiraan-cuaca-kota-makassar-dan-sekitarnya-hujan-ringan-diprediksi-besok-20-februari-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Sederet Prestasi Brian Yuliarto Sebelum Jadi Mendikti Saintek, Pernah Raih Habibie Prize",
-      "link_berita": "https://news.republika.co.id/berita/srxbqe409/sederet-prestasi-brian-yuliarto-sebelum-jadi-mendikti-saintek-pernah-raih-habibie-prize",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Pelatih Club Brugge tak Kaget Timnya Depak Atalanta dan Lolos ke 16 Besar Liga Champions",
-      "link_berita": "https://news.republika.co.id/berita/srxbns348/pelatih-club-brugge-tak-kaget-timnya-depak-atalanta-dan-lolos-ke-16-besar-liga-champions",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Kenali Tempat-Tempat Rawan Anak Tertular Influenza",
-      "link_berita": "https://ameera.republika.co.id/berita/srxbmt425/kenali-tempattempat-rawan-anak-tertular-influenza",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Tak Hanya Program 3 Juta Rumah, BI Juga Tebar Insentif untuk Program Ketahanan Pangan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srxbm3370/tak-hanya-program-3-juta-rumah-bi-juga-tebar-insentif-untuk-program-ketahanan-pangan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Menlu China: Gaza dan Tepi Barat Tanah Air Rakyat Palestina",
-      "link_berita": "https://khazanah.republika.co.id/berita/srxb2c430/menlu-china-gaza-dan-tepi-barat-tanah-air-rakyat-palestina",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Dipecat atau Dicopot Prabowo? Menteri Satryo: Saya Mengundurkan Diri",
-      "link_berita": "https://news.republika.co.id/berita/srxbha377/dipecat-atau-dicopot-prabowo-menteri-satryo-saya-mengundurkan-diri",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Kembali Pimpin Surabaya, Eri Cahyadi-Armuji Terima Dukungan Berbagai Elemen",
-      "link_berita": "https://news.republika.co.id/berita/srxbfi291/kembali-pimpin-surabaya-eri-cahyadiarmuji-terima-dukungan-berbagai-elemen",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Salah Sasaran, Pria Pro-Israel Tembak Dua Warga Israel di Florida",
-      "link_berita": "https://khazanah.republika.co.id/berita/srxbfd430/salah-sasaran-pria-proisrael-tembak-dua-warga-israel-di-florida",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Letjen (Purn) Nugroho Sulistyo Budi Resmi Jabat Kepala BSSN",
-      "link_berita": "https://news.republika.co.id/berita/srxbbu484/letjen-purn-nugroho-sulistyo-budi-resmi-jabat-kepala-bssn",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Menteri P2MI Apresiasi Dukungan BUMN Terkait Pelindungan PMI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srxba9423/menteri-p2mi-apresiasi-dukungan-bumn-terkait-pelindungan-pmi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 20 Februari 2025: Cerah Berawan di Kota Medan dan Sekitarnya",
-      "link_berita": "https://news.republika.co.id/berita/srxb852043785693/prakiraan-cuaca-besok-20-februari-2025-cerah-berawan-di-kota-medan-dan-sekitarnya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Eks Menteri Satryo Bungkam Saat Tinggalkan Kemendikti Saintek",
-      "link_berita": "https://news.republika.co.id/berita/srxb7g409/eks-menteri-satryo-bungkam-saat-tinggalkan-kemendikti-saintek",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Cak Imin Minta BPKH Harus Beli Hotel di Makkah dan Madinah",
-      "link_berita": "https://khazanah.republika.co.id/berita/srxb5k483/cak-imin-minta-bpkh-harus-beli-hotel-di-makkah-dan-madinah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Ketika Rasulullah dan Dua Sahabat Bertamu",
-      "link_berita": "https://khazanah.republika.co.id/berita/srxb13458/ketika-rasulullah-dan-dua-sahabat-bertamu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Mitsubishi Xforce 'Menggoda' di IIMS 2025, DP Ringan Bonus Melimpah",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sroj8r423/mitsubishi-xforce-menggoda-di-iims-2025-dp-ringan-bonus-melimpah",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "China Kirim Bantuan Kemanusiaan ke Gaza Lewat Yordania",
-      "link_berita": "https://news.republika.co.id/berita/srxawa430/china-kirim-bantuan-kemanusiaan-ke-gaza-lewat-yordania",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Polda Jateng Bongkar Kasus TPPO Bermodus Pengiriman Pekerja Migran ke Jepang",
-      "link_berita": "https://news.republika.co.id/berita/srxau4487/polda-jateng-bongkar-kasus-tppo-bermodus-pengiriman-pekerja-migran-ke-jepang",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Polri: Kami tak Tangani Kasus Siapa yang Bangun Pagar Laut, Hanya Permalsuan Sertifikat",
-      "link_berita": "https://news.republika.co.id/berita/srxasv377/polri-kami-tak-tangani-kasus-siapa-yang-bangun-pagar-laut-hanya-permalsuan-sertifikat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:16:07"
-    },
-    {
-      "judul": "Sysmex CEO Forum 2025 Soroti Tinginya Angka Limbah Medis",
-      "link_berita": "https://ameera.republika.co.id/berita/srxg70425/sysmex-ceo-forum-2025-soroti-tinginya-angka-limbah-medis",
+      "judul": "Puasa Intermiten Disebut Potensial Cegah Kanker",
+      "link_berita": "https://ameera.republika.co.id/berita/srxjuj425/puasa-intermiten-disebut-potensial-cegah-kanker",
       "kategori": "Health",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 18:06:00"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 19:25:00"
     },
     {
-      "judul": "Dana Lingkungan untuk Masyarakat Kembali Digulirkan",
-      "link_berita": "https://esgnow.republika.co.id/berita/srxacl416/dana-lingkungan-untuk-masyarakat-kembali-digulirkan",
+      "judul": "Indonesia dan Norwegia Jajaki Kerja Sama Rehabilitasi Mangrove",
+      "link_berita": "https://esgnow.republika.co.id/berita/srxdt8416/indonesia-dan-norwegia-jajaki-kerja-sama-rehabilitasi-mangrove",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 16:00:00"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 18:00:00"
     },
     {
-      "judul": "Indonesia Economic Summit 2025, Langkah Nyata Menuju Pertumbuhan Berkelanjutan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srxf55456/indonesia-economic-summit-2025-langkah-nyata-menuju-pertumbuhan-berkelanjutan",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 17:43:00"
+      "judul": "Bos Freeport Tampik Isu Smelter Sengaja Dibakar demi Ekspor Konsentrat, Ini Bantahannya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srxkan409/bos-freeport-tampik-isu-smelter-sengaja-dibakar-demi-ekspor-konsentrat-ini-bantahannya",
+      "kategori": "Energi",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 19:35:00"
     },
     {
       "judul": "Ahli Dermatologi Lihat Potensi Besar Industri Kosmetik Halal Indonesia",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 18 Feb 2025, 18:42:00"
     },
     {
-      "judul": "Ini Susunan Pemain Timnas Indonesia U-20 Vs Yaman U-20: Ikram Dicadangkan",
-      "link_berita": "https://news.republika.co.id/berita/srxgke348/ini-susunan-pemain-timnas-indonesia-u20-vs-yaman-u20-ikram-dicadangkan",
+      "judul": "Babak Pertama Berakhir, tak Ada Gol pada Laga Indonesia Vs Yaman di Piala Asia U-20",
+      "link_berita": "https://news.republika.co.id/berita/srxk17348/babak-pertama-berakhir-tak-ada-gol-pada-laga-indonesia-vs-yaman-di-piala-asia-u20",
       "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 18:14:00"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 19:29:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 19 Feb 2025, 18:16:07"
+  "waktu_scraping": "Wednesday, 19 Feb 2025, 19:36:45"
 }
