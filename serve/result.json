@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Abaikan Eropa, AS-Rusia Sepakat Damai di Riyadh",
+      "link_berita": "https://news.republika.co.id/berita/srww24393/abaikan-eropa-asrusia-sepakat-damai-di-riyadh"
+    },
+    {
+      "judul": "Takut Ditangkap di Amsterdam, Komandan Tank Israel Pelaku Genosida Kabur",
+      "link_berita": "https://khazanah.republika.co.id/berita/srwtwn483/takut-ditangkap-di-amsterdam-komandan-tank-israel-pelaku-genosida-kabur"
+    },
+    {
       "judul": "Prabowo Ingatkan Modus Kecurangan MBG, Minyak Goreng Dipakai Sampai Hitam",
       "link_berita": "https://news.republika.co.id/berita/srwr7k377/prabowo-ingatkan-modus-kecurangan-mbg-minyak-goreng-dipakai-sampai-hitam"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Dirawat, Paus Terus Tanyakan Kabar di Gaza Tiap Malam",
       "link_berita": "https://news.republika.co.id/berita/srwnfx393/dirawat-paus-terus-tanyakan-kabar-di-gaza-tiap-malam"
-    },
-    {
-      "judul": "Pramono-Rano Pulihkan Kuota Penerima KJMU, Sasar 20 Ribu Mahasiswa",
-      "link_berita": "https://news.republika.co.id/berita/srwmnt484/pramonorano-pulihkan-kuota-penerima-kjmu-sasar-20-ribu-mahasiswa"
-    },
-    {
-      "judul": "Coba Jinakkan Buaya di Cimory Land, Daeng Rani Diterkam Hingga Nyawa Nyaris Melayang",
-      "link_berita": "https://news.republika.co.id/berita/srwjjc377/coba-jinakkan-buaya-di-cimory-land-daeng-rani-diterkam-hingga-nyawa-nyaris-melayang"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kemeriahan Festival Jawa Barat di Washington DC",
+      "link_berita": "https://tv.republika.co.id/berita/srwx5r313/kemeriahan-festival-jawa-barat-di-washington-dc"
+    },
+    {
+      "judul": "RI dan ASEAN Terancam Jadi Target Peretasan Kelompok Spionase APT, Siapa Mereka?",
+      "link_berita": "https://news.republika.co.id/berita/srwuou483/ri-dan-asean-terancam-jadi-target-peretasan-kelompok-spionase-apt-siapa-mereka"
+    },
     {
       "judul": "Gasperini Kecam Lookman Gagal Penalti yang Buat Atalanta Tersingkir dari Liga Champions",
       "link_berita": "https://news.republika.co.id/berita/srwseo348/gasperini-kecam-lookman-gagal-penalti-yang-buat-atalanta-tersingkir-dari-liga-champions"
@@ -73,334 +81,326 @@
     {
       "judul": "Kamar Penginapan di Sekitar Akmil Penuh Selama Retreat Kepala Daerah",
       "link_berita": "https://news.republika.co.id/berita/srvo6r484/kamar-penginapan-di-sekitar-akmil-penuh-selama-retreat-kepala-daerah"
-    },
-    {
-      "judul": "Menunggu Bukti DNA Banyak Wide dan Sumitro pada Prabowo",
-      "link_berita": "https://analisis.republika.co.id/berita/srvmof475/menunggu-bukti-dna-banyak-wide-dan-sumitro-pada-prabowo"
-    },
-    {
-      "judul": "100 Ton Kurma dari Raja Salman Diserahkan ke Kemenag, Diberikan kepada Siapa?",
-      "link_berita": "https://khazanah.republika.co.id/berita/srvlm8483/100-ton-kurma-dari-raja-salman-diserahkan-ke-kemenag-diberikan-kepada-siapa"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Relawan Bakti BUMN Berbagi Edukasi dan Gizi untuk Siswa di Merauke",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srwxjw368/relawan-bakti-bumn-berbagi-edukasi-dan-gizi-untuk-siswa-di-merauke",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:23:57"
+    },
+    {
+      "judul": "Daftar Artis yang Cuma Ngefollow Satu Akun Instagram",
+      "link_berita": "https://ameera.republika.co.id/berita/srwxf3425/daftar-artis-yang-cuma-ngefollow-satu-akun-instagram",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:20:35"
+    },
+    {
+      "judul": "Wisata Bersih Berkelanjutan Menuju Pariwisata Berkualitas dan Bertanggungjawab",
+      "link_berita": "https://analisis.republika.co.id/berita/srwx70393/wisata-bersih-berkelanjutan-menuju-pariwisata-berkualitas-dan-bertanggungjawab",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:16:35"
+    },
+    {
+      "judul": "Kemeriahan Festival Jawa Barat di Washington DC",
+      "link_berita": "https://tv.republika.co.id/berita/srwx5r313/kemeriahan-festival-jawa-barat-di-washington-dc",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:15:35"
+    },
+    {
+      "judul": "Laksana Permainan Catur",
+      "link_berita": "https://rejogja.republika.co.id/berita/srwx5p291/laksana-permainan-catur",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:15:35"
+    },
+    {
+      "judul": "Tips Agar Pendengar Lebih Baik",
+      "link_berita": "https://diagnosa.id/posts/510196/tips-agar-pendengar-lebih-baik",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:06:35"
+    },
+    {
+      "judul": "Siti Fadia: Gelar Kejuaraan Campuran Asia 2025 Jadi Semangat Rebut Piala Sudirman",
+      "link_berita": "https://badmintonews.id/posts/510197/siti-fadia-gelar-kejuaraan-campuran-asia-2025-jadi-semangat-rebut-piala-sudirman",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:06:35"
+    },
+    {
+      "judul": "KSAL Resmikan Monumen MNEK 2025, Simbol Kerja Sama Maritim dan Perdamaian Dunia",
+      "link_berita": "https://magentatoday.id/posts/510200/ksal-resmikan-monumen-mnek-2025-simbol-kerja-sama-maritim-dan-perdamaian-dunia",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:06:35"
+    },
+    {
+      "judul": "Fahira Idris: Kepulauan Seribu Harus Jadi Wajah Kemajuan Jakarta",
+      "link_berita": "https://pemantiknews.id/posts/510207/fahira-idris-kepulauan-seribu-harus-jadi-wajah-kemajuan-jakarta",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:05:35"
+    },
+    {
+      "judul": "Groundhog DSP Hadirkan DKT Berbasis AI ke Pasar Digital Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/srwwoi512/groundhog-dsp-hadirkan-dkt-berbasis-ai-ke-pasar-digital-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:05:35"
+    },
+    {
+      "judul": "Catatan Cak AT: Fatwa Laut Saja Tak Cukup",
+      "link_berita": "https://ruzkaindonesia.id/posts/510211/catatan-cak-at-fatwa-laut-saja-tak-cukup",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:04:35"
+    },
+    {
+      "judul": "Ketua DPRD Optimistis PAD Jakarta Meningkat Meski tak Berstatus IKN",
+      "link_berita": "https://pemantiknews.id/posts/510216/ketua-dprd-optimistis-pad-jakarta-meningkat-meski-tak-berstatus-ikn",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:04:35"
+    },
+    {
+      "judul": "Bapanas: Presiden Ingin Harga Pangan Baik dan Stabil",
+      "link_berita": "https://news.republika.co.id/berita/srwp94451/bapanas-presiden-ingin-harga-pangan-baik-dan-stabil",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 04:00:35"
+    },
+    {
+      "judul": "Uni Eropa Tebar Insentif untuk Proyek Hijau",
+      "link_berita": "https://esgnow.republika.co.id/berita/srwv33416/uni-eropa-tebar-insentif-untuk-proyek-hijau",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:59:35"
+    },
+    {
+      "judul": "Hati-Hati Pangkas Anggaran Infrastruktur, Ini Konsekuensinya Menurut Ekonom",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srwwao490/hatihati-pangkas-anggaran-infrastruktur-ini-konsekuensinya-menurut-ekonom",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:56:35"
+    },
+    {
+      "judul": "Abaikan Eropa, AS-Rusia Sepakat Damai di Riyadh",
+      "link_berita": "https://news.republika.co.id/berita/srww24393/abaikan-eropa-asrusia-sepakat-damai-di-riyadh",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:51:35"
+    },
+    {
+      "judul": "4 Kali Mangkir, KPK Panggil Lagi Mbak Ita Sebagai Tersangka Dugaan Korupsi Pemkot Semarang",
+      "link_berita": "https://news.republika.co.id/berita/srwvjs377/4-kali-mangkir-kpk-panggil-lagi-mbak-ita-sebagai-tersangka-dugaan-korupsi-pemkot-semarang",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:40:35"
+    },
+    {
+      "judul": "Transjakarta Bakal Blokir TJ Card yang Disalahgunakan",
+      "link_berita": "https://news.republika.co.id/berita/srwvhf425/transjakarta-bakal-blokir-tj-card-yang-disalahgunakan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:39:35"
+    },
+    {
+      "judul": "Gedung Duwur Indramayu Diresmikan jadi Cagar Budaya",
+      "link_berita": "https://rejabar.republika.co.id/berita/srwvhe512/gedung-duwur-indramayu-diresmikan-jadi-cagar-budaya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:39:35"
+    },
+    {
+      "judul": "Hamas Siap Lepaskan Seluruh Sandera di Gaza",
+      "link_berita": "https://news.republika.co.id/berita/srwvds393/hamas-siap-lepaskan-seluruh-sandera-di-gaza",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:36:35"
+    },
+    {
+      "judul": "Hamas Siap Bebaskan Enam Sandera dan Pulangkan Empat Jenazah Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/srwvbi483/hamas-siap-bebaskan-enam-sandera-dan-pulangkan-empat-jenazah-israel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:35:35"
+    },
+    {
+      "judul": "Pemasangan Reklame Diberlakukan Moratorium, DPRD Kota Bandung Sedang Susun Perda",
+      "link_berita": "https://rejabar.republika.co.id/berita/srwv8b512/pemasangan-reklame-diberlakukan-moratorium-dprd-kota-bandung-sedang-susun-perda",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:33:35"
+    },
+    {
+      "judul": "ANTAM Masuk Daftar Perusahaan Terbaik Asia-Pasifik 2025",
+      "link_berita": "https://esgnow.republika.co.id/berita/srwv4n522/antam-masuk-daftar-perusahaan-terbaik-asiapasifik-2025",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:31:35"
+    },
+    {
+      "judul": "Lagi, Gunung Semeru Muntahkan Abu Vulkanik Hingga 900 Meter",
+      "link_berita": "https://news.republika.co.id/berita/srwp1f451/lagi-gunung-semeru-muntahkan-abu-vulkanik-hingga-900-meter",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:28:35"
+    },
+    {
       "judul": "Ini Pentingnya Ekosistem Perdagangan Karbon Bagi Indonesia",
       "link_berita": "https://esgnow.republika.co.id/berita/srwuva522/ini-pentingnya-ekosistem-perdagangan-karbon-bagi-indonesia",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:25:58"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:25:35"
     },
     {
       "judul": "UU Minerba Disahkan, Bahlil Sebut Untuk Penggerak Utama Ekonomi",
       "link_berita": "https://ekonomi.republika.co.id/berita/srwush522/uu-minerba-disahkan-bahlil-sebut-untuk-penggerak-utama-ekonomi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
-      "judul": "RI dan ASEAN Terancam Jadi Target Kelompok Peretas Spionase APT, Siapa Mereka?",
-      "link_berita": "https://news.republika.co.id/berita/srwuou483/ri-dan-asean-terancam-jadi-target-kelompok-peretas-spionase-apt-siapa-mereka",
+      "judul": "RI dan ASEAN Terancam Jadi Target Peretasan Kelompok Spionase APT, Siapa Mereka?",
+      "link_berita": "https://news.republika.co.id/berita/srwuou483/ri-dan-asean-terancam-jadi-target-peretasan-kelompok-spionase-apt-siapa-mereka",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:22:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Wujud Hilirisasi, DPR Dukung MIND ID Perkuat Ekosistem Industri Baterai Kendaraan Listrik",
       "link_berita": "https://ekonomi.republika.co.id/berita/srwunl522/wujud-hilirisasi-dpr-dukung-mind-id-perkuat-ekosistem-industri-baterai-kendaraan-listrik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:21:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Dari Gerobak Tahu ke Dunia IT: Perjuangan Mahasiswa UBSI Kampus Fatmawati Raih Mimpi",
       "link_berita": "https://news.republika.co.id/berita/srwug7472/dari-gerobak-tahu-ke-dunia-it-perjuangan-mahasiswa-ubsi-kampus-fatmawati-raih-mimpi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:17:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Program CLP Cyber University, Siapkan Lulusan Gapai Karier Cemerlang di Industri",
       "link_berita": "https://news.republika.co.id/berita/srwu2b368/program-clp-cyber-university-siapkan-lulusan-gapai-karier-cemerlang-di-industri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:08:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Takut Ditangkap di Amsterdam, Komandan Tank Israel Pelaku Genosida Kabur",
       "link_berita": "https://khazanah.republika.co.id/berita/srwtwn483/takut-ditangkap-di-amsterdam-komandan-tank-israel-pelaku-genosida-kabur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:05:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Kata Istana tentang Marak Aksi Mahasiswa Menyoal Kebijakan Pemerintah",
       "link_berita": "https://news.republika.co.id/berita/srwow9451/kata-istana-tentang-marak-aksi-mahasiswa-menyoal-kebijakan-pemerintah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:02:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Jangan Nunggu Deadline, Buruan Daftar Gelombang 2 PMB UBSI",
       "link_berita": "https://news.republika.co.id/berita/srwto3472/jangan-nunggu-deadline-buruan-daftar-gelombang-2-pmb-ubsi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:00:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Penelitian UI Ungkap Peran Penting Perempuan Hadapi Dampak Perubahan Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/srwr2u416/penelitian-ui-ungkap-peran-penting-perempuan-hadapi-dampak-perubahan-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:00:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Cerita di Balik Konversi Minyak Tanah ke LPG",
       "link_berita": "https://tv.republika.co.id/berita/srwtml418/cerita-di-balik-konversi-minyak-tanah-ke-lpg",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:59:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 03:24:35"
     },
     {
       "judul": "Beli Mobil Listrik di IIMS 2025? Bisa Dapat E-Voucher PLN Hingga Rp 2 Juta!",
       "link_berita": "https://ekonomi.republika.co.id/berita/srwtds368/beli-mobil-listrik-di-iims-2025-bisa-dapat-evoucher-pln-hingga-rp-2-juta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:54:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Apa Pentingnya Melakukan Transformasi Digital?",
       "link_berita": "https://tv.republika.co.id/berita/srwt6q418/apa-pentingnya-melakukan-transformasi-digital",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:49:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Setelah Nikah, Angga Yunanda dan Shenina Hanya Follow Satu Akun IG",
       "link_berita": "https://ameera.republika.co.id/berita/srwsye425/setelah-nikah-angga-yunanda-dan-shenina-hanya-follow-satu-akun-ig",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:44:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Gasperini Kecam Lookman Gagal Penalti yang Buat Atalanta Tersingkir dari Liga Champions",
       "link_berita": "https://news.republika.co.id/berita/srwseo348/gasperini-kecam-lookman-gagal-penalti-yang-buat-atalanta-tersingkir-dari-liga-champions",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:33:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Ribut dengan Turis Australia, 12 Petugas Keamanan Finns Beach Club Jadi Tersangka",
       "link_berita": "https://news.republika.co.id/berita/srwseb377/ribut-dengan-turis-australia-12-petugas-keamanan-finns-beach-club-jadi-tersangka",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:32:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Mau Dapatkan Kartu Layanan Gratis Transjakarta? Begini Caranya",
       "link_berita": "https://news.republika.co.id/berita/srws0i451/mau-dapatkan-kartu-layanan-gratis-transjakarta-begini-caranya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Komisi X DPR Sambut Baik Pembatalan Izin Kampus Kelola Tambang",
       "link_berita": "https://news.republika.co.id/berita/srwrmp487/komisi-x-dpr-sambut-baik-pembatalan-izin-kampus-kelola-tambang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Jenis Musik Ini Diklaim Bisa Tingkatkan Produktivitas",
       "link_berita": "https://ameera.republika.co.id/berita/srwr96425/jenis-musik-ini-diklaim-bisa-tingkatkan-produktivitas",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Prabowo Ingatkan Modus Kecurangan MBG, Minyak Goreng Dipakai Sampai Hitam",
       "link_berita": "https://news.republika.co.id/berita/srwr7k377/prabowo-ingatkan-modus-kecurangan-mbg-minyak-goreng-dipakai-sampai-hitam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Ramadhan Pembuka Pintu Langit",
       "link_berita": "https://retizen.republika.co.id/posts/510178/ramadhan-pembuka-pintu-langit",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Bisakah Saya Tetap Mencintai Indonesia tanpa Syarat?",
       "link_berita": "https://retizen.republika.co.id/posts/510190/bisakah-saya-tetap-mencintai-indonesia-tanpa-syarat",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Lambannya Penetapan Cagar Budaya Kota Palembang",
       "link_berita": "https://kingdomsriwijaya.id/posts/510153/lambannya-penetapan-cagar-budaya-kota-palembang",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Pemerintah Siap Dukung Ajang E-Sport FM Pertama di Asia",
       "link_berita": "https://sajada.id/posts/510155/pemerintah-siap-dukung-ajang-e-sport-fm-pertama-di-asia",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Kisah Sumur Raumah Perumda Air Minum Utsman bin Affan",
       "link_berita": "https://kingdomsriwijaya.id/posts/510163/kisah-sumur-raumah-perumda-air-minum-utsman-bin-affan",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
       "judul": "Penelitian IRB Barcelona: Minyak Kelapa Sawit Bisa Tingkatkan Penyebaran Kanker",
       "link_berita": "https://impresiupdate.id/posts/510156/penelitian-irb-barcelona-minyak-kelapa-sawit-bisa-tingkatkan-penyebaran-kanker",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:24:35"
     },
     {
-      "judul": "Kemenag Kerja Sama dengan Kemendes untuk Genjot Ekonomi Umat Pedesaan",
-      "link_berita": "https://khazanah.republika.co.id/berita/srwoh1451/kemenag-kerja-sama-dengan-kemendes-untuk-genjot-ekonomi-umat-pedesaan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Hasil Studi Baru: Inti Bumi Bagian Dalam Mungkin Berubah Bentuk",
-      "link_berita": "https://impresiupdate.id/posts/510158/hasil-studi-baru-inti-bumi-bagian-dalam-mungkin-berubah-bentuk",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Album Eksklusif Baru Peter Gabriel Bakal Diberi Judul O/I",
-      "link_berita": "https://impresiupdate.id/posts/510160/album-eksklusif-baru-peter-gabriel-bakal-diberi-judul-oi",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Wow... Cukup CT Scan 10 Menit Bisa Bikin Hipertensi Bablas",
-      "link_berita": "https://impresiupdate.id/posts/510161/wow-cukup-ct-scan-10-menit-bisa-bikin-hipertensi-bablas",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Menikmati Kompetisi Kreatifitas Seni dan Otomotif Lewat Your Art Your Icon di IIMS 2025",
-      "link_berita": "https://motoresto.id/posts/510108/menikmati-kompetisi-kreatifitas-seni-dan-otomotif-lewat-your-art-your-icon-di-iims-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Pembuatan Paspor Calon Jamaah Haji Blitar Ditargetkan Selesai Pertengahan April",
-      "link_berita": "https://visual.republika.co.id/berita/srvxf5375/pembuatan-paspor-calon-jamaah-haji-blitar-ditargetkan-selesai-pertengahan-april",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Pesan KSAD: Angkatan Darat Harus Diisi Orang-Orang yang Gila",
-      "link_berita": "https://seputarmiliter.id/posts/510180/pesan-ksad-angkatan-darat-harus-diisi-orang-orang-yang-gila",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Guardiola Mengaku Berbohong Soal Peluang City Menang di Kandang Madrid Hanya Satu Persen",
-      "link_berita": "https://news.republika.co.id/berita/srwqt5348/guardiola-mengaku-berbohong-soal-peluang-city-menang-di-kandang-madrid-hanya-satu-persen",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 02:26:17"
-    },
-    {
-      "judul": "Hasto Bakal Adukan Penyidik Rossa Purba Bekti ke Dewas KPK, Ini Alasannya",
-      "link_berita": "https://news.republika.co.id/berita/srwqff487/hasto-bakal-adukan-penyidik-rossa-purba-bekti-ke-dewas-kpk-ini-alasannya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Terungkap, Microsoft dan Open AI Dukung Pembantaian di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/srwqe5393/terungkap-microsoft-dan-open-ai-dukung-pembantaian-di-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Pendaftar SNBP 2025 Capai 776.515 Orang, Sebanyak 495.425 Orang akan Gugur",
-      "link_berita": "https://kampus.republika.co.id/posts/510185/pendaftar-snbp-2025-capai-776-515-orang-sebanyak-495-425-orang-akan-gugur",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Pemkot Jakpus Aktifkan Bank Sampah di Seluruh RW",
-      "link_berita": "https://esgnow.republika.co.id/berita/srwpqj416/pemkot-jakpus-aktifkan-bank-sampah-di-seluruh-rw",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Jelang Puasa Ramadhan, Ribuan Miras di Bandung Disita",
-      "link_berita": "https://rejabar.republika.co.id/berita/srwppu512/jelang-puasa-ramadhan-ribuan-miras-di-bandung-disita",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Anggota DPR Minta Calon Jamaah Dilarang Utang ke Bank Buat Daftar Haji",
-      "link_berita": "https://news.republika.co.id/berita/srwpho377/anggota-dpr-minta-calon-jamaah-dilarang-utang-ke-bank-buat-daftar-haji",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Pemprov Sulawesi Selatan dan Unhas Kolaborasi Wujudkan Generasi Bebas Stunting",
-      "link_berita": "https://news.republika.co.id/berita/srwo6j451/pemprov-sulawesi-selatan-dan-unhas-kolaborasi-wujudkan-generasi-bebas-stunting",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Ulasan Film Cleaner: Aksi Cerdas dengan Ketegangan Memikat",
-      "link_berita": "https://ameera.republika.co.id/berita/srvd1u425/ulasan-film-cleaner-aksi-cerdas-dengan-ketegangan-memikat",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Satgas Cartenz Tangkap Mantan Anggota Polri Curi 4 Senpi yang Gabung KKB",
-      "link_berita": "https://news.republika.co.id/berita/srwovd484/satgas-cartenz-tangkap-mantan-anggota-polri-curi-4-senpi-yang-gabung-kkb",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Direktur Mossad Digeser dari Negosiasi Tahap Dua Gencatan Senjata, Ada Apa?",
-      "link_berita": "https://news.republika.co.id/berita/srwod8377/direktur-mossad-digeser-dari-negosiasi-tahap-dua-gencatan-senjata-ada-apa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Efisiensi Anggaran, Bimas Buddha Pastikan tak Pengaruhi Program Beasiswa",
-      "link_berita": "https://news.republika.co.id/berita/srwnep451/efisiensi-anggaran-bimas-buddha-pastikan-tak-pengaruhi-program-beasiswa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Bank Danamon Berharap BI Turunkan Suku Bunga",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srwa65490/bank-danamon-berharap-bi-turunkan-suku-bunga",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 01:26:17"
-    },
-    {
-      "judul": "Jelang Ramadhan, Dokter Ajak Umat Islam Mulai Terapkan Pola Hidup Sehat",
-      "link_berita": "https://ameera.republika.co.id/berita/srwnxm366/jelang-ramadhan-dokter-ajak-umat-islam-mulai-terapkan-pola-hidup-sehat",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 00:26:17"
-    },
-    {
-      "judul": "Mengajak Masyarakat Kurangi Penggunaan Botol Plasik Sekali Pakai di CFD",
-      "link_berita": "https://news.republika.co.id/berita/srwo2l484/mengajak-masyarakat-kurangi-penggunaan-botol-plasik-sekali-pakai-di-cfd",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 00:26:17"
-    },
-    {
-      "judul": "Milan Gagal di Playoff Liga Champions, Conceicao: Bukan Salah Hernandez, tapi Saya",
-      "link_berita": "https://news.republika.co.id/berita/srwnnf348/milan-gagal-di-playoff-liga-champions-conceicao-bukan-salah-hernandez-tapi-saya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 00:26:17"
-    },
-    {
-      "judul": "Prabowo Dijadwalkan Hadiri Sidang Istimewa Laporan Tahunan MA 2025",
-      "link_berita": "https://news.republika.co.id/berita/srwnh4484/prabowo-dijadwalkan-hadiri-sidang-istimewa-laporan-tahunan-ma-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 00:26:17"
-    },
-    {
-      "judul": "Setelah Nikah, Angga Yunanda dan Shenina Hanya Follow Satu Akun IG",
-      "link_berita": "https://ameera.republika.co.id/berita/srwsye425/setelah-nikah-angga-yunanda-dan-shenina-hanya-follow-satu-akun-ig",
+      "judul": "Daftar Artis yang Cuma Ngefollow Satu Akun Instagram",
+      "link_berita": "https://ameera.republika.co.id/berita/srwxf3425/daftar-artis-yang-cuma-ngefollow-satu-akun-instagram",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 09:44:00"
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:21:00"
     },
     {
-      "judul": "Ini Pentingnya Ekosistem Perdagangan Karbon Bagi Indonesia",
-      "link_berita": "https://esgnow.republika.co.id/berita/srwuva522/ini-pentingnya-ekosistem-perdagangan-karbon-bagi-indonesia",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:25:00"
+      "judul": "ANTAM Masuk Daftar Perusahaan Terbaik Asia-Pasifik 2025",
+      "link_berita": "https://esgnow.republika.co.id/berita/srwv4n522/antam-masuk-daftar-perusahaan-terbaik-asiapasifik-2025",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:31:00"
     },
     {
-      "judul": "UU Minerba Disahkan, Bahlil Sebut Untuk Penggerak Utama Ekonomi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/srwush522/uu-minerba-disahkan-bahlil-sebut-untuk-penggerak-utama-ekonomi",
-      "kategori": "Energi",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:24:00"
+      "judul": "Relawan Bakti BUMN Berbagi Edukasi dan Gizi untuk Siswa di Merauke",
+      "link_berita": "https://ekonomi.republika.co.id/berita/srwxjw368/relawan-bakti-bumn-berbagi-edukasi-dan-gizi-untuk-siswa-di-merauke",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:23:00"
     },
     {
       "judul": "Ahli Dermatologi Lihat Potensi Besar Industri Kosmetik Halal Indonesia",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 18 Feb 2025, 18:42:00"
     },
     {
-      "judul": "RI dan ASEAN Terancam Jadi Target Kelompok Peretas Spionase APT, Siapa Mereka?",
-      "link_berita": "https://news.republika.co.id/berita/srwuou483/ri-dan-asean-terancam-jadi-target-kelompok-peretas-spionase-apt-siapa-mereka",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 19 Feb 2025, 10:22:00"
+      "judul": "Wisata Bersih Berkelanjutan Menuju Pariwisata Berkualitas dan Bertanggungjawab",
+      "link_berita": "https://analisis.republika.co.id/berita/srwx70393/wisata-bersih-berkelanjutan-menuju-pariwisata-berkualitas-dan-bertanggungjawab",
+      "kategori": "Wacana",
+      "tanggal_terbit": "Wednesday, 19 Feb 2025, 11:16:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 19 Feb 2025, 10:26:17"
+  "waktu_scraping": "Wednesday, 19 Feb 2025, 11:24:35"
 }
