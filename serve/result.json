@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Banjir di 8 Kecamatan, Kota Bekasi Tetapkan Status Tanggap Darurat",
+      "link_berita": "https://news.republika.co.id/berita/ssmscn377/banjir-di-8-kecamatan-kota-bekasi-tetapkan-status-tanggap-darurat"
+    },
+    {
       "judul": "Sebab Musabab Petaka Kali Bekasi Menguap, Banjir Dinilai Lebih Buruk dari 2020",
       "link_berita": "https://news.republika.co.id/berita/ssmob0377/sebab-musabab-petaka-kali-bekasi-menguap-banjir-dinilai-lebih-buruk-dari-2020"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Panduan Aman Puasa Bagi Anak dengan Diabetes Menurut Dokter",
       "link_berita": "https://khazanah.republika.co.id/berita/ssmiiw425/panduan-aman-puasa-bagi-anak-dengan-diabetes-menurut-dokter"
-    },
-    {
-      "judul": "Banjir Jakarta Makin Meluas, Ini Daftar 114 RT yang Masih Terendam Banjir",
-      "link_berita": "https://republika.co.id/berita//ssmhjb348/banjir-jakarta-makin-meluas-ini-daftar-114-rt-yang-masih-terendam-banjir"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pemerintah Segera Umumkan Skema Pencairan THR",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssms0w370/pemerintah-segera-umumkan-skema-pencairan-thr"
+    },
+    {
+      "judul": "Hindari Lonjakan Gula Darah Saat Buka Puasa, Ini Rekomendasi Takjil Sehat dari Dokter",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssmrug425/hindari-lonjakan-gula-darah-saat-buka-puasa-ini-rekomendasi-takjil-sehat-dari-dokter"
+    },
     {
       "judul": "KTT Arab Tunjuk Komite Pelajari Pengusiran Rakyat Palestina Sebagai Genosida",
       "link_berita": "https://khazanah.republika.co.id/berita/ssmpid366/ktt-arab-tunjuk-komite-pelajari-pengusiran-rakyat-palestina-sebagai-genosida"
@@ -73,322 +81,314 @@
     {
       "judul": "Ramadhan di Masjid Agung Jateng, dari Ngaji Kitab Kuning hingga Bagikan 1.000 Takjil",
       "link_berita": "https://khazanah.republika.co.id/berita/sslld6416/ramadhan-di-masjid-agung-jateng-dari-ngaji-kitab-kuning-hingga-bagikan-1000-takjil"
-    },
-    {
-      "judul": "Berburu Takjil Sembari Belajar Sejarah Kuliner Yogya di Gelora Rasa Ramadhan Republika",
-      "link_berita": "https://rejogja.republika.co.id/berita/sslj0d282/berburu-takjil-sembari-belajar-sejarah-kuliner-yogya-di-gelora-rasa-ramadhan-republika"
-    },
-    {
-      "judul": "Penampakan Banjir di Rawajati Akibat Luapan Kali Ciliwung",
-      "link_berita": "https://visual.republika.co.id/berita/ssldl0375/penampakan-banjir-di-rawajati-akibat-luapan-kali-ciliwung"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Resep Tahu Goreng Sambal Kecap, Ide Takjil Simpel Ala Rumahan",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssmuji425/resep-tahu-goreng-sambal-kecap-ide-takjil-simpel-ala-rumahan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 04:16:28"
+    },
+    {
+      "judul": "M Busyro Muqoddas Terpilih Jadi Anggota Dewan Pers Periode 2025-2028",
+      "link_berita": "https://news.republika.co.id/berita/ssmu18484/m-busyro-muqoddas-terpilih-jadi-anggota-dewan-pers-periode-20252028",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 04:05:28"
+    },
+    {
+      "judul": "Begini Keterlibatan TNI dalam Penanggulangan Banjir",
+      "link_berita": "https://news.republika.co.id/berita/ssmdey451/begini-keterlibatan-tni-dalam-penanggulangan-banjir",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 04:03:28"
+    },
+    {
+      "judul": "Dikecam Mitra Dagang, Trump Ogah Batalkan Tarif Baru: Kami Ditipu Puluhan Tahun",
+      "link_berita": "https://news.republika.co.id/berita/ssmtv5377/dikecam-mitra-dagang-trump-ogah-batalkan-tarif-baru-kami-ditipu-puluhan-tahun",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 04:01:28"
+    },
+    {
+      "judul": "Bencana Banjir 8 Kecamatan, Bekasi Berlakukan Status Tanggap Darurat",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssmtj3512/bencana-banjir-8-kecamatan-bekasi-berlakukan-status-tanggap-darurat",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:54:28"
+    },
+    {
+      "judul": "Korban Banjir di Jaktim Minta Bantuan Fokus pada Kesehatan Anak",
+      "link_berita": "https://ameera.republika.co.id/berita/ssmtgf425/korban-banjir-di-jaktim-minta-bantuan-fokus-pada-kesehatan-anak",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:53:28"
+    },
+    {
+      "judul": "BRI Kembali Gelar Program Desa BRILian 2025, Dukung Asta Cita dalam Memberdayakan Desa",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssmt9m472/bri-kembali-gelar-program-desa-brilian-2025-dukung-asta-cita-dalam-memberdayakan-desa",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:49:28"
+    },
+    {
+      "judul": "Perang Dagang Makin Horor, Harga Emas Melejit",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssmt7z490/perang-dagang-makin-horor-harga-emas-melejit",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:48:28"
+    },
+    {
+      "judul": "Rektor Cyber University Beberkan Pentingnya Jadi 'Trendsformers' di Sektor Pendidikan",
+      "link_berita": "https://news.republika.co.id/berita/ssmt79368/rektor-cyber-university-beberkan-pentingnya-jadi-trendsformers-di-sektor-pendidikan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:47:28"
+    },
+    {
+      "judul": "Gubernur Dedi Mulyadi Terapkan Kurikulum Wajib Militer Bagi Siswa di Jawa Barat",
+      "link_berita": "https://news.republika.co.id/berita/ssmsrh377/gubernur-dedi-mulyadi-terapkan-kurikulum-wajib-militer-bagi-siswa-di-jawa-barat",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:38:28"
+    },
+    {
+      "judul": "Artificial Intelligence Jadi Tantangan dan Peluang Perpustakaan Kampus",
+      "link_berita": "https://news.republika.co.id/berita/ssmsnj368/artificial-intelligence-jadi-tantangan-dan-peluang-perpustakaan-kampus",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:35:28"
+    },
+    {
+      "judul": "Banjir di 8 Kecamatan, Kota Bekasi Tetapkan Status Tanggap Darurat",
+      "link_berita": "https://news.republika.co.id/berita/ssmscn377/banjir-di-8-kecamatan-kota-bekasi-tetapkan-status-tanggap-darurat",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:29:28"
+    },
+    {
       "judul": "Pemerintah Segera Umumkan Skema Pencairan THR",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssms0w370/pemerintah-segera-umumkan-skema-pencairan-thr",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:22:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Hindari Lonjakan Gula Darah Saat Buka Puasa, Ini Rekomendasi Takjil Sehat dari Dokter",
       "link_berita": "https://khazanah.republika.co.id/berita/ssmrug425/hindari-lonjakan-gula-darah-saat-buka-puasa-ini-rekomendasi-takjil-sehat-dari-dokter",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:18:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Pimpin Rapat Pimpinan Perdana, Gubernur Rudy: Kaltim Harus Berakselerasi dan Fokus",
       "link_berita": "https://republika.co.id/berita//ssmr0e349/pimpin-rapat-pimpinan-perdana-gubernur-rudy-kaltim-harus-berakselerasi-dan-fokus",
       "kategori": "Rekalimantan",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:15:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Rupiah Menguat Seiring Kekhawatiran Terhadap Pelambatan Ekonomi AS, IHSG Mendatar",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmrgo370/rupiah-menguat-seiring-kekhawatiran-terhadap-pelambatan-ekonomi-as-ihsg-mendatar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:10:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Tahun Ajaran Baru Dedi Mulyadi Terapkan Kurikulum Wajib Militer, Ini Tujuannya",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmrf1512/tahun-ajaran-baru-dedi-mulyadi-terapkan-kurikulum-wajib-militer-ini-tujuannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:09:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Revisi UU TNI, ini yang Wajib Diperhatikan",
       "link_berita": "https://news.republika.co.id/berita/ssmd9p451/revisi-uu-tni-ini-yang-wajib-diperhatikan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:01:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Garuda Respons Petinggi Bawaan Dirut yang Gajinya Ratusan Juta",
       "link_berita": "https://news.republika.co.id/berita/ssmr14484/garuda-respons-petinggi-bawaan-dirut-yang-gajinya-ratusan-juta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:01:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Rumahnya Terendam Banjir, Warga Pejaten Timur Mengungsi di Kuburan",
       "link_berita": "https://visual.republika.co.id/berita/sslzb1375/rumahnya-terendam-banjir-warga-pejaten-timur-mengungsi-di-kuburan",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:00:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Bogor Tetapkan Status Darurat Bencana Hidrometeorologi, Dedi Mulyadi Evaluasi Tata Ruang",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmqxd512/bogor-tetapkan-status-darurat-bencana-hidrometeorologi-dedi-mulyadi-evaluasi-tata-ruang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:58:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 03:24:28"
     },
     {
       "judul": "Banjir Datang, 5 Penyakit Ini Mengintai, Waspada!",
       "link_berita": "https://ameera.republika.co.id/berita/ssmqnj425/banjir-datang-5-penyakit-ini-mengintai-waspada",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:52:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Volvo EC210, Ekskavator Sistem Hidraulik yang Hemat Bakar",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmqmi349/volvo-ec210-ekskavator-sistem-hidraulik-yang-hemat-bakar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:52:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "BRI Terus Perluas Jaringan Agen BRILink, Jangkau 67 Ribu Desa dengan Transaksi Rp1.589 T",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmq7e512/bri-terus-perluas-jaringan-agen-brilink-jangkau-67-ribu-desa-dengan-transaksi-rp1589-t",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:43:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Dipicu Asmara, Ini Kronologi Pengusaha Koi Teror Perempuan di Bandung Barat Pakai Senpi",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmpqv512/dipicu-asmara-ini-kronologi-pengusaha-koi-teror-perempuan-di-bandung-barat-pakai-senpi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:33:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "KTT Arab Tunjuk Komite Pelajari Pengusiran Rakyat Palestina Sebagai Genosida",
       "link_berita": "https://khazanah.republika.co.id/berita/ssmpid366/ktt-arab-tunjuk-komite-pelajari-pengusiran-rakyat-palestina-sebagai-genosida",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Kapolri Resmikan Program 100 Ribu Rumah Bagi Polisi di Karawang",
       "link_berita": "https://news.republika.co.id/berita/ssmpen484/kapolri-resmikan-program-100-ribu-rumah-bagi-polisi-di-karawang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Warga Sudah Bisa Lewati Jembatan Kuning Setelah Banjir Tanjung Barat Surut",
       "link_berita": "https://news.republika.co.id/berita/ssmp31425/warga-sudah-bisa-lewati-jembatan-kuning-setelah-banjir-tanjung-barat-surut",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Pemprov Realokasi Anggaran Rp 5,4 Triliun untuk Penuhi Janji Dedi Mulyadi",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmox9512/pemprov-realokasi-anggaran-rp-54-triliun-untuk-penuhi-janji-dedi-mulyadi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Presiden Prabowo akan Bangun Sekolah Rakyat dan Unggulan",
       "link_berita": "https://news.republika.co.id/berita/ssmow7484/presiden-prabowo-akan-bangun-sekolah-rakyat-dan-unggulan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Harga Emas Naik Lagi, Kini ke Angka Rp 1,709 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmomz370/harga-emas-naik-lagi-kini-ke-angka-rp-1709-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Gebrakan Prabowo, Menteri Ara: Kuota Rumah untuk MBR Ditambah",
       "link_berita": "https://news.republika.co.id/berita/ssmc8f451/gebrakan-prabowo-menteri-ara-kuota-rumah-untuk-mbr-ditambah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Sebab Musabab Petaka Kali Bekasi Menguap, Banjir Dinilai Lebih Buruk dari 2020",
       "link_berita": "https://news.republika.co.id/berita/ssmob0377/sebab-musabab-petaka-kali-bekasi-menguap-banjir-dinilai-lebih-buruk-dari-2020",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 02:24:28"
     },
     {
       "judul": "Suasana Berbuka Puasa Pengungsi Banjir di Bekasi",
       "link_berita": "https://tv.republika.co.id/berita/ssmnih418/suasana-berbuka-puasa-pengungsi-banjir-di-bekasi",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Pelatih Persib Bandung Bojan Hodak Waspadai Ze Valente Cs",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmnfh512/pelatih-persib-bandung-bojan-hodak-waspadai-ze-valente-cs",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Perang Dagang Trump, Kanada akan Buat Rakyat Amerika Menderita",
       "link_berita": "https://news.republika.co.id/berita/ssmn8y377/perang-dagang-trump-kanada-akan-buat-rakyat-amerika-menderita",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Harga BBM di AS Berpotensi Naik Karena Kanada Balas Penerapan Tarif",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmmvq370/harga-bbm-di-as-berpotensi-naik-karena-kanada-balas-penerapan-tarif",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Ngatiyana akan Gelar Retret Bagi Pejabat Eselon 2 dan 3 Pemkot Cimahi, Ini Tujuannya",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmmon512/ngatiyana-akan-gelar-retret-bagi-pejabat-eselon-2-dan-3-pemkot-cimahi-ini-tujuannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Begini Dampaknya jika Kendaraan Menggunakan Bensin Oplosan",
       "link_berita": "https://motoresto.id/posts/512579/begini-dampaknya-jika-kendaraan-menggunakan-bensin-oplosan",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Piutang Pembiayaan Naik 6,04 Persen yoy pada Januari 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmma1370/piutang-pembiayaan-naik-604-persen-yoy-pada-januari-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Eks Ketua DPRD Kota Bandung Dicecar Jaksa dan Hakim Saat Jadi Saksi Bandung Smart City",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmm4e512/eks-ketua-dprd-kota-bandung-dicecar-jaksa-dan-hakim-saat-jadi-saksi-bandung-smart-city",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Eks Sekda Ema dan Eks Walkot Bandung Yana, Berseteru di Sidang Kasus Bandung Smart City",
       "link_berita": "https://rejabar.republika.co.id/berita/ssmlkj512/eks-sekda-ema-dan-eks-walkot-bandung-yana-berseteru-di-sidang-kasus-bandung-smart-city",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Begini Kata Wamen PU tentang Langkah Strategis Pemerintah Antisipasi Banjir",
       "link_berita": "https://news.republika.co.id/berita/ssmc10451/begini-kata-wamen-pu-tentang-langkah-strategis-pemerintah-antisipasi-banjir",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Bocah Laki-Laki yang Terseret Arus Kali Ciliwung Ditemukan di Dekat Rumahnya",
       "link_berita": "https://news.republika.co.id/berita/ssmlfo377/bocah-lakilaki-yang-terseret-arus-kali-ciliwung-ditemukan-di-dekat-rumahnya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 01:24:28"
     },
     {
       "judul": "Menlu Iran Javad Zarif Bukan Mundur, tapi Dipaksa Mengundurkan Diri?",
       "link_berita": "https://news.republika.co.id/berita/ssmkzt377/menlu-iran-javad-zarif-bukan-mundur-tapi-dipaksa-mengundurkan-diri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:24:28"
     },
     {
       "judul": "Dua Risiko Kesehatan yang Harus Diwaspadai Pendaki Ketika Naik Gunung",
       "link_berita": "https://ameera.republika.co.id/berita/ssmkmf425/dua-risiko-kesehatan-yang-harus-diwaspadai-pendaki-ketika-naik-gunung",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:24:28"
     },
     {
       "judul": "OJK Sebut Aset Jiwasraya Bisa untuk Kembalikan Dana Nasabah",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmker370/ojk-sebut-aset-jiwasraya-bisa-untuk-kembalikan-dana-nasabah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:24:28"
     },
     {
       "judul": "Jika Mobil Terkena Banjir, Ini yang Jangan dan Harus Dilakukan",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssmi6l348/jika-mobil-terkena-banjir-ini-yang-jangan-dan-harus-dilakukan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:24:28"
     },
     {
       "judul": "Kakak Kandung Pemain Timnas Indonesia Ini Bertahan di Milan Sampai Juni 2030",
       "link_berita": "https://news.republika.co.id/berita/ssmig5348/kakak-kandung-pemain-timnas-indonesia-ini-bertahan-di-milan-sampai-juni-2030",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:24:28"
     },
     {
       "judul": "Imbauan Penting Kemendagri untuk Cegah Adanya Korban Banjir",
       "link_berita": "https://news.republika.co.id/berita/ssmbsr451/imbauan-penting-kemendagri-untuk-cegah-adanya-korban-banjir",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:24:28"
     },
     {
-      "judul": "Tadarus Massal Santri di Ponpes Darussalam Ciamis",
-      "link_berita": "https://visual.republika.co.id/berita/sslz84375/tadarus-massal-santri-di-ponpes-darussalam-ciamis",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 00:28:01"
-    },
-    {
-      "judul": "Panduan Aman Puasa Bagi Anak dengan Diabetes Menurut Dokter",
-      "link_berita": "https://khazanah.republika.co.id/berita/ssmiiw425/panduan-aman-puasa-bagi-anak-dengan-diabetes-menurut-dokter",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Bayern Incar Kemenangan Pertama atas Leverkusen dari Empat Kali Percobaan Musim Ini",
-      "link_berita": "https://news.republika.co.id/berita/ssm8ct348/bayern-incar-kemenangan-pertama-atas-leverkusen-dari-empat-kali-percobaan-musim-ini",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Kemenkes Sebut Kandungan Gizi MBG tak Berubah Meski Puasa",
-      "link_berita": "https://ameera.republika.co.id/berita/ssmhrs425/kemenkes-sebut-kandungan-gizi-mbg-tak-berubah-meski-puasa",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Pelindo Solusi Logistik Tingkatkan Efisiensi Arus Barang di Pelabuhan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssmb24370/pelindo-solusi-logistik-tingkatkan-efisiensi-arus-barang-di-pelabuhan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Banjir Jakarta Makin Meluas, Ini Daftar 114 RT yang Masih Terendam Banjir",
-      "link_berita": "https://republika.co.id/berita//ssmhjb348/banjir-jakarta-makin-meluas-ini-daftar-114-rt-yang-masih-terendam-banjir",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Arsenal Mengamuk, Bantai PSV 7-1 pada Leg Pertama 16 Besar Liga Champions",
-      "link_berita": "https://news.republika.co.id/berita/ssmh0m348/arsenal-mengamuk-bantai-psv-71-pada-leg-pertama-16-besar-liga-champions",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini 5 Maret 2025: Kota Palembang Berawan",
-      "link_berita": "https://news.republika.co.id/berita/ssmgs7441563777/prakiraan-cuaca-hari-ini-5-maret-2025-kota-palembang-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Terburu-buru Baca Alquran Selama Ramadhan, Ternyata Rasulullah Melarang Mengkhatamkan Alquran Terlalu Cepat",
-      "link_berita": "https://kurusetra.net/posts/512643/terburu-buru-baca-alquran-selama-ramadhan-ternyata-rasulullah-melarang-mengkhatamkan-alquran-terlalu-cepat",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Kecamatan Sukmajaya Depok Terbitkan Aturan Ketertiban Umum Selama Ramadhan 1446 H, Antisipasi Kebakaran dan Pencurian",
-      "link_berita": "https://ruzkaindonesia.id/posts/512623/kecamatan-sukmajaya-depok-terbitkan-aturan-ketertiban-umum-selama-ramadhan-1446-h-antisipasi-kebakaran-dan-pencurian",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Green Day Batalkan Konser Terakhir di Australia Saat Topan Alfred Menerjang Queensland",
-      "link_berita": "https://impresiupdate.id/posts/512630/green-day-batalkan-konser-terakhir-di-australia-saat-topan-alfred-menerjang-queensland",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Pelatih Benfica Perkirakan Lebih Banyak Kejutan Saat Timnya Lawan Barcelona",
-      "link_berita": "https://news.republika.co.id/berita/ssm7ik348/pelatih-benfica-perkirakan-lebih-banyak-kejutan-saat-timnya-lawan-barcelona",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:28:01"
-    },
-    {
-      "judul": "Banjir Datang, 5 Penyakit Ini Mengintai, Waspada!",
-      "link_berita": "https://ameera.republika.co.id/berita/ssmqnj425/banjir-datang-5-penyakit-ini-mengintai-waspada",
+      "judul": "Korban Banjir di Jaktim Minta Bantuan Fokus pada Kesehatan Anak",
+      "link_berita": "https://ameera.republika.co.id/berita/ssmtgf425/korban-banjir-di-jaktim-minta-bantuan-fokus-pada-kesehatan-anak",
       "kategori": "Health",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 09:52:00"
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 10:53:00"
     },
     {
       "judul": "Es Antartika Mencair, Iklim Memburuk",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 04 Mar 2025, 18:38:00"
     },
     {
-      "judul": "Pemerintah Segera Umumkan Skema Pencairan THR",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssms0w370/pemerintah-segera-umumkan-skema-pencairan-thr",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 10:22:00"
+      "judul": "BRI Kembali Gelar Program Desa BRILian 2025, Dukung Asta Cita dalam Memberdayakan Desa",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssmt9m472/bri-kembali-gelar-program-desa-brilian-2025-dukung-asta-cita-dalam-memberdayakan-desa",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 10:48:00"
     },
     {
       "judul": "OJK Ungkap 8 UUS Asuransi Bakal Alihkan Portofolionya Tahun Ini",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 04 Mar 2025, 23:45:00"
     },
     {
-      "judul": "Pimpin Rapat Pimpinan Perdana, Gubernur Rudy: Kaltim Harus Berakselerasi dan Fokus",
-      "link_berita": "https://republika.co.id/berita//ssmr0e349/pimpin-rapat-pimpinan-perdana-gubernur-rudy-kaltim-harus-berakselerasi-dan-fokus",
-      "kategori": "Kalimantan",
-      "tanggal_terbit": "Wednesday, 05 Mar 2025, 10:15:00"
+      "judul": "M Busyro Muqoddas Terpilih Jadi Anggota Dewan Pers Periode 2025-2028",
+      "link_berita": "https://news.republika.co.id/berita/ssmu18484/m-busyro-muqoddas-terpilih-jadi-anggota-dewan-pers-periode-20252028",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Wednesday, 05 Mar 2025, 11:05:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 05 Mar 2025, 10:28:01"
+  "waktu_scraping": "Wednesday, 05 Mar 2025, 11:24:28"
 }
