@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "IHSG Dibuka Lesu, Pasar Tunggu Data Indeks Keyakinan Konsumen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssw1f1490/ihsg-dibuka-lesu-pasar-tunggu-data-indeks-keyakinan-konsumen"
+    },
+    {
       "judul": "Banjir Masih Merendam 8.790 Rumah dan Memutus Akses Jalan di Kabupaten Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/ssvyeh512/banjir-masih-merendam-8790-rumah-dan-memutus-akses-jalan-di-kabupaten-bandung"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Polri Mulai Selidiki Kecurangan Pengemasan Produk Minyakita",
       "link_berita": "https://news.republika.co.id/berita/ssviei484/polri-mulai-selidiki-kecurangan-pengemasan-produk-minyakita"
-    },
-    {
-      "judul": "Terungkap, OPM Kerap Beli Senjata dari Aparat yang 'Butuh Uang\u2019",
-      "link_berita": "https://news.republika.co.id/berita/ssvne2393/terungkap-opm-kerap-beli-senjata-dari-aparat-yang-butuh-uang"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Sekjen Hizbullah Sanggah Ada Kesepakatan Rahasia dengan Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssw3bh483/sekjen-hizbullah-sanggah-ada-kesepakatan-rahasia-dengan-israel"
+    },
     {
       "judul": "Sekda Jabar Herman Sebut, Ini Penyebab Sampah Longsor di TPA Sarimukti",
       "link_berita": "https://rejabar.republika.co.id/berita/ssw15w512/sekda-jabar-herman-sebut-ini-penyebab-sampah-longsor-di-tpa-sarimukti"
@@ -77,312 +81,308 @@
     {
       "judul": "Heboh Takaran Isi MinyaKita Tak Sampai 1 Liter",
       "link_berita": "https://tv.republika.co.id/berita/ssuryd313/heboh-takaran-isi-minyakita-tak-sampai-1-liter"
-    },
-    {
-      "judul": "Qatar Desak Senjata Nuklir Israel Dilucuti",
-      "link_berita": "https://news.republika.co.id/berita/ssuolw393/qatar-desak-senjata-nuklir-israel-dilucuti"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kemampuan Istimewa Rasulullah Saat Berbincang dengan Ruh Orang Mati",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssw3qr483/kemampuan-istimewa-rasulullah-saat-berbincang-dengan-ruh-orang-mati",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 04:13:40"
+    },
+    {
+      "judul": "Para Siswa di Timika Siap Menerima Program Makan Bergizi Gratis",
+      "link_berita": "https://news.republika.co.id/berita/ssw3q9484/para-siswa-di-timika-siap-menerima-program-makan-bergizi-gratis",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 04:13:40"
+    },
+    {
+      "judul": "Ada Ancaman Resesi AS, Rupiah Berpotensi Menguat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssw3gv490/ada-ancaman-resesi-as-rupiah-berpotensi-menguat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 04:07:40"
+    },
+    {
+      "judul": "Sekjen Hizbullah Sanggah Ada Kesepakatan Rahasia dengan Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssw3bh483/sekjen-hizbullah-sanggah-ada-kesepakatan-rahasia-dengan-israel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 04:04:40"
+    },
+    {
+      "judul": "Bea Cukai Soekarno Hatta Ungkap Jaringan Internasional, 3.089 Jiwa Selamat dari Narkoba",
+      "link_berita": "https://republika.co.id/berita//ssw3bg472/bea-cukai-soekarno-hatta-ungkap-jaringan-internasional-3-089-jiwa-selamat-dari-narkoba",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 04:04:40"
+    },
+    {
+      "judul": "Tradisi Bukber Ramadhan Diprediksi Bisa Dongkrak Penerimaan Pajak Resto di Kota Cimahi",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssw29n512/tradisi-bukber-ramadhan-diprediksi-bisa-dongkrak-penerimaan-pajak-resto-di-kota-cimahi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:41:40"
+    },
+    {
+      "judul": "Lulusan UNM Kampus Jatiwaringin Sukses Berkarier di Dunia Profesional",
+      "link_berita": "https://news.republika.co.id/berita/ssw220472/lulusan-unm-kampus-jatiwaringin-sukses-berkarier-di-dunia-profesional",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:37:40"
+    },
+    {
+      "judul": "Harga Cabai Rawit Masih Betah di Level Rp 89 Ribu per Kilogram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssw1ub490/harga-cabai-rawit-masih-betah-di-level-rp-89-ribu-per-kilogram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:32:40"
+    },
+    {
+      "judul": "Triwulan I-2025, APBD Jabar Dinilai Belum Pulihkan Ekonomi Warga",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssw1sk512/triwulan-i2025-apbd-jabar-dinilai-belum-pulihkan-ekonomi-warga",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:31:40"
+    },
+    {
+      "judul": "Dampingi Masyarakat, Cyber University Tingkatkan Literasi IT untuk Pelayanan Publik",
+      "link_berita": "https://news.republika.co.id/berita/ssw1n8472/dampingi-masyarakat-cyber-university-tingkatkan-literasi-it-untuk-pelayanan-publik",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:28:40"
+    },
+    {
+      "judul": "Penuhi Kebutuhan Lebaran, BRI Siapkan Uang Tunai Rp 32,8 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssw1kg490/penuhi-kebutuhan-lebaran-bri-siapkan-uang-tunai-rp-328-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:26:40"
+    },
+    {
+      "judul": "IHSG Dibuka Lesu, Pasar Tunggu Data Indeks Keyakinan Konsumen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssw1f1490/ihsg-dibuka-lesu-pasar-tunggu-data-indeks-keyakinan-konsumen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:23:40"
+    },
+    {
       "judul": "Bikin Selalu Optimis, Ini Rahasia Berdoa dengan Asmaul Husna Menurut Quraish Shihab",
       "link_berita": "https://iqra.republika.co.id/berita/ssw18i483/bikin-selalu-optimis-ini-rahasia-berdoa-dengan-asmaul-husna-menurut-quraish-shihab",
       "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 03:19:30"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:19:40"
     },
     {
       "judul": "Sekda Jabar Herman Sebut, Ini Penyebab Sampah Longsor di TPA Sarimukti",
       "link_berita": "https://rejabar.republika.co.id/berita/ssw15w512/sekda-jabar-herman-sebut-ini-penyebab-sampah-longsor-di-tpa-sarimukti",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 03:17:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:19:40"
     },
     {
       "judul": "Perpustakaan UNM Menjadi Ruang Diskusi untuk Tingkatkan Pemikiran Kritis Mahasiswa",
       "link_berita": "https://news.republika.co.id/berita/ssw0xw472/perpustakaan-unm-menjadi-ruang-diskusi-untuk-tingkatkan-pemikiran-kritis-mahasiswa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 03:13:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:19:40"
     },
     {
       "judul": "Komitmen Rawat Lima Masjid Raya, Pemprov Jabar Anggarkan Rp 1,6 Miliar",
       "link_berita": "https://rejabar.republika.co.id/berita/ssw0dj512/komitmen-rawat-lima-masjid-raya-pemprov-jabar-anggarkan-rp-16-miliar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 03:00:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:19:40"
     },
     {
       "judul": "Dewas BPKH: Pertumbuhan Dana Haji Lampaui Target",
       "link_berita": "https://khazanah.republika.co.id/berita/ssw09s483/dewas-bpkh-pertumbuhan-dana-haji-lampaui-target",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:58:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 03:19:40"
     },
     {
       "judul": "Israel Putus Aliran Listrik di Gaza",
       "link_berita": "https://tv.republika.co.id/berita/ssvz7p313/israel-putus-aliran-listrik-di-gaza",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:35:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "BMKG Sebut Sepekan ke Depan Bandung Raya Berpotensi Hujan",
       "link_berita": "https://rejabar.republika.co.id/berita/ssvyy7512/bmkg-sebut-sepekan-ke-depan-bandung-raya-berpotensi-hujan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:30:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Pemprov DKI Jakarta Kaji Pindahkan Warga Bantaran Sungai Rawan Banjir ke Rusun",
       "link_berita": "https://news.republika.co.id/berita/ssvxgj409/pemprov-dki-jakarta-kaji-pindahkan-warga-bantaran-sungai-rawan-banjir-ke-rusun",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Banjir Masih Merendam 8.790 Rumah dan Memutus Akses Jalan di Kabupaten Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/ssvyeh512/banjir-masih-merendam-8790-rumah-dan-memutus-akses-jalan-di-kabupaten-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Disnaker Umumkan Pembayaran THR Paling Lambat 24 Maret 2025",
       "link_berita": "https://news.republika.co.id/berita/ssvyc2484/disnaker-umumkan-pembayaran-thr-paling-lambat-24-maret-2025",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Harga Emas Hari Ini Naik Rp 3.000 per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssvy7u490/harga-emas-hari-ini-naik-rp-3000-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Rahasia al Hasyr ayat 21 Jika Alquran Diturunkan kepada Gunung, maka Hancur Berkeping",
       "link_berita": "https://iqra.republika.co.id/berita/ssvxta451/rahasia-al-hasyr-ayat-21-jika-alquran-diturunkan-kepada-gunung-maka-hancur-berkeping",
       "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Terekam CCTV, Aksi Brutal Gerombolan Pemuda Aniaya Seorang Pria Hingga Kejang-Kejang",
       "link_berita": "https://rejabar.republika.co.id/berita/ssvxrm512/terekam-cctv-aksi-brutal-gerombolan-pemuda-aniaya-seorang-pria-hingga-kejangkejang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Pengadilan Militer Jakarta Gelar Sidang Tuntutan Kasus Penembakan Bos Rental Mobil",
       "link_berita": "https://news.republika.co.id/berita/ssvvz5409/pengadilan-militer-jakarta-gelar-sidang-tuntutan-kasus-penembakan-bos-rental-mobil",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Berantas DBD, FIlipina Gencarkan Satu Nyamuk Satu Peso",
       "link_berita": "https://tv.republika.co.id/berita/ssvw01313/berantas-dbd-filipina-gencarkan-satu-nyamuk-satu-peso",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Tiga Golongan Menyikapi Alquran",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvxgk458/tiga-golongan-menyikapi-alquran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Upaya Dorong RPJMD yang Inklusif Terus Dilakukan",
       "link_berita": "https://republika.co.id/berita//ssvxga456/upaya-dorong-rpjmd-yang-inklusif-terus-dilakukan",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Ramadhan Anti Mager: Pakar Ajak Anak Aktif Meski Puasa",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvxdw425/ramadhan-anti-mager-pakar-ajak-anak-aktif-meski-puasa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Utusan AS yang Kontak Langsung dengan Hamas: Mereka Baik dan tak Bertanduk",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvxbk483/utusan-as-yang-kontak-langsung-dengan-hamas-mereka-baik-dan-tak-bertanduk",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 02:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 02:19:40"
     },
     {
       "judul": "Belajar dan Berpraktik Gastro-Storytelling di Kawasan Kranggan Yogyakarta",
       "link_berita": "https://rejogja.republika.co.id/berita/ssvww4291/belajar-dan-berpraktik-gastrostorytelling-di-kawasan-kranggan-yogyakarta",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Doa Menjadi Hamba Allah yang Pandai Bersyukur",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvwv3458/doa-menjadi-hamba-allah-yang-pandai-bersyukur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Ghibah saat Puasa, Ini Dampaknya",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvwle430/ghibah-saat-puasa-ini-dampaknya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Bakal Ada SBN untuk Perumahan, Ini Respons OJK",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssvwjx490/bakal-ada-sbn-untuk-perumahan-ini-respons-ojk",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Lebih dari 40 Tawanan Israel Ternyata Tewas Dibom IDF",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvw34483/lebih-dari-40-tawanan-israel-ternyata-tewas-dibom-idf",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Polisi Viral Paksa Pencari Bekicot Ngaku Pencuri Diperiksa Propam",
       "link_berita": "https://news.republika.co.id/berita/ssvvaq409/polisi-viral-paksa-pencari-bekicot-ngaku-pencuri-diperiksa-propam",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Tips Puasa Agar Tubuh Berenergi Sepanjang Hari",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvvt8425/tips-puasa-agar-tubuh-berenergi-sepanjang-hari",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Batasan bagi Suami Istri yang Ingin Bermesraan saat Puasa Ramadhan",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvvof430/batasan-bagi-suami-istri-yang-ingin-bermesraan-saat-puasa-ramadhan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Kebakaran di Mall Season City Akibat Arus Pendek Listrik",
       "link_berita": "https://news.republika.co.id/berita/ssvvjt484/kebakaran-di-mall-season-city-akibat-arus-pendek-listrik",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Siapa yang Boleh tidak Berpuasa di Bulan Ramadhan",
       "link_berita": "https://khazanah.republika.co.id/berita/ssvvia430/siapa-yang-boleh-tidak-berpuasa-di-bulan-ramadhan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Insektisida Hingga Iklim Ancam Populasi Kupu-Kupu",
       "link_berita": "https://tv.republika.co.id/berita/ssvv2l313/insektisida-hingga-iklim-ancam-populasi-kupukupu",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Bapak Sampah Nasional Berbagi Solusi Inovatif Pengolahan Limbah pada Kajian Samudra UGM",
       "link_berita": "https://rejogja.republika.co.id/berita/ssvv2c291/bapak-sampah-nasional-berbagi-solusi-inovatif-pengolahan-limbah-pada-kajian-samudra-ugm",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "Karakter Mark Ruffalo di Film Mickey 17 Terinspirasi Diktator Kehidupan Nyata?",
       "link_berita": "https://ameera.republika.co.id/berita/ssvuvy425/karakter-mark-ruffalo-di-film-mickey-17-terinspirasi-diktator-kehidupan-nyata",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 01:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 01:19:40"
     },
     {
       "judul": "BNI Salurkan Sembako hingga Alat Kebersihan untuk Korban Banjir Bekasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssvu2b490/bni-salurkan-sembako-hingga-alat-kebersihan-untuk-korban-banjir-bekasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 00:19:40"
     },
     {
       "judul": "Anggota DPR Minta Produsen Curang MinyaKita Ditindak",
       "link_berita": "https://news.republika.co.id/berita/ssvlwc409/anggota-dpr-minta-produsen-curang-minyakita-ditindak",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 00:19:40"
     },
     {
       "judul": "Risiko Macet Panjang Menghantui Pelabuhan Merak Saat Mudik, Ini Tantangannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssvt1g490/risiko-macet-panjang-menghantui-pelabuhan-merak-saat-mudik-ini-tantangannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 00:19:40"
     },
     {
       "judul": "Tiga Pecatan TNI Ini Ditangkap, Penjualan Senpi Senilai Rp 1,3 Miliar ke OPM Digagalkan",
       "link_berita": "https://news.republika.co.id/berita/ssvl4n409/tiga-pecatan-tni-ini-ditangkap-penjualan-senpi-senilai-rp-13-miliar-ke-opm-digagalkan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 00:19:40"
     },
     {
       "judul": "KAI Jual Tiket Kereta Ekonomi Antarkota mulai Rp 10 Ribu, Ini Daftarnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssvsmu490/kai-jual-tiket-kereta-ekonomi-antarkota-mulai-rp-10-ribu-ini-daftarnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 00:19:40"
     },
     {
       "judul": "Hasil Lengkap Pekan ke-26 dan Klasemen Liga 1: Persija Makin Sulit Kejar Persib",
       "link_berita": "https://news.republika.co.id/berita/ssvs4q348/hasil-lengkap-pekan-ke26-dan-klasemen-liga-1-persija-makin-sulit-kejar-persib",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
-    },
-    {
-      "judul": "Pertanyakan Kelayakan Stadion Patriot, Pelatih Persija: JIS adalah Kandang Terbaik Kami",
-      "link_berita": "https://news.republika.co.id/berita/ssvksq409/pertanyakan-kelayakan-stadion-patriot-pelatih-persija-jis-adalah-kandang-terbaik-kami",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
-    },
-    {
-      "judul": "Lantunan Ayat Suci dari Balik Jeruji",
-      "link_berita": "https://khazanah.republika.co.id/berita/ssvruh483/lantunan-ayat-suci-dari-balik-jeruji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 00:20:27"
-    },
-    {
-      "judul": "Rachmat Pambudy dan Dadan Hindayana Kunjungi Dapur BGN di Bekasi",
-      "link_berita": "https://news.republika.co.id/berita/ssvjx1484/rachmat-pambudy-dan-dadan-hindayana-kunjungi-dapur-bgn-di-bekasi",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Pelatih Persija Doakan Rizky Ridho dan Ferarri Berikan yang Terbaik untuk Timnas Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/ssvr1x348/pelatih-persija-doakan-rizky-ridho-dan-ferarri-berikan-yang-terbaik-untuk-timnas-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Polri Mulai Selidiki Kecurangan Pengemasan Produk Minyakita",
-      "link_berita": "https://news.republika.co.id/berita/ssviei484/polri-mulai-selidiki-kecurangan-pengemasan-produk-minyakita",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Pebulu Tangkis Indonesia Berlatih di Birmingham Arena, Pulihkan Fisik Jelang All England",
-      "link_berita": "https://news.republika.co.id/berita/ssvpt9348/pebulu-tangkis-indonesia-berlatih-di-birmingham-arena-pulihkan-fisik-jelang-all-england",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Hujan Petir Diprakirakan Landa Sebagian Jakarta pada Senin Pagi",
-      "link_berita": "https://news.republika.co.id/berita/ssvkgd409/hujan-petir-diprakirakan-landa-sebagian-jakarta-pada-senin-pagi",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Atalanta Permalukan Juventus di Kandang Sendiri, Hangatkan Persaingan Juara Serie A",
-      "link_berita": "https://news.republika.co.id/berita/ssvpct348/atalanta-permalukan-juventus-di-kandang-sendiri-hangatkan-persaingan-juara-serie-a",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Mau Dilebur dengan BP Haji, Anggota BPKH: Seperti Minyak dan Air",
-      "link_berita": "https://khazanah.republika.co.id/berita/ssvp93483/mau-dilebur-dengan-bp-haji-anggota-bpkh-seperti-minyak-dan-air",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Tips Simpan Jarum Pentul Supaya Nggak Sering Hilang, Cocok untuk Pengguna Hijab",
-      "link_berita": "https://ameera.republika.co.id/berita/ssvp93425/tips-simpan-jarum-pentul-supaya-nggak-sering-hilang-cocok-untuk-pengguna-hijab",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Biadab! Israel Putus Pasokan Listrik ke Jalur Gaza di Tengah Gencatan Senjata",
-      "link_berita": "https://khazanah.republika.co.id/berita/ssvov2483/biadab-israel-putus-pasokan-listrik-ke-jalur-gaza-di-tengah-gencatan-senjata",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 23:20:27"
-    },
-    {
-      "judul": "Bijak Bermedsos Selama Ramadhan: Selektif Scroll, Jaga Jempol",
-      "link_berita": "https://khazanah.republika.co.id/berita/ssvo8m425/bijak-bermedsos-selama-ramadhan-selektif-scroll-jaga-jempol",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 09 Mar 2025, 22:20:27"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 00:19:40"
     },
     {
       "judul": "Ramadhan Anti Mager: Pakar Ajak Anak Produktif Meski Puasa",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Saturday, 08 Mar 2025, 19:26:00"
     },
     {
-      "judul": "Harga Emas Hari Ini Naik Rp 3.000 per Gram",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssvy7u490/harga-emas-hari-ini-naik-rp-3000-per-gram",
+      "judul": "Ada Ancaman Resesi AS, Rupiah Berpotensi Menguat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssw3gv490/ada-ancaman-resesi-as-rupiah-berpotensi-menguat",
       "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 09:14:00"
+      "tanggal_terbit": "Monday, 10 Mar 2025, 11:07:00"
     },
     {
       "judul": "Konsumen Muslim Kini Lebih Selektif, Brand Lokal Dituntut Beradaptasi",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 08 Mar 2025, 14:08:00"
     },
     {
-      "judul": "Perpustakaan UNM Menjadi Ruang Diskusi untuk Tingkatkan Pemikiran Kritis Mahasiswa",
-      "link_berita": "https://news.republika.co.id/berita/ssw0xw472/perpustakaan-unm-menjadi-ruang-diskusi-untuk-tingkatkan-pemikiran-kritis-mahasiswa",
-      "kategori": "Pendidikan",
-      "tanggal_terbit": "Monday, 10 Mar 2025, 10:13:00"
+      "judul": "Para Siswa di Timika Siap Menerima Program Makan Bergizi Gratis",
+      "link_berita": "https://news.republika.co.id/berita/ssw3q9484/para-siswa-di-timika-siap-menerima-program-makan-bergizi-gratis",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Monday, 10 Mar 2025, 11:13:00"
     }
   ],
-  "waktu_scraping": "Monday, 10 Mar 2025, 10:20:27"
+  "waktu_scraping": "Monday, 10 Mar 2025, 11:19:40"
 }
