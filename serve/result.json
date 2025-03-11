@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Pasar Saham AS Kehilangan 4 Triliun Dolar AS Karena Penerapan Tarif Trump",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy5fy370/pasar-saham-as-kehilangan-4-triliun-dolar-as-karena-penerapan-tarif-trump"
+    },
+    {
       "judul": "Tom Lembong Bertanya-tanya, Mengapa Hanya Dirinya Mendag yang Didakwa Kasus Gula",
       "link_berita": "https://news.republika.co.id/berita/ssy3x8377/tom-lembong-bertanyatanya-mengapa-hanya-dirinya-mendag-yang-didakwa-kasus-gula"
     },
@@ -13,18 +17,18 @@
       "link_berita": "https://ekonomi.republika.co.id/berita/ssxyt5490/terobosan-layanan-bank-emas-pegadaian-salurkan-pinjaman-modal-kerja-dalam-bentuk-emas"
     },
     {
-      "judul": "Ditjen PAS Bungkam Soal Penyebab Peristiwa Kaburnya Puluhan Napi Lapas Kutacane yang Viral",
-      "link_berita": "https://news.republika.co.id/berita/ssxwaq409/ditjen-pas-bungkam-soal-penyebab-peristiwa-kaburnya-puluhan-napi-lapas-kutacane-yang-viral"
-    },
-    {
-      "judul": "Pengadilan Kematian Maradona Memicu Emosi dan Kemarahan di Argentina",
-      "link_berita": "https://news.republika.co.id/berita/ssxswo348/pengadilan-kematian-maradona-memicu-emosi-dan-kemarahan-di-argentina"
+      "judul": "Ditjen PAS Masih Rahasiakan Penyebab Kaburnya Puluhan Napi Lapas Kutacane yang Viral",
+      "link_berita": "https://news.republika.co.id/berita/ssxwaq409/ditjen-pas-masih-rahasiakan-penyebab-kaburnya-puluhan-napi-lapas-kutacane-yang-viral"
     }
   ],
   "berita_unggulan": [
     {
-      "judul": "Ini Respon Dedi Mulyadi Terkait Penggeledahan Rumah Ridwan Kamil oleh KPK",
-      "link_berita": "https://rejabar.republika.co.id/berita/ssy3qk512/ini-respon-dedi-mulyadi-terkait-penggeledahan-rumah-ridwan-kamil-oleh-kpk"
+      "judul": "Wamentan: 60 Ribu Hektare Sawah Terendam Banjir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy6fh416/wamentan-60-ribu-hektare-sawah-terendam-banjir"
+    },
+    {
+      "judul": "Ini Respons Dedi Mulyadi Terkait Penggeledahan Rumah Ridwan Kamil oleh KPK",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssy3qk512/ini-respons-dedi-mulyadi-terkait-penggeledahan-rumah-ridwan-kamil-oleh-kpk"
     },
     {
       "judul": "Menteri Pastikan Pencairan Tukin Dosen ASN pada Juli-Agustus 2025",
@@ -77,312 +81,308 @@
     {
       "judul": "Izin Tambang Muhammadiyah Terbit Bulan Ini, Begini Terima Kasih Anwar Abbas kepada Bahlil",
       "link_berita": "https://khazanah.republika.co.id/berita/ssxepe483/izin-tambang-muhammadiyah-terbit-bulan-ini-begini-terima-kasih-anwar-abbas-kepada-bahlil"
-    },
-    {
-      "judul": "Dapat Rp 6 Triliun dari Adidas, Liverpool Usir Nike Keluar dari Stadion Anfield",
-      "link_berita": "https://news.republika.co.id/berita/ssxdj0468/dapat-rp-6-triliun-dari-adidas-liverpool-usir-nike-keluar-dari-stadion-anfield"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Hutama Karya Siapkan 31 Rest Area di Sepanjang JTTS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy6zz370/hutama-karya-siapkan-31-rest-area-di-sepanjang-jtts",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 07:19:11"
+    },
+    {
+      "judul": "Cabut Gigi saat Puasa di Bulan Ramadhan, Bolehkah?",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssy6vg430/cabut-gigi-saat-puasa-di-bulan-ramadhan-bolehkah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 07:16:25"
+    },
+    {
+      "judul": "Efisiensi Anggaran Capai Rp 5 Triliun, Jabar Aloksikan ke Jalan Mulus Hingga Ruang Kelas",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssy6ir512/efisiensi-anggaran-capai-rp-5-triliun-jabar-aloksikan-ke-jalan-mulus-hingga-ruang-kelas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 07:08:25"
+    },
+    {
+      "judul": "Wamentan: 60 Ribu Hektare Sawah Terendam Banjir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy6fh416/wamentan-60-ribu-hektare-sawah-terendam-banjir",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 07:06:25"
+    },
+    {
+      "judul": "Di Tengah Perundingan di Saudi, Pesawat Nirawak Ukraina Bertubi-tubi Serang Moskow",
+      "link_berita": "https://news.republika.co.id/berita/ssy6ag377/di-tengah-perundingan-di-saudi-pesawat-nirawak-ukraina-bertubitubi-serang-moskow",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 07:03:25"
+    },
+    {
+      "judul": "Pasar Saham AS Kehilangan 4 Triliun Dolar AS Karena Penerapan Tarif Trump",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy5fy370/pasar-saham-as-kehilangan-4-triliun-dolar-as-karena-penerapan-tarif-trump",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:55:25"
+    },
+    {
+      "judul": "OJK: Pembiayaan Produktif Pinjaman Daring Capai Rp 8,45 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy5po490/ojk-pembiayaan-produktif-pinjaman-daring-capai-rp-845-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:51:25"
+    },
+    {
+      "judul": "Menteri ESDM Kantongi Rancangan Keppres Pembentukan Badan Nuklir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy5p1416/menteri-esdm-kantongi-rancangan-keppres-pembentukan-badan-nuklir",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:51:25"
+    },
+    {
+      "judul": "Lima Pelajaran Berharga yang Dapat Dipetik dari Fatimah Putri Rasulullah SAW",
+      "link_berita": "https://khazanah.republika.co.id/berita/ssy5ms320/lima-pelajaran-berharga-yang-dapat-dipetik-dari-fatimah-putri-rasulullah-saw",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:49:25"
+    },
+    {
+      "judul": "Polres Indramayu Gelar Patroli Subuh, Cegah Perang Sarung Hingga Kriminalitas",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssy5mm512/polres-indramayu-gelar-patroli-subuh-cegah-perang-sarung-hinggakriminalitas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:49:25"
+    },
+    {
+      "judul": "Mendiktisaintek Sebut Tiga Aspek Strategis Kemajuan Industri",
+      "link_berita": "https://news.republika.co.id/berita/ssxult451/mendiktisaintek-sebut-tiga-aspek-strategis-kemajuan-industri",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:49:25"
+    },
+    {
+      "judul": "Bea Cukai Hadiri Pelepasan Ekspor Solar Cell di KEK Galang Batang",
+      "link_berita": "https://republika.co.id/berita//ssy5kg472/bea-cukai-hadiri-pelepasan-ekspor-solar-cell-di-kek-galang-batang",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:48:25"
+    },
+    {
+      "judul": "Pertamina NRE: Pengembangan Nuklir Harus Kerja Sama dengan Negara Lain",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy5g0490/pertamina-nre-pengembangan-nuklir-harus-kerja-sama-dengan-negara-lain",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:45:25"
+    },
+    {
+      "judul": "BMKG Lakukan Operasi Modifikasi Cuaca di Wilayah Jabar",
+      "link_berita": "https://visual.republika.co.id/berita/ssy4sm375/bmkg-lakukan-operasi-modifikasi-cuaca-di-wilayah-jabar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:31:25"
+    },
+    {
+      "judul": "Nabung di bank bjb Bisa Dapat Slot Lari 5K dan 10K Yumaju Berlebarun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy4rg472/nabung-di-bank-bjb-bisa-dapat-slot-lari-5k-dan-10k-yumaju-berlebarun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:30:25"
+    },
+    {
+      "judul": "Jaksa: Keberatan Tom Lembong Sudah Masuk Pokok Perkara",
+      "link_berita": "https://news.republika.co.id/berita/ssy4qq377/jaksa-keberatan-tom-lembong-sudah-masuk-pokok-perkara",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:30:25"
+    },
+    {
+      "judul": "Menaker Pastikan Buruh Sritex Terimbas PHK Dapatkan THR",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy4q3370/menaker-pastikan-buruh-sritex-terimbas-phk-dapatkan-thr",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:30:25"
+    },
+    {
       "judul": "Pemkot Jaktim Pakai Metode Pengepokan Atasi Sampah Akibat Banjir",
       "link_berita": "https://esgnow.republika.co.id/berita/ssy431425/pemkot-jaktim-pakai-metode-pengepokan-atasi-sampah-akibat-banjir",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:15:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Bobon Santoso Jadi Mualaf, Baca Syahadat Dibimbing Ustaz Derry Sulaiman",
       "link_berita": "https://tv.republika.co.id/berita/ssy40s313/bobon-santoso-jadi-mualaf-baca-syahadat-dibimbing-ustaz-derry-sulaiman",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:14:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Tom Lembong Bertanya-tanya, Mengapa Hanya Dirinya Mendag yang Didakwa Kasus Gula",
       "link_berita": "https://news.republika.co.id/berita/ssy3x8377/tom-lembong-bertanyatanya-mengapa-hanya-dirinya-mendag-yang-didakwa-kasus-gula",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:12:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
-      "judul": "Ini Respon Dedi Mulyadi Terkait Penggeledahan Rumah Ridwan Kamil oleh KPK",
-      "link_berita": "https://rejabar.republika.co.id/berita/ssy3qk512/ini-respon-dedi-mulyadi-terkait-penggeledahan-rumah-ridwan-kamil-oleh-kpk",
+      "judul": "Ini Respons Dedi Mulyadi Terkait Penggeledahan Rumah Ridwan Kamil oleh KPK",
+      "link_berita": "https://rejabar.republika.co.id/berita/ssy3qk512/ini-respons-dedi-mulyadi-terkait-penggeledahan-rumah-ridwan-kamil-oleh-kpk",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:08:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Sambut Arus Mudik Lebaran 2025, Polri Dirikan 2.835 Posko Pengamanan",
       "link_berita": "https://news.republika.co.id/berita/ssy3lc484/sambut-arus-mudik-lebaran-2025-polri-dirikan-2835-posko-pengamanan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:05:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "5 Ayat Alquran Ini Jelaskan Bagaimana Seharusnya Cinta Manusia Disalurkan",
       "link_berita": "https://iqra.republika.co.id/berita/ssy3ih320/5-ayat-alquran-ini-jelaskan-bagaimana-seharusnya-cinta-manusia-disalurkan",
       "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:03:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Ini Dampak Buruk TPA Open Dumping bagi Ekosistem dan Kesehatan",
       "link_berita": "https://esgnow.republika.co.id/berita/ssy3bv416/ini-dampak-buruk-tpa-open-dumping-bagi-ekosistem-dan-kesehatan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:59:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Eksplorasi Rasa di Oakwood Kuningan: Ketika Pangan Lokal Jadi Bintang",
       "link_berita": "https://ameera.republika.co.id/berita/ssy3bm425/eksplorasi-rasa-di-oakwood-kuningan-ketika-pangan-lokal-jadi-bintang",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:59:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Polri Tetapkan Satu Tersangka Terkait Kasus Penyelewengan Takaran Minyakita",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssy3ax370/polri-tetapkan-satu-tersangka-terkait-kasus-penyelewengan-takaran-minyakita",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:59:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Rumah Ridwan Kamil Digeledah KPK Terkait Kasus BJB, Ini Respons Dedi Mulyadi",
       "link_berita": "https://news.republika.co.id/berita/ssy38s377/rumah-ridwan-kamil-digeledah-kpk-terkait-kasus-bjb-ini-respons-dedi-mulyadi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:57:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Kang DS Resmikan Soft Launching Pasar Ikan Modern Soreang",
       "link_berita": "https://rejabar.republika.co.id/berita/ssy343472/kang-ds-resmikan-soft-launching-pasar-ikan-modern-soreang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:54:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Segarnya Garang Asam Ikan di Wei Cafe",
       "link_berita": "https://ameera.republika.co.id/berita/sswurb328/segarnya-garang-asam-ikan-di-wei-cafe",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:52:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 06:19:25"
     },
     {
       "judul": "Chery Tiggo Cross Bukukan 1.600 Surat Pemesanan Kendaraan",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssy2sg370/chery-tiggo-cross-bukukan-1600-surat-pemesanan-kendaraan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:47:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Prabowo Antar Kepulangan Sekjen PKV To Lam di Lanud Halim",
       "link_berita": "https://news.republika.co.id/berita/ssy2n7484/prabowo-antar-kepulangan-sekjen-pkv-to-lam-di-lanud-halim",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:44:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Pertamina-Pindad Jalin Kerja Sama Tumbuhkan Ekosistem Industri Migas",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssy2fz472/pertaminapindad-jalin-kerja-sama-tumbuhkan-ekosistem-industri-migas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:40:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Bangun Jembatan Lintas Mazhab, Liga Muslim Dunia Gelar Konferensi di Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/ssy2an320/bangun-jembatan-lintas-mazhab-liga-muslim-dunia-gelar-konferensi-di-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:37:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "ZMart, Berbagi Berkah Ramadan melalui Akses Kebutuhan Pokok yang Terjangkau",
       "link_berita": "https://khazanah.republika.co.id/berita/ssy1zv368/zmart-berbagi-berkah-ramadan-melalui-akses-kebutuhan-pokok-yang-terjangkau",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:30:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "SERASI 2025, Langkah UNM Memberi Inspirasi Mahasiswa",
       "link_berita": "https://news.republika.co.id/berita/ssy1uw472/serasi-2025-langkah-unm-memberi-inspirasi-mahasiswa",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Magister Ilmu Komputer UNM, Pilihan Tepat untuk Karier di Era Digital",
       "link_berita": "https://news.republika.co.id/berita/ssy1gf472/magister-ilmu-komputer-unm-pilihan-tepat-untuk-karier-di-era-digital",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Pengacara: Direktur RS Gaza Alami Penyiksaan di Penjara Israel",
       "link_berita": "https://news.republika.co.id/berita/ssy1fu370/pengacara-direktur-rs-gaza-alami-penyiksaan-di-penjara-israel",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Yayasan Inklusi Pelita Bangsa Dukung Program MBG di SLBN 7 Jakarta",
       "link_berita": "https://news.republika.co.id/berita/ssy1by484/yayasan-inklusi-pelita-bangsa-dukung-program-mbg-di-slbn-7-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Pemprov DKI Pertimbangkan Operasi Modifikasi Cuaca pada Malam Hari",
       "link_berita": "https://esgnow.republika.co.id/berita/ssy1ai425/pemprov-dki-pertimbangkan-operasi-modifikasi-cuaca-pada-malam-hari",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "6 Bendungan Garapan Waskita Masuk Proyek Strategis Nasional",
       "link_berita": "https://ekonomi.republika.co.id/berita/ssxz49490/6-bendungan-garapan-waskita-masuk-proyek-strategis-nasional",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "BRICS Berpeluang Pimpin Isu Perubahan Iklim di Panggung Internasional",
       "link_berita": "https://esgnow.republika.co.id/berita/ssy11o416/brics-berpeluang-pimpin-isu-perubahan-iklim-di-panggung-internasional",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Campus Expo 2025 UNM Kampus Jatiwaringin Membuka Gerbang Masa Depan Pendidikan",
       "link_berita": "https://news.republika.co.id/berita/ssy0v6472/campus-expo-2025-unm-kampus-jatiwaringin-membuka-gerbang-masa-depan-pendidikan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Penyebab 50 Napi Lapas Kutacane Aceh Kabur: Over Kapasitas",
       "link_berita": "https://republika.co.id/berita//ssy0s5282/penyebab-50-napi-lapas-kutacane-aceh-kabur-over-kapasitas",
       "kategori": "Resumatra",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Menteri Pastikan Pencairan Tukin Dosen ASN pada Juli-Agustus 2025",
       "link_berita": "https://news.republika.co.id/berita/ssy0ol484/menteri-pastikan-pencairan-tukin-dosen-asn-pada-juliagustus-2025",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "BMKG Sebut Cuaca Ekstrem Berpotensi Terjadi Saat Mudik Lebaran",
       "link_berita": "https://esgnow.republika.co.id/berita/ssy0iv416/bmkg-sebut-cuaca-ekstrem-berpotensi-terjadi-saat-mudik-lebaran",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Dukung Pertumbuhan Ekonomi, Bea Cukai Beri Izin Kawasan Berikat kepada PT Framas Indonesia",
       "link_berita": "https://republika.co.id/berita//ssy051472/dukung-pertumbuhan-ekonomi-bea-cukai-beri-izin-kawasan-berikat-kepada-pt-framas-indonesia",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Aksi Begal Sepeda Motor di Bandung Terekam CCTV",
       "link_berita": "https://rejabar.republika.co.id/berita/ssy04l512/aksi-begal-sepeda-motor-di-bandung-terekam-cctv",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Lorentz Ikut Ritual Dayak Sentuh Telur Sebelum ke Puncak Carstensz, untuk Apa?",
       "link_berita": "https://oohya.republika.co.id/posts/513561/lorentz-ikut-ritual-dayak-sentuh-telur-sebelum-ke-puncak-carstensz-untuk-apa",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 05:19:25"
     },
     {
       "judul": "Resmi, Emil Audero, Joey Pelupessy, dan Dean James Jadi WNI",
       "link_berita": "https://sajada.id/posts/513522/resmi-emil-audero-joey-pelupessy-dan-dean-james-jadi-wni",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:19:25"
     },
     {
       "judul": "Doa Hari ke-11 Ramadhan",
       "link_berita": "https://sajada.id/posts/513529/doa-hari-ke-11-ramadhan",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Hadapi Musim Mudik Lebaran, Hino Siapkan Layanan Bus Mobile Workshop",
-      "link_berita": "https://motoresto.id/posts/513511/hadapi-musim-mudik-lebaran-hino-siapkan-layanan-bus-mobile-workshop",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Pemkot Yogyakarta Revitalisasi Depo Sampah Menjadi Kawasan Hijau",
-      "link_berita": "https://rejogja.republika.co.id/berita/ssxzzf291/pemkot-yogyakarta-revitalisasi-depo-sampah-menjadi-kawasan-hijau",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Mickey 17 Pimpin Box Office, Tapi Angkanya Belum Beri Keuntungan Bagi Warner Bros",
-      "link_berita": "https://filmusiku.com/posts/513547/mickey-17-pimpin-box-office-tapi-angkanya-belum-beri-keuntungan-bagi-warner-bros",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "BI dan Bank Sentral Vietnam Sepakat Tingkatkan Kerja Sama Bilateral",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssxzya490/bi-dan-bank-sentral-vietnam-sepakat-tingkatkan-kerja-sama-bilateral",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Kemenkes Pastikan Layanan Kesehatan Tetap Berjalan bagi Korban Banjir",
-      "link_berita": "https://diagnosa.id/posts/513553/kemenkes-pastikan-layanan-kesehatan-tetap-berjalan-bagi-korban-banjir",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "50 Tahun Perjalanan Karier, Iron Maiden Rilis Buku 'Infinite Dreams'",
-      "link_berita": "https://impresiupdate.id/posts/513569/50-tahun-perjalanan-karier-iron-maiden-rilis-buku-infinite-dreams-",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Tangan Robot Lebih Cerdas dan Ramah Lingkungan: Teknologi Baru Pangkas Penggunaan Energi Hingga 90 Persen",
-      "link_berita": "https://impresiupdate.id/posts/513575/tangan-robot-lebih-cerdas-dan-ramah-lingkungan-teknologi-baru-pangkas-penggunaan-energi-hingga-90-persen",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Kronologi 50 Tahanan Kabur dari Lapas Kutacane Aceh, 13 Napi Sudah Ditangkap",
-      "link_berita": "https://republika.co.id/berita//ssxzve282/kronologi-50-tahanan-kabur-dari-lapas-kutacane-aceh-13-napi-sudah-ditangkap",
-      "kategori": "Resumatra",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Ilmuwan Mengembangkan Lensa Teleskop Datar Pertama yang Menangkap Warna",
-      "link_berita": "https://impresiupdate.id/posts/513576/ilmuwan-mengembangkan-lensa-teleskop-datar-pertama-yang-menangkap-warna",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Pertamina Ungkap Potensi Pendanaan dari Danantara, Ini Calon Proyeknya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssxzsk490/pertamina-ungkap-potensi-pendanaan-dari-danantara-ini-calon-proyeknya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Bea Cukai Bali Ungkap Jaringan Narkotika Internasional Melalui Bandara I Gusti Ngurah Rai",
-      "link_berita": "https://republika.co.id/berita//ssxzni472/bea-cukai-bali-ungkap-jaringan-narkotika-internasional-melalui-bandara-i-gusti-ngurah-rai",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Perjalanan Bobon Santoso, dari Kreator Konten Ekstrem Hingga Ucap Syahadat",
-      "link_berita": "https://ameera.republika.co.id/berita/ssxzm7425/perjalanan-bobon-santoso-dari-kreator-konten-ekstrem-hingga-ucap-syahadat",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Puluhan Napi Lapas Kutacane Aceh Kabur Jelang Buka Puasa, Ada yang Lompat Atap dan Gerbang",
-      "link_berita": "https://republika.co.id/berita//ssxzl4282/puluhan-napi-lapas-kutacane-aceh-kabur-jelang-buka-puasa-ada-yang-lompat-atap-dan-gerbang",
-      "kategori": "Resumatra",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Mantan Presiden Filipina Duterte Ditangkap Atas Kejahatan HAM Pemberantasan Narkoba",
-      "link_berita": "https://news.republika.co.id/berita/ssxz9y377/mantan-presiden-filipina-duterte-ditangkap-atas-kejahatan-ham-pemberantasan-narkoba",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "HTS Suriah di Ujung Tanduk, 'Pembantaian' Ribuan Alawite Dosa Besar Sejak Gulingkan Assad?",
-      "link_berita": "https://khazanah.republika.co.id/berita/ssxyz9320/hts-suriah-di-ujung-tanduk-pembantaian-ribuan-alawite-dosa-besar-sejak-gulingkan-assad",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "Terobosan Layanan Bank Emas, Pegadaian Salurkan Pinjaman Modal Kerja dalam Bentuk Emas",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssxyt5490/terobosan-layanan-bank-emas-pegadaian-salurkan-pinjaman-modal-kerja-dalam-bentuk-emas",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
-    },
-    {
-      "judul": "13 Narapidana yang Kabur dari Lapas Kutacane Aceh Telah Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/ssxyjq370/13-narapidana-yang-kabur-dari-lapas-kutacane-aceh-telah-ditangkap",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:28:49"
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 04:19:25"
     },
     {
       "judul": "Eksplorasi Rasa di Oakwood Kuningan: Ketika Pangan Lokal Jadi Bintang",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 11 Mar 2025, 13:16:00"
     },
     {
-      "judul": "Polri Tetapkan Satu Tersangka Terkait Kasus Penyelewengan Takaran Minyakita",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ssy3ax370/polri-tetapkan-satu-tersangka-terkait-kasus-penyelewengan-takaran-minyakita",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 12:59:00"
+      "judul": "Hutama Karya Siapkan 31 Rest Area di Sepanjang JTTS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ssy6zz370/hutama-karya-siapkan-31-rest-area-di-sepanjang-jtts",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 14:19:00"
     },
     {
       "judul": "OJK Catat Total Pembiayaan Syariah Multifinance Capai Rp 27,92 Triliun",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 10 Mar 2025, 22:33:00"
     },
     {
-      "judul": "Pemkot Jaktim Pakai Metode Pengepokan Atasi Sampah Akibat Banjir",
-      "link_berita": "https://news.republika.co.id/berita/ssy431425/pemkot-jaktim-pakai-metode-pengepokan-atasi-sampah-akibat-banjir",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 11 Mar 2025, 13:16:00"
+      "judul": "Di Tengah Perundingan di Saudi, Pesawat Nirawak Ukraina Bertubi-tubi Serang Moskow",
+      "link_berita": "https://news.republika.co.id/berita/ssy6ag377/di-tengah-perundingan-di-saudi-pesawat-nirawak-ukraina-bertubitubi-serang-moskow",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Tuesday, 11 Mar 2025, 14:03:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 11 Mar 2025, 13:28:49"
+  "waktu_scraping": "Tuesday, 11 Mar 2025, 14:19:25"
 }
