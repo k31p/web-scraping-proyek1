@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Tak Ada Protes Dewan, DPR RI Serentak Setujui Sahkan RUU TNI",
+      "link_berita": "https://news.republika.co.id/berita/stelsj377/tak-ada-protes-dewan-dpr-ri-serentak-setujui-sahkan-ruu-tni"
+    },
+    {
       "judul": "Rudal Houthi Hujani Tel Aviv, Netanyahu Kabur ke Bunker",
       "link_berita": "https://khazanah.republika.co.id/berita/stel0i483/rudal-houthi-hujani-tel-aviv-netanyahu-kabur-ke-bunker"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Rully Nere Mengingat Kembali Momen Saat Bantu Timnas Kalahkan Australia 44 Tahun Lalu",
       "link_berita": "https://news.republika.co.id/berita/stec44348/rully-nere-mengingat-kembali-momen-saat-bantu-timnas-kalahkan-australia-44-tahun-lalu"
-    },
-    {
-      "judul": "Tingkat Religiositas Generasi Muda Turun, Bagaimana Dakwah Efektif untuk Gen Z?",
-      "link_berita": "https://khazanah.republika.co.id/berita/ste85n366/tingkat-religiositas-generasi-muda-turun-bagaimana-dakwah-efektif-untuk-gen-z"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Israel Tutup Semua Titik Pasokan Pangan, Gaza Kelaparan",
+      "link_berita": "https://khazanah.republika.co.id/berita/stenrm366/israel-tutup-semua-titik-pasokan-pangan-gaza-kelaparan"
+    },
+    {
+      "judul": "Dalam Pengesahan RUU TNI, Menhan Sjafrie Singgung LSM Pengkritik",
+      "link_berita": "https://news.republika.co.id/berita/sten2n487/dalam-pengesahan-ruu-tni-menhan-sjafrie-singgung-lsm-pengkritik"
+    },
     {
       "judul": "5.021 Aparat Diterjunkan Amankan Pengesahan RUU TNI",
       "link_berita": "https://news.republika.co.id/berita/stekba377/5021-aparat-diterjunkan-amankan-pengesahan-ruu-tni"
@@ -71,22 +79,80 @@
       "link_berita": "https://news.republika.co.id/berita/stdijy393/pangdam-sriwijaya-akui-pelaku-penembakan-polisi-di-lampung-anggota-tni-aktif"
     },
     {
-      "judul": "Momen Saat Jet Tempur dan Drone Iran Usir Pesawat tanpa Awak Mata-mata Milik Amerika",
+      "judul": "Momen Saat Jet Tempur dan Drone Iran Usir Pesawat tanpa Awak Mata-Mata Milik Amerika",
       "link_berita": "https://khazanah.republika.co.id/berita/stcwo2320/momen-saat-jet-tempur-dan-drone-iran-usir-pesawat-tanpa-awak-matamata-milik-amerika"
-    },
-    {
-      "judul": "PTPN akan Bongkar Tempat-Tempat Wisata tak Berizin di Kawasan Puncak Bogor",
-      "link_berita": "https://news.republika.co.id/berita/stdfsz409/ptpn-akan-bongkar-tempattempat-wisata-tak-berizin-di-kawasan-puncak-bogor"
-    },
-    {
-      "judul": "Larangan Hubungan di Luar Nikah Diabadikan dengan 'Jangan Dekati', Ini Dampak Psikisnya",
-      "link_berita": "https://khazanah.republika.co.id/berita/stcw0t320/larangan-hubungan-di-luar-nikah-diabadikan-dengan-jangan-dekati-ini-dampak-psikisnya"
     }
   ],
   "berita_lainnya": [
     {
-      "judul": "Bupati Lucky Hakim Bukber Bareng PKS Indramayu",
-      "link_berita": "https://rejabar.republika.co.id/berita/stemub368/bupati-lucky-hakim-bukber-bareng-pks-indramayu",
+      "judul": "Gempur Peredaran Narkoba, Bea Cukai Jateng DIY dan BNNP Berhasil Selamatkan 13 Ribu Jiwa",
+      "link_berita": "https://republika.co.id/berita//stepd9368/gempur-peredaran-narkoba-bea-cukai-jateng-diy-dan-bnnp-berhasil-selamatkan-13-ribu-jiwa",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 05:17:45"
+    },
+    {
+      "judul": "Jelang Peresmian, RI dan China MoU Program Two Countries Twin Park",
+      "link_berita": "https://ekonomi.republika.co.id/berita/steoww423/jelang-peresmian-ri-dan-china-mou-program-two-countries-twin-park",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 05:09:45"
+    },
+    {
+      "judul": "Deschamps Puji Dembele, Mbappe Senang Kembali ke Prancis",
+      "link_berita": "https://news.republika.co.id/berita/steoph348/deschamps-puji-dembele-mbappe-senang-kembali-ke-prancis",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 05:03:45"
+    },
+    {
+      "judul": "Targetkan Spin Off Unit Usaha Syariah Rampung 2025, Ini Strategi Tugu Insurance",
+      "link_berita": "https://sharia.republika.co.id/berita/steoh3423/targetkan-spin-off-unit-usaha-syariah-rampung-2025-ini-strategi-tugu-insurance",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:57:45"
+    },
+    {
+      "judul": "Anggota LSM Tusuk Satpam di Tangerang Gara-Gara THR, Dedi Mulyadi Perintahkan Ini di Jabar",
+      "link_berita": "https://news.republika.co.id/berita/steo5s487/anggota-lsm-tusuk-satpam-di-tangerang-garagara-thr-dedi-mulyadi-perintahkan-ini-di-jabar",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:51:45"
+    },
+    {
+      "judul": "Dua Anak Usaha PHE Raih Penghargaan ESG di Vietnam",
+      "link_berita": "https://esgnow.republika.co.id/berita/stenwb522/dua-anak-usaha-phe-raih-penghargaan-esg-di-vietnam",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:45:45"
+    },
+    {
+      "judul": "Israel Tutup Semua Titik Pasokan Pangan, Gaza Kelaparan",
+      "link_berita": "https://khazanah.republika.co.id/berita/stenrm366/israel-tutup-semua-titik-pasokan-pangan-gaza-kelaparan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:42:45"
+    },
+    {
+      "judul": "Jelang Diresmikan Prabowo, Ini Profil KEK Industropolis Batang",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stenmf423/jelang-diresmikan-prabowo-ini-profil-kek-industropolis-batang",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:39:45"
+    },
+    {
+      "judul": "Sebut Jokowi Kirim Utusan Agar tak Dipecat, Deddy Sitorus Dilaporkan ke MKD",
+      "link_berita": "https://news.republika.co.id/berita/stenib377/sebut-jokowi-kirim-utusan-agar-tak-dipecat-deddy-sitorus-dilaporkan-ke-mkd",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:37:45"
+    },
+    {
+      "judul": "Dalam Pengesahan RUU TNI, Menhan Sjafrie Singgung LSM Pengkritik",
+      "link_berita": "https://news.republika.co.id/berita/sten2n487/dalam-pengesahan-ruu-tni-menhan-sjafrie-singgung-lsm-pengkritik",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:27:45"
+    },
+    {
+      "judul": "BEK Tuntaskan Rehabilitasi DAS Menoreh dengan Keberhasilan 97,48 Persen",
+      "link_berita": "https://rejogja.republika.co.id/berita/sten06291/bek-tuntaskan-rehabilitasi-das-menoreh-dengan-keberhasilan-9748-persen",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:26:45"
+    },
+    {
+      "judul": "Bupati Lucky Hakim Buka Puasa Bareng PKS Indramayu",
+      "link_berita": "https://rejabar.republika.co.id/berita/stemub368/bupati-lucky-hakim-buka-puasa-bareng-pks-indramayu",
       "kategori": "Rejabar",
       "tanggal_terbit": "Thursday, 20 Mar 2025, 04:22:45"
     },
@@ -94,295 +160,229 @@
       "judul": "Dedi Mulyadi Bagikan Rp 3 Juta ke Tukang Becak, Kusir, dan Sopir Selama Arus Mudik",
       "link_berita": "https://news.republika.co.id/berita/stem6w377/dedi-mulyadi-bagikan-rp-3-juta-ke-tukang-becak-kusir-dan-sopir-selama-arus-mudik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:08:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:19:45"
     },
     {
       "judul": "Tak Ada Protes Dewan, DPR RI Serentak Setujui Sahkan RUU TNI",
       "link_berita": "https://news.republika.co.id/berita/stelsj377/tak-ada-protes-dewan-dpr-ri-serentak-setujui-sahkan-ruu-tni",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:00:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 04:19:45"
     },
     {
       "judul": "Rudal Houthi Hujani Tel Aviv, Netanyahu Kabur ke Bunker",
       "link_berita": "https://khazanah.republika.co.id/berita/stel0i483/rudal-houthi-hujani-tel-aviv-netanyahu-kabur-ke-bunker",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:43:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Tegas Berantas Rokok Ilegal, Bea Cukai Ternate Gencarkan Operasi di Maluku Utara",
       "link_berita": "https://republika.co.id/berita//stekrw368/tegas-berantas-rokok-ilegal-bea-cukai-ternate-gencarkan-operasi-di-maluku-utara",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:38:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "5.021 Aparat Diterjunkan Amankan Pengesahan RUU TNI",
       "link_berita": "https://news.republika.co.id/berita/stekba377/5021-aparat-diterjunkan-amankan-pengesahan-ruu-tni",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:28:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Tugu Insurance Yakin Spin Off UUS 2025 Lancar, Siap Maksimalkan Peluang Pasar Syariah",
       "link_berita": "https://sharia.republika.co.id/berita/stek42368/tugu-insurance-yakin-spin-off-uus-2025-lancar-siap-maksimalkan-peluang-pasar-syariah",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Terdakwa Kasus Kosmetik Berbahaya Mira Hayati Ajukan Status Tahanan Kota",
       "link_berita": "https://news.republika.co.id/berita/stejgm425/terdakwa-kasus-kosmetik-berbahaya-mira-hayati-ajukan-status-tahanan-kota",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Biaya Sertifikasi Halal Mahal? LPPOM: Waspada Calo Mengaku Konsultan",
       "link_berita": "https://khazanah.republika.co.id/berita/stej3x366/biaya-sertifikasi-halal-mahal-lppom-waspada-calo-mengaku-konsultan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Mudik Pakai Mobil Listrik? PLN Siapkan Seribu SPKLU di Jalur Mudik Utama",
       "link_berita": "https://ekonomi.republika.co.id/berita/steisy368/mudik-pakai-mobil-listrik-pln-siapkan-seribu-spklu-di-jalur-mudik-utama",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Rest Area di Ruas Tol Japek dan Cipali Rawan Jadi Titik Kemacetan",
       "link_berita": "https://news.republika.co.id/berita/steikn377/rest-area-di-ruas-tol-japek-dan-cipali-rawan-jadi-titik-kemacetan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 03:19:45"
     },
     {
       "judul": "Kunjungan ke Banjarmasin, Bahlil Pastikan Pasokan Listrik PLN Aman untuk Idul Fitri",
       "link_berita": "https://ekonomi.republika.co.id/berita/steieh368/kunjungan-ke-banjarmasin-bahlil-pastikan-pasokan-listrik-pln-aman-untuk-idul-fitri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Penelitian Dosen UBSI Tasikmalaya Soal AI di Kesehatan Raih Hibah Bergengsi",
       "link_berita": "https://news.republika.co.id/berita/stei2m368/penelitian-dosen-ubsi-tasikmalaya-soal-ai-di-kesehatan-raih-hibah-bergengsi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Anak Gagal SNBP? Psikolog: Orang Tua Perlu Bijak Terima Kegagalan Buah Hati",
       "link_berita": "https://ameera.republika.co.id/berita/stei23425/anak-gagal-snbp-psikolog-orang-tua-perlu-bijak-terima-kegagalan-buah-hati",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Anggota DPRD Jabar Iwan Koswara Harap Perusahaan Bayar THR Tepat Waktu",
       "link_berita": "https://rejabar.republika.co.id/berita/stehs5512/anggota-dprd-jabar-iwan-koswara-harap-perusahaan-bayar-thr-tepat-waktu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Intip Isi Mata Kuliah Cyber Security di Cyber University, Belajar Apa Saja?",
       "link_berita": "https://news.republika.co.id/berita/stehry368/intip-isi-mata-kuliah-cyber-security-di-cyber-universitybelajar-apa-saja",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "5 Langkah Jitu Mengelola THR Agar tak Cepat Habis",
       "link_berita": "https://ekonomi.republika.co.id/berita/steh7w423/5-langkah-jitu-mengelola-thr-agar-tak-cepat-habis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Cyber University dan SMKN 14 Bekasi Kolaborasi, Siap Cetak Ahli AI Masa Depan",
       "link_berita": "https://news.republika.co.id/berita/stehga368/cyber-university-dan-smkn-14-bekasi-kolaborasi-siap-cetak-ahli-ai-masa-depan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Indonesia Sampaikan Dukacita ke Korban Pembajakan Kereta Pakistan",
       "link_berita": "https://news.republika.co.id/berita/steh2r487/indonesia-sampaikan-dukacita-ke-korban-pembajakan-kereta-pakistan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Ini Sosok Imamoglu, Wali Kota Istanbul Ancaman Terbesar Erdogan",
       "link_berita": "https://news.republika.co.id/berita/stegwi377/ini-sosok-imamoglu-wali-kota-istanbul-ancaman-terbesar-erdogan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Harga Emas Antam Melonjak, Kini Capai Rp 1,7 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/stegke423/harga-emas-antam-melonjak-kini-capai-rp-17-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Tanggapi Polemik Hak Cipta, BCL Ungkap Peran Penyanyi dalam Populerkan Lagu",
       "link_berita": "https://ameera.republika.co.id/berita/stegcu425/tanggapi-polemik-hak-cipta-bcl-ungkap-peran-penyanyi-dalam-populerkan-lagu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
-      "judul": "Ini Alasan di Balik Pemutihan Pajak Kendaraan di Jabar oleh Gubernur Dedy Mulyadi",
-      "link_berita": "https://news.republika.co.id/berita/stegby487/ini-alasan-di-balik-pemutihan-pajak-kendaraan-di-jabar-oleh-gubernur-dedy-mulyadi",
+      "judul": "Ini Alasan di Balik Pemutihan Pajak Kendaraan di Jabar oleh Gubernur Dedi Mulyadi",
+      "link_berita": "https://news.republika.co.id/berita/stegby487/ini-alasan-di-balik-pemutihan-pajak-kendaraan-di-jabar-oleh-gubernur-dedi-mulyadi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Pemkot Cirebon Siapkan Lokasi Sekolah Rakyat",
       "link_berita": "https://rejabar.republika.co.id/berita/steg4a512/pemkot-cirebon-siapkan-lokasi-sekolah-rakyat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "IHSG Tertekan, Ekonom Ingatkan Pasar Modal adalah Alarm Kondisi Politik",
       "link_berita": "https://ekonomi.republika.co.id/berita/stefx7423/ihsg-tertekan-ekonom-ingatkan-pasar-modal-adalah-alarm-kondisi-politik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 02:19:45"
     },
     {
       "judul": "Israel Gelar Operasi Militer Darat, Duduki Kembali Titik Penting Jalur Gaza",
       "link_berita": "https://news.republika.co.id/berita/stef7w377/israel-gelar-operasi-militer-darat-duduki-kembali-titik-penting-jalur-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Texas Ancam Sensor Anime Populer, Apa Alasannya?",
       "link_berita": "https://ameera.republika.co.id/berita/stef6w425/texas-ancam-sensor-anime-populer-apa-alasannya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Sertifikasi Halal Dianggap Mahal dan Lama, LPPOM Ungkap Penyebabnya",
       "link_berita": "https://khazanah.republika.co.id/berita/stef6i366/sertifikasi-halal-dianggap-mahal-dan-lama-lppom-ungkap-penyebabnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "QRIS Tap Sudah Bisa Digunakan di Seluruh Unit Bus Royaltrans Transjakarta",
       "link_berita": "https://news.republika.co.id/berita/stef25487/qris-tap-sudah-bisa-digunakan-di-seluruh-unit-bus-royaltrans-transjakarta",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "IHSG Anjlok, Bisa Berdampak pada MBG",
       "link_berita": "https://ekonomi.republika.co.id/berita/stef1j423/ihsg-anjlok-bisa-berdampak-pada-mbg",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Tertekan Banyak Sentimen, Rupiah Kembali Sentuh Level Rp 16.500-an",
       "link_berita": "https://ekonomi.republika.co.id/berita/steee0423/tertekan-banyak-sentimen-rupiah-kembali-sentuh-level-rp-16500an",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Menag Diminta Lobi Saudi Soal Pembatasan Usia Jamaah 90 Tahun",
       "link_berita": "https://khazanah.republika.co.id/berita/stedq1483/menag-diminta-lobi-saudi-soal-pembatasan-usia-jamaah-90-tahun",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Tiga Polisi Diprediksi Tewas Ditembak dari Jarak 5-13 Meter",
       "link_berita": "https://news.republika.co.id/berita/stedp1377/tiga-polisi-diprediksi-tewas-ditembak-dari-jarak-513-meter",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Gaza Kembali Diserang, Proses Pengiriman Bantuan Terkendala",
       "link_berita": "https://khazanah.republika.co.id/berita/stedax368/gaza-kembali-diserang-proses-pengiriman-bantuan-terkendala",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 01:19:45"
     },
     {
       "judul": "Penampakan Tanah di Pasar Curug Agung Bandung Barat yang Amblas Tergerus Air",
       "link_berita": "https://rejabar.republika.co.id/berita/stecy5512/penampakan-tanah-di-pasar-curug-agung-bandung-barat-yang-amblas-tergerus-air",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:19:45"
     },
     {
       "judul": "Jelang Idul Fitri, Tedy Rusmawan Desak Pemprov Jabar Kendalikan Harga Sembako",
       "link_berita": "https://rejabar.republika.co.id/berita/stect9368/jelang-idul-fitri-tedy-rusmawan-desak-pemprov-jabar-kendalikan-harga-sembako",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:19:45"
     },
     {
       "judul": "SDM yang Bekerja di Sektor Teknologi Banyak yang Menguasai Keilmuan Secara Otodidak",
       "link_berita": "https://rejabar.republika.co.id/berita/stecoe512/sdm-yang-bekerja-di-sektor-teknologi-banyak-yang-menguasai-keilmuan-secara-otodidak",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:19:45"
     },
     {
       "judul": "Dahnil: Jadi PPIH Bukan Jalur Nebeng Naik Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/stecep483/dahnil-jadi-ppih-bukan-jalur-nebeng-naik-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:19:45"
     },
     {
       "judul": "Rully Nere Mengingat Kembali Momen Saat Bantu Timnas Kalahkan Australia 44 Tahun Lalu",
       "link_berita": "https://news.republika.co.id/berita/stec44348/rully-nere-mengingat-kembali-momen-saat-bantu-timnas-kalahkan-australia-44-tahun-lalu",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "Lebaran 2025: Biaya Mudik Naik, PHK Meningkat, dan Prediksi Penurunan Ekonomi. Kok Begini?",
-      "link_berita": "https://analisis.republika.co.id/berita/stdpe7475/lebaran-2025-biaya-mudik-naik-phk-meningkat-dan-prediksi-penurunan-ekonomi-kok-begini",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "GP Ansor Ingatkan DPR Belajar dari Gus Dur Soal Revisi UU TNI, Seperti Apa?",
-      "link_berita": "https://news.republika.co.id/berita/stebft320/gp-ansor-ingatkan-dpr-belajar-dari-gus-dur-soal-revisi-uu-tni-seperti-apa",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "Erdogan Digoyang, Protes Meletus di Turki Usai Penangkapan Imamoglu",
-      "link_berita": "https://news.republika.co.id/berita/stebe2377/erdogan-digoyang-protes-meletus-di-turki-usai-penangkapan-imamoglu",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "Lautaro Martinez tidak Masuk dalam Skuad Argentina Lawan Uruguay dan Brasil",
-      "link_berita": "https://news.republika.co.id/berita/steb04348/lautaro-martinez-tidak-masuk-dalam-skuad-argentina-lawan-uruguay-dan-brasil",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "Pasar Modal, Krisis Politik Ekonomi dan Kebijakan",
-      "link_berita": "https://analisis.republika.co.id/berita/stdor3475/pasar-modal-krisis-politik-ekonomi-dan-kebijakan",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "Memphis Depay Starter, Frenkie De Jong Siap Beraksi untuk Belanda Saat Ladeni Spanyol",
-      "link_berita": "https://news.republika.co.id/berita/steajl348/memphis-depay-starter-frenkie-de-jong-siap-beraksi-untuk-belanda-saat-ladeni-spanyol",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:24:45"
-    },
-    {
-      "judul": "Tingkat Religiositas Generasi Muda Turun, Bagaimana Dakwah Efektif untuk Gen Z?",
-      "link_berita": "https://khazanah.republika.co.id/berita/ste85n366/tingkat-religiositas-generasi-muda-turun-bagaimana-dakwah-efektif-untuk-gen-z",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Mar 2025, 23:24:45"
-    },
-    {
-      "judul": "Safari Ramadhan, Kapolri Silaturahim dengan Ulama Jateng",
-      "link_berita": "https://khazanah.republika.co.id/berita/ste7y9484/safari-ramadhan-kapolri-silaturahim-dengan-ulama-jateng",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Mar 2025, 23:24:45"
-    },
-    {
-      "judul": "Penambahan Kewenangan Kejaksaan di RUU KUHAP, Ini Saran Praktisi Hukum untuk DPR",
-      "link_berita": "https://news.republika.co.id/berita/ste7vs320/penambahan-kewenangan-kejaksaan-di-ruu-kuhap-ini-saran-praktisi-hukum-untuk-dpr",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Mar 2025, 23:24:45"
-    },
-    {
-      "judul": "Presentasi UMKM Diharapkan Kembangkan Keterampilan Pelaku Bisnis se-Condongcatur",
-      "link_berita": "https://rejogja.republika.co.id/berita/ste7nn291/presentasi-umkm-diharapkan-kembangkan-keterampilan-pelaku-bisnis-secondongcatur",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 19 Mar 2025, 22:24:45"
-    },
-    {
-      "judul": "Atletico Madrid Tepis Kabar Julian Alvarez Sudah Ditawar Liverpool",
-      "link_berita": "https://news.republika.co.id/berita/ste77a348/atletico-madrid-tepis-kabar-julian-alvarez-sudah-ditawar-liverpool",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Mar 2025, 22:24:45"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 00:19:45"
     },
     {
       "judul": "Anak Gagal SNBP? Psikolog: Orang Tua Perlu Bijak Terima Kegagalan Buah Hati",
@@ -391,29 +391,29 @@
       "tanggal_terbit": "Thursday, 20 Mar 2025, 09:39:00"
     },
     {
-      "judul": "Pemerintah Sederhanakan Investasi PLTSa",
-      "link_berita": "https://esgnow.republika.co.id/berita/stdamu416/pemerintah-sederhanakan-investasi-pltsa",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 19 Mar 2025, 18:01:00"
+      "judul": "Dua Anak Usaha PHE Raih Penghargaan ESG di Vietnam",
+      "link_berita": "https://esgnow.republika.co.id/berita/stenwb522/dua-anak-usaha-phe-raih-penghargaan-esg-di-vietnam",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 11:45:00"
     },
     {
-      "judul": "Mudik Pakai Mobil Listrik? PLN Siapkan Seribu SPKLU di Jalur Mudik Utama",
-      "link_berita": "https://ekonomi.republika.co.id/berita/steisy368/mudik-pakai-mobil-listrik-pln-siapkan-seribu-spklu-di-jalur-mudik-utama",
-      "kategori": "Energi",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 09:55:00"
+      "judul": "Jelang Diresmikan Prabowo, Ini Profil KEK Industropolis Batang",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stenmf423/jelang-diresmikan-prabowo-ini-profil-kek-industropolis-batang",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 11:39:00"
     },
     {
-      "judul": "Tugu Insurance Yakin Spin Off UUS 2025 Lancar, Siap Maksimalkan Peluang Pasar Syariah",
-      "link_berita": "https://sharia.republika.co.id/berita/stek42368/tugu-insurance-yakin-spin-off-uus-2025-lancar-siap-maksimalkan-peluang-pasar-syariah",
+      "judul": "Targetkan Spin Off Unit Usaha Syariah Rampung 2025, Ini Strategi Tugu Insurance",
+      "link_berita": "https://sharia.republika.co.id/berita/steoh3423/targetkan-spin-off-unit-usaha-syariah-rampung-2025-ini-strategi-tugu-insurance",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 10:24:00"
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 11:58:00"
     },
     {
-      "judul": "Dedi Mulyadi Bagikan Rp 3 Juta ke Tukang Becak, Kusir, dan Sopir Selama Arus Mudik",
-      "link_berita": "https://news.republika.co.id/berita/stem6w377/dedi-mulyadi-bagikan-rp-3-juta-ke-tukang-becak-kusir-dan-sopir-selama-arus-mudik",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 20 Mar 2025, 11:08:00"
+      "judul": "Deschamps Puji Dembele, Mbappe Senang Kembali ke Prancis",
+      "link_berita": "https://news.republika.co.id/berita/steoph348/deschamps-puji-dembele-mbappe-senang-kembali-ke-prancis",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 20 Mar 2025, 12:03:00"
     }
   ],
-  "waktu_scraping": "Thursday, 20 Mar 2025, 11:24:45"
+  "waktu_scraping": "Thursday, 20 Mar 2025, 12:19:45"
 }
