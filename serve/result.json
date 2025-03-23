@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Staf VOA Gugat Pemerintahan Trump",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stkmvc423/staf-voa-gugat-pemerintahan-trump"
+    },
+    {
+      "judul": "Pejabat Senior Dibunuh Saat Sedang Tahajud, Hamas: Aksi Pengecut Zionis",
+      "link_berita": "https://news.republika.co.id/berita/stklok409/pejabat-senior-dibunuh-saat-sedang-tahajud-hamas-aksi-pengecut-zionis"
+    },
+    {
       "judul": "Delapan Guru di Yahukimo Mengungsi ke Wamena Usai Kabar Penyerangan KKB",
       "link_berita": "https://news.republika.co.id/berita/stkkqk409/delapan-guru-di-yahukimo-mengungsi-ke-wamena-usai-kabar-penyerangan-kkb"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Petinggi Hamas Syahid Dibom Israel Saat Sedang Tahajud",
       "link_berita": "https://news.republika.co.id/berita/stkewg393/petinggi-hamas-syahid-dibom-israel-saat-sedang-tahajud"
-    },
-    {
-      "judul": "TNI Tepis Klaim OPM Bunuh Guru Karena Jadi Mata-Mata di Papua",
-      "link_berita": "https://news.republika.co.id/berita/stk8uh430/tni-tepis-klaim-opm-bunuh-guru-karena-jadi-matamata-di-papua"
-    },
-    {
-      "judul": "Tak Main Paksa Macam Preman, Ribuan Warga Desa ini Cukup Duduk Manis Dapat THR",
-      "link_berita": "https://news.republika.co.id/berita/stk5qs451/tak-main-paksa-macam-preman-ribuan-warga-desa-ini-cukup-duduk-manis-dapat-thr"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Demonstrasi Meluas di Berbagai Wilayah Israel, Tuntut Dihentikannya Serangan ke Gaza",
+      "link_berita": "https://news.republika.co.id/berita/stkp1q409/demonstrasi-meluas-di-berbagai-wilayah-israel-tuntut-dihentikannya-serangan-ke-gaza"
+    },
+    {
+      "judul": "Lailatul Qadar Hanya untuk Umat Rasulullah, Benarkah?",
+      "link_berita": "https://khazanah.republika.co.id/berita/stkiad458/lailatul-qadar-hanya-untuk-umat-rasulullah-benarkah"
+    },
     {
       "judul": "Ratusan Ribu Turun ke Jalan di Israel Menentang Netanyahu",
       "link_berita": "https://news.republika.co.id/berita/stkdko393/ratusan-ribu-turun-ke-jalan-di-israel-menentang-netanyahu"
@@ -73,316 +81,308 @@
     {
       "judul": "Tembus Final, Fikri/Daniel Bertekad Juarai Swiss Open 2025 Hari Ini",
       "link_berita": "https://news.republika.co.id/berita/stjm1z348/tembus-final-fikridaniel-bertekad-juarai-swiss-open-2025-hari-ini"
-    },
-    {
-      "judul": "Arka Entertainment, Era Baru Pertunjukan Drone di Indonesia",
-      "link_berita": "https://ameera.republika.co.id/berita/stjchv425/arka-entertainment-era-baru-pertunjukan-drone-di-indonesia"
-    },
-    {
-      "judul": "Amalan yang Bisa Dilakukan Wanita Haid di 10 Hari Terakhir Ramadhan",
-      "link_berita": "https://khazanah.republika.co.id/berita/stj6ac430/amalan-yang-bisa-dilakukan-wanita-haid-di-10-hari-terakhir-ramadhan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Tugu Insurance Perkuat Transformasi Digital dengan Tiga Fokus Utama",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stkpgk423/tugu-insurance-perkuat-transformasi-digital-dengan-tiga-fokus-utama",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
+      "judul": "Demonstrasi Meluas di Berbagai Wilayah Israel, Tuntut Dihentikannya Serangan ke Gaza",
+      "link_berita": "https://news.republika.co.id/berita/stkp1q409/demonstrasi-meluas-di-berbagai-wilayah-israel-tuntut-dihentikannya-serangan-ke-gaza",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
+      "judul": "Ibarat Pohon Rindang dan Kokoh",
+      "link_berita": "https://khazanah.republika.co.id/berita/stkj6f458/ibarat-pohon-rindang-dan-kokoh",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
+      "judul": "Tahun Ini, Tarif Zakat Fitrah di Malaysia Lebih Mahal",
+      "link_berita": "https://khazanah.republika.co.id/berita/stkogh430/tahun-ini-tarif-zakat-fitrah-di-malaysia-lebih-mahal",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
+      "judul": "Setiap Hari, 200 Ribu Makanan Buka Puasa Dibagikan di Masjidil Haram",
+      "link_berita": "https://khazanah.republika.co.id/berita/stkobt430/setiap-hari-200-ribu-makanan-buka-puasa-dibagikan-di-masjidil-haram",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
+      "judul": "Tampil Gemilang, Oscar Piastri Pimpin McLaren Finis 1-2 di GP F1 China",
+      "link_berita": "https://news.republika.co.id/berita/stkny0348/tampil-gemilang-oscar-piastri-pimpin-mclaren-finis-12-di-gp-f1-china",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
+      "judul": "IIF Danai Pembangunan Pembangkit Mini Hidro di Sumatra Utara",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stknch416/iif-danai-pembangunan-pembangkit-mini-hidro-di-sumatra-utara",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
+    },
+    {
       "judul": "Jadwal Buka Puasa Hari Ini: 23 Maret 2025 di Bandung",
       "link_berita": "https://khazanah.republika.co.id/berita/stkn5a1098568777/jadwal-buka-puasa-hari-ini-23-maret-2025-di-bandung",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Staf VOA Gugat Pemerintahan Trump",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkmvc423/staf-voa-gugat-pemerintahan-trump",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Jadwal Buka Puasa Hari Ini di Kota Semarang, Tanggal 23 Maret 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/stkmtk816733544/jadwal-buka-puasa-hari-ini-di-kota-semarang-tanggal-23-maret-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Untuk Pemudik, ini Jalur Alternatif di Kudus Jawa Tengah",
       "link_berita": "https://news.republika.co.id/berita/stki2j451/untuk-pemudik-ini-jalur-alternatif-di-kudus-jawa-tengah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "KAI Catat 2,517 Juta Tiket Lebaran Terjual dengan 10 Relasi Terpadat",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkmkw423/kai-catat-2517-juta-tiket-lebaran-terjual-dengan-10-relasi-terpadat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Jadwal Buka Puasa Hari Ini, 23 Maret 2025, di Surabaya: Menanti Petang dengan Penuh Syukur",
       "link_berita": "https://khazanah.republika.co.id/berita/stkmhy257405551/jadwal-buka-puasa-hari-ini-23-maret-2025-di-surabaya-menanti-petang-dengan-penuh-syukur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Qatar Kecaman Serangan Udara Israel ke Lebanon Selatan Tewaskan Warga Sipil",
       "link_berita": "https://news.republika.co.id/berita/stkmfc409/qatar-kecaman-serangan-udara-israel-ke-lebanon-selatan-tewaskan-warga-sipil",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Lewat Love Second Change, Sandiaga Yakini Potensi UMKM",
       "link_berita": "https://republika.co.id/berita//stkl5e456/lewat-love-second-change-sandiaga-yakini-potensi-umkm",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Prakiraan Cuaca Besok 24 Maret 2025 Kota Denpasar Bali: Cerah",
       "link_berita": "https://news.republika.co.id/berita/stkly22124426226/prakiraan-cuaca-besok-24-maret-2025-kota-denpasar-bali-cerah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Pejabat Senior Dibunuh Saat Sedang Tahajud, Hamas: Aksi Pengecut Zionis",
       "link_berita": "https://news.republika.co.id/berita/stklok409/pejabat-senior-dibunuh-saat-sedang-tahajud-hamas-aksi-pengecut-zionis",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Mudik Naik Motor, Kakorlantas Polri: Pakai Moda Transportasi Lain Saja",
       "link_berita": "https://news.republika.co.id/berita/stkhvz451/mudik-naik-motor-kakorlantas-polri-pakai-moda-transportasi-lain-saja",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Cegah Jatuh pada Lansia: Upaya Bersama untuk Kualitas Hidup Lebih Baik",
       "link_berita": "https://analisis.republika.co.id/berita/stkl8l472/cegah-jatuh-pada-lansia-upaya-bersama-untuk-kualitas-hidup-lebih-baik",
       "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Prakiraan Cuaca Besok 24 Maret 2025: Kota Makassar dan Sekitarnya - Hujan Ringan",
       "link_berita": "https://news.republika.co.id/berita/stkl462132890014/prakiraan-cuaca-besok-24-maret-2025-kota-makassar-dan-sekitarnya-hujan-ringan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Airlangga: Inklusi Keuangan Meningkat, tapi Literasi Masih Jadi Tantangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkl3b423/airlangga-inklusi-keuangan-meningkat-tapi-literasi-masih-jadi-tantangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "BKI Dukung Mudik Gratis Sambut Lebaran 2025",
       "link_berita": "https://news.republika.co.id/berita/stkkts456/bki-dukung-mudik-gratis-sambut-lebaran-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Delapan Guru di Yahukimo Mengungsi ke Wamena Usai Kabar Penyerangan KKB",
       "link_berita": "https://news.republika.co.id/berita/stkkqk409/delapan-guru-di-yahukimo-mengungsi-ke-wamena-usai-kabar-penyerangan-kkb",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Prakiraan Cuaca Besok: Hujan Ringan di Kota Medan dan Sekitarnya 24 Maret 2025",
       "link_berita": "https://news.republika.co.id/berita/stkkjz1487260689/prakiraan-cuaca-besok-hujan-ringan-di-kota-medan-dan-sekitarnya-24-maret-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "BPBD Bali Siagakan Personel di Pos Mudik Buntut 18 Pohon Tumbang",
       "link_berita": "https://news.republika.co.id/berita/stkhn2451/bpbd-bali-siagakan-personel-di-pos-mudik-buntut-18-pohon-tumbang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Bio Farma Terima Sertifikat Halal Vaksin BCG dari BPJPH",
       "link_berita": "https://rejabar.republika.co.id/berita/stkk7s512/bio-farma-terima-sertifikat-halal-vaksin-bcg-dari-bpjph",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Tol Balikpapan-Samarinda Siap Hadapi Arus Lebaran 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkjyr423/tol-balikpapansamarinda-siap-hadapi-arus-lebaran-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Singgah di Barbershop Serambi MyPertamina, Tampil Menawan Sebelum ke Kampung Halaman",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkjr9472/singgah-di-barbershop-serambi-mypertamina-tampil-menawan-sebelum-ke-kampung-halaman",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Menhub Sebut Pergerakan Pemudik Sudah Terjadi di Jalan Tol",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkjbk423/menhub-sebut-pergerakan-pemudik-sudah-terjadi-di-jalan-tol",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Soal Mudik, Menhub: Kami Pastikan Aman Terkendali",
       "link_berita": "https://news.republika.co.id/berita/stkhqk451/soal-mudik-menhub-kami-pastikan-aman-terkendali",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Pertamina Tebar Kebaikan Ramadan Lewat Berkah Mengaji dan Takjil Gratis",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkj8z472/pertamina-tebar-kebaikan-ramadan-lewat-berkah-mengaji-dan-takjil-gratis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Dukung Kesejahteraan Masyarakat Pesisir, PIS Gelar Program TJSL di Ampenan",
       "link_berita": "https://esgnow.republika.co.id/berita/stkiyp522/dukung-kesejahteraan-masyarakat-pesisir-pis-gelar-program-tjsl-di-ampenan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Angkasa Pura: Bandara YIA Aman dari Ancaman 5 Bencana",
       "link_berita": "https://news.republika.co.id/berita/stkis7458/angkasa-pura-bandara-yia-aman-dari-ancaman-5-bencana",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Kemenhub Tegaskan Indonesia Airlines Belum Ajukan Izin Penerbangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkiku423/kemenhub-tegaskan-indonesia-airlines-belum-ajukan-izin-penerbangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Layanan Serambi MyPertamina Bandara: Porter Gratis Bikin Mudik Lebih Praktis",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkiiz472/layanan-serambi-mypertamina-bandara-porter-gratis-bikin-mudik-lebih-praktis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Lailatul Qadar Hanya untuk Umat Rasulullah, Benarkah?",
       "link_berita": "https://khazanah.republika.co.id/berita/stkiad458/lailatul-qadar-hanya-untuk-umat-rasulullah-benarkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Kewalahan Hadapi Houthi, AS Kirim Kapal Induk Tambahan",
       "link_berita": "https://news.republika.co.id/berita/stkefe393/kewalahan-hadapi-houthi-as-kirim-kapal-induk-tambahan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Polisi Bersihkan Masjid untuk Perkuat Hubungan dengan Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/stkhga451/polisi-bersihkan-masjid-untuk-perkuat-hubungan-dengan-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Teror Tempo, Wamenaker: Ini Serangan terhadap Demokrasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkhre423/teror-tempo-wamenaker-ini-serangan-terhadap-demokrasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "MBG di Papua Lima Kali Sepekan",
       "link_berita": "https://news.republika.co.id/berita/stkhjj451/mbg-di-papua-lima-kali-sepekan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Inilah Maksud 'Seribu Bulan' yang Dibanding dengan Lailatul Qadar",
       "link_berita": "https://www.republika.id/posts/57240/inilah-maksud-seribu-bulan-yang-dibanding-dengan-lailatul-qadar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Bahagia dengan Rasa Cukup",
       "link_berita": "https://khazanah.republika.co.id/berita/stkesm458/bahagia-dengan-rasa-cukup",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Dari Donasi ke Investasi Sosial, Transformasi Filantropi untuk Keberlanjutan",
       "link_berita": "https://analisis.republika.co.id/berita/stkhrf282/dari-donasi-ke-investasi-sosial-transformasi-filantropi-untuk-keberlanjutan",
       "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Ungkap Setoran Sabung Ayam Antararapat, Kapendam: Kita Bukan Bodoh-Bodoh Amat lah",
       "link_berita": "https://news.republika.co.id/berita/stkhbh409/ungkap-setoran-sabung-ayam-antararapat-kapendam-kita-bukan-bodohbodoh-amat-lah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Agar Industri Ekonomi Kreatif Kita Mendunia, ini yang Dilakukan Menteri Perdagangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/stkh9d451/agar-industri-ekonomi-kreatif-kita-mendunia-ini-yang-dilakukan-menteri-perdagangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Khawatir Ambruk, Korban Pergeseran Tanah di Bandung Barat Tinggalkan Rumah",
       "link_berita": "https://rejabar.republika.co.id/berita/stkh92512/khawatir-ambruk-korban-pergeseran-tanah-di-bandung-barat-tinggalkan-rumah",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Cara Kerja Mahasiswa Cegah Kaum Emak-Emak Kena Stunting",
       "link_berita": "https://news.republika.co.id/berita/stkh3x451/cara-kerja-mahasiswa-cegah-kaum-emakemak-kena-stunting",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "BSI Card Hadirkan Promo Lifestyle Eksklusif Selama Ramadan",
       "link_berita": "https://sharia.republika.co.id/berita/stkgzo423/bsi-card-hadirkan-promo-lifestyle-eksklusif-selama-ramadan",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Amankan Perbatasan, Begini Tugas TNI yang Harus Tuntas",
       "link_berita": "https://news.republika.co.id/berita/stkgz7451/amankan-perbatasan-begini-tugas-tni-yang-harus-tuntas",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Puluhan Syahid Akibat Serangan Dini Hari Israel ke Gaza",
       "link_berita": "https://news.republika.co.id/berita/stkcsj393/puluhan-syahid-akibat-serangan-dini-hari-israel-ke-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Bolehkah I\u2019tikaf di Rumah? Ini Pendapat Syekh Abdul Azis bin Fathi",
-      "link_berita": "https://khazanah.republika.co.id/berita/stke0z458/bolehkah-itikaf-di-rumah-ini-pendapat-syekh-abdul-azis-bin-fathi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 24 Maret 2025 untuk Bandung dan Sekitarnya: Hujan Ringan di Garut",
-      "link_berita": "https://news.republika.co.id/berita/stkgmd284808114/prakiraan-cuaca-besok-24-maret-2025-untuk-bandung-dan-sekitarnya-hujan-ringan-di-garut",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Tahun Ini, Pemudik yang Lewat Jalur Arteri di Bandung Barat Berpotensi Melonjak",
-      "link_berita": "https://rejabar.republika.co.id/berita/stkgjp512/tahun-ini-pemudik-yang-lewat-jalur-arteri-di-bandung-barat-berpotensi-melonjak",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Mudik dalam Perspektif Ekonomi Sirkular dan Ekonomi Islam",
-      "link_berita": "https://analisis.republika.co.id/berita/stkgem472/mudik-dalam-perspektif-ekonomi-sirkular-dan-ekonomi-islam",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Spalletti Tegaskan Italia Butuh Keajaiban untuk Singkirkan Jerman dari UEFA Nations League",
-      "link_berita": "https://news.republika.co.id/berita/stkg4y348/spalletti-tegaskan-italia-butuh-keajaiban-untuk-singkirkan-jerman-dari-uefa-nations-league",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Insentif Pajak Bisa Dongkrak Properti Hijau, Ini Usulan Pengembang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stkg4p423/insentif-pajak-bisa-dongkrak-properti-hijau-ini-usulan-pengembang",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
-    },
-    {
-      "judul": "Program Pemutihan Disambut Antusias, Weekend Samsat Tetap Beroperasi",
-      "link_berita": "https://rejabar.republika.co.id/berita/stkg4g512/program-pemutihan-disambut-antusias-weekend-samsat-tetap-beroperasi",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 10:19:25"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 11:17:03"
     },
     {
       "judul": "Pertamina Siapkan Kids Corner di Serambi MyPertamina",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Sunday, 23 Mar 2025, 15:44:00"
     },
     {
-      "judul": "Staf VOA Gugat Pemerintahan Trump",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stkmvc423/staf-voa-gugat-pemerintahan-trump",
+      "judul": "Tugu Insurance Perkuat Transformasi Digital dengan Tiga Fokus Utama",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stkpgk423/tugu-insurance-perkuat-transformasi-digital-dengan-tiga-fokus-utama",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 17:09:00"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 18:05:00"
     },
     {
       "judul": "BSI Card Hadirkan Promo Lifestyle Eksklusif Selama Ramadan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 23 Mar 2025, 15:02:00"
     },
     {
-      "judul": "Qatar Kecaman Serangan Udara Israel ke Lebanon Selatan Tewaskan Warga Sipil",
-      "link_berita": "https://news.republika.co.id/berita/stkmfc409/qatar-kecaman-serangan-udara-israel-ke-lebanon-selatan-tewaskan-warga-sipil",
+      "judul": "Demonstrasi Meluas di Berbagai Wilayah Israel, Tuntut Dihentikannya Serangan ke Gaza",
+      "link_berita": "https://news.republika.co.id/berita/stkp1q409/demonstrasi-meluas-di-berbagai-wilayah-israel-tuntut-dihentikannya-serangan-ke-gaza",
       "kategori": "Internasional",
-      "tanggal_terbit": "Sunday, 23 Mar 2025, 16:59:00"
+      "tanggal_terbit": "Sunday, 23 Mar 2025, 17:56:00"
     }
   ],
-  "waktu_scraping": "Sunday, 23 Mar 2025, 17:19:25"
+  "waktu_scraping": "Sunday, 23 Mar 2025, 18:17:03"
 }
