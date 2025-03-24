@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Sebulan Lebih Dilaksanakan, Program Cek Kesehatan Gratis di Jakarta Belum Sesuai Target",
+      "link_berita": "https://news.republika.co.id/berita/stmk7a487/sebulan-lebih-dilaksanakan-program-cek-kesehatan-gratis-di-jakarta-belum-sesuai-target"
+    },
+    {
       "judul": "Empat Warga Asing Jadi Dewan Penasihat Danantara, Ini Profilnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmh7k423/empat-warga-asing-jadi-dewan-penasihat-danantara-ini-profilnya"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Minta Pemain Timnas tak Dibandingkan, Rizky Ridho: Semua akan Tampilkan yang Terbaik",
       "link_berita": "https://news.republika.co.id/berita/stma82348/minta-pemain-timnas-tak-dibandingkan-rizky-ridho-semua-akan-tampilkan-yang-terbaik"
-    },
-    {
-      "judul": "Sah! Ini Susunan Lengkap Tim Pengurus Danantara, Pastikan tak Ada Titipan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stm73s423/sah-ini-susunan-lengkap-tim-pengurus-danantara-pastikan-tak-ada-titipan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pengelola Terminal Pulo Gebang Siapkan Penginapan Bagi Pemudik, Harga Sewa Rp15 Ribu",
+      "link_berita": "https://news.republika.co.id/berita/stmoaq425/pengelola-terminal-pulo-gebang-siapkan-penginapan-bagi-pemudik-harga-sewa-rp15-ribu"
+    },
+    {
+      "judul": "Ketua Komisi III DPR: Kejaksaan Tetap Bisa Menyidik Perkara Korupsi di RKUHAP",
+      "link_berita": "https://news.republika.co.id/berita/stmj7y409/ketua-komisi-iii-dpr-kejaksaan-tetap-bisa-menyidik-perkara-korupsi-di-rkuhap"
+    },
     {
       "judul": "KPI akan Proses Tayangan Berbau LGBT di Bulan Ramadhan",
       "link_berita": "https://khazanah.republika.co.id/berita/stmhei366/kpi-akan-proses-tayangan-berbau-lgbt-di-bulan-ramadhan"
@@ -73,334 +81,326 @@
     {
       "judul": "Mata Uang Terlemah Negara-Negara Islam di Hadapan Dolar AS pada 2025, Rupiah Masuk?",
       "link_berita": "https://khazanah.republika.co.id/berita/stly1j320/mata-uang-terlemah-negaranegara-islam-di-hadapan-dolar-as-pada-2025-rupiah-masuk"
-    },
-    {
-      "judul": "Memahami Itikaf di Bulan Ramadhan",
-      "link_berita": "https://visual.republika.co.id/berita/stlx98458/memahami-itikaf-di-bulan-ramadhan"
-    },
-    {
-      "judul": "Cek Harga BBM Jelang Lebaran, Pertamina, Shell, dan BP Stabil, Vivo Turun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stlwlv502/cek-harga-bbm-jelang-lebaran-pertamina-shell-dan-bp-stabil-vivo-turun"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pengelola Terminal Pulo Gebang Siapkan Penginapan Bagi Pemudik, Harga Sewa Rp15 Ribu",
+      "link_berita": "https://news.republika.co.id/berita/stmoaq425/pengelola-terminal-pulo-gebang-siapkan-penginapan-bagi-pemudik-harga-sewa-rp15-ribu",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 12:35:18"
+    },
+    {
+      "judul": "Indonesia dan Negara Mitra Berkomitmen Lanjutkan JETP",
+      "link_berita": "https://esgnow.republika.co.id/berita/stmo5a416/indonesia-dan-negara-mitra-berkomitmen-lanjutkan-jetp",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 12:32:18"
+    },
+    {
+      "judul": "Film Perang Kota Dinilai Relevan Ditonton Generasi Muda",
+      "link_berita": "https://ameera.republika.co.id/berita/stmn3h425/film-perang-kota-dinilai-relevan-ditonton-generasi-muda",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 12:09:18"
+    },
+    {
+      "judul": "Rosan: Pengurus Danantara Telah Melalui Seleksi yang Ketat, Punya Track Record Baik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stmmxd370/rosan-pengurus-danantara-telah-melalui-seleksi-yang-ketatpunya-track-record-baik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 12:05:18"
+    },
+    {
+      "judul": "Wakil Ketua DPR Bagikan 10 Ribu Paket Sembako di Surabaya dan Sidoarjo",
+      "link_berita": "https://khazanah.republika.co.id/berita/stmlek484/wakil-ketua-dpr-bagikan-10-ribu-paket-sembako-di-surabaya-dan-sidoarjo",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 11:42:18"
+    },
+    {
+      "judul": "Trincao Bahagia Jadi Bintang Keberhasilan Portugal ke Semifinal UEFA Nations League",
+      "link_berita": "https://news.republika.co.id/berita/stmlea348/trincao-bahagia-jadi-bintang-keberhasilan-portugal-ke-semifinal-uefa-nations-league",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 11:42:18"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok, 25 Maret 2025: Kota Padang Cerah",
+      "link_berita": "https://news.republika.co.id/berita/stml941508759964/prakiraan-cuaca-besok-25-maret-2025-kota-padang-cerah",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 11:42:18"
+    },
+    {
       "judul": "Ketika Para Lansia Belajari Waris, Wasiat, Wakaf, dan Hibah: Mengapa Penting?",
       "link_berita": "https://khazanah.republika.co.id/berita/stmkmm320/ketika-para-lansia-belajari-waris-wasiat-wakaf-dan-hibah-mengapa-penting",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 11:15:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 11:42:18"
     },
     {
       "judul": "Sebulan Lebih Dilaksanakan, Program Cek Kesehatan Gratis di Jakarta Belum Sesuai Target",
       "link_berita": "https://news.republika.co.id/berita/stmk7a487/sebulan-lebih-dilaksanakan-program-cek-kesehatan-gratis-di-jakarta-belum-sesuai-target",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 11:06:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "BRI Tetapkan Dividen Rp 51,74 Triliun, Lebih Besar dari Tahun Lalu",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmjzc423/bri-tetapkan-dividen-rp-5174-triliun-lebih-besar-dari-tahun-lalu",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 11:01:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Kendaraan Pemudik Padati Pelabuhan Gilimanuk",
       "link_berita": "https://visual.republika.co.id/berita/stmcbg375/kendaraan-pemudik-padati-pelabuhan-gilimanuk",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:59:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Ketua Komisi III DPR: Kejaksaan Tetap Bisa Menyidik Perkara Korupsi di RKUHAP",
       "link_berita": "https://news.republika.co.id/berita/stmj7y409/ketua-komisi-iii-dpr-kejaksaan-tetap-bisa-menyidik-perkara-korupsi-di-rkuhap",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:45:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Tanda-Tanda Puasa Ramadhan yang Berhasil Menurut Imam Al Ghazali",
       "link_berita": "https://retizen.republika.co.id/posts/515685/tanda-tanda-puasa-ramadhan-yang-berhasil-menurut-imam-al-ghazali",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:43:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Tidak Ada Negara yang Berani Menyerang Iran Menurut Menlu Araghchi, Ini Alasannya",
       "link_berita": "https://news.republika.co.id/berita/stmix8409/tidak-ada-negara-yang-berani-menyerang-iran-menurut-menlu-araghchi-ini-alasannya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:38:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Grab Bayarkan BHR kepada Ratusan Ribu Pengemudi, Segini Besarannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmigt423/grab-bayarkan-bhr-kepada-ratusan-ribu-pengemudi-segini-besarannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:29:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Jadwal Buka Puasa Hari Ini, 24 Maret 2025 di Jakarta: Lengkap dengan Jadwal Imsakiyah Ramadhan",
       "link_berita": "https://khazanah.republika.co.id/berita/stmida8479507/jadwal-buka-puasa-hari-ini-24-maret-2025-di-jakarta-lengkap-dengan-jadwal-imsakiyah-ramadhan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:27:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Kecam Tayangan Berkonten LGBT saat Ramadhan, Aisyiyah: KPI Harus Tegas!",
       "link_berita": "https://khazanah.republika.co.id/berita/stmi7d458/kecam-tayangan-berkonten-lgbt-saat-ramadhan-aisyiyah-kpi-harus-tegas",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:23:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "BSI Catat Transaksi Remitansi Capai Rp 1,5 Triliun Jelang Lebaran",
       "link_berita": "https://sharia.republika.co.id/berita/stmi5q370/bsi-catat-transaksi-remitansi-capai-rp-15-triliun-jelang-lebaran",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:22:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "KPI akan Proses Tayangan Berbau LGBT di Bulan Ramadhan",
       "link_berita": "https://khazanah.republika.co.id/berita/stmhei366/kpi-akan-proses-tayangan-berbau-lgbt-di-bulan-ramadhan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:20:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "74 Persen Responden Dilaporkan Memperhatikan Iklan Saat Berada di Transportasi Umum",
       "link_berita": "https://republika.co.id/berita//stmi27483/74-persen-responden-dilaporkan-memperhatikan-iklan-saat-berada-di-transportasi-umum",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:20:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Kebijakan WFA Diharapkan Tekan Kepadatan Pemudik di Pelabuhan Merak",
       "link_berita": "https://shippingcargo.co.id/posts/515652/kebijakan-wfa-diharapkan-tekan-kepadatan-pemudik-di-pelabuhan-merak",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Pergerakan Pemudik Sudah Terlihat Sejak Akhir Pekan Lalu, Dipicu WFA?",
       "link_berita": "https://pemantiknews.id/posts/515693/pergerakan-pemudik-sudah-terlihat-sejak-akhir-pekan-lalu-dipicu-wfa-",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 10:42:18"
     },
     {
       "judul": "Waskita Bangga Ikut Renovasi Masjidil Haram",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmhjy423/waskita-bangga-ikut-renovasi-masjidil-haram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Jadwal Buka Puasa Hari Ini 24 Maret 2025 di Semarang: Temukan di Sini!",
       "link_berita": "https://khazanah.republika.co.id/berita/stmhhm351720538/jadwal-buka-puasa-hari-ini-24-maret-2025-di-semarang-temukan-di-sini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Empat Warga Asing Jadi Dewan Penasihat Danantara, Ini Profilnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmh7k423/empat-warga-asing-jadi-dewan-penasihat-danantara-ini-profilnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Beredar Surat Minta 'Uang Pembinaan' Buat Lebaran dari GRIB Mersel, Ini Klarifikasi DPP",
       "link_berita": "https://news.republika.co.id/berita/stmdzj377/beredar-surat-minta-uang-pembinaan-buat-lebaran-dari-grib-mersel-ini-klarifikasi-dpp",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Cegah Pendangkalan, Petugas Gabungan Bersihkan Sampah yang Menumpuk di BKT Tambakrejo",
       "link_berita": "https://visual.republika.co.id/berita/stmcdy375/cegah-pendangkalan-petugas-gabungan-bersihkan-sampah-yang-menumpuk-di-bkt-tambakrejo",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Fee Titip Tukar Uang, Halalkah?",
       "link_berita": "https://khazanah.republika.co.id/berita/stmgzx458/fee-titip-tukar-uang-halalkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Perang Darat di Jalur Gaza, Israel Terpaksa Harus Lakukan Ini Agar tak Dibantai",
       "link_berita": "https://khazanah.republika.co.id/berita/stmgtx320/perang-darat-di-jalur-gaza-israel-terpaksa-harus-lakukan-ini-agar-tak-dibantai",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 10:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Pertamina NRE Bangun PLTS Dukung Produksi Petani Jamur",
       "link_berita": "https://esgnow.republika.co.id/berita/stmgby416/pertamina-nre-bangun-plts-dukung-produksi-petani-jamur",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Film Perang Kota Pakai Format Unik 4:3, Fokus ke Karakter, Bukan Set!",
       "link_berita": "https://ameera.republika.co.id/berita/stmgbb425/film-perang-kota-pakai-format-unik-43-fokus-ke-karakter-bukan-set",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Lebaran Sehat tanpa Gangguan Pencernaan, Ini Tips dari Dokter",
       "link_berita": "https://ameera.republika.co.id/berita/stmfz1425/lebaran-sehat-tanpa-gangguan-pencernaan-ini-tips-dari-dokter",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Bangga! 2 Mahasiswa Ilmu Politik UMJ Sabet Juara di Kompetisi Penulisan Ilmiah AMEC",
       "link_berita": "https://news.republika.co.id/berita/stmfuf368/bangga-2-mahasiswa-ilmu-politik-umj-sabet-juara-di-kompetisi-penulisan-ilmiah-amec",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Kapolda Lampung Tantang TNI Tunjukkan Bukti Isu Setoran Uang Pengamanan Judi Sabung Ayam",
       "link_berita": "https://news.republika.co.id/berita/stmfsl409/kapolda-lampung-tantang-tni-tunjukkan-bukti-isu-setoran-uang-pengamanan-judi-sabung-ayam",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Prakiraan Cuaca Kota Makassar dan Sekitarnya: Hujan Ringan pada 25 Maret 2025",
       "link_berita": "https://news.republika.co.id/berita/stmfsi913372801/prakiraan-cuaca-kota-makassar-dan-sekitarnya-hujan-ringan-pada-25-maret-2025",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Belum Siap Bertanding, Anthony Ginting Absen di Kejuaraan Bulu Tangkis Asia 2025",
       "link_berita": "https://news.republika.co.id/berita/stmfs6348/belum-siap-bertanding-anthony-ginting-absen-di-kejuaraan-bulu-tangkis-asia-2025",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Dari Letovo ke Indonesia",
       "link_berita": "https://analisis.republika.co.id/berita/stmfpr393/dari-letovo-ke-indonesia",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Konflik Internal Israel Semakin Tajam, Saling Bongkar Aib Antara Ben-Gvir Versus Shin Bet",
       "link_berita": "https://khazanah.republika.co.id/berita/stmfau320/konflik-internal-israel-semakin-tajam-saling-bongkar-aib-antara-bengvir-versus-shin-bet",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Prakiraan Cuaca Besok, Kota Medan: Berawan 25 Maret 2025",
       "link_berita": "https://news.republika.co.id/berita/stmf8h625431190/prakiraan-cuaca-besok-kota-medan-berawan-25-maret-2025",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "TPA Ditutup, Metode Pembakaran Dioptimalkan Atasi Darurat Sampah Pekalongan",
       "link_berita": "https://esgnow.republika.co.id/berita/stmf2e416/tpa-ditutup-metode-pembakaran-dioptimalkan-atasi-darurat-sampah-pekalongan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 09:42:18"
     },
     {
       "judul": "Ada Unsur Riba, Haram Jasa Tukar Uang di Pinggir Jalan",
       "link_berita": "https://khazanah.republika.co.id/berita/stmekw458/ada-unsur-riba-haram-jasa-tukar-uang-di-pinggir-jalan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Ini Janji Hercules Jika Ada Anggota GRIB Minta THR ke Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/stmejy487/ini-janji-hercules-jika-ada-anggota-grib-minta-thr-ke-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Exit Tol Tamanmartani Mulai Dibuka Secara Fungsional",
       "link_berita": "https://visual.republika.co.id/berita/stmc8l375/exit-tol-tamanmartani-mulai-dibuka-secara-fungsional",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Instruksi Hercules, Anggota GRIB yang Minta-Minta THR akan Dipecat",
       "link_berita": "https://news.republika.co.id/berita/stme1e409/instruksi-hercules-anggota-grib-yang-mintaminta-thr-akan-dipecat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Jasa Marga Catat 459.147 Kendaraan Meninggalkan Jabotabek",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmdyg370/jasa-marga-catat-459147-kendaraan-meninggalkan-jabotabek",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Prakiraan Cuaca Kota Surabaya dan Sekitarnya - Berawan 24 Maret 2025",
       "link_berita": "https://news.republika.co.id/berita/stmdu21826749789/prakiraan-cuaca-kota-surabaya-dan-sekitarnya-berawan-24-maret-2025",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Istana akan Libatkan Ojek Online untuk Distribusi Program Makan Bergizi Gratis",
       "link_berita": "https://news.republika.co.id/berita/stmdt8487/istana-akan-libatkan-ojek-online-untuk-distribusi-program-makan-bergizi-gratis",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 09:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Jadwal Kualifikasi Piala Dunia 2026 Zona Asia: Indonesia Ladeni Bahrain di SUGBK",
       "link_berita": "https://news.republika.co.id/berita/stmdqa348/jadwal-kualifikasi-piala-dunia-2026-zona-asia-indonesia-ladeni-bahrain-di-sugbk",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
       "judul": "Danantara\u2019s Full Management Revealed, Ray Dalio and Thaksin Shinawatra on the Spotlight!",
       "link_berita": "https://en.republika.co.id/berita/stmdli502/danantaras-full-management-revealed-ray-dalio-and-thaksin-shinawatra-on-the-spotlight",
       "kategori": "En",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 11:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 12:42:18"
     },
     {
       "judul": "Ini Profil 5 Dewan Penasihat Danantara, dari Ray Dalio Hingga Mantan PM Thailand",
       "link_berita": "https://ekonomi.republika.co.id/berita/stmdep487/ini-profil-5-dewan-penasihat-danantara-dari-ray-dalio-hingga-mantan-pm-thailand",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 08:42:18"
     },
     {
-      "judul": "Menhub: Hindari Puncak Kemacetan, Mudik Lebih Awal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stmcuq423/menhub-hindari-puncak-kemacetan-mudik-lebih-awal",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "BNI Sediakan Uang Pecahan Rp 20 Ribu di 47 ATM dari Lampung Sampai Papua",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stmd8n423/bni-sediakan-uang-pecahan-rp-20-ribu-di-47-atm-dari-lampung-sampai-papua",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "Mudik dan Ronda Tempo Dulu",
-      "link_berita": "https://news.republika.co.id/berita/stmd45458/mudik-dan-ronda-tempo-dulu",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "Polisi Ingatkan Warga Waspadai Peredaran Uang Palsu Jelang Lebaran di Jabar",
-      "link_berita": "https://rejabar.republika.co.id/berita/stmcy1512/polisi-ingatkan-warga-waspadai-peredaran-uang-palsu-jelang-lebaran-di-jabar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "CEO Danantara Yakin Struktur Pengurus Bawa Sinyal Positif ke Ekonomi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stmcnq423/ceo-danantara-yakin-struktur-pengurus-bawa-sinyal-positif-ke-ekonomi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "1,8 Miliar Orang Terdampak Perubahan Suhu Akibat Perubahan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/stmcue416/18-miliar-orang-terdampak-perubahan-suhu-akibat-perubahan-iklim",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "Universitas Sunan Gresik Didirikan, Ini 13 Prodi yang Dibuka pada Tahap Awal",
-      "link_berita": "https://news.republika.co.id/berita/stmcta487/universitas-sunan-gresik-didirikan-ini-13-prodi-yang-dibuka-pada-tahap-awal",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 08:17:39"
-    },
-    {
-      "judul": "Film Perang Kota Pakai Format Unik 4:3, Fokus ke Karakter, Bukan Set!",
-      "link_berita": "https://ameera.republika.co.id/berita/stmgbb425/film-perang-kota-pakai-format-unik-43-fokus-ke-karakter-bukan-set",
+      "judul": "Film Perang Kota Dinilai Relevan Ditonton Generasi Muda",
+      "link_berita": "https://ameera.republika.co.id/berita/stmn3h425/film-perang-kota-dinilai-relevan-ditonton-generasi-muda",
       "kategori": "Happening",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 16:42:00"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 19:09:00"
     },
     {
-      "judul": "Pertamina NRE Bangun PLTS Dukung Produksi Petani Jamur",
-      "link_berita": "https://esgnow.republika.co.id/berita/stmgby416/pertamina-nre-bangun-plts-dukung-produksi-petani-jamur",
+      "judul": "Indonesia dan Negara Mitra Berkomitmen Lanjutkan JETP",
+      "link_berita": "https://esgnow.republika.co.id/berita/stmo5a416/indonesia-dan-negara-mitra-berkomitmen-lanjutkan-jetp",
       "kategori": "Tata Kelola",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 16:43:00"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 19:31:00"
     },
     {
-      "judul": "BRI Tetapkan Dividen Rp 51,74 Triliun, Lebih Besar dari Tahun Lalu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stmjzc423/bri-tetapkan-dividen-rp-5174-triliun-lebih-besar-dari-tahun-lalu",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 18:02:00"
+      "judul": "Rosan: Pengurus Danantara Telah Melalui Seleksi yang Ketat, Punya Track Record Baik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stmmxd370/rosan-pengurus-danantara-telah-melalui-seleksi-yang-ketatpunya-track-record-baik",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 24 Mar 2025, 19:05:00"
     },
     {
       "judul": "BSI Catat Transaksi Remitansi Capai Rp 1,5 Triliun Jelang Lebaran",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 24 Mar 2025, 17:22:00"
     },
     {
-      "judul": "Sebulan Lebih Dilaksanakan, Program Cek Kesehatan Gratis di Jakarta Belum Sesuai Target",
-      "link_berita": "https://news.republika.co.id/berita/stmk7a487/sebulan-lebih-dilaksanakan-program-cek-kesehatan-gratis-di-jakarta-belum-sesuai-target",
+      "judul": "Pengelola Terminal Pulo Gebang Siapkan Penginapan Bagi Pemudik, Harga Sewa Rp15 Ribu",
+      "link_berita": "https://news.republika.co.id/berita/stmoaq425/pengelola-terminal-pulo-gebang-siapkan-penginapan-bagi-pemudik-harga-sewa-rp15-ribu",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 24 Mar 2025, 18:06:00"
+      "tanggal_terbit": "Monday, 24 Mar 2025, 19:35:00"
     }
   ],
-  "waktu_scraping": "Monday, 24 Mar 2025, 18:17:39"
+  "waktu_scraping": "Monday, 24 Mar 2025, 19:42:18"
 }
