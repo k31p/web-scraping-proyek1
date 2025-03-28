@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "PB Alkhairaat Siap Laporkan Gus Fuad Plered yang Hina Guru Tua",
+      "link_berita": "https://news.republika.co.id/berita/sttbmf484/pb-alkhairaat-siap-laporkan-gus-fuad-plered-yang-hina-guru-tua"
+    },
+    {
       "judul": "AS Cabut Visa Ratusan Mahasiswa Pro Palestina, Sebut Mereka Sudah Gila",
       "link_berita": "https://khazanah.republika.co.id/berita/stt9c7483/as-cabut-visa-ratusan-mahasiswa-pro-palestina-sebut-mereka-sudah-gila"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Menhub Prediksi Puncak Arus Mudik Pesawat Hari Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/stse16483/menhub-prediksi-puncak-arus-mudik-pesawat-hari-ini"
-    },
-    {
-      "judul": "Kontroversi Menhan AS Pete Hegseth Punya Tato 'Kafir' dan 'Yahweh'",
-      "link_berita": "https://news.republika.co.id/berita/stsx6n484/kontroversi-menhan-as-pete-hegseth-punya-tato-kafir-dan-yahweh"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ini Langkah-Langkah Strategis OJK Hadapi Ketidakpastian Global 2025",
+      "link_berita": "https://visual.republika.co.id/berita/sttf35472/ini-langkahlangkah-strategis-ojk-hadapi-ketidakpastian-global-2025"
+    },
+    {
+      "judul": "Gus Fuad Plered Minta Maaf: Monyet Bukan Saya Amanatkan untuk Guru Tua",
+      "link_berita": "https://news.republika.co.id/berita/sttdqk484/gus-fuad-plered-minta-maaf-monyet-bukan-saya-amanatkan-untuk-guru-tua"
+    },
+    {
+      "judul": "Tato Kafir Menhan AS yang Disandingkan dengan Slogan Perang Salib tak Cuma Ejekan, tapi\u2026",
+      "link_berita": "https://khazanah.republika.co.id/berita/sttd3s320/tato-kafir-menhan-as-yang-disandingkan-dengan-slogan-perang-salib-tak-cuma-ejekan-tapi"
+    },
     {
       "judul": "Lebaran tanpa Drama, Psikolog Beri Tips Jitu Ketika Ditanya \u2018Kapan Nikah\u2019 Saat Lebaran",
       "link_berita": "https://ameera.republika.co.id/berita/stt7by425/lebaran-tanpa-drama-psikolog-beri-tips-jitu-ketika-ditanya-kapan-nikah-saat-lebaran"
@@ -69,326 +81,314 @@
     {
       "judul": "Libur Lebaran, Ganjil-Genap Ditiadakan di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/sts69d393/libur-lebaran-ganjilgenap-ditiadakan-di-jakarta"
-    },
-    {
-      "judul": "Mulai Padati DPR, Massa Aksi Konsisten Tolak UU TNI",
-      "link_berita": "https://news.republika.co.id/berita/sts5ds393/mulai-padati-dpr-massa-aksi-konsisten-tolak-uu-tni"
-    },
-    {
-      "judul": "Tiga Bank BUMN Kompak Buyback Saham",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sts0gm370/tiga-bank-bumn-kompak-buyback-saham"
-    },
-    {
-      "judul": "LPPOM Imbau Pemudik Jangan Konsumsi Jamu Beralkohol",
-      "link_berita": "https://khazanah.republika.co.id/berita/strzsv458/lppom-imbau-pemudik-jangan-konsumsi-jamu-beralkohol"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Laba Sebelum Pajak Bank Muamalat Naik 45 Persen pada 2024",
+      "link_berita": "https://sharia.republika.co.id/berita/sttg9j502/laba-sebelum-pajak-bank-muamalatnaik-45-persen-pada-2024",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 04:24:55"
+    },
+    {
+      "judul": "Mengisi Waktu dengan Kegiatan Positif",
+      "link_berita": "https://rejogja.republika.co.id/berita/sttg4y291/mengisi-waktu-dengan-kegiatan-positif",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 04:22:25"
+    },
+    {
+      "judul": "Menhub Sebut Puncak Arus Mudik Terjadi Hari Ini, One Way Diberlakukan Hingga Kalikangkung",
+      "link_berita": "https://news.republika.co.id/berita/sttg0p487/menhub-sebut-puncak-arus-mudik-terjadi-hari-ini-one-way-diberlakukan-hingga-kalikangkung",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 04:19:25"
+    },
+    {
+      "judul": "Terminal Kampung Rambutan Dipadati Penumpang, Prediksi Puncak Arus Mudik Terjadi Hari ini",
+      "link_berita": "https://tv.republika.co.id/berita/sttfz6313/terminal-kampung-rambutan-dipadati-penumpang-prediksi-puncak-arus-mudik-terjadi-hari-ini",
+      "kategori": "Video",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 04:18:25"
+    },
+    {
+      "judul": "Viral, Dua Preman Ngamuk Minta THR ke Pemilik Toko di Majalengka",
+      "link_berita": "https://rejabar.republika.co.id/berita/sttfgi512/viral-dua-preman-ngamuk-minta-thr-ke-pemilik-toko-di-majalengka",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 04:07:25"
+    },
+    {
+      "judul": "Menanam Harapan, Memanen Keberkahan di Tanah yang Hampir Mati",
+      "link_berita": "https://republika.co.id/berita//sttf4d291/menanam-harapan-memanen-keberkahan-di-tanah-yang-hampir-mati",
+      "kategori": "Resulawesi",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 04:00:25"
+    },
+    {
+      "judul": "Ini Langkah-Langkah Strategis OJK Hadapi Ketidakpastian Global 2025",
+      "link_berita": "https://visual.republika.co.id/berita/sttf35472/ini-langkahlangkah-strategis-ojk-hadapi-ketidakpastian-global-2025",
+      "kategori": "Visual",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:59:25"
+    },
+    {
+      "judul": "IHSG Sepekan Menguat 4,03 Persen ke 6.510, Kapitalisasi Pasar Rp 11.126 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stte7y370/ihsg-sepekan-menguat-403-persen-ke-6510-kapitalisasi-pasar-rp-11126-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:40:25"
+    },
+    {
+      "judul": "SPKLU Ungaran Lebih dari Sekadar Tempat Isi Daya, Bagai Rumah Kedua Pelanggan Setia",
+      "link_berita": "https://news.republika.co.id/berita/stte65425/spklu-ungaran-lebih-dari-sekadar-tempat-isi-daya-bagai-rumah-kedua-pelanggan-setia",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:39:25"
+    },
+    {
+      "judul": "Ineu Purwadewi Ingatkan Bahaya Laten Pinjol Ilegal",
+      "link_berita": "https://rejabar.republika.co.id/berita/stte06472/ineu-purwadewi-ingatkan-bahaya-laten-pinjol-ilegal",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:36:25"
+    },
+    {
+      "judul": "Gus Fuad Plered Minta Maaf: Monyet Bukan Saya Amanatkan untuk Guru Tua",
+      "link_berita": "https://news.republika.co.id/berita/sttdqk484/gus-fuad-plered-minta-maaf-monyet-bukan-saya-amanatkan-untuk-guru-tua",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:30:25"
+    },
+    {
+      "judul": "Pupuk Indonesia Berangkatkan 1.473 Pemudik ke Kampung Halaman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sttdnj472/pupuk-indonesia-berangkatkan-1473-pemudik-ke-kampung-halaman",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:28:25"
+    },
+    {
+      "judul": "Pemerintah Pastikan Tarif Listrik tak Berubah Jelang Lebaran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sttdjv370/pemerintah-pastikan-tarif-listrik-tak-berubah-jelang-lebaran",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:26:25"
+    },
+    {
+      "judul": "Arus Mudik H-3 Idul Fitri di GTO Cikampek Utama Terpantau Ramai Lancar",
+      "link_berita": "https://tv.republika.co.id/berita/sttdj7313/arus-mudik-h3-idul-fitri-di-gto-cikampek-utama-terpantau-ramai-lancar",
+      "kategori": "Video",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
+      "judul": "Transaksi National Halal Fair 2025 Tembus Rp 8,5 Miliar",
+      "link_berita": "https://sharia.republika.co.id/berita/sttd84502/transaksi-national-halal-fair-2025-tembus-rp-85-miliar",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
+      "judul": "Jakarta Aquarium Safari Siap Gebrak Libur Lebaran, 14 Ribu Hewan Menanti Pengunjung",
+      "link_berita": "https://ameera.republika.co.id/berita/sttd5j425/jakarta-aquarium-safari-siap-gebrak-libur-lebaran-14-ribu-hewan-menanti-pengunjung",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
+      "judul": "Hotel Kimaya Sudirman Jadi Rekomendasi Staycation Libur Lebaran 2025 di Yogyakarta",
+      "link_berita": "https://rejogja.republika.co.id/berita/sttd55291/hotel-kimaya-sudirman-jadi-rekomendasi-staycation-libur-lebaran-2025-di-yogyakarta",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
+      "judul": "Tato Kafir Menhan AS yang Disandingkan dengan Slogan Perang Salib tak Cuma Ejekan, tapi\u2026",
+      "link_berita": "https://khazanah.republika.co.id/berita/sttd3s320/tato-kafir-menhan-as-yang-disandingkan-dengan-slogan-perang-salib-tak-cuma-ejekan-tapi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
+      "judul": "Emas Antam H-3 Lebaran Melonjak Rp 16.000 Dekati Rp 1,8 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sttd16370/emas-antam-h3-lebaran-melonjak-rp-16000-dekati-rp-18-juta-per-gram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
+      "judul": "BSI Jadi Bank Pembayar Zakat Terbesar di RI, Serahkan Rp 787,5 Miliar dalam Empat Tahun",
+      "link_berita": "https://sharia.republika.co.id/berita/sttciq370/bsi-jadi-bank-pembayar-zakat-terbesar-di-ri-serahkan-rp-7875-miliar-dalam-empat-tahun",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
+    },
+    {
       "judul": "Mahasiswa Umsida Raih Juara 1 Lomba Hafalan Alquran se-Asia Tenggara",
       "link_berita": "https://rejogja.republika.co.id/berita/sttcda291/mahasiswa-umsida-raih-juara-1-lomba-hafalan-alquran-seasia-tenggara",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 03:00:46"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 03:25:25"
     },
     {
       "judul": "Pose Bareng Pasangan di Hari Raya",
       "link_berita": "https://tv.republika.co.id/berita/sttbqc313/pose-bareng-pasangan-di-hari-raya",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:46:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "PB Alkhairaat Siap Laporkan Gus Fuad Plered yang Hina Guru Tua",
       "link_berita": "https://news.republika.co.id/berita/sttbmf484/pb-alkhairaat-siap-laporkan-gus-fuad-plered-yang-hina-guru-tua",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:44:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "Pakai Cara Ini Agar Ketupat Nggak Gampang Basi",
       "link_berita": "https://ameera.republika.co.id/berita/sttblg425/pakai-cara-ini-agar-ketupat-nggak-gampang-basi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:44:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "BGR Logistik Fasilitasi Ratusan Karyawan Ikut Mudik Gratis BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/sttb54370/bgr-logistik-fasilitasi-ratusan-karyawan-ikut-mudik-gratis-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:34:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "Penasihat Khusus Presiden dan Wamendiktisaintek Resmikan Mentari Mart di UMM",
       "link_berita": "https://news.republika.co.id/berita/sttavv484/penasihat-khusus-presiden-dan-wamendiktisaintek-resmikan-mentari-mart-di-umm",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:28:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "Ide Menu MPASI untuk Mudik Lebaran, Praktis dan Bergizi",
       "link_berita": "https://ameera.republika.co.id/berita/sttalg425/ide-menu-mpasi-untuk-mudik-lebaran-praktis-dan-bergizi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:22:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "Kesaksian Sutradara Palestina Peraih Oscar yang Dipukuli dalam Tahanan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/sttaii483/kesaksian-sutradara-palestina-peraih-oscar-yang-dipukuli-dalam-tahanan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:20:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "Red Bull Resmi Ganti Liam Lawson dengan Yuki Tsunoda Jelang GP Jepang",
       "link_berita": "https://news.republika.co.id/berita/stta1i409/red-bull-resmi-ganti-liam-lawson-dengan-yuki-tsunoda-jelang-gp-jepang",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:10:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "H-4 Lebaran, Posko Merak Catat Penurunan Jumlah Penumpang Dibandingkan 2023",
       "link_berita": "https://khazanah.republika.co.id/berita/stt9qr370/h4-lebaran-posko-merak-catat-penurunan-jumlah-penumpang-dibandingkan-2023",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:03:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 02:25:25"
     },
     {
       "judul": "AS Cabut Visa Ratusan Mahasiswa Pro Palestina, Sebut Mereka Sudah Gila",
       "link_berita": "https://khazanah.republika.co.id/berita/stt9c7483/as-cabut-visa-ratusan-mahasiswa-pro-palestina-sebut-mereka-sudah-gila",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Bank bjb Imbau Nasabah Waspadai Segala Modus Penipuan",
       "link_berita": "https://ekonomi.republika.co.id/berita/stt97i472/bank-bjb-imbau-nasabah-waspadai-segala-modus-penipuan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Mengenal Doktor Abdel Latif al-Qanoua, Jubir Hamas yang Syahid di Kamp Jabaliya",
       "link_berita": "https://khazanah.republika.co.id/berita/stt8ge483/mengenal-doktor-abdel-latif-alqanoua-jubir-hamas-yang-syahid-di-kamp-jabaliya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 02:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Ramadhan Kareem, Keutamaan I'tikaf Pada Sepuluh Malam Terakhir Ramadhan",
       "link_berita": "https://retizen.republika.co.id/posts/516191/ramadhan-kareem-keutamaan-itikaf-pada-sepuluh-malam-terakhir-ramadhan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Elegi Kota Padangsidimpuan: Seruan Ultimatum untuk Pemerintah Kota Padangsidimpuan",
       "link_berita": "https://retizen.republika.co.id/posts/516207/elegi-kota-padangsidimpuan-seruan-ultimatum-untuk-pemerintah-kota-padangsidimpuan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Dibangun Pengusaha Tianghoa, Masjid Cheng Hoo Batuah Layani Pemudik",
       "link_berita": "https://khazanah.republika.co.id/berita/stt7nx483/dibangun-pengusaha-tianghoa-masjid-cheng-hoo-batuah-layani-pemudik",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Garuda Indonesia Bukukan Rugi Bersih Meski Pendapatan Meningkat",
       "link_berita": "https://ekonomi.republika.co.id/berita/stt7cy370/garuda-indonesia-bukukan-rugi-bersih-meski-pendapatan-meningkat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Tedy Rusmawan Minta Insentif untuk Kusir Delman dan Tukang Becak Harus Tepat Sasaran",
       "link_berita": "https://rejabar.republika.co.id/berita/stt7c9472/tedy-rusmawan-minta-insentif-untuk-kusir-delman-dan-tukang-becak-harus-tepat-sasaran",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Lebaran tanpa Drama, Psikolog Beri Tips Jitu Ketika Ditanya \u2018Kapan Nikah\u2019 Saat Lebaran",
       "link_berita": "https://ameera.republika.co.id/berita/stt7by425/lebaran-tanpa-drama-psikolog-beri-tips-jitu-ketika-ditanya-kapan-nikah-saat-lebaran",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Pemkab Karawang Berangkatkan 810 Warga dalam Program Mudik Gratis 2025",
       "link_berita": "https://rejabar.republika.co.id/berita/stt6ok472/pemkab-karawang-berangkatkan-810-warga-dalam-program-mudik-gratis-2025",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 01:25:25"
     },
     {
       "judul": "Tujuh Fakta Kasus Kejahatan Asusila AKBP Fajar Berdasarkan Temuan Komnas HAM",
       "link_berita": "https://news.republika.co.id/berita/stt6gu409/tujuh-fakta-kasus-kejahatan-asusila-akbp-fajar-berdasarkan-temuan-komnas-ham",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "Jumat Ini, Ayatollah Khamenei Kerahkan Rakyat Iran untuk Pawai Akbar Dukung Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/stt63o483/jumat-ini-ayatollah-khamenei-kerahkan-rakyat-iran-untuk-pawai-akbar-dukung-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "WIKA Bukukan Penjualan Rp 31,36 Triliun Sepanjang 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/stt5x6370/wika-bukukan-penjualan-rp-3136-triliun-sepanjang-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "Tawur Agung di Candi Prambanan Bakal Dihadiri Wapres Gibran",
       "link_berita": "https://rejogja.republika.co.id/berita/stt5j7291/tawur-agung-di-candi-prambanan-bakal-dihadiri-wapres-gibran",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 01:01:33"
-    },
-    {
-      "judul": "Jepara Ingin Bangun Pelabuhan Internasional, Pelindo Siap Kirim Tim Survei",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stt1en490/jepara-ingin-bangun-pelabuhan-internasional-pelindo-siap-kirim-tim-survei",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "Ini Imbauan Polisi untuk Pemudik Motor yang Membawa Anak",
       "link_berita": "https://khazanah.republika.co.id/berita/stszim370/ini-imbauan-polisi-untuk-pemudik-motor-yang-membawa-anak",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
+    },
+    {
+      "judul": "Jepara Ingin Bangun Pelabuhan Internasional, Pelindo Siap Kirim Tim Survei",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stt1en490/jepara-ingin-bangun-pelabuhan-internasional-pelindo-siap-kirim-tim-survei",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "Sekjen PBB Soroti Limbah Industri Fesyen",
       "link_berita": "https://esgnow.republika.co.id/berita/stszjc416/sekjen-pbb-soroti-limbah-industri-fesyen",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "Tips Sehat saat Idul Fitri",
       "link_berita": "https://khazanah.republika.co.id/berita/stt14x430/tips-sehat-saat-idul-fitri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 00:25:25"
     },
     {
       "judul": "MRT Jakarta akan Tetap Beroperasi Normal Selama Libur Lebaran 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/stsxek409/mrt-jakarta-akan-tetap-beroperasi-normal-selama-libur-lebaran-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
+      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:25:25"
     },
     {
       "judul": "Benarkah Dana Zakat Boleh Diinvestasikan?",
       "link_berita": "https://khazanah.republika.co.id/berita/stt326483/benarkah-dana-zakat-boleh-diinvestasikan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
+      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:25:25"
     },
     {
-      "judul": "Antrean Motor Pemudik Membeludak di Pelabuhan Ciwandan",
-      "link_berita": "https://khazanah.republika.co.id/berita/stsvnt409/antrean-motor-pemudik-membeludak-di-pelabuhan-ciwandan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 00:01:33"
-    },
-    {
-      "judul": "BI Klaim Fundamental Ekonomi Indonesia Kuat, Pengamat: Mengapa Rupiah Terus Melemah?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stt1wt490/bi-klaim-fundamental-ekonomi-indonesia-kuat-pengamat-mengapa-rupiah-terus-melemah",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Bank Mega Sepakat Bagi Dividen Senilai Rp 1,05 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stszb1370/bank-mega-sepakat-bagi-dividen-senilai-rp-105-triliun",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Santri Memberdayakan Desa, Belajar Ternak dan Tani dari Jawa Hingga Sumatra",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt2k9483/santri-memberdayakan-desa-belajar-ternak-dan-tani-dari-jawa-hingga-sumatra",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "475 Ton Bumbu Khas Indonesia Dikirim ke Saudi untuk Haji 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt275483/475-ton-bumbu-khas-indonesia-dikirim-ke-saudi-untuk-haji-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Blue Bird Catat Pendapatan Rp 5,04 Triliun pada 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stsywm370/blue-bird-catat-pendapatan-rp-504-triliun-pada-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Pemudik Tol Trans Jawa Diimbau tak Sahur dan Berbuka di Bahu Jalan",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt1m1483/pemudik-tol-trans-jawa-diimbau-tak-sahur-dan-berbuka-di-bahu-jalan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Panduan Sholat Idul Fitri: Niat, Takbir, Rakaat, dan Bacaan",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt0zg430/panduan-sholat-idul-fitri-niat-takbir-rakaat-dan-bacaan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Menaker akan Klarifikasi Aplikator Soal Driver Ojol Dapat BHR Hanya Rp 50 Ribu",
-      "link_berita": "https://news.republika.co.id/berita/stsvho409/menaker-akan-klarifikasi-aplikator-soal-driver-ojol-dapat-bhr-hanya-rp-50-ribu",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Hutama Karya Prediksi Puncak Kepadatan di Tol Padang-Sicincin Terjadi pada Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stt134490/hutama-karya-prediksi-puncak-kepadatan-di-tol-padangsicincin-terjadi-pada-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Panduan Makan Sehat bagi Pegiat Olahraga saat Idul Fitri",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt0tt430/panduan-makan-sehat-bagi-pegiat-olahraga-saat-idul-fitri",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Dalil Mengenakan Pakaian Terbaik untuk Sholat Idul Fitri",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt0lz430/dalil-mengenakan-pakaian-terbaik-untuk-sholat-idul-fitri",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Adab Takbiran saat Malam Idul Fitri, di Masjid atau di Luar Masjid?",
-      "link_berita": "https://khazanah.republika.co.id/berita/stt0fu430/adab-takbiran-saat-malam-idul-fitri-di-masjid-atau-di-luar-masjid",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Holding BUMN Danareksa Berangkatkan 1.600 Pemudik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stt0cv416/holding-bumn-danareksa-berangkatkan-1600-pemudik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Menhub Prediksi Puncak Arus Mudik Pesawat Hari Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/stse16483/menhub-prediksi-puncak-arus-mudik-pesawat-hari-ini",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Hari Ini Puncak Arus Mudik, InJourney Pastikan Kesiapan 37 Bandara",
-      "link_berita": "https://ekonomi.republika.co.id/berita/stszzn416/hari-ini-puncak-arus-mudik-injourney-pastikan-kesiapan-37-bandara",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 23:01:33"
-    },
-    {
-      "judul": "Akibat Perubahan Iklim, Banjir Mematikan di Argentina Bakal Berulang",
-      "link_berita": "https://esgnow.republika.co.id/berita/stsz3r416/akibat-perubahan-iklim-banjir-mematikan-di-argentina-bakal-berulang",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 22:01:33"
-    },
-    {
-      "judul": "Calvin Verdonk's Oprimism: Indonesia Has a Chance to Beat Japan",
-      "link_berita": "https://en.republika.co.id/berita/stsho8415/calvin-verdonks-oprimism-indonesia-has-a-chance-to-beat-japan",
-      "kategori": "En",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 03:01:33"
-    },
-    {
-      "judul": "Prakiraan Cuaca Hari Ini, 28 Maret 2025: Kota Surabaya Hujan Sedang",
-      "link_berita": "https://news.republika.co.id/berita/stsxyb1430190238/prakiraan-cuaca-hari-ini-28-maret-2025-kota-surabaya-hujan-sedang",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 22:01:33"
-    },
-    {
-      "judul": "Kontroversi Menhan AS Pete Hegseth Punya Tato 'Kafir' dan 'Yahweh'",
-      "link_berita": "https://news.republika.co.id/berita/stsx6n484/kontroversi-menhan-as-pete-hegseth-punya-tato-kafir-dan-yahweh",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 22:01:33"
-    },
-    {
-      "judul": "Pakai Cara Ini Agar Ketupat Nggak Gampang Basi",
-      "link_berita": "https://ameera.republika.co.id/berita/sttblg425/pakai-cara-ini-agar-ketupat-nggak-gampang-basi",
+      "judul": "Jakarta Aquarium Safari Siap Gebrak Libur Lebaran, 14 Ribu Hewan Menanti Pengunjung",
+      "link_berita": "https://ameera.republika.co.id/berita/sttd5j425/jakarta-aquarium-safari-siap-gebrak-libur-lebaran-14-ribu-hewan-menanti-pengunjung",
       "kategori": "Happening",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 09:44:00"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 10:17:00"
     },
     {
       "judul": "Akibat Perubahan Iklim, Banjir Mematikan di Argentina Bakal Berulang",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Friday, 28 Mar 2025, 05:14:00"
     },
     {
-      "judul": "BGR Logistik Fasilitasi Ratusan Karyawan Ikut Mudik Gratis BUMN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sttb54370/bgr-logistik-fasilitasi-ratusan-karyawan-ikut-mudik-gratis-bumn",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 09:34:00"
+      "judul": "IHSG Sepekan Menguat 4,03 Persen ke 6.510, Kapitalisasi Pasar Rp 11.126 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/stte7y370/ihsg-sepekan-menguat-403-persen-ke-6510-kapitalisasi-pasar-rp-11126-triliun",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Friday, 28 Mar 2025, 10:40:00"
     },
     {
-      "judul": "OJK Menang di MA, Kasasi Atas Pencabutan Izin Kresna Life Dikabulkan",
-      "link_berita": "https://sharia.republika.co.id/berita/sts2on368/ojk-menang-di-ma-kasasi-atas-pencabutan-izin-kresna-life-dikabulkan",
+      "judul": "Laba Sebelum Pajak Bank Muamalat Naik 45 Persen pada 2024",
+      "link_berita": "https://sharia.republika.co.id/berita/sttg9j502/laba-sebelum-pajak-bank-muamalatnaik-45-persen-pada-2024",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 27 Mar 2025, 17:33:00"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 11:24:00"
     },
     {
-      "judul": "PB Alkhairaat Siap Laporkan Gus Fuad Plered yang Hina Guru Tua",
-      "link_berita": "https://news.republika.co.id/berita/sttbmf484/pb-alkhairaat-siap-laporkan-gus-fuad-plered-yang-hina-guru-tua",
+      "judul": "Menhub Sebut Puncak Arus Mudik Terjadi Hari Ini, One Way Diberlakukan Hingga Kalikangkung",
+      "link_berita": "https://news.republika.co.id/berita/sttg0p487/menhub-sebut-puncak-arus-mudik-terjadi-hari-ini-one-way-diberlakukan-hingga-kalikangkung",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 28 Mar 2025, 09:44:00"
+      "tanggal_terbit": "Friday, 28 Mar 2025, 11:19:00"
     }
   ],
-  "waktu_scraping": "Friday, 28 Mar 2025, 10:01:33"
+  "waktu_scraping": "Friday, 28 Mar 2025, 11:25:25"
 }
