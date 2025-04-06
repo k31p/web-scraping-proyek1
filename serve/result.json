@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Layani Arus Balik Bandara Soetta, KAI Commuter Tambah Perjalanan Malam",
+      "link_berita": "https://news.republika.co.id/berita/suaxcp425/layani-arus-balik-bandara-soetta-kai-commuter-tambah-perjalanan-malam"
+    },
+    {
       "judul": "Israel Bohong Soal Pembunuhan Paramedis, Australia: Selidiki Menyeluruh dan Independen",
       "link_berita": "https://news.republika.co.id/berita/suaujg377/israel-bohong-soal-pembunuhan-paramedis-australia-selidiki-menyeluruh-dan-independen"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Israel Serang Warga Sipil di Gaza, 46 Orang Wafat dalam 24 Jam",
       "link_berita": "https://khazanah.republika.co.id/berita/sualja425/israel-serang-warga-sipil-di-gaza-46-orang-wafat-dalam-24-jam"
-    },
-    {
-      "judul": "Amerika Serikat Habiskan Rp 16 Triliun Lebih untuk Gempur Yaman, Tapi Dampaknya Minim",
-      "link_berita": "https://khazanah.republika.co.id/berita/su9rzw320/amerika-serikat-habiskan-rp-16-triliun-lebih-untuk-gempur-yaman-tapi-dampaknya-minim"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ini Agama yang Paling Banyak Ditinggalkan Pemeluknya Secara Global Menurut Pew Research",
+      "link_berita": "https://khazanah.republika.co.id/berita/suax73320/ini-agama-yang-paling-banyak-ditinggalkan-pemeluknya-secara-global-menurut-pew-research"
+    },
     {
       "judul": "Terpukau Keindahan Warna-warni Balon Udara di Langit Wonosobo",
       "link_berita": "https://visual.republika.co.id/berita/suatco375/terpukau-keindahan-warnawarni-balon-udara-di-langit-wonosobo"
@@ -77,156 +81,224 @@
     {
       "judul": "OPM Ancam Lakukan Penyerangan Masif ke Pos-Pos TNI di Puncak Jaya, Ini Alasannya",
       "link_berita": "https://news.republika.co.id/berita/su9wnk487/opm-ancam-lakukan-penyerangan-masif-ke-pospos-tni-di-puncak-jaya-ini-alasannya"
-    },
-    {
-      "judul": "Puluhan Ribu Warga AS Mulai Pembangkangan Melawan Trump",
-      "link_berita": "https://news.republika.co.id/berita/su9wj4393/puluhan-ribu-warga-as-mulai-pembangkangan-melawan-trump"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pemudik Roda Dua Padati Jalur Pantura Indramayu",
+      "link_berita": "https://visual.republika.co.id/berita/suatg1375/pemudik-roda-dua-padati-jalur-pantura-indramayu",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Layani Arus Balik Bandara Soetta, KAI Commuter Tambah Perjalanan Malam",
+      "link_berita": "https://news.republika.co.id/berita/suaxcp425/layani-arus-balik-bandara-soetta-kai-commuter-tambah-perjalanan-malam",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Tuntunan Doa saat Menghadapi Kesulitan",
+      "link_berita": "https://iqra.republika.co.id/berita/suax74430/tuntunan-doa-saat-menghadapi-kesulitan",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Ini Agama yang Paling Banyak Ditinggalkan Pemeluknya Secara Global Menurut Pew Research",
+      "link_berita": "https://khazanah.republika.co.id/berita/suax73320/ini-agama-yang-paling-banyak-ditinggalkan-pemeluknya-secara-global-menurut-pew-research",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "UGM Pecat Guru Besar karea Kekerasan Seksual ke Mahasiswa, Ini Modus Pelaku",
+      "link_berita": "https://news.republika.co.id/berita/suavba377/ugm-pecat-guru-besar-karea-kekerasan-seksual-ke-mahasiswa-ini-modus-pelaku",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Makna Sahabat Nabi Muhammad",
+      "link_berita": "https://khazanah.republika.co.id/berita/suawyp430/makna-sahabat-nabi-muhammad",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Arus Balik, Ini Cara Hijrah ke Perkotaan dalam Islam",
+      "link_berita": "https://khazanah.republika.co.id/berita/suawi6430/arus-balik-ini-cara-hijrah-ke-perkotaan-dalam-islam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Jakarta Fair Kemayoran Digelar 12 Juni Hingga 13 Juli 2025",
+      "link_berita": "https://ameera.republika.co.id/berita/suawh5425/jakarta-fair-kemayoran-digelar-12-juni-hingga-13-juli-2025",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Dugaan Pelecehan di Stasiun Tanah Abang, KAI Lakukan Tindakan",
+      "link_berita": "https://republika.co.id/berita//suaw4o430/dugaan-pelecehan-di-stasiun-tanah-abang-kai-lakukan-tindakan",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "KAI Cirebon Kembalikan Barang Milik Penumpang yang Hilang",
+      "link_berita": "https://news.republika.co.id/berita/suaw5s425/kai-cirebon-kembalikan-barang-milik-penumpang-yang-hilang",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Jeritan Anak-Anak Gaza Ingin Hidup di Tengah Genosida",
+      "link_berita": "https://khazanah.republika.co.id/berita/suavre430/jeritan-anakanak-gaza-ingin-hidup-di-tengah-genosida",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
+      "judul": "Hampir Tembus 100 Ribu Kendaraan, Arus Balik di Tol Cipali Makin Meningkat",
+      "link_berita": "https://news.republika.co.id/berita/suavxb430/hampir-tembus-100-ribu-kendaraan-arus-balik-di-tol-cipali-makin-meningkat",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
+    },
+    {
       "judul": "Buya Hamka Ungkap Pergeseran Makna Wali atau Aulia",
       "link_berita": "https://iqra.republika.co.id/berita/suavms430/buya-hamka-ungkap-pergeseran-makna-wali-atau-aulia",
       "kategori": "Iqra",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Israel Bohong Soal Pembunuhan Paramedis, Australia: Selidiki Menyeluruh dan Independen",
       "link_berita": "https://news.republika.co.id/berita/suaujg377/israel-bohong-soal-pembunuhan-paramedis-australia-selidiki-menyeluruh-dan-independen",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Terpukau Keindahan Warna-warni Balon Udara di Langit Wonosobo",
       "link_berita": "https://visual.republika.co.id/berita/suatco375/terpukau-keindahan-warnawarni-balon-udara-di-langit-wonosobo",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Bandara Soekarno Hatta Catat Jumlah Penumpang Angkutan Lebaran Capai 2,7 Juta Orang",
       "link_berita": "https://news.republika.co.id/berita/suaul7425/bandara-soekarno-hatta-catat-jumlah-penumpang-angkutan-lebaran-capai-27-juta-orang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Hindari Kecelakaan, Menhub Ingatkan Pemudik Taati Rambu Lalu Lintas",
       "link_berita": "https://news.republika.co.id/berita/suau6t425/hindari-kecelakaan-menhub-ingatkan-pemudik-taati-rambu-lalu-lintas",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Jadwal Lengkap Timnas U-17 Indonesia Lawan Yaman Senin Malam",
       "link_berita": "https://news.republika.co.id/berita/suatts328/jadwal-lengkap-timnas-u17-indonesia-lawan-yaman-senin-malam",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Puncak Arus Balik, Jalur Pantura Indramayu Padat",
       "link_berita": "https://news.republika.co.id/berita/suasct377/puncak-arus-balik-jalur-pantura-indramayu-padat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Sampah Laut Ancaman Nyata, Kementerian Lingkungan Hidup Tegaskan Pentingnya Kolaborasi",
       "link_berita": "https://esgnow.republika.co.id/berita/suasob425/sampah-laut-ancaman-nyata-kementerian-lingkungan-hidup-tegaskan-pentingnya-kolaborasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Krisdayanti Ajak Keluarga Naik Transjakarta",
       "link_berita": "https://ameera.republika.co.id/berita/suas4m328/krisdayanti-ajak-keluarga-naik-transjakarta",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Hiruk Pikuk Arus Balik Mudik Lebaran di Terminal Kalideres",
       "link_berita": "https://visual.republika.co.id/berita/suarzi375/hiruk-pikuk-arus-balik-mudik-lebaran-di-terminal-kalideres",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Gubernur: Kunjungan Prabowo ke Bengkulu Bersifat Diam-Diam, Jemput Aspri untuk ke Malaysia",
       "link_berita": "https://news.republika.co.id/berita/suarvy377/gubernur-kunjungan-prabowo-ke-bengkulu-bersifat-diamdiam-jemput-aspri-untuk-ke-malaysia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Hujan Deras, Enam RT dan Dua Jalan di Jakarta Terdampak Banjir",
       "link_berita": "https://news.republika.co.id/berita/suarvm328/hujan-deras-enam-rt-dan-dua-jalan-di-jakarta-terdampak-banjir",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Prediksi Puncak Arus Balik Hari Ini, 31 Ribu Penumpang Kereta Berangkat dari Yogyakarta",
       "link_berita": "https://rejogja.republika.co.id/berita/suaq9w291/prediksi-puncak-arus-balik-hari-ini-31-ribu-penumpang-kereta-berangkat-dari-yogyakarta",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Indonesia Decided to Pursue Negotiation Efforts",
       "link_berita": "https://en.republika.co.id/berita/suaq4u415/indonesia-decided-to-pursue-negotiation-efforts",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "PHRI: Okupansi Hotel DIY pada Libur Lebaran Hanya Capai 60 Persen",
       "link_berita": "https://rejogja.republika.co.id/berita/suapt8291/phri-okupansi-hotel-diy-pada-libur-lebaran-hanya-capai-60-persen",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Diet 4:3, Diklaim Turunkan Berat Badan Lebih Banyak Hanya dengan 3 Hari \u2018Puasa\u2019",
       "link_berita": "https://ameera.republika.co.id/berita/suapt4425/diet-43-diklaim-turunkan-berat-badan-lebih-banyak-hanya-dengan-3-hari-puasa",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Demi Kesejahteraan Masyarakat Pesisir, Gubernur Kalteng Dukung Pengembangan Tambak Udang",
       "link_berita": "https://news.republika.co.id/berita/suapkx472/demi-kesejahteraan-masyarakat-pesisir-gubernur-kalteng-dukung-pengembangan-tambak-udang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Puncak Arus Balik di Pelabuhan Bakauheni Masih Terjadi Hingga Hari Ini",
       "link_berita": "https://news.republika.co.id/berita/suap3e425/puncak-arus-balik-di-pelabuhan-bakauheni-masih-terjadi-hingga-hari-ini",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Pendidikan dan Pariwisata Jadi Prioritas Gubernur Kalteng Sejahterakan Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/suaojh472/pendidikan-dan-pariwisata-jadi-prioritas-gubernur-kalteng-sejahterakan-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Pilih tak Balas Tarif Trump, Indonesia Ambil Jalan Negosiasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/suannk377/pilih-tak-balas-tarif-trump-indonesia-ambil-jalan-negosiasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Kopi Brazil Bakal Bertahan dari Serangan Tarif Trump",
       "link_berita": "https://tv.republika.co.id/berita/suank3313/kopi-brazil-bakal-bertahan-dari-serangan-tarif-trump",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Pengakuan Sandera Israel, Diselamatkan Hamas Salahkan Bombardir Zionis",
       "link_berita": "https://news.republika.co.id/berita/suamsl377/pengakuan-sandera-israel-diselamatkan-hamas-salahkan-bombardir-zionis",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Panik Diancam Iran, Israel Datangkan Lagi Sistem Pertahanan THAAD dari AS",
       "link_berita": "https://news.republika.co.id/berita/suamq8393/panik-diancam-iran-israel-datangkan-lagi-sistem-pertahanan-thaad-dari-as",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "One Way National Officially Opened",
       "link_berita": "https://en.republika.co.id/berita/suakpi415/one-way-national-officially-opened",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Mengapa Warna Emas Sangat Dominan Pada Iluminasi Mushaf?",
@@ -238,157 +310,85 @@
       "judul": "Israel Serang Warga Sipil di Gaza, 46 Orang Wafat dalam 24 Jam",
       "link_berita": "https://khazanah.republika.co.id/berita/sualja425/israel-serang-warga-sipil-di-gaza-46-orang-wafat-dalam-24-jam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Prakiraan Cuaca Kota Balikpapan dan Sekitarnya, 7 April 2025, Cerah Berawan",
       "link_berita": "https://news.republika.co.id/berita/sualer1500924400/prakiraan-cuaca-kota-balikpapan-dan-sekitarnya-7-april-2025-cerah-berawan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "110 Ribu Penumpang Gunakan KAI Bandara di Yogyakarta Selama Libur Lebaran",
       "link_berita": "https://rejogja.republika.co.id/berita/sualep291/110-ribu-penumpang-gunakan-kai-bandara-di-yogyakarta-selama-libur-lebaran",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Wisatawan ke Keraton Kasepuhan pada Lebaran 2025 Naik 40 Persen Dibandingkan Tahun Lalu",
       "link_berita": "https://ameera.republika.co.id/berita/sual4u425/wisatawan-ke-keraton-kasepuhan-pada-lebaran-2025-naik-40-persen-dibandingkan-tahun-lalu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Tolong Warga Lanjut Usia, Sugianto dan Dua WNI Dapat Status Penduduk Jangka Panjang Korsel",
       "link_berita": "https://news.republika.co.id/berita/suakp8377/tolong-warga-lanjut-usia-sugianto-dan-dua-wni-dapat-status-penduduk-jangka-panjang-korsel",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Prakiraan Cuaca Besok Kota Palembang: Berawan pada 7 April 2025",
       "link_berita": "https://news.republika.co.id/berita/suako2179437364/prakiraan-cuaca-besok-kota-palembang-berawan-pada-7-april-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Automotive Components Industry Proposes US Reciprocal Tariff",
       "link_berita": "https://en.republika.co.id/berita/suakii415/automotive-components-industry-proposes-us-reciprocal-tariff",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Korban Meninggal Akibat Gempa Myanmar Bertambah Jadi 3.471",
       "link_berita": "https://news.republika.co.id/berita/suakd9370/korban-meninggal-akibat-gempa-myanmar-bertambah-jadi-3471",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Amerika Serikat Habiskan Rp 16 Triliun Lebih untuk Gempur Yaman, Tapi Dampaknya Minim",
       "link_berita": "https://khazanah.republika.co.id/berita/su9rzw320/amerika-serikat-habiskan-rp-16-triliun-lebih-untuk-gempur-yaman-tapi-dampaknya-minim",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Arus Balik Lebaran, Posko Mudik BUMN PNM Berikan Layanan Terbaik bagi Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/suaiuw318/arus-balik-lebaran-posko-mudik-bumn-pnm-berikan-layanan-terbaik-bagi-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Programmer Asal Maroko Bongkar Peran AI Microsoft Bantu Genosida Gaza, Ini Reaksi Hamas",
       "link_berita": "https://khazanah.republika.co.id/berita/suaice320/programmer-asal-maroko-bongkar-peran-ai-microsoft-bantu-genosida-gaza-ini-reaksi-hamas",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Puncak Arus Balik, ASDP Catat 41.073 Kendaraan Menuju ke Merak",
       "link_berita": "https://news.republika.co.id/berita/suah44377/puncak-arus-balik-asdp-catat-41073-kendaraan-menuju-ke-merak",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
       "judul": "Liburan Usai, Ritme Tidur Berantakan? Ini Cara Mengatur Ulangnya",
       "link_berita": "https://ameera.republika.co.id/berita/suagua425/liburan-usai-ritme-tidur-berantakan-ini-cara-mengatur-ulangnya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 15:19:27"
     },
     {
-      "judul": "Israel Akui Salah Deteksi Hingga Bunuh 15 Paramedis dan Petugas Penyelamat Palestina",
-      "link_berita": "https://news.republika.co.id/berita/suagij377/israel-akui-salah-deteksi-hingga-bunuh-15-paramedis-dan-petugas-penyelamat-palestina",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Legenda Rock Roger Waters Kecam Genosida di Gaza, Serukan Keadilan Global",
-      "link_berita": "https://ameera.republika.co.id/berita/suagfo425/legenda-rock-roger-waters-kecam-genosida-di-gaza-serukan-keadilan-global",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Sebanyak 177.243 Kendaraan Lintasi Tol Trans Sumatera pada 5 April",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suag2m370/sebanyak-177243-kendaraan-lintasi-tol-trans-sumatera-pada-5-april",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok 7 April 2025 di Kota Yogyakarta: Cerah",
-      "link_berita": "https://news.republika.co.id/berita/suafo1966888421/prakiraan-cuaca-besok-7-april-2025-di-kota-yogyakarta-cerah",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Pasukan Yaman Pro-Houthi Bentrok dengan Kapal Perang AS di Laut Merah",
-      "link_berita": "https://news.republika.co.id/berita/suaf6n377/pasukan-yaman-prohouthi-bentrok-dengan-kapal-perang-as-di-laut-merah",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "H+4 Lebaran, Tol Jabodetabek-Jabar Alami Lonjakan Volume Lalu Lintas Arus Balik",
-      "link_berita": "https://news.republika.co.id/berita/suaeqk425/h4-lebaran-tol-jabodetabekjabar-alami-lonjakan-volume-lalu-lintas-arus-balik",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Pantau Arus Balik dari Semarang, Menhub Dudy Imbau Pemudik Utamakan Keselamatan",
-      "link_berita": "https://news.republika.co.id/berita/suaekt472/pantau-arus-balik-dari-semarang-menhub-dudy-imbau-pemudik-utamakan-keselamatan",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok, 7 April 2025: Tangerang dan Sekitarnya - Cerah dan Cerah Berawan",
-      "link_berita": "https://news.republika.co.id/berita/suae8d773268892/prakiraan-cuaca-besok-7-april-2025-tangerang-dan-sekitarnya-cerah-dan-cerah-berawan",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Gubernur Dedi Mulyadi Sindir Lucky Hakim ke Jepang tanpa Izin",
-      "link_berita": "https://news.republika.co.id/berita/suadci377/gubernur-dedi-mulyadi-sindir-lucky-hakim-ke-jepang-tanpa-izin",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok di Bandung dan Sekitarnya: Hujan Ringan pada 7 April 2025",
-      "link_berita": "https://news.republika.co.id/berita/suadyc995758181/prakiraan-cuaca-besok-di-bandung-dan-sekitarnya-hujan-ringan-pada-7-april-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Gelombang Panas Terjang Asia Tengah, Dampak Perubahan Iklim Dinilai Mengkhawatirkan",
-      "link_berita": "https://esgnow.republika.co.id/berita/suadv3425/gelombang-panas-terjang-asia-tengah-dampak-perubahan-iklim-dinilai-mengkhawatirkan",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Prabowo Dijadwalkan Temui Anwar Ibrahim di Kuala Lumpur, Ini Keterangan Letkol Teddy",
-      "link_berita": "https://news.republika.co.id/berita/suadkt487/prabowo-dijadwalkan-temui-anwar-ibrahim-di-kuala-lumpur-ini-keterangan-letkol-teddy",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 14:18:01"
-    },
-    {
-      "judul": "Krisdayanti Ajak Keluarga Naik Transjakarta",
-      "link_berita": "https://ameera.republika.co.id/berita/suas4m328/krisdayanti-ajak-keluarga-naik-transjakarta",
+      "judul": "Jakarta Fair Kemayoran Digelar 12 Juni Hingga 13 Juli 2025",
+      "link_berita": "https://ameera.republika.co.id/berita/suawh5425/jakarta-fair-kemayoran-digelar-12-juni-hingga-13-juli-2025",
       "kategori": "Happening",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 20:00:00"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 21:34:00"
     },
     {
       "judul": "Sampah Laut Ancaman Nyata, Kementerian Lingkungan Hidup Tegaskan Pentingnya Kolaborasi",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 30 Mar 2025, 20:55:00"
     },
     {
-      "judul": "Israel Bohong Soal Pembunuhan Paramedis, Australia: Selidiki Menyeluruh dan Independen",
-      "link_berita": "https://news.republika.co.id/berita/suaujg377/israel-bohong-soal-pembunuhan-paramedis-australia-selidiki-menyeluruh-dan-independen",
+      "judul": "Layani Arus Balik Bandara Soetta, KAI Commuter Tambah Perjalanan Malam",
+      "link_berita": "https://news.republika.co.id/berita/suaxcp425/layani-arus-balik-bandara-soetta-kai-commuter-tambah-perjalanan-malam",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 06 Apr 2025, 21:10:00"
+      "tanggal_terbit": "Sunday, 06 Apr 2025, 21:53:00"
     }
   ],
-  "waktu_scraping": "Sunday, 06 Apr 2025, 21:18:01"
+  "waktu_scraping": "Sunday, 06 Apr 2025, 22:19:27"
 }
