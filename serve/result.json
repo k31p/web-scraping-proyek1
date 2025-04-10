@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kemenkes Setop Sementara PPDS Anestesi RSHS Buntut Kasus Dokter Perkosa Kerabat Pasien",
+      "link_berita": "https://news.republika.co.id/berita/suhjij409/kemenkes-setop-sementara-ppds-anestesi-rshs-buntut-kasus-dokter-perkosa-kerabat-pasien"
+    },
+    {
       "judul": "Trump: Israel akan Pimpin Serangan ke Iran Jika Negosiasi Nuklir Gagal",
       "link_berita": "https://news.republika.co.id/berita/suhgn1409/trump-israel-akan-pimpin-serangan-ke-iran-jika-negosiasi-nuklir-gagal"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Kadin AS Protes Trump karena Tetap Berlakukan Tarif Otomotif 25 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/suh8t6468/kadin-as-protes-trump-karena-tetap-berlakukan-tarif-otomotif-25-persen"
-    },
-    {
-      "judul": "Trump Umumkan Jeda 90 Hari Kebijakan Tarif kecuali untuk China, Bursa Global Meroket",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suh6s9423/trump-umumkan-jeda-90-hari-kebijakan-tarif-kecuali-untuk-china-bursa-global-meroket"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ulama Dunia Serukan Boikot Produk Negara Pendukung Israel",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sugfo8502/ulama-dunia-serukan-boikot-produk-negara-pendukung-israel"
+    },
+    {
+      "judul": "Jurnalis Gaza Sikapi Rencana Prabowo Evakuasi Seribu Warga ke Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/suhi8n483/jurnalis-gaza-sikapi-rencana-prabowo-evakuasi-seribu-warga-ke-indonesia"
+    },
     {
       "judul": "Semakin Panas, Turki Putuskan Hubungan Diplomatik dan Perdagangan dengan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/suhf6c483/semakin-panas-turki-putuskan-hubungan-diplomatik-dan-perdagangan-dengan-israel"
@@ -73,316 +81,308 @@
     {
       "judul": "Motif dan Kejanggalan di Kasus Pembunuhan Jurnalis Juwita oleh Prajurit TNI AL",
       "link_berita": "https://news.republika.co.id/berita/sug9cg409/motif-dan-kejanggalan-di-kasus-pembunuhan-jurnalis-juwita-oleh-prajurit-tni-al"
-    },
-    {
-      "judul": "Jadi Wapres Federasi Sepak Bola Korsel, STY Nilai Timnas U-17 Menang Beruntung dari Korea",
-      "link_berita": "https://news.republika.co.id/berita/sug7rj348/jadi-wapres-federasi-sepak-bola-korsel-sty-nilai-timnas-u17-menang-beruntung-dari-korea"
-    },
-    {
-      "judul": "Pelecehan Seksual di Stasiun Tanah Abang, Komnas Perempuan Angkat Bicara",
-      "link_berita": "https://ameera.republika.co.id/berita/sug4q8425/pelecehan-seksual-di-stasiun-tanah-abang-komnas-perempuan-angkat-bicara"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Dedi Mulyadi Minta, Satu Kilometer Jalan Provinsi Harus Dijaga Petugas Pemotong Rumput",
+      "link_berita": "https://rejabar.republika.co.id/berita/suhlgf512/dedi-mulyadi-minta-satu-kilometer-jalan-provinsi-harus-dijaga-petugas-pemotong-rumput",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 05:19:42"
+    },
+    {
+      "judul": "Transaksi BYOND by BSI Naik 40 Persen Selama Ramadhan dan Idul Fitri",
+      "link_berita": "https://sharia.republika.co.id/berita/suhkvu423/transaksi-byond-by-bsi-naik-40-persen-selama-ramadhan-dan-idul-fitri",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 05:06:42"
+    },
+    {
+      "judul": "Korban Pemerkosaan Dokter Residen PPDS di RSHS Bertambah",
+      "link_berita": "https://diagnosa.id/posts/517589/korban-pemerkosaan-dokter-residen-ppds-di-rshs-bertambah",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 05:06:42"
+    },
+    {
+      "judul": "Ulama Dunia Serukan Boikot Produk Negara Pendukung Israel",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sugfo8502/ulama-dunia-serukan-boikot-produk-negara-pendukung-israel",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 05:05:42"
+    },
+    {
+      "judul": "DePA-RI Bangun Kerjasama Dengan Beijing Lawyers Association (BLA)",
+      "link_berita": "https://kampus.republika.co.id/posts/517623/depa-ri-bangun-kerjasama-dengan-beijing-lawyers-association-bla",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:56:42"
+    },
+    {
+      "judul": "Pakar UGM Ingatkan Investor Pemula Pilih Saham yang Punya Fundamental Bagus",
+      "link_berita": "https://rejogja.republika.co.id/berita/suhkaq291/pakar-ugmingatkan-investor-pemulapilih-saham-yangpunyafundamental-bagus",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:54:42"
+    },
+    {
+      "judul": "Fans PSG Cemooh dan Hina Kiper Aston Villa Emiliano Martinez",
+      "link_berita": "https://news.republika.co.id/berita/suhk6i348/fans-psg-cemooh-dan-hina-kiper-aston-villa-emiliano-martinez",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:51:42"
+    },
+    {
+      "judul": "Lucky Hakim Pantau Pemulihan Korban Angin Puting Beliung",
+      "link_berita": "https://rejabar.republika.co.id/berita/suhjsk512/lucky-hakim-pantau-pemulihan-korban-angin-puting-beliung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:43:42"
+    },
+    {
+      "judul": "Ratu Voli Korea: Megawati Telah Berkembang Menjadi Pemain yang Menakutkan",
+      "link_berita": "https://news.republika.co.id/berita/suhjq1409/ratu-voli-korea-megawati-telah-berkembang-menjadi-pemain-yang-menakutkan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:41:42"
+    },
+    {
+      "judul": "Kemenkes Setop Sementara PPDS Anestesi RSHS Buntut Kasus Dokter Perkosa Kerabat Pasien",
+      "link_berita": "https://news.republika.co.id/berita/suhjij409/kemenkes-setop-sementara-ppds-anestesi-rshs-buntut-kasus-dokter-perkosa-kerabat-pasien",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:37:42"
+    },
+    {
+      "judul": "Bertemu MBZ, Prabowo Bahas Upaya Perdamaian di Gaza",
+      "link_berita": "https://tv.republika.co.id/berita/suhjfz313/bertemu-mbz-prabowo-bahas-upaya-perdamaian-di-gaza",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:35:42"
+    },
+    {
+      "judul": "Mulai dari Nol: Refleksi Lebaran dan Budaya Saling Memaafkan",
+      "link_berita": "https://analisis.republika.co.id/berita/suhjch393/mulai-dari-nol-refleksi-lebaran-dan-budaya-saling-memaafkan",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:33:42"
+    },
+    {
+      "judul": "Teladan Nabi Yusuf, Selamatkan Indonesia dari Krisis Pangan",
+      "link_berita": "https://analisis.republika.co.id/berita/suhj1a393/teladan-nabi-yusuf-selamatkan-indonesia-dari-krisis-pangan",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:26:42"
+    },
+    {
       "judul": "Kamis Siang, Presiden Prabowo Dijadwalkan Pidato di Parlemen Turki",
       "link_berita": "https://news.republika.co.id/berita/suhite484/kamis-siang-presiden-prabowo-dijadwalkan-pidato-di-parlemen-turki",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:22:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:22:42"
     },
     {
       "judul": "Mike Huckabee dan Sejarah Panjang Zionisme Kristen",
       "link_berita": "https://news.republika.co.id/berita/suhiq6393/mike-huckabee-dan-sejarah-panjang-zionisme-kristen",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Nemanja Matic Yakin Ruben Amorim Sosok Tepat Latih MU",
       "link_berita": "https://news.republika.co.id/berita/suhiih348/nemanja-matic-yakin-ruben-amorim-sosok-tepat-latih-mu",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:15:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Waspada Ancaman di Balik Tren Sewa Smartphone",
       "link_berita": "https://ameera.republika.co.id/berita/suhigy425/waspada-ancaman-di-balik-tren-sewa-smartphone",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:14:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Industri Kecil Menengah Kota Bekasi Ekspor 4,7 Ton Komoditas Pertanian ke Jepang",
       "link_berita": "https://republika.co.id/berita//suhifn472/industri-kecil-menengah-kota-bekasi-ekspor-47-ton-komoditas-pertanian-ke-jepang",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:14:32"
-    },
-    {
-      "judul": "Diaspora dan Mahasiswa Indonesia di Turki Sambut Meriah Kedatangan Prabowo",
-      "link_berita": "https://news.republika.co.id/berita/suhifc484/diaspora-dan-mahasiswa-indonesia-di-turki-sambut-meriah-kedatangan-prabowo",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:13:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Diaspora dan Mahasiswa Indonesia di Turki Sambut Meriah Kedatangan Prabowo",
       "link_berita": "https://news.republika.co.id/berita/suhicg484/diaspora-dan-mahasiswa-indonesia-di-turki-sambut-meriah-kedatangan-prabowo",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:12:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Jurnalis Gaza Sikapi Rencana Prabowo Evakuasi Seribu Warga ke Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/suhi8n483/jurnalis-gaza-sikapi-rencana-prabowo-evakuasi-seribu-warga-ke-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:09:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Bea Cukai Beri Izin Fasilitas TPB Berkala ke Perusahaan Pengalengan Ikan",
       "link_berita": "https://republika.co.id/berita//suhi05472/bea-cukai-beri-izin-fasilitas-tpb-berkala-ke-perusahaan-pengalengan-ikan",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:04:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Andalkan BRImo, Bayar Tagihan Bulanan Cukup Sekali Klik!",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhhha472/andalkan-brimo-bayar-tagihan-bulanan-cukup-sekali-klik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:53:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 04:20:42"
     },
     {
       "judul": "Bintang Mahaputra Guru Tua, Orang Hebat yang Jadi Inspirasi, dan Perjuangannya",
       "link_berita": "https://news.republika.co.id/berita/suhh4k451/bintang-mahaputra-guru-tua-orang-hebat-yang-jadi-inspirasi-dan-perjuangannya",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:45:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Instagram akan Perbarui Fitur Pencarian, Ingin Saingi TikTok?",
       "link_berita": "https://ameera.republika.co.id/berita/suhh3u425/instagram-akan-perbarui-fitur-pencarian-ingin-saingi-tiktok",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:45:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Tolak Relokasi, Begini Sikap MUI Soal Rencana Evakuasi Seribu Warga Gaza ke RI",
       "link_berita": "https://khazanah.republika.co.id/berita/suhgzd483/tolak-relokasi-begini-sikap-mui-soal-rencana-evakuasi-seribu-warga-gaza-ke-ri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:42:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Sukses Berbisnis ala Khadijah: Pelajaran untuk Gen Z",
       "link_berita": "https://tv.republika.co.id/berita/suhgs1418/sukses-berbisnis-ala-khadijah-pelajaran-untuk-gen-z",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:38:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Trump: Israel akan Pimpin Serangan ke Iran Jika Negosiasi Nuklir Gagal",
       "link_berita": "https://news.republika.co.id/berita/suhgn1409/trump-israel-akan-pimpin-serangan-ke-iran-jika-negosiasi-nuklir-gagal",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:35:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Rumah Zakat Distribusikan 100 Paket Sembako untuk Korban Gempa di Mandalay, Myanmar",
       "link_berita": "https://khazanah.republika.co.id/berita/suhg9n472/rumah-zakat-distribusikan-100-paket-sembako-untuk-korban-gempa-di-mandalay-myanmar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:27:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Membaca Puisi Aina Pulang",
       "link_berita": "https://kingdomsriwijaya.id/posts/517586/membaca-puisi-aina-pulang",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Petugas Kesehatan Haji Jawa Barat dan PPIH Ikuti Pelatihan Pembekalan",
       "link_berita": "https://diagnosa.id/posts/517588/petugas-kesehatan-haji-jawa-barat-dan-ppih-ikuti-pelatihan-pembekalan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Semakin Panas, Turki Putuskan Hubungan Diplomatik dan Perdagangan dengan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/suhf6c483/semakin-panas-turki-putuskan-hubungan-diplomatik-dan-perdagangan-dengan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Mengapa Prancis Akhirnya Akui Palestina?",
       "link_berita": "https://news.republika.co.id/berita/suheyw393/mengapa-prancis-akhirnya-akui-palestina",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Turki Umumkan RUU Iklim, Targetkan Netralitas Karbon 2053",
       "link_berita": "https://esgnow.republika.co.id/berita/suherz416/turki-umumkan-ruu-iklim-targetkan-netralitas-karbon-2053",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Ekonom Sebut Kebijakan Tarif Trump Murni Politik",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhenv423/ekonom-sebut-kebijakan-tarif-trump-murni-politik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 03:20:42"
     },
     {
       "judul": "Peneliti: Polusi Tutupi Dampak Pemanasan Global",
       "link_berita": "https://esgnow.republika.co.id/berita/suhe6y416/peneliti-polusi-tutupi-dampak-pemanasan-global",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Sering Menatap Layar? Ini Makanan yang Perlu Dikonsumsi Agar Mata Sehat",
       "link_berita": "https://ameera.republika.co.id/berita/suhe5z425/sering-menatap-layar-ini-makanan-yang-perlu-dikonsumsi-agar-mata-sehat",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Soal Evakuasi Warga Gaza ke RI, Din Syamsuddin Ingatkan Prabowo soal Rencana Jahat Trump",
       "link_berita": "https://khazanah.republika.co.id/berita/suhe3k430/soal-evakuasi-warga-gaza-ke-ri-din-syamsuddin-ingatkan-prabowo-soal-rencana-jahat-trump",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Senator AS: Iran Saat Ini Miliki Stok Uranium untuk Buat Enam Bom Nuklir",
       "link_berita": "https://news.republika.co.id/berita/suhe23409/senator-as-iran-saat-ini-miliki-stok-uranium-untuk-buat-enam-bom-nuklir",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "PLN Catatkan Kenaikan Transaksi SPKLU Hampir 5 Kali Lipat pada Arus Mudik 1446 H",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhdtj472/pln-catatkan-kenaikan-transaksi-spklu-hampir-5-kali-lipat-pada-arus-mudik-1446-h",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Hari Ini Harga Emas Antam Kembali Meroket, Rp 1,846 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhdr8423/hari-ini-harga-emas-antam-kembali-meroket-rp-1846-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Keran Impor Segera Bocor, Petani Dalam Negeri Teriak: Kami Makin Tercekik!",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhdqf502/keran-impor-segera-bocor-petani-dalam-negeri-teriak-kami-makin-tercekik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "IHSG Melesat Seiring Pasar Merespons Positif Penundaan Tarif Trump",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhdfv423/ihsg-melesat-seiring-pasar-merespons-positif-penundaan-tarif-trump",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Bupati Dony Hadiri Haul ke-44 KH Achmad Nahrowi dan Milad ke-98 Ponpes Darul Hikmah",
       "link_berita": "https://rejabar.republika.co.id/berita/suhd9n472/bupati-dony-hadiri-haul-ke44-kh-achmad-nahrowi-dan-milad-ke98-ponpes-darul-hikmah",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Bahlil: Tolong Regulasi yang 'Berat' Diselesaikan karena Kita Butuh Percepatan",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhd5m423/bahlil-tolong-regulasi-yang-berat-diselesaikan-karena-kita-butuh-percepatan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Dampak Gerakan Perjuangan Guru Tua Sayyid Idrus Salim Aljufri dan Kontribusinya",
       "link_berita": "https://khazanah.republika.co.id/berita/suhd38430/dampak-gerakan-perjuangan-guru-tua-sayyid-idrus-salim-aljufri-dan-kontribusinya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Tina Wiryawati Sebut BUMD Perlu Terapkan Prinsip Bisnis Berkelanjutan",
       "link_berita": "https://rejabar.republika.co.id/berita/suhcwr472/tina-wiryawati-sebut-bumd-perlu-terapkan-prinsip-bisnis-berkelanjutan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Mahasiswi Kembar UNM Raih Beasiswa Jalur Undangan Berkat Prestasi Gemilang",
       "link_berita": "https://news.republika.co.id/berita/suhckp472/mahasiswi-kembar-unm-raih-beasiswa-jalur-undangan-berkat-prestasi-gemilang",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Respons Pengamat Pertanian Soal Pernyataan Prabowo Hapus Kuota Impor",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhci2423/respons-pengamat-pertanian-soal-pernyataan-prabowo-hapus-kuota-impor",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Harga Jual Emas Pegadaian Meroket Hingga Rp 60 Ribu Per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/suhc8t328/harga-jual-emas-pegadaian-meroket-hingga-rp-60-ribu-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "UNM Siapkan Mahasiswa Prodi Sains Data Ikut Sertifikasi Associate Data Scientist",
       "link_berita": "https://news.republika.co.id/berita/suhc8g472/unm-siapkan-mahasiswa-prodi-sains-data-ikut-sertifikasi-associate-data-scientist",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
-    },
-    {
-      "judul": "Hansi Flick Minta Barcelona Tetap Fokus Walau Sudah Selangkah ke Semifinal Liga Champions",
-      "link_berita": "https://news.republika.co.id/berita/suhc1m348/hansi-flick-minta-barcelona-tetap-fokus-walau-sudah-selangkah-ke-semifinal-liga-champions",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:25:32"
-    },
-    {
-      "judul": "IHSG Berpotensi Rebound ke 6.500 Respons Penundaan Tarif Trump",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suhbvb328/ihsg-berpotensi-rebound-ke-6500-respons-penundaan-tarif-trump",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Neurosains dan AI: Menjelajahi Koneksi Antara Otak dan Kecerdasan Buatan",
-      "link_berita": "https://news.republika.co.id/berita/suhbto472/neurosains-dan-ai-menjelajahi-koneksi-antara-otak-dan-kecerdasan-buatan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Prancis Siap Akui Negara Palestina pada Juni, Macron: Kita Perlu Membuat Pengakuan",
-      "link_berita": "https://news.republika.co.id/berita/suhbqe409/prancis-siap-akui-negara-palestina-pada-juni-macron-kita-perlu-membuat-pengakuan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "BYD Seagull yang Dikabarkan Segera Masuk RI Harganya di China Turun Jadi Rp 131 Juta",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suhbih468/byd-seagull-yang-dikabarkan-segera-masuk-ri-harganya-di-china-turun-jadi-rp-131-juta",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Mahasiswa Prodi Teknologi Informasi Cyber University Jalani Magang di PT PARI",
-      "link_berita": "https://news.republika.co.id/berita/suhbay472/mahasiswa-prodi-teknologi-informasi-cyber-university-jalani-magang-di-pt-pari",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "WTO: Perdagangan China-AS Bisa Turun Hingga 80 Persen Akibat Tarif",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suhb5w423/wto-perdagangan-chinaas-bisa-turun-hingga-80-persen-akibat-tarif",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Lintas Agama dan 5 Menteri Dukung Haul Guru Tua, NU: Beliau Inspirasi Saling Menghargai",
-      "link_berita": "https://news.republika.co.id/berita/suhaus451/lintas-agama-dan-5-menteri-dukung-haul-guru-tua-nu-beliau-inspirasi-saling-menghargai",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Calhaj Mulai Masuk Asrama Haji 1 Mei, Dokumen Disiapkan",
-      "link_berita": "https://khazanah.republika.co.id/berita/suhatd483/calhaj-mulai-masuk-asrama-haji-1-mei-dokumen-disiapkan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Tak Hanya Keluarga Pasien, Dokter Residen PPDS di RSHS Diduga Perkosa Dua Pasiennya",
-      "link_berita": "https://rejabar.republika.co.id/berita/suhak0512/tak-hanya-keluarga-pasien-dokter-residen-ppds-di-rshs-diduga-perkosa-dua-pasiennya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Jadwal Leg Pertama Perempat Final Liga Europa: MU dan Tottenham Jaga Harapan Trofi",
-      "link_berita": "https://news.republika.co.id/berita/suhaho348/jadwal-leg-pertama-perempat-final-liga-europa-mu-dan-tottenham-jaga-harapan-trofi",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
-    },
-    {
-      "judul": "Trump Tunda Tarif, IHSG Siap Rebound Ikuti Bursa Global",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suhaal423/trump-tunda-tarif-ihsg-siap-rebound-ikuti-bursa-global",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 01:25:32"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 02:20:42"
     },
     {
       "judul": "Waspada Ancaman di Balik Tren Sewa Smartphone",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Thursday, 10 Apr 2025, 09:55:00"
     },
     {
-      "judul": "Andalkan BRImo, Bayar Tagihan Bulanan Cukup Sekali Klik!",
-      "link_berita": "https://ekonomi.republika.co.id/berita/suhhha472/andalkan-brimo-bayar-tagihan-bulanan-cukup-sekali-klik",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 10:53:00"
+      "judul": "Ulama Dunia Serukan Boikot Produk Negara Pendukung Israel",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sugfo8502/ulama-dunia-serukan-boikot-produk-negara-pendukung-israel",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 12:06:00"
     },
     {
-      "judul": "Tarif Trump Mengancam Ekonomi, KNEKS: Saatnya Indonesia Kuasai Pasar Halal Global",
-      "link_berita": "https://sharia.republika.co.id/berita/sug09a490/tarif-trump-mengancam-ekonomi-kneks-saatnya-indonesia-kuasai-pasar-halal-global",
+      "judul": "Transaksi BYOND by BSI Naik 40 Persen Selama Ramadhan dan Idul Fitri",
+      "link_berita": "https://sharia.republika.co.id/berita/suhkvu423/transaksi-byond-by-bsi-naik-40-persen-selama-ramadhan-dan-idul-fitri",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 09 Apr 2025, 15:43:00"
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 12:07:00"
     },
     {
-      "judul": "Kamis Siang, Presiden Prabowo Dijadwalkan Pidato di Parlemen Turki",
-      "link_berita": "https://news.republika.co.id/berita/suhite484/kamis-siang-presiden-prabowo-dijadwalkan-pidato-di-parlemen-turki",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 10 Apr 2025, 11:22:00"
+      "judul": "Fans PSG Cemooh dan Hina Kiper Aston Villa Emiliano Martinez",
+      "link_berita": "https://news.republika.co.id/berita/suhk6i348/fans-psg-cemooh-dan-hina-kiper-aston-villa-emiliano-martinez",
+      "kategori": "Sport",
+      "tanggal_terbit": "Thursday, 10 Apr 2025, 11:51:00"
     }
   ],
-  "waktu_scraping": "Thursday, 10 Apr 2025, 11:25:32"
+  "waktu_scraping": "Thursday, 10 Apr 2025, 12:20:42"
 }
