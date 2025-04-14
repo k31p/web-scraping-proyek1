@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Rebranding Bank DKI, Pramono Tolak 'Orang Titipan'",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supdn4423/rebranding-bank-dki-pramono-tolak-orang-titipan"
+    },
+    {
       "judul": "Bung Kus: Timnas U-17 Harus Tampil Menekan dan Jaga Keseimbangan Lawan Korea Utara",
       "link_berita": "https://news.republika.co.id/berita/supaxd348/bung-kus-timnas-u17-harus-tampil-menekan-dan-jaga-keseimbangan-lawan-korea-utara"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Bacaan Doa yang Bisa Dipanjatkan Saat Sakit Kepala dan Demam",
       "link_berita": "https://iqra.republika.co.id/berita/sup1ex430/bacaan-doa-yang-bisa-dipanjatkan-saat-sakit-kepala-dan-demam"
-    },
-    {
-      "judul": "Dedi Mulyadi Buat Surat Edaran Soal Larangan Minta Sumbangan di Jalan, Ini Isinya",
-      "link_berita": "https://rejabar.republika.co.id/berita/suozvw512/dedi-mulyadi-buat-surat-edaran-soal-larangan-minta-sumbangan-di-jalan-ini-isinya"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Tidak Cuma Ayat Kursi atau Qulhu, Ini Ayat-Ayat Alquran \u2018Pengusir\u2019 Setan Dan Sihir",
+      "link_berita": "https://iqra.republika.co.id/berita/supcx6320/tidak-cuma-ayat-kursi-atau-qulhu-ini-ayatayat-alquran-pengusir-setan-dan-sihir"
+    },
+    {
+      "judul": "Rasulullah SAW Ungkap Yahudi akan Dikalahkan Umat Islam, Tapi Kapan dan Bagaimana?",
+      "link_berita": "https://iqra.republika.co.id/berita/supbnd320/rasulullah-saw-ungkap-yahudi-akan-dikalahkan-umat-islam-tapi-kapan-dan-bagaimana"
+    },
     {
       "judul": "Rumah La Nyalla Mattalitti di Surabaya Digeledah KPK, Terkait Kasus Ini",
       "link_berita": "https://news.republika.co.id/berita/supau5409/rumah-la-nyalla-mattalitti-di-surabaya-digeledah-kpk-terkait-kasus-ini"
@@ -73,334 +81,326 @@
     {
       "judul": "Taubat yang Mendatangkan Rezeki",
       "link_berita": "https://khazanah.republika.co.id/berita/sunk6x430/taubat-yang-mendatangkan-rezeki"
-    },
-    {
-      "judul": "Polisi Segel SPBU di Denpasar, Diduga Oplos BBM",
-      "link_berita": "https://news.republika.co.id/berita/sunvo5348/polisi-segel-spbu-di-denpasar-diduga-oplos-bbm"
-    },
-    {
-      "judul": "Fajar/Rian Punya Pekerjaan Rumah Jelang Piala Sudirman 2025",
-      "link_berita": "https://news.republika.co.id/berita/sunu7r348/fajarrian-punya-pekerjaan-rumah-jelang-piala-sudirman-2025"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "PLN Gandeng Masdar Kembangkan PLTS Terapung di Indonesia",
+      "link_berita": "https://esgnow.republika.co.id/berita/supe8g416/pln-gandeng-masdar-kembangkan-plts-terapung-di-indonesia",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:24:16"
+    },
+    {
+      "judul": "Dokter Tegaskan Kontrol Gula Darah tak Selalu dari Terapi Obat",
+      "link_berita": "https://ameera.republika.co.id/berita/supe2u425/dokter-tegaskan-kontrol-gula-darah-tak-selalu-dari-terapi-obat",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:20:34"
+    },
+    {
+      "judul": "Tidak Cuma Ayat Kursi atau Qulhu, Ini Ayat-Ayat Alquran \u2018Pengusir\u2019 Setan Dan Sihir",
+      "link_berita": "https://iqra.republika.co.id/berita/supcx6320/tidak-cuma-ayat-kursi-atau-qulhu-ini-ayatayat-alquran-pengusir-setan-dan-sihir",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:19:34"
+    },
+    {
+      "judul": "Beri Jaminan Aman, Fapet UGM Dorong Sertifikasi dan Labeling Produk Peternakan",
+      "link_berita": "https://rejogja.republika.co.id/berita/supdzj291/beri-jaminan-aman-fapet-ugm-dorong-sertifikasi-dan-labeling-produk-peternakan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:18:34"
+    },
+    {
+      "judul": "Menyemai Pendidikan untuk Pelajar Desa Bojanegara",
+      "link_berita": "https://khazanah.republika.co.id/berita/supdxd472/menyemai-pendidikan-untuk-pelajar-desa-bojanegara",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:17:34"
+    },
+    {
+      "judul": "Vokalis Coldplay Chris Martin Berbagi Cara Lawan Depresi: Menulis Bebas Hingga Meditasi",
+      "link_berita": "https://ameera.republika.co.id/berita/supdt6425/vokalis-coldplay-chris-martin-berbagi-cara-lawan-depresi-menulis-bebas-hingga-meditasi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:15:34"
+    },
+    {
+      "judul": "Ketua PBNU: Guru Tua Sosok yang DIhormati, Nahdliyin Jangan Terprovokasi",
+      "link_berita": "https://khazanah.republika.co.id/berita/supdsl483/ketua-pbnu-guru-tua-sosok-yang-dihormati-nahdliyin-jangan-terprovokasi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:14:34"
+    },
+    {
+      "judul": "Perajin Tempe Keluhkan Kenaikan Harga Kedelai",
+      "link_berita": "https://visual.republika.co.id/berita/supdnm375/perajin-tempe-keluhkan-kenaikan-harga-kedelai",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:11:34"
+    },
+    {
+      "judul": "Dua Orang Habib yang Dikagumi Quraish Shihab",
+      "link_berita": "https://news.republika.co.id/berita/supdn7451/dua-orang-habib-yang-dikagumi-quraish-shihab",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:11:34"
+    },
+    {
+      "judul": "Vivo V50 Lite: Terobosan Smartphone Tipis dengan Baterai 'Monster'",
+      "link_berita": "https://ameera.republika.co.id/berita/supdn6425/vivo-v50-lite-terobosan-smartphone-tipis-dengan-baterai-monster",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:11:34"
+    },
+    {
+      "judul": "Rebranding Bank DKI, Pramono Tolak 'Orang Titipan'",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supdn4423/rebranding-bank-dki-pramono-tolak-orang-titipan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:11:34"
+    },
+    {
+      "judul": "MPM Muhammadiyah Ajak Komunitas Mardiko Bantul Olah Sampah dan Ciptakan Peluang Ekonomi",
+      "link_berita": "https://rejogja.republika.co.id/berita/supdn3291/mpm-muhammadiyah-ajak-komunitas-mardiko-bantul-olah-sampah-dan-ciptakan-peluang-ekonomi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:11:34"
+    },
+    {
+      "judul": "Pemimpin Muslim Mulai Jadi Sasaran Kemarahan Demo Pro-Palestina",
+      "link_berita": "https://news.republika.co.id/berita/supdlt393/pemimpin-muslim-mulai-jadi-sasaran-kemarahan-demo-propalestina",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:10:34"
+    },
+    {
+      "judul": "MUI Keluarkan Pernyataan Bersama Soal Palestina: Sikapi Rencana Evakuasi dan Fatwa Jihad",
+      "link_berita": "https://khazanah.republika.co.id/berita/supdh6483/mui-keluarkan-pernyataan-bersama-soal-palestina-sikapi-rencana-evakuasi-dan-fatwa-jihad",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:07:34"
+    },
+    {
+      "judul": "Gara-Gara Tarif Trump, Sony Bakal Naikkan Harga Jual PS5",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supd6j490/garagara-tarif-trump-sony-bakal-naikkan-harga-jual-ps5",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 10:01:34"
+    },
+    {
+      "judul": "Pemerintah Siapkan Satgas PHK, Pengusaha Khawatir Ada PHK Besar-besaran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supd3c423/pemerintah-siapkan-satgas-phk-pengusaha-khawatir-ada-phk-besarbesaran",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:59:34"
+    },
+    {
+      "judul": "Ketua KPK Janji tak akan Ambil Honor dari Jabatan di BPI Danantara",
+      "link_berita": "https://news.republika.co.id/berita/supcpg487/ketua-kpk-janji-tak-akan-ambil-honor-dari-jabatan-di-bpi-danantara",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:51:34"
+    },
+    {
+      "judul": "Profil Sekar Arum Widara, Mantan Artis Kolosal yang Ditangkap karena Uang Palsu",
+      "link_berita": "https://ameera.republika.co.id/berita/supchr425/profil-sekar-arum-widara-mantan-artis-kolosal-yang-ditangkap-karena-uang-palsu",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:46:34"
+    },
+    {
+      "judul": "Uang Suap Rp 60 Miliar Vonis Lepas Kasus CPO Dibagi-bagi, Hakim Mana Paling \u2018Rakus'?",
+      "link_berita": "https://news.republika.co.id/berita/supcfh484/uang-suap-rp-60-miliar-vonis-lepas-kasus-cpo-dibagibagi-hakim-mana-paling-rakus",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:45:34"
+    },
+    {
+      "judul": "Pembangkan Berlanjut, Israel Kian Dekati Perang Sipil",
+      "link_berita": "https://news.republika.co.id/berita/supcbc393/pembangkan-berlanjut-israel-kian-dekati-perang-sipil",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:42:34"
+    },
+    {
+      "judul": "Perang Dagang China-AS: Persaingan Ekonomi yang Mengguncang Dunia",
+      "link_berita": "https://retizen.republika.co.id/posts/518138/perang-dagang-china-as-persaingan-ekonomi-yang-mengguncang-dunia",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:39:34"
+    },
+    {
+      "judul": "Apel 20 Ribu Banser Bareng TNI, Addin: Manunggal Kekuatan Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/supc5s320/apel-20-ribu-banser-bareng-tni-addin-manunggal-kekuatan-indonesia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:39:34"
+    },
+    {
+      "judul": "Merajut Sinergi Media dan Pemerintah di Halal Bihalal PWI Kota Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/supc56472/merajut-sinergi-media-dan-pemerintah-di-halal-bihalal-pwi-kota-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:39:34"
+    },
+    {
+      "judul": "Gapki Targetkan Ekspor Minyak Sawit ke Rusia Tembus 1 Juta Ton",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supc3r370/gapki-targetkan-ekspor-minyak-sawit-ke-rusia-tembus-1-juta-ton",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:38:34"
+    },
+    {
+      "judul": "Rusia Ingin Jalin Hubungan Ekonomi Lebih Erat dengan RI",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supc1p423/rusia-ingin-jalin-hubungan-ekonomi-lebih-erat-dengan-ri",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:36:34"
+    },
+    {
+      "judul": "Geramnya Hamas Usai Israel Larang Umat Kristen Masuk Yerusalem Untuk Minggu Palma",
+      "link_berita": "https://khazanah.republika.co.id/berita/supbz0483/geramnya-hamas-usai-israel-larang-umat-kristen-masuk-yerusalem-untuk-minggu-palma",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:35:34"
+    },
+    {
+      "judul": "Kementerian PPPA Minta Dokter PPDS Pelaku Pemerkosaan Dihukum Berat",
+      "link_berita": "https://news.republika.co.id/berita/supbvv425/kementerian-pppa-minta-dokter-ppds-pelaku-pemerkosaan-dihukum-berat",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:33:34"
+    },
+    {
+      "judul": "Konsil Kesehatan Indonesia, Pastikan Dokter Tersangka Pelecehan Seksual Dicabut Hak Praktiknya Seumur Hidup",
+      "link_berita": "https://diagnosa.id/posts/518142/konsil-kesehatan-indonesia-pastikan-dokter-tersangka-pelecehan-seksual-dicabut-hak-praktiknya-seumur-hidup",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:31:34"
+    },
+    {
+      "judul": "2,4 Juta Porsi Makanan Disiapkan untuk Jamaah RI Selama Puncak Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/supbr3458/24-juta-porsi-makanan-disiapkan-untuk-jamaah-ri-selama-puncak-haji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:30:34"
+    },
+    {
+      "judul": "Rasulullah SAW Ungkap Yahudi akan Dikalahkan Umat Islam, Tapi Kapan dan Bagaimana?",
+      "link_berita": "https://iqra.republika.co.id/berita/supbnd320/rasulullah-saw-ungkap-yahudi-akan-dikalahkan-umat-islam-tapi-kapan-dan-bagaimana",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:28:34"
+    },
+    {
+      "judul": "Klinik Patella Solusi Pengobatan Nyeri Lutut dan Sendi",
+      "link_berita": "https://ameera.republika.co.id/berita/supbn1368/klinik-patella-solusi-pengobatan-nyeri-lutut-dan-sendi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:28:34"
+    },
+    {
+      "judul": "Van Dijk Bangga Bantu Liverpool Makin Dekat Menuju Gelar Impian",
+      "link_berita": "https://news.republika.co.id/berita/supbla348/van-dijk-bangga-bantu-liverpool-makin-dekat-menuju-gelar-impian",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:27:34"
+    },
+    {
       "judul": "Pertunjukan Panggung Musikal 'Keluarga Cemara' Siap Kembali Menyentuh Hati",
       "link_berita": "https://ameera.republika.co.id/berita/supbfi425/pertunjukan-panggung-musikal-keluarga-cemara-siap-kembali-menyentuh-hati",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:23:42"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Husein Gaza Sebut Masyarakat Indonesia tak Istiqomah Soal Palestina, Ini Penyebabnya",
       "link_berita": "https://khazanah.republika.co.id/berita/supbev483/husein-gaza-sebut-masyarakat-indonesia-tak-istiqomah-soal-palestina-ini-penyebabnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:23:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
-      "judul": "MA Pastikan Hakim dan Pengacara yang Ditangkap Kejagung Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/supbcz484/ma-pastikan-hakim-dan-pengacara-yang-ditangkap-kejagung-ditangkap",
+      "judul": "MA Pastikan Hakim dan Pengacara yang Ditangkap Kejagung Dipecat",
+      "link_berita": "https://news.republika.co.id/berita/supbcz484/ma-pastikan-hakim-dan-pengacara-yang-ditangkap-kejagung-dipecat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:22:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Siap Negosiasikan Tarif, Indonesia akan Investasi di AS Lewat Danantara",
       "link_berita": "https://ekonomi.republika.co.id/berita/supbbe423/siap-negosiasikan-tarif-indonesia-akan-investasi-di-as-lewat-danantara",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:21:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Puan Ungkap Isi Pertemuan Megawati-Prabowo, Sebut Ada Silaturahmi Lanjutan",
       "link_berita": "https://news.republika.co.id/berita/supb8u487/puan-ungkap-isi-pertemuan-megawatiprabowo-sebut-ada-silaturahmi-lanjutan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:19:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Investasi Qatar-RI 4 Miliar Dolar AS untuk Sektor Prioritas",
       "link_berita": "https://ekonomi.republika.co.id/berita/supb8h370/investasi-qatarri-4-miliar-dolar-as-untuk-sektor-prioritas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:19:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Sambutan Hangat Yordania untuk Prabowo",
       "link_berita": "https://tv.republika.co.id/berita/supb8f418/sambutan-hangat-yordania-untuk-prabowo",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:19:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Sukses Terselenggara, Ini Juara Pertamina Mandalika Racing Series 2025 Putaran Pertama",
       "link_berita": "https://ekonomi.republika.co.id/berita/supb6k472/sukses-terselenggara-ini-juara-pertamina-mandalika-racing-series-2025-putaran-pertama",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:18:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Diaper untuk Anjing Asal Indonesia Tembus Pasar Eropa",
       "link_berita": "https://republika.co.id/berita//supb5k368/diaper-untuk-anjing-asal-indonesia-tembus-pasar-eropa",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:17:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Tanda Kiamat, Gembala Kambing Berlomba Dirikan Bangunan Tinggi",
       "link_berita": "https://khazanah.republika.co.id/berita/supb55458/tanda-kiamat-gembala-kambing-berlomba-dirikan-bangunan-tinggi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:17:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Asosiasi Ungkap Pentingnya Panas Bumi untuk Ketahanan Energi",
       "link_berita": "https://esgnow.republika.co.id/berita/supb4h416/asosiasi-ungkap-pentingnya-panas-bumi-untuk-ketahanan-energi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:16:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Bulog Catat Penyerapan Gabah Petani Capai 1 Juta Ton Setara Beras",
       "link_berita": "https://ekonomi.republika.co.id/berita/supazy370/bulog-catat-penyerapan-gabah-petani-capai-1-juta-ton-setara-beras",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:14:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Bung Kus: Timnas U-17 Harus Tampil Menekan dan Jaga Keseimbangan Lawan Korea Utara",
       "link_berita": "https://news.republika.co.id/berita/supaxd348/bung-kus-timnas-u17-harus-tampil-menekan-dan-jaga-keseimbangan-lawan-korea-utara",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:12:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Jennie Tampil Energik di Coachella, Warganet Menudingnya Lip Sync",
       "link_berita": "https://ameera.republika.co.id/berita/supax7425/jennie-tampil-energik-di-coachella-warganet-menudingnya-lip-sync",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:12:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Tinjau Armuzna, Kepala BP Haji Ingin Pastikan Persiapan Pelayanan untuk Jamaah",
       "link_berita": "https://khazanah.republika.co.id/berita/supaww483/tinjau-armuzna-kepala-bp-haji-ingin-pastikan-persiapan-pelayanan-untuk-jamaah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:12:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Rumah La Nyalla Mattalitti di Surabaya Digeledah KPK, Terkait Kasus Ini",
       "link_berita": "https://news.republika.co.id/berita/supau5409/rumah-la-nyalla-mattalitti-di-surabaya-digeledah-kpk-terkait-kasus-ini",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:10:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "MA: Putusan Perkara Izin Ekspor Minyak Sawit Belum Berkekuatan Hukum Tetap",
       "link_berita": "https://news.republika.co.id/berita/supat7487/ma-putusan-perkara-izin-ekspor-minyak-sawit-belum-berkekuatan-hukum-tetap",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:10:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
       "judul": "Tiga Level Niat dalam Beribadah",
       "link_berita": "https://khazanah.republika.co.id/berita/supaqq458/tiga-level-niat-dalam-beribadah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:08:35"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 09:24:34"
     },
     {
-      "judul": "Imigrasi Bali Deportasi Warga AS yang Viral Mengamuk di RS",
-      "link_berita": "https://news.republika.co.id/berita/supad0409/imigrasi-bali-deportasi-warga-as-yang-viral-mengamuk-di-rs",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 09:00:35"
+      "judul": "Dokter Tegaskan Kontrol Gula Darah tak Selalu dari Terapi Obat",
+      "link_berita": "https://ameera.republika.co.id/berita/supe2u425/dokter-tegaskan-kontrol-gula-darah-tak-selalu-dari-terapi-obat",
+      "kategori": "Health",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 17:20:00"
     },
     {
-      "judul": "Mama Gina Kimbab Family Bagikan Tips Bangun Keluarga Harmonis di Korea",
-      "link_berita": "https://chingudeul.republika.co.id/posts/518123/mama-gina-kimbab-family-bagikan-tips-bangun-keluarga-harmonis-di-korea",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 08:51:35"
-    },
-    {
-      "judul": "Sejak Kapan Kita Mengenal Benang Merah?",
-      "link_berita": "https://oohya.republika.co.id/posts/518133/sejak-kapan-kita-mengenal-benang-merah",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 08:51:35"
-    },
-    {
-      "judul": "Fun Math: Belajar Matematika Lebih Asik dan Interaktif",
-      "link_berita": "https://retizen.republika.co.id/posts/518090/fun-math-belajar-matematika-lebih-asik-dan-interaktif",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 08:51:35"
-    },
-    {
-      "judul": "Saat Doa tak Lagi Cukup, Gaza Menuntut Barisan Pasukan",
-      "link_berita": "https://retizen.republika.co.id/posts/518124/saat-doa-tak-lagi-cukup-gaza-menuntut-barisan-pasukan",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 08:51:35"
-    },
-    {
-      "judul": "Rumah Untuk Alie, Kisah Pilu Perundungan Keluarga yang Menggugah Hati",
-      "link_berita": "https://ameera.republika.co.id/berita/sup6yb425/rumah-untuk-alie-kisah-pilu-perundungan-keluarga-yang-menggugah-hati",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Menag:Tambahan Kuota Petugas Haji sudah Masuk E-Hajj",
-      "link_berita": "https://topnews62.com/posts/518085/menag-tambahan-kuota-petugas-haji-sudah-masuk-e-hajj",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Oscar Piastri Rebut Gelar Juara di GP Bahrain 2025, Tempel Ketat Lando Norris di Klasemen",
-      "link_berita": "https://motoresto.id/posts/518053/oscar-piastri-rebut-gelar-juara-di-gp-bahrain-2025-tempel-ketat-lando-norris-di-klasemen",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Surabaya Serius Perangi Curanmor, Bakal Tingkatkan Pengamanan di Perbatasan",
-      "link_berita": "https://sekitarsurabaya.com/posts/518094/surabaya-serius-perangi-curanmor-bakal-tingkatkan-pengamanan-di-perbatasan",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Catatan Cak AT: Satu Lembar Ijazah, Satu Bangsa Resah",
-      "link_berita": "https://ruzkaindonesia.id/posts/518095/catatan-cak-at-satu-lembar-ijazah-satu-bangsa-resah",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Rocket 5.0 Youthpreneur Incubation, Cara Sandiaga Cetak Wirausahawan Muda",
-      "link_berita": "https://news.republika.co.id/berita/sup6tx484/rocket-50-youthpreneur-incubation-cara-sandiaga-cetak-wirausahawan-muda",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Nilai Barang Tertinggal di Kereta Lebaran Capai Rp1,28 Miliar",
-      "link_berita": "https://ruzkaindonesia.id/posts/518103/nilai-barang-tertinggal-di-kereta-lebaran-capai-rp1-28-miliar",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Klasemen Sementara IBL 2025, Rans Simba Bogor Masih Kuasai Puncak",
-      "link_berita": "https://news.republika.co.id/berita/sup6md348/klasemen-sementara-ibl-2025-rans-simba-bogor-masih-kuasai-puncak",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Xi Jinping Soroti Eratnya 75 Tahun Solidaritas Hubungan Indonesia-China",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sup6g2423/xi-jinping-soroti-eratnya-75-tahun-solidaritas-hubungan-indonesiachina",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Saudi Tangguhkan Visa Umroh, PP Persis Imbau Masyarakat Taat",
-      "link_berita": "https://khazanah.republika.co.id/berita/sup6ew366/saudi-tangguhkan-visa-umroh-pp-persis-imbau-masyarakat-taat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Bupati Bandung Resmikan Koramil Baleendah, 3 Kecamatan Lain Siap Menyusul",
-      "link_berita": "https://rejabar.republika.co.id/berita/sup6b5368/bupati-bandung-resmikan-koramil-baleendah-3-kecamatan-lain-siap-menyusul",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "5 Fakta Songkran, Festival Tahun Baru di Thailand yang Identik dengan Perang Air",
-      "link_berita": "https://ameera.republika.co.id/berita/sup5xt425/5-fakta-songkran-festival-tahun-baru-di-thailand-yang-identik-dengan-perang-air",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "PLN Raih Penghargaan dari ADB Berkat Implementasi Safeguards Proyek Ketenagalistrikan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sup5wp368/pln-raih-penghargaan-dari-adb-berkat-implementasi-safeguards-proyek-ketenagalistrikan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Kemiskinan Patut Dihindari Muslim",
-      "link_berita": "https://khazanah.republika.co.id/berita/sup5t3458/kemiskinan-patut-dihindari-muslim",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "CEO Persebaya Temui Gubernur Pramono Usai Gowes Surabaya-Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/sup5r3484/ceo-persebaya-temui-gubernur-pramono-usai-gowes-surabayajakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Adu Pesona Kecantikan Ikan Arwana Merah",
-      "link_berita": "https://visual.republika.co.id/berita/sup2xq375/adu-pesona-kecantikan-ikan-arwana-merah",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Kadin Gandeng Rusia Investasi di 3 Sektor Strategis Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sup56q423/kadin-gandeng-rusia-investasi-di-3-sektor-strategis-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Tur Asia Tenggara di Tengah Perang Dagang AS-China, Mengapa RI tak Dikunjungi Xi Jinping?",
-      "link_berita": "https://news.republika.co.id/berita/sup4oz409/tur-asia-tenggara-di-tengah-perang-dagang-aschina-mengapa-ri-tak-dikunjungi-xi-jinping",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Kejagung Kembali Sita Uang dan Kendaraan Mewah dalam Kasus Ekspor CPO",
-      "link_berita": "https://news.republika.co.id/berita/sup4nq484/kejagung-kembali-sita-uang-dan-kendaraan-mewah-dalam-kasus-ekspor-cpo",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Betapa Pentingnya Mencintai Allah",
-      "link_berita": "https://khazanah.republika.co.id/berita/sup4nq458/betapa-pentingnya-mencintai-allah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Airlangga Hingga Sri Mulyani akan Terbang ke AS Negosiasikan Tarif 32 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sup4lm423/airlangga-hingga-sri-mulyani-akan-terbang-ke-as-negosiasikan-tarif-32-persen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 07:24:35"
-    },
-    {
-      "judul": "Ini Sebab Mbappe Langgar Keras Pemain Alaves Sehingga Dikartu Merah",
-      "link_berita": "https://news.republika.co.id/berita/sup4j1348/ini-sebab-mbappe-langgar-keras-pemain-alaves-sehingga-dikartu-merah",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 06:24:35"
-    },
-    {
-      "judul": "Flores Diproyeksikan Jadi Pulau Panas Bumi",
-      "link_berita": "https://esgnow.republika.co.id/berita/sup458416/flores-diproyeksikan-jadi-pulau-panas-bumi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 06:24:35"
-    },
-    {
-      "judul": "Di tengah Harga Emas yang Kian Melonjak, Antam Pacu Produksi dan Proyek Hilirisasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sup43q423/di-tengah-harga-emas-yang-kian-melonjak-antam-pacu-produksi-dan-proyek-hilirisasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 06:24:35"
-    },
-    {
-      "judul": "Bea Cukai Minta Masyarakat Waspadai Jasa Unblock IMEI",
-      "link_berita": "https://republika.co.id/berita//sup3oh368/bea-cukai-minta-masyarakat-waspadai-jasa-unblock-imei",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 06:24:35"
-    },
-    {
-      "judul": "Harga Emas Turun, Kantor Antam Bandung Diserbu Warga",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sup2uz423/harga-emas-turun-kantor-antam-bandung-diserbu-warga",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 06:24:35"
-    },
-    {
-      "judul": "Kejagung Tahan Tiga Hakim PN Jakpus dalam Kasus Suap Ekspor CPO",
-      "link_berita": "https://visual.republika.co.id/berita/sup2jo375/kejagung-tahan-tiga-hakim-pn-jakpus-dalam-kasus-suap-ekspor-cpo",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 06:24:35"
-    },
-    {
-      "judul": "Pertunjukan Panggung Musikal 'Keluarga Cemara' Siap Kembali Menyentuh Hati",
-      "link_berita": "https://ameera.republika.co.id/berita/supbfi425/pertunjukan-panggung-musikal-keluarga-cemara-siap-kembali-menyentuh-hati",
-      "kategori": "Happening",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 16:23:00"
-    },
-    {
-      "judul": "Asosiasi Ungkap Pentingnya Panas Bumi untuk Ketahanan Energi",
-      "link_berita": "https://esgnow.republika.co.id/berita/supb4h416/asosiasi-ungkap-pentingnya-panas-bumi-untuk-ketahanan-energi",
+      "judul": "PLN Gandeng Masdar Kembangkan PLTS Terapung di Indonesia",
+      "link_berita": "https://esgnow.republika.co.id/berita/supe8g416/pln-gandeng-masdar-kembangkan-plts-terapung-di-indonesia",
       "kategori": "Tata Kelola",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 16:17:00"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 17:24:00"
     },
     {
-      "judul": "Siap Negosiasikan Tarif, Indonesia akan Investasi di AS Lewat Danantara",
-      "link_berita": "https://ekonomi.republika.co.id/berita/supbbe423/siap-negosiasikan-tarif-indonesia-akan-investasi-di-as-lewat-danantara",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 16:21:00"
+      "judul": "Rebranding Bank DKI, Pramono Tolak 'Orang Titipan'",
+      "link_berita": "https://ekonomi.republika.co.id/berita/supdn4423/rebranding-bank-dki-pramono-tolak-orang-titipan",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Monday, 14 Apr 2025, 17:11:00"
     },
     {
       "judul": "Harga Emas Meroket, Saldo BSI Emas Digital Ikut Melonjak 231 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 12 Apr 2025, 07:47:00"
     },
     {
-      "judul": "MA Pastikan Hakim dan Pengacara yang Ditangkap Kejagung Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/supbcz484/ma-pastikan-hakim-dan-pengacara-yang-ditangkap-kejagung-ditangkap",
+      "judul": "Dua Orang Habib yang Dikagumi Quraish Shihab",
+      "link_berita": "https://news.republika.co.id/berita/supdn7451/dua-orang-habib-yang-dikagumi-quraish-shihab",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 14 Apr 2025, 16:22:00"
+      "tanggal_terbit": "Monday, 14 Apr 2025, 17:11:00"
     }
   ],
-  "waktu_scraping": "Monday, 14 Apr 2025, 16:24:35"
+  "waktu_scraping": "Monday, 14 Apr 2025, 17:24:34"
 }
