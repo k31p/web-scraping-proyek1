@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "MBG Kembali Bermasalah, Belasan Siswa di Batang Diduga Alami Keracunan",
+      "link_berita": "https://news.republika.co.id/berita/susz2k487/mbg-kembali-bermasalah-belasan-siswa-di-batang-diduga-alami-keracunan"
+    },
+    {
+      "judul": "Pengacara Hotma Sitompul Meninggal Usai Jalani Perawatan di RSCM",
+      "link_berita": "https://news.republika.co.id/berita/suswb3409/pengacara-hotma-sitompul-meninggal-usai-jalani-perawatan-di-rscm"
+    },
+    {
       "judul": "Jokowi Hanya Mau Tunjukkan Ijazah Aslinya Jika Hal Ini Terjadi",
       "link_berita": "https://news.republika.co.id/berita/sustqq409/jokowi-hanya-mau-tunjukkan-ijazah-aslinya-jika-hal-ini-terjadi"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Kata Polisi tentang Motif Dokter Lecehkan Pasien di Garut: Terangsang Pasien",
       "link_berita": "https://news.republika.co.id/berita/susp0l487/kata-polisi-tentang-motif-dokter-lecehkan-pasien-di-garut-terangsang-pasien"
-    },
-    {
-      "judul": "Bantah Polisi, Kementerian PPPA Sebut Dokter Kandungan Cabul di Garut Belum Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/suso60487/bantah-polisi-kementerian-pppa-sebut-dokter-kandungan-cabul-di-garut-belum-ditangkap"
-    },
-    {
-      "judul": "KND: Hapus Hambatan Penyandang Disabilitas Berhaji",
-      "link_berita": "https://khazanah.republika.co.id/berita/susjxn366/knd-hapus-hambatan-penyandang-disabilitas-berhaji"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Wamenag: Saudi Menyanggah Batasi Usia Jamaah Haji di Atas 90 Tahun",
+      "link_berita": "https://khazanah.republika.co.id/berita/susyar483/wamenag-saudi-menyanggah-batasi-usia-jamaah-haji-di-atas-90-tahun"
+    },
+    {
+      "judul": "Viral Tuduhan Tas Mewah Diproduksi di China, Benarkah?",
+      "link_berita": "https://ameera.republika.co.id/berita/susvl3425/viral-tuduhan-tas-mewah-diproduksi-di-china-benarkah"
+    },
     {
       "judul": "Menkes Sebut Stroke dan Jantung Jadi Penyebab Kematian Tertinggi",
       "link_berita": "https://ameera.republika.co.id/berita/sustm3425/menkes-sebut-stroke-dan-jantung-jadi-penyebab-kematian-tertinggi"
@@ -73,347 +81,339 @@
     {
       "judul": "Saat Maut Menjemput",
       "link_berita": "https://khazanah.republika.co.id/berita/surxza483/saat-maut-menjemput"
-    },
-    {
-      "judul": "Tumpukan Limbah Sampah Cemari Sungai di Deli Serdang",
-      "link_berita": "https://visual.republika.co.id/berita/surmvs375/tumpukan-limbah-sampah-cemari-sungai-di-deli-serdang"
-    },
-    {
-      "judul": "Tersangkut Kasus Korupsi, Kadis LH Kota Tangsel Ditahan Kejati Banten",
-      "link_berita": "https://visual.republika.co.id/berita/surivk375/tersangkut-kasus-korupsi-kadis-lh-kota-tangsel-ditahan-kejati-banten"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Tarif AS Masih Jadi Sentimen yang Tekan Rupiah, Kini Berkutat di Level Rp 16.837",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sut0kk423/tarif-as-masih-jadi-sentimen-yang-tekan-rupiah-kini-berkutat-di-level-rp-16837",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 09:19:56"
+    },
+    {
+      "judul": "OJK Cabut Izin Usaha, Investree Resmi Dibubarkan dan Dalam Proses Likuidasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sut06v349/ojk-cabut-izin-usaha-investree-resmi-dibubarkan-dan-dalam-proses-likuidasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 09:10:56"
+    },
+    {
+      "judul": "Dekan FEM IPB: Ketegangan Dagang AS Harus Jadi Momentum Ekspansi Industri Halal RI",
+      "link_berita": "https://sharia.republika.co.id/berita/suszoe423/dekan-fem-ipb-ketegangan-dagang-as-harus-jadi-momentum-ekspansi-industri-halal-ri",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:59:56"
+    },
+    {
+      "judul": "Cara Praktis dan Alami Normalkan Tekanan Darah Tinggi",
+      "link_berita": "https://ameera.republika.co.id/berita/suszn5425/cara-praktis-dan-alami-normalkan-tekanan-darah-tinggi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:59:56"
+    },
+    {
+      "judul": "Hasan Nasbi Berkantor di Istana di Tengah Isu Pengunduran Diri dari Jabatan Kepala PCO",
+      "link_berita": "https://news.republika.co.id/berita/suszmr409/hasan-nasbi-berkantor-di-istana-di-tengah-isu-pengunduran-diri-dari-jabatan-kepala-pco",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:58:56"
+    },
+    {
+      "judul": "Produksi Listrik Tenaga Termal China Turun Hampir 5 Persen, Energi Terbarukan Meningkat",
+      "link_berita": "https://esgnow.republika.co.id/berita/suszkq416/produksi-listrik-tenaga-termal-china-turun-hampir-5-persen-energi-terbarukan-meningkat",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:57:56"
+    },
+    {
+      "judul": "Jalan Taubat Pembunuh Seratus Nyawa",
+      "link_berita": "https://khazanah.republika.co.id/berita/suszi1483/jalan-taubat-pembunuh-seratus-nyawa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:55:56"
+    },
+    {
+      "judul": "Tarik Tarif Parkir Rp 60 Ribu di Tanah Abang, Lima Orang Ditangkap",
+      "link_berita": "https://news.republika.co.id/berita/suszhm487/tarik-tarif-parkir-rp-60-ribu-di-tanah-abang-lima-orang-ditangkap",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:55:56"
+    },
+    {
+      "judul": "BPBD Kalsel Terapkan Visi Muhidin-Hasnur untuk Ketahanan Iklim",
+      "link_berita": "https://news.republika.co.id/berita/suszdj368/bpbd-kalsel-terapkan-visi-muhidinhasnur-untuk-ketahanan-iklim",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:53:56"
+    },
+    {
+      "judul": "Kemenhan Bantah Beri Izin Rusia Pakai Pangkalan di Papua: Kita Butuh Stabilitas",
+      "link_berita": "https://news.republika.co.id/berita/susz73484/kemenhan-bantah-beri-izin-rusia-pakai-pangkalan-di-papua-kita-butuh-stabilitas",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:49:56"
+    },
+    {
+      "judul": "MBG Kembali Bermasalah, Belasan Siswa di Batang Diduga Alami Keracunan",
+      "link_berita": "https://news.republika.co.id/berita/susz2k487/mbg-kembali-bermasalah-belasan-siswa-di-batang-diduga-alami-keracunan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:46:56"
+    },
+    {
+      "judul": "Cari Pemimpin Muda, Tanoto Foundation Fellowship Program 2025 kembali Dibuka",
+      "link_berita": "https://rejogja.republika.co.id/berita/susyw6291/cari-pemimpin-muda-tanoto-foundation-fellowship-program-2025-kembali-dibuka",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:42:56"
+    },
+    {
+      "judul": "Kemenkes Minta KKI Cabut STR Dokter Obgyn yang Terlibat Kasus Pelecehan",
+      "link_berita": "https://news.republika.co.id/berita/susyst425/kemenkes-minta-kki-cabut-str-dokter-obgyn-yang-terlibat-kasus-pelecehan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:40:56"
+    },
+    {
+      "judul": "Asa Para Pencari Kerja Ditengah Tingginya Angka Pengangguran",
+      "link_berita": "https://visual.republika.co.id/berita/susys2375/asa-para-pencari-kerja-ditengah-tingginya-angka-pengangguran",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:40:56"
+    },
+    {
+      "judul": "Pemerintah Kebut RPP Perlindungan Mangrove",
+      "link_berita": "https://esgnow.republika.co.id/berita/susyip416/pemerintah-kebut-rpp-perlindungan-mangrove",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:34:56"
+    },
+    {
+      "judul": "Wamenag: Saudi Menyanggah Batasi Usia Jamaah Haji di Atas 90 Tahun",
+      "link_berita": "https://khazanah.republika.co.id/berita/susyar483/wamenag-saudi-menyanggah-batasi-usia-jamaah-haji-di-atas-90-tahun",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:30:56"
+    },
+    {
+      "judul": "Dedi Mulyadi akan Reaktivasi Lima Jalur Kereta Api, Salah Satunya Bandung-Ciwidey",
+      "link_berita": "https://rejabar.republika.co.id/berita/susya4512/dedi-mulyadi-akan-reaktivasi-lima-jalur-kereta-api-salah-satunya-bandungciwidey",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:29:56"
+    },
+    {
       "judul": "Pengamat: Penguatan Harga Emas Seiring Ekspektasi The Fed akan Dovish",
       "link_berita": "https://ekonomi.republika.co.id/berita/susy7k370/pengamat-penguatan-harga-emas-seiring-ekspektasi-the-fed-akan-dovish",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:28:32"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:28:56"
     },
     {
       "judul": "Rute Gowes Lewat JLNT Casablanca Bersama Pramono Disebut Usulan Komunitas",
       "link_berita": "https://news.republika.co.id/berita/susy61487/rute-gowes-lewat-jlnt-casablanca-bersama-pramono-disebut-usulan-komunitas",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:27:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:27:56"
     },
     {
       "judul": "Jordan Thompson Resmi Gabung Jakarta Pertamina Enduro",
       "link_berita": "https://news.republika.co.id/berita/susxqp368/jordan-thompson-resmi-gabung-jakarta-pertamina-enduro",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:18:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "IDI Jabar Bakal Pecat Dokter yang Diduga Lecehkan Pasien di Garut",
       "link_berita": "https://rejabar.republika.co.id/berita/susxqp512/idi-jabar-bakal-pecat-dokter-yang-diduga-lecehkan-pasien-di-garut",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:18:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Dies Natalis ke-24, FEM IPB Dorong Hilirisasi dan Reindustrialisasi Jadi Kunci Masa Depan",
       "link_berita": "https://ekonomi.republika.co.id/berita/susxn1370/dies-natalis-ke24-fem-ipb-dorong-hilirisasi-dan-reindustrialisasi-jadi-kunci-masa-depan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:16:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Ganjar: Megawati Masih Diinginkan Jadi Ketua Umum PDIP",
       "link_berita": "https://news.republika.co.id/berita/susxma409/ganjar-megawati-masih-diinginkan-jadi-ketua-umum-pdip",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:15:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Kantong UMKM perkuat Kebijakan Subisdi Bunga Pemkot Depok",
       "link_berita": "https://republika.co.id/berita//susxil430/kantong-umkm-perkuat-kebijakan-subisdi-bunga-pemkot-depok",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:15:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Komunikasi Gen Z: Cepat, Kreatif, dan Serba Digital",
       "link_berita": "https://retizen.republika.co.id/posts/518456/komunikasi-gen-z-cepat-kreatif-dan-serba-digital",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:14:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Mati Semenjak Masih Hidup",
       "link_berita": "https://retizen.republika.co.id/posts/518466/mati-semenjak-masih-hidup",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:14:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Membangun Jembatan Hati : Kunci Komunikasi Efektif antara Anak dan Orang tua",
       "link_berita": "https://retizen.republika.co.id/posts/518480/membangun-jembatan-hati-kunci-komunikasi-efektif-antara-anak-dan-orang-tua",
       "kategori": "Retizen",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:14:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Kasus Pelecehan oleh Dokter, Psikolog Tekankan Pentingnya Etika Dokter dan Hak Pasien",
       "link_berita": "https://ameera.republika.co.id/berita/susxff425/kasus-pelecehan-oleh-dokter-psikolog-tekankan-pentingnya-etika-dokter-dan-hak-pasien",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:11:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Polisi Klarifikasi Kementerian PPPA, Dokter Cabul di Garut Sudah Ditangkap",
       "link_berita": "https://rejabar.republika.co.id/berita/susxb3512/polisi-klarifikasi-kementerian-pppa-dokter-cabul-di-garut-sudah-ditangkap",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:09:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Catatan Cak AT: Jalan Berliku Upaya Mengadili Sang Mantan",
       "link_berita": "https://ruzkaindonesia.id/posts/518478/catatan-cak-at-jalan-berliku-upaya-mengadili-sang-mantan",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:08:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Kolaborasi Besar, KNEKS Dorong Pendanaan Syariah Lewat Platform Business Matching",
       "link_berita": "https://sharia.republika.co.id/berita/susxa7368/kolaborasi-besar-kneks-dorong-pendanaan-syariah-lewat-platform-business-matching",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:08:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Menkes Lantik Inspektur Investigasi, Ini Tugasnya",
       "link_berita": "https://diagnosa.id/posts/518488/menkes-lantik-inspektur-investigasi-ini-tugasnya",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:08:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Seorang Mukmin Wafat Husnul Khatimah dengan Tanda Ini",
       "link_berita": "https://sajada.id/posts/518492/seorang-mukmin-wafat-husnul-khatimah-dengan-tanda-ini",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:08:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Polrestro Depok Amankan Pelaku Penjualan Obat Daftar G Selama Januari-April 2025",
       "link_berita": "https://ruzkaindonesia.id/posts/518495/polrestro-depok-amankan-pelaku-penjualan-obat-daftar-g-selama-januari-april-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:07:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Ekonom Sebut Kebijakan BI Lemahkan Daya Beli Masyarakat Kelas Bawah",
       "link_berita": "https://ekonomi.republika.co.id/berita/suswwz423/ekonom-sebutkebijakan-bi-lemahkan-daya-beli-masyarakat-kelas-bawah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:00:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Serial 'Harry Potter' Umumkan Nama Pemain, Siapa Saja?",
       "link_berita": "https://ameera.republika.co.id/berita/suswsd425/serial-harry-potter-umumkan-nama-pemain-siapa-saja",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:57:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:23:56"
     },
     {
       "judul": "Bongkar Kasus Tembakau Sintetis, Polres Indramayu Tangkap Tiga Pelaku",
       "link_berita": "https://rejabar.republika.co.id/berita/suswk9512/bongkar-kasus-tembakau-sintetis-polres-indramayu-tangkap-tiga-pelaku",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:53:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Pengacara Hotma Sitompul Meninggal Usai Jalani Perawatan di RSCM",
       "link_berita": "https://news.republika.co.id/berita/suswb3409/pengacara-hotma-sitompul-meninggal-usai-jalani-perawatan-di-rscm",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:47:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Perbedaan Haji Reguler, Haji Khusus, dan Haji Furoda Beserta Harganya",
       "link_berita": "https://khazanah.republika.co.id/berita/susw8s430/perbedaan-haji-reguler-haji-khusus-dan-haji-furoda-beserta-harganya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:46:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Dishub Tepis Komunitas, Sepedaan Bersama Pramono di JLNT tidak Berbahaya",
       "link_berita": "https://news.republika.co.id/berita/susw5z484/dishub-tepis-komunitas-sepedaan-bersama-pramono-di-jlnt-tidak-berbahaya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:44:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Siswa Berprestasi Wajib Tahu! Beasiswa Hebat UNM Tawarkan Kuliah Tanpa Biaya",
       "link_berita": "https://news.republika.co.id/berita/susvzt368/siswa-berprestasi-wajib-tahu-beasiswa-hebat-unm-tawarkan-kuliah-tanpa-biaya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:40:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "PDB Kuartal I China Tumbuh 5,4 Persen di Tengah Perang Tarif",
       "link_berita": "https://ekonomi.republika.co.id/berita/susvxw370/pdb-kuartal-i-china-tumbuh-54-persen-di-tengah-perang-tarif",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:39:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Obligasi Domestik Jadi Pilihan Nasabah Tajir BNI",
       "link_berita": "https://ekonomi.republika.co.id/berita/susvvy423/obligasi-domestik-jadi-pilihan-nasabah-tajir-bni",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:38:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Bisa Kuliah Sambil Magang! Program 3+1 UNM Bikin Lulusan Siap Masuk Dunia Kerja",
       "link_berita": "https://news.republika.co.id/berita/susvmu368/bisa-kuliah-sambil-magang-program-31-unm-bikin-lulusan-siap-masuk-dunia-kerja",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:32:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Geledah Rumah Pengedar, Polisi Indramayu Temukan Sabu di Boks Parfum",
       "link_berita": "https://rejabar.republika.co.id/berita/susvle512/geledah-rumah-pengedar-polisi-indramayu-temukan-sabu-di-boks-parfum",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:32:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Viral Tuduhan Tas Mewah Diproduksi di China, Benarkah?",
       "link_berita": "https://ameera.republika.co.id/berita/susvl3425/viral-tuduhan-tas-mewah-diproduksi-di-china-benarkah",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:31:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Portofolio Emas BSI Melonjak Usai Jadi Bank Bulion, Transaksi Digital Naik Tajam",
       "link_berita": "https://ekonomi.republika.co.id/berita/susvcv370/portofolio-emas-bsi-melonjak-usai-jadi-bank-bulion-transaksi-digital-naik-tajam",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "BNI Incar Pertumbuhan Tabungan 16,7 Persen, Luncurkan Program Undian",
       "link_berita": "https://ekonomi.republika.co.id/berita/susvco423/bni-incar-pertumbuhan-tabungan-167-persen-luncurkan-program-undian",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Kerja Sampingan Jadi Tren Mahasiswa, UBSI Dukung Jiwa Wirausaha Sejak Dini",
       "link_berita": "https://news.republika.co.id/berita/susva5368/kerja-sampingan-jadi-tren-mahasiswa-ubsi-dukung-jiwa-wirausaha-sejak-dini",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
       "judul": "Viral Video Napi Dugem di Rutan Pekanbaru, Kanwil Kemenkumham Riau Gelar Penyelidikan",
       "link_berita": "https://news.republika.co.id/berita/susv83409/viral-video-napi-dugem-di-rutan-pekanbaru-kanwil-kemenkumham-riau-gelar-penyelidikan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:23:56"
     },
     {
-      "judul": "Bea Cukai Beri Asistensi UMKM Berorientasi Ekspor",
-      "link_berita": "https://republika.co.id/berita//susv0z368/bea-cukai-beri-asistensi-umkm-berorientasi-ekspor",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
+      "judul": "Cara Praktis dan Alami Normalkan Tekanan Darah Tinggi",
+      "link_berita": "https://ameera.republika.co.id/berita/suszn5425/cara-praktis-dan-alami-normalkan-tekanan-darah-tinggi",
+      "kategori": "Health",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:59:00"
     },
     {
-      "judul": "Panglima Angkatan Tentara Malaysia Gelar Pertemuan Tertutup dengan Menhan Sjafrie",
-      "link_berita": "https://news.republika.co.id/berita/susuza484/panglima-angkatan-tentara-malaysia-gelar-pertemuan-tertutup-dengan-menhan-sjafrie",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
-    },
-    {
-      "judul": "Kemnaker Masih Kaji Potensi Eks Buruh Sritex Bisa Dipekerjakan Lagi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/susuya423/kemnaker-masih-kaji-potensi-eks-buruh-sritex-bisa-dipekerjakan-lagi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
-    },
-    {
-      "judul": "UNM Tawarkan Beasiswa Penuh Lewat Jalur Undangan, Ini Syaratnya",
-      "link_berita": "https://news.republika.co.id/berita/susura368/unm-tawarkan-beasiswa-penuh-lewat-jalur-undangan-ini-syaratnya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
-    },
-    {
-      "judul": "Suhu Bumi Makin Panas, Indonesia Terancam Bencana Hidrometeorologi Sepanjang Tahun",
-      "link_berita": "https://esgnow.republika.co.id/berita/susuok416/suhu-bumi-makin-panas-indonesia-terancam-bencana-hidrometeorologi-sepanjang-tahun",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
-    },
-    {
-      "judul": "Adaro Andolan Ready to Buyback Shares Up to Rp 4 Trillion",
-      "link_berita": "https://en.republika.co.id/berita/sust2n415/adaro-andolan-ready-to-buyback-shares-up-to-rp-4-trillion",
-      "kategori": "En",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:29:25"
-    },
-    {
-      "judul": "Anak Muda Didorong Jadi Pemimpin Masa Depan Energi",
-      "link_berita": "https://esgnow.republika.co.id/berita/susudo522/anak-muda-didorong-jadi-pemimpin-masa-depan-energi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
-    },
-    {
-      "judul": "Damai dengan Ukraina, Menlu Rusia: Tidak Mudah, Kami sedang Bahas",
-      "link_berita": "https://news.republika.co.id/berita/susmk0451/damai-dengan-ukraina-menlu-rusia-tidak-mudah-kami-sedang-bahas",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 07:29:25"
-    },
-    {
-      "judul": "Jokowi Hanya Mau Tunjukkan Ijazah Aslinya Jika Hal Ini Terjadi",
-      "link_berita": "https://news.republika.co.id/berita/sustqq409/jokowi-hanya-mau-tunjukkan-ijazah-aslinya-jika-hal-ini-terjadi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Menkes Sebut Stroke dan Jantung Jadi Penyebab Kematian Tertinggi",
-      "link_berita": "https://ameera.republika.co.id/berita/sustm3425/menkes-sebut-stroke-dan-jantung-jadi-penyebab-kematian-tertinggi",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Modus Dokter yang Diduga Lecehkan Pasien di Garut Tawarkan USG Gratis ke Pasien",
-      "link_berita": "https://rejabar.republika.co.id/berita/sustjb512/modus-dokter-yang-diduga-lecehkan-pasien-di-garut-tawarkan-usg-gratis-ke-pasien",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Rupiah Melemah, Harga Logam Mulia Diprediksi akan Makin Mengilap",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sustg2423/rupiah-melemah-harga-logam-mulia-diprediksi-akan-makin-mengilap",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Dukung Koperasi Desa Merah Putih, Kemenkop Minta Tambahan Anggaran",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sustdn370/dukung-koperasi-desa-merah-putih-kemenkop-minta-tambahan-anggaran",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "UMKM Makin Maju, Pertamina Sertifikasi Ribuan Usaha Lewat Rumah BUMN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sustce368/umkm-makin-maju-pertamina-sertifikasi-ribuan-usaha-lewat-rumah-bumn",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Stock Market Unsettled, People Start Switching Investments to Gold",
-      "link_berita": "https://en.republika.co.id/berita/sussyh415/stock-market-unsettled-people-start-switching-investments-to-gold",
-      "kategori": "En",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 08:29:25"
-    },
-    {
-      "judul": "Trump: Pendapatan Dari Tarif Bisa Gantikan Pajak Penghasilan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/susskz370/trump-pendapatan-dari-tarif-bisa-gantikan-pajak-penghasilan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Kasus Pelecehan Seksual oleh Dokter Dinilai Coreng Etika Profesi",
-      "link_berita": "https://ameera.republika.co.id/berita/sussit425/kasus-pelecehan-seksual-oleh-dokter-dinilai-coreng-etika-profesi",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 06:29:25"
-    },
-    {
-      "judul": "Kasus Pelecehan oleh Dokter, Psikolog Tekankan Pentingnya Etika Dokter dan Hak Pasien",
-      "link_berita": "https://ameera.republika.co.id/berita/susxff425/kasus-pelecehan-oleh-dokter-psikolog-tekankan-pentingnya-etika-dokter-dan-hak-pasien",
-      "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:11:00"
-    },
-    {
-      "judul": "Suhu Bumi Makin Panas, Indonesia Terancam Bencana Hidrometeorologi Sepanjang Tahun",
-      "link_berita": "https://esgnow.republika.co.id/berita/susuok416/suhu-bumi-makin-panas-indonesia-terancam-bencana-hidrometeorologi-sepanjang-tahun",
+      "judul": "Produksi Listrik Tenaga Termal China Turun Hampir 5 Persen, Energi Terbarukan Meningkat",
+      "link_berita": "https://esgnow.republika.co.id/berita/suszkq416/produksi-listrik-tenaga-termal-china-turun-hampir-5-persen-energi-terbarukan-meningkat",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 14:12:00"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:58:00"
     },
     {
-      "judul": "Pengamat: Penguatan Harga Emas Seiring Ekspektasi The Fed akan Dovish",
-      "link_berita": "https://ekonomi.republika.co.id/berita/susy7k370/pengamat-penguatan-harga-emas-seiring-ekspektasi-the-fed-akan-dovish",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:28:00"
+      "judul": "Tarif AS Masih Jadi Sentimen yang Tekan Rupiah, Kini Berkutat di Level Rp 16.837",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sut0kk423/tarif-as-masih-jadi-sentimen-yang-tekan-rupiah-kini-berkutat-di-level-rp-16837",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 16:19:00"
     },
     {
-      "judul": "Kolaborasi Besar, KNEKS Dorong Pendanaan Syariah Lewat Platform Business Matching",
-      "link_berita": "https://sharia.republika.co.id/berita/susxa7368/kolaborasi-besar-kneks-dorong-pendanaan-syariah-lewat-platform-business-matching",
-      "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:08:00"
+      "judul": "Dekan FEM IPB: Ketegangan Dagang AS Harus Jadi Momentum Ekspansi Industri Halal RI",
+      "link_berita": "https://sharia.republika.co.id/berita/suszoe423/dekan-fem-ipb-ketegangan-dagang-as-harus-jadi-momentum-ekspansi-industri-halal-ri",
+      "kategori": "Industri Halal Ekonomi Syariah",
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 16:00:00"
     },
     {
-      "judul": "Rute Gowes Lewat JLNT Casablanca Bersama Pramono Disebut Usulan Komunitas",
-      "link_berita": "https://news.republika.co.id/berita/susy61487/rute-gowes-lewat-jlnt-casablanca-bersama-pramono-disebut-usulan-komunitas",
+      "judul": "Hasan Nasbi Berkantor di Istana di Tengah Isu Pengunduran Diri dari Jabatan Kepala PCO",
+      "link_berita": "https://news.republika.co.id/berita/suszmr409/hasan-nasbi-berkantor-di-istana-di-tengah-isu-pengunduran-diri-dari-jabatan-kepala-pco",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:27:00"
+      "tanggal_terbit": "Wednesday, 16 Apr 2025, 15:59:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 16 Apr 2025, 15:29:25"
+  "waktu_scraping": "Wednesday, 16 Apr 2025, 16:23:56"
 }
