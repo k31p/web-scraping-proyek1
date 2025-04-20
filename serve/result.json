@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Siapa Wapres yang Tegur Dirinya Usai Berantas Mafia Pangan? Ini Penjelasan Mentan Amran",
+      "link_berita": "https://news.republika.co.id/berita/sv0edj409/siapa-wapres-yang-tegur-dirinya-usai-berantas-mafia-pangan-ini-penjelasan-mentan-amran"
+    },
+    {
       "judul": "Bingungnya Boeing, Pesawat Pesanan Maskapai China di Tengah Jalan Kembali ke AS",
       "link_berita": "https://ekonomi.republika.co.id/berita/sv0bjt468/bingungnya-boeing-pesawat-pesanan-maskapai-china-di-tengah-jalan-kembali-ke-as"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "AS Protes RI Larang Ekspor Bijih Nikel, Bauksit, Tembaga, dan Timah",
       "link_berita": "https://news.republika.co.id/berita/suzz23484/as-protes-ri-larang-ekspor-bijih-nikel-bauksit-tembaga-dan-timah"
-    },
-    {
-      "judul": "Puluhan Ribu Tuntut Kemerdekaan Palestina di Bandung",
-      "link_berita": "https://rejabar.republika.co.id/berita/suzvnv393/puluhan-ribu-tuntut-kemerdekaan-palestina-di-bandung"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Gunung Semeru 4 Kali Erupsi, Warga Diminta Waspadai Guguran Lava",
+      "link_berita": "https://rejogja.republika.co.id/berita/sv0ezg282/gunung-semeru-4-kali-erupsi-warga-diminta-waspadai-guguran-lava"
+    },
+    {
+      "judul": "Jelang Idul Adha, BSI Targetkan 6,7 Juta Rekening Tabungan Haji",
+      "link_berita": "https://sharia.republika.co.id/berita/sv0chr490/jelang-idul-adha-bsi-targetkan-67-juta-rekening-tabungan-haji"
+    },
     {
       "judul": "WNI Ditangkap Imigrasi AS, Korban Kebijakan Anti-Palestina Trump?",
       "link_berita": "https://news.republika.co.id/berita/sv09x1393/wni-ditangkap-imigrasi-as-korban-kebijakan-antipalestina-trump"
@@ -73,316 +81,308 @@
     {
       "judul": "Konsorsium Korsel Cabut Proyek Rantai Pasokan Baterai Rp 130 T di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/suydkk423/konsorsium-korsel-cabut-proyek-rantai-pasokan-baterai-rp-130-t-di-indonesia"
-    },
-    {
-      "judul": "Pramono Kesal Macet di Priok, Kapasitas 2.500 Truk Dipaksakan Hingga 7.000 Truk per Hari",
-      "link_berita": "https://news.republika.co.id/berita/suydgm487/pramono-kesal-macet-di-priok-kapasitas-2500-truk-dipaksakan-hingga-7000-truk-per-hari"
-    },
-    {
-      "judul": "Fatima Hassouna, Fotografer Kesayangan Warga Gaza Syahid Dibom Israel",
-      "link_berita": "https://news.republika.co.id/berita/suyatd393/fatima-hassouna-fotografer-kesayangan-warga-gaza-syahid-dibom-israel"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "AS Sebut Pasar Mangga Dua Banyak Barang Bajakan, Ini Tanggapan Mendag",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sv0f6g490/as-sebut-pasar-mangga-dua-banyak-barang-bajakan-ini-tanggapan-mendag",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Gunung Semeru 4 Kali Erupsi, Warga Diminta Waspadai Guguran Lava",
+      "link_berita": "https://rejogja.republika.co.id/berita/sv0ezg282/gunung-semeru-4-kali-erupsi-warga-diminta-waspadai-guguran-lava",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "ICW Soroti Emansipasi dan Peningkatan Peran Perempuan Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/sv0epw328/icw-soroti-emansipasi-dan-peningkatan-peran-perempuan-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Siapa Wapres yang Tegur Dirinya Usai Berantas Mafia Pangan? Ini Penjelasan Mentan Amran",
+      "link_berita": "https://news.republika.co.id/berita/sv0edj409/siapa-wapres-yang-tegur-dirinya-usai-berantas-mafia-pangan-ini-penjelasan-mentan-amran",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Kemenperin: Perlu Sinergi untuk Perkuat Ekosistem Halal Nasional",
+      "link_berita": "https://sharia.republika.co.id/berita/sv0cyg490/kemenperin-perlu-sinergi-untuk-perkuat-ekosistem-halal-nasional",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Israel Isyaratkan Abaikan Upaya Negosiasi Trump, Keukeuh akan Tetap Serang Iran",
+      "link_berita": "https://news.republika.co.id/berita/sv0dp8409/israel-isyaratkan-abaikan-upaya-negosiasi-trump-keukeuh-akan-tetap-serang-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Bakal Diresmikan Prabowo, Erick Ungkap Fasilitas BIH Telah Beroperasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sv0dcv490/bakal-diresmikan-prabowo-erick-ungkap-fasilitas-bih-telah-beroperasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Logam Mulia Naik Daun, Pembiayaan Emas BCA Syariah Melonjak 180 Persen",
+      "link_berita": "https://sharia.republika.co.id/berita/sv0d4l490/logam-mulia-naik-daun-pembiayaan-emas-bca-syariah-melonjak-180-persen",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
       "judul": "Jelang Idul Adha, BSI Targetkan 6,7 Juta Rekening Tabungan Haji",
       "link_berita": "https://sharia.republika.co.id/berita/sv0chr490/jelang-idul-adha-bsi-targetkan-67-juta-rekening-tabungan-haji",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Menteri Inggris Posisikan Diri Sebagai Mitra Strategis untuk Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/sv0c9r328/menteri-inggris-posisikan-diri-sebagai-mitra-strategis-untuk-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Mentan: Wapres Gibran Dukung Penuh Pemberantasan Mafia Beras dan Korupsi",
       "link_berita": "https://ekonomi.republika.co.id/berita/sv0c9i472/mentan-wapres-gibran-dukung-penuh-pemberantasan-mafia-beras-dan-korupsi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Banjir Bandang di Palabuhanratu Sukabumi, Satu Orang Meninggal Dunia",
       "link_berita": "https://news.republika.co.id/berita/sv0bxt430/banjir-bandang-di-palabuhanratu-sukabumi-satu-orang-meninggal-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Jurnalis Palestina Sekaligus Aktris Dokumenter Meninggal oleh Serangan Rudal Israel",
       "link_berita": "https://ameera.republika.co.id/berita/sv0bng370/jurnalis-palestina-sekaligus-aktris-dokumenter-meninggal-oleh-serangan-rudal-israel",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Bingungnya Boeing, Pesawat Pesanan Maskapai China di Tengah Jalan Kembali ke AS",
       "link_berita": "https://ekonomi.republika.co.id/berita/sv0bjt468/bingungnya-boeing-pesawat-pesanan-maskapai-china-di-tengah-jalan-kembali-ke-as",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "iPhone 17 Pro Max Dikabarkan Bakal Hadir dengan Baterai Super Awet",
       "link_berita": "https://ameera.republika.co.id/berita/sv0bfm370/iphone-17-pro-max-dikabarkan-bakal-hadir-dengan-baterai-super-awet",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Negosiasi Tarif Perdagangan dengan AS, Airlangga Mengaku Suasana Cair",
       "link_berita": "https://ekonomi.republika.co.id/berita/sv0bfj490/negosiasi-tarif-perdagangan-dengan-as-airlangga-mengaku-suasana-cair",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Mencegah Maksiat, Mendekatkan Diri kepada Allah",
       "link_berita": "https://khazanah.republika.co.id/berita/sv0b9u458/mencegah-maksiat-mendekatkan-diri-kepada-allah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Umat Kristen yang Ingin Rayakan Sabtu Suci di Yerusalem Diblokir oleh Israel",
       "link_berita": "https://news.republika.co.id/berita/sv0b9h409/umat-kristen-yang-ingin-rayakan-sabtu-suci-di-yerusalem-diblokir-oleh-israel",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Tiga Peracik Tembakau Sintetis Samarkan Lokasi Home Industry Narkoba di Pemukiman Padat",
       "link_berita": "https://rejabar.republika.co.id/berita/sv0b8x512/tiga-peracik-tembakau-sintetis-samarkan-lokasi-home-industry-narkoba-di-pemukiman-padat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
+    },
+    {
+      "judul": "Permohonan Uji Materiil Perpres Kantor Komunikasi Kepresidenan Diajukan ke MA",
+      "link_berita": "https://news.republika.co.id/berita/sv0b18430/permohonan-uji-materiil-perpres-kantor-komunikasi-kepresidenan-diajukan-ke-ma",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Gedung Tower 3 Asrama Haji Indramayu Diresmikan, Siap Melayani Jamaah Haji",
       "link_berita": "https://rejabar.republika.co.id/berita/sv0azu512/gedung-tower-3-asrama-haji-indramayu-diresmikan-siap-melayani-jamaah-haji",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Trump Protes Sertifikasi Halal Indonesia, Kadin: Halal Adalah Kualitas!",
       "link_berita": "https://sharia.republika.co.id/berita/sv0auz490/trump-protes-sertifikasi-halal-indonesia-kadin-halal-adalah-kualitas",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Teladan Ali Bin Abi Thalib, Peduli pada Kaum Dhuafa",
       "link_berita": "https://khazanah.republika.co.id/berita/sv0aud458/teladan-ali-bin-abi-thalib-peduli-pada-kaum-dhuafa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Israel Larang Umat Kristen ke Gereja Makam Kudus",
       "link_berita": "https://tv.republika.co.id/berita/sv0af6313/israel-larang-umat-kristen-ke-gereja-makam-kudus",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Nasihat Rasulullah untuk Para Pemimpin",
       "link_berita": "https://khazanah.republika.co.id/berita/sv0aej458/nasihat-rasulullah-untuk-para-pemimpin",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Hadiri Halalbihalal, Gubernur Pramono Apresiasi Kiprah Muhammadiyah Jakarta",
       "link_berita": "https://khazanah.republika.co.id/berita/sv0a2b458/hadiri-halalbihalal-gubernur-pramono-apresiasi-kiprah-muhammadiyah-jakarta",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "WNI Ditangkap Imigrasi AS, Korban Kebijakan Anti-Palestina Trump?",
       "link_berita": "https://news.republika.co.id/berita/sv09x1393/wni-ditangkap-imigrasi-as-korban-kebijakan-antipalestina-trump",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Kedubes AS Didemo, Massa Aksi: Janji Allah Soal Kemerdekaan Palestina Makin di Depan Mata",
       "link_berita": "https://news.republika.co.id/berita/sv09tf409/kedubes-as-didemo-massa-aksi-janji-allah-soal-kemerdekaan-palestina-makin-di-depan-mata",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "BRICS Memiliki Peran Strategis dalam Perjuangan Mengatasi Perubahan Iklim",
       "link_berita": "https://news.republika.co.id/berita/sv09q2451/brics-memiliki-peran-strategis-dalam-perjuangan-mengatasi-perubahan-iklim",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Polisi Indramayu Evakuasi Bocah Tenggelam di Sungai",
       "link_berita": "https://rejabar.republika.co.id/berita/sv090l512/polisi-indramayu-evakuasi-bocah-tenggelam-di-sungai",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Tarif Trump Ancam UMKM Halal, Pemerintah Diminta Akselerasi Diplomasi Ekspor",
       "link_berita": "https://news.republika.co.id/berita/sv08yt484/tarif-trump-ancam-umkm-halal-pemerintah-diminta-akselerasi-diplomasi-ekspor",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Sekda Jabar Sebut Efisiensi APBD 2025 Rp 5,1 Triliun untuk Berbagai Program Rakyat",
       "link_berita": "https://rejabar.republika.co.id/berita/sv08td512/sekda-jabar-sebut-efisiensi-apbd-2025-rp-51-triliun-untuk-berbagai-program-rakyat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Dirjen AHU Sosialisasikan KUHP Baru kepada 1.800 Siswa Secapa Polri",
       "link_berita": "https://news.republika.co.id/berita/sv08bq484/dirjen-ahu-sosialisasikan-kuhp-baru-kepada-1800-siswa-secapa-polri",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Kapolres Indramayu Pimpin Langsung Pengamanan Konser Musik Rock 2025",
       "link_berita": "https://rejabar.republika.co.id/berita/sv0878512/kapolres-indramayu-pimpin-langsung-pengamanan-konser-musik-rock-2025",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Child Grooming dan Pedofilia, Apa Bedanya?",
       "link_berita": "https://ameera.republika.co.id/berita/sv07v2370/child-grooming-dan-pedofilia-apa-bedanya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "KH Athian Ali Ajak Umat Islam Indonesia tak Berhenti Bantu Palestina",
       "link_berita": "https://rejabar.republika.co.id/berita/sv07rb512/kh-athian-ali-ajak-umat-islam-indonesia-tak-berhenti-bantu-palestina",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "AS Kritik Model Pengadaan Komponen Pertahanan di Indonesia: Rumit",
       "link_berita": "https://news.republika.co.id/berita/sv07q0484/as-kritik-model-pengadaan-komponen-pertahanan-di-indonesia-rumit",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Batam Targetkan Penerimaan Pajak Naik Jadi Rp 1,79 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/sv07kb370/batam-targetkan-penerimaan-pajak-naik-jadi-rp-179-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Jebolan Oxford Bicara tentang Manfaat Self Compassion",
       "link_berita": "https://ameera.republika.co.id/berita/sv07cu451/jebolan-oxford-bicara-tentang-manfaat-self-compassion",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Puluhan Ribu Masyarakat Jabar Gelar Aksi Damai Bela Palestina, Hadir Aa Gym hingga Aher",
       "link_berita": "https://rejabar.republika.co.id/berita/sv077q512/puluhan-ribu-masyarakat-jabar-gelar-aksi-damai-bela-palestina-hadir-aa-gym-hingga-aher",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "AS Juga Protes Mainan Impor dan Kosmetik Masuk Indonesia Harus Diuji",
       "link_berita": "https://news.republika.co.id/berita/sv06ru484/as-juga-protes-mainan-impor-dan-kosmetik-masuk-indonesia-harus-diuji",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Lion Air Antisipasi Hadapi Delay Saat Penerbangan Haji 2025",
       "link_berita": "https://tv.republika.co.id/berita/sv00yr313/lion-air-antisipasi-hadapi-delay-saat-penerbangan-haji-2025",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Kemendiktisaintek Tekankan Kampus Setiap Daerah Perkuat Keunikan Lokal",
       "link_berita": "https://news.republika.co.id/berita/sv05ox451/kemendiktisaintek-tekankan-kampus-setiap-daerah-perkuat-keunikan-lokal",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Wali Kota: Hujan tak Surutkan Warga Sambut Pawai MTQ ke-58 Kota Medan",
       "link_berita": "https://khazanah.republika.co.id/berita/sv05k7451/wali-kota-hujan-tak-surutkan-warga-sambut-pawai-mtq-ke58-kota-medan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Menteri PU Jelaskan Bantuan 1.000 Burung Hantu dari Presiden Dukung IPHA",
       "link_berita": "https://news.republika.co.id/berita/sv05iw484/menteri-pu-jelaskan-bantuan-1000-burung-hantu-dari-presiden-dukung-ipha",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Penumpang Wanita Bertarif Rp 1 Naik Bus Transjakarta pada 21 April 2025",
       "link_berita": "https://news.republika.co.id/berita/sv0533484/penumpang-wanita-bertarif-rp-1-naik-bus-transjakarta-pada-21-april-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Kapolri Ajak Mahasiswa Tingkatkan Keahlian Dukung Program Pemerintah",
       "link_berita": "https://news.republika.co.id/berita/sv031q451/kapolri-ajak-mahasiswa-tingkatkan-keahlian-dukung-program-pemerintah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Bertemu Mendag AS, Menko Airlangga Sampaikan Proposal Negosiasi Tarif",
       "link_berita": "https://ekonomi.republika.co.id/berita/sv028u370/bertemu-mendag-as-menko-airlangga-sampaikan-proposal-negosiasi-tarif",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "HUT Pura Mangkunegaran ke-268, Hidangan khas Kerajaan di Royal Dinner Mangkunegaran",
       "link_berita": "https://rejogja.republika.co.id/berita/sv01mo456/hut-pura-mangkunegaran-ke268-hidangan-khas-kerajaan-di-royal-dinner-mangkunegaran",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Dukungan untuk Kemerdekaan Palestina Kembali Menggema di Coachella",
       "link_berita": "https://tv.republika.co.id/berita/suzxr9313/dukungan-untuk-kemerdekaan-palestina-kembali-menggema-di-coachella",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Rumah Zakat, Politeknik Hasnur, dan BPBD Kalsel Bersinergi Kurangi Risiko Bencana",
-      "link_berita": "https://khazanah.republika.co.id/berita/sv0026472/rumah-zakat-politeknik-hasnur-dan-bpbd-kalsel-bersinergi-kurangi-risiko-bencana",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Kata Puan Maharani tentang Dukungan RI Buat Palestina",
-      "link_berita": "https://news.republika.co.id/berita/suzzpp451/kata-puan-maharani-tentang-dukungan-ri-buat-palestina",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Petugas Catat Gunung Semeru Erupsi Empat Kali",
-      "link_berita": "https://news.republika.co.id/berita/suzze4451/petugas-catat-gunung-semeru-erupsi-empat-kali",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "AS Protes RI Larang Ekspor Bijih Nikel, Bauksit, Tembaga, dan Timah",
-      "link_berita": "https://news.republika.co.id/berita/suzz23484/as-protes-ri-larang-ekspor-bijih-nikel-bauksit-tembaga-dan-timah",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Ini Penjelasan Dokter, Mengapa Kasus Serangan Jantung Jamaah Haji Lebih Banyak di Madinah",
-      "link_berita": "https://khazanah.republika.co.id/berita/suzyxd370/ini-penjelasan-dokter-mengapa-kasus-serangan-jantung-jamaah-haji-lebih-banyak-di-madinah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Tina Wiryawati Sebut Reaktivasi Jalur KAI Harus Ramah Disabilitas dan Perempuan",
-      "link_berita": "https://rejabar.republika.co.id/berita/suzyp7472/tina-wiryawati-sebut-reaktivasi-jalur-kai-harus-ramah-disabilitas-dan-perempuan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "AS Protes GPN Hingga QRIS ke Indonesia: Khawatir Kebijakan BI",
-      "link_berita": "https://news.republika.co.id/berita/suzy3z484/as-protes-gpn-hingga-qris-ke-indonesia-khawatir-kebijakan-bi",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Inggris Dukung Zionis, Giliran Pejabatnya ke Israel, Malah Diinterogasi, ini Ceritanya",
-      "link_berita": "https://news.republika.co.id/berita/suzxsq451/inggris-dukung-zionis-giliran-pejabatnya-ke-israel-malah-diinterogasi-ini-ceritanya",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
-    },
-    {
-      "judul": "Menag: Musim Haji Tahun ini, InsyaAllah Haji Akbar",
-      "link_berita": "https://tv.republika.co.id/berita/suzwdf313/menag-musim-haji-tahun-ini-insyaallah-haji-akbar",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 08:24:23"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 09:19:41"
     },
     {
       "judul": "Jurnalis Palestina Sekaligus Aktris Dokumenter Meninggal oleh Serangan Rudal Israel",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Sunday, 20 Apr 2025, 15:15:00"
     },
     {
-      "judul": "Mentan: Wapres Gibran Dukung Penuh Pemberantasan Mafia Beras dan Korupsi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sv0c9i472/mentan-wapres-gibran-dukung-penuh-pemberantasan-mafia-beras-dan-korupsi",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 15:15:00"
+      "judul": "AS Sebut Pasar Mangga Dua Banyak Barang Bajakan, Ini Tanggapan Mendag",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sv0f6g490/as-sebut-pasar-mangga-dua-banyak-barang-bajakan-ini-tanggapan-mendag",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 16:18:00"
     },
     {
-      "judul": "Jelang Idul Adha, BSI Targetkan 6,7 Juta Rekening Tabungan Haji",
-      "link_berita": "https://sharia.republika.co.id/berita/sv0chr490/jelang-idul-adha-bsi-targetkan-67-juta-rekening-tabungan-haji",
-      "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 15:20:00"
+      "judul": "Kemenperin: Perlu Sinergi untuk Perkuat Ekosistem Halal Nasional",
+      "link_berita": "https://sharia.republika.co.id/berita/sv0cyg490/kemenperin-perlu-sinergi-untuk-perkuat-ekosistem-halal-nasional",
+      "kategori": "Industri Halal Ekonomi Syariah",
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 15:50:00"
     },
     {
-      "judul": "Banjir Bandang di Palabuhanratu Sukabumi, Satu Orang Meninggal Dunia",
-      "link_berita": "https://news.republika.co.id/berita/sv0bxt430/banjir-bandang-di-palabuhanratu-sukabumi-satu-orang-meninggal-dunia",
+      "judul": "ICW Soroti Emansipasi dan Peningkatan Peran Perempuan Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/sv0epw328/icw-soroti-emansipasi-dan-peningkatan-peran-perempuan-indonesia",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 20 Apr 2025, 15:08:00"
+      "tanggal_terbit": "Sunday, 20 Apr 2025, 16:08:00"
     }
   ],
-  "waktu_scraping": "Sunday, 20 Apr 2025, 15:24:23"
+  "waktu_scraping": "Sunday, 20 Apr 2025, 16:19:41"
 }
