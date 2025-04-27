@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Kemlu RI: tidak Ada WNI Jadi Korban dalam Ledakan di Pelabuhan Iran",
+      "link_berita": "https://news.republika.co.id/berita/svdpp3423/kemlu-ri-tidak-ada-wni-jadi-korban-dalam-ledakan-di-pelabuhan-iran"
+    },
+    {
+      "judul": "Dedi Mulyadi Hentikan Dana Hibah untuk Yayasan Pendidikan, Ini Alasannya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svdoiu423/dedi-mulyadi-hentikan-dana-hibah-untuk-yayasan-pendidikan-ini-alasannya"
+    },
+    {
       "judul": "Dalam Setahun, Lebih dari 13 Juta Jamaah Sholat di Raudhah",
       "link_berita": "https://khazanah.republika.co.id/berita/svdl30483/dalam-setahun-lebih-dari-13-juta-jamaah-sholat-di-raudhah"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Gibran Makin Aktif di Youtube, Begini Penjelasan Wamensesneg",
       "link_berita": "https://news.republika.co.id/berita/svdkax484/gibran-makin-aktif-di-youtube-begini-penjelasan-wamensesneg"
-    },
-    {
-      "judul": "OJK: Perang Tarif AS Berpotensi Tingkatkan Risiko Klaim Asuransi Kredit",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdf43423/ojk-perang-tarif-as-berpotensi-tingkatkan-risiko-klaim-asuransi-kredit"
-    },
-    {
-      "judul": "Pakistan-India Saling Ancam, Perang Nuklir di Depan mata?",
-      "link_berita": "https://news.republika.co.id/berita/svd825393/pakistanindia-saling-ancam-perang-nuklir-di-depan-mata"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kejaksaan Bantah Kasus Bully PPDS Undip Mandek: Berkas Tebal, Perlu Waktu Mempelajari",
+      "link_berita": "https://rejogja.republika.co.id/berita/svdrbz282/kejaksaan-bantah-kasus-bully-ppds-undip-mandek-berkas-tebal-perlu-waktu-mempelajari"
+    },
+    {
+      "judul": "Profil Hamzah Sulaeman: Berawal dari Ketroprak, Raminten Jadi Legenda Wisata Yogyakarta",
+      "link_berita": "https://rejogja.republika.co.id/berita/svdqnr282/profil-hamzah-sulaeman-berawal-dari-ketroprak-raminten-jadi-legenda-wisata-yogyakarta"
+    },
     {
       "judul": "90 Ribu Warga Barito Terdampak Banjir, Gubernur Kalteng Turun Tangan Kirim Bantuan",
       "link_berita": "https://news.republika.co.id/berita/svdm7l368/90-ribu-warga-barito-terdampak-banjir-gubernur-kalteng-turun-tangan-kirim-bantuan"
@@ -73,316 +81,308 @@
     {
       "judul": "Marc Marquez Juara Sprint Race GP Spanyol 2025",
       "link_berita": "https://news.republika.co.id/berita/svc312348/marc-marquez-juara-sprint-race-gp-spanyol-2025"
-    },
-    {
-      "judul": "Persib Bandung Butuh Empat Angka Lagi untuk Pastikan Juara BRI Liga 1 Musim Ini",
-      "link_berita": "https://news.republika.co.id/berita/svc09z348/persib-bandung-butuh-empat-angka-lagi-untuk-pastikan-juara-bri-liga-1-musim-ini"
-    },
-    {
-      "judul": "Persib Larang Kehadiran Suporter PSS Sleman di Stadion GBLA",
-      "link_berita": "https://news.republika.co.id/berita/svblij409/persib-larang-kehadiran-suporter-pss-sleman-di-stadion-gbla"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Lawan Bullying, Ruber Innovation Lab Gelar Buddy Pekerti Experience di GIK UGM",
+      "link_berita": "https://rejogja.republika.co.id/berita/svdrmu291/lawan-bullying-ruber-innovation-lab-gelar-buddy-pekerti-experience-di-gik-ugm",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Houthi Klaim Bombardir Nevatim, Sistem Pertahanan Udara Israel Gagal Mencegat",
+      "link_berita": "https://khazanah.republika.co.id/berita/svdrmt483/houthi-klaim-bombardir-nevatim-sistem-pertahanan-udara-israel-gagal-mencegat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Gubernur Kalteng Tinjau Langsung Beberapa Lokasi Banjir di Barito Selatan",
+      "link_berita": "https://news.republika.co.id/berita/svdrmb368/gubernur-kalteng-tinjau-langsung-beberapa-lokasi-banjir-di-barito-selatan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Kejaksaan Bantah Kasus Bully PPDS Undip Mandek: Berkas Tebal, Perlu Waktu Mempelajari",
+      "link_berita": "https://rejogja.republika.co.id/berita/svdrbz282/kejaksaan-bantah-kasus-bully-ppds-undip-mandek-berkas-tebal-perlu-waktu-mempelajari",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "OJK: Aset Asuransi dan Reasuransi Syariah Diproyeksikan Tumbuh 13,2 Persen di 2025",
+      "link_berita": "https://sharia.republika.co.id/berita/svdr07423/ojk-aset-asuransi-dan-reasuransi-syariah-diproyeksikan-tumbuh-132-persen-di-2025",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Perjuangkan Gaza, Demonstran Blokade London Bridge",
+      "link_berita": "https://tv.republika.co.id/berita/svdqoa313/perjuangkan-gaza-demonstran-blokade-london-bridge",
+      "kategori": "Video",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Profil Hamzah Sulaeman: Berawal dari Ketroprak, Raminten Jadi Legenda Wisata Yogyakarta",
+      "link_berita": "https://rejogja.republika.co.id/berita/svdqnr282/profil-hamzah-sulaeman-berawal-dari-ketroprak-raminten-jadi-legenda-wisata-yogyakarta",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Bulog Apresiasi Prajurit TNI Ikut Kawal Panen Petani di Bekasi",
+      "link_berita": "https://news.republika.co.id/berita/svdq3g484/bulog-apresiasi-prajurit-tni-ikut-kawal-panen-petani-di-bekasi",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Penetrasi Asuransi di Indonesia tak Sampai 3 Persen per Februari 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svdpvo423/penetrasi-asuransi-di-indonesia-tak-sampai-3-persen-per-februari-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Gus Yasin Puji Muslimat NU: Kontribusi untuk Negara Sudah Besar",
+      "link_berita": "https://rejogja.republika.co.id/berita/svdpus282/gus-yasin-puji-muslimat-nu-kontribusi-untuk-negara-sudah-besar",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Melihat Lebih Dekat Kecanggihan Pabrik Mobil Listrik GAC Group di Guangzhou",
+      "link_berita": "https://visual.republika.co.id/berita/svdpu1375/melihat-lebih-dekat-kecanggihan-pabrik-mobil-listrik-gac-group-di-guangzhou",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Kemlu RI: tidak Ada WNI Jadi Korban dalam Ledakan di Pelabuhan Iran",
+      "link_berita": "https://news.republika.co.id/berita/svdpp3423/kemlu-ri-tidak-ada-wni-jadi-korban-dalam-ledakan-di-pelabuhan-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "UNRWA Ingatkan Risiko Wabah di Gaza Akibat Penumpukan Sampah",
+      "link_berita": "https://khazanah.republika.co.id/berita/svdpka483/unrwa-ingatkan-risiko-wabah-di-gaza-akibat-penumpukan-sampah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
+      "judul": "Toko Khusus Indonesia Hadir di Tawau Malaysia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svdpha423/toko-khusus-indonesia-hadir-di-tawau-malaysia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
+    },
+    {
       "judul": "Beredar Video Tudingan Jadi Produk Terafiliasi Israel, Begini Kata Le Minerale",
       "link_berita": "https://khazanah.republika.co.id/berita/svdp85483/beredar-video-tudingan-jadi-produk-terafiliasi-israel-begini-kata-le-minerale",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Propram Periksa Kapolsek Palmatak Terkait Isu Setoran Rp 10 Juta",
       "link_berita": "https://news.republika.co.id/berita/svdoli484/propram-periksa-kapolsek-palmatak-terkait-isu-setoran-rp-10-juta",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Dedi Mulyadi Hentikan Dana Hibah untuk Yayasan Pendidikan, Ini Alasannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/svdoiu423/dedi-mulyadi-hentikan-dana-hibah-untuk-yayasan-pendidikan-ini-alasannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Calhaj Diingatkan untuk Jaga Pola Hidup Sehat Jelang Berangkat ke Tanah Suci",
       "link_berita": "https://khazanah.republika.co.id/berita/svdoie483/calhaj-diingatkan-untuk-jaga-pola-hidup-sehat-jelang-berangkat-ke-tanah-suci",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Kolaborasi dengan Telkomsel, Pegatron Resmikan Smart Factory Berbasis AI dan 5G di Batam",
       "link_berita": "https://ameera.republika.co.id/berita/svdnz4456/kolaborasi-dengan-telkomsel-pegatron-resmikan-smart-factory-berbasis-ai-dan-5g-di-batam",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "OJK Catat Investasi Asuransi Turun Rp 14,8 Triliun pada Februari",
       "link_berita": "https://ekonomi.republika.co.id/berita/svdnuv423/ojk-catat-investasi-asuransi-turun-rp-148-triliun-pada-februari",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Kirab Panji-Mahkota Binokasih Hadir Menandai Dimulainya Rangkaian Hari Jadi Bogor ke 543",
       "link_berita": "https://republika.co.id/berita//svdnhy456/kirab-panji-mahkota-binokasih-hadir-menandai-dimulainya-rangkaian-hari-jadi-bogor-ke-543",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Presiden Irlandia Langsung Kecam Netanyahu Selepas Pemakaman Paus Fransiskus",
       "link_berita": "https://news.republika.co.id/berita/svdn1q393/presiden-irlandia-langsung-kecam-netanyahu-selepas-pemakaman-paus-fransiskus",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Maung Bandung di Ambang Gelar Juara Liga Back to Back",
       "link_berita": "https://kangjepret.republika.co.id/posts/522365/maung-bandung-di-ambang-gelar-juara-liga-back-to-back",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Dorong Ekonomi Kreatif Lewat Festival Sukabumi Suka Menari",
       "link_berita": "https://sukabumikini.com/posts/522366/dorong-ekonomi-kreatif-lewat-festival-sukabumi-suka-menari",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Indonesia Manfaatkan Momentum BRICS dan CPTPP Hadapi Tekanan Tarif AS",
       "link_berita": "https://shippingcargo.co.id/posts/522229/indonesia-manfaatkan-momentum-brics-dan-cptpp-hadapi-tekanan-tarif-as",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Hari Jadi ke 26 Kota Depok, Supian Suri Sebut Refleksikan Perjalanan Penuh Perjuangan",
       "link_berita": "https://ruzkaindonesia.id/posts/522367/hari-jadi-ke-26-kota-depok-supian-suri-sebut-refleksikan-perjalanan-penuh-perjuangan",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Tingkatkan Profesionalitas Dakwah, LD PBNU Gelar Standarisasi Imam dan Khotib",
       "link_berita": "https://khazanah.republika.co.id/berita/svdmuu368/tingkatkan-profesionalitas-dakwah-ld-pbnu-gelar-standarisasi-imam-dan-khotib",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Bandara Sultan Mahmud Badaruddin II Kembali Berstatus Internasional",
       "link_berita": "https://news.republika.co.id/berita/svdmgp484/bandara-sultan-mahmud-badaruddin-ii-kembali-berstatus-internasional",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Bersama dengan Tiga entitas, IDSurvey Halal Bihalal Rajut Keharmonisan",
       "link_berita": "https://republika.co.id/berita//svdmgl456/bersama-dengan-tiga-entitas-idsurvey-halal-bihalal-rajut-keharmonisan",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "90 Ribu Warga Barito Terdampak Banjir, Gubernur Kalteng Turun Tangan Kirim Bantuan",
       "link_berita": "https://news.republika.co.id/berita/svdm7l368/90-ribu-warga-barito-terdampak-banjir-gubernur-kalteng-turun-tangan-kirim-bantuan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Perang Tarif AS Ancam Asuransi Kargo Laut RI, OJK Berharap Negosiasi Berhasil",
       "link_berita": "https://ekonomi.republika.co.id/berita/svdlgr423/perang-tarif-as-ancam-asuransi-kargo-laut-ri-ojk-berharap-negosiasi-berhasil",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Belasan Orang Tewas Akibat Ledakan di Pelabuhan Iran, Adakah WNI?",
       "link_berita": "https://news.republika.co.id/berita/svdlc6483/belasan-orang-tewas-akibat-ledakan-di-pelabuhan-iran-adakah-wni",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Dalam Setahun, Lebih dari 13 Juta Jamaah Sholat di Raudhah",
       "link_berita": "https://khazanah.republika.co.id/berita/svdl30483/dalam-setahun-lebih-dari-13-juta-jamaah-sholat-di-raudhah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Lima Hari Hilang di Gunung Merbabu, Pendaki Asal Temanggung Ditemukan Meninggal Dunia",
       "link_berita": "https://rejogja.republika.co.id/berita/svdl0n282/lima-hari-hilang-di-gunung-merbabu-pendaki-asal-temanggung-ditemukan-meninggal-dunia",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Pemprov Banten Komitmen Perkuat Iklim Usaha, Dunia Industri Tuntut Kepastian dan Proteksi",
       "link_berita": "https://rejogja.republika.co.id/berita/svdijn291/pemprov-banten-komitmen-perkuat-iklim-usaha-dunia-industri-tuntut-kepastian-dan-proteksi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Jelang Pemberangkatan Jamaah, Dahnil Tinjau Layanan Haji di Saudi",
       "link_berita": "https://khazanah.republika.co.id/berita/svdkry483/jelang-pemberangkatan-jamaah-dahnil-tinjau-layanan-haji-di-saudi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "KBRI Apresiasi Misi Kemanusiaan Muhammadiyah Aid bagi Korban Gempa Myanmar",
       "link_berita": "https://news.republika.co.id/berita/svdkrn291/kbri-apresiasi-misi-kemanusiaan-muhammadiyah-aid-bagi-korban-gempa-myanmar",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Premanisme di Pabrik BYD Subang Bikin Investasi Terganggu, Moeldoko: Tumpas",
       "link_berita": "https://rejabar.republika.co.id/berita/svdklz282/premanisme-di-pabrik-byd-subang-bikin-investasi-terganggu-moeldoko-tumpas",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Gibran Makin Aktif di Youtube, Begini Penjelasan Wamensesneg",
       "link_berita": "https://news.republika.co.id/berita/svdkax484/gibran-makin-aktif-di-youtube-begini-penjelasan-wamensesneg",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Ethos Dukung Halal Bihalal Persatuan Pengasuh Ponpes Salafiyah Kaffah se-Jateng & DIY",
       "link_berita": "https://rejogja.republika.co.id/berita/svdk8x291/ethos-dukung-halal-bihalal-persatuan-pengasuh-ponpes-salafiyah-kaffah-sejateng-diy",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Mungkinkah Paus Selanjutnya dari Indonesia?",
       "link_berita": "https://news.republika.co.id/berita/svdimd393/mungkinkah-paus-selanjutnya-dari-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Prakiraan Cuaca Besok 28 April 2025: Hujan Ringan di Kota Padang",
       "link_berita": "https://news.republika.co.id/berita/svdjwq2052766064/prakiraan-cuaca-besok-28-april-2025-hujan-ringan-di-kota-padang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "UMM Jadi Kampus Swasta Terbaik di Provinsi Jatim",
       "link_berita": "https://news.republika.co.id/berita/svdjul484/umm-jadi-kampus-swasta-terbaik-di-provinsi-jatim",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Gus Yasin: Muslimat NU Berikan Peluang Lapangan Kerja",
       "link_berita": "https://khazanah.republika.co.id/berita/svdjtb483/gus-yasin-muslimat-nu-berikan-peluang-lapangan-kerja",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Canggihnya Pusat Riset dan Desain GAC Group",
       "link_berita": "https://tv.republika.co.id/berita/svdjib313/canggihnya-pusat-riset-dan-desain-gac-group",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Gagal Dieksekusi 18 Tahun, Satgas PKH Kini Berhasil Kuasai Lahan DL Sitorus",
       "link_berita": "https://news.republika.co.id/berita/svdj4y484/gagal-dieksekusi-18-tahun-satgas-pkh-kini-berhasil-kuasai-lahan-dl-sitorus",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Prakiraan Cuaca Besok 28 April 2025 di Kota Banda Aceh dan Sekitarnya: Cerah di Malam Hari",
       "link_berita": "https://news.republika.co.id/berita/svdixp579026691/prakiraan-cuaca-besok-28-april-2025-di-kota-banda-aceh-dan-sekitarnya-cerah-di-malam-hari",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Ekonom Kritisi Pernyataan Prabowo Soal Kondisi Pasar Modal",
       "link_berita": "https://ekonomi.republika.co.id/berita/svdiua423/ekonom-kritisi-pernyataan-prabowo-soal-kondisi-pasar-modal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Personel Slank Antarkan Bunda Iffet ke Persemayaman Terakhir",
       "link_berita": "https://visual.republika.co.id/berita/svdcwq375/personel-slank-antarkan-bunda-iffet-ke-persemayaman-terakhir",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Geramnya Komunitas Kristen Saat Netanyahu Mengirim Pejabat Rendah di Pemakaman Paus",
       "link_berita": "https://khazanah.republika.co.id/berita/svdib3483/geramnya-komunitas-kristen-saat-netanyahu-mengirim-pejabat-rendah-di-pemakaman-paus",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok, Cerah di Kota Mataram dan Sekitarnya 28 April 2025",
-      "link_berita": "https://news.republika.co.id/berita/svdi241645150550/prakiraan-cuaca-besok-cerah-di-kota-mataram-dan-sekitarnya-28-april-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "BEI Sebut Diversifikasi Kunci Investasi Berkelanjutan di Papua",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdhwf423/bei-sebut-diversifikasi-kunci-investasi-berkelanjutan-di-papua",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "DK3P Jatim Tekankan Cara Mengakselerasi Budaya K3 di Era Digital",
-      "link_berita": "https://news.republika.co.id/berita/svdhki368/dk3p-jatim-tekankan-cara-mengakselerasi-budaya-k3-di-era-digital",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Harga Bitcoin Sentuh Rp 1,56 Miliar, Indodax: Jangan Panic Selling",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdhiu370/harga-bitcoin-sentuh-rp-156-miliar-indodax-jangan-panic-selling",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Ekonom Puji Langkah Prabowo Tunjuk Airlangga Jadi Negosiator Tarif AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdhif423/ekonom-puji-langkah-prabowo-tunjuk-airlangga-jadi-negosiator-tarif-as",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Penyerang Bermobil Serbu Pesta Komunitas Filipina di Kanada, Sembilan Tewas",
-      "link_berita": "https://news.republika.co.id/berita/svdhb6393/penyerang-bermobil-serbu-pesta-komunitas-filipina-di-kanada-sembilan-tewas",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "OJK Catat Defisit Reasuransi pada 2024 Capai Rp 12,10 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdh9w423/ojk-catat-defisit-reasuransi-pada-2024-capai-rp-1210-triliun",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Hussein al-Sheikh Ditunjuk Sebagai Wapres Palestina",
-      "link_berita": "https://news.republika.co.id/berita/svdh01484/hussein-alsheikh-ditunjuk-sebagai-wapres-palestina",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Hamas Tegaskan Tolak Gantung Senjata",
-      "link_berita": "https://news.republika.co.id/berita/svdgyp393/hamas-tegaskan-tolak-gantung-senjata",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Dorong Usaha Lokal Melejit, Kementerian BUMN Gelar Workshop UMKM Naik Kelas di Surabaya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdgb2368/dorong-usaha-lokal-melejit-kementerian-bumn-gelar-workshop-umkm-naik-kelas-di-surabaya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Dewadaru Dijadikan Bandara Perintis, ke Karimunjawa Bisa Lewat Udara",
-      "link_berita": "https://news.republika.co.id/berita/svdfsk484/dewadaru-dijadikan-bandara-perintis-ke-karimunjawa-bisa-lewat-udara",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Bakamla Bantu Pengangkutan Penumpang ke Pulau Tertinggal",
-      "link_berita": "https://visual.republika.co.id/berita/svda8t375/bakamla-bantu-pengangkutan-penumpang-ke-pulau-tertinggal",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Inspiratif! Begini Cara Titan Tyra Membangun Secondate Sebelum Usia 30 Tahun",
-      "link_berita": "https://ameera.republika.co.id/berita/svdfr9368/inspiratif-begini-cara-titan-tyra-membangun-secondate-sebelum-usia-30-tahun",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
-    },
-    {
-      "judul": "Diprotes Presiden AS Donald Trump, QRIS Justru Mudahkan Transaksi Pelaku UMKM Yogya",
-      "link_berita": "https://rejogja.republika.co.id/berita/svdfdp282/diprotes-presiden-as-donald-trump-qris-justru-mudahkan-transaksi-pelaku-umkm-yogya",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:25:24"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 14:18:03"
     },
     {
       "judul": "Kolaborasi dengan Telkomsel, Pegatron Resmikan Smart Factory Berbasis AI dan 5G di Batam",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Sunday, 27 Apr 2025, 16:18:00"
     },
     {
-      "judul": "Dedi Mulyadi Hentikan Dana Hibah untuk Yayasan Pendidikan, Ini Alasannya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svdoiu423/dedi-mulyadi-hentikan-dana-hibah-untuk-yayasan-pendidikan-ini-alasannya",
+      "judul": "Penetrasi Asuransi di Indonesia tak Sampai 3 Persen per Februari 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svdpvo423/penetrasi-asuransi-di-indonesia-tak-sampai-3-persen-per-februari-2025",
       "kategori": "Finansial",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 20:08:00"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 20:38:00"
     },
     {
-      "judul": "Sukuk, Alternatif Investasi Berbasis Aset Riil di Tengah Ketidakpastian Ekonomi Global",
-      "link_berita": "https://sharia.republika.co.id/berita/svd6ht490/sukuk-alternatif-investasi-berbasis-aset-riil-di-tengah-ketidakpastian-ekonomi-global",
+      "judul": "OJK: Aset Asuransi dan Reasuransi Syariah Diproyeksikan Tumbuh 13,2 Persen di 2025",
+      "link_berita": "https://sharia.republika.co.id/berita/svdr07423/ojk-aset-asuransi-dan-reasuransi-syariah-diproyeksikan-tumbuh-132-persen-di-2025",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 13:39:00"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 21:02:00"
     },
     {
-      "judul": "Propram Periksa Kapolsek Palmatak Terkait Isu Setoran Rp 10 Juta",
-      "link_berita": "https://news.republika.co.id/berita/svdoli484/propram-periksa-kapolsek-palmatak-terkait-isu-setoran-rp-10-juta",
+      "judul": "Gubernur Kalteng Tinjau Langsung Beberapa Lokasi Banjir di Barito Selatan",
+      "link_berita": "https://news.republika.co.id/berita/svdrmb368/gubernur-kalteng-tinjau-langsung-beberapa-lokasi-banjir-di-barito-selatan",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 27 Apr 2025, 20:10:00"
+      "tanggal_terbit": "Sunday, 27 Apr 2025, 21:15:00"
     }
   ],
-  "waktu_scraping": "Sunday, 27 Apr 2025, 20:25:24"
+  "waktu_scraping": "Sunday, 27 Apr 2025, 21:18:03"
 }
