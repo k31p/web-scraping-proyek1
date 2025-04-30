@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Prabowo Panggil Persatuan Purnawirawan TNI AD ke Istana, Ada Apa?",
+      "link_berita": "https://news.republika.co.id/berita/svj0cw377/prabowo-panggil-persatuan-purnawirawan-tni-ad-ke-istana-ada-apa"
+    },
+    {
+      "judul": "Bagai Gempa Bumi, Bom Israel Hujani Gaza",
+      "link_berita": "https://news.republika.co.id/berita/svj037393/bagai-gempa-bumi-bom-israel-hujani-gaza"
+    },
+    {
       "judul": "Mentan Lapor Prabowo: Stok Beras Tertinggi Selama 23 Tahun",
       "link_berita": "https://news.republika.co.id/berita/svixi1484/mentan-lapor-prabowo-stok-beras-tertinggi-selama-23-tahun"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Rumah Predator Seks di Jepara Digeledah Polisi, Motif Pelaku Didalami",
       "link_berita": "https://news.republika.co.id/berita/svirk9409/rumah-predator-seks-di-jepara-digeledah-polisi-motif-pelaku-didalami"
-    },
-    {
-      "judul": "Jokowi Laporkan Tudingan Ijazah Palsu ke Polda Metro Jaya",
-      "link_berita": "https://news.republika.co.id/berita/svip1d377/jokowi-laporkan-tudingan-ijazah-palsu-ke-polda-metro-jaya"
-    },
-    {
-      "judul": "Dabbah, Hewan Melata akan Datangi Manusia Jelang Kiamat",
-      "link_berita": "https://khazanah.republika.co.id/berita/svingh458/dabbah-hewan-melata-akan-datangi-manusia-jelang-kiamat"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "APBN 2025 Defisit Rp 104,2 Triliun, Sri Mulyani: Baru Permulaan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svj0lg423/apbn-2025-defisit-rp-1042-triliun-sri-mulyani-baru-permulaan"
+    },
+    {
+      "judul": "Sertifikat Tanah Mbah Tupon Beralih Nama, ATR/BPN Bantul Duga Ada Cacat Administrasi",
+      "link_berita": "https://rejogja.republika.co.id/berita/svixs0291/sertifikat-tanah-mbah-tupon-beralih-nama-atrbpn-bantulduga-ada-cacat-administrasi"
+    },
     {
       "judul": "Claudio Ranieri Bersiap Pensiun Lagi Saat AS Roma Semakin Dekat dari Zona Liga Champions",
       "link_berita": "https://news.republika.co.id/berita/svivc6348/claudio-ranieri-bersiap-pensiun-lagi-saat-as-roma-semakin-dekat-dari-zona-liga-champions"
@@ -73,347 +81,339 @@
     {
       "judul": "Pakistan Tembak Jatuh Drone India, Baku Tembak Terjadi di Perbatasan",
       "link_berita": "https://khazanah.republika.co.id/berita/svi3mc483/pakistan-tembak-jatuh-drone-india-baku-tembak-terjadi-di-perbatasan"
-    },
-    {
-      "judul": "Pasutri di Jember Diseruduk Babi Hutan Saat Mandi Bareng di Sumber Air",
-      "link_berita": "https://rejogja.republika.co.id/berita/svhuym282/pasutri-di-jember-diseruduk-babi-hutan-saat-mandi-bareng-di-sumber-air"
-    },
-    {
-      "judul": "Afsel Sebut Israel Langgar Hukum Internasional Soal Kelaparan Dijadikan Senjata Perang",
-      "link_berita": "https://khazanah.republika.co.id/berita/svhkap320/afsel-sebut-israel-langgar-hukum-internasional-soal-kelaparan-dijadikan-senjata-perang"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Jumlah Pelanggan Indosat Bertambah, Region Jateng-DIY Kontribusi 15,9 Juta",
+      "link_berita": "https://rejogja.republika.co.id/berita/svj0ty291/jumlah-pelanggan-indosat-bertambah-region-jatengdiy-kontribusi-159-juta",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:22:46"
+    },
+    {
+      "judul": "APBN 2025 Defisit Rp 104,2 Triliun, Sri Mulyani: Baru Permulaan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svj0lg423/apbn-2025-defisit-rp-1042-triliun-sri-mulyani-baru-permulaan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:17:29"
+    },
+    {
+      "judul": "Prabowo Panggil Persatuan Purnawirawan TNI AD ke Istana, Ada Apa?",
+      "link_berita": "https://news.republika.co.id/berita/svj0cw377/prabowo-panggil-persatuan-purnawirawan-tni-ad-ke-istana-ada-apa",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:12:29"
+    },
+    {
+      "judul": "Menteri Karding Lepas Perawat yang akan Bekerja di Wina Bergaji Rp 50 Juta",
+      "link_berita": "https://news.republika.co.id/berita/svj058484/menteri-karding-lepas-perawat-yang-akan-bekerja-di-wina-bergaji-rp-50-juta",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:07:29"
+    },
+    {
+      "judul": "Strategi Tiongkok Hadapi Dampak Perang Dagang: Perlihatkan Kesabaran, Tidak Panik",
+      "link_berita": "https://analisis.republika.co.id/berita/svj03j475/strategi-tiongkok-hadapi-dampak-perang-dagang-perlihatkan-kesabaran-tidak-panik",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:06:29"
+    },
+    {
+      "judul": "Bagai Gempa Bumi, Bom Israel Hujani Gaza",
+      "link_berita": "https://news.republika.co.id/berita/svj037393/bagai-gempa-bumi-bom-israel-hujani-gaza",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:06:29"
+    },
+    {
+      "judul": "DPP Perbasi Matangkan Program Timnas Putri untuk Pertahankan Emas SEA Games",
+      "link_berita": "https://news.republika.co.id/berita/svj00c348/dpp-perbasi-matangkan-program-timnas-putri-untuk-pertahankan-emas-sea-games",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:05:29"
+    },
+    {
+      "judul": "Wuling Hadirkan Lini Mobil Listrik Lengkap di PEVS 2025, Termasuk EV Van",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svizze349/wuling-hadirkan-lini-mobil-listrik-lengkap-di-pevs-2025-termasuk-ev-van",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:04:29"
+    },
+    {
+      "judul": "Kecurangan UTBK SNBT Libatkan Pegawai Kampus Terjadi di Unej",
+      "link_berita": "https://news.republika.co.id/berita/svizz5487/kecurangan-utbk-snbt-libatkan-pegawai-kampus-terjadi-di-unej",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:04:29"
+    },
+    {
+      "judul": "Laba Bersih BSI Tembus Rp 1,87 Triliun di Kuartal I 2025, Tumbuh 10,05 Persen",
+      "link_berita": "https://sharia.republika.co.id/berita/svizy9423/laba-bersih-bsi-tembus-rp-187-triliun-di-kuartal-i-2025-tumbuh-1005-persen",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:03:29"
+    },
+    {
+      "judul": "Bima Dilematis, Antara Rimpu, Media Sosial, dan Tanggung Jawab Moral",
+      "link_berita": "https://rejogja.republika.co.id/berita/svizxp291/bima-dilematis-antara-rimpu-media-sosial-dan-tanggung-jawab-moral",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 10:03:29"
+    },
+    {
+      "judul": "RUPS Tahunan ADHI Setujui Laporan Kinerja Tahun Buku 2024,",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svizqz370/rups-tahunan-adhi-setujui-laporan-kinerja-tahun-buku-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:59:29"
+    },
+    {
+      "judul": "Kemenperin Rumuskan Strategi Penurunan Emisi Industri",
+      "link_berita": "https://esgnow.republika.co.id/berita/svizgf416/kemenperin-rumuskan-strategi-penurunan-emisi-industri",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:53:29"
+    },
+    {
+      "judul": "Klinik Kecantikan ADC Clinic Hadirkan Dua Teknologi Laser Unggulan",
+      "link_berita": "https://rejabar.republika.co.id/berita/svixbm291/klinik-kecantikan-adc-clinic-hadirkan-dua-teknologi-laser-unggulan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:50:29"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok, 1 Mei 2025: Kota Denpasar Bali dan Hujan di Badung",
+      "link_berita": "https://news.republika.co.id/berita/svizab286942907/prakiraan-cuaca-besok-1-mei-2025-kota-denpasar-bali-dan-hujan-di-badung",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:49:29"
+    },
+    {
+      "judul": "Konten Edukasi di TikTok Makin Diminati, Kini Capai 24 Juta Unggahan",
+      "link_berita": "https://ameera.republika.co.id/berita/sviz97425/konten-edukasi-di-tiktok-makin-diminati-kini-capai-24-juta-unggahan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:48:29"
+    },
+    {
+      "judul": "Bahlil Kaji Pemutihan Utang BBM TNI AL Senilai Rp 3,2 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sviz8s423/bahlil-kaji-pemutihan-utang-bbm-tni-al-senilai-rp-32-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:48:29"
+    },
+    {
+      "judul": "Gagal Ginjal Kronis, The Silent Killer",
+      "link_berita": "https://rejogja.republika.co.id/berita/sviz0i291/gagal-ginjal-kronis-the-silent-killer",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:43:29"
+    },
+    {
+      "judul": "Kinerja BRI Kuartal I 2025, CAR 24,03 Persen Hingga Himpun DPK Rp 1.421 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sviynn423/kinerja-bri-kuartal-i-2025-car-2403-persen-hingga-himpun-dpk-rp-1421-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:35:29"
+    },
+    {
+      "judul": "Waspada Syirik Besar di Sekitar Kita, Ini 6 Bahayanya di Dunia dan Akhirat",
+      "link_berita": "https://khazanah.republika.co.id/berita/sviygx320/waspada-syirik-besar-di-sekitar-kita-ini-6-bahayanya-di-dunia-dan-akhirat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:31:29"
+    },
+    {
+      "judul": "Jokowi Tunjukkan Ijazah dari SD Sampai Kuliah ke Polisi",
+      "link_berita": "https://news.republika.co.id/berita/sviyer377/jokowi-tunjukkan-ijazah-dari-sd-sampai-kuliah-ke-polisi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:30:29"
+    },
+    {
       "judul": "Simpan Sabu Dalam Bungkus Kopi, Seorang Pria Ditangkap Polres Indramayu",
       "link_berita": "https://rejabar.republika.co.id/berita/svixvi512/simpan-sabu-dalam-bungkus-kopi-seorang-pria-ditangkap-polres-indramayu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:18:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Rupiah Ditutup Menguat ke Rp 16.603 Hari Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/svixuc423/rupiah-ditutup-menguat-ke-rp-16603-hari-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:17:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Sertifikat Tanah Mbah Tupon Beralih Nama, ATR/BPN Bantul Duga Ada Cacat Administrasi",
       "link_berita": "https://rejogja.republika.co.id/berita/svixs0291/sertifikat-tanah-mbah-tupon-beralih-nama-atrbpn-bantulduga-ada-cacat-administrasi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:16:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Polisi Gagalkan Tawuran Remaja Bersenjata Tajam di Perbatasan Indramayu\u2013Cirebon",
       "link_berita": "https://rejabar.republika.co.id/berita/svixlq512/polisi-gagalkan-tawuran-remaja-bersenjata-tajam-di-perbatasan-indramayucirebon",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:12:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Mentan Lapor Prabowo: Stok Beras Tertinggi Selama 23 Tahun",
       "link_berita": "https://news.republika.co.id/berita/svixi1484/mentan-lapor-prabowo-stok-beras-tertinggi-selama-23-tahun",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:10:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Bantah Keluarga Korban, Kapolrestro Jaktim: Tidak Ada Pengeroyokan Mahasiswa UKI",
       "link_berita": "https://news.republika.co.id/berita/svixdv409/bantah-keluarga-korban-kapolrestro-jaktim-tidak-ada-pengeroyokan-mahasiswa-uki",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:08:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "KPK Panggil Pegawai KPU RI Terkait Kasus Harun Masiku",
       "link_berita": "https://news.republika.co.id/berita/svix9x487/kpk-panggil-pegawai-kpu-ri-terkait-kasus-harun-masiku",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:05:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "RDP dengan Menhan, Anggota DPR: Biar Anggota TNI tak Boros Konsumsi BBM, Pakai Barcode",
       "link_berita": "https://news.republika.co.id/berita/sviwzn451/rdp-dengan-menhan-anggota-dpr-biar-anggota-tni-tak-boros-konsumsi-bbm-pakai-barcode",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:59:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Muasal Haji Akbar Menurut Akademisi dan Pakar Alquran: Tidak Selamanya Hari Jumat",
       "link_berita": "https://iqra.republika.co.id/berita/sviwsl483/muasal-haji-akbar-menurut-akademisi-dan-pakar-alquran-tidak-selamanya-hari-jumat",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:55:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 09:23:29"
     },
     {
       "judul": "Laporan Intelijen Pakistan: India akan Menyerang 24-36 Jam ke Depan",
       "link_berita": "https://news.republika.co.id/berita/sviwm4377/laporan-intelijen-pakistan-india-akan-menyerang-2436-jam-ke-depan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:51:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Banyak Prajurit Butuh Rumah Dinas, Begini Kata Menteri Pertahanan",
       "link_berita": "https://news.republika.co.id/berita/sviwk9451/banyak-prajurit-butuh-rumah-dinas-begini-kata-menteri-pertahanan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:50:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Harga Kedelai Impor Naik, Ukuran Tempe jadi Lebih Mini",
       "link_berita": "https://rejabar.republika.co.id/berita/sviwk3512/harga-kedelai-impor-naik-ukuran-tempe-jadi-lebih-mini",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:50:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Prakiraan Cuaca Besok: Kota Surabaya dan Sekitarnya, 1 Mei 2025 | Cuaca Cerah di Surabaya",
       "link_berita": "https://news.republika.co.id/berita/sviwi71204164306/prakiraan-cuaca-besok-kota-surabaya-dan-sekitarnya-1-mei-2025-cuaca-cerah-di-surabaya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:49:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "50 Tahun Lalu, AS Didepak dari Vietnam",
       "link_berita": "https://news.republika.co.id/berita/sviwha393/50-tahun-lalu-as-didepak-dari-vietnam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:48:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Kinerja PGN Tetap Solid Meski Dunia Sedang Bergejolak",
       "link_berita": "https://ekonomi.republika.co.id/berita/sviwfw368/kinerja-pgn-tetap-solid-meski-dunia-sedang-bergejolak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:47:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Panglima TNI Copot Putra Try Sutrisno Digantikan Mantan Ajudan Jokowi",
       "link_berita": "https://news.republika.co.id/berita/sviwa8484/panglima-tni-copot-putra-try-sutrisno-digantikan-mantan-ajudan-jokowi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:44:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Jadi \u2018Yogyakartanya Jawa Barat\u2019, Cirebon Siapkan Strategi Tarik Wisatawan",
       "link_berita": "https://rejabar.republika.co.id/berita/sviw7q512/jadi-yogyakartanya-jawa-barat-cirebon-siapkan-strategi-tarik-wisatawan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:42:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "For Revenge Gelar Konser Perdana Setelah 19 Tahun Berkarier",
       "link_berita": "https://ameera.republika.co.id/berita/sviw7m425/for-revenge-gelar-konser-perdana-setelah-19-tahun-berkarier",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:42:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Direktur BCA Dorong Mahasiswa UGM Berani Bereksperimen pada Era Transformasi Digital",
       "link_berita": "https://rejogja.republika.co.id/berita/sviw79291/direktur-bca-dorong-mahasiswa-ugm-berani-bereksperimen-pada-era-transformasi-digital",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:42:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "BEI Catat 667 Saham Syariah Hingga Maret 2025, Tumbuh 109,8 Persen dari 2015",
       "link_berita": "https://sharia.republika.co.id/berita/svivz6423/bei-catat-667-saham-syariah-hingga-maret-2025-tumbuh-1098-persen-dari-2015",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:37:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Dedi Mulyadi Evaluasi Skema Penyaluran Dana Hibah, Yayasan Uu Ruzhanul Pernah Dapat Rp45 M",
       "link_berita": "https://rejabar.republika.co.id/berita/svivw2512/dedi-mulyadi-evaluasi-skema-penyaluran-dana-hibah-yayasan-uu-ruzhanul-pernah-dapat-rp45-m",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:35:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Prakiraan Cuaca 1 Mei 2025: Kota Yogyakarta Cerah",
       "link_berita": "https://news.republika.co.id/berita/svivo61963580254/prakiraan-cuaca-1-mei-2025-kota-yogyakarta-cerah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:31:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Sri Mulyiani: Pendapatan Negara Hingga Akhir Maret 2025 Capai Rp 516 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/svivku423/sri-mulyiani-pendapatan-negara-hingga-akhir-maret-2025-capai-rp-516-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:29:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Calon Pengantin Diimbau Tanam Pohon, Kemenag: Teknisnya Masih Dikaji",
       "link_berita": "https://khazanah.republika.co.id/berita/svivfm430/calon-pengantin-diimbau-tanam-pohon-kemenag-teknisnya-masih-dikaji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:25:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Polisi Tangkap 27 Pelaku Premanisme di Jawa Barat",
       "link_berita": "https://rejabar.republika.co.id/berita/svivfg512/polisi-tangkap-27-pelaku-premanisme-di-jawa-barat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:25:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Claudio Ranieri Bersiap Pensiun Lagi Saat AS Roma Semakin Dekat dari Zona Liga Champions",
       "link_berita": "https://news.republika.co.id/berita/svivc6348/claudio-ranieri-bersiap-pensiun-lagi-saat-as-roma-semakin-dekat-dari-zona-liga-champions",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Pengembangan SDM Industri Hijau Dukung Hilirisasi",
       "link_berita": "https://esgnow.republika.co.id/berita/svivc2416/pengembangan-sdm-industri-hijau-dukung-hilirisasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Calhaj Diimbau Siapkan Fisik dan Mental Sebelum Berangkat ke Tanah Suci",
       "link_berita": "https://khazanah.republika.co.id/berita/svivb3425/calhaj-diimbau-siapkan-fisik-dan-mental-sebelum-berangkat-ke-tanah-suci",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
       "judul": "Gelombang Pertama Haji 2025 Segera Diberangkatkan, Apa yang Dilakukan Jamaah di Madinah?",
       "link_berita": "https://khazanah.republika.co.id/berita/sviv9v430/gelombang-pertama-haji-2025-segera-diberangkatkan-apa-yang-dilakukan-jamaah-di-madinah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:29"
     },
     {
-      "judul": "Polisi Ungkap Korban Predator Seks di Jepara 31 Orang, Usia 12-17 Tahun",
-      "link_berita": "https://news.republika.co.id/berita/sviv8h409/polisi-ungkap-korban-predator-seks-di-jepara-31-orang-usia-1217-tahun",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "BRI Perkuat Manajemen Risiko untuk Jaga Kualitas Kredit UMKM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sviv73423/bri-perkuat-manajemen-risiko-untuk-jaga-kualitas-kredit-umkm",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok Kota Semarang: Cerah Berawan 1 Mei 2025",
-      "link_berita": "https://news.republika.co.id/berita/sviuu6672925104/prakiraan-cuaca-besok-kota-semarang-cerah-berawan-1-mei-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Defisit APBN Capai 0,43 Persen pada Maret 2025, Sri Mulyani: Sesuai Desain",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sviuqj370/defisit-apbn-capai-043-persen-pada-maret-2025-sri-mulyani-sesuai-desain",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Soal Besaran Upah Buruh, Menteri Airlangga: Besok Saya Panggil Pengusaha Industri",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sviuot451/soal-besaran-upah-buruh-menteri-airlangga-besok-saya-panggil-pengusaha-industri",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Kesaksian Direktur ICU Klinik, Maradona Diizinkan Pesan Hamburger",
-      "link_berita": "https://news.republika.co.id/berita/sviuno348/kesaksian-direktur-icu-klinik-maradona-diizinkan-pesan-hamburger",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Mengapa Sekolah dan Orang Tua Kadang tak Sepaham?",
-      "link_berita": "https://ameera.republika.co.id/berita/sviuhr425/mengapa-sekolah-dan-orang-tua-kadang-tak-sepaham",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Kejutan 1 Mei Buat Buruh, Mensesneg: Presiden Prabowo akan Pidato di Monas",
-      "link_berita": "https://news.republika.co.id/berita/sviuhp451/kejutan-1-mei-buat-buruh-mensesneg-presiden-prabowo-akan-pidato-di-monas",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Ingin Anak Saleh? Orang Tua Mesti Lakukan Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/sviudz458/ingin-anak-saleh-orang-tua-mesti-lakukan-ini",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Tahun Ini, Sebanyak 2.455 Calon Jamaah Haji Asal Bandung Berangkat ke Tanah Suci",
-      "link_berita": "https://rejabar.republika.co.id/berita/sviuaz512/tahun-ini-sebanyak-2455-calon-jamaah-haji-asal-bandung-berangkat-ke-tanah-suci",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Prakiraan Cuaca Besok: Kota Tangerang Berawan 1 Mei 2025",
-      "link_berita": "https://news.republika.co.id/berita/sviu8h21147878/prakiraan-cuaca-besok-kota-tangerang-berawan-1-mei-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Masjid Agung Al Akbar Surabaya, Khofifah: Berdimensi Spiritual Plus Wisata Religi",
-      "link_berita": "https://rejogja.republika.co.id/berita/sviu47451/masjid-agung-al-akbar-surabaya-khofifah-berdimensi-spiritual-plus-wisata-religi",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Ini Lima Orang yang Diadukan Jokowi ke Polisi karena Kasus Tuduhan Ijazah Palsu",
-      "link_berita": "https://news.republika.co.id/berita/sviu3j377/ini-lima-orang-yang-diadukan-jokowi-ke-polisi-karena-kasus-tuduhan-ijazah-palsu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 08:23:46"
-    },
-    {
-      "judul": "Cegah Ancaman dan Intimidasi, Mbah Tupon Ditawari Tinggal Sementara di Rumah Dinas Bupati",
-      "link_berita": "https://news.republika.co.id/berita/svitn8409/cegah-ancaman-dan-intimidasi-mbah-tupon-ditawari-tinggal-sementara-di-rumah-dinas-bupati",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "Panglima TNI Ganti Letjen Kunto, Putra Try Sutrisno dari Pangkogabwilhan I",
-      "link_berita": "https://news.republika.co.id/berita/svitj0484/panglima-tni-ganti-letjen-kunto-putra-try-sutrisno-dari-pangkogabwilhan-i",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "BNPB Aktifkan Desk Karhutla di Tujuh Provinsi",
-      "link_berita": "https://news.republika.co.id/berita/svit5e416/bnpb-aktifkan-desk-karhutla-di-tujuh-provinsi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "Sebelum Bebaskan Makkah, Rasulullah Bermimpi Naik Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/svit50458/sebelum-bebaskan-makkah-rasulullah-bermimpi-naik-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "Berpartisipasi dalam Hari Kesiapsiagaan Bencana, Human Initiative Kirim Mobil Kemanusiaan",
-      "link_berita": "https://rejogja.republika.co.id/berita/svit24320/berpartisipasi-dalam-hari-kesiapsiagaan-bencana-human-initiative-kirim-mobil-kemanusiaan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "On This Day: 30 April 1945, Adolf Hitler Bunuh Diri di Bunker",
-      "link_berita": "https://magentatoday.id/posts/522839/on-this-day-30-april-1945-adolf-hitler-bunuh-diri-di-bunker",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "Menhan Usul Tunjangan Operasi TNI Dinaikkan, Kalau Perlu Sampai 100 Persen",
-      "link_berita": "https://news.republika.co.id/berita/svisod409/menhan-usul-tunjangan-operasi-tni-dinaikkan-kalau-perlu-sampai-100-persen",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "Bea Cukai Dukung UMKM Bekasi dan Makassar Tembus Pasar Ekspor",
-      "link_berita": "https://republika.co.id/berita//svisly368/bea-cukai-dukung-umkm-bekasi-dan-makassar-tembus-pasar-ekspor",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 07:23:46"
-    },
-    {
-      "judul": "For Revenge Gelar Konser Perdana Setelah 19 Tahun Berkarier",
-      "link_berita": "https://ameera.republika.co.id/berita/sviw7m425/for-revenge-gelar-konser-perdana-setelah-19-tahun-berkarier",
+      "judul": "Konten Edukasi di TikTok Makin Diminati, Kini Capai 24 Juta Unggahan",
+      "link_berita": "https://ameera.republika.co.id/berita/sviz97425/konten-edukasi-di-tiktok-makin-diminati-kini-capai-24-juta-unggahan",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 15:42:00"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 16:48:00"
     },
     {
-      "judul": "Pengembangan SDM Industri Hijau Dukung Hilirisasi",
-      "link_berita": "https://esgnow.republika.co.id/berita/svivc2416/pengembangan-sdm-industri-hijau-dukung-hilirisasi",
+      "judul": "Kemenperin Rumuskan Strategi Penurunan Emisi Industri",
+      "link_berita": "https://esgnow.republika.co.id/berita/svizgf416/kemenperin-rumuskan-strategi-penurunan-emisi-industri",
       "kategori": "Tata Kelola",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 15:24:00"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 16:53:00"
     },
     {
-      "judul": "Rupiah Ditutup Menguat ke Rp 16.603 Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svixuc423/rupiah-ditutup-menguat-ke-rp-16603-hari-ini",
+      "judul": "APBN 2025 Defisit Rp 104,2 Triliun, Sri Mulyani: Baru Permulaan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svj0lg423/apbn-2025-defisit-rp-1042-triliun-sri-mulyani-baru-permulaan",
       "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 16:18:00"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 17:17:00"
     },
     {
-      "judul": "BEI Catat 667 Saham Syariah Hingga Maret 2025, Tumbuh 109,8 Persen dari 2015",
-      "link_berita": "https://sharia.republika.co.id/berita/svivz6423/bei-catat-667-saham-syariah-hingga-maret-2025-tumbuh-1098-persen-dari-2015",
+      "judul": "Laba Bersih BSI Tembus Rp 1,87 Triliun di Kuartal I 2025, Tumbuh 10,05 Persen",
+      "link_berita": "https://sharia.republika.co.id/berita/svizy9423/laba-bersih-bsi-tembus-rp-187-triliun-di-kuartal-i-2025-tumbuh-1005-persen",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 15:37:00"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 17:03:00"
     },
     {
-      "judul": "Mentan Lapor Prabowo: Stok Beras Tertinggi Selama 23 Tahun",
-      "link_berita": "https://news.republika.co.id/berita/svixi1484/mentan-lapor-prabowo-stok-beras-tertinggi-selama-23-tahun",
+      "judul": "Prabowo Panggil Persatuan Purnawirawan TNI AD ke Istana, Ada Apa?",
+      "link_berita": "https://news.republika.co.id/berita/svj0cw377/prabowo-panggil-persatuan-purnawirawan-tni-ad-ke-istana-ada-apa",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 16:10:00"
+      "tanggal_terbit": "Wednesday, 30 Apr 2025, 17:12:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 30 Apr 2025, 16:23:46"
+  "waktu_scraping": "Wednesday, 30 Apr 2025, 17:23:29"
 }
