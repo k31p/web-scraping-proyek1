@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kloter 1 Calon Jamaah Haji Jakarta Siap Terbang ke Tanah Suci Jumat Dini Hari",
+      "link_berita": "https://khazanah.republika.co.id/berita/svkliw366/kloter-1-calon-jamaah-haji-jakarta-siap-terbang-ke-tanah-suci-jumat-dini-hari"
+    },
+    {
       "judul": "Modi Restui Militer India Serang Pakistan",
       "link_berita": "https://news.republika.co.id/berita/svkkp3393/modi-restui-militer-india-serang-pakistan"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Usulan Vasektomi Sebagai Syarat Bansos di Jabar Dinilai tak Tepat, Ini Kata Dokter",
       "link_berita": "https://ameera.republika.co.id/berita/svkdqq425/usulan-vasektomi-sebagai-syarat-bansos-di-jabar-dinilai-tak-tepat-ini-kata-dokter"
-    },
-    {
-      "judul": "Imbauan Penting untuk Calon Jamaah Sebelum Masuk Asrama Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/svk9c0458/imbauan-penting-untuk-calon-jamaah-sebelum-masuk-asrama-haji"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Puncak Haji Diperkirakan 5 Juni 2025 dalam Kondisi Cuaca Panas",
+      "link_berita": "https://khazanah.republika.co.id/berita/svkmhs366/puncak-haji-diperkirakan-5-juni-2025-dalam-kondisi-cuaca-panas"
+    },
+    {
+      "judul": "Kisah Sufi Memahami Makna Rezeki",
+      "link_berita": "https://khazanah.republika.co.id/berita/svkjti458/kisah-sufi-memahami-makna-rezeki"
+    },
     {
       "judul": "Tiba di Asrama Haji, Jamaah Diimbau Manfaatkan Waktu Istirahat, Pengantar tak Perlu Ikut",
       "link_berita": "https://khazanah.republika.co.id/berita/svkgky483/tiba-di-asrama-haji-jamaah-diimbau-manfaatkan-waktu-istirahat-pengantar-tak-perlu-ikut"
@@ -73,334 +81,326 @@
     {
       "judul": "KDM Wajibkan Vasektomi Syarat Bansos, PBNU: Haram Jika Tujuannya Menolak Anugerah Allah",
       "link_berita": "https://rejabar.republika.co.id/berita/svj6af282/kdm-wajibkan-vasektomi-syarat-bansos-pbnu-haram-jika-tujuannya-menolak-anugerah-allah"
-    },
-    {
-      "judul": "Polisi Dalami Kericuhan Dua Kelompok karena Sengketa Lahan di Kemang",
-      "link_berita": "https://news.republika.co.id/berita/svj4k0484/polisi-dalami-kericuhan-dua-kelompok-karena-sengketa-lahan-di-kemang"
-    },
-    {
-      "judul": "Kronologi Dua Orang Joki UTBK SNBT di ISBI Bandung Gantikan 5 Peserta, Dibayar Rp 50 Juta",
-      "link_berita": "https://rejabar.republika.co.id/berita/svj20f512/kronologi-dua-orang-joki-utbk-snbt-di-isbi-bandung-gantikan-5-peserta-dibayar-rp-50-juta"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "DLH DKI Terjunkan 1.050 Petugas Jaga Kebersihan Saat May Day",
+      "link_berita": "https://esgnow.republika.co.id/berita/svkmxh425/dlh-dki-terjunkan-1050-petugas-jaga-kebersihan-saat-may-day",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:17:46"
+    },
+    {
+      "judul": "Elon Musk Dikabarkan tak lagi Jadi CEO, Ini kata Tesla",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svkmw5468/elon-musk-dikabarkan-tak-lagi-jadi-ceo-ini-kata-tesla",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:16:46"
+    },
+    {
+      "judul": "Menteri ESDM Tinjau PHM, Produksi Energi Nasional Siap Digenjot",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svkmtw368/menteri-esdm-tinjau-phm-produksi-energi-nasional-siap-digenjot",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:15:46"
+    },
+    {
+      "judul": "Juru Bicara Pemerintah: Antara Suara Negara dan Kepercayaan Publik",
+      "link_berita": "https://retizen.republika.co.id/posts/522892/juru-bicara-pemerintah-antara-suara-negara-dan-kepercayaan-publik",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:10:46"
+    },
+    {
+      "judul": "Apel Bukan Sekadar Buah: Ini Rahasia Kesehatan di Balik Warnanya",
+      "link_berita": "https://retizen.republika.co.id/posts/522911/apel-bukan-sekadar-buah-ini-rahasia-kesehatan-di-balik-warnanya",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:10:46"
+    },
+    {
+      "judul": "Intergrasi Akuntansi Syariah dalam Sistem Keuangan Digital",
+      "link_berita": "https://retizen.republika.co.id/posts/522924/intergrasi-akuntansi-syariah-dalam-sistem-keuangan-digital",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:09:46"
+    },
+    {
+      "judul": "Menilai Sastra: Menjelajahi Kritik Moral dan Filosofis",
+      "link_berita": "https://retizen.republika.co.id/posts/522931/menilai-sastra-menjelajahi-kritik-moral-dan-filosofis",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:09:46"
+    },
+    {
+      "judul": "Premanisme: Ketika Kekuasaan Tanpa Etika Menjadi Gaya Hidup",
+      "link_berita": "https://retizen.republika.co.id/posts/522926/premanisme-ketika-kekuasaan-tanpa-etika-menjadi-gaya-hidup",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:09:46"
+    },
+    {
+      "judul": "Puncak Haji Diperkirakan 5 Juni 2025 dalam Kondisi Cuaca Panas",
+      "link_berita": "https://khazanah.republika.co.id/berita/svkmhs366/puncak-haji-diperkirakan-5-juni-2025-dalam-kondisi-cuaca-panas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:07:46"
+    },
+    {
+      "judul": "Luka Doncic Belum Mampu Tolong Lakers, Didepak Timberwolves di Playoff NBA",
+      "link_berita": "https://news.republika.co.id/berita/svkmfx348/luka-doncic-belum-mampu-tolong-lakers-didepak-timberwolves-di-playoff-nba",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:06:46"
+    },
+    {
+      "judul": "Sri Mulyani Sebut Sektor Pertanian Jadi Kekuatan Ekonomi di Tengah Guncangan Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svkmfx368/sri-mulyani-sebut-sektor-pertanian-jadi-kekuatan-ekonomi-di-tengah-guncangan-global",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:06:46"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 02 Mei 2025 di Bogor dan Sukabumi",
+      "link_berita": "https://news.republika.co.id/berita/svkm4l937828412/prakiraan-cuaca-besok-02-mei-2025-di-bogor-dan-sukabumi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 07:00:46"
+    },
+    {
+      "judul": "Kloter Pertama Calon Jamaah Haji Embarkasi Lombok Masuk Asrama",
+      "link_berita": "https://khazanah.republika.co.id/berita/svklr2366/kloter-pertama-calon-jamaah-haji-embarkasi-lombok-masuk-asrama",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:51:46"
+    },
+    {
+      "judul": "Korban Predator Seks Jepara Ada Kemungkinan Bertambah",
+      "link_berita": "https://news.republika.co.id/berita/svklqu348/korban-predator-seks-jepara-ada-kemungkinan-bertambah",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:51:46"
+    },
+    {
+      "judul": "Perjuangan Buruh, Said Iqbal: 100 Ribu Buruh Dibantai, Selokan Penuh Darah",
+      "link_berita": "https://news.republika.co.id/berita/svklqq451/perjuangan-buruh-said-iqbal-100-ribu-buruh-dibantai-selokan-penuh-darah",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:51:46"
+    },
+    {
+      "judul": "Hari Buruh: Saatnya Status Mitra Ojek Online Diubah Demi Hak Pengemudi dan Kurir Online",
+      "link_berita": "https://analisis.republika.co.id/berita/svklpw415/hari-buruh-saatnya-status-mitra-ojek-online-diubah-demi-hak-pengemudi-dan-kurir-online",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:51:46"
+    },
+    {
+      "judul": "Ribuan Buruh Mulai Padati Depan Gedung DPR/MPR RI",
+      "link_berita": "https://news.republika.co.id/berita/svklpi423/ribuan-buruh-mulai-padati-depan-gedung-dprmpr-ri",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:51:46"
+    },
+    {
+      "judul": "Survei Sebut 90,9 Persen Masyarakat Puas Penyelenggaraan Angkutan Lebaran 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svklm5368/survei-sebut-909-persen-masyarakat-puas-penyelenggaraan-angkutan-lebaran-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:49:46"
+    },
+    {
+      "judul": "Kloter 1 Calon Jamaah Haji Jakarta Siap Terbang ke Tanah Suci Jumat Dini Hari",
+      "link_berita": "https://khazanah.republika.co.id/berita/svkliw366/kloter-1-calon-jamaah-haji-jakarta-siap-terbang-ke-tanah-suci-jumat-dini-hari",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:47:46"
+    },
+    {
+      "judul": "Awas! Ini 5 Tanda Data Keuanganmu 'Bocor' ke Tangan Penjahat Siber",
+      "link_berita": "https://ameera.republika.co.id/berita/svkl6x425/awas-ini-5-tanda-data-keuanganmu-bocor-ke-tangan-penjahat-siber",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:39:46"
+    },
+    {
+      "judul": "Sejarah Awal Syiar Islam di India",
+      "link_berita": "https://khazanah.republika.co.id/berita/svkl3d458/sejarah-awal-syiar-islam-di-india",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:37:46"
+    },
+    {
+      "judul": "Fikri/Daniel Pastikan Kemenangan Atas Denmark, Indonesia Juara Grup D Piala Sudirman",
+      "link_berita": "https://news.republika.co.id/berita/svkktw348/fikridaniel-pastikan-kemenangan-atas-denmark-indonesia-juara-grup-d-piala-sudirman",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:32:46"
+    },
+    {
       "judul": "Modi Restui Militer India Serang Pakistan",
       "link_berita": "https://news.republika.co.id/berita/svkkp3393/modi-restui-militer-india-serang-pakistan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:29:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:29:46"
     },
     {
       "judul": "Pembangunan Stasiun Monas-Thamrin MRT Jakarta Sudah 87,38 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/svkkm1423/pembangunan-stasiun-monasthamrin-mrt-jakarta-sudah8738-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:27:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:27:46"
     },
     {
       "judul": "Rasulullah Menolak Ekstremisme",
       "link_berita": "https://khazanah.republika.co.id/berita/svkkkf458/rasulullah-menolak-ekstremisme",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:26:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:26:46"
     },
     {
       "judul": "Cara Berkendara, Tentukan Hematnya Konsumsi Baterai Mobil Listrik",
       "link_berita": "https://ekonomi.republika.co.id/berita/svkkbd423/cara-berkendara-tentukan-hematnya-konsumsi-baterai-mobil-listrik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "May Day, KSPN Jateng Berunjuk Rasa Tolak Upah Murah demi Gaet Investasi",
       "link_berita": "https://news.republika.co.id/berita/svkk1m348/may-day-kspn-jateng-berunjuk-rasa-tolak-upah-murah-demi-gaet-investasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:15:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Nasihat Nabi Isa, Pentingnya Menahan Amarah",
       "link_berita": "https://khazanah.republika.co.id/berita/svkk0x458/nasihat-nabi-isa-pentingnya-menahan-amarah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:14:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Kisah Sufi Memahami Makna Rezeki",
       "link_berita": "https://khazanah.republika.co.id/berita/svkjti458/kisah-sufi-memahami-makna-rezeki",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:10:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Presiden Hadiri May Day Fiesta, Kapolri Pastikan Kawal Acara Hingga Tuntas",
       "link_berita": "https://news.republika.co.id/berita/svkjti484/presiden-hadiri-may-day-fiesta-kapolri-pastikan-kawal-acara-hingga-tuntas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:10:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Harga BBM Nonsubsidi Pertamina Turun Mulai 1 Mei, Cek Rinciannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/svkjsu368/harga-bbm-nonsubsidi-pertamina-turun-mulai-1-mei-cek-rinciannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:10:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Bukan Washington, Kremlin: Kesepakatan Damai Harus dengan Kiev",
       "link_berita": "https://news.republika.co.id/berita/svk9mc451/bukan-washington-kremlin-kesepakatan-damai-harus-dengan-kiev",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:05:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Tak Hanya Mengajar, Dosen Cyber University Hadir Sebagai Pendamping Mahasiswa",
       "link_berita": "https://news.republika.co.id/berita/svkjk1368/tak-hanya-mengajar-dosen-cyber-university-hadir-sebagai-pendamping-mahasiswa",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:04:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Alwi Farhan dan Putri KW Sumbang Poin, Indonesia Berbalik Ungguli Denmark 2-1",
       "link_berita": "https://news.republika.co.id/berita/svkjg5348/alwi-farhan-dan-putri-kw-sumbang-poin-indonesia-berbalik-ungguli-denmark-21",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:02:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "KAI: Kereta Panoramic Semakin Diminati Masyarakat",
       "link_berita": "https://ekonomi.republika.co.id/berita/svkjd6423/kai-kereta-panoramic-semakin-diminati-masyarakat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 06:00:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Kota Cerdas Bukan Lagi Mimpi! UNM Kupas Tuntas Living Intelligence di Open House S3",
       "link_berita": "https://news.republika.co.id/berita/svkj8u368/kota-cerdas-bukan-lagi-mimpi-unm-kupas-tuntas-living-intelligence-di-open-house-s3",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:58:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "Mau Lolos S3? Intip Cara Cerdas Bikin Proposal Doktoral Versi UNM",
       "link_berita": "https://news.republika.co.id/berita/svkj0g368/mau-lolos-s3-intip-cara-cerdas-bikin-proposal-doktoral-versi-unm",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:53:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 06:21:46"
     },
     {
       "judul": "2 Mahasiswa UNM Lolos Coding Camp 2025, Bukti Kampus Siap Cetak Digital Talent Hebat",
       "link_berita": "https://news.republika.co.id/berita/svkink368/2-mahasiswa-unm-lolos-coding-camp-2025-bukti-kampus-siap-cetak-digital-talent-hebat",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:45:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Mahasiswa dan Alumni ITB Diduga Terlibat Praktik Joki UTBK Lintas Provinsi Gunakan AI",
       "link_berita": "https://news.republika.co.id/berita/svkim2409/mahasiswa-dan-alumni-itb-diduga-terlibat-praktik-joki-utbk-lintas-provinsi-gunakan-ai",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:44:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Presiden Prabowo Dukung Pengesahan RUU Perampasan Aset",
       "link_berita": "https://news.republika.co.id/berita/svkihq484/presiden-prabowo-dukung-pengesahan-ruu-perampasan-aset",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:41:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "18 Bandara InJourney Airports Siap Layani Calhaj",
       "link_berita": "https://ekonomi.republika.co.id/berita/svkifj423/18-bandara-injourney-airports-siap-layani-calhaj",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:40:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Momen Haru Keluarga Lepas Keberangkatan Jamaah Calon Haji Kloter Pertama Jakarta",
       "link_berita": "https://visual.republika.co.id/berita/svkiar375/momen-haru-keluarga-lepas-keberangkatan-jamaah-calon-haji-kloter-pertama-jakarta",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:37:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Ingin Hapus Outsourcing, Prabowo Bentuk Dewan Kesejahteraan Buruh",
       "link_berita": "https://news.republika.co.id/berita/svkhah484/ingin-hapus-outsourcing-prabowo-bentuk-dewan-kesejahteraan-buruh",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Diabetes Tipe 1 pada Anak, Diturunkan dari Orang Tua atau Kena \u2018Senggol\u2019 Lingkungan?",
       "link_berita": "https://ameera.republika.co.id/berita/svkh0z425/diabetes-tipe-1-pada-anak-diturunkan-dari-orang-tua-atau-kena-senggol-lingkungan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Polres Indramayu Gelar Apel Kesiapan Pengamanan May Day 2025",
       "link_berita": "https://rejabar.republika.co.id/berita/svkgxl512/polres-indramayu-gelar-apel-kesiapan-pengamanan-may-day-2025",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Menlu RI: Israel Wajib Fasilitasi Bantuan Kemanusiaan dari PBB",
       "link_berita": "https://news.republika.co.id/berita/svk99k451/menlu-ri-israel-wajib-fasilitasi-bantuan-kemanusiaan-dari-pbb",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 05:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Tiba di Asrama Haji, Jamaah Diimbau Manfaatkan Waktu Istirahat, Pengantar tak Perlu Ikut",
       "link_berita": "https://khazanah.republika.co.id/berita/svkgky483/tiba-di-asrama-haji-jamaah-diimbau-manfaatkan-waktu-istirahat-pengantar-tak-perlu-ikut",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Jakarta Loloskan Wakil Terbanyak di Top 50 Campers DBL Camp 2025",
       "link_berita": "https://news.republika.co.id/berita/svkgjs348/jakarta-loloskan-wakil-terbanyak-di-top-50-campers-dbl-camp-2025",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 05:21:46"
     },
     {
       "judul": "Kepergok Curi Kalung Milik Bocil, Seorang Pria Ditangkap Polisi",
       "link_berita": "https://rejabar.republika.co.id/berita/svkg3u512/kepergok-curi-kalung-milik-bocil-seorang-pria-ditangkap-polisi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 04:21:46"
     },
     {
       "judul": "342 Siswa SMPN 35 Bandung Keracunan, Dapur MBG Ditangguhkan",
       "link_berita": "https://news.republika.co.id/berita/svkc0z377/342-siswa-smpn-35-bandung-keracunan-dapur-mbg-ditangguhkan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
+      "tanggal_terbit": "Thursday, 01 May 2025, 04:21:46"
     },
     {
-      "judul": "ITB Benarkan Joki UTBK SNBT di ISBI Mahasiswanya, Bentuk Komisi Pelanggaran Akademik",
-      "link_berita": "https://rejabar.republika.co.id/berita/svkfnp512/itb-benarkan-joki-utbk-snbt-di-isbi-mahasiswanya-bentuk-komisi-pelanggaran-akademik",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
+      "judul": "Awas! Ini 5 Tanda Data Keuanganmu 'Bocor' ke Tangan Penjahat Siber",
+      "link_berita": "https://ameera.republika.co.id/berita/svkl6x425/awas-ini-5-tanda-data-keuanganmu-bocor-ke-tangan-penjahat-siber",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Thursday, 01 May 2025, 13:40:00"
     },
     {
-      "judul": "Pemenang BRImo FSTVL 2024 Bawa Pulang Mobil dan Emas",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svkf70368/pemenang-brimo-fstvl-2024-bawa-pulang-mobil-dan-emas",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
+      "judul": "DLH DKI Terjunkan 1.050 Petugas Jaga Kebersihan Saat May Day",
+      "link_berita": "https://esgnow.republika.co.id/berita/svkmxh425/dlh-dki-terjunkan-1050-petugas-jaga-kebersihan-saat-may-day",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Thursday, 01 May 2025, 14:17:00"
     },
     {
-      "judul": "Tiba dari Saudi, Menag: Petugas Siap Sambut Kedatangan Jamaah Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/svk8i8377/tiba-dari-saudi-menag-petugas-siap-sambut-kedatangan-jamaah-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
-    },
-    {
-      "judul": "Raisa Rilis Lagu Baru 'Terserah', Kisahkan Perjuangan Hubungan yang Berjalan Sepihak",
-      "link_berita": "https://ameera.republika.co.id/berita/svkf5o425/raisa-rilis-lagu-baru-terserah-kisahkan-perjuangan-hubungan-yang-berjalan-sepihak",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
-    },
-    {
-      "judul": "Ini Daftar 18 Event Unggulan Sepanjang Mei 2025 di Jabar, Ada Pasar Tani hingga Sunset",
-      "link_berita": "https://rejabar.republika.co.id/berita/svkf0k512/ini-daftar-18-event-unggulan-sepanjang-mei-2025-di-jabar-ada-pasar-tani-hingga-sunset",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
-    },
-    {
-      "judul": "Rinov/Gloria Kalah, Indonesia Tertinggal 0-1 dari Denmark di Piala Sudirman 2025",
-      "link_berita": "https://news.republika.co.id/berita/svkenc348/rinovgloria-kalah-indonesia-tertinggal-01-dari-denmark-di-piala-sudirman-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
-    },
-    {
-      "judul": "KAI pastikan maksimalkan layanan sambut Hari Buruh 2025",
-      "link_berita": "https://news.republika.co.id/berita/svk93n451/kai-pastikan-maksimalkan-layanan-sambut-hari-buruh-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 04:31:33"
-    },
-    {
-      "judul": "Kasus Anak 14 tahun Curi Mobil Berakhir Damai, Korban Cabut Laporan, Ini Alasannya",
-      "link_berita": "https://news.republika.co.id/berita/svk82z377/kasus-anak-14-tahun-curi-mobil-berakhir-damai-korban-cabut-laporan-ini-alasannya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "Usulan Vasektomi Sebagai Syarat Bansos di Jabar Dinilai tak Tepat, Ini Kata Dokter",
-      "link_berita": "https://ameera.republika.co.id/berita/svkdqq425/usulan-vasektomi-sebagai-syarat-bansos-di-jabar-dinilai-tak-tepat-ini-kata-dokter",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "Joki UTBK di Bandung Ternyata Mahasiswa ITB",
-      "link_berita": "https://news.republika.co.id/berita/svkd7d377/joki-utbk-di-bandung-ternyata-mahasiswa-itb",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "Siswa SMPN 35 Bandung Keracunan, Dinkes Uji Laboratorium Sampel Makanan MBG",
-      "link_berita": "https://news.republika.co.id/berita/svk7tc377/siswa-smpn-35-bandung-keracunan-dinkes-uji-laboratorium-sampel-makanan-mbg",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "Islamic Center Karawang Jadi Titik Pemberangkatan Calon Jamaah Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/svkboh366/islamic-center-karawang-jadi-titik-pemberangkatan-calon-jamaah-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "RI: Israel wajib atur pelindungan sipil, berikan bantuan kemanusiaan",
-      "link_berita": "https://news.republika.co.id/berita/svk8zb451/ri-israel-wajib-atur-pelindungan-sipil-berikan-bantuan-kemanusiaan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "342 Siswa SMPN 35 Bandung Keracunan, Dapur MBG Dihentikan Sementara",
-      "link_berita": "https://rejabar.republika.co.id/berita/svkbg6512/342-siswa-smpn-35-bandung-keracunan-dapur-mbg-dihentikan-sementara",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "Ronaldo Kembali Gagal Angkat Trofi Setelah Al-Nassr Tersingkir dari Liga Champions Asia",
-      "link_berita": "https://news.republika.co.id/berita/svkbbg348/ronaldo-kembali-gagal-angkat-trofi-setelah-alnassr-tersingkir-dari-liga-champions-asia",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 03:31:33"
-    },
-    {
-      "judul": "Sengketa Lahan Mbah Tupon, Menteri Nusron Blokir Sertifikat, Ini Alasannya",
-      "link_berita": "https://news.republika.co.id/berita/svk77c377/sengketa-lahan-mbah-tupon-menteri-nusron-blokir-sertifikat-ini-alasannya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "KH Athian Ali Sebut Kebijakan Gubernur Dedi Mulyadi Soal Vasektomi Salahi Syariat Islam",
-      "link_berita": "https://rejabar.republika.co.id/berita/svkaxn512/kh-athian-ali-sebut-kebijakan-gubernur-dedi-mulyadi-soal-vasektomi-salahi-syariat-islam",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "Pertamina Turunkan Harga Pertamax dan Dex Mulai Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svkao5423/pertamina-turunkan-harga-pertamax-dan-dex-mulai-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "Lautaro Jadi Tumbal Hasil Imbang Inter di Kandang Barcelona, Inzaghi Pesimistis Bisa Pulih",
-      "link_berita": "https://news.republika.co.id/berita/svkad1348/lautaro-jadi-tumbal-hasil-imbang-inter-di-kandang-barcelona-inzaghi-pesimistis-bisa-pulih",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "Kebakaran Hebat Mengepung Yerusalem, Israel Umumkan Ada Serangan Api",
-      "link_berita": "https://khazanah.republika.co.id/berita/svka46483/kebakaran-hebat-mengepung-yerusalem-israel-umumkan-ada-serangan-api",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "Prabowo Respons Positif Hasil Perjalanan Dinas Menkeu Sri Mulyani ke AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svk6nk377/prabowo-respons-positif-hasil-perjalanan-dinas-menkeu-sri-mulyani-ke-as",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "Imbauan Penting untuk Calon Jamaah Sebelum Masuk Asrama Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/svk9c0458/imbauan-penting-untuk-calon-jamaah-sebelum-masuk-asrama-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 01 May 2025, 02:31:33"
-    },
-    {
-      "judul": "Diabetes Tipe 1 pada Anak, Diturunkan dari Orang Tua atau Kena \u2018Senggol\u2019 Lingkungan?",
-      "link_berita": "https://ameera.republika.co.id/berita/svkh0z425/diabetes-tipe-1-pada-anak-diturunkan-dari-orang-tua-atau-kena-senggol-lingkungan",
-      "kategori": "Health",
-      "tanggal_terbit": "Thursday, 01 May 2025, 12:10:00"
-    },
-    {
-      "judul": "Jasindo Wujudkan Kepedulian Sosial lewat Bantuan Sarana Prasarana",
-      "link_berita": "https://esgnow.republika.co.id/berita/svj8mm522/jasindo-wujudkan-kepedulian-sosial-lewat-bantuan-sarana-prasarana",
-      "kategori": "Csr Esg Now",
-      "tanggal_terbit": "Wednesday, 30 Apr 2025, 20:11:00"
-    },
-    {
-      "judul": "Pembangunan Stasiun Monas-Thamrin MRT Jakarta Sudah 87,38 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svkkm1423/pembangunan-stasiun-monasthamrin-mrt-jakarta-sudah8738-persen",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 01 May 2025, 13:27:00"
+      "judul": "Elon Musk Dikabarkan tak lagi Jadi CEO, Ini kata Tesla",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svkmw5468/elon-musk-dikabarkan-tak-lagi-jadi-ceo-ini-kata-tesla",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Thursday, 01 May 2025, 14:16:00"
     },
     {
       "judul": "AFSI Targetkan Perusahaan Fintech Syariah Siap IPO dalam Dua Tahun Mendatang",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 30 Apr 2025, 18:00:00"
     },
     {
-      "judul": "Modi Restui Militer India Serang Pakistan",
-      "link_berita": "https://news.republika.co.id/berita/svkkp3393/modi-restui-militer-india-serang-pakistan",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 01 May 2025, 13:29:00"
+      "judul": "DLH DKI Terjunkan 1.050 Petugas Jaga Kebersihan Saat May Day",
+      "link_berita": "https://news.republika.co.id/berita/svkmxh425/dlh-dki-terjunkan-1050-petugas-jaga-kebersihan-saat-may-day",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 01 May 2025, 14:17:00"
     }
   ],
-  "waktu_scraping": "Thursday, 01 May 2025, 13:31:33"
+  "waktu_scraping": "Thursday, 01 May 2025, 14:21:46"
 }
