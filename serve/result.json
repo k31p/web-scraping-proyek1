@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kementerian: 3.500 Bayi Gaza Terancam Mati Kelaparan",
+      "link_berita": "https://news.republika.co.id/berita/svqfjo393/kementerian-3500-bayi-gaza-terancam-mati-kelaparan"
+    },
+    {
       "judul": "Jamaah Haji Asal Banjarnegara Meninggal Sesaat Tiba di Madinah, Sempat Ambruk di Pesawat",
       "link_berita": "https://khazanah.republika.co.id/berita/svqd2b377/jamaah-haji-asal-banjarnegara-meninggal-sesaat-tiba-di-madinah-sempat-ambruk-di-pesawat"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Boom! Rudal Balistik Houthi Berhasil Hantam Bandara Ben Gurion",
       "link_berita": "https://news.republika.co.id/berita/svq8hz409/boom-rudal-balistik-houthi-berhasil-hantam-bandara-ben-gurion"
-    },
-    {
-      "judul": "KPAI Naik Pitam dengan Predator Seks Jepara",
-      "link_berita": "https://rejogja.republika.co.id/berita/svq3fu282/kpai-naik-pitam-dengan-predator-seks-jepara"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Prabowo Ingin Biaya Haji Indonesia Lebih Murah dari Malaysia",
+      "link_berita": "https://khazanah.republika.co.id/berita/svqgdb430/prabowo-ingin-biaya-haji-indonesia-lebih-murah-dari-malaysia"
+    },
+    {
+      "judul": "PHK Massal Industri Media, Gus Hilmy: Alarm Bagi Demokrasi Indonesia",
+      "link_berita": "https://rejogja.republika.co.id/berita/svqe6o291/phk-massal-industri-media-gus-hilmy-alarm-bagi-demokrasi-indonesia"
+    },
     {
       "judul": "Usut Kasus Predator Seks Jepara, Polisi Gelar Olah TKP di Kamar Kos dan Hotel",
       "link_berita": "https://news.republika.co.id/berita/svqbes348/usut-kasus-predator-seks-jepara-polisi-gelar-olah-tkp-di-kamar-kos-dan-hotel"
@@ -73,316 +81,308 @@
     {
       "judul": "Lawan Aparat dan Merusak, Enam Mahasiswa Jadi Tersangka Kerusuhan May Day di Semarang",
       "link_berita": "https://news.republika.co.id/berita/svpkia377/lawan-aparat-dan-merusak-enam-mahasiswa-jadi-tersangka-kerusuhan-may-day-di-semarang"
-    },
-    {
-      "judul": "Klaim Sukses, Dedi Mulyadi akan Perluas Program Kirim Siswa ke Barak TNI untuk Tingkat SMA",
-      "link_berita": "https://news.republika.co.id/berita/svp4la409/klaim-sukses-dedi-mulyadi-akan-perluas-program-kirim-siswa-ke-barak-tni-untuk-tingkat-sma"
-    },
-    {
-      "judul": "Ditahan Imbang Alaves, Peluang Atletico Madrid Juara La Liga Menipis",
-      "link_berita": "https://news.republika.co.id/berita/svoxrq409/ditahan-imbang-alaves-peluang-atletico-madrid-juara-la-liga-menipis"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Idris Sandiya Ajak Pengurus Baru Nasdem Berkomitmen Bangun Kota Bogor",
+      "link_berita": "https://news.republika.co.id/berita/svqhax318/idris-sandiya-ajak-pengurus-baru-nasdem-berkomitmen-bangun-kota-bogor",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Setelah Terminal Haji, Erick Thohir Siapkan 1F Soetta Jadi Terminal Penerbangan Murah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svqheh425/setelah-terminal-haji-erick-thohir-siapkan-1f-soetta-jadi-terminal-penerbangan-murah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Prakiraan Cuaca Kota Mataram dan Sekitarnya Besok 5 Mei 2025: Hujan Ringan",
+      "link_berita": "https://news.republika.co.id/berita/svqgq31614856417/prakiraan-cuaca-kota-mataram-dan-sekitarnya-besok-5-mei-2025-hujan-ringan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Penerima MBG Ditargetkan Capai 4 Juta Orang Hingga Pertengahan Mei",
+      "link_berita": "https://news.republika.co.id/berita/svqgj1425/penerima-mbg-ditargetkan-capai-4-juta-orang-hingga-pertengahan-mei",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Semen Padang Keluar dari Zona Degradasi Usai Kalahkan Madura United 2-1",
+      "link_berita": "https://news.republika.co.id/berita/svqghk348/semen-padang-keluar-dari-zona-degradasi-usai-kalahkan-madura-united-21",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Prabowo Ingin Biaya Haji Indonesia Lebih Murah dari Malaysia",
+      "link_berita": "https://khazanah.republika.co.id/berita/svqgdb430/prabowo-ingin-biaya-haji-indonesia-lebih-murah-dari-malaysia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Prakiraan Cuaca Besok 5 Mei 2025 di Kota Balikpapan dan Sekitarnya: Cerah",
+      "link_berita": "https://news.republika.co.id/berita/svqg2s1015737859/prakiraan-cuaca-besok-5-mei-2025-di-kota-balikpapan-dan-sekitarnya-cerah",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
+      "judul": "Kementerian: 3.500 Bayi Gaza Terancam Mati Kelaparan",
+      "link_berita": "https://news.republika.co.id/berita/svqfjo393/kementerian-3500-bayi-gaza-terancam-mati-kelaparan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
+    },
+    {
       "judul": "Prakiraan Cuaca Besok, 5 Mei 2025: Berawan di Kota Palembang dan Sekitarnya",
       "link_berita": "https://news.republika.co.id/berita/svqfc4671743289/prakiraan-cuaca-besok-5-mei-2025-berawan-di-kota-palembang-dan-sekitarnya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prabowo: Kita akan Punya Perkampungan Indonesia di Tanah Suci",
       "link_berita": "https://khazanah.republika.co.id/berita/svqf4c430/prabowo-kita-akan-punya-perkampungan-indonesia-di-tanah-suci",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Tak Hanya di Shujaiya, IDF Akui Tentaranya Bertumbangan di Rafah",
       "link_berita": "https://news.republika.co.id/berita/svqetu393/tak-hanya-di-shujaiya-idf-akui-tentaranya-bertumbangan-di-rafah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Massa Pecinta Alquran Gelar Aksi di Kedubes AS, Desak Hentikan Dukungan ke Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/svqede366/massa-pecinta-alquran-gelar-aksi-di-kedubes-as-desak-hentikan-dukungan-ke-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
-      "judul": "PHK Massal Industri Media, Gus Hilmy: Alarm bagi Demokrasi Indonesia",
+      "judul": "PHK Massal Industri Media, Gus Hilmy: Alarm Bagi Demokrasi Indonesia",
       "link_berita": "https://rejogja.republika.co.id/berita/svqe6o291/phk-massal-industri-media-gus-hilmy-alarm-bagi-demokrasi-indonesia",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "SMKN Sukapura Bromo, Gubernur Khofifah: Aspirasi Warga yang Ingin Anaknya Terampil",
       "link_berita": "https://rejogja.republika.co.id/berita/svq8sr451/smkn-sukapura-bromogubernur-khofifah-aspirasi-warga-yang-ingin-anaknya-terampil",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Pelatihan Bagi Pendidik ABK, Askrindo Stimulus Skill di Sekolah PAUD",
       "link_berita": "https://republika.co.id/berita//svqdxc456/pelatihan-bagi-pendidik-abk-askrindo-stimulus-skill-di-sekolah-paud",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
-      "judul": "Bantuan Pesantren Dialihakan Jadi Beasiswa, DPRD Jabar: KDM Suka Eksekusi Tanpa Musyawarah",
-      "link_berita": "https://rejabar.republika.co.id/berita/svqdgd512/bantuan-pesantren-dialihakan-jadi-beasiswa-dprd-jabar-kdm-suka-eksekusi-tanpa-musyawarah",
+      "judul": "Bantuan Pesantren Dialihkan Jadi Beasiswa, DPRD Jabar: KDM Suka Eksekusi Tanpa Musyawarah",
+      "link_berita": "https://rejabar.republika.co.id/berita/svqdgd512/bantuan-pesantren-dialihkan-jadi-beasiswa-dprd-jabar-kdm-suka-eksekusi-tanpa-musyawarah",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Mensos Beberkan Skema Sekolah Rakyat, Seleksi Murid Tanpa Tes Akademik",
       "link_berita": "https://rejogja.republika.co.id/berita/svqd8d291/mensos-beberkan-skema-sekolah-rakyat-seleksi-murid-tanpa-tes-akademik",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Erick Thohir: Terminal Khusus Haji dan Umroh Wujud Komitmen Pemerintah",
       "link_berita": "https://tv.republika.co.id/berita/svqd7j313/erick-thohir-terminal-khusus-haji-dan-umroh-wujud-komitmen-pemerintah",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Sejumlah Museum dan Perpustakaan di Jakarta Bakal Buka Sampai Malam",
       "link_berita": "https://news.republika.co.id/berita/svqd4c425/sejumlah-museum-dan-perpustakaan-di-jakarta-bakal-buka-sampai-malam",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Jamaah Haji Asal Banjarnegara Meninggal Sesaat Tiba di Madinah, Sempat Ambruk di Pesawat",
       "link_berita": "https://khazanah.republika.co.id/berita/svqd2b377/jamaah-haji-asal-banjarnegara-meninggal-sesaat-tiba-di-madinah-sempat-ambruk-di-pesawat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prakiraan Cuaca Besok di Kota Medan: Hujan Ringan 5 Mei 2025",
       "link_berita": "https://news.republika.co.id/berita/svqck4131330533/prakiraan-cuaca-besok-di-kota-medan-hujan-ringan-5-mei-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Walau Ter Stegen Tampil Apik, Hansi Flick Pilih Szczesny Lawan Inter dan Madrid",
       "link_berita": "https://news.republika.co.id/berita/svqcfg348/walau-ter-stegen-tampil-apik-hansi-flick-pilih-szczesny-lawan-inter-dan-madrid",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Kucing \u2018Nangis\u2019 Bukan Berarti Sedih, Ternyata Ini Alasannya Menurut Dokter Hewan",
       "link_berita": "https://ameera.republika.co.id/berita/svqcdt425/kucing-nangis-bukan-berarti-sedih-ternyata-ini-alasannya-menurut-dokter-hewan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Kiat Kelola Uang Biar Nggak Boncos di Era Ekonomi yang tak Pasti",
       "link_berita": "https://ekonomi.republika.co.id/berita/svqbwp423/kiat-kelola-uang-biar-nggak-boncos-di-era-ekonomi-yang-tak-pasti",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Menikmati Kuliner Khas Tradisional di Tengah Hutan Jati Kudus",
       "link_berita": "https://visual.republika.co.id/berita/svq8mz375/menikmati-kuliner-khas-tradisional-di-tengah-hutan-jati-kudus",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Adab Jamaah Haji Saat Pulang ke Tanah Air",
       "link_berita": "https://khazanah.republika.co.id/berita/svq5n2430/adab-jamaah-haji-saat-pulang-ke-tanah-air",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Usut Kasus Predator Seks Jepara, Polisi Gelar Olah TKP di Kamar Kos dan Hotel",
       "link_berita": "https://news.republika.co.id/berita/svqbes348/usut-kasus-predator-seks-jepara-polisi-gelar-olah-tkp-di-kamar-kos-dan-hotel",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Tim Kesehatan Haji Indonesia Siaga Cepat di Bandara Madinah",
       "link_berita": "https://khazanah.republika.co.id/berita/svqb7x377/tim-kesehatan-haji-indonesia-siaga-cepat-di-bandara-madinah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Terminal Khusus Haji dan Umrah Bandara Soekarno-Hatta Siapkan 10 Konter Makkah Route",
       "link_berita": "https://khazanah.republika.co.id/berita/svqb58366/terminal-khusus-haji-dan-umrah-bandara-soekarnohatta-siapkan-10-konter-makkah-route",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prabowo Minta Biaya Haji Turun Lagi",
       "link_berita": "https://tv.republika.co.id/berita/svqazh313/prabowo-minta-biaya-haji-turun-lagi",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Tinggal Tiga Laga Lagi, Conte Ingin Tulis Sejarah Bersama Napoli dengan Menjuarai Serie A",
       "link_berita": "https://news.republika.co.id/berita/svqasr348/tinggal-tiga-laga-lagi-conte-ingin-tulis-sejarah-bersama-napoli-dengan-menjuarai-serie-a",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prabowo: Pemerintah Berusaha Keras Turunkan Biaya Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/svqama423/prabowo-pemerintah-berusaha-keras-turunkan-biaya-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Tanpa Impor, Serapan Beras Bulog Januari-Mei Tertinggi dalam 57 Tahun",
       "link_berita": "https://ekonomi.republika.co.id/berita/svqaey472/tanpa-impor-serapan-beras-bulog-januarimei-tertinggi-dalam-57-tahun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Pelamar Lebih dari 7.000 Orang, Pramono: Kuota PPSU Belum Bisa Nambah",
       "link_berita": "https://ekonomi.republika.co.id/berita/svqa8l423/pelamar-lebih-dari-7000-orang-pramono-kuota-ppsu-belum-bisa-nambah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Wih! Ed Sheeran Gabungin Musik Persia dan India di Album Baru, Kayak Apa Jadinya?",
       "link_berita": "https://ameera.republika.co.id/berita/svqa5o425/wih-ed-sheeran-gabungin-musik-persia-dan-india-di-album-baru-kayak-apa-jadinya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Kesabaran Keluarga Nabi Ibrahim yang Menjadi Syariat Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/svq4pr430/kesabaran-keluarga-nabi-ibrahim-yang-menjadi-syariat-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Calon Jamaah Haji yang Wafat di Tanah Suci akan Dibadalhajikan",
       "link_berita": "https://khazanah.republika.co.id/berita/svqa4n366/calon-jamaah-haji-yang-wafat-di-tanah-suci-akan-dibadalhajikan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "LBH Semarang Upayakan Penangguhan Penahanan 6 Mahasiswa Tersangka Kerusuhan May Day",
       "link_berita": "https://news.republika.co.id/berita/svq9o3425/lbh-semarang-upayakan-penangguhan-penahanan-6-mahasiswa-tersangka-kerusuhan-may-day",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Pemerintah Catat Transaksi Lebih dari Rp 100 Triliun dari Program BINA dan Friday Mubarak",
       "link_berita": "https://sharia.republika.co.id/berita/svq9jv423/pemerintah-catat-transaksi-lebih-dari-rp-100-triliun-dari-program-bina-dan-friday-mubarak",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Siswa 'Nakal' di Bandung Barat akan Digembleng Dibarak Militer, Ini Tujuannya",
       "link_berita": "https://rejabar.republika.co.id/berita/svq9bh512/siswa-nakal-di-bandung-barat-akan-digembleng-dibarak-militer-ini-tujuannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Terminal Haji dan Umrah Diresmikan, Erick: Presiden Ingin Pelayanan Terbaik",
       "link_berita": "https://ekonomi.republika.co.id/berita/svq998423/terminal-haji-dan-umrah-diresmikan-erick-presiden-ingin-pelayanan-terbaik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prakiraan Cuaca Besok di Tangerang Berawan 5 Mei 2025",
       "link_berita": "https://news.republika.co.id/berita/svq8wg1640511398/prakiraan-cuaca-besok-di-tangerang-berawan-5-mei-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prakiraan Cuaca Bandung dan Sekitarnya Besok 5 Mei 2025: Hujan Ringan di Bandung Barat",
       "link_berita": "https://news.republika.co.id/berita/svq8md1488619828/prakiraan-cuaca-bandung-dan-sekitarnya-besok-5-mei-2025-hujan-ringan-di-bandung-barat",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "SPKLU untuk EV Sangat Minim, Moeldoko: Pasti akan Segera Dibereskan",
       "link_berita": "https://ekonomi.republika.co.id/berita/svq8jw451/spklu-untuk-ev-sangat-minim-moeldoko-pasti-akan-segera-dibereskan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Boom! Rudal Balistik Houthi Berhasil Hantam Bandara Ben Gurion",
       "link_berita": "https://news.republika.co.id/berita/svq8hz409/boom-rudal-balistik-houthi-berhasil-hantam-bandara-ben-gurion",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Prakiraan Cuaca Jakarta dan Sekitarnya: Hujan Ringan di Jakarta Barat Besok, 5 Mei 2025",
       "link_berita": "https://news.republika.co.id/berita/svq8cg1224166879/prakiraan-cuaca-jakarta-dan-sekitarnya-hujan-ringan-di-jakarta-barat-besok-5-mei-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Warga Terdampak Tol Temanggung, Anggota DPR: Ada Anomali Pembebasan Lahan-Harga Appraisal",
       "link_berita": "https://news.republika.co.id/berita/svq8bp451/warga-terdampak-tol-temanggung-anggota-dpr-ada-anomali-pembebasan-lahanharga-appraisal",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Alumni Gelar Aksi Solidaritas Sengketa Lahan SMAN 1 Bandung",
       "link_berita": "https://visual.republika.co.id/berita/svq88f375/alumni-gelar-aksi-solidaritas-sengketa-lahan-sman-1-bandung",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Napi Lapas Bukittinggi Keracunan Massal Miras Oplosan, Anggota DPR: Ini Kegagalan Total",
       "link_berita": "https://news.republika.co.id/berita/svq7yu451/napi-lapas-bukittinggi-keracunan-massal-miras-oplosan-anggota-dpr-ini-kegagalan-total",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Delegasi Afrika Barat ''Berguru'' Ekonomi Syariah ke KNEKS",
       "link_berita": "https://sharia.republika.co.id/berita/svq7ml423/delegasi-afrika-barat-berguru-ekonomi-syariah-ke-kneks",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "MUI Dukung Lima Tuntutan Menlu RI Terhadap Israel di ICJ",
-      "link_berita": "https://khazanah.republika.co.id/berita/svq7ir430/mui-dukung-lima-tuntutan-menlu-ri-terhadap-israel-di-icj",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "Badan Gizi Nasional Targetkan tak Ada Lagi Kasus Keracunan Makanan",
-      "link_berita": "https://tv.republika.co.id/berita/svq7qr313/badan-gizi-nasional-targetkan-tak-ada-lagi-kasus-keracunan-makanan",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "Face Recognition KAI Bikin Hemat Anggaran Ratusan Juta Rupiah",
-      "link_berita": "https://news.republika.co.id/berita/svq7nk451/face-recognition-kai-bikin-hemat-anggaran-ratusan-juta-rupiah",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "Jihad dan Ibadah Haji untuk Muslimah",
-      "link_berita": "https://khazanah.republika.co.id/berita/svq4kj430/jihad-dan-ibadah-haji-untuk-muslimah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "Perdana Menteri Australia Albanese Deklarasi Kemenangan Partainya dalam Pileg",
-      "link_berita": "https://news.republika.co.id/berita/svq7ff451/perdana-menteri-australia-albanese-deklarasi-kemenangan-partainya-dalam-pileg",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "BNI Perkenalkan wondr Lewat CFD, Dorong Gaya Hidup Sehat dan Transaksi Digital",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svq7er423/bni-perkenalkan-wondr-lewat-cfd-dorong-gaya-hidup-sehat-dan-transaksi-digital",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "Prestasi Universitas Andalas Padang: Kampus Penghasil Guru Besar Tercepat se Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/svq77j451/prestasi-universitas-andalas-padang-kampus-penghasil-guru-besar-tercepat-se-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
-    },
-    {
-      "judul": "Mensos Tinjau Lokasi yang Diusulkan Pemkot Yogya Jadi Sekolah Rakyat",
-      "link_berita": "https://rejogja.republika.co.id/berita/svq74b282/mensos-tinjau-lokasi-yang-diusulkan-pemkot-yogya-jadi-sekolah-rakyat",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 04 May 2025, 10:21:11"
+      "tanggal_terbit": "Sunday, 04 May 2025, 11:16:34"
     },
     {
       "judul": "Kucing \u2018Nangis\u2019 Bukan Berarti Sedih, Ternyata Ini Alasannya Menurut Dokter Hewan",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Saturday, 03 May 2025, 11:22:00"
     },
     {
-      "judul": "Kiat Kelola Uang Biar Nggak Boncos di Era Ekonomi yang tak Pasti",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svqbwp423/kiat-kelola-uang-biar-nggak-boncos-di-era-ekonomi-yang-tak-pasti",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Sunday, 04 May 2025, 16:05:00"
+      "judul": "Setelah Terminal Haji, Erick Thohir Siapkan 1F Soetta Jadi Terminal Penerbangan Murah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svqheh425/setelah-terminal-haji-erick-thohir-siapkan-1f-soetta-jadi-terminal-penerbangan-murah",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Sunday, 04 May 2025, 18:03:00"
     },
     {
       "judul": "Pemerintah Catat Transaksi Lebih dari Rp 100 Triliun dari Program BINA dan Friday Mubarak",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 04 May 2025, 15:14:00"
     },
     {
-      "judul": "Tak Hanya di Shujaiya, IDF Akui Tentaranya Bertumbangan di Rafah",
-      "link_berita": "https://news.republika.co.id/berita/svqetu393/tak-hanya-di-shujaiya-idf-akui-tentaranya-bertumbangan-di-rafah",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Sunday, 04 May 2025, 17:08:00"
+      "judul": "Idris Sandiya Ajak Pengurus Baru Nasdem Berkomitmen Bangun Kota Bogor",
+      "link_berita": "https://news.republika.co.id/berita/svqhax318/idris-sandiya-ajak-pengurus-baru-nasdem-berkomitmen-bangun-kota-bogor",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Sunday, 04 May 2025, 18:04:00"
     }
   ],
-  "waktu_scraping": "Sunday, 04 May 2025, 17:21:11"
+  "waktu_scraping": "Sunday, 04 May 2025, 18:16:34"
 }
