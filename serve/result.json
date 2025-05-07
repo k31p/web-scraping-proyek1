@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Truk Pasir Tabrak Angkot Berpenumpang Ibu-Ibu Pengajian di Purworejo, 11 Orang Meninggal",
+      "link_berita": "https://rejogja.republika.co.id/berita/svvozs282/truk-pasir-tabrak-angkot-berpenumpang-ibuibu-pengajian-di-purworejo-11-orang-meninggal"
+    },
+    {
+      "judul": "TNI akan Tindak Anggota Terlibat Premanisme Berkedok Ormas",
+      "link_berita": "https://news.republika.co.id/berita/svvnda409/tni-akan-tindak-anggota-terlibat-premanisme-berkedok-ormas"
+    },
+    {
       "judul": "Pakistan Klaim Tembak Jatuh Lima Jet India: Tiga Rafale, Satu MiG-29, dan Satu SU-30",
       "link_berita": "https://news.republika.co.id/berita/svvk7r409/pakistan-klaim-tembak-jatuh-lima-jet-india-tiga-rafale-satu-mig29-dan-satu-su30"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Pakistan Murka, Sebut akan Kirim \u2018Balasan Setimpal\u2019 ke India",
       "link_berita": "https://news.republika.co.id/berita/svvep1425/pakistan-murka-sebut-akan-kirim-balasan-setimpal-ke-india"
-    },
-    {
-      "judul": "Perang India-Pakistan, Militer Siapa Lebih Kuat?",
-      "link_berita": "https://news.republika.co.id/berita/svvbfn393/perang-indiapakistan-militer-siapa-lebih-kuat"
-    },
-    {
-      "judul": "Perang! Serangan India Hantam Dua Masjid, Anak-Anak Jadi Korban",
-      "link_berita": "https://news.republika.co.id/berita/svv8rh393/perang-serangan-india-hantam-dua-masjid-anakanak-jadi-korban"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Prabowo Kembali Munculkan Wacana Setop Impor BBM",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svvqlr423/prabowo-kembali-munculkan-wacana-setop-impor-bbm"
+    },
+    {
+      "judul": "Pengakuan WNI Bayar 150 Juta Untuk Haji Ilegal Pakai Visa Ziarah",
+      "link_berita": "https://khazanah.republika.co.id/berita/svvnsq430/pengakuan-wni-bayar-150-juta-untuk-haji-ilegal-pakai-visa-ziarah"
+    },
     {
       "judul": "PLN Buka Suara Soal Lonjakan Tagihan Listrik yang Bikin Heboh",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvkt1423/pln-buka-suara-soal-lonjakan-tagihan-listrik-yang-bikin-heboh"
@@ -73,334 +81,326 @@
     {
       "judul": "Petugas Haji Daker Makkah Mulai Diberangkatkan ke Tanah Suci",
       "link_berita": "https://khazanah.republika.co.id/berita/svuf47366/petugas-haji-daker-makkah-mulai-diberangkatkan-ke-tanah-suci"
-    },
-    {
-      "judul": "Keberangkatan Jamaah Haji Ilegal Digagalkan, Kepala BP Haji Minta Travel Ditindak Tegas",
-      "link_berita": "https://khazanah.republika.co.id/berita/svudpw430/keberangkatan-jamaah-haji-ilegal-digagalkan-kepala-bp-haji-minta-travel-ditindak-tegas"
-    },
-    {
-      "judul": "Grab Pastikan Pembagian Komisi dengan Mitra Sesuai Regulasi Pemerintah",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svubcq490/grab-pastikan-pembagian-komisi-dengan-mitra-sesuai-regulasi-pemerintah"
     }
   ],
   "berita_lainnya": [
     {
-      "judul": "Haji Isam Ikut Diundang Presiden Prabowo Temui Bill Gates di Istana Merdeka",
-      "link_berita": "https://news.republika.co.id/berita/svvorz484/haji-isam-ikut-diundang-presiden-prabowo-temui-bill-gates-di-istana-merdeka",
+      "judul": "Jasa Raharja Jamin Korban Kecelakaan Bus Padang Panjang- Sumatra Barat",
+      "link_berita": "https://republika.co.id/berita//svvr08456/jasa-raharja-jamin-korban-kecelakaan-bus-padang-panjang-sumatra-barat",
+      "kategori": "Resumatra",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:19:41"
+    },
+    {
+      "judul": "BI Prediksi The Fed Belum akan Pangkas Suku Bunga pada FOMC Mei 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svvqyj370/bi-prediksi-the-fed-belum-akan-pangkas-suku-bunga-pada-fomc-mei-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:18:41"
+    },
+    {
+      "judul": "Dukung Pemerintah Pusat, Desa Jadi Garda Terdepan Lawan Stunting",
+      "link_berita": "https://rejogja.republika.co.id/berita/svvqy9320/dukung-pemerintah-pusat-desa-jadi-garda-terdepan-lawan-stunting",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:17:41"
+    },
+    {
+      "judul": "Angka Fantastis Judi Online, PPATK: Kami Tekan Sampai Kurang dari Rp 50 T",
+      "link_berita": "https://news.republika.co.id/berita/svvqtt451/angka-fantastis-judi-online-ppatk-kami-tekan-sampai-kurang-dari-rp-50-t",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:31:12"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:15:41"
+    },
+    {
+      "judul": "Trump Berencana Menaikkan Tarif Impor Film, Apa Pengaruhnya Bagi Perfilman Indonesia?",
+      "link_berita": "https://ameera.republika.co.id/berita/svvqsu425/trump-berencana-menaikkan-tarif-impor-film-apa-pengaruhnya-bagi-perfilman-indonesia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:14:41"
+    },
+    {
+      "judul": "Tak Diberi Pinjam Sepeda Motor, Pria di Bandung Nekat Habisi Nyawa Ayah Tiri",
+      "link_berita": "https://rejabar.republika.co.id/berita/svvqm9512/tak-diberi-pinjam-sepeda-motor-pria-di-bandung-nekat-habisi-nyawa-ayah-tiri",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:10:41"
+    },
+    {
+      "judul": "Prabowo Kembali Munculkan Wacana Setop Impor BBM",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svvqlr423/prabowo-kembali-munculkan-wacana-setop-impor-bbm",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:10:41"
+    },
+    {
+      "judul": "Waskita: Operasional SKPT Morotai Bakal Serap Ribuan Tenaga Kerja",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svvqjc370/waskita-operasional-skpt-morotai-bakal-serap-ribuan-tenaga-kerja",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:09:41"
+    },
+    {
+      "judul": "Curhat Warga Eretan ke Mensos, Menderita Dilanda Rob Dua Kali Sehari",
+      "link_berita": "https://rejabar.republika.co.id/berita/svvqa1512/curhat-warga-eretan-ke-mensos-menderita-dilanda-rob-dua-kali-sehari",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 07:03:41"
+    },
+    {
+      "judul": "Presiden Prabowo Ajak Bill Gates Lihat Pelaksanaan Program MBG",
+      "link_berita": "https://visual.republika.co.id/berita/svvq43375/presiden-prabowo-ajak-bill-gates-lihat-pelaksanaan-program-mbg",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:59:41"
+    },
+    {
+      "judul": "Identitas 12 Korban Tewas Tabrakan Bus ALS di Padang Panjang",
+      "link_berita": "https://republika.co.id/berita//svvpzh282/identitas-12-korban-tewas-tabrakan-bus-als-di-padang-panjang",
+      "kategori": "Resumatra",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:57:41"
+    },
+    {
+      "judul": "Efek Kebijakan Trump, Ratusan Peneliti Diberhentikan",
+      "link_berita": "https://esgnow.republika.co.id/berita/svvpwb416/efek-kebijakan-trump-ratusan-peneliti-diberhentikan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:55:41"
+    },
+    {
+      "judul": "Negara Islam Ini Peringkat ke-3 Dunia Donasi Organ Terbanyak, Jumlahnya Terus Naik",
+      "link_berita": "https://khazanah.republika.co.id/berita/svvpo1320/negara-islam-ini-peringkat-ke3-dunia-donasi-organ-terbanyak-jumlahnya-terus-naik",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:50:41"
+    },
+    {
+      "judul": "Truk Pasir Tabrak Angkot Berpenumpang Ibu-Ibu Pengajian di Purworejo, 11 Orang Meninggal",
+      "link_berita": "https://rejogja.republika.co.id/berita/svvozs282/truk-pasir-tabrak-angkot-berpenumpang-ibuibu-pengajian-di-purworejo-11-orang-meninggal",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:35:41"
+    },
+    {
+      "judul": "Haji Isam Ikut Dampingi Presiden Prabowo Temui Bill Gates di Istana Merdeka",
+      "link_berita": "https://news.republika.co.id/berita/svvorz484/haji-isam-ikut-dampingi-presiden-prabowo-temui-bill-gates-di-istana-merdeka",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:30:41"
     },
     {
       "judul": "SKB Perlindungan Anak di Ruang Digital, Menkomdigi: Butuh Dukungan Penuh Sektor Pendidikan",
       "link_berita": "https://news.republika.co.id/berita/svvma2451/skb-perlindungan-anak-di-ruang-digital-menkomdigi-butuh-dukungan-penuh-sektor-pendidikan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:29:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:29:41"
     },
     {
       "judul": "Upaya Bupati Jeje Hapus Jejak Kelam Pendahulunya yang Terlibat Korupsi",
       "link_berita": "https://rejabar.republika.co.id/berita/svvolw512/upaya-bupati-jeje-hapus-jejak-kelam-pendahulunya-yang-terlibat-korupsi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:27:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:27:41"
     },
     {
       "judul": "Lima Tahun Berturut-turut, Bank Mandiri Kembali Masuk Forbes World\u2019s Best Bank 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvoc1472/lima-tahun-berturutturut-bank-mandiri-kembali-masuk-forbes-worlds-best-bank-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Pramono Gratiskan 15 Golongan Naik Transportasi Umum di Jakarta",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvo9a423/pramono-gratiskan-15-golongan-naik-transportasi-umum-di-jakarta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:19:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Dua Insiden dalam Sepekan, Jet Tempur F-18 Milik AS Kembali Nyemplung ke Laut Merah",
       "link_berita": "https://news.republika.co.id/berita/svvo56409/dua-insiden-dalam-sepekan-jet-tempur-f18-milik-as-kembali-nyemplung-ke-laut-merah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:17:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Jadi Biang Kerok Banjir di Kota Cirebon, Sungai Cikalong Dikeruk",
       "link_berita": "https://rejabar.republika.co.id/berita/svvo04512/jadi-biang-kerok-banjir-di-kota-cirebon-sungai-cikalong-dikeruk",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:14:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Pakar Kebijakan Publik: Pemulihan Listrik RI Lebih Cepat dari Eropa",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvntv423/pakar-kebijakan-publik-pemulihan-listrik-ri-lebih-cepat-dari-eropa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:10:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Pernah Hasut Jatuhkan Nuklir di Gaza, Menteri Israel Minta Gudang Makanan Palestina Dibom",
       "link_berita": "https://khazanah.republika.co.id/berita/svvntd483/pernah-hasut-jatuhkan-nuklir-di-gaza-menteri-israel-minta-gudang-makanan-palestina-dibom",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:10:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Pengakuan WNI Bayar 150 Juta Untuk Haji Ilegal Pakai Visa Ziarah",
       "link_berita": "https://khazanah.republika.co.id/berita/svvnsq430/pengakuan-wni-bayar-150-juta-untuk-haji-ilegal-pakai-visa-ziarah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:09:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Bill Gates Apresiasi Indonesia Adopsi Vaksin Baru Lindungi Anak-Anak",
       "link_berita": "https://news.republika.co.id/berita/svvnrb484/bill-gates-apresiasi-indonesia-adopsi-vaksin-baru-lindungi-anakanak",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:08:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Terbagi 10 Kloter, 3.202 Calon Jamaah Haji Asal DIY Siap Berangkat ke Arab Saudi",
       "link_berita": "https://rejogja.republika.co.id/berita/svvnop282/terbagi-10-kloter-3202-calon-jamaah-haji-asal-diy-siap-berangkat-ke-arab-saudi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:07:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "TNI akan Tindak Anggota Terlibat Premanisme Berkedok Ormas",
       "link_berita": "https://news.republika.co.id/berita/svvnda409/tni-akan-tindak-anggota-terlibat-premanisme-berkedok-ormas",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 06:00:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Kalkulasi Ini Ungkap Pertaruhan Besar Israel Hadapi Perang Darat Pejuang Gaza, Berat?",
       "link_berita": "https://khazanah.republika.co.id/berita/svvn9w320/kalkulasi-ini-ungkap-pertaruhan-besar-israel-hadapi-perang-darat-pejuang-gaza-berat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:58:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Tingkatkan Kinerja Ekspor, Bea Cukai Genjot Literasi Pelaku Usaha",
       "link_berita": "https://republika.co.id/berita//svvn3e472/tingkatkan-kinerja-ekspor-bea-cukai-genjot-literasi-pelaku-usaha",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:54:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 06:21:41"
     },
     {
       "judul": "Bea Cukai Soekarno-Hatta dan Polri Ringkus Sindikat Penyelundup Vape Isi Obat Keras",
       "link_berita": "https://republika.co.id/berita//svvmfq472/bea-cukai-soekarno-hatta-dan-polri-ringkus-sindikat-penyelundup-vape-isi-obat-keras",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:40:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Zulhas: Setelah Swasembada Pangan, Fokus Berikutnya Kopdes Merah Putih",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvmc0423/zulhas-setelah-swasembada-pangan-fokus-berikutnya-kopdes-merah-putih",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:38:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Buronan Sadis Pembacok Perempuan di Bandung Ditangkap",
       "link_berita": "https://rejabar.republika.co.id/berita/svvmat512/buronan-sadis-pembacok-perempuan-di-bandung-ditangkap",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:37:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Digitalisasi Dorong Laba BSI Tumbuh 10 Persen Jadi Rp 1,88 Triliun",
       "link_berita": "https://sharia.republika.co.id/berita/svvm0r423/digitalisasi-dorong-laba-bsi-tumbuh-10-persen-jadi-rp-188-triliun",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Wisata Sejarah Berbasis Digital, Wamenkomdigi: Silakan Dieksplor, Konsepnya Dipertajam",
       "link_berita": "https://news.republika.co.id/berita/svvlzv451/wisata-sejarah-berbasis-digital-wamenkomdigi-silakan-dieksplor-konsepnya-dipertajam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Hashim Ungkap Niatan Pemerintah RI Bangun Reaktor Nuklir Ambisius",
       "link_berita": "https://news.republika.co.id/berita/svvltx484/hashim-ungkap-niatan-pemerintah-ri-bangun-reaktor-nuklir-ambisius",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Kecelakaan Bus ALS, MTI Soroti Pemangkasan Anggaran Keselamatan Transportasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvloz423/kecelakaan-bus-als-mti-soroti-pemangkasan-anggaran-keselamatan-transportasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Bill Gates Temui Prabowo, Indonesia akan Jadi Tempat Uji Coba Vaksin TBC",
       "link_berita": "https://news.republika.co.id/berita/svvldr409/bill-gates-temui-prabowo-indonesia-akan-jadi-tempat-uji-coba-vaksin-tbc",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "PLN Buka Suara Soal Lonjakan Tagihan Listrik yang Bikin Heboh",
       "link_berita": "https://ekonomi.republika.co.id/berita/svvkt1423/pln-buka-suara-soal-lonjakan-tagihan-listrik-yang-bikin-heboh",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Jaga Perairan Aceh, Bea Cukai dan Polri Gagalkan Penyelundupan Ratusan Bungkus Sabu",
       "link_berita": "https://republika.co.id/berita//svvkoj472/jaga-perairan-aceh-bea-cukai-dan-polri-gagalkan-penyelundupan-ratusan-bungkus-sabu",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 05:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Bos Telkom: Tiket Digiland 2025 Habis Terjual",
       "link_berita": "https://news.republika.co.id/berita/svvk9u423/bos-telkom-tiket-digiland-2025-habis-terjual",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Pakistan Klaim Tembak Jatuh Lima Jet India: Tiga Rafale, Satu MiG-29, dan Satu SU-30",
       "link_berita": "https://news.republika.co.id/berita/svvk7r409/pakistan-klaim-tembak-jatuh-lima-jet-india-tiga-rafale-satu-mig29-dan-satu-su30",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 05:21:41"
     },
     {
       "judul": "Belasan Pelajar \u2018Hebat\u2019 Indramayu Dikirim ke Barak Militer",
       "link_berita": "https://rejabar.republika.co.id/berita/svvjqu512/belasan-pelajar-hebat-indramayu-dikirim-ke-barak-militer",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "Tina Wiryawati Dukung Surat Edaran Gubernur Terkait Pendidikan di Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/svvjgx472/tina-wiryawati-dukung-surat-edaran-gubernur-terkait-pendidikan-di-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "LPPOM: Titik Rawan Penggilingan Status Halal Daging yang Dibawa Pelanggan",
       "link_berita": "https://khazanah.republika.co.id/berita/svvj8b430/lppom-titik-rawan-penggilingan-status-halal-daging-yang-dibawa-pelanggan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "Bill Gates Beri Hadiah ke Kucing Prabowo, Bobby Kertanegara",
       "link_berita": "https://news.republika.co.id/berita/svvizn484/bill-gates-beri-hadiah-ke-kucing-prabowo-bobby-kertanegara",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "LPPOM Ungkap Titik Rawan Kehalalan Penggilingan Daging",
       "link_berita": "https://khazanah.republika.co.id/berita/svviwv483/lppom-ungkap-titik-rawan-kehalalan-penggilingan-daging",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "Pulau Timor NTT Menyimpan 30 GW Potensi EBT",
       "link_berita": "https://esgnow.republika.co.id/berita/svviqo416/pulau-timor-ntt-menyimpan-30-gw-potensi-ebt",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "Gubernur DKI Pasang Target: Pengguna Transportasi Umum Naik Hingga 10 Persen per Tahun",
       "link_berita": "https://news.republika.co.id/berita/svvilh425/gubernur-dki-pasang-target-pengguna-transportasi-umum-naik-hingga-10-persen-per-tahun",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "Ini Perbandingan Kekuatan Senjata Nuklir Antara India dan Pakistan",
       "link_berita": "https://news.republika.co.id/berita/svvikx409/ini-perbandingan-kekuatan-senjata-nuklir-antara-india-dan-pakistan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
       "judul": "India Bombardir Sejumlah Wilayah Pakistan",
       "link_berita": "https://tv.republika.co.id/berita/svvikw418/india-bombardir-sejumlah-wilayah-pakistan",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 04:21:41"
     },
     {
-      "judul": "Dua Jamaah Haji Ilegal Ditangkap di Arab Saudi, Sanksinya Didenda Rp 440 Juta",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvik5430/dua-jamaah-haji-ilegal-ditangkap-di-arab-saudi-sanksinya-didenda-rp-440-juta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
-    },
-    {
-      "judul": "India-Pakistan Diambang Perang, Sekjen PBB: Militer Bukan Solusi",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvijg483/indiapakistan-diambang-perang-sekjen-pbb-militer-bukan-solusi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
-    },
-    {
-      "judul": "Didukung BRI, Liga Kompas U-14 Jadi Ajang Pembinaan Sepak Bola Usia Dini Terbesar di RI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svvieb472/didukung-bri-liga-kompas-u14-jadi-ajang-pembinaan-sepak-bola-usia-dini-terbesar-di-ri",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
-    },
-    {
-      "judul": "Jumlah Terbaru Korban Serangan Rudal India ke Masjid di Pakistan",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvicx430/jumlah-terbaru-korban-serangan-rudal-india-ke-masjid-di-pakistan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
-    },
-    {
-      "judul": "Polisi Temukan 36 Haji Ilegal di Soetta, Gunakan Visa Pekerja Bayar Ratusan Juta",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvi2i483/polisi-temukan-36-haji-ilegal-di-soetta-gunakan-visa-pekerja-bayar-ratusan-juta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
-    },
-    {
-      "judul": "KKP Segel Proyek Terminal Khusus dan Reklamasi Ilegal di Kepulauan Riau",
-      "link_berita": "https://esgnow.republika.co.id/berita/svvhxo416/kkp-segel-proyek-terminal-khusus-dan-reklamasi-ilegal-di-kepulauan-riau",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 04:31:49"
-    },
-    {
-      "judul": "Prabowo akan Beri Penghargaan Bintang Tertinggi kepada Bill Gates",
-      "link_berita": "https://news.republika.co.id/berita/svvhlb484/prabowo-akan-beri-penghargaan-bintang-tertinggi-kepada-bill-gates",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Ditinggal Lucky Hakim Jalani Sanksi Magang, Ini Kondisi Pemerintahan di Indramayu",
-      "link_berita": "https://rejabar.republika.co.id/berita/svvhhx512/ditinggal-lucky-hakim-jalani-sanksi-magang-ini-kondisi-pemerintahan-di-indramayu",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Kronologi 30 WNI tanpa Visa Haji yang Ditemukan di Jeddah, Sudah Habis Rp 150 Juta",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvhb4483/kronologi-30-wni-tanpa-visa-haji-yang-ditemukan-di-jeddah-sudah-habis-rp-150-juta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Polisi Ungkap Dua Kasus Joki UTBK SNBT di UPI",
-      "link_berita": "https://rejabar.republika.co.id/berita/svvh9h512/polisi-ungkap-dua-kasus-joki-utbk-snbt-di-upi",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Promosikan Haji Palsu, Warga Indonesia Ditangkap di Makkah",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvgy0430/promosikan-haji-palsu-warga-indonesia-ditangkap-di-makkah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Serangan India ke Pakistan Hancurkan Masjid dan Tewaskan 8 Warga",
-      "link_berita": "https://visual.republika.co.id/berita/svvgts375/serangan-india-ke-pakistan-hancurkan-masjid-dan-tewaskan-8-warga",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Kabar Gembira, Insentif Guru Bukan ASN di RA dan Madrasah Cair Bulan Depan",
-      "link_berita": "https://khazanah.republika.co.id/berita/svvgd1483/kabar-gembira-insentif-guru-bukan-asn-di-ra-dan-madrasah-cair-bulan-depan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "India Bom Kompleks Masjid yang Pembangunannya Dibantu Osama Bin Laden",
-      "link_berita": "https://news.republika.co.id/berita/svvfyt409/india-bom-kompleks-masjid-yang-pembangunannya-dibantu-osama-bin-laden",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 03:31:49"
-    },
-    {
-      "judul": "Trump Mau Bikin Hollywood Jaya Lagi, Film Luar Negeri Kena Getahnya",
-      "link_berita": "https://ameera.republika.co.id/berita/svvfqf425/trump-mau-bikin-hollywood-jaya-lagi-film-luar-negeri-kena-getahnya",
+      "judul": "Trump Berencana Menaikkan Tarif Impor Film, Apa Pengaruhnya Bagi Perfilman Indonesia?",
+      "link_berita": "https://ameera.republika.co.id/berita/svvqsu425/trump-berencana-menaikkan-tarif-impor-film-apa-pengaruhnya-bagi-perfilman-indonesia",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 10:15:00"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 14:14:00"
     },
     {
-      "judul": "Pulau Timor NTT Menyimpan 30 GW Potensi EBT",
-      "link_berita": "https://esgnow.republika.co.id/berita/svviqo416/pulau-timor-ntt-menyimpan-30-gw-potensi-ebt",
+      "judul": "Efek Kebijakan Trump, Ratusan Peneliti Diberhentikan",
+      "link_berita": "https://esgnow.republika.co.id/berita/svvpwb416/efek-kebijakan-trump-ratusan-peneliti-diberhentikan",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 11:20:00"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 13:55:00"
     },
     {
-      "judul": "Lima Tahun Berturut-turut, Bank Mandiri Kembali Masuk Forbes World\u2019s Best Bank 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/svvoc1472/lima-tahun-berturutturut-bank-mandiri-kembali-masuk-forbes-worlds-best-bank-2025",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 13:21:00"
+      "judul": "BI Prediksi The Fed Belum akan Pangkas Suku Bunga pada FOMC Mei 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/svvqyj370/bi-prediksi-the-fed-belum-akan-pangkas-suku-bunga-pada-fomc-mei-2025",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 07 May 2025, 14:18:00"
     },
     {
       "judul": "Digitalisasi Dorong Laba BSI Tumbuh 10 Persen Jadi Rp 1,88 Triliun",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 07 May 2025, 12:31:00"
     },
     {
-      "judul": "Haji Isam Ikut Diundang Presiden Prabowo Temui Bill Gates di Istana Merdeka",
-      "link_berita": "https://news.republika.co.id/berita/svvorz484/haji-isam-ikut-diundang-presiden-prabowo-temui-bill-gates-di-istana-merdeka",
+      "judul": "Angka Fantastis Judi Online, PPATK: Kami Tekan Sampai Kurang dari Rp 50 T",
+      "link_berita": "https://news.republika.co.id/berita/svvqtt451/angka-fantastis-judi-online-ppatk-kami-tekan-sampai-kurang-dari-rp-50-t",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 07 May 2025, 13:31:00"
+      "tanggal_terbit": "Wednesday, 07 May 2025, 14:15:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 07 May 2025, 13:31:49"
+  "waktu_scraping": "Wednesday, 07 May 2025, 14:21:41"
 }
