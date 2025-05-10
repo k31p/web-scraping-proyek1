@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Bahlil Sebut Aktivitas Ekspor Batubara Indonesia ke India Masih Aman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw1ga8451/bahlil-sebut-aktivitas-ekspor-batubara-indonesia-ke-india-masih-aman"
+    },
+    {
       "judul": "Polres di Daerah Ini Sediakan Ojek Gratis untuk Calhaj Menuju Titik Pemberangkatan",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1cg9483/polres-di-daerah-ini-sediakan-ojek-gratis-untuk-calhaj-menuju-titik-pemberangkatan"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Kepala PCO Hasan Nasbi Pamerkan Prediksi Prabowo Soal Ancaman Perang Kian Nyata",
       "link_berita": "https://news.republika.co.id/berita/sw187k484/kepala-pco-hasan-nasbi-pamerkan-prediksi-prabowo-soal-ancaman-perang-kian-nyata"
-    },
-    {
-      "judul": "Donald Trump Dilaporkan akan Deklarasikan Pengakuan Negara Palestina",
-      "link_berita": "https://news.republika.co.id/berita/sw13qn409/donald-trump-dilaporkan-akan-deklarasikan-pengakuan-negara-palestina"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Studi: Banyak Perempuan Berisiko Kanker Akibat Gunakan Skincare",
+      "link_berita": "https://ameera.republika.co.id/berita/sw1gig483/studi-banyak-perempuan-berisiko-kanker-akibat-gunakan-skincare"
+    },
     {
       "judul": "Hampir Semua Visa Haji Jamaah Indonesia Sudah Keluar",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1d9a425/hampir-semua-visa-haji-jamaah-indonesia-sudah-keluar"
@@ -77,318 +81,314 @@
     {
       "judul": "Trump Dilaporkan Segera Umumkan Perdamaian Gaza, Rangkul Hamas, Abaikan Netanyahu",
       "link_berita": "https://news.republika.co.id/berita/svzyai409/trump-dilaporkan-segera-umumkan-perdamaian-gaza-rangkul-hamas-abaikan-netanyahu"
-    },
-    {
-      "judul": "Kemendikdasmen dan KPAI: Hati-Hati Soal Siswa Masuk Barak",
-      "link_berita": "https://news.republika.co.id/berita/svzvk3393/kemendikdasmen-dan-kpai-hatihati-soal-siswa-masuk-barak"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kunjungan Kerja ke IPB, Komisi IV DPR Jaring Masukan Revisi UU Pangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw1jb6472/kunjungan-kerja-ke-ipb-komisi-iv-dpr-jaring-masukan-revisi-uu-pangan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Hadirkan CEO Parallaxnet, Aktriyo Gelar Studium Generale Langkah Dirikan Perusahaan Rintisan",
+      "link_berita": "https://rejogja.republika.co.id/berita/sw1j3a291/hadirkan-ceo-parallaxnet-aktriyo-gelar-studium-generale-langkah-dirikan-perusahaan-rintisan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Pakistan Pertimbangkan Opsi Damai Jika India Hentikan Serangan",
+      "link_berita": "https://news.republika.co.id/berita/sw1izg370/pakistan-pertimbangkan-opsi-damai-jika-india-hentikan-serangan",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Rayakan Long Weekend Waisak Lebih Praktis dengan Bantuan Sabrina BRI",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw1im3472/rayakan-long-weekend-waisak-lebih-praktis-dengan-bantuan-sabrina-bri",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Kisah Harun Al Rasyid Naik Haji Jalan Kaki",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw1ijf430/kisah-harun-al-rasyid-naik-haji-jalan-kaki",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Bank Mega Syariah Bukukan Pendapatan Rp 320 Miliar",
+      "link_berita": "https://sharia.republika.co.id/berita/sw1i3l370/bank-mega-syariah-bukukan-pendapatan-rp-320-miliar",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Command Center Pupuk Indonesia Pantau 2,5 Juta Transaksi Lewat i-Pubers",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw1i03483/command-center-pupuk-indonesia-pantau-25-juta-transaksi-lewat-ipubers",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "PBB Sebut 70 Persen Wilayah Gaza Dalam Zona Militerisasi Israel",
+      "link_berita": "https://news.republika.co.id/berita/sw1hho370/pbb-sebut-70-persen-wilayah-gaza-dalam-zona-militerisasi-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Takut Paket Data Habis, Ini Cara Mendapatkan Nomor Ponsel Saudi Selama Jamaah Haji di Tanah Suci",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw1hgd483/takut-paket-data-habis-ini-cara-mendapatkan-nomor-ponsel-saudi-selama-jamaah-haji-di-tanah-suci",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Kena Sanksi di Threads? Tenang, Sekarang Ada 'Buku Raport' Akunmu",
+      "link_berita": "https://ameera.republika.co.id/berita/sw1h8z425/kena-sanksi-di-threads-tenang-sekarang-ada-buku-raport-akunmu",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Delapan Jamaah Haji Meninggal Dunia",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw1h4u430/delapan-jamaah-haji-meninggal-dunia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Habina dan Habira: Dua Ustadzah Muda yang Siap Mengabdi di Pelosok Negeri",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw1h1e472/habina-dan-habira-dua-ustadzah-muda-yang-siap-mengabdi-di-pelosok-negeri",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Cegah Dehidrasi Saat Musim Haji, KKHI Bagikan Masker dan Oralit",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw1h10483/cegah-dehidrasi-saat-musim-haji-kkhi-bagikan-masker-dan-oralit",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
+      "judul": "Bagian Rudal S-400 India Ditemukan di Wilayah Pakistan",
+      "link_berita": "https://news.republika.co.id/berita/sw1ggl484/bagian-rudal-s400-india-ditemukan-di-wilayah-pakistan",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
+    },
+    {
       "judul": "Studi: Banyak Perempuan Berisiko Kanker Akibat Gunakan Skincare",
       "link_berita": "https://ameera.republika.co.id/berita/sw1gig483/studi-banyak-perempuan-berisiko-kanker-akibat-gunakan-skincare",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Tenun Garut Banyak Diborong, Sekjen MPR: Ada Inovasi Motif",
       "link_berita": "https://news.republika.co.id/berita/sw1gig451/tenun-garut-banyak-diborong-sekjen-mpr-ada-inovasi-motif",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Anak-anak Indonesia Rayakan Hari Anak Korea Lewat Goresan Warna di KOREA 360",
       "link_berita": "https://chingudeul.republika.co.id/posts/524644/anak-anak-indonesia-rayakan-hari-anak-korea-lewat-goresan-warna-di-korea-360",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Kemenperin dan Pemda Perkuat Sentra IKM Olahan Hortikultura",
       "link_berita": "https://bisnistime.com/posts/524653/kemenperin-dan-pemda-perkuat-sentra-ikm-olahan-hortikultura",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Bahlil Sebut Aktivitas Ekspor Batubara Indonesia ke India Masih Aman",
       "link_berita": "https://ekonomi.republika.co.id/berita/sw1ga8451/bahlil-sebut-aktivitas-ekspor-batubara-indonesia-ke-india-masih-aman",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Catatan Cak AT: Etika Bill Gates Mengetuk Pintu Istana",
       "link_berita": "https://ruzkaindonesia.id/posts/524617/catatan-cak-at-etika-bill-gates-mengetuk-pintu-istana",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Keukenhof Surga Warna dan Buket Bunga yang Memesona di Musim Semi",
       "link_berita": "https://kingdomsriwijaya.id/posts/524624/keukenhof-surga-warna-dan-buket-bunga-yang-memesona-di-musim-semi",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Menurunkan Tekanan Darah Bisa Membantu Mencegah Demensia",
       "link_berita": "https://impresiupdate.id/posts/524363/menurunkan-tekanan-darah-bisa-membantu-mencegah-demensia",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Pasar Kargo Kering Hadapi Era Baru: Adaptasi, Ketidakpastian, dan Peluang",
       "link_berita": "https://shippingcargo.co.id/posts/524455/pasar-kargo-kering-hadapi-era-baru-adaptasi-ketidakpastian-dan-peluang",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Baznas, Kemenag, dan LAZ, Rumuskan Skema Beasiswa",
       "link_berita": "https://sajada.id/posts/524649/baznas-kemenag-dan-laz-rumuskan-skema-beasiswa",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Hadapi Libur Waisak, Daop 3 Cirebon Sediakan 23 Ribu Tiket Kereta Api",
       "link_berita": "https://matapantura.republika.co.id/posts/524425/hadapi-libur-waisak-daop-3-cirebon-sediakan-23-ribu-tiket-kereta-api",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Hari Jadi Majalengka 7 Juni atau 11 Februari, Ini Penjelasannya",
       "link_berita": "https://matapantura.republika.co.id/posts/524426/hari-jadi-majalengka-7-juni-atau-11-februari-ini-penjelasannya",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Medvedev: Konflik Rusia-Ukraina tak Abadi, Kemenangan Sudah Dekat",
       "link_berita": "https://news.republika.co.id/berita/sw1ep4484/medvedev-konflik-rusiaukraina-tak-abadi-kemenangan-sudah-dekat",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "MCCI Sabet Dua Penghargaan Tertinggi pada Indonesia Regulatory Compliance Awards 2025",
       "link_berita": "https://rejogja.republika.co.id/berita/sw1eam291/mcci-sabet-dua-penghargaan-tertinggi-pada-indonesia-regulatory-compliance-awards-2025",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Berkat Tabungan Haji, DPK di Bank Syariah Ini Melonjak Hingga Rp 10,2 Triliun",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1dqf483/berkat-tabungan-haji-dpk-di-bank-syariah-ini-melonjak-hingga-rp-102-triliun",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Studi: Punya Potensi Besar, Energi Terbarukan di Indonesia Layak Dikembangkan",
       "link_berita": "https://esgnow.republika.co.id/berita/sw1ddy483/studi-punya-potensi-besar-energi-terbarukan-di-indonesia-layak-dikembangkan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Hampir Semua Visa Haji Jamaah Indonesia Sudah Keluar",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1d9a425/hampir-semua-visa-haji-jamaah-indonesia-sudah-keluar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Polres di Daerah Ini Sediakan Ojek Gratis untuk Calhaj Menuju Titik Pemberangkatan",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1cg9483/polres-di-daerah-ini-sediakan-ojek-gratis-untuk-calhaj-menuju-titik-pemberangkatan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Erick Thohir Terkejut Putusan Komdis PSSI Soal Yuran Fernandes, PSM Siap Ajukan Banding",
       "link_berita": "https://news.republika.co.id/berita/sw1bxv348/erick-thohir-terkejut-putusan-komdis-pssi-soal-yuran-fernandes-psm-siap-ajukan-banding",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Persija Jamu Bali United di JIS, Witan Sulaeman Minta Jakmania Padati Tribun",
       "link_berita": "https://news.republika.co.id/berita/sw1bul483/persija-jamu-bali-united-di-jis-witan-sulaeman-minta-jakmania-padati-tribun",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Mahasiswi ITB Pembuat Meme Prabowo-Jokowi Ciuman Diciduk, Istana Usulkan Dibina",
       "link_berita": "https://news.republika.co.id/berita/sw1bgv484/mahasiswi-itb-pembuat-meme-prabowojokowi-ciuman-diciduk-istana-usulkan-dibina",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Pakar Ingatkan Jangan Utang demi Beli Emas",
       "link_berita": "https://ameera.republika.co.id/berita/sw1bdb425/pakar-ingatkan-jangan-utang-demi-beli-emas",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Sadar Dimanipulasi, Trump Putuskan Hubungan dengan Netanyahu",
       "link_berita": "https://news.republika.co.id/berita/sw19sv370/sadar-dimanipulasi-trump-putuskan-hubungan-dengan-netanyahu",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Dewan Minta Travel yang Berangkatkan Jamaah dengan Visa Non Haji Dicabut Izinnya",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1b8b483/dewan-minta-travel-yang-berangkatkan-jamaah-dengan-visa-non-haji-dicabut-izinnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Menghitung Potensi Perang Nuklir India Versus Pakistan: Berikut Perbandingan Doktrin dan Kekuatannya",
       "link_berita": "https://khazanah.republika.co.id/berita/sw1aku483/menghitung-potensi-perang-nuklir-india-versus-pakistan-berikut-perbandingan-doktrin-dan-kekuatannya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Menag Nasaruddin Resmikan Resto & Cafe Halal di Kawasan Gambir",
       "link_berita": "https://news.republika.co.id/berita/sw17u3484/menag-nasaruddin-resmikan-resto-cafe-halal-di-kawasan-gambir",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Danantara Instruksikan BUMN Non-Publik Tunda RUPS, Ini Kata OJK",
       "link_berita": "https://ekonomi.republika.co.id/berita/sw1756370/danantara-instruksikan-bumn-nonpubliktunda-rups-ini-kata-ojk",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Energi Besar Mencintai Allah dan Optimisme Bangun Negeri",
       "link_berita": "https://iqra.republika.co.id/berita/sw18vr451/energi-besar-mencintai-allah-dan-optimisme-bangun-negeri",
       "kategori": "Iqra",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "PSM Sudah Temui Erick Thohir Sebelum Putusan Sanksi Yuran. Sadikin Aksa: Kami Siap Ajukan Banding",
       "link_berita": "https://news.republika.co.id/berita/sw19z5348/psm-sudah-temui-erick-thohir-sebelum-putusan-sanksi-yuran-sadikin-aksa-kami-siap-ajukan-banding",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Kemenag: Masih Ada Jamaah Haji Khusus yang Sakit Bingung karena tak Ada Rujukan",
       "link_berita": "https://khazanah.republika.co.id/berita/sw199g483/kemenag-masih-ada-jamaah-haji-khusus-yang-sakit-bingung-karena-tak-ada-rujukan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Tips Nyaman Beribadah di Masjid Nabawi",
       "link_berita": "https://tv.republika.co.id/berita/sw18yy313/tips-nyaman-beribadah-di-masjid-nabawi",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Intip Hotel Jamaah Haji Indonesia di Makkah",
       "link_berita": "https://tv.republika.co.id/berita/sw18xe418/intip-hotel-jamaah-haji-indonesia-di-makkah",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Kepala PCO Hasan Nasbi Pamerkan Prediksi Prabowo Soal Ancaman Perang Kian Nyata",
       "link_berita": "https://news.republika.co.id/berita/sw187k484/kepala-pco-hasan-nasbi-pamerkan-prediksi-prabowo-soal-ancaman-perang-kian-nyata",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Jamaah RI Mulai Masuk ke Makkah, Kadaker: Bawa Selalu Kartu Nusuk",
       "link_berita": "https://khazanah.republika.co.id/berita/sw18kx451/jamaah-ri-mulai-masuk-ke-makkah-kadaker-bawa-selalu-kartu-nusuk",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Watermelon Pictures Bakal \u2018Gebrak\u2019 Cannes: Lantang Suarakan Palestina Lewat Film",
       "link_berita": "https://ameera.republika.co.id/berita/sw186z425/watermelon-pictures-bakal-gebrak-cannes-lantang-suarakan-palestina-lewat-film",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
       "judul": "Baznas Targetkan 7.000 Hewan Kurban, Salurkan Hingga ke Palestina",
       "link_berita": "https://khazanah.republika.co.id/berita/sw17yl483/baznas-targetkan-7000-hewan-kurban-salurkan-hingga-ke-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
+      "tanggal_terbit": "Saturday, 10 May 2025, 10:21:55"
     },
     {
-      "judul": "Pigai Usul Pendidikan di Barak Jadi Kebijakan Nasional, JPPI: Tamparan Keras Bagi Kemendikdasmen",
-      "link_berita": "https://news.republika.co.id/berita/sw17gd483/pigai-usul-pendidikan-di-barak-jadi-kebijakan-nasional-jppi-tamparan-keras-bagi-kemendikdasmen",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Indonesia Upayakan Repatriasi Keris Pangeran Diponegoro, Teuku Umar, dan Imam Bonjol",
-      "link_berita": "https://rejogja.republika.co.id/berita/sw16pk282/indonesia-upayakan-repatriasi-keris-pangeran-diponegoro-teuku-umar-dan-imam-bonjol",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Yordania Terima Dana Rp 6,6 Miliar dari Setiap Misi Bantuan untuk Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sw16ck484/yordania-terima-dana-rp-66-miliar-dari-setiap-misi-bantuan-untuk-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Mulai Bertolak ke Makkah, Jamaah Singgah di Bir Ali untuk Miqat: Jangan Lebih dari 30 Menit",
-      "link_berita": "https://khazanah.republika.co.id/berita/sw16bd483/mulai-bertolak-ke-makkah-jamaah-singgah-di-bir-ali-untuk-miqat-jangan-lebih-dari-30-menit",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Avtur Pertamina Dukung Pemberangkatan 221 Ribu Jamaah Haji Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sw14id472/avtur-pertamina-dukung-pemberangkatan-221-ribu-jamaah-haji-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Donald Trump Dilaporkan akan Deklarasikan Pengakuan Negara Palestina",
-      "link_berita": "https://news.republika.co.id/berita/sw13qn409/donald-trump-dilaporkan-akan-deklarasikan-pengakuan-negara-palestina",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Raih Penghargaan Mata Lokal Award 2025, Nasabah PNM Mekaar Kembangkan Ini",
-      "link_berita": "https://republika.co.id/berita//sw13n7456/raih-penghargaan-mata-lokal-award-2025-nasabah-pnm-mekaar-kembangkan-ini",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Dorong Perdagangan Karbon, Menhut: Kuncinya di Transparansi",
-      "link_berita": "https://esgnow.republika.co.id/berita/sw05yi451/dorong-perdagangan-karbon-menhut-kuncinya-di-transparansi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Tengkorak Ditemukan di Plafon Rumah Jaktim, Polisi Lakukan Penyelidikan",
-      "link_berita": "https://news.republika.co.id/berita/sw12sw425/tengkorak-ditemukan-di-plafon-rumah-jaktim-polisi-lakukan-penyelidikan",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Sinergi Tanjung Emas dan CV Mata Elang Perkuat Rantai Pasok Tembakau",
-      "link_berita": "https://rejogja.republika.co.id/berita/sw12fd349/sinergi-tanjung-emas-dan-cv-mata-elang-perkuat-rantai-pasok-tembakau",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Pakistan Gagalkan Serangan Rudal India, Wilayah Udara untuk Semua Penerbangan Ditutup",
-      "link_berita": "https://news.republika.co.id/berita/sw11xb425/pakistan-gagalkan-serangan-rudal-india-wilayah-udara-untuk-semua-penerbangan-ditutup",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Cara Minum Obat Penunda Haid yang Aman Saat Umroh atau Haji",
-      "link_berita": "https://ameera.republika.co.id/berita/sw10s4425/cara-minum-obat-penunda-haid-yang-aman-saat-umroh-atau-haji",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Kapolres Indramayu Beri Bantuan Kaki Palsu kepada Penyandang Disabilitas",
-      "link_berita": "https://rejabar.republika.co.id/berita/sw109h472/kapolres-indramayu-beri-bantuan-kaki-palsu-kepada-penyandang-disabilitas",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Indonesia Emas dengan Pendidikan, Mendidasmen: Wajib Belajar 13 Tahun",
-      "link_berita": "https://news.republika.co.id/berita/sw05q8451/indonesia-emas-dengan-pendidikan-mendidasmen-wajib-belajar-13-tahun",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 09:20:15"
-    },
-    {
-      "judul": "Studi: Banyak Perempuan Berisiko Kanker Akibat Gunakan Skincare",
-      "link_berita": "https://ameera.republika.co.id/berita/sw1gig483/studi-banyak-perempuan-berisiko-kanker-akibat-gunakan-skincare",
-      "kategori": "Health",
-      "tanggal_terbit": "Saturday, 10 May 2025, 16:18:00"
+      "judul": "Kena Sanksi di Threads? Tenang, Sekarang Ada 'Buku Raport' Akunmu",
+      "link_berita": "https://ameera.republika.co.id/berita/sw1h8z425/kena-sanksi-di-threads-tenang-sekarang-ada-buku-raport-akunmu",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Saturday, 10 May 2025, 16:34:00"
     },
     {
       "judul": "Studi: Punya Potensi Besar, Energi Terbarukan di Indonesia Layak Dikembangkan",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Saturday, 10 May 2025, 15:10:00"
     },
     {
-      "judul": "Bahlil Sebut Aktivitas Ekspor Batubara Indonesia ke India Masih Aman",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sw1ga8451/bahlil-sebut-aktivitas-ekspor-batubara-indonesia-ke-india-masih-aman",
-      "kategori": "Energi",
-      "tanggal_terbit": "Saturday, 10 May 2025, 16:13:00"
+      "judul": "Kunjungan Kerja ke IPB, Komisi IV DPR Jaring Masukan Revisi UU Pangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw1jb6472/kunjungan-kerja-ke-ipb-komisi-iv-dpr-jaring-masukan-revisi-uu-pangan",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Saturday, 10 May 2025, 17:18:00"
     },
     {
-      "judul": "Masuk Usia 33 Tahun, Bank Muamalat Ingin Jadi Bank Haji dan Wakaf Nasional",
-      "link_berita": "https://sharia.republika.co.id/berita/sw02ah490/masuk-usia-33-tahun-bank-muamalat-ingin-jadi-bank-haji-dan-wakaf-nasional",
+      "judul": "Bank Mega Syariah Bukukan Pendapatan Rp 320 Miliar",
+      "link_berita": "https://sharia.republika.co.id/berita/sw1i3l370/bank-mega-syariah-bukukan-pendapatan-rp-320-miliar",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 09 May 2025, 22:13:00"
+      "tanggal_terbit": "Saturday, 10 May 2025, 16:52:00"
     },
     {
-      "judul": "Tenun Garut Banyak Diborong, Sekjen MPR: Ada Inovasi Motif",
-      "link_berita": "https://news.republika.co.id/berita/sw1gig451/tenun-garut-banyak-diborong-sekjen-mpr-ada-inovasi-motif",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Saturday, 10 May 2025, 16:18:00"
+      "judul": "Pakistan Pertimbangkan Opsi Damai Jika India Hentikan Serangan",
+      "link_berita": "https://news.republika.co.id/berita/sw1izg370/pakistan-pertimbangkan-opsi-damai-jika-india-hentikan-serangan",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Saturday, 10 May 2025, 17:11:00"
     }
   ],
-  "waktu_scraping": "Saturday, 10 May 2025, 16:20:15"
+  "waktu_scraping": "Saturday, 10 May 2025, 17:21:55"
 }
