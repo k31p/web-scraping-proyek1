@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "17 Ribu Jamaah Haji RI Sudah Tiba di Makkah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw7h9y328/17-ribu-jamaah-haji-ri-sudah-tiba-di-makkah"
+    },
+    {
       "judul": "Isak Tangis Kerabat Warnai Pemakaman Prajurit TNI Korban Ledakan Amunisi di Garut",
       "link_berita": "https://visual.republika.co.id/berita/sw7av1375/isak-tangis-kerabat-warnai-pemakaman-prajurit-tni-korban-ledakan-amunisi-di-garut"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "KPK Sedang Fokus Pembuktian Kasus Sekjen PDIP Hasto Kristiyanto",
       "link_berita": "https://news.republika.co.id/berita/sw7523484/kpk-sedang-fokus-pembuktian-kasus-sekjen-pdip-hasto-kristiyanto"
-    },
-    {
-      "judul": "Kantor Dijaga TNI, Kejagung Jamin Independensi Penegakan Hukum",
-      "link_berita": "https://news.republika.co.id/berita/sw72ar484/kantor-dijaga-tni-kejagung-jamin-independensi-penegakan-hukum"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "AHY : Mafia Tanah Harus Dibersihkan",
+      "link_berita": "https://rejogja.republika.co.id/berita/sw7gru282/ahy-mafia-tanah-harus-dibersihkan"
+    },
+    {
+      "judul": "Tindak Lanjuti Janji Dedi Mulyadi, Bupati Garut Lakukan Pendataan Keluarga Korban Ledakan Amunisi",
+      "link_berita": "https://rejabar.republika.co.id/berita/sw7fm6512/tindak-lanjuti-janji-dedi-mulyadi-bupati-garut-lakukan-pendataan-keluarga-korban-ledakan-amunisi"
+    },
     {
       "judul": "Cegah Kebakaran Lahan Sawit Saat Kemarau, Ini Langkah Gapki",
       "link_berita": "https://esgnow.republika.co.id/berita/sw7ch2416/cegah-kebakaran-lahan-sawit-saat-kemarau-ini-langkah-gapki"
@@ -73,316 +81,308 @@
     {
       "judul": "10 Hari Operasi, 504 Orang Pelaku Premanisme di Jabar Ditangkap",
       "link_berita": "https://news.republika.co.id/berita/sw6fhc487/10-hari-operasi-504-orang-pelaku-premanisme-di-jabar-ditangkap"
-    },
-    {
-      "judul": "Kemenperin Pastikan PHK Panasonic Holdings tak Terjadi di RI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sw6e9w370/kemenperin-pastikan-phk-panasonic-holdings-tak-terjadi-di-ri"
-    },
-    {
-      "judul": "Madrid Belum Ajukan Tawaran ke Liverpool untuk Kontrak Trent Alexander-Arnold Lebih Cepat",
-      "link_berita": "https://news.republika.co.id/berita/sw6d82348/madrid-belum-ajukan-tawaran-ke-liverpool-untuk-kontrak-trent-alexanderarnold-lebih-cepat"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kisah tentang Pasukan Gajah dalam Alquran",
+      "link_berita": "https://iqra.republika.co.id/berita/sw7hf6430/kisah-tentang-pasukan-gajah-dalam-alquran",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:23:30"
+    },
+    {
+      "judul": "17 Ribu Jamaah Haji RI Sudah Tiba di Makkah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw7h9y328/17-ribu-jamaah-haji-ri-sudah-tiba-di-makkah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:20:25"
+    },
+    {
+      "judul": "Makna Arbain di Madinah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw7h4a430/makna-arbain-di-madinah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:17:25"
+    },
+    {
+      "judul": "LBH PP Muhammadiyah Dukung Kejagung Usut Dugaan Suap dalam Kasus Pagar Laut",
+      "link_berita": "https://khazanah.republika.co.id/berita/sw7gzk430/lbh-pp-muhammadiyah-dukung-kejagung-usut-dugaan-suap-dalam-kasus-pagar-laut",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:14:25"
+    },
+    {
+      "judul": "AHY : Mafia Tanah Harus Dibersihkan",
+      "link_berita": "https://rejogja.republika.co.id/berita/sw7gru282/ahy-mafia-tanah-harus-dibersihkan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:09:25"
+    },
+    {
+      "judul": "Banjir dan Kekeringan Hantui Sudan Selatan Sepanjang Tahun",
+      "link_berita": "https://esgnow.republika.co.id/berita/sw7gps416/banjir-dan-kekeringan-hantui-sudan-selatan-sepanjang-tahun",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:08:25"
+    },
+    {
+      "judul": "1.416 Calon Jamaah Haji Kudus Masuk Asrama Haji Donohudan",
+      "link_berita": "https://visual.republika.co.id/berita/sw7ay4375/1416-calon-jamaah-haji-kudus-masuk-asrama-haji-donohudan",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 15:00:25"
+    },
+    {
+      "judul": "Pemkab Penajam Susun Raperda Cegah Alih Fungsi Lahan Pertanian",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw7g45416/pemkab-penajam-susun-raperda-cegah-alih-fungsi-lahan-pertanian",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:55:25"
+    },
+    {
+      "judul": "Komnas PA Cirebon Sebut Korban Pelecehan Seksual Perawat di Cirebon Trauma Psikis Berat",
+      "link_berita": "https://rejabar.republika.co.id/berita/sw7fwn512/komnas-pa-cirebon-sebut-korban-pelecehan-seksual-perawat-di-cirebon-trauma-psikis-berat",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:50:25"
+    },
+    {
+      "judul": "Tindak Lanjuti Janji Dedi Mulyadi, Bupati Garut Lakukan Pendataan Keluarga Korban Ledakan Amunisi",
+      "link_berita": "https://rejabar.republika.co.id/berita/sw7fm6512/tindak-lanjuti-janji-dedi-mulyadi-bupati-garut-lakukan-pendataan-keluarga-korban-ledakan-amunisi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:44:25"
+    },
+    {
+      "judul": "BWI Bakal Miliki Direksi Baru, Optimistis Sumbang Pendapatan Daerah ke Indramayu",
+      "link_berita": "https://rejabar.republika.co.id/berita/sw7euy512/bwi-bakal-miliki-direksi-baru-optimistis-sumbang-pendapatan-daerah-ke-indramayu",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:28:25"
+    },
+    {
       "judul": "Sebuah Benda Menyerupai Mortir Ditemukan Petugas Penggali di Bekasi",
       "link_berita": "https://rejabar.republika.co.id/berita/sw7edq512/sebuah-benda-menyerupai-mortir-ditemukan-petugas-penggali-di-bekasi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 14:17:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:24:25"
     },
     {
       "judul": "Kena OTT Buang Sampah di Cimahi, 10 Pelaku Bakal Diseret ke Meja Hijau",
       "link_berita": "https://rejabar.republika.co.id/berita/sw7dto512/kena-ott-buang-sampah-di-cimahi-10-pelaku-bakal-diseret-ke-meja-hijau",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 14:05:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:24:25"
     },
     {
       "judul": "Isak Tangis Kerabat Warnai Pemakaman Prajurit TNI Korban Ledakan Amunisi di Garut",
       "link_berita": "https://visual.republika.co.id/berita/sw7av1375/isak-tangis-kerabat-warnai-pemakaman-prajurit-tni-korban-ledakan-amunisi-di-garut",
       "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:59:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 14:24:25"
     },
     {
       "judul": "Investasi Rp 1,52 Triliun, PT Biomasa Ekspor 10 Ribu Kayu Pallet ke Jepang dan Korsel",
       "link_berita": "https://news.republika.co.id/berita/sw7cu9451/investasi-rp-152-triliun-pt-biomasa-ekspor-10-ribu-kayu-pallet-ke-jepang-dan-korsel",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:44:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Ahli Herbal Imbau Masyarakat Waspadai Produk Palsu",
       "link_berita": "https://ameera.republika.co.id/berita/sw6dti451/ahli-herbal-imbau-masyarakat-waspadai-produk-palsu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:41:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Cegah Kebakaran Lahan Sawit Saat Kemarau, Ini Langkah Gapki",
       "link_berita": "https://esgnow.republika.co.id/berita/sw7ch2416/cegah-kebakaran-lahan-sawit-saat-kemarau-ini-langkah-gapki",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:36:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Menko Zulhas Sebut Kapolri Ikut Berperan Wujudkan Swasembada Pangan",
       "link_berita": "https://news.republika.co.id/berita/sw7aja484/menko-zulhas-sebut-kapolri-ikut-berperan-wujudkan-swasembada-pangan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:29:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Menteri Pigai: Periode 2040\u20132045 Indonesia akan Memimpin Dunia",
       "link_berita": "https://news.republika.co.id/berita/sw7bom451/menteri-pigai-periode-20402045-indonesia-akan-memimpin-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Jamaah Haji Asal Makassar Wafat di Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/sw7bm9458/jamaah-haji-asal-makassar-wafat-di-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Paus Leo XIV Ajak Media Berperan untuk Perdamaian",
       "link_berita": "https://news.republika.co.id/berita/sw7aw4458/paus-leo-xiv-ajak-media-berperan-untuk-perdamaian",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Bio Farma Bukukan Laba Rp 380 Miliar",
       "link_berita": "https://ekonomi.republika.co.id/berita/sw7aox370/bio-farma-bukukan-laba-rp-380-miliar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
       "judul": "Banyak Jamaah Haji Pecah Kloter karena Aturan Syarikah dari Saudi, Ini Penjelasan Kemenag",
       "link_berita": "https://khazanah.republika.co.id/berita/sw7alk483/banyak-jamaah-haji-pecah-kloter-karena-aturan-syarikah-dari-saudi-ini-penjelasan-kemenag",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 13:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 13:24:25"
     },
     {
-      "judul": "Banjir Rendam Permukiman Warga di Samarinda, Warga Bertahan di Atap Rumah",
-      "link_berita": "https://visual.republika.co.id/berita/sw7aet375/banjir-rendam-permukiman-warga-di-samarinda-warga-bertahan-di-atap-rumah",
+      "judul": "Banjir Rendam Permukiman di Samarinda, Warga Bertahan di Atap Rumah",
+      "link_berita": "https://visual.republika.co.id/berita/sw7aet375/banjir-rendam-permukiman-di-samarinda-warga-bertahan-di-atap-rumah",
       "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Mendikdasmen: Guru Non-BK akan Dilatih agar Punya Kemampuan Bimbingan-Konseling",
       "link_berita": "https://news.republika.co.id/berita/sw7ab5458/mendikdasmen-guru-nonbk-akan-dilatih-agar-punya-kemampuan-bimbingankonseling",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Aplikasi Kripto Pintu Komitmen Dorong Ekosistem Kripto yang Aman",
       "link_berita": "https://ekonomi.republika.co.id/berita/sw7ab0370/aplikasi-kripto-pintu-komitmen-dorong-ekosistem-kripto-yang-aman",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Enam Dampak Perubahan Iklim yang Bikin Hidup Semakin Sulit",
       "link_berita": "https://esgnow.republika.co.id/berita/sw79mk416/enam-dampak-perubahan-iklim-yang-bikin-hidup-semakin-sulit",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Status Geopark Toba akan Dicabut, Anggota DPR: Unesco Kasih Kartu Kuning, Nanti pada Nyesal",
       "link_berita": "https://news.republika.co.id/berita/sw79cx451/status-geopark-toba-akan-dicabut-anggota-dpr-unesco-kasih-kartu-kuning-nanti-pada-nyesal",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Jokowi Datangi Kediaman Ir Kasmudjo, Dosen Pembimbing Skripsi di UGM",
       "link_berita": "https://news.republika.co.id/berita/sw791l484/jokowi-datangi-kediaman-ir-kasmudjo-dosen-pembimbing-skripsi-di-ugm",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Polisi Tangkap 24 Preman di Jakarta Utara",
       "link_berita": "https://news.republika.co.id/berita/sw78ar484/polisi-tangkap-24-preman-di-jakarta-utara",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Gerak Cepat Menteri Bahlil dan Visi Prabowo Wujudkan Kedaulatan Energi",
       "link_berita": "https://news.republika.co.id/berita/sw6aqa451/gerak-cepat-menteri-bahlil-dan-visi-prabowo-wujudkan-kedaulatan-energi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 12:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 12:24:25"
     },
     {
       "judul": "Berkah Musim Kemarau, Penjual Kelapa Muda Raup Omzet Jutaan Rupiah Setiap Hari",
       "link_berita": "https://news.republika.co.id/berita/sw77kp451/berkah-musim-kemarau-penjual-kelapa-muda-raup-omzet-jutaan-rupiah-setiap-hari",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "Apple Dilaporkan akan Naikkan Harga iPhone Terbaru Tahun Ini",
       "link_berita": "https://ameera.republika.co.id/berita/sw76wv370/apple-dilaporkan-akan-naikkanharga-iphone-terbaru-tahun-ini",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "Mengenang dan Mencukupkan Nakbah 77",
       "link_berita": "https://analisis.republika.co.id/berita/sw76j5393/mengenang-dan-mencukupkan-nakbah-77",
       "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "Tips Memilih Hewan Kurban",
       "link_berita": "https://khazanah.republika.co.id/berita/sw75u5458/tips-memilih-hewan-kurban",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "Kenang Eddie Nalapraya, Pemprov DKI Jadikan Pencak Silat Ekstrakurikuler di Sekolah",
       "link_berita": "https://news.republika.co.id/berita/sw75sa484/kenang-eddie-nalapraya-pemprov-dki-jadikan-pencak-silat-ekstrakurikuler-di-sekolah",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "Pahala Melaksanakan Kurban",
       "link_berita": "https://khazanah.republika.co.id/berita/sw7524458/pahala-melaksanakan-kurban",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "KPK Sedang Fokus Pembuktian Kasus Sekjen PDIP Hasto Kristiyanto",
       "link_berita": "https://news.republika.co.id/berita/sw7523484/kpk-sedang-fokus-pembuktian-kasus-sekjen-pdip-hasto-kristiyanto",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 11:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 11:24:25"
     },
     {
       "judul": "Bolehkah Kurban Satu Kambing untuk Sekeluarga?",
       "link_berita": "https://khazanah.republika.co.id/berita/sw74up458/bolehkah-kurban-satu-kambing-untuk-sekeluarga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Kurban dan Korban",
       "link_berita": "https://khazanah.republika.co.id/berita/sw74bc458/kurban-dan-korban",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Bagaimana Hukum Kurban Melalui Aplikasi Digital?",
       "link_berita": "https://khazanah.republika.co.id/berita/sw744x458/bagaimana-hukum-kurban-melalui-aplikasi-digital",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Detik-Detik Jet Tempur Israel Mengebom Jurnalis Gaza yang Terkulai di Rumah Sakit",
       "link_berita": "https://khazanah.republika.co.id/berita/sw73y3483/detikdetik-jet-tempur-israel-mengebom-jurnalis-gaza-yang-terkulai-di-rumah-sakit",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
-      "judul": "Mentan Amran, \u201cSentuhan Ajaib\u201d Presiden Prabowo Hentikan Impor Beras",
+      "judul": "Mentan Amran, 'Sentuhan Ajaib' Presiden Prabowo Hentikan Impor Beras",
       "link_berita": "https://ekonomi.republika.co.id/berita/sw73ml472/mentan-amran-sentuhan-ajaib-presiden-prabowo-hentikan-impor-beras",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Presiden Prabowo Nilai Almarhum Eddie Marzuki Nalapraya Patriot Sejati",
       "link_berita": "https://news.republika.co.id/berita/sw7395484/presiden-prabowo-nilai-almarhum-eddie-marzuki-nalapraya-patriot-sejati",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Holding Ultra Mikro Salurkan Kredit ke 35,4 Juta Pelaku Usaha pada Kuartal I 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/sw72us370/holding-ultra-mikro-salurkan-kredit-ke-354-juta-pelaku-usaha-pada-kuartal-i-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Sebanyak 15 Ribu Pendukung Dua Tim Argentina akan Dilarang Nonton Laga Piala Dunia Antarklub",
       "link_berita": "https://news.republika.co.id/berita/sw72th348/sebanyak-15-ribu-pendukung-dua-tim-argentina-akan-dilarang-nonton-laga-piala-dunia-antarklub",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Band Seringai Umumkan Hiatus Usai Kepergian Ricky Siahaan",
       "link_berita": "https://ameera.republika.co.id/berita/sw72h5416/band-seringai-umumkan-hiatus-usai-kepergian-ricky-siahaan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Indah Afriza Peringkat Keempat Kelas 71 Kg Putri Kejuaraan Asia Angkat Besi 2025",
       "link_berita": "https://news.republika.co.id/berita/sw72g6348/indah-afriza-peringkat-keempat-kelas-71-kg-putri-kejuaraan-asia-angkat-besi-2025",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Kantor Dijaga TNI, Kejagung Jamin Independensi Penegakan Hukum",
       "link_berita": "https://news.republika.co.id/berita/sw72ar484/kantor-dijaga-tni-kejagung-jamin-independensi-penegakan-hukum",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Sebut Warga Sholat Rajin Tawurannya Sering, Gubernur Pramono Gagas Manggarai Bershalawat",
       "link_berita": "https://khazanah.republika.co.id/berita/sw7299483/sebut-warga-sholat-rajin-tawurannya-sering-gubernur-pramono-gagas-manggarai-bershalawat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 10:22:56"
-    },
-    {
-      "judul": "Pelajar Berusia 21 Tahun Jadi Calhaj Termuda dari Bali",
-      "link_berita": "https://khazanah.republika.co.id/berita/sw71o3483/pelajar-berusia-21-tahun-jadi-calhaj-termuda-dari-bali",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Industri Mainan Lokal Terimbas Produk Impor",
-      "link_berita": "https://visual.republika.co.id/berita/sw71bq375/industri-mainan-lokal-terimbas-produk-impor",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Mahasiswa UNM Tunjukkan Kepiawaian Public Speaking di Berbagai Forum Resmi",
-      "link_berita": "https://news.republika.co.id/berita/sw71bf472/mahasiswa-unm-tunjukkan-kepiawaian-public-speaking-di-berbagai-forum-resmi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Sinergi Kunyit dan Urin Kelinci: Rahasia Pupuk Alami untuk Pertanian Organik",
-      "link_berita": "https://fifarm.id/posts/525004/sinergi-kunyit-dan-urin-kelinci-rahasia-pupuk-alami-untuk-pertanian-organik",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "UNM Perkuat Jejaring Industri di Ajang ONE HUB 2025, Dorong Lulusan Langsung Siap Kerja",
-      "link_berita": "https://news.republika.co.id/berita/sw717j368/unm-perkuat-jejaring-industri-di-ajang-one-hub-2025-dorong-lulusan-langsung-siap-kerja",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "\"Pemimpin Itu Harus Diikuti\"",
-      "link_berita": "https://sajada.id/posts/525079/-pemimpin-itu-harus-diikuti-",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Saham Produsen Jet Tempur Rafale Anjlok, di Sisi Lain J-10 Meroket",
-      "link_berita": "https://seputarmiliter.id/posts/525084/saham-produsen-jet-tempur-rafale-anjlok-di-sisi-lain-j-10-meroket",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Lima Wilayah di Bengkulu Siap Jalankan Program Sekolah Rakyat",
-      "link_berita": "https://news.republika.co.id/berita/sw714b416/lima-wilayah-di-bengkulu-siap-jalankan-program-sekolah-rakyat",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Mantan Wagub Eddie Nalapraya Meninggal Dunia, Pramono: Almarhum Berjasa untuk Kebudayaan Betawi",
-      "link_berita": "https://news.republika.co.id/berita/sw711a487/mantan-wagub-eddie-nalapraya-meninggal-dunia-pramono-almarhum-berjasa-untuk-kebudayaan-betawi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Di Tengah Badai PHK Karier Jurusan Keperawatan Tetap Stabil dan Aman dari PHK",
-      "link_berita": "https://news.republika.co.id/berita/sw70y4368/di-tengah-badai-phk-karier-jurusan-keperawatan-tetap-stabil-dan-aman-dari-phk",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
-    },
-    {
-      "judul": "Perwira Pertamina Selamatkan Tiga Nelayan Hanyut di Perairan Kepulauan Seribu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sw70qn472/perwira-pertamina-selamatkan-tiga-nelayan-hanyut-di-perairan-kepulauan-seribu",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 09:22:56"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 10:24:25"
     },
     {
       "judul": "Apple Dilaporkan akan Naikkan Harga iPhone Terbaru Tahun Ini",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Tuesday, 13 May 2025, 18:36:00"
     },
     {
-      "judul": "Cegah Kebakaran Lahan Sawit Saat Kemarau, Ini Langkah Gapki",
-      "link_berita": "https://esgnow.republika.co.id/berita/sw7ch2416/cegah-kebakaran-lahan-sawit-saat-kemarau-ini-langkah-gapki",
+      "judul": "Banjir dan Kekeringan Hantui Sudan Selatan Sepanjang Tahun",
+      "link_berita": "https://esgnow.republika.co.id/berita/sw7gps416/banjir-dan-kekeringan-hantui-sudan-selatan-sepanjang-tahun",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 20:36:00"
+      "tanggal_terbit": "Tuesday, 13 May 2025, 22:08:00"
     },
     {
-      "judul": "Bio Farma Bukukan Laba Rp 380 Miliar",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sw7aox370/bio-farma-bukukan-laba-rp-380-miliar",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Tuesday, 13 May 2025, 19:58:00"
+      "judul": "Pemkab Penajam Susun Raperda Cegah Alih Fungsi Lahan Pertanian",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sw7g45416/pemkab-penajam-susun-raperda-cegah-alih-fungsi-lahan-pertanian",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Tuesday, 13 May 2025, 21:55:00"
     },
     {
       "judul": "BSI dan GP Ansor Kerja Sama Layanan Haji dan Umrah",
@@ -415,5 +415,5 @@
       "tanggal_terbit": "Tuesday, 13 May 2025, 20:44:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 13 May 2025, 21:22:56"
+  "waktu_scraping": "Tuesday, 13 May 2025, 22:24:25"
 }
