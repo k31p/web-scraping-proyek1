@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Indonesia-Prancis Tandatangani 27 MoU Senilai 11 Miliar Dolar AS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sx0c65370/indonesiaprancis-tandatangani-27-mou-senilai-11-miliar-dolar-as"
+    },
+    {
       "judul": "Jadi 'Catatan' Amerika, QRIS Justru Semakin Menggila",
       "link_berita": "https://news.republika.co.id/berita/sx08hu451/jadi-catatan-amerika-qris-justru-semakin-menggila"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Sembilan Maklumat untuk Jamaah Haji RI Jelang Armuzna, Nomor 1 Terkait Cuaca Ekstrem 50 Derajat",
       "link_berita": "https://khazanah.republika.co.id/berita/sx0191430/sembilan-maklumat-untuk-jamaah-haji-ri-jelang-armuzna-nomor-1-terkait-cuaca-ekstrem-50-derajat"
-    },
-    {
-      "judul": "Hamas Dilaporkan Setujui Draf Gencatan Senjata AS",
-      "link_berita": "https://news.republika.co.id/berita/swzzqs393/hamas-dilaporkan-setujui-draf-gencatan-senjata-as"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "19 Tahun Berlalu, Begini Penampakan Pusat Semburan Lumpur Lapindo Terkini",
+      "link_berita": "https://visual.republika.co.id/berita/sx0dmd375/19-tahun-berlalu-begini-penampakan-pusat-semburan-lumpur-lapindo-terkini"
+    },
+    {
+      "judul": "Ini 7 Tanda Tubuh Kebanyakan Gula, Salah Satunya Cepat Marah",
+      "link_berita": "https://ameera.republika.co.id/berita/sx0cuc425/ini-7-tanda-tubuh-kebanyakan-gula-salah-satunya-cepat-marah"
+    },
+    {
+      "judul": "Deretan Artis yang akan Menunaikan Ibadah Haji Tahun Ini",
+      "link_berita": "https://ameera.republika.co.id/berita/sx0aj0425/deretan-artis-yang-akan-menunaikan-ibadah-haji-tahun-ini"
+    },
     {
       "judul": "PBB: Israel Hambat Pengiriman Bantuan ke Gaza",
       "link_berita": "https://news.republika.co.id/berita/sx06jn348/pbb-israel-hambat-pengiriman-bantuan-ke-gaza"
@@ -69,326 +81,314 @@
     {
       "judul": "Hakim PN Bandung Putuskan Ridwan Kamil dan Lisa Mariana Tempuh Mediasi",
       "link_berita": "https://news.republika.co.id/berita/swynak409/hakim-pn-bandung-putuskan-ridwan-kamil-dan-lisa-mariana-tempuh-mediasi"
-    },
-    {
-      "judul": "Mees Hilgers Sudah Tiba di Bali untuk Ikuti Pemusatan Latihan Timnas Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/swyl44409/mees-hilgers-sudah-tiba-di-bali-untuk-ikuti-pemusatan-latihan-timnas-indonesia"
-    },
-    {
-      "judul": "Lebih dari 1,1 Juta Jamaah Haji Mendarat di Arab Saudi",
-      "link_berita": "https://khazanah.republika.co.id/berita/swyiar430/lebih-dari-11-juta-jamaah-haji-mendarat-di-arab-saudi"
-    },
-    {
-      "judul": "Mengapa TNI AU Kini Berencana Beli Jet Tempur J-10C Buatan China?",
-      "link_berita": "https://news.republika.co.id/berita/swyhc4409/mengapa-tni-au-kini-berencana-beli-jet-tempur-j10c-buatan-china"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Eks Ajudan Jokowi Jabat Pangdam Jaya, Posisi Pangkohahudnas Dihidupkan Lagi",
+      "link_berita": "https://news.republika.co.id/berita/sx0ff9484/eks-ajudan-jokowi-jabat-pangdam-jaya-posisi-pangkohahudnas-dihidupkan-lagi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:30:38"
+    },
+    {
+      "judul": "Magang di Luar Negeri, 5 Mahasiswa UBSI Belajar Langsung Budaya Kerja Global di Filipina",
+      "link_berita": "https://news.republika.co.id/berita/sx0evo368/magang-di-luar-negeri-5-mahasiswa-ubsi-belajar-langsung-budaya-kerja-global-di-filipina",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:27:38"
+    },
+    {
+      "judul": "Chirstiano Jadi Tersangka Usai Tabrak Argo, Apakah Ada Sanksi dari UGM?",
+      "link_berita": "https://rejogja.republika.co.id/berita/sx0f6g282/chirstiano-jadi-tersangka-usai-tabrak-argo-apakah-ada-sanksi-dari-ugm",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:25:38"
+    },
+    {
+      "judul": "Warga Rela Patungan Bantu TKW yang Sakit Parah di Taiwan",
+      "link_berita": "https://rejabar.republika.co.id/berita/sx0f3a512/warga-rela-patungan-bantu-tkw-yang-sakit-parah-di-taiwan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:23:38"
+    },
+    {
+      "judul": "Kuliah Gratis di Cyber University Lewat Beasiswa SNBT, Daftar Sekarang!",
+      "link_berita": "https://news.republika.co.id/berita/sx0epr368/kuliah-gratis-di-cyber-university-lewat-beasiswa-snbt-daftar-sekarang",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:15:38"
+    },
+    {
+      "judul": "China Siap Pasarkan Durian Beku Indonesia, Batantin: Rumah Kemas Harus Sesuai Standar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sx0epm451/china-siap-pasarkan-durian-beku-indonesia-batantin-rumah-kemas-harus-sesuai-standar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:15:38"
+    },
+    {
+      "judul": "Wapres Gibran Tanam Pohon Ulin di IKN, Basuki: Kualitas Harus Tetap Dijaga",
+      "link_berita": "https://news.republika.co.id/berita/sx0efs451/wapres-gibran-tanam-pohon-ulin-di-ikn-basuki-kualitas-harus-tetap-dijaga",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:09:38"
+    },
+    {
+      "judul": "Nasib Pilu TKW Asal Indramayu Sakit Parah di Taiwan, Keluarga Minta Tolong Prabowo, KDM, Lucky Hakim",
+      "link_berita": "https://rejabar.republika.co.id/berita/sx0efa512/nasib-pilu-tkw-asal-indramayu-sakit-parah-di-taiwan-keluarga-minta-tolong-prabowo-kdm-lucky-hakim",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:09:38"
+    },
+    {
+      "judul": "Buat Para Guru, Seleksi Administrasi PPG Dibuka, Kemendikdasmen: 800 Ribu Antre Sertifikasi",
+      "link_berita": "https://news.republika.co.id/berita/sx0e92451/buat-para-guru-seleksi-administrasi-ppg-dibuka-kemendikdasmen-800-ribu-antre-sertifikasi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:05:38"
+    },
+    {
+      "judul": "Human Initiative Sebar Qurban Hingga Pelosok, Menebar Senyum di Idul Adha",
+      "link_berita": "https://khazanah.republika.co.id/berita/sx0e3z366/human-initiative-sebar-qurban-hingga-pelosok-menebar-senyum-di-idul-adha",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 29 May 2025, 06:02:38"
+    },
+    {
+      "judul": "Anak Lombok Tengah Ngeyel Nikah, Menteri PPPA: Rusak Pembangunan Nasional",
+      "link_berita": "https://news.republika.co.id/berita/sx0duw451/anak-lombok-tengah-ngeyel-nikah-menteri-pppa-rusak-pembangunan-nasional",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:56:38"
+    },
+    {
+      "judul": "19 Tahun Berlalu, Begini Penampakan Pusat Semburan Lumpur Lapindo Terkini",
+      "link_berita": "https://visual.republika.co.id/berita/sx0dmd375/19-tahun-berlalu-begini-penampakan-pusat-semburan-lumpur-lapindo-terkini",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:51:38"
+    },
+    {
+      "judul": "Keutamaan Haji Mabrur, Imam al Ghazali: Lebih Baik dari Dunia, Balasannya Langsung Surga",
+      "link_berita": "https://khazanah.republika.co.id/berita/sx0daj451/keutamaan-haji-mabrur-imam-al-ghazali-lebih-baik-dari-dunia-balasannya-langsung-surga",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:44:38"
+    },
+    {
+      "judul": "Ini 7 Tanda Tubuh Kebanyakan Gula, Salah Satunya Cepat Marah",
+      "link_berita": "https://ameera.republika.co.id/berita/sx0cuc425/ini-7-tanda-tubuh-kebanyakan-gula-salah-satunya-cepat-marah",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:34:38"
+    },
+    {
+      "judul": "Pakar Pendidikan Tekankan Pentingnya Pendekatan Kolaboratif dan Humanis dalam Pemanfaatan AI",
+      "link_berita": "https://news.republika.co.id/berita/sx0ci6456/pakar-pendidikan-tekankan-pentingnya-pendekatan-kolaboratif-dan-humanis-dalam-pemanfaatan-ai",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:33:38"
+    },
+    {
+      "judul": "Lahirkan Lulusan Kompeten, Universitas Teknologi Bandung Gelar Wisuda XXIII",
+      "link_berita": "https://news.republika.co.id/berita/sx0cch456/lahirkan-lulusan-kompeten-universitas-teknologi-bandung-gelar-wisuda-xxiii",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:32:38"
+    },
+    {
+      "judul": "Alvaro Arbeloa Gantikan Raul Gonzalez Tangani Real Madrid Castilla",
+      "link_berita": "https://news.republika.co.id/berita/sx0cas348/alvaro-arbeloa-gantikan-raul-gonzalez-tangani-real-madrid-castilla",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:32:38"
+    },
+    {
       "judul": "Indonesia-Prancis Tandatangani 27 MoU Senilai 11 Miliar Dolar AS",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx0c65370/indonesiaprancis-tandatangani-27-mou-senilai-11-miliar-dolar-as",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 05:20:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:32:38"
     },
     {
       "judul": "Kerja 130 Hari, Elon Musk Beri Sinyal Keluar dari Kabinet Trump",
       "link_berita": "https://news.republika.co.id/berita/sx0blb475/kerja-130-hari-elon-musk-beri-sinyal-keluar-dari-kabinet-trump",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 05:07:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:32:38"
     },
     {
       "judul": "Edarkan Obat Keras Tanpa Izin, Seorang Ibu Rumah Tangga Ditangkap di Cirebon",
       "link_berita": "https://rejabar.republika.co.id/berita/sx0bjk451/edarkan-obat-keras-tanpa-izin-seorang-ibu-rumah-tangga-ditangkap-di-cirebon",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 29 May 2025, 05:06:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:32:38"
     },
     {
       "judul": "Bukan Menteri Penyembuh Penyakit, Menkes: Tugas Utama Kami Jaga Kesehatan Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/sx0bf9451/bukan-menteri-penyembuh-penyakit-menkes-tugas-utama-kami-jaga-kesehatan-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 05:04:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 05:32:38"
     },
     {
       "judul": "Libur Panjang, KAI: Stasiun Cirebon Jadi Titik Terpadat di Daop 3",
       "link_berita": "https://rejabar.republika.co.id/berita/sx0b7g451/libur-panjang-kai-stasiun-cirebon-jadi-titik-terpadat-di-daop-3",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:59:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 04:32:38"
     },
     {
       "judul": "Israel Tuding PBB Gagal Salurkan Bantuan, Ini Respons Juru Bicara",
       "link_berita": "https://news.republika.co.id/berita/sx0b1i370/israel-tuding-pbb-gagal-salurkan-bantuan-ini-respons-juru-bicara",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:55:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 04:32:38"
     },
     {
       "judul": "Deretan Artis yang akan Menunaikan Ibadah Haji Tahun Ini",
       "link_berita": "https://ameera.republika.co.id/berita/sx0aj0425/deretan-artis-yang-akan-menunaikan-ibadah-haji-tahun-ini",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:44:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 04:32:38"
     },
     {
       "judul": "IIF Kurangi 5 Juta Ton Emisi Lewat Proyek Hijau",
       "link_berita": "https://esgnow.republika.co.id/berita/sx08zj416/iif-kurangi-5-juta-ton-emisi-lewat-proyek-hijau",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 04:32:38"
     },
     {
       "judul": "Gubernur Bali Ingatkan ASN Hindari Tindakan Tercela",
       "link_berita": "https://news.republika.co.id/berita/swzxrd451/gubernur-bali-ingatkan-asn-hindari-tindakan-tercela",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 04:32:38"
     },
     {
       "judul": "Jadi 'Catatan' Amerika, QRIS Justru Semakin Menggila",
       "link_berita": "https://news.republika.co.id/berita/sx08hu451/jadi-catatan-amerika-qris-justru-semakin-menggila",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "Belajar dari Singapura, Kota Juga Bisa Jadi Rumah untuk Alam",
       "link_berita": "https://esgnow.republika.co.id/berita/sx067d416/belajar-dari-singapura-kota-juga-bisa-jadi-rumah-untuk-alam",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 29 May 2025, 04:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "KNEKS Gandeng Perbankan Syariah dan PIP Demi Penguatan KDMP Syariah",
       "link_berita": "https://sharia.republika.co.id/berita/sx07xk368/kneks-gandeng-perbankan-syariah-dan-pip-demi-penguatan-kdmp-syariah",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "Kerja Sama Pariwisata dengan Prancis, Menpar: Promosi Budaya RI ke Dunia",
       "link_berita": "https://news.republika.co.id/berita/sx07xh451/kerja-sama-pariwisata-dengan-prancis-menpar-promosi-budaya-ri-ke-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "Wisatawan Nusantara Tumbuh 12,71 Persen, Pariwisata RI Semakin Bangkit",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx07sr370/wisatawan-nusantara-tumbuh-1271-persen-pariwisata-ri-semakin-bangkit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "Synchronize Fest 2025 Ngajak Joget Lintas Genre: Dari Dangdut, Rock, sampai Hiphop",
       "link_berita": "https://ameera.republika.co.id/berita/sx07p1425/synchronize-fest-2025-ngajak-joget-lintas-genre-dari-dangdut-rock-sampai-hiphop",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "AS Cabut Visa Mahasiswa China, Trump Desak Harvard Lebih Selektif",
       "link_berita": "https://news.republika.co.id/berita/sx07jv370/as-cabut-visa-mahasiswa-china-trump-desak-harvard-lebih-selektif",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "Survei Indikator Soal Kepuasan Gubernur: KDM Pertama, Pramono Nomor Lima",
       "link_berita": "https://news.republika.co.id/berita/sx07jq484/survei-indikator-soal-kepuasan-gubernur-kdm-pertama-pramono-nomor-lima",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "PBB: Israel Hambat Pengiriman Bantuan ke Gaza",
       "link_berita": "https://news.republika.co.id/berita/sx06jn348/pbb-israel-hambat-pengiriman-bantuan-ke-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 03:32:38"
     },
     {
       "judul": "Vanesa Prescilla Kembali Berakting! Akui Perannya Bikin \u2018Remuk\u2019 Hati",
       "link_berita": "https://ameera.republika.co.id/berita/sx05m2425/vanesa-prescilla-kembali-berakting-akui-perannya-bikin-remuk-hati",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "7 Alasan Tiket Pesawat Garuda Indonesia Selalu Jadi Pilihan Utama",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx05l6368/7-alasan-tiket-pesawat-garuda-indonesia-selalu-jadi-pilihan-utama",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "600 PNS Pensiun Tiap Tahun, BKPP Semarang: Ini Minus Pertumbuhan",
       "link_berita": "https://rejogja.republika.co.id/berita/swzxm7451/600-pns-pensiun-tiap-tahun-bkpp-semarang-ini-minus-pertumbuhan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Pesawat Israel Tembak Pesawat Pengangkut Jamaah Haji Yaman",
       "link_berita": "https://tv.republika.co.id/berita/sx05cx313/pesawat-israel-tembak-pesawat-pengangkut-jamaah-haji-yaman",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 29 May 2025, 03:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Tol IKN 3B-2 Terus Dikebut, Inovasi Ramah Lingkungan Jadi Unggulan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx05cj370/tol-ikn-3b2-terus-dikebut-inovasi-ramah-lingkungan-jadi-unggulan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Pak Harto dan Gus Dur Juga Siap Akui Israel, Syaratnya Lebih Berat",
       "link_berita": "https://news.republika.co.id/berita/sx056b393/pak-harto-dan-gus-dur-juga-siap-akui-israel-syaratnya-lebih-berat",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Lampu Hijau dari Presiden, Indonesia Siap Ekspor Beras ke Malaysia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx054h370/lampu-hijau-dari-presiden-indonesia-siap-ekspor-beras-ke-malaysia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Raffi Ahmad Ajak Pesantren Melek Digital dalam Acara Gerakan Nasional Ayo Mondok",
       "link_berita": "https://news.republika.co.id/berita/sx03so348/raffi-ahmad-ajak-pesantren-melek-digital-dalam-acara-gerakan-nasional-ayo-mondok",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Erick Lantik Dua Deputi Baru, Tegaskan Konsolidasi dan Transisi Menuju era Baru BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx04vn370/erick-lantik-dua-deputi-baru-tegaskan-konsolidasi-dan-transisi-menuju-era-baru-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "KAI Catat Lonjakan Penumpang: Yogyakarta, Solo, dan Malang Paling Diminati",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx04rw370/kai-catat-lonjakan-penumpang-yogyakarta-solo-dan-malang-paling-diminati",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Harga Emas Antam Terus Merosot, Kini Rp 1,874 Juta per Gram",
       "link_berita": "https://ekonomi.republika.co.id/berita/sx04ls370/harga-emas-antam-terus-merosot-kini-rp-1874-juta-per-gram",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Ruben Amorim Enggan Bicara Soal Kedatangan Matheus Cunha ke MU",
       "link_berita": "https://news.republika.co.id/berita/sx0410348/ruben-amorim-enggan-bicara-soal-kedatangan-matheus-cunha-ke-mu",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Waspada Sapi Gelonggongan Jelang Idul Adha, Ini Ciri-cirinya",
       "link_berita": "https://ameera.republika.co.id/berita/sx03zi425/waspada-sapi-gelonggongan-jelang-idul-adha-ini-ciricirinya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Tina Wiryawati Sebut Penetapan Jam Malam untuk Pelajar di Jabar Sudah Tepat",
       "link_berita": "https://rejabar.republika.co.id/berita/sx03e5368/tina-wiryawati-sebut-penetapan-jam-malam-untuk-pelajar-di-jabar-sudah-tepat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
       "judul": "Mungkinkah Israel Akui Palestina Seperti yang Disyaratkan Prabowo?",
       "link_berita": "https://news.republika.co.id/berita/sx03d5393/mungkinkah-israel-akui-palestina-seperti-yang-disyaratkan-prabowo",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
+      "tanggal_terbit": "Thursday, 29 May 2025, 02:32:38"
     },
     {
-      "judul": "Isco: Real Betis Dihukum karena Kendurkan Tekanan ke Chelsea",
-      "link_berita": "https://news.republika.co.id/berita/sx02n3348/isco-real-betis-dihukum-karena-kendurkan-tekanan-ke-chelsea",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
-    },
-    {
-      "judul": "AS Inspeksi Nuklir Iran, Begini Kata Anak Buah Khamenei",
-      "link_berita": "https://news.republika.co.id/berita/swzxcq451/as-inspeksi-nuklir-iran-begini-kata-anak-buah-khamenei",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 02:22:39"
-    },
-    {
-      "judul": "Indonesia Berpotensi Jadi Pasar Terbesar Otomotif di Asia Tenggara",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sx01dy348/indonesia-berpotensi-jadi-pasar-terbesar-otomotif-di-asia-tenggara",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 29 May 2025, 01:22:39"
-    },
-    {
-      "judul": "Sembilan Maklumat untuk Jamaah Haji RI Jelang Armuzna, Nomor 1 Terkait Cuaca Ekstrem 50 Derajat",
-      "link_berita": "https://khazanah.republika.co.id/berita/sx0191430/sembilan-maklumat-untuk-jamaah-haji-ri-jelang-armuzna-nomor-1-terkait-cuaca-ekstrem-50-derajat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 29 May 2025, 01:22:39"
-    },
-    {
-      "judul": "Kecelakaan Saat Uji Coba di Jepang, Luca Marini Dirawat di Rumah Sakit",
-      "link_berita": "https://news.republika.co.id/berita/swzzon348/kecelakaan-saat-uji-coba-di-jepang-luca-marini-dirawat-di-rumah-sakit",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 01:22:39"
-    },
-    {
-      "judul": "Perempuan Melek Digital dan Wirausaha, Wagub Banten: Harus Banyak Belajar",
-      "link_berita": "https://news.republika.co.id/berita/swzx5k451/perempuan-melek-digital-dan-wirausaha-wagub-banten-harus-banyak-belajar",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Hamas Dilaporkan Setujui Draf Gencatan Senjata AS",
-      "link_berita": "https://news.republika.co.id/berita/swzzqs393/hamas-dilaporkan-setujui-draf-gencatan-senjata-as",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Bryan Domani Turun Berat Badan pada Film Tak Ingin Usai di Sini",
-      "link_berita": "https://ameera.republika.co.id/berita/swzzg8348/bryan-domani-turun-berat-badan-pada-film-tak-ingin-usai-di-sini",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Ruben Amorim Nilai MU Harusnya Tampil Lebih Baik Lawan ASEAN All Stars",
-      "link_berita": "https://news.republika.co.id/berita/swzz3j348/ruben-amorim-nilai-mu-harusnya-tampil-lebih-baik-lawan-asean-all-stars",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Erick Thohir Optimistis Simon Tahamata Siapkan Jejaring Pemandu Pemain Lokal dan Diaspora Belanda",
-      "link_berita": "https://news.republika.co.id/berita/swzy3j348/erick-thohir-optimistis-simon-tahamata-siapkan-jejaring-pemandu-pemain-lokal-dan-diaspora-belanda",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Masuki Gelombang Kedua Haji, Indosat Region Jawa Tengah Layani Kebutuhan Komunikasi Ribuan Jamaah",
-      "link_berita": "https://rejogja.republika.co.id/berita/swzy95291/masuki-gelombang-kedua-haji-indosat-region-jawa-tengah-layani-kebutuhan-komunikasi-ribuan-jamaah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Universitas Matana Buka Peluang Kedua bagi Peserta SNBT Lewat Program Tukar Kartu",
-      "link_berita": "https://rejogja.republika.co.id/berita/swzxrv291/universitas-matana-buka-peluang-kedua-bagi-peserta-snbt-lewat-program-tukar-kartu",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Israel Tembaki 47 Warga Gaza yang Mengantre Makanan Bantuan PBB di Rafah",
-      "link_berita": "https://news.republika.co.id/berita/swzxns348/israel-tembaki-47-warga-gaza-yang-mengantre-makanan-bantuan-pbb-di-rafah",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Ekonom Sebut Penyelenggara Job Fair di Bekasi Bisa Kena Sanksi karena Timbulkan Kerugian",
-      "link_berita": "https://news.republika.co.id/berita/swzx86348/ekonom-sebut-penyelenggara-job-fair-di-bekasi-bisa-kena-sanksi-karena-timbulkan-kerugian",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 29 May 2025, 00:22:39"
-    },
-    {
-      "judul": "Ribuan Tanah Wakaf di Sultra belum Bersertifikat, Nusron: Ini Bisa Bermasalah, Segera Selesaikan",
-      "link_berita": "https://news.republika.co.id/berita/swzwz4451/ribuan-tanah-wakaf-di-sultra-belum-bersertifikat-nusron-ini-bisa-bermasalah-segera-selesaikan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 28 May 2025, 23:22:39"
-    },
-    {
-      "judul": "Kakang Rudianto dan Malik Risaldi Beraksi pada Babak Kedua Saat ASEAN All Stars Kalahkan MU",
-      "link_berita": "https://news.republika.co.id/berita/swzwt6348/kakang-rudianto-dan-malik-risaldi-beraksi-pada-babak-kedua-saat-asean-all-stars-kalahkan-mu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 28 May 2025, 23:22:39"
-    },
-    {
-      "judul": "Cole Palmer, Pemantik Kebangkitan Chelsea Kalahkan Real Betis di Final Liga Konferensi Eropa",
-      "link_berita": "https://news.republika.co.id/berita/swzvzf348/cole-palmer-pemantik-kebangkitan-chelsea-kalahkan-real-betis-di-final-liga-konferensi-eropa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 28 May 2025, 23:22:39"
-    },
-    {
-      "judul": "Deretan Artis yang akan Menunaikan Ibadah Haji Tahun Ini",
-      "link_berita": "https://ameera.republika.co.id/berita/sx0aj0425/deretan-artis-yang-akan-menunaikan-ibadah-haji-tahun-ini",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 29 May 2025, 11:45:00"
+      "judul": "Ini 7 Tanda Tubuh Kebanyakan Gula, Salah Satunya Cepat Marah",
+      "link_berita": "https://ameera.republika.co.id/berita/sx0cuc425/ini-7-tanda-tubuh-kebanyakan-gula-salah-satunya-cepat-marah",
+      "kategori": "Health",
+      "tanggal_terbit": "Thursday, 29 May 2025, 12:35:00"
     },
     {
       "judul": "IIF Kurangi 5 Juta Ton Emisi Lewat Proyek Hijau",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 29 May 2025, 11:11:00"
     },
     {
-      "judul": "Indonesia-Prancis Tandatangani 27 MoU Senilai 11 Miliar Dolar AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sx0c65370/indonesiaprancis-tandatangani-27-mou-senilai-11-miliar-dolar-as",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 29 May 2025, 12:20:00"
+      "judul": "China Siap Pasarkan Durian Beku Indonesia, Batantin: Rumah Kemas Harus Sesuai Standar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sx0epm451/china-siap-pasarkan-durian-beku-indonesia-batantin-rumah-kemas-harus-sesuai-standar",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Thursday, 29 May 2025, 13:15:00"
     },
     {
       "judul": "KNEKS Gandeng Perbankan Syariah dan PIP Demi Penguatan KDMP Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 29 May 2025, 10:48:00"
     },
     {
-      "judul": "Kerja 130 Hari, Elon Musk Beri Sinyal Keluar dari Kabinet Trump",
-      "link_berita": "https://news.republika.co.id/berita/sx0blb475/kerja-130-hari-elon-musk-beri-sinyal-keluar-dari-kabinet-trump",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 29 May 2025, 12:07:00"
+      "judul": "Eks Ajudan Jokowi Jabat Pangdam Jaya, Posisi Pangkohahudnas Dihidupkan Lagi",
+      "link_berita": "https://news.republika.co.id/berita/sx0ff9484/eks-ajudan-jokowi-jabat-pangdam-jaya-posisi-pangkohahudnas-dihidupkan-lagi",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 29 May 2025, 13:30:00"
     }
   ],
-  "waktu_scraping": "Thursday, 29 May 2025, 12:22:39"
+  "waktu_scraping": "Thursday, 29 May 2025, 13:32:38"
 }
