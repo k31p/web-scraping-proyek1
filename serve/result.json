@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Pemerintahan Netanyahu Terancam Bubar",
+      "link_berita": "https://news.republika.co.id/berita/sxmtco393/pemerintahan-netanyahu-terancam-bubar"
+    },
+    {
       "judul": "Buka Suara, Nadiem Siap Klarifikasi Kejagung",
       "link_berita": "https://tv.republika.co.id/berita/sxmr93418/buka-suara-nadiem-siap-klarifikasi-kejagung"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Resmi, Pemerintah Cabut Izin Tambang 4 Perusahaan di Raja Ampat",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxmixe423/resmi-pemerintah-cabut-izin-tambang-4-perusahaan-di-raja-ampat"
-    },
-    {
-      "judul": "Pemerintah Resmi Cabut Empat Izin Usaha Pertambangan di Raja Ampat",
-      "link_berita": "https://news.republika.co.id/berita/sxmg67484/pemerintah-resmi-cabut-empat-izin-usaha-pertambangan-di-raja-ampat"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "PT KAI Temukan Barang Penumpang yang Tertinggal Senilai Rp 5,9 Miliar",
+      "link_berita": "https://rejogja.republika.co.id/berita/sxmrmp282/pt-kai-temukan-barang-penumpang-yang-tertinggal-senilai-rp-59-miliar"
+    },
     {
       "judul": "Bahlil Ungkap Prabowo Perintahkan Evaluasi Langsung Izin Tambang di Raja Ampat",
       "link_berita": "https://news.republika.co.id/berita/sxmpw2484/bahlil-ungkap-prabowo-perintahkan-evaluasi-langsung-izin-tambang-di-raja-ampat"
@@ -77,312 +81,308 @@
     {
       "judul": "\u2018Apa Tujuan Perang di Gaza Saat Ini? Untuk Apa Para pemuda Ini Mati?\u2019",
       "link_berita": "https://khazanah.republika.co.id/berita/sxllsd320/apa-tujuan-perang-di-gaza-saat-ini-untuk-apa-para-pemuda-ini-mati"
-    },
-    {
-      "judul": "Ribuan Warga Afrika Utara Konvoi Darat Coba Tembus Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sxlilm393/ribuan-warga-afrika-utara-konvoi-darat-coba-tembus-gaza"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Rizky Ridho Tercoret, Ini 23 Pemain Timnas Indonesia untuk Hadapi Jepang",
+      "link_berita": "https://skor.republika.co.id/posts/684546/rizky-ridho-tercoret-ini-23-pemain-timnas-indonesia-untuk-hadapi-jepang",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:20:07"
+    },
+    {
+      "judul": "Asalnya Jauh dari Belanda, Ternyata Pemain Naturalisasi Felicia Victoria Berdarah Betawi",
+      "link_berita": "https://news.republika.co.id/berita/sxmv8t451/asalnya-jauh-dari-belanda-ternyata-pemain-naturalisasi-felicia-victoria-berdarah-betawi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:20:07"
+    },
+    {
+      "judul": "Aksi Solidaritas Tuntut Pembebasan 12 Aktivis Freedom Flotilla",
+      "link_berita": "https://visual.republika.co.id/berita/sxmv7m375/aksi-solidaritas-tuntut-pembebasan-12-aktivis-freedom-flotilla",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:19:07"
+    },
+    {
+      "judul": "NPL Naik Jadi 2,24 Persen, Ekonom Kritisi Tren Perlambatan Penyaluran Kredit",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxmuzn490/npl-naik-jadi-224-persen-ekonom-kritisi-tren-perlambatan-penyaluran-kredit",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:14:07"
+    },
+    {
+      "judul": "Yang Buat Nadiem Yakin tidak Ada Korupsi di Pengadaan Laptop Chromebook",
+      "link_berita": "https://news.republika.co.id/berita/sxmuz1409/yang-buat-nadiem-yakin-tidak-ada-korupsi-di-pengadaan-laptop-chromebook",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:14:07"
+    },
+    {
+      "judul": "Badan Geologi ESDM Ungkap Penyebab Gempa 5,0 Magnitudo di Pangandaran",
+      "link_berita": "https://rejabar.republika.co.id/berita/sxmuvl282/badan-geologi-esdm-ungkap-penyebab-gempa-50-magnitudo-di-pangandaran",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:12:07"
+    },
+    {
+      "judul": "Indonesia Fokus Wujudkan Target Transisi Energi Bersih pada 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxmujg451/indonesia-fokus-wujudkan-target-transisi-energi-bersih-pada-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:04:07"
+    },
+    {
+      "judul": "Realisasi APBD DKI 2024 Sebesar Rp 72,95 Triliun atau 97,34 Persen",
+      "link_berita": "https://news.republika.co.id/berita/sxmue5484/realisasi-apbd-dki-2024-sebesar-rp-7295-triliun-atau-9734-persen",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:01:07"
+    },
+    {
+      "judul": "Satgas: Kelompok Egianus Kogoya Biang Kerok Lima Kasus Penembakan di Papua Pegunungan",
+      "link_berita": "https://news.republika.co.id/berita/sxmuce451/satgas-kelompok-egianus-kogoya-biang-kerok-lima-kasus-penembakan-di-papua-pegunungan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:00:07"
+    },
+    {
+      "judul": "Bank Pembangunan Siapkan Dana Jumbo untuk Atasi Sampah Laut",
+      "link_berita": "https://esgnow.republika.co.id/berita/sxmryx416/bank-pembangunan-siapkan-dana-jumbo-untuk-atasi-sampah-laut",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:00:07"
+    },
+    {
+      "judul": "Honda Luncurkan New Honda HR-V RS e:HEV, Ini Harga Termurahnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxmubq468/honda-luncurkan-new-honda-hrv-rs-ehev-ini-harga-termurahnya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 09:00:07"
+    },
+    {
+      "judul": "Rupiah Menguat Dipengaruhi Penurunan Ekspektasi Inflasi di AS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxmu4n490/rupiah-menguat-dipengaruhi-penurunan-ekspektasi-inflasi-di-as",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:55:07"
+    },
+    {
+      "judul": "Pemprov Jakarta Wacanakan Gelar Car Free Night Setiap Pekan",
+      "link_berita": "https://news.republika.co.id/berita/sxmtz8487/pemprov-jakarta-wacanakan-gelar-car-free-night-setiap-pekan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:52:07"
+    },
+    {
+      "judul": "Gustavo Franca Resmi Dilepas Persib, Tersisa David da Silva",
+      "link_berita": "https://skor.republika.co.id/posts/684537/gustavo-franca-resmi-dilepas-persib-tersisa-david-da-silva",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:50:07"
+    },
+    {
+      "judul": "Ditahan Kejaksaan, Mantan Kapolres Ngada Segera Disidang di Kasus Kekerasan Seksual Anak",
+      "link_berita": "https://news.republika.co.id/berita/sxmtgf409/ditahan-kejaksaan-mantan-kapolres-ngada-segera-disidang-di-kasus-kekerasan-seksual-anak",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:41:07"
+    },
+    {
+      "judul": "TBIG Sebut Lompatan 'Luar Biasa' Pendapatan Indosat Ooredoo dari Rp 1 T ke 4,9 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxmtfx451/tbig-sebut-lompatan-luar-biasa-pendapatan-indosat-ooredoo-dari-rp-1-t-ke-49-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:41:07"
+    },
+    {
+      "judul": "Menteri PPN/Kepala Bappenas: Muhammadiyah Organisasi Paling Siap Kawal Perubahan",
+      "link_berita": "https://news.republika.co.id/berita/sxmtd4291/menteri-ppnkepala-bappenas-muhammadiyah-organisasi-paling-siap-kawal-perubahan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:39:07"
+    },
+    {
+      "judul": "Park Bo-young Main Drama Baru Bareng Lee Kwang-soo dan Kim Sung-cheol",
+      "link_berita": "https://chingudeul.republika.co.id/posts/684531/park-bo-young-main-drama-baru-bareng-lee-kwang-soo-dan-kim-sung-cheol",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:39:07"
+    },
+    {
+      "judul": "Pemerintahan Netanyahu Terancam Bubar",
+      "link_berita": "https://news.republika.co.id/berita/sxmtco393/pemerintahan-netanyahu-terancam-bubar",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:39:07"
+    },
+    {
+      "judul": "Jin dan J-Hope Sambut Kepulangan RM dan V dari Wamil",
+      "link_berita": "https://chingudeul.republika.co.id/posts/684486/jin-dan-j-hope-sambut-kepulangan-rm-dan-v-dari-wamil",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:38:07"
+    },
+    {
+      "judul": "Bantuan Idul Adha untuk Gaza: Solidaritas Tanpa Batas",
+      "link_berita": "https://bisnistime.com/posts/684493/bantuan-idul-adha-untuk-gaza-solidaritas-tanpa-batas",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:36:07"
+    },
+    {
+      "judul": "Sukabumi Gencarkan Gerakan Hentikan Polusi Plastik",
+      "link_berita": "https://sukabumikini.com/posts/684508/sukabumi-gencarkan-gerakan-hentikan-polusi-plastik",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:36:07"
+    },
+    {
+      "judul": "Regulasi Maritim Global (Masih) Tertinggal Jauh",
+      "link_berita": "https://shippingcargo.co.id/posts/684326/regulasi-maritim-global-masih-tertinggal-jauh",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:35:07"
+    },
+    {
+      "judul": "Catatan Cak AT: Selamat Tinggal, Wahai Mina",
+      "link_berita": "https://ruzkaindonesia.id/posts/684517/catatan-cak-at-selamat-tinggal-wahai-mina",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:35:07"
+    },
+    {
+      "judul": "Kunjungi Korban Kebakaran, Gibran: Kita Carikan Solusi",
+      "link_berita": "https://tv.republika.co.id/berita/sxmt6v418/kunjungi-korban-kebakaran-gibran-kita-carikan-solusi",
+      "kategori": "Video",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:35:07"
+    },
+    {
+      "judul": "Universitas Syah Kuala Buka Tujuh Program Studi Baru di 2025, Kuy Daftar!",
+      "link_berita": "https://inforemaja.id/posts/516928/universitas-syah-kuala-buka-tujuh-program-studi-baru-di-2025-kuy-daftar",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:35:07"
+    },
+    {
+      "judul": "Depresi di Masa Remaja Masih Fluktuatif, Waktu Tepat untuk Intervensi",
+      "link_berita": "https://inforemaja.id/posts/684519/depresi-di-masa-remaja-masih-fluktuatif-waktu-tepat-untuk-intervensi",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:35:07"
+    },
+    {
+      "judul": "Sambut Jamaah Haji Padang, Lion Group Diminta Siapkan Tabung Oksigen Khusus",
+      "link_berita": "https://khazanah.republika.co.id/berita/sxmt2c425/sambut-jamaah-haji-padang-lion-group-diminta-siapkan-tabung-oksigen-khusus",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:32:07"
+    },
+    {
       "judul": "Ini Skuad Final 23 Pemain Timnas Indonesia untuk Laga Lawan Jepang, Rizky Ridho Dicoret",
       "link_berita": "https://news.republika.co.id/berita/sxmsyr409/ini-skuad-final-23-pemain-timnas-indonesia-untuk-laga-lawan-jepang-rizky-ridho-dicoret",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:30:28"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:30:07"
     },
     {
       "judul": "Izin Tambang Dicabut, Pemerintah Tegaskan Komitmen Kelola SDA Berkelanjutan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxmsyj370/izin-tambang-dicabut-pemerintah-tegaskan-komitmen-kelola-sda-berkelanjutan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:30:20"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:30:07"
     },
     {
       "judul": "Izin PT GAG Nikel di Raja Ampat tak Dicabut, Ini Perintah Presiden kepada Bahlil",
       "link_berita": "https://news.republika.co.id/berita/sxmsf1409/izin-pt-gag-nikel-di-raja-ampat-tak-dicabut-ini-perintah-presiden-kepada-bahlil",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:18:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "LRT Jabodebek Layani 162 Ribu Penumpang Selama Libur Idul Adha",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxmsd9490/lrt-jabodebek-layani-162-ribu-penumpang-selama-libur-idul-adha",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:17:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Blackpink Syuting Video Musik Terbaru, Siap Guncang Industri K-Pop",
       "link_berita": "https://ameera.republika.co.id/berita/sxmsak425/blackpink-syuting-video-musik-terbaru-siap-guncang-industri-kpop",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:16:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "PT KAI Temukan Barang Penumpang yang Tertinggal Senilai Rp 5,9 Miliar",
       "link_berita": "https://rejogja.republika.co.id/berita/sxmrmp282/pt-kai-temukan-barang-penumpang-yang-tertinggal-senilai-rp-59-miliar",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:15:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Enam Orang Jamaah Sumbar Wafat di Tanah Suci",
       "link_berita": "https://khazanah.republika.co.id/berita/sxms8d483/enam-orang-jamaah-sumbar-wafat-di-tanah-suci",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:14:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Eks Penyidik KPK Ingatkan Pentingnya Pemeriksaan Ridwan Kamil, 'agar tak Terkesan Tebang Pilih'",
       "link_berita": "https://news.republika.co.id/berita/sxms60487/eks-penyidik-kpk-ingatkan-pentingnya-pemeriksaan-ridwan-kamil-agar-tak-terkesan-tebang-pilih",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:13:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Jelang Muktamar, KH Muslich ZA Sebut Sandiaga Sosok Komplit Jadi Ketum PPP",
       "link_berita": "https://news.republika.co.id/berita/sxms1v484/jelang-muktamar-kh-muslich-za-sebut-sandiaga-sosok-komplit-jadi-ketum-ppp",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:11:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Saudi Bagikan 2,5 Juta Mushaf Alquran untuk Jamaah Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/sxmrrp430/saudi-bagikan-25-juta-mushaf-alquran-untuk-jamaah-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:09:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Warga Gaza Ditembaki Saat Mengantre Bantuan, Enam Syahid",
       "link_berita": "https://khazanah.republika.co.id/berita/sxmroo430/warga-gaza-ditembaki-saat-mengantre-bantuan-enam-syahid",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:03:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Transaksi QRIS di Muamalat DIN Tembus 1,2 Juta, Tumbuh 48 Persen",
       "link_berita": "https://sharia.republika.co.id/berita/sxmrkm490/transaksi-qris-di-muamalat-din-tembus-12-juta-tumbuh-48-persen",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:00:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Presiden Prabowo Bersama Menteri Bahas Giant Sea Wall",
       "link_berita": "https://news.republika.co.id/berita/sxmrkg451/presiden-prabowo-bersama-menteri-bahas-giant-sea-wall",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:00:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Kualitas Udara Jabodetabek tak Sehat, Tangerang Terburuk",
       "link_berita": "https://esgnow.republika.co.id/berita/sxmrh2416/kualitas-udara-jabodetabek-tak-sehat-tangerang-terburuk",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:58:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "MUI Kecam Penahanan Delegasi Kapal Kemanusiaan Madleen oleh Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/sxmrge430/mui-kecam-penahanan-delegasi-kapal-kemanusiaan-madleen-oleh-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:58:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Mayat Pria Ditemukan di Sungai Sliyeg Indramayu, Ini Dugaan Penyebabnya",
       "link_berita": "https://rejabar.republika.co.id/berita/sxmrd5512/mayat-pria-ditemukan-di-sungai-sliyeg-indramayu-ini-dugaan-penyebabnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:56:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 08:25:07"
     },
     {
       "judul": "Buka Suara, Nadiem Siap Klarifikasi Kejagung",
       "link_berita": "https://tv.republika.co.id/berita/sxmr93418/buka-suara-nadiem-siap-klarifikasi-kejagung",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:53:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:25:07"
     },
     {
       "judul": "Warga Lamongan Gelar Pencucian Keris Pusaka Mbah Jimat Peninggalan Sunan Giri",
       "link_berita": "https://rejogja.republika.co.id/berita/sxmr6c282/warga-lamongan-gelar-pencucian-keris-pusaka-mbah-jimat-peninggalan-sunan-giri",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:52:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:25:07"
     },
     {
       "judul": "Wakil Menteri HAM Sebut Tambang di Raja Ampat Cederai Hak atas Lingkungan Sehat",
       "link_berita": "https://news.republika.co.id/berita/sxmr0l487/wakil-menteri-ham-sebut-tambang-di-raja-ampat-cederai-hak-atas-lingkungan-sehat",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:48:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:25:07"
     },
     {
       "judul": "Mensesneg Tegaskan Reshuffle Bukan Prioritas Presiden Prabowo Saat Ini",
       "link_berita": "https://news.republika.co.id/berita/sxmqzm484/mensesneg-tegaskan-reshuffle-bukan-prioritas-presiden-prabowo-saat-ini",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:48:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:25:07"
     },
     {
       "judul": "Fenomena Friendlessness, Kata Siapa Bikin Gak Bahagia?",
       "link_berita": "https://ameera.republika.co.id/berita/sxmqwg425/fenomena-friendlessness-kata-siapa-bikin-gak-bahagia",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:46:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:25:07"
     },
     {
       "judul": "Israel Deportasi Greta Thunberg dan Aktivis di Madleen",
       "link_berita": "https://news.republika.co.id/berita/sxmqw3370/israel-deportasi-greta-thunberg-dan-aktivis-di-madleen",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:46:08"
-    },
-    {
-      "judul": "BNPB: Layanan Bagi Ribuan Korban Kebakaran Kapuk Muara Diperpanjang",
-      "link_berita": "https://news.republika.co.id/berita/sxmqr5451/bnpb-layanan-bagi-ribuan-korban-kebakaran-kapuk-muara-diperpanjang",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:43:08"
-    },
-    {
-      "judul": "Hilang 5 Hari Usai Dijemput 3 Pria tak Dikenal, Mantan Ketua DPRD Jatim Ditemukan di Madura",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxmqni282/hilang-5-hari-usai-dijemput-3-pria-tak-dikenal-mantan-ketua-dprd-jatim-ditemukan-di-madura",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:40:08"
-    },
-    {
-      "judul": "TikTok Bantah Dugaan Monopoli Usai Akuisisi Tokopedia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxmqmv490/tiktok-bantah-dugaan-monopoli-usai-akuisisi-tokopedia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:40:08"
-    },
-    {
-      "judul": "Walkot Semarang Terbitkan SE Larangan Suap dan Pungli dalam SPMB",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxmqgh282/walkot-semarang-terbitkan-se-larangan-suap-dan-pungli-dalam-spmb",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:36:08"
-    },
-    {
-      "judul": "Honda Luncurkan New HR-V dan New HR-V e:HEV, Ini Tipe dan Harganya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxmqep468/honda-luncurkan-new-hrv-dan-new-hrv-ehev-ini-tipe-dan-harganya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:35:08"
-    },
-    {
-      "judul": "Fraksi PAN DPR Apresiasi Presiden atas Pencabutan Izin Tambang di Raja Ampat",
-      "link_berita": "https://news.republika.co.id/berita/sxmqay318/fraksi-pan-dpr-apresiasi-presiden-atas-pencabutan-izin-tambang-di-raja-ampat",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:35:08"
-    },
-    {
-      "judul": "Pendidikan Barak Militer Gelombang Kedua di Jabar akan Diikuti 90 Siswa Bermasalah",
-      "link_berita": "https://rejabar.republika.co.id/berita/sxmqah512/pendidikan-barak-militer-gelombang-kedua-di-jabar-akan-diikuti-90-siswa-bermasalah",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:33:08"
-    },
-    {
-      "judul": "Gelar Konpers, Nadiem Jelaskan Panjang-Lebar Bantah Ada Korupsi di Pengadaan Chromebook",
-      "link_berita": "https://news.republika.co.id/berita/sxmq53409/gelar-konpers-nadiem-jelaskan-panjanglebar-bantah-ada-korupsi-di-pengadaan-chromebook",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:31:08"
-    },
-    {
-      "judul": "15 Hektare Lahan di Limapuluhkota Sumbar Hangus Terbakar",
-      "link_berita": "https://visual.republika.co.id/berita/sxmpxo375/15-hektare-lahan-di-limapuluhkota-sumbar-hangus-terbakar",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:31:08"
-    },
-    {
-      "judul": "Bahlil Ungkap Prabowo Perintahkan Evaluasi Langsung Izin Tambang di Raja Ampat",
-      "link_berita": "https://news.republika.co.id/berita/sxmpw2484/bahlil-ungkap-prabowo-perintahkan-evaluasi-langsung-izin-tambang-di-raja-ampat",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:31:08"
-    },
-    {
-      "judul": "Koperasi Merah Putih: Peluang Emas atau Sekadar Janji Kosong?",
-      "link_berita": "https://analisis.republika.co.id/berita/sxmpbu318/koperasi-merah-putih-peluang-emas-atau-sekadar-janji-kosong",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:31:08"
-    },
-    {
-      "judul": "Pemerintah Cabut 4 Izin Pertambangan di Raja Ampat",
-      "link_berita": "https://tv.republika.co.id/berita/sxmp7p313/pemerintah-cabut-4-izin-pertambangan-di-raja-ampat",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:31:08"
-    },
-    {
-      "judul": "Diisukan Bakal Akuisisi GoTo, Ini Respons Danantara",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxmp40490/diisukan-bakal-akuisisi-goto-ini-respons-danantara",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:31:08"
-    },
-    {
-      "judul": "Perempuan Asal Duren Sawit Meninggal di RS Kariadi Usai Diantar 2 Orang tak Dikenal, Diduga Dibunuh",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxmo72282/perempuan-asal-duren-sawit-meninggal-di-rs-kariadi-usai-diantar-2-orang-tak-dikenal-diduga-dibunuh",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "SPMB Rawan Titipan Kursi Anak Pejabat, Dedi Mulyadi Siap Beri Sanksi Tegas Kepala Sekolah",
-      "link_berita": "https://rejabar.republika.co.id/berita/sxmna6512/spmb-rawan-titipan-kursi-anak-pejabat-dedi-mulyadi-siap-beri-sanksi-tegas-kepala-sekolah",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "Kasus Sritex, Muhammadiyah: Penting untuk Mengembalikan Kerugian Negara",
-      "link_berita": "https://news.republika.co.id/berita/sxmn9g318/kasus-sritex-muhammadiyah-penting-untuk-mengembalikan-kerugian-negara",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "BI: Cadangan Devisa RI Stagnan di 152,5 Miliar Dolar AS per Mei 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxmn5f490/bi-cadangan-devisa-ri-stagnan-di-1525-miliar-dolar-as-per-mei-2025",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "Jumlah Jamaah Haji Ikut Safari Wukuf Ditargetkan Turun Tahun Depan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxmmss483/jumlah-jamaah-haji-ikut-safari-wukuf-ditargetkan-turun-tahun-depan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "Hasil Uji Lab Keluar, Ayam Goreng Widuran Layak Konsumsi tapi Non-Halal, Boleh Buka Lagi?",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxmmb6282/hasil-uji-lab-keluar-ayam-goreng-widuran-layak-konsumsi-tapi-nonhalal-boleh-buka-lagi",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "Pemerintah Cabut Izin Tambang 4 Perusahaan di Raja Ampat, Ini Alasannya",
-      "link_berita": "https://esgnow.republika.co.id/berita/sxmm3p490/pemerintah-cabut-izin-tambang-4-perusahaan-di-raja-ampat-ini-alasannya",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "Mensesneg: Jam Rolex Pemain Timnas Dibeli dari Dana Pribadi Prabowo",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxmm2x423/mensesneg-jam-rolex-pemain-timnas-dibeli-dari-dana-pribadi-prabowo",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 06:31:08"
-    },
-    {
-      "judul": "Dahnil Sebut Ada Praktik Pungli dalam Safari Wukuf, Begini Bantahan Kemenag",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxmlzk483/dahnil-sebut-ada-praktik-pungli-dalam-safari-wukuf-begini-bantahan-kemenag",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
-    },
-    {
-      "judul": "Izin Tambang PT Gag Nikel tidak Dicabut, Bahlil: Kita Awasi Ketat",
-      "link_berita": "https://esgnow.republika.co.id/berita/sxmllu490/izin-tambang-pt-gag-nikel-tidak-dicabut-bahlil-kita-awasi-ketat",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
-    },
-    {
-      "judul": "Piala Dunia Antarklub 2025: Jadwal, Hasil, dan Klasemen Lengkap",
-      "link_berita": "https://skor.republika.co.id/posts/684510/piala-dunia-antarklub-2025-jadwal-hasil-dan-klasemen-lengkap",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
-    },
-    {
-      "judul": "Polres Indramayu Patroli Pelajar Keluyuran di Jam Malam",
-      "link_berita": "https://rejabar.republika.co.id/berita/sxmlit512/polres-indramayu-patroli-pelajar-keluyuran-di-jam-malam",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
-    },
-    {
-      "judul": "RM dan V BTS Pulang Wamil, Sebagian Fans Justru Marah, Mengapa?",
-      "link_berita": "https://ameera.republika.co.id/berita/sxmle4425/rm-dan-v-bts-pulang-wamil-sebagian-fans-justru-marah-mengapa",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
-    },
-    {
-      "judul": "Dahnil: Jangan Sampai Ada yang Manipulasi Kondisi Kesehatan Jamaah Haji demi Target Kuota",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxml7u483/dahnil-jangan-sampai-ada-yang-manipulasi-kondisi-kesehatan-jamaah-haji-demi-target-kuota",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
-    },
-    {
-      "judul": "Terima Banyak Keluhan Jamaah, Anggota Timwas Usulkan Pembentukan Pansus Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxmknh483/terima-banyak-keluhan-jamaah-anggota-timwas-usulkan-pembentukan-pansus-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 05:31:08"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 07:25:07"
     },
     {
       "judul": "Blackpink Syuting Video Musik Terbaru, Siap Guncang Industri K-Pop",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 10 Jun 2025, 14:58:00"
     },
     {
-      "judul": "Izin Tambang Dicabut, Pemerintah Tegaskan Komitmen Kelola SDA Berkelanjutan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxmsyj370/izin-tambang-dicabut-pemerintah-tegaskan-komitmen-kelola-sda-berkelanjutan",
+      "judul": "NPL Naik Jadi 2,24 Persen, Ekonom Kritisi Tren Perlambatan Penyaluran Kredit",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxmuzn490/npl-naik-jadi-224-persen-ekonom-kritisi-tren-perlambatan-penyaluran-kredit",
       "kategori": "Energi",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 15:30:00"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 16:14:00"
     },
     {
       "judul": "Transaksi QRIS di Muamalat DIN Tembus 1,2 Juta, Tumbuh 48 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 10 Jun 2025, 15:00:00"
     },
     {
-      "judul": "Ini Skuad Final 23 Pemain Timnas Indonesia untuk Laga Lawan Jepang, Rizky Ridho Dicoret",
-      "link_berita": "https://news.republika.co.id/berita/sxmsyr409/ini-skuad-final-23-pemain-timnas-indonesia-untuk-laga-lawan-jepang-rizky-ridho-dicoret",
+      "judul": "Asalnya Jauh dari Belanda, Ternyata Pemain Naturalisasi Felicia Victoria Berdarah Betawi",
+      "link_berita": "https://news.republika.co.id/berita/sxmv8t451/asalnya-jauh-dari-belanda-ternyata-pemain-naturalisasi-felicia-victoria-berdarah-betawi",
       "kategori": "Sport",
-      "tanggal_terbit": "Tuesday, 10 Jun 2025, 15:30:00"
+      "tanggal_terbit": "Tuesday, 10 Jun 2025, 16:19:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 10 Jun 2025, 15:31:08"
+  "waktu_scraping": "Tuesday, 10 Jun 2025, 16:25:07"
 }
