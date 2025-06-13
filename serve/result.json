@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Manut Israel? Mesir Usir Aktivis yang Hendak Tembus Gaza",
+      "link_berita": "https://news.republika.co.id/berita/sxrs32458/manut-israel-mesir-usir-aktivis-yang-hendak-tembus-gaza"
+    },
+    {
       "judul": "Israel Serang Iran! Ledakan di Teheran, Sirene Meraung di Tel Aviv",
       "link_berita": "https://news.republika.co.id/berita/sxrqf8393/israel-serang-iran-ledakan-di-teheran-sirene-meraung-di-tel-aviv"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Naskah Khutbah Jumat: Nikmat Waktu Luang",
       "link_berita": "https://iqra.republika.co.id/berita/sxr35w366/naskah-khutbah-jumat-nikmat-waktu-luang"
-    },
-    {
-      "judul": "Seluruh Penumpang Air India yang Jatuh di Ahmedabad Dilaporkan Tewas",
-      "link_berita": "https://news.republika.co.id/berita/sxr1b2409/seluruh-penumpang-air-india-yang-jatuh-di-ahmedabad-dilaporkan-tewas"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Serangan Israel Dilaporkan Tewaskan Panglima Garda Revolusi Iran",
+      "link_berita": "https://news.republika.co.id/berita/sxrwxc393/serangan-israel-dilaporkan-tewaskan-panglima-garda-revolusi-iran"
+    },
+    {
+      "judul": "Lini Masa: Sejarah Konflik Terkini Iran-Israel",
+      "link_berita": "https://news.republika.co.id/berita/sxrwdd393/lini-masa-sejarah-konflik-terkini-iranisrael"
+    },
+    {
+      "judul": "Proyek Tanggul Laut Raksasa, Butuh Waktu 10 Tahun dan Biaya Rp 1.297 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxrtlp423/proyek-tanggul-laut-raksasa-butuh-waktu-10-tahun-dan-biaya-rp-1297-triliun"
+    },
     {
       "judul": "Gelandang Anyar Manchester City Tijjani Reijnders Bicara Pengaruh Budaya Indonesia pada Dirinya",
       "link_berita": "https://news.republika.co.id/berita/sxrqtl348/gelandang-anyar-manchester-city-tijjani-reijnders-bicara-pengaruh-budaya-indonesia-pada-dirinya"
@@ -69,320 +81,308 @@
     {
       "judul": "Bukan Cuma Nonton Timnas di Jepang, Erick Thohir Gaet Molten dan Pokemon Bekerja Sama dengan PSSI",
       "link_berita": "https://news.republika.co.id/berita/sxqhkw348/bukan-cuma-nonton-timnas-di-jepang-erick-thohir-gaet-molten-dan-pokemon-bekerja-sama-dengan-pssi"
-    },
-    {
-      "judul": "Mahasiswa PPDS Anestesia Undip Akui Alami Beban Mental Akibat Kultur Senioritas",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxqe76282/mahasiswa-ppds-anestesia-undip-akui-alami-beban-mental-akibat-kultur-senioritas"
-    },
-    {
-      "judul": "Kejagung Sita Uang Rp 2 Miliar Milik Hakim PN Jaksel Djumyanto",
-      "link_berita": "https://tv.republika.co.id/berita/sxqbbq526/kejagung-sita-uang-rp-2-miliar-milik-hakim-pn-jaksel-djumyanto"
-    },
-    {
-      "judul": "Surat Intelijen Israel: Perang Selama Ini untuk Pertahankan Kekuasaan Netanyahu",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxqa1e451/surat-intelijen-israel-perang-selama-ini-untuk-pertahankan-kekuasaan-netanyahu"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ketidakpastian Geopolitik, Saham Emiten Emas Dinilai Punya Prospek Cerah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxrylw490/ketidakpastian-geopolitik-saham-emiten-emas-dinilai-punya-prospek-cerah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:20:39"
+    },
+    {
+      "judul": "Selain Panglima Garda Revolusi Iran, Orang-Orang Penting Ini Juga Dilaporkan Gugur Diserang Israel",
+      "link_berita": "https://news.republika.co.id/berita/sxryl4487/selain-panglima-garda-revolusi-iran-orangorang-penting-ini-juga-dilaporkan-gugur-diserang-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:19:39"
+    },
+    {
+      "judul": "Mau Naik Kereta Uap Wisata di Ambarawa? Ini Jadwal dan Harga Tiketnya",
+      "link_berita": "https://kreta.id/posts/685071/mau-naik-kereta-uap-wisata-di-ambarawa-ini-jadwal-dan-harga-tiketnya",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:14:39"
+    },
+    {
+      "judul": "Sayyidina Abu Bakar As-Shiddiq: Sahabat Sejati Penopang Risalah Hakiki",
+      "link_berita": "https://sekitarkaltim.id/posts/685105/sayyidina-abu-bakar-as-shiddiq-sahabat-sejati-penopang-risalah-hakiki",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:14:39"
+    },
+    {
+      "judul": "Cuaca Balikpapan 13 Juni 2025: Cerah Berawan, Hujan Petir Singkat",
+      "link_berita": "https://sekitarkaltim.id/posts/685106/cuaca-balikpapan-13-juni-2025-cerah-berawan-hujan-petir-singkat",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:13:39"
+    },
+    {
+      "judul": "Selamatkan Bumi: Tokoh Agama dan Masyarakat Adat Desak Cabut Seluruh IUP",
+      "link_berita": "https://sekitarkaltim.id/posts/685107/selamatkan-bumi-tokoh-agama-dan-masyarakat-adat-desak-cabut-seluruh-iup",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:13:39"
+    },
+    {
+      "judul": "Australia dan Indonesia Memperkuat Layanan untuk Ibu dan Anak",
+      "link_berita": "https://pemantiknews.id/posts/685119/australia-dan-indonesia-memperkuat-layanan-untuk-ibu-dan-anak",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:11:39"
+    },
+    {
+      "judul": "Catatan Cak AT: Muqaddimah Lite tentang Sufi Bahlul",
+      "link_berita": "https://ruzkaindonesia.id/posts/685117/catatan-cak-at-muqaddimah-lite-tentang-sufi-bahlul",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:11:39"
+    },
+    {
+      "judul": "Dukung Pembentukan Badan Otorita Tanggul Laut, Ini Penjelasan AHY",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxry5t490/dukung-pembentukan-badan-otorita-tanggul-laut-ini-penjelasan-ahy",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:10:39"
+    },
+    {
+      "judul": "ITS Galakkan Aksi Peduli Ekosistem Laut",
+      "link_berita": "https://pemantiknews.id/posts/685121/its-galakkan-aksi-peduli-ekosistem-laut",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:10:39"
+    },
+    {
+      "judul": "102 Water Station Sudah Tersedia di 39 Stasiun",
+      "link_berita": "https://kreta.id/posts/685124/102-water-station-sudah-tersedia-di-39-stasiun",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:09:39"
+    },
+    {
+      "judul": "Anggota DPR : Kejaksaan Harus Proaktif Tindak Tambang Ilegal di Raja Ampat",
+      "link_berita": "https://pemantiknews.id/posts/685125/anggota-dpr-kejaksaan-harus-proaktif-tindak-tambang-ilegal-di-raja-ampat",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:08:39"
+    },
+    {
+      "judul": "Program Cek Kesehatan Gratis Temukan Tiga Penyakit Dominan Masyarakat",
+      "link_berita": "https://sekitarkaltim.id/posts/685127/program-cek-kesehatan-gratis-temukan-tiga-penyakit-dominan-masyarakat",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:08:39"
+    },
+    {
+      "judul": "Puding Rumahan Eksis di Mall, Kisah Sukses UMKM Berkat Program Pelatihan PNM",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxry2n368/puding-rumahan-eksis-di-mall-kisah-sukses-umkm-berkat-program-pelatihan-pnm",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 03:08:39"
+    },
+    {
+      "judul": "FUNDtastic Beri Literasi Keuangan kepada Anak Sejak Dini",
+      "link_berita": "https://republika.co.id/berita//sxrwa2456/fundtastic-beri-literasi-keuangan-kepada-anak-sejak-dini",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:57:39"
+    },
+    {
+      "judul": "Gaji Hakim Naik 280 Persen, KY: Jangan Ada Lagi Hakim Korup!",
+      "link_berita": "https://news.republika.co.id/berita/sxrxjj487/gaji-hakim-naik-280-persen-ky-jangan-ada-lagi-hakim-korup",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:57:39"
+    },
+    {
+      "judul": "Kadispora hingga Eks Sekda Kota Bandung Ditetapkan Tersangka Kasus Korupsi Hibah Rp 6,5 Miliar",
+      "link_berita": "https://rejabar.republika.co.id/berita/sxrxhl512/kadispora-hingga-eks-sekda-kota-bandung-ditetapkan-tersangka-kasus-korupsi-hibah-rp-65-miliar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:55:39"
+    },
+    {
+      "judul": "Bio Farma Distribusikan Produk Radiofarmaka Pertama Buatan Dalam Negeri FloDeg",
+      "link_berita": "https://rejabar.republika.co.id/berita/sxrwy9512/bio-farma-distribusikan-produk-radiofarmaka-pertama-buatan-dalam-negeri-flodeg",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:44:39"
+    },
+    {
+      "judul": "Serangan Israel Dilaporkan Tewaskan Panglima Garda Revolusi Iran",
+      "link_berita": "https://news.republika.co.id/berita/sxrwxc393/serangan-israel-dilaporkan-tewaskan-panglima-garda-revolusi-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:43:39"
+    },
+    {
+      "judul": "Pemkab Jayawijaya Sebut Gereja Berperan Penting Jaga Kerukunan Umat",
+      "link_berita": "https://news.republika.co.id/berita/sxrwgc451/pemkab-jayawijaya-sebut-gereja-berperan-penting-jaga-kerukunan-umat",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:33:39"
+    },
+    {
+      "judul": "Lini Masa: Sejarah Konflik Terkini Iran-Israel",
+      "link_berita": "https://news.republika.co.id/berita/sxrwdd393/lini-masa-sejarah-konflik-terkini-iranisrael",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:31:39"
+    },
+    {
+      "judul": "Meski Selesai Kekeluargaan, Guru Viral Penendang Kepala Murid akan Disanksi",
+      "link_berita": "https://news.republika.co.id/berita/sxrvxt487/meski-selesai-kekeluargaan-guru-viral-penendang-kepala-murid-akan-disanksi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:22:39"
+    },
+    {
+      "judul": "Rosan: Investasi Danantara Siap Ciptakan Lapangan Kerja",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxrvh0423/rosan-investasi-danantara-siap-ciptakan-lapangan-kerja",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Apakah Mimpi Bertemu Nabi Muhammad Menjadi Hadits? Begini Jawaban Habib Taufiq Assegaf",
+      "link_berita": "https://iqra.republika.co.id/berita/sxrvpb451/apakah-mimpi-bertemu-nabi-muhammad-menjadi-hadits-begini-jawaban-habib-taufiq-assegaf",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Millers for Nutrition Resmi Diluncurkan, Bappenas Dorong Fortifikasi Pangan Perkuat SDM",
+      "link_berita": "https://ameera.republika.co.id/berita/sxrsyc416/millers-for-nutrition-resmi-diluncurkan-bappenas-dorong-fortifikasi-pangan-perkuat-sdm",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Guru Besar UI Tolak Intervensi Negara dalam Pendidikan Kedokteran, Ini Permenkes yang Dianggap Cacat",
+      "link_berita": "https://news.republika.co.id/berita/sxrvg4487/guru-besar-ui-tolak-intervensi-negara-dalam-pendidikan-kedokteran-ini-permenkes-yang-dianggap-cacat",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Polisi Amankan 4 Orang Pengunjung Tempat Hiburan Malam di Bandung Diduga Konsumsi Narkoba",
+      "link_berita": "https://rejabar.republika.co.id/berita/sxrv46512/polisi-amankan-4-orang-pengunjung-tempat-hiburan-malam-di-bandung-diduga-konsumsi-narkoba",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "OASIS Schoolyards Semarang Tuntaskan Program, Perkuat Ketangguhan Sekolah",
+      "link_berita": "https://rejogja.republika.co.id/berita/sxrv2f456/oasis-schoolyards-semarang-tuntaskan-program-perkuat-ketangguhan-sekolah",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "IHSG Berpotensi Menguat, Pasar Tunggu Kepastian Tarif dari AS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxrv1o423/ihsg-berpotensi-menguat-pasar-tunggu-kepastian-tarif-dari-as",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Rapor Saddil Ramdani selama 4 Musim di Sabah FC",
+      "link_berita": "https://skor.republika.co.id/posts/685122/rapor-saddil-ramdani-selama-4-musim-di-sabah-fc",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "CREA Soroti Kenaikan Pembangkit Fosil dalam RUPTL",
+      "link_berita": "https://esgnow.republika.co.id/berita/sxrqdd416/crea-soroti-kenaikan-pembangkit-fosil-dalam-ruptl",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Kisah Belanda Depok, Budak yang Naik Derajat",
+      "link_berita": "https://kurusetra.republika.co.id/posts/685100/kisah-belanda-depok-budak-yang-naik-derajat",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Harga Emas Pegadaian Naik Tiga Hari Berturut-turut, Antam Tertinggi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxrul8423/harga-emas-pegadaian-naik-tiga-hari-berturutturut-antam-tertinggi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
+      "judul": "Komunitas Peduli Pendidikan Jabar Ungkap Modus Jual Beli Kursi di SPMB, Kuota Siswa Ditambah",
+      "link_berita": "https://rejabar.republika.co.id/berita/sxrukz512/komunitas-peduli-pendidikan-jabar-ungkap-modus-jual-beli-kursi-di-spmb-kuota-siswa-ditambah",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 02:21:39"
+    },
+    {
       "judul": "IIF Kawal Proyek Infrastruktur Petrokimia di Indramayu",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxrr5q416/iif-kawal-proyek-infrastruktur-petrokimia-di-indramayu",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 01:50:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Gaji Hakim Dinaikkan Hingga 280 Persen, Legislator Wanti-Wanti tentang Permainan Hukum",
       "link_berita": "https://news.republika.co.id/berita/sxrucn487/gaji-hakim-dinaikkan-hingga-280-persen-legislator-wantiwanti-tentang-permainan-hukum",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 01:48:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Proyek Tanggul Laut Raksasa, Butuh Waktu 10 Tahun dan Biaya Rp 1.297 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxrtlp423/proyek-tanggul-laut-raksasa-butuh-waktu-10-tahun-dan-biaya-rp-1297-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 01:32:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "BPKH Limited Serahkan Uang Kompensasi ke Jamaah Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/sxrtfn451/bpkh-limited-serahkan-uang-kompensasi-ke-jamaah-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 01:28:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Israel Serang Iran, AS: Kami tidak Terlibat!",
       "link_berita": "https://news.republika.co.id/berita/sxrsrw458/israel-serang-iran-as-kami-tidak-terlibat",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 01:14:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Jet Israel Serang Teheran, AS: Kami Enggak Ikutan, Jangan Serang Kami",
       "link_berita": "https://khazanah.republika.co.id/berita/sxrsnx483/jet-israel-serang-teheran-as-kami-enggak-ikutan-jangan-serang-kami",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 01:12:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Manut Israel? Mesir Usir Aktivis yang Hendak Tembus Gaza",
       "link_berita": "https://news.republika.co.id/berita/sxrs32458/manut-israel-mesir-usir-aktivis-yang-hendak-tembus-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:59:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Rute Baru Transjabodetabek Tinggi Peminat, Pegawai Swasta Wajib Naik Transportasi Umum Setiap Rabu?",
       "link_berita": "https://news.republika.co.id/berita/sxrs2y487/rute-baru-transjabodetabek-tinggi-peminat-pegawai-swasta-wajib-naik-transportasi-umum-setiap-rabu",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:59:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 01:21:39"
     },
     {
       "judul": "Piala Dunia Antarklub 2025 dalam Angka, dari Lionel Messi hingga Kylian Mbappe",
       "link_berita": "https://skor.republika.co.id/posts/685116/piala-dunia-antarklub-2025-dalam-angka-dari-lionel-messi-hingga-kylian-mbappe",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Literasi Sensor Film Rendah LSF: Pengawasan Ortu Minim",
       "link_berita": "https://news.republika.co.id/berita/sxrqze451/literasi-sensor-film-rendah-lsf-pengawasan-ortu-minim",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Gelandang Anyar Manchester City Tijjani Reijnders Bicara Pengaruh Budaya Indonesia pada Dirinya",
       "link_berita": "https://news.republika.co.id/berita/sxrqtl348/gelandang-anyar-manchester-city-tijjani-reijnders-bicara-pengaruh-budaya-indonesia-pada-dirinya",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Kenaikan Gaji Hakim 280 Persen, Tertinggi Sepanjang Sejarah",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxrqa5423/kenaikan-gaji-hakim-280-persen-tertinggi-sepanjang-sejarah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Trump: Ada Peluang Konflik Masif di Timur Tengah",
       "link_berita": "https://khazanah.republika.co.id/berita/sxrqlb458/trump-ada-peluang-konflik-masif-di-timur-tengah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 00:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Israel Serang Iran! Ledakan di Teheran, Sirene Meraung di Tel Aviv",
       "link_berita": "https://news.republika.co.id/berita/sxrqf8393/israel-serang-iran-ledakan-di-teheran-sirene-meraung-di-tel-aviv",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "PPIH: Jamaah Haji yang Sakit Bisa Ikuti Tanazul",
       "link_berita": "https://khazanah.republika.co.id/berita/sxrq4i483/ppih-jamaah-haji-yang-sakit-bisa-ikuti-tanazul",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Rosan Percepat Deregulasi untuk Perbaiki Iklim Investasi Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxrpam423/rosan-percepat-deregulasi-untuk-perbaiki-iklim-investasi-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
-    },
-    {
-      "judul": "Nomor dan Posisi Kursi Vishwash Kumar Ramesh, Penumpang Air India 171 yang Selamat",
-      "link_berita": "https://news.republika.co.id/berita/sxrpfg409/nomor-dan-posisi-kursi-vishwash-kumar-ramesh-penumpang-air-india-171-yang-selamat",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
-    },
-    {
-      "judul": "5 Mantan Rekan Lionel Messi yang Menganggapnya Bukan Pemain Terbaik",
-      "link_berita": "https://skor.republika.co.id/posts/685112/5-mantan-rekan-lionel-messi-yang-menganggapnya-bukan-pemain-terbaik",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
-    },
-    {
-      "judul": "Pertumbuhan Kredit Perbankan Melambat, OJK Soroti Dampak Global",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxrp3n423/pertumbuhan-kredit-perbankan-melambat-ojk-soroti-dampak-global",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
-    },
-    {
-      "judul": "OJK: Target Pertumbuhan Kredit 2025 tak Berubah Meski PHK Marak",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxrovz423/ojk-target-pertumbuhan-kredit-2025-tak-berubah-meski-phk-marak",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
-    },
-    {
-      "judul": "Menilik Performa Tijjani Reijnders selama Berseragam AC Milan",
-      "link_berita": "https://skor.republika.co.id/posts/685110/menilik-performa-tijjani-reijnders-selama-berseragam-ac-milan",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 23:53:09"
-    },
-    {
-      "judul": "Satu Penumpang Air India yang Jatuh di Ahmedabad Dilaporkan Selamat, Ini Kesaksiannya",
-      "link_berita": "https://news.republika.co.id/berita/sxrn3b409/satu-penumpang-air-india-yang-jatuh-di-ahmedabad-dilaporkan-selamat-ini-kesaksiannya",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 22:53:09"
-    },
-    {
-      "judul": "Menerka Calon Lawan Timnas Indonesia di Putaran 4 Kualifikasi Piala Dunia 2026",
-      "link_berita": "https://skor.republika.co.id/posts/685108/menerka-calon-lawan-timnas-indonesia-di-putaran-4-kualifikasi-piala-dunia-2026",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 22:53:09"
-    },
-    {
-      "judul": "Kamis, Prabowo Ditelepon Presiden AS Donald Trump",
-      "link_berita": "https://news.republika.co.id/berita/sxrmx7484/kamis-prabowo-ditelepon-presiden-as-donald-trump",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 22:53:09"
-    },
-    {
-      "judul": "Stafsus Nadiem Jelaskan Perannya dalam Pengadaan Chromebook yang Diusut Kejagung",
-      "link_berita": "https://news.republika.co.id/berita/sxrlce409/stafsus-nadiem-jelaskan-perannya-dalam-pengadaan-chromebook-yang-diusut-kejagung",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 22:53:09"
-    },
-    {
-      "judul": "Mesir Mulai Deportasi Peserta Konvoi Darat ke Gaza",
-      "link_berita": "https://news.republika.co.id/berita/sxr4iy393/mesir-mulai-deportasi-peserta-konvoi-darat-ke-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 22:53:09"
-    },
-    {
-      "judul": "Green Faith Indonesia: Mencabut Seluruh IUP yang Merusak Bentuk Taat kepada Allah",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxrin8483/green-faith-indonesia-mencabut-seluruh-iup-yang-merusak-bentuk-taat-kepada-allah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 21:53:09"
-    },
-    {
-      "judul": "BP Haji Optimistis Revisi UU Haji Tuntas Tahun Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxrike430/bp-haji-optimistis-revisi-uu-haji-tuntas-tahun-ini",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 21:53:09"
-    },
-    {
-      "judul": "20 Ribu Jamaah Haji tak dapat Makan akan Diberi Kompensasi Senilai 1,5 Juta Riyal dari BPKH Limited",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxri1v430/20-ribu-jamaah-haji-tak-dapat-makan-akan-diberi-kompensasi-senilai-15-juta-riyal-dari-bpkh-limited",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 20:53:09"
-    },
-    {
-      "judul": "Naskah Khutbah Jumat: Jagalah Alam, Jangan Malah Merusaknya",
-      "link_berita": "https://iqra.republika.co.id/berita/sxr3uh366/naskah-khutbah-jumat-jagalah-alam-jangan-malah-merusaknya",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 20:53:09"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Palembang, 13 Juni 2025: Beribadah Tepat Waktu Sebagai Bentuk Penghambaan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxrg341539076951/jadwal-sholat-hari-ini-di-palembang-13-juni-2025-beribadah-tepat-waktu-sebagai-bentuk-penghambaan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 20:53:09"
-    },
-    {
-      "judul": "Update Ranking FIFA: Timnas Putri Indonesia Turun Satu Tangga",
-      "link_berita": "https://skor.republika.co.id/posts/685103/update-ranking-fifa-timnas-putri-indonesia-turun-satu-tangga",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 20:53:09"
-    },
-    {
-      "judul": "Judul: Temukan Kedamaian Melalui Ibadah: Jadwal Sholat Hari Ini 13 Juni 2025 di Yogyakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxreox582176819/judul-temukan-kedamaian-melalui-ibadah-jadwal-sholat-hari-ini-13-juni-2025-di-yogyakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 19:53:09"
-    },
-    {
-      "judul": "Menggapai Ketentraman dalam Ibadah: Jadwal Sholat Hari Ini, 13 Juni 2025 di Jakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxrd601653872384/menggapai-ketentraman-dalam-ibadah-jadwal-sholat-hari-ini-13-juni-2025-di-jakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 19:53:09"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Medan, 13 Juni 2025: Optimalkan Ibadah Anda dengan Tepat Waktu",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxrbqh1128740180/jadwal-sholat-hari-ini-di-medan-13-juni-2025-optimalkan-ibadah-anda-dengan-tepat-waktu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Naik Haji Pakai Uang Haram, Apakah Sah dan Mabrur?",
-      "link_berita": "https://kurusetra.republika.co.id/posts/685099/naik-haji-pakai-uang-haram-apakah-sah-dan-mabrur",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Humor Wayang Gus Dur: Angka Kemiskinan di Indonesia Menurun, Menurun ke Anak Cucu",
-      "link_berita": "https://kurusetra.republika.co.id/posts/685065/humor-wayang-gus-dur-angka-kemiskinan-di-indonesia-menurun-menurun-ke-anak-cucu",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini Hari Ini, 13 Juni 2025 di Depok: Panduan Waktu Ibadah dan Refleksi Ketaatan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxrarg930348622/jadwal-sholat-hari-ini-hari-ini-13-juni-2025-di-depok-panduan-waktu-ibadah-dan-refleksi-ketaatan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Viral Guru Tendang Kepala Murid di Demak, Berakhir Damai",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxrao8282/viral-guru-tendang-kepala-murid-di-demak-berakhir-damai",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Humor Wayang Gus Dur: Angka Kemiskinan di Indonesia Menurun, Menurun ke Anak Cucu",
-      "link_berita": "https://kurusetra.republika.co.id/posts/685065/humor-wayang-gus-dur-angka-kemiskinan-di-indonesia-menurun-menurun-ke-anak-cucu",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "PTBA Rombak Direksi dan Bagi Dividen Rp3,83 Triliun",
-      "link_berita": "https://kingdomsriwijaya.id/posts/685067/ptba-rombak-direksi-dan-bagi-dividen-rp3-83-triliun",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Film Gowok: Kamasutra van Java, Femininitas atau Ego Maskulin?",
-      "link_berita": "https://filmusiku.com/posts/685074/film-gowok-kamasutra-van-java-femininitas-atau-ego-maskulin-",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Turnamen Tim Mackay 16th Golf Invitational Siap Digelar, Diikuti 144 Pegolf",
-      "link_berita": "https://magentatoday.id/posts/685076/turnamen-tim-mackay-16th-golf-invitational-siap-digelar-diikuti-144-pegolf",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 18:53:09"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini dan Keutamaan Menjaga Waktu di Semarang pada 13 Juni 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxr9lt1016305517/jadwal-sholat-hari-ini-dan-keutamaan-menjaga-waktu-di-semarang-pada-13-juni-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 17:53:09"
-    },
-    {
-      "judul": "PKS Komit Maksimalkan Koalisi Pemerintahan Prabowo",
-      "link_berita": "https://news.republika.co.id/berita/sxr9j9371/pks-komit-maksimalkan-koalisi-pemerintahan-prabowo",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 17:53:09"
-    },
-    {
-      "judul": "Keutamaan Sholat: Jadwal Sholat Hari Ini, 13 Juni 2025, di Bandung",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxr8kz408345590/keutamaan-sholat-jadwal-sholat-hari-ini-13-juni-2025-di-bandung",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 17:53:09"
-    },
-    {
-      "judul": "Temui Gubernur Pramono, Kaesang: Ngobrol Santai, dapat Wejangan Politik",
-      "link_berita": "https://tv.republika.co.id/berita/sxr7hb526/temui-gubernur-pramono-kaesang-ngobrol-santai-dapat-wejangan-politik",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 17:53:09"
-    },
-    {
-      "judul": "Menjemput Berkah: Jadwal Sholat Hari Ini di Surabaya, 13 Juni 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxr7ad667244885/menjemput-berkah-jadwal-sholat-hari-ini-di-surabaya-13-juni-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 17:53:09"
-    },
-    {
-      "judul": "80 Persen Barang Dunia Diangkut Laut, Pelindo Dorong Transformasi Digital Pelabuhan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxqyav370/80-persen-barang-dunia-diangkut-laut-pelindo-dorong-transformasi-digital-pelabuhan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 16:53:09"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Makassar, 13 Juni 2025: Temukan Waktu Sholat yang Tepat",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxr5zw793424816/jadwal-sholat-hari-ini-di-makassar-13-juni-2025-temukan-waktu-sholat-yang-tepat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Jun 2025, 16:53:09"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 00:21:39"
     },
     {
       "judul": "Indofest 2025 Resmi Dibuka, Diskon Hingga 70 Persen Menanti Pecinta Outdoor",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 12 Jun 2025, 21:15:00"
     },
     {
-      "judul": "Proyek Tanggul Laut Raksasa, Butuh Waktu 10 Tahun dan Biaya Rp 1.297 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxrtlp423/proyek-tanggul-laut-raksasa-butuh-waktu-10-tahun-dan-biaya-rp-1297-triliun",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 08:32:00"
+      "judul": "Ketidakpastian Geopolitik, Saham Emiten Emas Dinilai Punya Prospek Cerah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxrylw490/ketidakpastian-geopolitik-saham-emiten-emas-dinilai-punya-prospek-cerah",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:20:00"
     },
     {
       "judul": "Perkuat Ekosistem Halal, BPJPH: Tak Boleh Puas Hanya Jadi Konsumen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 12 Jun 2025, 11:41:00"
     },
     {
-      "judul": "Gaji Hakim Dinaikkan Hingga 280 Persen, Legislator Wanti-Wanti tentang Permainan Hukum",
-      "link_berita": "https://news.republika.co.id/berita/sxrucn487/gaji-hakim-dinaikkan-hingga-280-persen-legislator-wantiwanti-tentang-permainan-hukum",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 08:48:00"
+      "judul": "Selain Panglima Garda Revolusi Iran, Orang-Orang Penting Ini Juga Dilaporkan Gugur Diserang Israel",
+      "link_berita": "https://news.republika.co.id/berita/sxryl4487/selain-panglima-garda-revolusi-iran-orangorang-penting-ini-juga-dilaporkan-gugur-diserang-israel",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:00"
     }
   ],
-  "waktu_scraping": "Friday, 13 Jun 2025, 08:53:09"
+  "waktu_scraping": "Friday, 13 Jun 2025, 10:21:39"
 }
