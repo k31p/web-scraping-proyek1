@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Pengguna Transjabodetabek Bogor-Blok M Mengaku Sangat Terbantu: Tak Perlu Transit, Ongkos Irit",
+      "link_berita": "https://news.republika.co.id/berita/sxsn1f409/pengguna-transjabodetabek-bogorblok-m-mengaku-sangat-terbantu-tak-perlu-transit-ongkos-irit"
+    },
+    {
+      "judul": "JK: Empat Pulau Aceh Bagian Perjanjian dengan GAM",
+      "link_berita": "https://news.republika.co.id/berita/sxskzm393/jk-empat-pulau-aceh-bagian-perjanjian-dengan-gam"
+    },
+    {
       "judul": "Timnas Putri Indonesia U-19 Gebuk Malaysia 4-0, Lolos ke Semifinal Piala AFF U-19 Putri 2025",
       "link_berita": "https://news.republika.co.id/berita/sxsjq4348/timnas-putri-indonesia-u19-gebuk-malaysia-40-lolos-ke-semifinal-piala-aff-u19-putri-2025"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Menjajal Rute Baru Transjabodetabek yang Ditunggu-tunggu Warga Bogor",
       "link_berita": "https://news.republika.co.id/berita/sxsidv409/menjajal-rute-baru-transjabodetabek-yang-ditunggutunggu-warga-bogor"
-    },
-    {
-      "judul": "Kedubes Iran di Indonesia: Dengan Segenap Kekuatan, Angkatan Bersenjata Terus Melawan Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxsfxm430/kedubes-iran-di-indonesia-dengan-segenap-kekuatan-angkatan-bersenjata-terus-melawan-israel"
-    },
-    {
-      "judul": "Wamendagri Bima Arya Sebut Dua Alasan Pemda Boleh Rapat Lagi di Hotel",
-      "link_berita": "https://news.republika.co.id/berita/sxsb1u451/wamendagri-bima-arya-sebut-dua-alasan-pemda-boleh-rapat-lagi-di-hotel"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Ini Stasiun Kereta Favorit Wisatawan Asing di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsmpx490/ini-stasiun-kereta-favorit-wisatawan-asing-di-indonesia"
+    },
+    {
+      "judul": "Respons Kecelakaan Pesawat Air India, Kemenhub Sebut Tidak Ada Maskapai Nasional Pakai Boeing 787",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxskhu490/respons-kecelakaan-pesawat-air-india-kemenhub-sebut-tidak-ada-maskapai-nasional-pakai-boeing-787"
+    },
     {
       "judul": "Resmi, Qatar dan Arab Saudi Tuan Rumah Putaran Keempat Kualifikasi Piala Dunia 2026 Zona Asia",
       "link_berita": "https://news.republika.co.id/berita/sxshku348/resmi-qatar-dan-arab-saudi-tuan-rumah-putaran-keempat-kualifikasi-piala-dunia-2026-zona-asia"
@@ -73,316 +81,308 @@
     {
       "judul": "20 Ribu Jamaah Haji tak dapat Makan akan Diberi Kompensasi Senilai 1,5 Juta Riyal dari BPKH Limited",
       "link_berita": "https://khazanah.republika.co.id/berita/sxri1v430/20-ribu-jamaah-haji-tak-dapat-makan-akan-diberi-kompensasi-senilai-15-juta-riyal-dari-bpkh-limited"
-    },
-    {
-      "judul": "Naskah Khutbah Jumat: Jagalah Alam, Jangan Malah Merusaknya",
-      "link_berita": "https://iqra.republika.co.id/berita/sxr3uh366/naskah-khutbah-jumat-jagalah-alam-jangan-malah-merusaknya"
-    },
-    {
-      "judul": "Rosan Sebut Indonesia Butuh Rp10.438,5 Triliun untuk Infrastruktur, Danantara Sumbang Berapa?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxr083502/rosan-sebut-indonesia-butuh-rp104385-triliun-untuk-infrastruktur-danantara-sumbang-berapa"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Hyundai Palisade Hybrid Diklaim Makin Nyaman dan Irit, Berapa Konsumi BBM-nya?",
+      "link_berita": "https://news.republika.co.id/berita/sxsosu348/hyundai-palisade-hybrid-diklaim-makin-nyaman-dan-irit-berapa-konsumi-bbmnya",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:46:06"
+    },
+    {
+      "judul": "Pertamina Luncurkan Wajah Baru Media Korporasi Website",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsojw472/pertamina-luncurkan-wajah-baru-media-korporasi-website",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:40:25"
+    },
+    {
+      "judul": "Pertamina Siapkan Jalur Aman Distribusi Minyak Imbas Konflik Israel-Iran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsofw370/pertamina-siapkan-jalur-aman-distribusi-minyak-imbas-konflik-israeliran",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:38:25"
+    },
+    {
+      "judul": "Ini Target-Target Strategis dan Militer di Iran yang Dibom Israel",
+      "link_berita": "https://news.republika.co.id/berita/sxso61409/ini-targettarget-strategis-dan-militer-di-iran-yang-dibom-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:32:25"
+    },
+    {
+      "judul": "Hajar Malaysia, Timnas Putri U-19 Indonesia Lolos Semifinal Piala AFF Wanita U-19 2025",
+      "link_berita": "https://skor.republika.co.id/posts/685275/hajar-malaysia-timnas-putri-u-19-indonesia-lolos-semifinal-piala-aff-wanita-u-19-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:30:25"
+    },
+    {
+      "judul": "Gaji Hakim Naik, Anggarannya Masih Dihitung Kemenkeu",
+      "link_berita": "https://news.republika.co.id/berita/sxso0i484/gaji-hakim-naik-anggarannya-masih-dihitung-kemenkeu",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:29:25"
+    },
+    {
+      "judul": "Israel Tutup Paksa Seluruh Akses Masuk Masjid al-Aqsha",
+      "link_berita": "https://news.republika.co.id/berita/sxsnxs458/israel-tutup-paksa-seluruh-akses-masuk-masjid-alaqsha",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:27:25"
+    },
+    {
+      "judul": "Bos Pertamina Beberkan Capaian Positif Sepanjang 2024",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsn6k370/bos-pertamina-beberkan-capaian-positif-sepanjang-2024",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:11:25"
+    },
+    {
+      "judul": "Bahlil: Urusan Listrik Jangan Datang ke Tempat yang Bukan Mengurus Listrik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsn4c490/bahlil-urusan-listrik-jangan-datang-ke-tempat-yang-bukan-mengurus-listrik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:09:25"
+    },
+    {
+      "judul": "Pengguna Transjabodetabek Bogor-Blok M Mengaku Sangat Terbantu: Tak Perlu Transit, Ongkos Irit",
+      "link_berita": "https://news.republika.co.id/berita/sxsn1f409/pengguna-transjabodetabek-bogorblok-m-mengaku-sangat-terbantu-tak-perlu-transit-ongkos-irit",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:08:25"
+    },
+    {
+      "judul": "Trump Desak Iran Segera Berunding dengan Israel",
+      "link_berita": "https://news.republika.co.id/berita/sxsmx4458/trump-desak-iran-segera-berunding-dengan-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:05:25"
+    },
+    {
+      "judul": "Ini Stasiun Kereta Favorit Wisatawan Asing di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsmpx490/ini-stasiun-kereta-favorit-wisatawan-asing-di-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:01:25"
+    },
+    {
+      "judul": "Melihat Proses Konservasi Cagar Budaya di Gua Selomangleng",
+      "link_berita": "https://visual.republika.co.id/berita/sxsgnm375/melihat-proses-konservasi-cagar-budaya-di-gua-selomangleng",
+      "kategori": "Visual",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 12:00:25"
+    },
+    {
+      "judul": "Kemendagri 'Serahkan' 4 Pulau Milik Aceh ke Sumatera Utara, Begini Kronologi Penetapannya",
+      "link_berita": "https://republika.co.id/berita//sxsmnh282/kemendagri-serahkan-4-pulau-milik-aceh-ke-sumatera-utara-begini-kronologi-penetapannya",
+      "kategori": "Resumatra",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:59:25"
+    },
+    {
+      "judul": "Penerimaan Murid Baru di Jakarta akan Dimulai Pekan Depan, Begini Mekanismenya",
+      "link_berita": "https://news.republika.co.id/berita/sxsmjg409/penerimaan-murid-baru-di-jakarta-akan-dimulai-pekan-depan-begini-mekanismenya",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:57:25"
+    },
+    {
+      "judul": "Pengamat Soroti Polemik Empat Pulau di Tapteng Masalah Kemendagri dengan Masinton",
+      "link_berita": "https://news.republika.co.id/berita/sxsmbm484/pengamat-soroti-polemik-empat-pulau-di-tapteng-masalah-kemendagri-dengan-masinton",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:52:25"
+    },
+    {
+      "judul": "Pertumbuhan Ekonomi Melambat, DSC Ambil Bagian Lanjutkan Program Inkubasi Kewirausahaan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsm7v370/pertumbuhan-ekonomi-melambat-dsc-ambil-bagian-lanjutkan-program-inkubasi-kewirausahaan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:50:25"
+    },
+    {
+      "judul": "Cemari Udara, Dua Pabrik di Kabupaten Bekasi Disegel",
+      "link_berita": "https://esgnow.republika.co.id/berita/sxslpy416/cemari-udara-dua-pabrik-di-kabupaten-bekasi-disegel",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:46:25"
+    },
+    {
+      "judul": "Jamaah Haji Kloter Pertama Palembang Tiba di Tanah Air",
+      "link_berita": "https://khazanah.republika.co.id/berita/sxsle1458/jamaah-haji-kloter-pertama-palembang-tiba-di-tanah-air",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:46:25"
+    },
+    {
+      "judul": "JK: Empat Pulau Aceh Bagian Perjanjian dengan GAM",
+      "link_berita": "https://news.republika.co.id/berita/sxskzm393/jk-empat-pulau-aceh-bagian-perjanjian-dengan-gam",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:46:25"
+    },
+    {
+      "judul": "Erick Thohir Terima Qatar dan Arab Saudi Tuan Rumah Kualifikasi Piala Dunia, Berharap Laga Adil",
+      "link_berita": "https://news.republika.co.id/berita/sxskz9348/erick-thohir-terima-qatar-dan-arab-saudi-tuan-rumah-kualifikasi-piala-dunia-berharap-laga-adil",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:46:25"
+    },
+    {
+      "judul": "Sri Mulyani: Belanja Negara Meningkat, Penerimaan Harus Dikejar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsku5370/sri-mulyani-belanja-negara-meningkat-penerimaan-harus-dikejar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:46:25"
+    },
+    {
+      "judul": "Bidding PSSI Ditolak, AFC Resmi Pastikan Tuan Rumah Putaran 4 Kualifikasi Piala Dunia 2026",
+      "link_berita": "https://skor.republika.co.id/posts/685268/bidding-pssi-ditolak-afc-resmi-pastikan-tuan-rumah-putaran-4-kualifikasi-piala-dunia-2026",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 11:46:25"
+    },
+    {
       "judul": "Jamaah Indonesia Berburu Oleh-oleh di 'Pasar Tanah Abang' Makkah",
       "link_berita": "https://khazanah.republika.co.id/berita/sxskkh458/jamaah-indonesia-berburu-oleholeh-di-pasar-tanah-abang-makkah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 11:14:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Respons Kecelakaan Pesawat Air India, Kemenhub Sebut Tidak Ada Maskapai Nasional Pakai Boeing 787",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxskhu490/respons-kecelakaan-pesawat-air-india-kemenhub-sebut-tidak-ada-maskapai-nasional-pakai-boeing-787",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 11:13:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Tertibkan Tambang Ilegal, Kementerian ESDM Siapkan Dirjen Baru",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxskbh490/tertibkan-tambang-ilegal-kementerian-esdm-siapkan-dirjen-baru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 11:09:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Ekspor Perikanan via Udara, Pemprov Kepri: Sedang Penjajakan",
       "link_berita": "https://news.republika.co.id/berita/sxsbwl451/ekspor-perikanan-via-udara-pemprov-kepri-sedang-penjajakan",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 11:03:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Israel Serang Iran, Sejumlah Bangunan di Teheran Rusak",
       "link_berita": "https://visual.republika.co.id/berita/sxsgkw375/israel-serang-iran-sejumlah-bangunan-di-teheran-rusak",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 11:00:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "IHSG Melemah di Tengah Ketegangan Geopolitik Timur Tengah",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxsjv3490/ihsg-melemah-di-tengah-ketegangan-geopolitik-timur-tengah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:59:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Bos Pertamina Bersyukur Pertamina Mampu Lewati Tantangan 2024",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxsjqi490/bos-pertamina-bersyukur-pertamina-mampu-lewati-tantangan-2024",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:56:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Timnas Putri Indonesia U-19 Gebuk Malaysia 4-0, Lolos ke Semifinal Piala AFF U-19 Putri 2025",
       "link_berita": "https://news.republika.co.id/berita/sxsjq4348/timnas-putri-indonesia-u19-gebuk-malaysia-40-lolos-ke-semifinal-piala-aff-u19-putri-2025",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:56:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Polda Jatim Ungkap Komunitas Gay di Medsos, Punya 11 Ribu Anggota",
       "link_berita": "https://rejogja.republika.co.id/berita/sxsjov282/polda-jatim-ungkap-komunitas-gay-di-medsos-punya-11-ribu-anggota",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:55:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Penjualan Menurun, Pabrik Coca Cola di Bali Tutup dan PHK Puluhan Karyawan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxsjmx370/penjualan-menurun-pabrik-coca-cola-di-bali-tutup-dan-phk-puluhan-karyawan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:54:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Yordania Cegat Rudal dari Iran ke Israel?",
       "link_berita": "https://news.republika.co.id/berita/sxsjk0393/yordania-cegat-rudal-dari-iran-ke-israel",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:53:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Disurati Pemprov DKI Minta Bongkar Tiang Monorel, PT Adhi Karya Buka Suara",
       "link_berita": "https://news.republika.co.id/berita/sxsjhs484/disurati-pemprov-dki-minta-bongkar-tiang-monorel-pt-adhi-karya-buka-suara",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:51:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Prabowo Telepon Trump, Airlangga Ungkap Bakal Ada Keputusan Terkait Tarif Dagang",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxsjd6490/prabowo-telepon-trump-airlangga-ungkap-bakal-ada-keputusan-terkait-tarif-dagang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:48:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Two State Solution Palestina dan Solusi Bersama Empat Pulau Aceh-Sumut",
       "link_berita": "https://analisis.republika.co.id/berita/sxsiyt393/two-state-solution-palestina-dan-solusi-bersama-empat-pulau-acehsumut",
       "kategori": "Kolom",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:40:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Jadwal dan Link Live Streaming Women Pro Futsal League 2024-2025: Pekan 2, 14-15 Juni",
       "link_berita": "https://skor.republika.co.id/posts/685260/jadwal-dan-link-live-streaming-women-pro-futsal-league-2024-2025-pekan-2-14-15-juni",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:40:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Banjir Rob Sayung Demak Belum Teratasi, Pemprov Jateng Keruk Sedimentasi Sungai Dombo",
       "link_berita": "https://rejogja.republika.co.id/berita/sxsiye282/banjir-rob-sayung-demak-belum-teratasi-pemprov-jateng-keruk-sedimentasi-sungai-dombo",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:40:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Transjakarta Ubah Rute saat Jakarta Marathon, Berikut Daftar Penyesuaiannya",
       "link_berita": "https://news.republika.co.id/berita/sxsiua370/transjakarta-ubah-rute-saat-jakarta-marathon-berikut-daftar-penyesuaiannya",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:37:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Super Junior Umumkan Tur Dunia Super Show 10 Rayakan 20 Tahun Debut",
       "link_berita": "https://chingudeul.republika.co.id/posts/685217/super-junior-umumkan-tur-dunia-super-show-10-rayakan-20-tahun-debut",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:36:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Sukabumi Dorong Berkembangnya Ekosistem Ekonomi Syariah",
       "link_berita": "https://sukabumikini.com/posts/685258/sukabumi-dorong-berkembangnya-ekosistem-ekonomi-syariah",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:34:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Beberapa Sarana Rusak, Pemkot Segera Revitalisasi Lapang Merdeka Sukabumi",
       "link_berita": "https://sukabumikini.com/posts/685259/beberapa-sarana-rusak-pemkot-segera-revitalisasi-lapang-merdeka-sukabumi",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:34:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Bojan Minta Bobotoh Bersabar Soal Adaptasi Para Pemain Baru Persib",
       "link_berita": "https://rejabar.republika.co.id/berita/sxsio8512/bojan-minta-bobotoh-bersabar-soal-adaptasi-para-pemain-baru-persib",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:33:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Jepang Kutuk Keras Serangan Israel ke Iran, Serukan Damai",
       "link_berita": "https://news.republika.co.id/berita/sxsbor451/jepang-kutuk-keras-serangan-israel-ke-iran-serukan-damai",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:31:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Pupuk Indonesia Pastikan Perubahan Tata Kelola tak Ganggu Penyaluran Pupuk Bersubsidi ke Petani",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxsigm472/pupuk-indonesia-pastikan-perubahan-tata-kelola-tak-ganggu-penyaluran-pupuk-bersubsidi-ke-petani",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:29:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Jabodetabek Diselimuti Polusi, Warga Hirup Udara tak Sehat Hampir Setiap Hari",
       "link_berita": "https://esgnow.republika.co.id/berita/sxsig2416/jabodetabek-diselimuti-polusi-warga-hirup-udara-tak-sehat-hampir-setiap-hari",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:29:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Polisi Tangkap Admin Grup Homo 'Gay-Tuban-Lamongan-Bojonegoro'",
       "link_berita": "https://news.republika.co.id/berita/sxsifp484/polisi-tangkap-admin-grup-homo-gaytubanlamonganbojonegoro",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:28:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Menjajal Rute Baru Transjabodetabek yang Ditunggu-tunggu Warga Bogor",
       "link_berita": "https://news.republika.co.id/berita/sxsidv409/menjajal-rute-baru-transjabodetabek-yang-ditunggutunggu-warga-bogor",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:27:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "OJK: Permintaan Kredit Lebih Tinggi dari Pertumbuhan Dana Masyarakat di Bank",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxsibz370/ojk-permintaan-kredit-lebih-tinggi-dari-pertumbuhan-dana-masyarakat-di-bank",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:26:17"
-    },
-    {
-      "judul": "Bos Geely Tegaskan tak akan Bangun Pabrik Baru, Ini Penjelasan Geely Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxsi5z468/bos-geely-tegaskan-tak-akan-bangun-pabrik-baru-ini-penjelasan-geely-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:22:17"
-    },
-    {
-      "judul": "Ini Enam Nama Ilmuwan Nuklir Iran yang Terbunuh dalam Serangan Terbaru Israel",
-      "link_berita": "https://news.republika.co.id/berita/sxsht6487/ini-enam-nama-ilmuwan-nuklir-iran-yang-terbunuh-dalam-serangan-terbaru-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Kejagung Benarkan Ibrahim Arief Bukan Stafsus Mendikbudristek Nadiem",
-      "link_berita": "https://news.republika.co.id/berita/sxshru484/kejagung-benarkan-ibrahim-arief-bukan-stafsus-mendikbudristek-nadiem",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Puluhan Pelajar SMP dan SMA di Bandung Barat Terjaring Razia Satpol PP",
-      "link_berita": "https://rejabar.republika.co.id/berita/sxshpk512/puluhan-pelajar-smp-dan-sma-di-bandung-barat-terjaring-razia-satpol-pp",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Resmi, Qatar dan Arab Saudi Tuan Rumah Putaran Keempat Kualifikasi Piala Dunia 2026 Zona Asia",
-      "link_berita": "https://news.republika.co.id/berita/sxshku348/resmi-qatar-dan-arab-saudi-tuan-rumah-putaran-keempat-kualifikasi-piala-dunia-2026-zona-asia",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Mahasiswi Asal Kota Cimahi Ditusuk Orang tak Dikenal di Rumahnya",
-      "link_berita": "https://rejabar.republika.co.id/berita/sxshb0512/mahasiswi-asal-kota-cimahi-ditusuk-orang-tak-dikenal-di-rumahnya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Akademisi UI Ungkap Kritisnya Kondisi Air Tanah Jakarta",
-      "link_berita": "https://esgnow.republika.co.id/berita/sxshad416/akademisi-ui-ungkap-kritisnya-kondisi-air-tanah-jakarta",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Wamen dorong UMMI jadi garda terdepan Risalah Islam Berkemajuan",
-      "link_berita": "https://news.republika.co.id/berita/sxsbje451/wamen-dorong-ummi-jadi-garda-terdepan-risalah-islam-berkemajuan",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Psikologi UAD-SMP Muhammadiyah Banguntapan Kolaborasi Ciptakan Iklim Sekolah Sehat",
-      "link_berita": "https://rejogja.republika.co.id/berita/sxsh4j291/psikologi-uadsmp-muhammadiyah-banguntapan-kolaborasi-ciptakan-iklim-sekolah-sehat",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Jamaah Haji Kloter Pertama Embarkasi Solo Tiba di Tanah Air",
-      "link_berita": "https://visual.republika.co.id/berita/sxsdz2375/jamaah-haji-kloter-pertama-embarkasi-solo-tiba-di-tanah-air",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 10:19:17"
-    },
-    {
-      "judul": "Green Qurban MLH PP Muhammadiyah Digelar Serentak di Tujuh Titik Strategis di Indonesia",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxsgbd483/green-qurban-mlh-pp-muhammadiyah-digelar-serentak-di-tujuh-titik-strategis-di-indonesia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Akses Air Bersih Perpipaan 22 Persen, Menko AHY: Kita akan Tingkatkan Jadi 40 Persen",
-      "link_berita": "https://news.republika.co.id/berita/sxsb8l451/akses-air-bersih-perpipaan-22-persen-menko-ahy-kita-akan-tingkatkan-jadi-40-persen",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Kedubes Iran di Indonesia: Dengan Segenap Kekuatan, Angkatan Bersenjata Terus Melawan Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxsfxm430/kedubes-iran-di-indonesia-dengan-segenap-kekuatan-angkatan-bersenjata-terus-melawan-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Playoff MPL ID Season 15: GEEK Fam Pulangkan Alter Ego",
-      "link_berita": "https://skor.republika.co.id/posts/685245/playoff-mpl-id-season-15-geek-fam-pulangkan-alter-ego",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Haji 2025 Dinilai Banyak Persoalan, Wakil BP Haji tak Takut Ditekan",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxsf8n430/haji-2025-dinilai-banyak-persoalan-wakil-bp-haji-tak-takut-ditekan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Polemik Haji, Dahnil: Banyak Status Quo yang Kuat Kepanasan, Bisa Fight Back",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxsf35483/polemik-haji-dahnil-banyak-status-quo-yang-kuat-kepanasan-bisa-fight-back",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Bukan Stafsus Nadiem, Ibrahim Arief Disebut Kejagung Konsultan di Pengadaan Chromebook",
-      "link_berita": "https://news.republika.co.id/berita/sxsey8409/bukan-stafsus-nadiem-ibrahim-arief-disebut-kejagung-konsultan-di-pengadaan-chromebook",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Israel Serang Iran, Rupiah Melemah Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxseqa490/israel-serang-iran-rupiah-melemah-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Konflik Iran-Israel, Ini Respons Ketum PBNU",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxseee430/konflik-iranisrael-ini-respons-ketum-pbnu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Wamendagri Bima Arya Sebut Dua Alasan Pemda Boleh Rapat Lagi di Hotel",
-      "link_berita": "https://news.republika.co.id/berita/sxsb1u451/wamendagri-bima-arya-sebut-dua-alasan-pemda-boleh-rapat-lagi-di-hotel",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Duka Selimuti Keluarga Korban Kecelakaan Pesawat Air India",
-      "link_berita": "https://visual.republika.co.id/berita/sxsduw375/duka-selimuti-keluarga-korban-kecelakaan-pesawat-air-india",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Bela Israel, Kanselir Jerman: Iran tak Boleh Dibiarkan Merancang Senjata Nuklir",
-      "link_berita": "https://news.republika.co.id/berita/sxse68458/bela-israel-kanselir-jerman-iran-tak-boleh-dibiarkan-merancang-senjata-nuklir",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
-    },
-    {
-      "judul": "Ratusan Orang Kepung Waduk Saguling Bersihkan Sampah dan Eceng Gondok hingga 1 Ton",
-      "link_berita": "https://rejabar.republika.co.id/berita/sxse5o512/ratusan-orang-kepung-waduk-saguling-bersihkan-sampah-dan-eceng-gondok-hingga-1-ton",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 09:19:17"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 10:46:25"
     },
     {
       "judul": "Millers for Nutrition Resmi Diluncurkan, Bappenas Dorong Fortifikasi Pangan Perkuat SDM",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Friday, 13 Jun 2025, 09:15:00"
     },
     {
-      "judul": "Jabodetabek Diselimuti Polusi, Warga Hirup Udara tak Sehat Hampir Setiap Hari",
-      "link_berita": "https://esgnow.republika.co.id/berita/sxsig2416/jabodetabek-diselimuti-polusi-warga-hirup-udara-tak-sehat-hampir-setiap-hari",
+      "judul": "Cemari Udara, Dua Pabrik di Kabupaten Bekasi Disegel",
+      "link_berita": "https://esgnow.republika.co.id/berita/sxslpy416/cemari-udara-dua-pabrik-di-kabupaten-bekasi-disegel",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 17:28:00"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 18:39:00"
     },
     {
-      "judul": "Respons Kecelakaan Pesawat Air India, Kemenhub Sebut Tidak Ada Maskapai Nasional Pakai Boeing 787",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxskhu490/respons-kecelakaan-pesawat-air-india-kemenhub-sebut-tidak-ada-maskapai-nasional-pakai-boeing-787",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 18:13:00"
+      "judul": "Pertamina Luncurkan Wajah Baru Media Korporasi Website",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxsojw472/pertamina-luncurkan-wajah-baru-media-korporasi-website",
+      "kategori": "Energi",
+      "tanggal_terbit": "Friday, 13 Jun 2025, 19:40:00"
     },
     {
       "judul": "BSI Kelola 1,2 Juta Rekening Payroll, Dorong Inklusi Keuangan Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 13 Jun 2025, 14:18:00"
     },
     {
-      "judul": "Timnas Putri Indonesia U-19 Gebuk Malaysia 4-0, Lolos ke Semifinal Piala AFF U-19 Putri 2025",
-      "link_berita": "https://news.republika.co.id/berita/sxsjq4348/timnas-putri-indonesia-u19-gebuk-malaysia-40-lolos-ke-semifinal-piala-aff-u19-putri-2025",
+      "judul": "Hyundai Palisade Hybrid Diklaim Makin Nyaman dan Irit, Berapa Konsumi BBM-nya?",
+      "link_berita": "https://news.republika.co.id/berita/sxsosu348/hyundai-palisade-hybrid-diklaim-makin-nyaman-dan-irit-berapa-konsumi-bbmnya",
       "kategori": "Sport",
-      "tanggal_terbit": "Friday, 13 Jun 2025, 17:56:00"
+      "tanggal_terbit": "Friday, 13 Jun 2025, 19:46:00"
     }
   ],
-  "waktu_scraping": "Friday, 13 Jun 2025, 18:19:17"
+  "waktu_scraping": "Friday, 13 Jun 2025, 19:46:25"
 }
