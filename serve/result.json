@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Disebut Larang Kedatangan Dr Zakir Naik ke Indonesia, Begini Penjelasan Gus Yasin",
+      "link_berita": "https://news.republika.co.id/berita/sxy92g487/disebut-larang-kedatangan-dr-zakir-naik-ke-indonesia-begini-penjelasan-gus-yasin"
+    },
+    {
       "judul": "Jangan Lupakan Gaza, Israel Masih Lakukan Pembantaian",
       "link_berita": "https://news.republika.co.id/berita/sxy74q393/jangan-lupakan-gaza-israel-masih-lakukan-pembantaian"
     },
@@ -15,15 +19,15 @@
     {
       "judul": "MUI Harap Mesir-Libya Lepas dari Tekanan Israel: Jangan Adang Konvoi Kemanusiaan ke Gaza!",
       "link_berita": "https://khazanah.republika.co.id/berita/sxy2nj458/mui-harap-mesirlibya-lepas-dari-tekanan-israel-jangan-adang-konvoi-kemanusiaan-ke-gaza"
-    },
-    {
-      "judul": "Prabowo Serukan Gencatan Senjata Gaza dan Redakan Konflik Iran-Israel",
-      "link_berita": "https://news.republika.co.id/berita/sxy0pt487/prabowo-serukan-gencatan-senjata-gaza-dan-redakan-konflik-iranisrael"
     }
   ],
   "berita_unggulan": [
     {
-      "judul": "Yogyakarta Jadi Tujuan Favorit Wisatawan, Tapi 430 Ribu Warganya Masih Miskin",
+      "judul": "Ini Manfaat Main LEGO yang Jarang Diketahui, Enggak Cuma Buat Anak-Anak",
+      "link_berita": "https://ameera.republika.co.id/berita/sxyatw425/ini-manfaat-main-lego-yang-jarang-diketahui-enggak-cuma-buat-anakanak"
+    },
+    {
+      "judul": "Yogyakarta Jadi Tujuan Favorit Wisatawan, tapi 430 Ribu Warganya Masih Miskin",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy8pu282/yogyakarta-jadi-tujuan-favorit-wisatawan-tapi-430-ribu-warganya-masih-miskin"
     },
     {
@@ -77,318 +81,314 @@
     {
       "judul": "Peta Kekuatan Ekonomi Iran vs Israel, Mana Lebih Unggul?",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxxlo1502/peta-kekuatan-ekonomi-iran-vs-israel-mana-lebih-unggul"
-    },
-    {
-      "judul": "Suhu di Makkah Capai 45 Derajat Celsius, PPIH Imbau Jamaah Batasi Ibadah Sunah",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxxjlf483/suhu-di-makkah-capai-45-derajat-celsius-ppih-imbau-jamaah-batasi-ibadah-sunah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Rusun Jadi Solusi TOD, Pemerintah Fokuskan Hunian Dekat Transportasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxyawf370/rusun-jadi-solusi-tod-pemerintah-fokuskan-hunian-dekat-transportasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:31:44"
+    },
+    {
+      "judul": "Ini Manfaat Main LEGO yang Jarang Diketahui, Enggak Cuma Buat Anak-Anak",
+      "link_berita": "https://ameera.republika.co.id/berita/sxyatw425/ini-manfaat-main-lego-yang-jarang-diketahui-enggak-cuma-buat-anakanak",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:29:44"
+    },
+    {
+      "judul": "80 Ribu Kopdes Merah Putih Terbentuk, Pemerintah Siapkan Langkah Lanjutan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxyaqf370/80-ribu-kopdes-merah-putih-terbentuk-pemerintah-siapkan-langkah-lanjutan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:27:44"
+    },
+    {
+      "judul": "Masyarakat Resah Banjir Rob di Pesisir Demak Masih Belum Bisa Diatasi, Wagub Jateng Minta Maaf",
+      "link_berita": "https://rejogja.republika.co.id/berita/sxy8x4282/masyarakat-resah-banjir-rob-di-pesisir-demak-masih-belum-bisa-diatasi-wagub-jateng-minta-maaf",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:09:44"
+    },
+    {
+      "judul": "Pembangunan Hotel Fox Lite Bekasi Diminta Prioritaskan Warga Sekitar untuk Dipekerjakan",
+      "link_berita": "https://rejabar.republika.co.id/berita/sxy9wn512/pembangunan-hotel-fox-lite-bekasi-diminta-prioritaskan-warga-sekitar-untuk-dipekerjakan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:09:44"
+    },
+    {
+      "judul": "Kembali Gelar Culinary Festival, BMD Culinary School Angkat Bahan Baku Kedelai",
+      "link_berita": "https://rejogja.republika.co.id/berita/sxy9tm291/kembali-gelar-culinary-festival-bmd-culinary-school-angkat-bahan-baku-kedelai",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:07:44"
+    },
+    {
+      "judul": "Pembangunan Kampung Nelayan Merah Putih Disebut Butuh Anggaran Rp 24,2 Triliun",
+      "link_berita": "https://news.republika.co.id/berita/sxy9qq487/pembangunan-kampung-nelayan-merah-putih-disebut-butuh-anggaran-rp-242-triliun",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 13:06:44"
+    },
+    {
+      "judul": "Jamaah Haji Dilarang Bawa Air Zamzam dalam Koper Bagasi",
+      "link_berita": "https://visual.republika.co.id/berita/sxy9b3375/jamaah-haji-dilarang-bawa-air-zamzam-dalam-koper-bagasi",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:59:44"
+    },
+    {
+      "judul": "Sering Dikira Sehat, Dokter Ingatkan Minyak Goreng Ini Bisa Picu Penyakit Jantung",
+      "link_berita": "https://ameera.republika.co.id/berita/sxy9fn425/sering-dikira-sehat-dokter-ingatkan-minyak-goreng-ini-bisa-picu-penyakit-jantung",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:59:44"
+    },
+    {
+      "judul": "Prabowo dan PM Wong Resmikan Milestone Ceremony Proyek Energi Terbarukan",
+      "link_berita": "https://news.republika.co.id/berita/sxy9cy484/prabowo-dan-pm-wong-resmikan-milestone-ceremony-proyek-energi-terbarukan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:57:44"
+    },
+    {
+      "judul": "Jamal Musiala Top Skor Sementara Piala Dunia Antarklub",
+      "link_berita": "https://news.republika.co.id/berita/sxy980348/jamal-musiala-top-skor-sementara-piala-dunia-antarklub",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:54:44"
+    },
+    {
+      "judul": "Disebut Larang Kedatangan Dr Zakir Naik ke Indonesia, Begini Penjelasan Gus Yasin",
+      "link_berita": "https://news.republika.co.id/berita/sxy92g487/disebut-larang-kedatangan-dr-zakir-naik-ke-indonesia-begini-penjelasan-gus-yasin",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:51:44"
+    },
+    {
+      "judul": "PGRI Dukung TKA, Dorong Guru dan Orang Tua Lebih Aktif dalam Pembelajaran",
+      "link_berita": "https://news.republika.co.id/berita/sxy8zq349/pgri-dukung-tka-dorong-guru-dan-orang-tua-lebih-aktif-dalam-pembelajaran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:49:44"
+    },
+    {
       "judul": "Komnas HAM Tegaskan Perkosaan Terjadi dalam Peristiwa Kerusuhan Mei 1998",
       "link_berita": "https://news.republika.co.id/berita/sxy8we348/komnas-ham-tegaskan-perkosaan-terjadi-dalam-peristiwa-kerusuhan-mei-1998",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:48:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:47:44"
     },
     {
       "judul": "Pertamina International Shipping Tanam 600 Terumbu Karang di Kepulauan Seribu",
       "link_berita": "https://esgnow.republika.co.id/berita/sxy8t7349/pertamina-international-shipping-tanam-600-terumbu-karang-di-kepulauan-seribu",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:46:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:46:44"
     },
     {
-      "judul": "Yogyakarta Jadi Tujuan Favorit Wisatawan, Tapi 430 Ribu Warganya Masih Miskin",
+      "judul": "Yogyakarta Jadi Tujuan Favorit Wisatawan, tapi 430 Ribu Warganya Masih Miskin",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy8pu282/yogyakarta-jadi-tujuan-favorit-wisatawan-tapi-430-ribu-warganya-masih-miskin",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:44:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:44:44"
     },
     {
       "judul": "Sengketa 4 Pulau Aceh-Sumut, Senator Asal Tanah Rencong Ingatkan Ini kepada Mendagri",
       "link_berita": "https://news.republika.co.id/berita/sxy8jr487/sengketa-4-pulau-acehsumut-senator-asal-tanah-rencong-ingatkan-ini-kepada-mendagri",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:40:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:40:44"
     },
     {
       "judul": "Putri Anies Baswedan Bisa Jadi Gagal Kuliah di Harvard University, Ini Alasannya",
       "link_berita": "https://news.republika.co.id/berita/sxy89v348/putri-anies-baswedan-bisa-jadi-gagal-kuliah-di-harvard-university-ini-alasannya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:34:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:44"
     },
     {
       "judul": "Soal Beasiswa Mutiara Baswedan, Dirut LPDP: LPDP untuk Semua Orang, Putra Putri Terbaik",
       "link_berita": "https://news.republika.co.id/berita/sxy7zx348/soal-beasiswa-mutiara-baswedan-dirut-lpdp-lpdp-untuk-semua-orang-putra-putri-terbaik",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:29:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:44"
     },
     {
       "judul": "Harga Beras Lampaui HET, Kemendagri Minta Pemda Segera Intervensi",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxy7np416/harga-beras-lampaui-het-kemendagri-minta-pemda-segera-intervensi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:21:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Lakukan Pelanggaran Berat, Imran Nahumarury dan Yeyen Tumena Dipecat Malut United",
       "link_berita": "https://skor.republika.co.id/posts/685890/lakukan-pelanggaran-berat-imran-nahumarury-dan-yeyen-tumena-dipecat-malut-united",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:20:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Benarkah Wanita Lebih Banyak Bicara Dibandingkan Pria?",
       "link_berita": "https://ameera.republika.co.id/berita/sxy7i1425/benarkah-wanita-lebih-banyak-bicara-dibandingkan-pria",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:18:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Tak Jadi ke Vietnam, Kapal Induk AS Siap Bantu Israel di Timur Tengah?",
       "link_berita": "https://news.republika.co.id/berita/sxy7h2458/tak-jadi-ke-vietnam-kapal-induk-as-siap-bantu-israel-di-timur-tengah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:17:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Jangan Lupakan Gaza, Israel Masih Lakukan Pembantaian",
       "link_berita": "https://news.republika.co.id/berita/sxy74q393/jangan-lupakan-gaza-israel-masih-lakukan-pembantaian",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:10:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Jamaah Haji Jangan Coba-Coba Selundupkan Air Zamzam di Koper Risikonya Besar, Percuma Diselotip Tetap Ketahuan",
       "link_berita": "https://kurusetra.net/posts/685884/jamaah-haji-jangan-coba-coba-selundupkan-air-zamzam-di-koper-risikonya-besar-percuma-diselotip-tetap-ketahuan",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:08:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Pemkot Bandung Akan Operasikan Teknologi Biodigester di Pasar Gedebage",
       "link_berita": "https://bandung24jam.id/posts/685880/pemkot-bandung-akan-operasikan-teknologi-biodigester-di-pasar-gedebage",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:08:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Pemerintah Percepat Penyelesaian Proyek Renovasi Bangunan Sekolah Rakyat",
       "link_berita": "https://visual.republika.co.id/berita/sxy71b375/pemerintah-percepat-penyelesaian-proyek-renovasi-bangunan-sekolah-rakyat",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:08:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Promo Libur Sekolah, Tiket Kereta Cepat Whoosh ke Bandung Hanya Rp 75 Ribu",
       "link_berita": "https://rejabar.republika.co.id/berita/sxy70u282/promo-libur-sekolah-tiket-kereta-cepat-whoosh-ke-bandung-hanya-rp-75-ribu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:07:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Kemendikdasmen Selidiki Kasus Dugaan Jual Beli Kursi SPMB di Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/sxy6yy512/kemendikdasmen-selidiki-kasus-dugaan-jual-beli-kursi-spmb-di-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 12:06:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 12:35:45"
     },
     {
       "judul": "Adab Bertetangga",
       "link_berita": "https://khazanah.republika.co.id/berita/sxy6h6458/adab-bertetangga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:56:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Takut Malu, Ben Gvir Titahkan Polisi Buru Pengunggah Video Kehancuran Israel",
       "link_berita": "https://news.republika.co.id/berita/sxy6bb393/takut-malu-ben-gvir-titahkan-polisi-buru-pengunggah-video-kehancuran-israel",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:52:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Selalu Libatkan Allah",
       "link_berita": "https://khazanah.republika.co.id/berita/sxy67z458/selalu-libatkan-allah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:50:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Harga Elpiji 3 Kilogram Naik di Bandung Raya, Disdagin Kota Bandung Jelaskan Alasannya",
       "link_berita": "https://rejabar.republika.co.id/berita/sxy67w282/harga-elpiji-3-kilogram-naik-di-bandung-raya-disdagin-kota-bandung-jelaskan-alasannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:50:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Cara Setan Memperdaya Ahli Ibadah",
       "link_berita": "https://khazanah.republika.co.id/berita/sxy61w458/cara-setan-memperdaya-ahli-ibadah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Tak Punya BPJS: Cerita Pekerja dan Guru Honorer tak Terima Bantuan Subsidi Upah",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy5uw282/tak-punya-bpjs-cerita-pekerja-dan-guru-honorer-tak-terima-bantuan-subsidi-upah",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Begini Perbandingan Kekuatan Militer Israel dan Iran",
       "link_berita": "https://visual.republika.co.id/berita/sxy5qs393/begini-perbandingan-kekuatan-militer-israel-dan-iran",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Ikuti Swipe Safe, 8.367 Anak & Remaja Mampu Identifikasi Risiko Daring",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy5kf291/ikuti-swipe-safe-8367-anak-remaja-mampu-identifikasi-risiko-daring",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Ombudsman: Pungli SPMB Masih Marak",
       "link_berita": "https://news.republika.co.id/berita/sxy56t393/ombudsman-pungli-spmb-masih-marak",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Kolaborasi dengan Kiwi British Cat, Uni-Charm Ingin Pererat Ikatan Emosional Pemilik dan Peliharaan",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy3n0291/kolaborasi-dengan-kiwi-british-cat-unicharm-ingin-pererat-ikatan-emosional-pemilik-dan-peliharaan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Media Vietnam Soroti Kontroversi AFC Tunjuk Qatar dan Saudi Tuan Rumah Kualifikasi Piala Dunia",
       "link_berita": "https://news.republika.co.id/berita/sxy52u348/media-vietnam-soroti-kontroversi-afc-tunjuk-qatar-dan-saudi-tuan-rumah-kualifikasi-piala-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 11:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Toyota Sebut Satu EV Sama Berpolusinya dengan 3 Mobil Hibrid, Ini Bantahan Lembaga Penelitian China",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxy4ia468/toyota-sebut-satu-ev-sama-berpolusinya-dengan-3-mobil-hibrid-ini-bantahan-lembaga-penelitian-china",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Jenazah Pemuda Ditemukan di Pinggir Rel Muktiharjo Semarang, Diduga Korban Tawuran",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy4hf282/jenazah-pemuda-ditemukan-di-pinggir-rel-muktiharjo-semarang-diduga-korban-tawuran",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 11:35:45"
     },
     {
       "judul": "Benturkan Rakyat-Pemimpin Iran? Menhan Israel 'Jilat Ludah' Sendiri",
       "link_berita": "https://khazanah.republika.co.id/berita/sxy3yz458/benturkan-rakyatpemimpin-iran-menhan-israel-jilat-ludah-sendiri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Aksi Massa Tolak Eksploitasi Sumber Daya Alam Papua",
       "link_berita": "https://visual.republika.co.id/berita/sxxxfp375/aksi-massa-tolak-eksploitasi-sumber-daya-alam-papua",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Taman Kehati Indramayu Segera Dibuka Kembali, Ada Bayi Rusa Bernama Lucky",
       "link_berita": "https://rejabar.republika.co.id/berita/sxy3qs512/taman-kehati-indramayu-segera-dibuka-kembali-ada-bayi-rusa-bernama-lucky",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Cerita Tiga Wanita",
       "link_berita": "https://rejogja.republika.co.id/berita/sxy3py282/cerita-tiga-wanita",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Kisah Yisti Yisnika Bangun Brand Lokal Sejak Bangku Kuliah Bersama Shopee",
       "link_berita": "https://ekonomi.republika.co.id/berita/sxy3pq368/kisah-yisti-yisnika-bangun-brand-lokal-sejak-bangku-kuliah-bersama-shopee",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Ditemukan Bukti Baru tentang Hak 4 Pulau yang Disengketakan Aceh-Sumut, Ini Penjelasan Wamendagri",
       "link_berita": "https://news.republika.co.id/berita/sxy3p4487/ditemukan-bukti-baru-tentang-hak-4-pulau-yang-disengketakan-acehsumut-ini-penjelasan-wamendagri",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Begini Cara Saddil Ramdani Jaga Kebugaran Sebelum Gabung Latihan Persib",
       "link_berita": "https://skor.republika.co.id/posts/685870/begini-cara-saddil-ramdani-jaga-kebugaran-sebelum-gabung-latihan-persib-1",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
       "judul": "Kejagung Jadwalkan Pemeriksaan Eks Stafsus Nadiem, Jurist Tan pada Selasa",
       "link_berita": "https://news.republika.co.id/berita/sxy39r409/kejagung-jadwalkan-pemeriksaan-eks-stafsus-nadiem-jurist-tan-pada-selasa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 10:35:45"
     },
     {
-      "judul": "BYD M6 Berusia Satu Tahun, Segini Jumlah Unit yang Dimiliki Konsumen Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxy36o468/byd-m6-berusia-satu-tahun-segini-jumlah-unit-yang-dimiliki-konsumen-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Israel tak Henti Dirudal Iran, Saham Emiten Terdampak Boikot Kompak Rontok",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxy357490/israel-tak-henti-dirudal-iran-saham-emiten-terdampak-boikot-kompak-rontok",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Kinerja Emiten MIND ID Menguat, Dividen Jumbo Picu Optimisme Investor",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxy0xl423/kinerja-emiten-mind-id-menguat-dividen-jumbo-picu-optimisme-investor",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "UMJ Terima Penghargaan dari Majelis Diktilitbang PP Muhammadiyah",
-      "link_berita": "https://news.republika.co.id/berita/sxy2xa368/umj-terima-penghargaan-dari-majelis-diktilitbang-pp-muhammadiyah",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "UMJ Gandeng Pemkab Halmahera Utara Bangun Masa Depan Lewat Pendidikan",
-      "link_berita": "https://news.republika.co.id/berita/sxy2or368/umj-gandeng-pemkab-halmahera-utara-bangun-masa-depan-lewat-pendidikan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "MUI Harap Mesir-Libya Lepas dari Tekanan Israel: Jangan Adang Konvoi Kemanusiaan ke Gaza!",
-      "link_berita": "https://khazanah.republika.co.id/berita/sxy2nj458/mui-harap-mesirlibya-lepas-dari-tekanan-israel-jangan-adang-konvoi-kemanusiaan-ke-gaza",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Disingkirkan Era Firli, Novel Baswedan Cs Kini Jadi Satgassus Penerimaan Negara, KPK Mau Kolaborasi",
-      "link_berita": "https://news.republika.co.id/berita/sxy2gq487/disingkirkan-era-firli-novel-baswedan-cs-kini-jadi-satgassus-penerimaan-negara-kpk-mau-kolaborasi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Inggris Dilaporkan Kirim Jet Tempur ke Timur Tengah",
-      "link_berita": "https://seputarmiliter.id/posts/685588/inggris-dilaporkan-kirim-jet-tempur-ke-timur-tengah",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Kegagalan Pertahanan Udara Iran Picu Gelombang Kejut bagi Rusia",
-      "link_berita": "https://seputarmiliter.id/posts/685591/kegagalan-pertahanan-udara-iran-picu-gelombang-kejut-bagi-rusia",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Dosen UMJ Sumbang Gagasan dalam Penyusunan Tafsir At-Tanwir Muhammadiyah",
-      "link_berita": "https://news.republika.co.id/berita/sxy26h368/dosen-umj-sumbang-gagasan-dalam-penyusunan-tafsir-attanwir-muhammadiyah",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Resmi, Gerald Vanenburg Panggil 30 Pemain ke Timnas U-23 Indonesia Persiapan Piala AFF",
-      "link_berita": "https://skor.republika.co.id/posts/685861/resmi-gerald-vanenburg-panggil-30-pemain-ke-timnas-u-23-indonesia-persiapan-piala-aff",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Fenomena Gig Economy di Tengah PHK dan Turunnya TPT: Solusi Sementara tapi Rapuh",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxy0qu423/fenomena-gig-economy-di-tengah-phk-dan-turunnya-tpt-solusi-sementara-tapi-rapuh",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 10:49:15"
-    },
-    {
-      "judul": "Kepala BMKG Ungkap Sistem Peringatan Dini Sering Diabaikan saat Kepala Daerah Berganti",
-      "link_berita": "https://news.republika.co.id/berita/sxy1vw416/kepala-bmkg-ungkap-sistem-peringatan-dini-sering-diabaikan-saat-kepala-daerah-berganti",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 09:49:15"
-    },
-    {
-      "judul": "Benarkah Wanita Lebih Banyak Bicara Dibandingkan Pria?",
-      "link_berita": "https://ameera.republika.co.id/berita/sxy7i1425/benarkah-wanita-lebih-banyak-bicara-dibandingkan-pria",
+      "judul": "Ini Manfaat Main LEGO yang Jarang Diketahui, Enggak Cuma Buat Anak-Anak",
+      "link_berita": "https://ameera.republika.co.id/berita/sxyatw425/ini-manfaat-main-lego-yang-jarang-diketahui-enggak-cuma-buat-anakanak",
       "kategori": "Happening",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 19:18:00"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 20:29:00"
     },
     {
       "judul": "Pertamina International Shipping Tanam 600 Terumbu Karang di Kepulauan Seribu",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Monday, 16 Jun 2025, 19:46:00"
     },
     {
-      "judul": "Harga Beras Lampaui HET, Kemendagri Minta Pemda Segera Intervensi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sxy7np416/harga-beras-lampaui-het-kemendagri-minta-pemda-segera-intervensi",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 19:21:00"
+      "judul": "Rusun Jadi Solusi TOD, Pemerintah Fokuskan Hunian Dekat Transportasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sxyawf370/rusun-jadi-solusi-tod-pemerintah-fokuskan-hunian-dekat-transportasi",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 16 Jun 2025, 20:31:00"
     },
     {
       "judul": "Pembiayaan Emas Bank Muamalat Melonjak ke Rp 140,7 Miliar di Kuartal I 2025",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 16 Jun 2025, 15:20:00"
     },
     {
-      "judul": "Komnas HAM Tegaskan Perkosaan Terjadi dalam Peristiwa Kerusuhan Mei 1998",
-      "link_berita": "https://news.republika.co.id/berita/sxy8we348/komnas-ham-tegaskan-perkosaan-terjadi-dalam-peristiwa-kerusuhan-mei-1998",
+      "judul": "Pembangunan Kampung Nelayan Merah Putih Disebut Butuh Anggaran Rp 24,2 Triliun",
+      "link_berita": "https://news.republika.co.id/berita/sxy9qq487/pembangunan-kampung-nelayan-merah-putih-disebut-butuh-anggaran-rp-242-triliun",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 16 Jun 2025, 19:48:00"
+      "tanggal_terbit": "Monday, 16 Jun 2025, 20:06:00"
     }
   ],
-  "waktu_scraping": "Monday, 16 Jun 2025, 19:49:15"
+  "waktu_scraping": "Monday, 16 Jun 2025, 20:35:45"
 }
