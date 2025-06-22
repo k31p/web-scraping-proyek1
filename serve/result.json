@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Iran Luncurkan Rudal Canggih \u2018Penghancur Kheibar\u2019",
+      "link_berita": "https://news.republika.co.id/berita/sy90ok393/iran-luncurkan-rudal-canggih-penghancur-kheibar"
+    },
+    {
+      "judul": "AS Serang Iran, Harga Minyak Diprediksi Melonjak",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sy8wnh416/as-serang-iran-harga-minyak-diprediksi-melonjak"
+    },
+    {
       "judul": "86 Kepala Daerah Peserta Retreat Tiba di IPDN, Berangkat Naik Whoosh",
       "link_berita": "https://news.republika.co.id/berita/sy8ubr416/86-kepala-daerah-peserta-retreat-tiba-di-ipdn-berangkat-naik-whoosh"
     },
@@ -11,20 +19,16 @@
     {
       "judul": "Penawaran Donald Trump Sebelum AS Serang Iran",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8r2o430/penawaran-donald-trump-sebelum-as-serang-iran"
-    },
-    {
-      "judul": "Iran Klaim Telah Evakuasi Situs Nuklir, Trump Kecele?",
-      "link_berita": "https://news.republika.co.id/berita/sy8ma3393/iran-klaim-telah-evakuasi-situs-nuklir-trump-kecele"
-    },
-    {
-      "judul": "Cerita Veda Ega Pratama, Remaja Gunung Kidul Pemenang Red Bull Rookies Cup di Mugello",
-      "link_berita": "https://news.republika.co.id/berita/sy8khf487/cerita-veda-ega-pratama-remaja-gunung-kidul-pemenang-red-bull-rookies-cup-di-mugello"
     }
   ],
   "berita_unggulan": [
     {
-      "judul": "AS Serang Iran, Harga Minyak Diprediksi Melonjak",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sy8wnh416/as-serang-iran-harga-minyak-diprediksi-melonjak"
+      "judul": "Jejak Kekalahan Pasukan Muslim di Jabal Uhud",
+      "link_berita": "https://tv.republika.co.id/berita/sy8rve313/jejak-kekalahan-pasukan-muslim-di-jabal-uhud"
+    },
+    {
+      "judul": "Buku 48 Laws of Power, Eep Saefulloh Fatah: Penuh Strategi Pakai Kekuasaan Lawan Ketidakadilan",
+      "link_berita": "https://news.republika.co.id/berita/sy8w3y451/buku-48-laws-of-power-eep-saefulloh-fatah-penuh-strategi-pakai-kekuasaan-lawan-ketidakadilan"
     },
     {
       "judul": "Iran Sudah Pindahkan Fasilitas Nuklir Sebelum Diserang AS",
@@ -77,312 +81,308 @@
     {
       "judul": "Kemenag Sebut Ada yang Salah Terjemahkan Nota Diplomatik Arab Saudi Soal Koreksi Haji 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/sy7hlp320/kemenag-sebut-ada-yang-salah-terjemahkan-nota-diplomatik-arab-saudi-soal-koreksi-haji-2025"
-    },
-    {
-      "judul": "Israel Klaim Bunuh Komandan Iran, Rudal dan Serangan Balasan Warnai Langit Timur Tengah",
-      "link_berita": "https://news.republika.co.id/berita/sy79gm370/israel-klaim-bunuh-komandan-iran-rudal-dan-serangan-balasan-warnai-langit-timur-tengah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ditunjuk Jadi Komut PIHC, Akademisi Yakin Sudaryono Bikin Petani \u2018Happy\u2019",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sy90sy472/ditunjuk-jadi-komut-pihc-akademisi-yakin-sudaryono-bikin-petani-happy",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
+      "judul": "Iran Luncurkan Rudal Canggih \u2018Penghancur Kheibar\u2019",
+      "link_berita": "https://news.republika.co.id/berita/sy90ok393/iran-luncurkan-rudal-canggih-penghancur-kheibar",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
+      "judul": "KLH Masih Dalami Dampak Tambang Nikel di Raja Ampat",
+      "link_berita": "https://esgnow.republika.co.id/berita/sy90na416/klh-masih-dalami-dampak-tambang-nikel-di-raja-ampat",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
+      "judul": "AS Ikut Serang Iran, IHSG Berpotensi Tertekan Lebih Dalam",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sy908h490/as-ikut-serang-iran-ihsg-berpotensi-tertekan-lebih-dalam",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
+      "judul": "CFD Kembali Digelar, Polres Indramayu Suguhkan Layanan Publik dan Hiburan Edukatif",
+      "link_berita": "https://rejabar.republika.co.id/berita/sy906h472/cfd-kembali-digelar-polres-indramayu-suguhkan-layanan-publik-dan-hiburan-edukatif",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
+      "judul": "Kapolres Indramayu Pimpin Patroli Skala Besar, Amankan Miras",
+      "link_berita": "https://rejabar.republika.co.id/berita/sy8znb472/kapolres-indramayu-pimpin-patroli-skala-besar-amankan-miras",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
+      "judul": "Indonesia, Non-Blok, dan Keselamatan Dunia",
+      "link_berita": "https://analisis.republika.co.id/berita/sy8cmf451/indonesia-nonblok-dan-keselamatan-dunia",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
+    },
+    {
       "judul": "Jejak Kekalahan Pasukan Muslim di Jabal Uhud",
       "link_berita": "https://tv.republika.co.id/berita/sy8rve313/jejak-kekalahan-pasukan-muslim-di-jabal-uhud",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Akad Rahn Sebagai Solusi Penghindaran Riba",
       "link_berita": "https://retizen.republika.co.id/posts/687505/akad-rahn-sebagai-solusi-penghindaran-riba",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Dua Hal yang Harus Dikejar Umat Islam untuk Jadi Terbaik",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8x6p430/dua-hal-yang-harus-dikejar-umat-islam-untuk-jadi-terbaik",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Mencari Solusi Haji Ilegal",
       "link_berita": "https://analisis.republika.co.id/berita/sy8cex451/mencari-solusi-haji-ilegal",
       "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "AS Serang Iran, Harga Minyak Diprediksi Melonjak",
       "link_berita": "https://ekonomi.republika.co.id/berita/sy8wnh416/as-serang-iran-harga-minyak-diprediksi-melonjak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Makan dan Minum dengan Duduk dalam Pandangan Islam",
       "link_berita": "https://retizen.republika.co.id/posts/687529/makan-dan-minum-dengan-duduk-dalam-pandangan-islam",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "KIP Kuliah: Sudah Efektif atau Justru Salah Sasaran?",
       "link_berita": "https://retizen.republika.co.id/posts/687523/kip-kuliah-sudah-efektif-atau-justru-salah-sasaran",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Ilusi Kekayaan di Ujung Jari: Bahaya Judi Online Mengancam Generasi Muda",
       "link_berita": "https://retizen.republika.co.id/posts/687535/ilusi-kekayaan-di-ujung-jari-bahaya-judi-online-mengancam-generasi-muda",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Bisnis Digital: Tumbuh Cepat, Tapi Rawan Risiko?",
       "link_berita": "https://retizen.republika.co.id/posts/687541/bisnis-digital-tumbuh-cepat-tapi-rawan-risiko",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Menjalin Cinta Kasih Antargenerasi: Mendengar Cerita Pengabdian di Panti Jompo",
       "link_berita": "https://retizen.republika.co.id/posts/687548/menjalin-cinta-kasih-antargenerasi-mendengar-cerita-pengabdian-di-panti-jompo",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Kecanduan Bermedsos? Inilah Kegiatan yang Bisa Dilakukan Gen Z untuk Mengisi Waktu Luang",
       "link_berita": "https://retizen.republika.co.id/posts/687550/kecanduan-bermedsos-inilah-kegiatan-yang-bisa-dilakukan-gen-z-untuk-mengisi-waktu-luang",
       "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Buku 48 Laws of Power, Eep Saefulloh Fatah: Penuh Strategi Pakai Kekuasaan Lawan Ketidakadilan",
       "link_berita": "https://news.republika.co.id/berita/sy8w3y451/buku-48-laws-of-power-eep-saefulloh-fatah-penuh-strategi-pakai-kekuasaan-lawan-ketidakadilan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Kekhawatiran Sekjen PBB atas Serangan AS ke Iran",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8uw8430/kekhawatiran-sekjen-pbb-atas-serangan-as-ke-iran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "86 Kepala Daerah Peserta Retreat Tiba di IPDN, Berangkat Naik Whoosh",
       "link_berita": "https://news.republika.co.id/berita/sy8ubr416/86-kepala-daerah-peserta-retreat-tiba-di-ipdn-berangkat-naik-whoosh",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Dampak Ekonomi Global dan Nasional dari Provokasi Perang Israel ke Iran",
       "link_berita": "https://analisis.republika.co.id/berita/sy3l86475/dampak-ekonomi-global-dan-nasional-dari-provokasi-perang-israel-ke-iran",
       "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Jakarta Targetkan Pertumbuhan Ekonomi hingga 6 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/sy8s4f416/jakarta-targetkan-pertumbuhan-ekonomi-hingga-6-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Iran Sudah Pindahkan Fasilitas Nuklir Sebelum Diserang AS",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8rdu430/iran-sudah-pindahkan-fasilitas-nuklir-sebelum-diserang-as",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Veda Ega Pratama Bikin Sejarah di Mugello, Menangi Balapan Red Bull Rookies Cup 2025",
       "link_berita": "https://skor.republika.co.id/posts/687545/veda-ega-pratama-bikin-sejarah-di-mugello-menangi-balapan-red-bull-rookies-cup-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Penawaran Donald Trump Sebelum AS Serang Iran",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8r2o430/penawaran-donald-trump-sebelum-as-serang-iran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Ini Rundown Acara Islamic Book Fair 2025 Hari Terakhir",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8qus430/ini-rundown-acara-islamic-book-fair-2025-hari-terakhir",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Nelayan Jadi Garda Terdepan Berantas Pencurian Ikan",
       "link_berita": "https://news.republika.co.id/berita/sy8q92416/nelayan-jadi-garda-terdepan-berantas-pencurian-ikan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Hadiri Pertemuan OKI, Menlu RI Kembali Kutuk Serangan Israel ke Iran",
       "link_berita": "https://news.republika.co.id/berita/sy8q5t487/hadiri-pertemuan-oki-menlu-ri-kembali-kutuk-serangan-israel-ke-iran",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Jakarta Terus Kaji Rencana Perpanjangan MRT ke Tangsel",
       "link_berita": "https://tv.republika.co.id/berita/sy8pp4313/jakarta-terus-kaji-rencana-perpanjangan-mrt-ke-tangsel",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Amsa Nadzifah Bawa Cerita Tumbuhkan Masyarakat Desa ke ICCS Singapura",
       "link_berita": "https://news.republika.co.id/berita/sy8p3c328/amsa-nadzifah-bawa-cerita-tumbuhkan-masyarakat-desa-ke-iccs-singapura",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Alissa Wahid Minta Pemerintah Batalkan Penulisan Ulang Sejarah",
       "link_berita": "https://news.republika.co.id/berita/sy8oq7430/alissa-wahid-minta-pemerintah-batalkan-penulisan-ulang-sejarah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "AS Serang Iran, Begini Sejarah Panjangnya",
       "link_berita": "https://news.republika.co.id/berita/sy8o3w393/as-serang-iran-begini-sejarah-panjangnya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Rekomendasi INDEF Untuk Tingkatkan Efektivitas dan Ketahanan Dana Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/sy8nzv430/rekomendasi-indef-untuk-tingkatkan-efektivitas-dan-ketahanan-dana-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Kang DS Targetkan Nol Persen Pengentasan Kemiskinan Ekstrem di Kabupaten Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/sy8nns472/kang-ds-targetkan-nol-persen-pengentasan-kemiskinan-ekstrem-di-kabupaten-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Pemkot Bengkulu Wajibkan Seluruh Kelurahan Miliki Bank Sampah",
       "link_berita": "https://esgnow.republika.co.id/berita/sy8njr416/pemkot-bengkulu-wajibkan-seluruh-kelurahan-miliki-bank-sampah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Tak Mampu Imbangi Duo Marquez di Sprint Race GP Italia, Pecco Bagnaia Minta Maaf",
       "link_berita": "https://news.republika.co.id/berita/sy8n5i487/tak-mampu-imbangi-duo-marquez-di-sprint-race-gp-italia-pecco-bagnaia-minta-maaf",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Iran Klaim Telah Evakuasi Situs Nuklir, Trump Kecele?",
       "link_berita": "https://news.republika.co.id/berita/sy8ma3393/iran-klaim-telah-evakuasi-situs-nuklir-trump-kecele",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Piala Dunia Antarklub 2025: Inter dan Dortmund Menang Tipis",
       "link_berita": "https://skor.republika.co.id/posts/687509/piala-dunia-antarklub-2025-inter-dan-dortmund-menang-tipis",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "AS Klaim Telah Serang Tiga Fasilitas Nuklir, Iran Berpeluang Balas Menyerang ke Pangkalan Militer AS",
       "link_berita": "https://news.republika.co.id/berita/sy8lpv487/as-klaim-telah-serang-tiga-fasilitas-nuklir-iran-berpeluang-balas-menyerang-ke-pangkalan-militer-as",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Dua Putra Bali Satukan Kekuatan Dukung Bali Mandiri Energi",
       "link_berita": "https://republika.co.id/berita//sy8lb0456/dua-putra-bali-satukan-kekuatan-dukung-bali-mandiri-energi",
       "kategori": "Resulawesi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Perdagangan Stabil USD1 Miliar, Indonesia dan Polandia Dorong Investasi Sektor Strategis",
       "link_berita": "https://ekonomi.republika.co.id/berita/sy8l04525/perdagangan-stabil-usd1-miliar-indonesia-dan-polandia-dorong-investasi-sektor-strategis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Cerita Veda Ega Pratama, Remaja Gunung Kidul Pemenang Red Bull Rookies Cup di Mugello",
       "link_berita": "https://news.republika.co.id/berita/sy8khf487/cerita-veda-ega-pratama-remaja-gunung-kidul-pemenang-red-bull-rookies-cup-di-mugello",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "AS Serang Iran, Trump-Netanyahu Kian Mesra",
       "link_berita": "https://news.republika.co.id/berita/sy8k67393/as-serang-iran-trumpnetanyahu-kian-mesra",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Menko Cak Imin Sebut dari Kepala Hingga Kaki Orang Indonesia Gunakan Produk Impor",
       "link_berita": "https://news.republika.co.id/berita/sy8jr0487/menko-cak-imin-sebut-dari-kepala-hingga-kaki-orang-indonesia-gunakan-produk-impor",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Kadin: Perang Iran-Israel Bayangi Arah Ekonomi Global",
       "link_berita": "https://ekonomi.republika.co.id/berita/sy8jlf416/kadin-perang-iranisrael-bayangi-arah-ekonomi-global",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Tips Kelola Keuangan Ala Nicholas Saputra",
       "link_berita": "https://tv.republika.co.id/berita/sy8hgb313/tips-kelola-keuangan-ala-nicholas-saputra",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "BPDP Luncurkan Katalog 100 Produk UKMK Kelapa Sawit",
       "link_berita": "https://ekonomi.republika.co.id/berita/sy8in7456/bpdp-luncurkan-katalog-100-produk-ukmk-kelapa-sawit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Pemerintah Kucurkan Rp 500 Triliun per Tahun untuk Atasi Kemiskinan",
       "link_berita": "https://ekonomi.republika.co.id/berita/sy8hd2416/pemerintah-kucurkan-rp-500-triliun-per-tahun-untuk-atasi-kemiskinan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Harumkan Indonesia di Kancah Dunia, Veda Ega Juara Red Bull Rookies Cup Italia 2025 di Mugello",
       "link_berita": "https://news.republika.co.id/berita/sy8hbt487/harumkan-indonesia-di-kancah-duniaveda-ega-juara-red-bull-rookies-cup-italia-2025-di-mugello",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Dari Pabrik ke Masa Depan: Menyusuri Pabrik PESA, Raja Kereta Eropa dan Pelopor Hidrogen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sy7pvr525/dari-pabrik-ke-masa-depan-menyusuri-pabrik-pesa-raja-kereta-eropa-dan-pelopor-hidrogen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Indonesia Kini Punya Sistem Ganda untuk Peringatan Gempa dan Tsunami",
-      "link_berita": "https://esgnow.republika.co.id/berita/sy8gqf416/indonesia-kini-punya-sistem-ganda-untuk-peringatan-gempa-dan-tsunami",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Indonesia Incar Peran Sentral di Industri EV, MIND ID Genjot Hilirisasi",
-      "link_berita": "https://esgnow.republika.co.id/berita/sy8g6o416/indonesia-incar-peran-sentral-di-industri-ev-mind-id-genjot-hilirisasi",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Liga Arab Berkumpul di Turki Bahas Serangan Israel ke Iran, Ini Hasilnya",
-      "link_berita": "https://news.republika.co.id/berita/sy8g1b487/liga-arab-berkumpul-di-turki-bahas-serangan-israel-ke-iran-ini-hasilnya",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Desa Ujungaris Indramayu Terinspirasi Kediaman KDM",
-      "link_berita": "https://tv.republika.co.id/berita/sy8fus313/desa-ujungaris-indramayu-terinspirasi-kediaman-kdm",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Iran Tangkap 54 Mata-Mata Terkait Mossad",
-      "link_berita": "https://khazanah.republika.co.id/berita/sy8ff7430/iran-tangkap-54-matamata-terkait-mossad",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
-    },
-    {
-      "judul": "Di Tengah Upaya AS Bantu Israel Serang Iran, OKI akan Gelar Sidang Khusus di Turki",
-      "link_berita": "https://news.republika.co.id/berita/sy8fal451/di-tengah-upaya-as-bantu-israel-serang-iran-oki-akan-gelar-sidang-khusus-di-turki",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 07:21:08"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 08:27:29"
     },
     {
       "judul": "Indro Warkop Ingin Sosok Dono-Kasino Hidup di Ingatan Anak-Anak Zaman Now",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Saturday, 21 Jun 2025, 21:17:00"
     },
     {
-      "judul": "Pemkot Bengkulu Wajibkan Seluruh Kelurahan Miliki Bank Sampah",
-      "link_berita": "https://esgnow.republika.co.id/berita/sy8njr416/pemkot-bengkulu-wajibkan-seluruh-kelurahan-miliki-bank-sampah",
+      "judul": "KLH Masih Dalami Dampak Tambang Nikel di Raja Ampat",
+      "link_berita": "https://esgnow.republika.co.id/berita/sy90na416/klh-masih-dalami-dampak-tambang-nikel-di-raja-ampat",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 10:40:00"
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 15:23:00"
     },
     {
-      "judul": "AS Serang Iran, Harga Minyak Diprediksi Melonjak",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sy8wnh416/as-serang-iran-harga-minyak-diprediksi-melonjak",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 13:57:00"
+      "judul": "Ditunjuk Jadi Komut PIHC, Akademisi Yakin Sudaryono Bikin Petani \u2018Happy\u2019",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sy90sy472/ditunjuk-jadi-komut-pihc-akademisi-yakin-sudaryono-bikin-petani-happy",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 15:26:00"
     },
     {
       "judul": "BI Tahan Suku Bunga, BCA Syariah Fokus Genjot Pembiayaan Emas dan KPR",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 20 Jun 2025, 16:55:00"
     },
     {
-      "judul": "Mencari Solusi Haji Ilegal",
-      "link_berita": "https://analisis.republika.co.id/berita/sy8cex451/mencari-solusi-haji-ilegal",
-      "kategori": "Wacana",
-      "tanggal_terbit": "Sunday, 22 Jun 2025, 14:03:00"
+      "judul": "Iran Luncurkan Rudal Canggih \u2018Penghancur Kheibar\u2019",
+      "link_berita": "https://news.republika.co.id/berita/sy90ok393/iran-luncurkan-rudal-canggih-penghancur-kheibar",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Sunday, 22 Jun 2025, 15:24:00"
     }
   ],
-  "waktu_scraping": "Sunday, 22 Jun 2025, 14:21:08"
+  "waktu_scraping": "Sunday, 22 Jun 2025, 15:27:29"
 }
