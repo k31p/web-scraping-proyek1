@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kemenag Punya Mimpi Ada Bantuan Operasional Masjid",
+      "link_berita": "https://khazanah.republika.co.id/berita/syf0da483/kemenag-punya-mimpi-ada-bantuan-operasional-masjid"
+    },
+    {
       "judul": "Kemlu: Total 60 WNI dari Iran Telah Kembali ke Tanah Air",
       "link_berita": "https://news.republika.co.id/berita/syeztc409/kemlu-total-60-wni-dari-iran-telah-kembali-ke-tanah-air"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Iran Tangkap 700 Orang Spionase: Ini Hukuman yang Menanti Mereka",
       "link_berita": "https://khazanah.republika.co.id/berita/syeufe483/iran-tangkap-700-orang-spionase-ini-hukuman-yang-menanti-mereka"
-    },
-    {
-      "judul": "Gedung Putih Berang Serangan AS Terhadap Fasilitas Nuklir Iran Dinilai Gagal",
-      "link_berita": "https://news.republika.co.id/berita/syer8k409/gedung-putih-berang-serangan-as-terhadap-fasilitas-nuklir-iran-dinilai-gagal"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Delapan Legenda Bulu Tangkis Peraih Emas Olimpiade akan Beraksi di Lapangan dalam Acara Amal",
+      "link_berita": "https://news.republika.co.id/berita/syf2r3348/delapan-legenda-bulu-tangkis-peraih-emas-olimpiade-akan-beraksi-di-lapangan-dalam-acara-amal"
+    },
+    {
+      "judul": "Yeyen Tumena dan Imran Nahumarury Dinonaktifkan dari APSSI Terkait Polemik dengan Malut United",
+      "link_berita": "https://news.republika.co.id/berita/syeztd348/yeyen-tumena-dan-imran-nahumarury-dinonaktifkan-dari-apssi-terkait-polemik-dengan-malut-united"
+    },
     {
       "judul": "Di Sepanjang Hidupnya, Nabi Muhammad Hanya 2 Kali Sakit",
       "link_berita": "https://khazanah.republika.co.id/berita/syez3h458/di-sepanjang-hidupnya-nabi-muhammad-hanya-2-kali-sakit"
@@ -73,322 +81,314 @@
     {
       "judul": "Periksa Ustadz Khalid Basalamah Soal Kuota Haji Khusus, KPK: Informasinya Sangat Dibutuhkan",
       "link_berita": "https://khazanah.republika.co.id/berita/syeafm483/periksa-ustadz-khalid-basalamah-soal-kuota-haji-khusus-kpk-informasinya-sangat-dibutuhkan"
-    },
-    {
-      "judul": "Tim SAR Temukan Pendaki Brasil Tewas di Kedalaman 600 Meter Gunung Rinjani",
-      "link_berita": "https://news.republika.co.id/berita/sye6js484/tim-sar-temukan-pendaki-brasil-tewas-di-kedalaman-600-meter-gunung-rinjani"
-    },
-    {
-      "judul": "Warganet Brasil Serbu Akun Medsos Presiden Prabowo, Istana Bergerak",
-      "link_berita": "https://news.republika.co.id/berita/sye4ld484/warganet-brasil-serbu-akun-medsos-presiden-prabowo-istana-bergerak"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Seorang Perempuan Tewas Akibat Terpeleset ke Jurang Saat Daki Gunung Muria",
+      "link_berita": "https://news.republika.co.id/berita/syf0fu451/seorang-perempuan-tewas-akibat-terpeleset-ke-jurang-saat-daki-gunung-muria",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 15:16:17"
+    },
+    {
+      "judul": "PTPN I Komitmen Bangkitkan Kejayaan Kopi Nasional Melalui Hilirisasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/syf07c451/ptpn-i-komitmen-bangkitkan-kejayaan-kopi-nasional-melalui-hilirisasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 15:02:17"
+    },
+    {
+      "judul": "UNEP Luncurkan Peta Jalan Gaya Hidup Berkelanjutan Berbasis Budaya dan Agama",
+      "link_berita": "https://khazanah.republika.co.id/berita/syf2x2483/unep-luncurkan-peta-jalan-gaya-hidup-berkelanjutan-berbasis-budaya-dan-agama",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:58:17"
+    },
+    {
+      "judul": "Delapan Legenda Bulu Tangkis Peraih Emas Olimpiade akan Beraksi di Lapangan dalam Acara Amal",
+      "link_berita": "https://news.republika.co.id/berita/syf2r3348/delapan-legenda-bulu-tangkis-peraih-emas-olimpiade-akan-beraksi-di-lapangan-dalam-acara-amal",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:54:17"
+    },
+    {
+      "judul": "Taman Tempat Pacaran, Wagub Si Doel: Ya Elah, Kayak Enggak Pernah Muda Aja",
+      "link_berita": "https://news.republika.co.id/berita/syf02c451/taman-tempat-pacaran-wagub-si-doel-ya-elah-kayak-enggak-pernah-muda-aja",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:53:17"
+    },
+    {
+      "judul": "Zahra Muzdalifah Resmi Pisah dengan Cerezo Osaka Ladies, Fokus di Timnas Putri Indonesia",
+      "link_berita": "https://skor.republika.co.id/posts/688427/zahra-muzdalifah-resmi-pisah-dengan-cerezo-osaka-ladies-fokus-di-timnas-putri-indonesia",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:40:17"
+    },
+    {
+      "judul": "Seleksi Mandiri Kapasitas Bela Negara Digelar di Lima Kota",
+      "link_berita": "https://news.republika.co.id/berita/syf1tq483/seleksi-mandiri-kapasitas-bela-negara-digelar-di-lima-kota",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:34:17"
+    },
+    {
+      "judul": "Kemenhub Kaji Bandara Husein Sastranegara Dibuka Kembali",
+      "link_berita": "https://rejabar.republika.co.id/berita/syezv1451/kemenhub-kaji-bandara-husein-sastranegara-dibuka-kembali",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:31:17"
+    },
+    {
+      "judul": "Barcelona Akhirnya Kembali ke Camp Nou, Mulai Dipakai pada 10 Agustus",
+      "link_berita": "https://news.republika.co.id/berita/syf1k4348/barcelona-akhirnya-kembali-ke-camp-nou-mulai-dipakai-pada-10-agustus",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:29:17"
+    },
+    {
+      "judul": "Akhirnya! Film Rangga & Cinta Umumkan Tanggal Rilis di Bioskop: 2 Oktober 2025",
+      "link_berita": "https://ameera.republika.co.id/berita/syf1d7425/akhirnya-film-rangga-cinta-umumkan-tanggal-rilis-di-bioskop-2-oktober-2025",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:26:17"
+    },
+    {
       "judul": "Komitmen Iklim Melemah, Transisi Energi Global Melambat",
       "link_berita": "https://esgnow.republika.co.id/berita/syf0dt416/komitmen-iklim-melemah-transisi-energi-global-melambat",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:20:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:26:17"
     },
     {
       "judul": "PT KBI Catat Lonjakan Pendapatan Resi Gudang",
       "link_berita": "https://ekonomi.republika.co.id/berita/syf0mu416/pt-kbi-catat-lonjakan-pendapatan-resi-gudang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:15:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:26:17"
     },
     {
       "judul": "KLH Segel Tiga Pabrik Baja yang Cemari Udara Jabodetabek",
       "link_berita": "https://esgnow.republika.co.id/berita/syf06q416/klh-segel-tiga-pabrik-baja-yang-cemari-udara-jabodetabek",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:10:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:26:17"
     },
     {
       "judul": "Kemenag Punya Mimpi Ada Bantuan Operasional Masjid",
       "link_berita": "https://khazanah.republika.co.id/berita/syf0da483/kemenag-punya-mimpi-ada-bantuan-operasional-masjid",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:03:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:26:17"
     },
     {
       "judul": "Muhammadiyah Gandeng DMMX, Percepat Transformasi Digital Amal Usaha",
       "link_berita": "https://news.republika.co.id/berita/syeznl451/muhammadiyah-gandeng-dmmx-percepat-transformasi-digital-amal-usaha",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:01:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 14:26:17"
     },
     {
       "judul": "Yeyen Tumena dan Imran Nahumarury Dinonaktifkan dari APSSI Terkait Polemik dengan Malut United",
       "link_berita": "https://news.republika.co.id/berita/syeztd348/yeyen-tumena-dan-imran-nahumarury-dinonaktifkan-dari-apssi-terkait-polemik-dengan-malut-united",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:51:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Kemlu: Total 60 WNI dari Iran Telah Kembali ke Tanah Air",
       "link_berita": "https://news.republika.co.id/berita/syeztc409/kemlu-total-60-wni-dari-iran-telah-kembali-ke-tanah-air",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:51:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Lanjutkan Evakuasi dari Timteng, 53 WNI Dijadwalkan Tiba di Tanah Air",
       "link_berita": "https://news.republika.co.id/berita/syez4y451/lanjutkan-evakuasi-dari-timteng-53-wni-dijadwalkan-tiba-di-tanah-air",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:47:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Lanjutkan Evakuasi dari Iran, Sebanyak 53 WNI Dijadwalkan Tiba di Tanah Air",
       "link_berita": "https://khazanah.republika.co.id/berita/syezkq483/lanjutkan-evakuasi-dari-iran-sebanyak-53-wni-dijadwalkan-tiba-di-tanah-air",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:46:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Di Sepanjang Hidupnya, Nabi Muhammad Hanya 2 Kali Sakit",
       "link_berita": "https://khazanah.republika.co.id/berita/syez3h458/di-sepanjang-hidupnya-nabi-muhammad-hanya-2-kali-sakit",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:36:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Mendes Yandri Minta Kades Melek Teknologi Genjot Ketahanan Pangan",
       "link_berita": "https://news.republika.co.id/berita/syeyv1451/mendes-yandri-minta-kades-melek-teknologi-genjot-ketahanan-pangan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:31:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Kemenkum Sulut Sebut Pentingnya Kolaborasi Cegah Pelanggaran Hak Kekayaan Intelektual",
       "link_berita": "https://news.republika.co.id/berita/syeyoh451/kemenkum-sulut-sebut-pentingnya-kolaborasi-cegah-pelanggaran-hak-kekayaan-intelektual",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:27:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "UHAMKA Agrovision Fasilitasi Dam Jamaah Haji 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/syeynr472/uhamka-agrovision-fasilitasi-dam-jamaah-haji-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Prodi Arsitektur President University, Cetak Arsitek Muda Berprestasi",
       "link_berita": "https://news.republika.co.id/berita/syeqji370/prodi-arsitektur-president-university-cetak-arsitek-muda-berprestasi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Saksi Ungkap Tugas Ilmiah Residen Senior PPDS Undip Pakai Jasa Belasan Joki",
       "link_berita": "https://news.republika.co.id/berita/syexys409/saksi-ungkap-tugas-ilmiah-residen-senior-ppds-undip-pakai-jasa-belasan-joki",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Alumnus UBSI Kampus Pontianak, Sintia Dewi, Resmi Jadi ASN di Dinas Pendidikan DKI Jakarta",
       "link_berita": "https://news.republika.co.id/berita/syexym472/alumnus-ubsi-kampus-pontianak-sintia-dewi-resmi-jadi-asn-di-dinas-pendidikan-dki-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Gagal Lunasi Utang, Olympique Lyon Siap Banding soal Hukuman Degradasi",
       "link_berita": "https://skor.republika.co.id/posts/688414/gagal-lunasi-utang-olympique-lyon-siap-banding-soal-hukuman-degradasi",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "Hakim Sebut Mahasiswa tak Berani Lapor Penyebab Langgengnya Perundungan di PPDS Undip",
       "link_berita": "https://news.republika.co.id/berita/syexfd409/hakim-sebut-mahasiswa-tak-berani-lapor-penyebab-langgengnya-perundungan-di-ppds-undip",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 13:26:17"
     },
     {
       "judul": "MPI PDM Tangsel Gelar Workshop Pemanfaatan AI di Dunia Pendidikan",
       "link_berita": "https://khazanah.republika.co.id/berita/syewiw458/mpi-pdm-tangsel-gelar-workshop-pemanfaatan-ai-di-dunia-pendidikan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Efek Kasus Malut United, Yeyen Tumena dan Imran Nahumarury Dinonaktifkan dari APSSI",
       "link_berita": "https://skor.republika.co.id/posts/688410/efek-kasus-malut-united-yeyen-tumena-dan-imran-nahumarury-dinonaktifkan-dari-apssi",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Ini Alasan Kejagung Lawan Putusan Hakim untuk Zarof Ricar",
       "link_berita": "https://news.republika.co.id/berita/syewcn409/ini-alasan-kejagung-lawan-putusan-hakim-untuk-zarof-ricar",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Pemprov Jakarta Berencana Naikkan Tarif Parkir Kendaraan Pribadi, Ini Alasannya",
       "link_berita": "https://news.republika.co.id/berita/syevs8409/pemprov-jakarta-berencana-naikkan-tarif-parkir-kendaraan-pribadi-ini-alasannya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Rilis Wakaf Produktif Melon Hidroponik, YWAR Tampung Dana Dua Ribu Wakif",
       "link_berita": "https://khazanah.republika.co.id/berita/syevm2483/rilis-wakaf-produktif-melon-hidroponik-ywar-tampung-dana-dua-ribu-wakif",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Resmikan NSWAC, Prabowo: Perkuat Ekonomi Nasional",
       "link_berita": "https://news.republika.co.id/berita/syevac484/resmikan-nswac-prabowo-perkuat-ekonomi-nasional",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Trump Akui Israel Rusak Parah, Gencatan Senjata di Gaza Sebentar Lagi",
       "link_berita": "https://news.republika.co.id/berita/syev6d393/trump-akui-israel-rusak-parah-gencatan-senjata-di-gaza-sebentar-lagi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:26:17"
     },
     {
       "judul": "Haruskah Mendagri Dievaluasi Usai Polemik Sengketa Empat Pulau? Ini Pendapat Komisi II DPR",
       "link_berita": "https://news.republika.co.id/berita/syeufv409/haruskah-mendagri-dievaluasi-usai-polemik-sengketa-empat-pulau-ini-pendapat-komisi-ii-dpr",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Iran Tangkap 700 Orang Spionase: Ini Hukuman yang Menanti Mereka",
       "link_berita": "https://khazanah.republika.co.id/berita/syeufe483/iran-tangkap-700-orang-spionase-ini-hukuman-yang-menanti-mereka",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Kalteng Optimalkan Pengelolaan dan Penyediaan Ruang Terbuka Hijau",
       "link_berita": "https://news.republika.co.id/berita/syepd5451/kalteng-optimalkan-pengelolaan-dan-penyediaan-ruang-terbuka-hijau",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Plat Injak Jembatan di Atas Kantor Pemkot Cimahi Amblas, Usianya Sudah 20 Tahun",
       "link_berita": "https://rejabar.republika.co.id/berita/syets8512/plat-injak-jembatan-di-atas-kantor-pemkot-cimahi-amblas-usianya-sudah-20-tahun",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Berantas Praktik Percaloan Tenaga Kerja, Jabar Gandeng 23 Camat di Kabupaten Bekasi",
       "link_berita": "https://rejabar.republika.co.id/berita/syeth9512/berantas-praktik-percaloan-tenaga-kerja-jabar-gandeng-23-camat-di-kabupaten-bekasi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Pembahasan Raperda Kawasan tanpa Rokok di Jakarta Berjalan Alot",
       "link_berita": "https://news.republika.co.id/berita/syet9z409/pembahasan-raperda-kawasan-tanpa-rokok-di-jakarta-berjalan-alot",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Melestarikan Budaya Daerah Melalui Festival Permainan Rakyat Jawa Barat",
       "link_berita": "https://bandung24jam.id/posts/688359/melestarikan-budaya-daerah-melalui-festival-permainan-rakyat-jawa-barat",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Kapal Kargo Canope Buktikan Efektivitas Layar Otomatis OceanWings",
       "link_berita": "https://shippingcargo.co.id/posts/687999/kapal-kargo-canope-buktikan-efektivitas-layar-otomatis-oceanwings",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Obyek Wisata Pantai Karangsong Hancur Akibat Rob dan Abrasi",
       "link_berita": "https://rejabar.republika.co.id/berita/syet3j512/obyek-wisata-pantai-karangsong-hancur-akibat-rob-dan-abrasi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Datangkan 12 Pemain Baru untuk Liga 2 2025-2026, Persipura Bernuansa PSBS",
       "link_berita": "https://skor.republika.co.id/posts/688391/datangkan-12-pemain-baru-untuk-liga-2-2025-2026-persipura-bernuansa-psbs",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Jelang Liburan Sekolah, Ini KA Ekonomi di Daop 2 Bandung yang Tiketnya Diskon 30 Persen",
       "link_berita": "https://rejabar.republika.co.id/berita/syesnd512/jelang-liburan-sekolah-ini-ka-ekonomi-di-daop-2-bandung-yang-tiketnya-diskon-30-persen",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Sutradara Jumbo Ungkap Tantangan Alih Wahana Jumbo ke Panggung Konser",
       "link_berita": "https://ameera.republika.co.id/berita/syesce425/sutradara-jumbo-ungkap-tantangan-alih-wahana-jumbo-ke-panggung-konser",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Kemenhub Kaji Reaktivasi Bandara Husein Sastranegara",
       "link_berita": "https://ekonomi.republika.co.id/berita/syes5i370/kemenhub-kaji-reaktivasi-bandara-husein-sastranegara",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Mau Investasi Fleksibel dan Simpel? Coba bjb SiSuka Online Sekarang!",
       "link_berita": "https://ekonomi.republika.co.id/berita/syes5b472/mau-investasi-fleksibel-dan-simpel-coba-bjb-sisuka-online-sekarang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Inter Milan vs River Plate di Piala Dunia Antarklub 2025",
       "link_berita": "https://skor.republika.co.id/posts/688386/prediksi-dan-link-live-streaming-inter-milan-vs-river-plate-di-piala-dunia-antarklub-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:23:06"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 11:26:17"
     },
     {
-      "judul": "Praktik Ramah Lingkungan di Tanah Suci Ini Bisa Dilakukan Jamaah Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/syeoxv430/praktik-ramah-lingkungan-di-tanah-suci-ini-bisa-dilakukan-jamaah-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "PLN Pusharlis Luncurkan Tiga Program TJSL Terpadu di Pangalengan",
-      "link_berita": "https://khazanah.republika.co.id/berita/syerco472/pln-pusharlis-luncurkan-tiga-program-tjsl-terpadu-di-pangalengan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Gedung Putih Berang Serangan AS Terhadap Fasilitas Nuklir Iran Dinilai Gagal",
-      "link_berita": "https://news.republika.co.id/berita/syer8k409/gedung-putih-berang-serangan-as-terhadap-fasilitas-nuklir-iran-dinilai-gagal",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Ini Kata Raffi Ahmad Setelah Naik Taksi Terbang EHang 216-S",
-      "link_berita": "https://ameera.republika.co.id/berita/syer1a425/ini-kata-raffi-ahmad-setelah-naik-taksi-terbang-ehang-216s",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Wamendikdasmen Minta Seluruh Guru Ikut UKBI Mahir Bahasa Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/syepcx451/wamendikdasmen-minta-seluruh-guru-ikut-ukbi-mahir-bahasa-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Jadi Saksi Nikah Anak Pramono, Rano Karno Gunakan Kendaraan Pribadi",
-      "link_berita": "https://news.republika.co.id/berita/syeqw5484/jadi-saksi-nikah-anak-pramono-rano-karno-gunakan-kendaraan-pribadi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Kemenhub Revisi UU Penerbangan, Buka Jalan Taksi Terbang Komersial",
-      "link_berita": "https://ekonomi.republika.co.id/berita/syeqt6370/kemenhub-revisi-uu-penerbangan-buka-jalan-taksi-terbang-komersial",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Plat Injak Jembatan di Atas Perkantoran Pemkot Cimahi Amblas, Mobil Dilarang Lewat Sementara Waktu",
-      "link_berita": "https://rejabar.republika.co.id/berita/syeqf8512/plat-injak-jembatan-di-atas-perkantoran-pemkot-cimahi-amblas-mobil-dilarang-lewat-sementara-waktu",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Wagub Kalbar Arahkan Pemuda Dayak Tingkatkan Literasi Digital",
-      "link_berita": "https://news.republika.co.id/berita/syeq75451/wagub-kalbar-arahkan-pemuda-dayak-tingkatkan-literasi-digital",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Ribuan Lulusan SD di Cimahi tak Bisa Tertampung di SMP Negeri",
-      "link_berita": "https://rejabar.republika.co.id/berita/syeq3l512/ribuan-lulusan-sd-di-cimahi-tak-bisa-tertampung-di-smp-negeri",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 10:23:06"
-    },
-    {
-      "judul": "Sutradara Jumbo Ungkap Tantangan Alih Wahana Jumbo ke Panggung Konser",
-      "link_berita": "https://ameera.republika.co.id/berita/syesce425/sutradara-jumbo-ungkap-tantangan-alih-wahana-jumbo-ke-panggung-konser",
+      "judul": "Akhirnya! Film Rangga & Cinta Umumkan Tanggal Rilis di Bioskop: 2 Oktober 2025",
+      "link_berita": "https://ameera.republika.co.id/berita/syf1d7425/akhirnya-film-rangga-cinta-umumkan-tanggal-rilis-di-bioskop-2-oktober-2025",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 18:09:00"
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 21:24:00"
     },
     {
       "judul": "Wakil Menteri Lingkungan Hidup Segel Tiga Pabrik, Disebut Buang Emisi tanpa Pengelolaan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 25 Jun 2025, 12:37:00"
     },
     {
-      "judul": "Muhammadiyah Gandeng DMMX, Percepat Transformasi Digital Amal Usaha",
-      "link_berita": "https://news.republika.co.id/berita/syeznl451/muhammadiyah-gandeng-dmmx-percepat-transformasi-digital-amal-usaha",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 25 Jun 2025, 21:01:00"
+      "judul": "Delapan Legenda Bulu Tangkis Peraih Emas Olimpiade akan Beraksi di Lapangan dalam Acara Amal",
+      "link_berita": "https://news.republika.co.id/berita/syf2r3348/delapan-legenda-bulu-tangkis-peraih-emas-olimpiade-akan-beraksi-di-lapangan-dalam-acara-amal",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 25 Jun 2025, 21:54:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 25 Jun 2025, 21:23:06"
+  "waktu_scraping": "Wednesday, 25 Jun 2025, 22:26:17"
 }
