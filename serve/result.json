@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Pertimbangan MK Putuskan Memisah Jadwal Pemilu Nasional dan Lokal di Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/sygojf409/pertimbangan-mk-putuskan-memisah-jadwal-pemilu-nasional-dan-lokal-di-indonesia"
+    },
+    {
       "judul": "Buntut Polemik RUU TNI Dibahas di Hotel, MK Putuskan Semua Rapat DPR Wajib Junjung Asas Keterbukaan",
       "link_berita": "https://news.republika.co.id/berita/sygmpq409/buntut-polemik-ruu-tni-dibahas-di-hotel-mk-putuskan-semua-rapat-dpr-wajib-junjung-asas-keterbukaan"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Energi Surya Jadi Andalan Prabowo Listriki Daerah Terpencil",
       "link_berita": "https://esgnow.republika.co.id/berita/syghif370/energi-surya-jadi-andalan-prabowo-listriki-daerah-terpencil"
-    },
-    {
-      "judul": "MBG Dibagikan Saat Libur Sekolah: Emak-Emak Repot, Minta Diganti Duit Saja",
-      "link_berita": "https://news.republika.co.id/berita/sygemr409/mbg-dibagikan-saat-libur-sekolah-emakemak-repot-minta-diganti-duit-saja"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Dikirimi Nota Diplomatik Soal Haji oleh Saudi, Menag: Haji tak Luput dari Masalah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygqa5483/dikirimi-nota-diplomatik-soal-haji-oleh-saudi-menag-haji-tak-luput-dari-masalah"
+    },
+    {
+      "judul": "BSI Dorong Ekosistem Halal, Targetkan Transaksi Rp 2,5 Triliun di Expo 2025",
+      "link_berita": "https://sharia.republika.co.id/berita/sygnol370/bsi-dorong-ekosistem-halal-targetkan-transaksi-rp-25-triliun-di-expo-2025"
+    },
     {
       "judul": "KPK Benarkan Kasus Korupsi Kuota Haji Terjadi pada 2023-2024",
       "link_berita": "https://khazanah.republika.co.id/berita/sygl7c430/kpk-benarkan-kasus-korupsi-kuota-haji-terjadi-pada-20232024"
@@ -73,347 +81,339 @@
     {
       "judul": "Chery Luncurkan Chery C5 dan E5, Harga Mulai Rp 300 Jutaan",
       "link_berita": "https://ekonomi.republika.co.id/berita/syfx61348/chery-luncurkan-chery-c5-dan-e5-harga-mulai-rp-300-jutaan"
-    },
-    {
-      "judul": "7 Tentara IDF Tewas Terbakar Hidup-Hidup, Media Israel Geram Sebut Militer Israel Memalukan",
-      "link_berita": "https://khazanah.republika.co.id/berita/syftde320/7-tentara-idf-tewas-terbakar-hiduphidup-media-israel-geram-sebut-militer-israel-memalukan"
-    },
-    {
-      "judul": "Kapolri Sebut Kasus Ijazah Palsu Jokowi Masih Diselidiki",
-      "link_berita": "https://news.republika.co.id/berita/syfsca484/kapolri-sebut-kasus-ijazah-palsu-jokowi-masih-diselidiki"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ada Jakarta International Marathon, 32 Ruas Jalan Ini Ditutup pada Ahad",
+      "link_berita": "https://news.republika.co.id/berita/sygrbp487/ada-jakarta-international-marathon-32-ruas-jalan-ini-ditutup-pada-ahad",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:43:27"
+    },
+    {
+      "judul": "Iran Tegaskan tidak akan Ada Lagi Negosiasi-Negosiasi Soal Nuklir",
+      "link_berita": "https://news.republika.co.id/berita/sygqvt409/iran-tegaskan-tidak-akan-ada-lagi-negosiasinegosiasi-soal-nuklir",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:33:27"
+    },
+    {
+      "judul": "Peta 5 Provinsi Baru dalam Wacana Pemekaran Jabar",
+      "link_berita": "https://visual.republika.co.id/berita/sygqt4487/peta-5-provinsi-baru-dalam-wacana-pemekaran-jabar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:31:27"
+    },
+    {
+      "judul": "Naik Haji dari Hasil Korupsi, Apa Hukumnya?",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygqrk458/naik-haji-dari-hasil-korupsi-apa-hukumnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:30:27"
+    },
+    {
+      "judul": "Puluhan Rumah di Kwitang Jakpus Hangus Terbakar",
+      "link_berita": "https://visual.republika.co.id/berita/sygm4w375/puluhan-rumah-di-kwitang-jakpus-hangus-terbakar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:30:27"
+    },
+    {
+      "judul": "Seorang Jamaah Haji Hilang Sejak 15 Juni, Ini Klarifikasi PPIH",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygqju430/seorang-jamaah-haji-hilang-sejak-15-juni-ini-klarifikasi-ppih",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:26:27"
+    },
+    {
+      "judul": "Cegah Jerawat, Ini Daftar Makanan yang Sebaiknya Dibatasi Menurut Ahli Kulit",
+      "link_berita": "https://ameera.republika.co.id/berita/sygqil425/cegah-jerawat-ini-daftar-makanan-yang-sebaiknya-dibatasi-menurut-ahli-kulit",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:25:27"
+    },
+    {
+      "judul": "Dikirimi Nota Diplomatik Soal Haji oleh Saudi, Menag: Haji tak Luput dari Masalah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygqa5483/dikirimi-nota-diplomatik-soal-haji-oleh-saudi-menag-haji-tak-luput-dari-masalah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:20:27"
+    },
+    {
+      "judul": "PS Manado Tak Terkejar di Liga TopSkor Sulut 2025",
+      "link_berita": "https://skor.republika.co.id/posts/688656/ps-manado-tak-terkejar-di-liga-top-skor-sulut-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:20:27"
+    },
+    {
+      "judul": "FoSSEI Luncurkan Dana Abadi Berbasis Wakaf Demi Wujudkan Kemandirian Ekonomi Organisasi",
+      "link_berita": "https://sharia.republika.co.id/berita/sygkwv502/fossei-luncurkan-dana-abadi-berbasis-wakaf-demi-wujudkan-kemandirian-ekonomi-organisasi",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:20:27"
+    },
+    {
+      "judul": "Investigasi Kementan: 85,56 Persen Beras Premium Diuji tak Sesuai Standar Mutu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sygq2z502/investigasi-kementan-8556-persen-beras-premium-diuji-tak-sesuai-standar-mutu",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:16:27"
+    },
+    {
+      "judul": "Peringatan Haul 10 Tahun Pendiri TIKI dan JNE H Soeprapto Soeparno: Menginsiprasi Nilai Berbagi, Memberi, dan Menyantuni",
+      "link_berita": "https://cari.republika.co.id/posts/688633/peringatan-haul-10-tahun-pendiri-tiki-dan-jne-h-soeprapto-soeparno-menginsiprasi-nilai-berbagi-memberi-dan-menyantuni",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:07:27"
+    },
+    {
+      "judul": "Mengenal Majid, Sistem Hanud Iran yang Jatuhkan Drone Heron Israel",
+      "link_berita": "https://seputarmiliter.id/posts/688635/mengenal-majid-sistem-hanud-iran-yang-jatuhkan-drone-heron-israel",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:05:27"
+    },
+    {
+      "judul": "1 Muharram: Bukan Sekadar Tahun Baru Biasa",
+      "link_berita": "https://sekitarkaltim.id/posts/688651/1-muharram-bukan-sekadar-tahun-baru-biasa",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:04:27"
+    },
+    {
+      "judul": "Waspadai Potensi Perpecahan Umat",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygpjg458/waspadai-potensi-perpecahan-umat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 12:04:27"
+    },
+    {
+      "judul": "Makar Iblis-Kafir Quraisy yang Gagal",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygoz9458/makar-ibliskafir-quraisy-yang-gagal",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:52:27"
+    },
+    {
+      "judul": "UMKM Muslimah Dilatih Kembangkan Produk Ramah Lingkungan",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygoyv430/umkm-muslimah-dilatih-kembangkan-produk-ramah-lingkungan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:52:27"
+    },
+    {
+      "judul": "Krakatau Posco Terapkan Prinsip Industri Baja Berkelanjutan lewat Sertifikasi EPD",
+      "link_berita": "https://esgnow.republika.co.id/berita/sygopy490/krakatau-posco-terapkan-prinsip-industri-baja-berkelanjutan-lewat-sertifikasi-epd",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Pertimbangan MK Putuskan Memisah Jadwal Pemilu Nasional dan Lokal di Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/sygojf409/pertimbangan-mk-putuskan-memisah-jadwal-pemilu-nasional-dan-lokal-di-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Akui Sudah Periksa Kemenag, Ketua KPK: Cari Bukti Permulaan",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygoig483/akui-sudah-periksa-kemenag-ketua-kpk-cari-bukti-permulaan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Mengenal 3 Jenis Hijrah",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygodu458/mengenal-3-jenis-hijrah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Mengapa Perut Sering Mulas Setelah Makan?",
+      "link_berita": "https://ameera.republika.co.id/berita/sygo34425/mengapa-perut-sering-mulas-setelah-makan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Jangan Suka Memaksakan Kehendak",
+      "link_berita": "https://khazanah.republika.co.id/berita/sygo11458/jangan-suka-memaksakan-kehendak",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Pembukaan Liga TopSkor Papua Barat Daya Digelar 28 Juni 2025",
+      "link_berita": "https://skor.republika.co.id/posts/688644/pembukaan-liga-top-skor-papua-barat-daya-digelar-28-juni-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Hiu Tutul Terdampar dan Mati di Pantai Welahan Wetan",
+      "link_berita": "https://visual.republika.co.id/berita/sygm29375/hiu-tutul-terdampar-dan-mati-di-pantai-welahan-wetan",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "BSI Dorong Ekosistem Halal, Targetkan Transaksi Rp 2,5 Triliun di Expo 2025",
+      "link_berita": "https://sharia.republika.co.id/berita/sygnol370/bsi-dorong-ekosistem-halal-targetkan-transaksi-rp-25-triliun-di-expo-2025",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
+      "judul": "Target Lifting Minyak 2025 Tercapai, Blok Cepu Jadi Penentu Utama",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sygngs370/target-lifting-minyak-2025-tercapai-blok-cepu-jadi-penentu-utama",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:48:27"
+    },
+    {
       "judul": "MK Putuskan Pemilu Nasional dan Lokal Harus Dipisah, Jeda 2 Tahun atau 2,5 Tahun",
       "link_berita": "https://news.republika.co.id/berita/sygn4h409/mk-putuskan-pemilu-nasional-dan-lokal-harus-dipisah-jeda-2-tahun-atau-25-tahun",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:12:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Elektrifikasi KRL Serang\u2013Rangkasbitung Butuh 4 Tahun, Ini Tahapan Lengkapnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/sygn2a490/elektrifikasi-krl-serangrangkasbitung-butuh-4-tahun-ini-tahapan-lengkapnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:10:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Juventus vs Manchester City di Piala Dunia Antarklub 2025",
       "link_berita": "https://skor.republika.co.id/posts/688641/prediksi-dan-link-live-streaming-juventus-vs-manchester-city-di-piala-dunia-antarklub-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:09:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Harga Beras di Cirebon Naik, Pedagang Nasi Terjepit",
       "link_berita": "https://rejabar.republika.co.id/berita/sygmy6512/harga-beras-di-cirebon-naik-pedagang-nasi-terjepit",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:08:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Buntut Polemik RUU TNI Dibahas di Hotel, MK Putuskan Semua Rapat DPR Wajib Junjung Asas Keterbukaan",
       "link_berita": "https://news.republika.co.id/berita/sygmpq409/buntut-polemik-ruu-tni-dibahas-di-hotel-mk-putuskan-semua-rapat-dpr-wajib-junjung-asas-keterbukaan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:03:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Ajak Generasi Muda Suarakan Kesejahteraan Mental, #InspiringIndonesia Adakan Kompetisi Film Pendek",
       "link_berita": "https://rejogja.republika.co.id/berita/sygkgw291/ajak-generasi-muda-suarakan-kesejahteraan-mental-inspiringindonesia-adakan-kompetisi-film-pendek",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:01:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Sempat Tertahan di Qatar Akibat Perang Iran-Israel 2 Warga KBB Tiba di Tanah Air, Ini Kondisinya",
       "link_berita": "https://rejabar.republika.co.id/berita/sygmka512/sempat-tertahan-di-qatar-akibat-perang-iranisrael-2-warga-kbb-tiba-di-tanah-air-ini-kondisinya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:00:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Rusia Minta Gencatan Senjata Israel-Iran Berlangsung Lama",
       "link_berita": "https://khazanah.republika.co.id/berita/sygmk8483/rusia-minta-gencatan-senjata-israeliran-berlangsung-lama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 11:00:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Psikolog: Aktivitas Bonding Harus Disesuaikan dengan Usia dan Karakter Anak",
       "link_berita": "https://ameera.republika.co.id/berita/sygmid425/psikolog-aktivitas-bonding-harus-disesuaikan-dengan-usia-dan-karakter-anak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:58:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Medco Fokus Kembangkan Energi Panas Bumi di Pulau Jawa",
       "link_berita": "https://esgnow.republika.co.id/berita/sygmhu370/medco-fokus-kembangkan-energi-panas-bumi-di-pulau-jawa",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:58:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Aktivis Geruduk Kementerian Kebudayaan, Protes Pernyataan Fadli Zon tentang Tragedi Mei 98",
       "link_berita": "https://visual.republika.co.id/berita/syglzu375/aktivis-geruduk-kementerian-kebudayaan-protes-pernyataan-fadli-zon-tentang-tragedi-mei-98",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:47:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Kisah Sayyidatina Shafiyah Membunuh Seorang Intel Yahudi",
       "link_berita": "https://khazanah.republika.co.id/berita/syglzn430/kisah-sayyidatina-shafiyah-membunuh-seorangintel-yahudi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:47:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Isu Pemekaran Provinsi Jabar Jadi 5 Provinsi, Pengamat: Belum Saatnya",
       "link_berita": "https://rejabar.republika.co.id/berita/syglu7512/isu-pemekaran-provinsi-jabar-jadi-5-provinsi-pengamat-belum-saatnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:44:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Jenazah Juliana Marins Batal Diautopsi di Mataram, Apa Alasannya?",
       "link_berita": "https://ameera.republika.co.id/berita/syglon425/jenazah-juliana-marins-batal-diautopsi-di-mataram-apa-alasannya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:41:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Pergantian Tahun Baru Islam, MUI: Buat Resolusi Kebaikan",
       "link_berita": "https://khazanah.republika.co.id/berita/sygliw483/pergantian-tahun-baru-islam-mui-buat-resolusi-kebaikan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:37:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Bertemu Keluarga Pahlawan, Panglima Ingin Pererat Tali Silaturahim",
       "link_berita": "https://seputarmiliter.id/posts/688442/bertemu-keluarga-pahlawan-panglima-ingin-pererat-tali-silaturahim",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:35:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Turun Harga, Segini Harga Baru Chery C5 dan E5 Facelift di Indonesia",
       "link_berita": "https://motoresto.id/posts/688505/turun-harga-segini-harga-baru-chery-c5-dan-e5-facelift-di-indonesia",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:34:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Perangi Bank Emok, Ini yang Dilakukan Pemkot Bandung",
       "link_berita": "https://bandung24jam.id/posts/688564/perangi-bank-emok-ini-yang-dilakukan-pemkot-bandung",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:34:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Empat Mahasiswa UMS Menciptakan Biofilter Penyaring Nikotin dan Tar untuk Rehabilitasi Pecandu Rokok",
       "link_berita": "https://diagnosa.id/posts/688573/empat-mahasiswa-ums-menciptakan-biofilter-penyaring-nikotin-dan-tar-untuk-rehabilitasi-pecandu-rokok",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:34:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Medco Energi Akuisi Repsol di Corridor, Kuasai 70 Persen Blok Corridor",
       "link_berita": "https://kingdomsriwijaya.id/posts/688614/medco-energi-akuisi-repsol-di-corridor-kuasai-70-persen-blok-corridor",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:34:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "276 Jemaah Haji Kembali Tiba di Kota Sukabumi",
       "link_berita": "https://sukabumikini.com/posts/688621/276-jemaah-haji-kembali-tiba-di-kota-sukabumi",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:34:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Presiden Prabowo Serukan Lompatan Besar Sistem Kesehatan Indonesia",
       "link_berita": "https://sekitarkaltim.id/posts/688625/presiden-prabowo-serukan-lompatan-besar-sistem-kesehatan-indonesia",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:33:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
       "judul": "Misteri 11 Weton Tulang Wangi di Malam 1 Suro: Sejarah, Arti, dan Ciri dalam Mitologi Jawa yang Dianggap Sakti",
       "link_berita": "https://kurusetra.republika.co.id/posts/688630/misteri-11-weton-tulang-wangi-di-malam-1-suro-sejarah-arti-dan-ciri-dalam-mitologi-jawa-yang-dianggap-sakti",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:33:36"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:48:27"
     },
     {
-      "judul": "KPK Benarkan Kasus Korupsi Kuota Haji Terjadi pada 2023-2024",
-      "link_berita": "https://khazanah.republika.co.id/berita/sygl7c430/kpk-benarkan-kasus-korupsi-kuota-haji-terjadi-pada-20232024",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:30:36"
+      "judul": "Cegah Jerawat, Ini Daftar Makanan yang Sebaiknya Dibatasi Menurut Ahli Kulit",
+      "link_berita": "https://ameera.republika.co.id/berita/sygqil425/cegah-jerawat-ini-daftar-makanan-yang-sebaiknya-dibatasi-menurut-ahli-kulit",
+      "kategori": "Health",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 19:25:00"
     },
     {
-      "judul": "Doa Awal Tahun 1447 Hijriyah, Teks dan Waktu Membacanya",
-      "link_berita": "https://iqra.republika.co.id/berita/sygl01430/doa-awal-tahun-1447-hijriyah-teks-dan-waktu-membacanya",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:26:36"
-    },
-    {
-      "judul": "Trump Desak Israel Batalkan Pengadilan Korupsi Terhadap Netanyahu",
-      "link_berita": "https://khazanah.republika.co.id/berita/sygkuf430/trump-desak-israel-batalkan-pengadilan-korupsi-terhadap-netanyahu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:22:36"
-    },
-    {
-      "judul": "Ini Tiga Manfaat Luar Biasa Bonding Time Orang Tua dan Anak",
-      "link_berita": "https://ameera.republika.co.id/berita/sygku5425/ini-tiga-manfaat-luar-biasa-bonding-time-orang-tua-dan-anak",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:22:36"
-    },
-    {
-      "judul": "Kuota Afirmasi SMA Naik Jadi 30 Persen, JCW Ingatkan Potensi Praktik Curang SPMB 2025",
-      "link_berita": "https://rejogja.republika.co.id/berita/sygkqd291/kuota-afirmasi-sma-naik-jadi-30-persen-jcwingatkan-potensi-praktik-curangspmb-2025",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:20:36"
-    },
-    {
-      "judul": "36 Tim Play-ins Berebut 9 Tiket Grand Final FFNS Fall 2025",
-      "link_berita": "https://skor.republika.co.id/posts/688620/36-tim-play-ins-berebut-9-tiket-grand-final-ffns-fall-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Berani Beda dari Kandidat Lain, Calon Wali Kota New York Ini Siap Tangkap Netanyahu",
-      "link_berita": "https://khazanah.republika.co.id/berita/sygk2h483/berani-beda-dari-kandidat-lain-calon-wali-kota-new-york-ini-siap-tangkap-netanyahu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Ingin Masuk Sekolah Impian, Pendaftar SPMB di SMAN 1 Kuningan Rela Mengulang Kelas Satu",
-      "link_berita": "https://rejabar.republika.co.id/berita/sygk2b512/ingin-masuk-sekolah-impian-pendaftar-spmb-di-sman-1-kuningan-rela-mengulang-kelas-satu",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Skema KPBU Syariah Didorong Hingga Pemerintahan Daerah",
-      "link_berita": "https://sharia.republika.co.id/berita/sygk23502/skema-kpbu-syariah-didorong-hingga-pemerintahan-daerah",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Pemkot Semarang Belum Bayar Insentif 2.047 Nakes Rp 9 Miliar Selama Pandemi Covid-19",
-      "link_berita": "https://rejogja.republika.co.id/berita/sygk0i282/pemkot-semarang-belum-bayar-insentif-2047-nakes-rp-9-miliar-selama-pandemi-covid19",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Keuangan Syariah Dinilai Lebih Tahan Gejolak, BI: Instrumen Syariah Punya Underlying Asset",
-      "link_berita": "https://sharia.republika.co.id/berita/sygjz8490/keuangan-syariah-dinilai-lebih-tahan-gejolak-bi-instrumen-syariah-punya-underlying-asset",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Dedi Mulyadi Gandeng TNI AD untuk Revitalisasi SMA/SMK hingga Bangun Jembatan di Daerah Terpencil",
-      "link_berita": "https://rejabar.republika.co.id/berita/sygjri512/dedi-mulyadi-gandeng-tni-ad-untuk-revitalisasi-smasmk-hingga-bangun-jembatan-di-daerah-terpencil",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Hakikat Taat yang Sesungguhnya",
-      "link_berita": "https://khazanah.republika.co.id/berita/sygjkl458/hakikat-taat-yang-sesungguhnya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Turunnya Daya Beli Jadi Salah Satu Sebab Melonjaknya Peredaran Rokok Ilegal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sygi6c370/turunnya-daya-beli-jadi-salah-satu-sebab-melonjaknya-peredaran-rokok-ilegal",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Prabowo Resmikan Sejumlah Proyek, Indonesia Menuju Kedaulatan Energi Nasional",
-      "link_berita": "https://news.republika.co.id/berita/sygjez484/prabowo-resmikan-sejumlah-proyek-indonesia-menuju-kedaulatan-energi-nasional",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 10:19:36"
-    },
-    {
-      "judul": "Qatar Siap Dukung Bangun Perumahan di Indonesia, BUMN Bakal Siapkan Lahan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sygj3a490/qatar-siap-dukung-bangun-perumahan-di-indonesia-bumn-bakal-siapkan-lahan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Pertamina dan UMKM Binaannya Berjaya di UMKM BUMN Award 2025",
-      "link_berita": "https://esgnow.republika.co.id/berita/sygiwx522/pertamina-dan-umkm-binaannya-berjaya-di-umkm-bumn-award-2025",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Masa Depan Energi Lepas Pantai: Digitalisasi dan Peluang Indonesia",
-      "link_berita": "https://shippingcargo.co.id/posts/688313/masa-depan-energi-lepas-pantai-digitalisasi-dan-peluang-indonesia",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Harga Kemahalan, Udinese Menyerah untuk Dapatkan Jay Idzes",
-      "link_berita": "https://skor.republika.co.id/posts/688613/harga-kemahalan-udinese-menyerah-untuk-dapatkan-jay-idzes",
-      "kategori": "Network",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Ketum Muhammadiyah Tanggapi Pemblokiran Sejumlah Akun Masjid Jogokariyan",
-      "link_berita": "https://rejogja.republika.co.id/berita/syginr282/ketum-muhammadiyah-tanggapi-pemblokiran-sejumlah-akun-masjid-jogokariyan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Bank Indonesia Bukukan Surplus Rp 52,19 Triliun, Tertinggi dalam Satu Dekade",
-      "link_berita": "https://ekonomi.republika.co.id/berita/syghon370/bank-indonesia-bukukan-surplus-rp-5219-triliun-tertinggi-dalam-satu-dekade",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Krakatau Steel Umumkan Susunan Komisaris dan Direksi Terbaru, Ini Daftarnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sygil7490/krakatau-steel-umumkan-susunan-komisaris-dan-direksi-terbaru-ini-daftarnya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Spesifikasi dan Harga Taksi Terbang EHang 216-S yang Diuji Coba Raffi Ahmad",
-      "link_berita": "https://ameera.republika.co.id/berita/sygikm409/spesifikasi-dan-harga-taksi-terbang-ehang-216s-yang-diuji-coba-raffi-ahmad",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Menag: Mari Jadi Amil yang Profesional, Mari Menjadi Abu Hurairah",
-      "link_berita": "https://khazanah.republika.co.id/berita/sygif0483/menag-mari-jadi-amil-yang-profesional-mari-menjadi-abu-hurairah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Nama 10 Tahun Pertama Dalam Penanggalan Hijriah",
-      "link_berita": "https://khazanah.republika.co.id/berita/syghzw458/nama-10-tahun-pertama-dalam-penanggalan-hijriah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "BRI Insurance Dorong Penerapan GCG",
-      "link_berita": "https://ekonomi.republika.co.id/berita/syghzo370/bri-insurance-dorong-penerapan-gcg",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Danantara Dukung Proyek Sejuta Rusun, Sediakan Lahan dan Komitmen Penuh",
-      "link_berita": "https://ekonomi.republika.co.id/berita/syghy6490/danantara-dukung-proyek-sejuta-rusun-sediakan-lahan-dan-komitmen-penuh",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 09:19:36"
-    },
-    {
-      "judul": "Psikolog: Aktivitas Bonding Harus Disesuaikan dengan Usia dan Karakter Anak",
-      "link_berita": "https://ameera.republika.co.id/berita/sygmid425/psikolog-aktivitas-bonding-harus-disesuaikan-dengan-usia-dan-karakter-anak",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 17:59:00"
-    },
-    {
-      "judul": "Medco Fokus Kembangkan Energi Panas Bumi di Pulau Jawa",
-      "link_berita": "https://esgnow.republika.co.id/berita/sygmhu370/medco-fokus-kembangkan-energi-panas-bumi-di-pulau-jawa",
+      "judul": "Krakatau Posco Terapkan Prinsip Industri Baja Berkelanjutan lewat Sertifikasi EPD",
+      "link_berita": "https://esgnow.republika.co.id/berita/sygopy490/krakatau-posco-terapkan-prinsip-industri-baja-berkelanjutan-lewat-sertifikasi-epd",
       "kategori": "Tata Kelola",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 17:58:00"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 18:46:00"
     },
     {
-      "judul": "Elektrifikasi KRL Serang\u2013Rangkasbitung Butuh 4 Tahun, Ini Tahapan Lengkapnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/sygn2a490/elektrifikasi-krl-serangrangkasbitung-butuh-4-tahun-ini-tahapan-lengkapnya",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 18:10:00"
+      "judul": "Investigasi Kementan: 85,56 Persen Beras Premium Diuji tak Sesuai Standar Mutu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/sygq2z502/investigasi-kementan-8556-persen-beras-premium-diuji-tak-sesuai-standar-mutu",
+      "kategori": "Pertanian",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 19:16:00"
     },
     {
-      "judul": "Skema KPBU Syariah Didorong Hingga Pemerintahan Daerah",
-      "link_berita": "https://sharia.republika.co.id/berita/sygk23502/skema-kpbu-syariah-didorong-hingga-pemerintahan-daerah",
-      "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 17:06:00"
+      "judul": "BSI Dorong Ekosistem Halal, Targetkan Transaksi Rp 2,5 Triliun di Expo 2025",
+      "link_berita": "https://sharia.republika.co.id/berita/sygnol370/bsi-dorong-ekosistem-halal-targetkan-transaksi-rp-25-triliun-di-expo-2025",
+      "kategori": "Industri Halal Ekonomi Syariah",
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 18:24:00"
     },
     {
-      "judul": "MK Putuskan Pemilu Nasional dan Lokal Harus Dipisah, Jeda 2 Tahun atau 2,5 Tahun",
-      "link_berita": "https://news.republika.co.id/berita/sygn4h409/mk-putuskan-pemilu-nasional-dan-lokal-harus-dipisah-jeda-2-tahun-atau-25-tahun",
+      "judul": "Ada Jakarta International Marathon, 32 Ruas Jalan Ini Ditutup pada Ahad",
+      "link_berita": "https://news.republika.co.id/berita/sygrbp487/ada-jakarta-international-marathon-32-ruas-jalan-ini-ditutup-pada-ahad",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 26 Jun 2025, 18:12:00"
+      "tanggal_terbit": "Thursday, 26 Jun 2025, 19:43:00"
     }
   ],
-  "waktu_scraping": "Thursday, 26 Jun 2025, 18:19:36"
+  "waktu_scraping": "Thursday, 26 Jun 2025, 19:48:27"
 }
