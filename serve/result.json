@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kejagung Sebut Pemeriksaan Nadiem Krusial, Ada Tersangka Baru?",
+      "link_berita": "https://news.republika.co.id/berita/szfjoz393/kejagung-sebut-pemeriksaan-nadiem-krusial-ada-tersangka-baru"
+    },
+    {
       "judul": "RMI NU Jabar Sebut Kebijakan KDM Diskreditkan Pesantren, Banyak Calon Santri yang Mundur",
       "link_berita": "https://khazanah.republika.co.id/berita/szfffz483/rmi-nu-jabar-sebut-kebijakan-kdm-diskreditkan-pesantren-banyak-calon-santri-yang-mundur"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Karena Zonasi, Seorang Siswa Bingung tak Diterima SMA Manapun",
       "link_berita": "https://news.republika.co.id/berita/szf8wp430/karena-zonasi-seorang-siswa-bingung-tak-diterima-sma-manapun"
-    },
-    {
-      "judul": "Polemik Beras Premium, Ini Daftar Lengkap HET Beras Premium dan Medium",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szf6t7423/polemik-beras-premium-ini-daftar-lengkap-het-beras-premium-dan-medium"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pedagang Pasar Induk Cipinang Curhat Terdampak Isu Beras Oplosan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szfilv416/pedagang-pasar-induk-cipinang-curhat-terdampak-isu-beras-oplosan"
+    },
+    {
+      "judul": "Penjualan LCGC Juni 2025 Anjlok 50 Persen, Ini Penyebabnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szfi2z370/penjualan-lcgc-juni-2025-anjlok-50-persen-ini-penyebabnya"
+    },
+    {
+      "judul": "Kopassus, Kormar, Kopasgat Dipimpin Bintang Tiga, Kapuspen: Tunggu Bulan Depan",
+      "link_berita": "https://news.republika.co.id/berita/szfhh9484/kopassus-kormar-kopasgat-dipimpin-bintang-tiga-kapuspen-tunggu-bulan-depan"
+    },
     {
       "judul": "IDF Terus Bertumbangan di Gaza, Koalisi Netanyahu Terancam Bubar",
       "link_berita": "https://news.republika.co.id/berita/szff2j393/idf-terus-bertumbangan-di-gaza-koalisi-netanyahu-terancam-bubar"
@@ -69,338 +81,326 @@
     {
       "judul": "Di Sidang Lanjutan, Pengacara Hasto Sebut Data CDR KPK tak Diaudit Forensik",
       "link_berita": "https://news.republika.co.id/berita/szepev377/di-sidang-lanjutan-pengacara-hasto-sebut-data-cdr-kpk-tak-diaudit-forensik"
-    },
-    {
-      "judul": "Kapal Boat Tenggelam di Perairan Mentawai: 8 Selamat, 10 Masih Hilang Diduga Termasuk Anggota DPRD",
-      "link_berita": "https://news.republika.co.id/berita/szeg8b409/kapal-boat-tenggelam-di-perairan-mentawai-8-selamat-10-masih-hilang-diduga-termasuk-anggota-dprd"
-    },
-    {
-      "judul": "Warga Kuningan Dibela Hotman Paris Diduga Jadi Korban Malapraktik RS, KDM: Itu Kewenangan Bupati",
-      "link_berita": "https://news.republika.co.id/berita/szefl8409/warga-kuningan-dibela-hotman-paris-diduga-jadi-korban-malapraktik-rs-kdm-itu-kewenangan-bupati"
-    },
-    {
-      "judul": "Hari Pertama Masuk Sekolah, Murid SDN 1 Babakan Talang Belajar di Sekolah Darurat",
-      "link_berita": "https://tv.republika.co.id/berita/szecto526/hari-pertama-masuk-sekolah-murid-sdn-1-babakan-talang-belajar-di-sekolah-darurat"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ngelamar Kerja Gagal Terus? Mungkin CV Kamu Belum ATS-Friendly",
+      "link_berita": "https://ameera.republika.co.id/berita/szfm9h425/ngelamar-kerja-gagal-terus-mungkin-cv-kamu-belum-atsfriendly",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:29:17"
+    },
+    {
+      "judul": "Satu Saksi Kasus Chromebook Dijemput Paksa Kejagung",
+      "link_berita": "https://news.republika.co.id/berita/szfm4x409/satu-saksi-kasus-chromebook-dijemput-paksa-kejagung",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:27:17"
+    },
+    {
+      "judul": "Aipda Robig Sebut Tembakan yang Tewaskan Gamma Tindakan tak Sengaja",
+      "link_berita": "https://rejogja.republika.co.id/berita/szfm4i282/aipda-robig-sebut-tembakan-yang-tewaskan-gamma-tindakan-tak-sengaja",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:26:17"
+    },
+    {
+      "judul": "Iran tak Percaya Gencatan Senjata dengan Israel, Bersiap Kembali Perang?",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfly7320/iran-tak-percaya-gencatan-senjata-dengan-israel-bersiap-kembali-perang",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:23:17"
+    },
+    {
+      "judul": "Mahasiswi Doktoral UNM Terpilih Ikuti Program Student Mobility APTIKOM 2025 di Kancah Internasional",
+      "link_berita": "https://news.republika.co.id/berita/szfly7472/mahasiswi-doktoral-unm-terpilih-ikuti-program-student-mobility-aptikom-2025-di-kancah-internasional",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:23:17"
+    },
+    {
+      "judul": "Bupati Gunungkidul Ngamuk ke Calo ASN yang Jual Namanya",
+      "link_berita": "https://rejogja.republika.co.id/berita/szflqt282/bupati-gunungkidul-ngamuk-ke-calo-asn-yang-jual-namanya",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:18:17"
+    },
+    {
+      "judul": "Nggak Cuma Ngoding, Mahasiswa UBSI juga Diajarin Ngejaga Dunia Digital dari Serangan \u2018Cyborg\u2019",
+      "link_berita": "https://news.republika.co.id/berita/szflmm472/nggak-cuma-ngoding-mahasiswa-ubsi-juga-diajarin-ngejaga-dunia-digital-dari-serangan-cyborg",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:16:17"
+    },
+    {
+      "judul": "Kapuspen TNI Jelaskan Alasan Penempatan 9.000 Pasukan di Papua",
+      "link_berita": "https://news.republika.co.id/berita/szflm8484/kapuspen-tni-jelaskan-alasan-penempatan-9000-pasukan-di-papua",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:15:17"
+    },
+    {
+      "judul": "Uji Materi UU Kejaksaan di MK, MA Ingin Perlindungan untuk Jaksa Dibatasi, Ini Alasannya",
+      "link_berita": "https://news.republika.co.id/berita/szfliu487/uji-materi-uu-kejaksaan-di-mk-ma-ingin-perlindungan-untuk-jaksa-dibatasi-ini-alasannya",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:13:17"
+    },
+    {
+      "judul": "Sharia Matahari Bank Officially Receives Operational Permit from OJK",
+      "link_berita": "https://en.republika.co.id/berita/szflgu415/sharia-matahari-bank-officially-receives-operational-permit-from-ojk",
+      "kategori": "En",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:32:17"
+    },
+    {
+      "judul": "Sri Mulyani Paparkan Strategi Pemerintah Tekan Angka Pengangguran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szfldh370/sri-mulyani-paparkan-strategi-pemerintah-tekan-angka-pengangguran",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:10:17"
+    },
+    {
+      "judul": "NU dan Muhammadiyah Jabar Kritik Keras Kebijakan KDM",
+      "link_berita": "https://news.republika.co.id/berita/szfldb458/nu-dan-muhammadiyah-jabar-kritik-keras-kebijakan-kdm",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:10:17"
+    },
+    {
+      "judul": "Jungkook BTS Bikin Geger Instagram, Bikin Akun Baru? Di-follow Seluruh Member",
+      "link_berita": "https://ameera.republika.co.id/berita/szflcb425/jungkook-bts-bikin-geger-instagram-bikin-akun-baru-difollow-seluruh-member",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:10:17"
+    },
+    {
+      "judul": "Gelaran KKJB 2025 Ditargetkan Bisa Hasilkan Transaksi Penjualan Capai Rp 15 Miliar",
+      "link_berita": "https://rejabar.republika.co.id/berita/szflbk512/gelaran-kkjb-2025-ditargetkan-bisa-hasilkan-transaksi-penjualan-capai-rp-15-miliar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:09:17"
+    },
+    {
+      "judul": "Revisi UU Haji, Anggota DPR: Kalau Telat akan Ganggu Persiapan Haji 2026",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfipw451/revisi-uu-haji-anggota-dpr-kalau-telat-akan-ganggu-persiapan-haji-2026",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:07:17"
+    },
+    {
+      "judul": "Cyber University Hadirkan AI Cyber & Fintech Summit 2025",
+      "link_berita": "https://news.republika.co.id/berita/szfl70472/cyber-university-hadirkan-ai-cyber-fintech-summit-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:06:17"
+    },
+    {
+      "judul": "Kapal Boat Terbalik dan Karam di Mentawai, Bupati Akui Kelebihan Kapasitas Muatan",
+      "link_berita": "https://news.republika.co.id/berita/szfl4c409/kapal-boat-terbalik-dan-karam-di-mentawai-bupati-akui-kelebihan-kapasitas-muatan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:05:17"
+    },
+    {
+      "judul": "Alumni Cyber University Tembus Posisi Strategis di Bank BRI, Buktikan Kualitas Lulusan Siap Kerja",
+      "link_berita": "https://news.republika.co.id/berita/szfkuq472/alumni-cyber-university-tembus-posisi-strategis-di-bank-bri-buktikan-kualitas-lulusan-siap-kerja",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:59:17"
+    },
+    {
+      "judul": "Indonesia Launches Ocean Centre, Strengthening Blue Economy and Ocean Governance",
+      "link_berita": "https://en.republika.co.id/berita/szfkto415/indonesia-launches-ocean-centre-strengthening-blue-economy-and-ocean-governance",
+      "kategori": "En",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 08:32:17"
+    },
+    {
+      "judul": "Instalasi tak Standar Ancam Pengguna, APPLE Indonesia Desak Pengawasan Ketat Industri Lift",
+      "link_berita": "https://rejogja.republika.co.id/berita/szffvp291/instalasi-tak-standar-ancam-pengguna-apple-indonesia-desak-pengawasan-ketat-industri-lift",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:58:17"
+    },
+    {
+      "judul": "JPPI Ingatkan KDM, Sudah Ada Standar Nasional Jumlah Siswa per Kelas",
+      "link_berita": "https://news.republika.co.id/berita/szfkqe409/jppi-ingatkan-kdm-sudah-ada-standar-nasional-jumlah-siswa-per-kelas",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:56:17"
+    },
+    {
+      "judul": "Tentara Israel Kembali Akui Ketiga Tentaranya Tewas Terbakar dalam Merkava",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfkpv320/tentara-israel-kembali-akui-ketiga-tentaranya-tewas-terbakar-dalam-merkava",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:56:17"
+    },
+    {
+      "judul": "Comeback Gregoria tak Mulus, Langsung Tumbang pada Babak Pertama Japan Open 2025",
+      "link_berita": "https://news.republika.co.id/berita/szfkkn348/comeback-gregoria-tak-mulus-langsung-tumbang-pada-babak-pertama-japan-open-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:53:17"
+    },
+    {
+      "judul": "Lolos P2MW dan Bangun Bisnis Pakan Eksotis, Mahasiswa UNM Makin Siap Jadi Digitalpreneur!",
+      "link_berita": "https://news.republika.co.id/berita/szfkhi472/lolos-p2mw-dan-bangun-bisnis-pakan-eksotis-mahasiswa-unm-makin-siap-jadi-digitalpreneur",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:51:17"
+    },
+    {
+      "judul": "Seperti Ini Rae Lil Black Memaknai Alquran",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfkh4430/seperti-ini-rae-lil-black-memaknai-alquran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:51:17"
+    },
+    {
+      "judul": "KPAI Dorong MPLS Ramah Bebas Bullying, Sekolah Wajib Awasi",
+      "link_berita": "https://ameera.republika.co.id/berita/szfkfv425/kpai-dorong-mpls-ramah-bebas-bullying-sekolah-wajib-awasi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:50:17"
+    },
+    {
+      "judul": "DLH Tindak Tegas Perusahaan Pencemar Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/szfk8q423/dlh-tindak-tegas-perusahaan-pencemar-lingkungan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:50:17"
+    },
+    {
+      "judul": "Kolaborasi dengan Alfamart, MS Glow Ajak Pengguna Menonton Langsung MotoGP di Italia",
+      "link_berita": "https://rejogja.republika.co.id/berita/szfist291/kolaborasi-dengan-alfamart-ms-glow-ajak-pengguna-menonton-langsung-motogp-di-italia",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:47:17"
+    },
+    {
+      "judul": "Menag: Alam Bukan Objek Eksploitasi",
+      "link_berita": "https://esgnow.republika.co.id/berita/szfk9n416/menag-alam-bukan-objek-eksploitasi",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:46:17"
+    },
+    {
+      "judul": "LRT Jakarta Rute Velodrome-Manggarai Ditargetkan Beroperasi pada 2026",
+      "link_berita": "https://news.republika.co.id/berita/szfk55484/lrt-jakarta-rute-velodromemanggarai-ditargetkan-beroperasi-pada-2026",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:44:17"
+    },
+    {
+      "judul": "4 Fakta Unik Nabi Idris",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfjzh458/4-fakta-unik-nabi-idris",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:40:17"
+    },
+    {
+      "judul": "Fraksi PPP Nilai Kebijakan KDM Lahirkan Masalah Baru di Sektor Pendidikan",
+      "link_berita": "https://rejabar.republika.co.id/berita/szfjyg512/fraksi-ppp-nilai-kebijakan-kdm-lahirkan-masalah-baru-di-sektor-pendidikan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:40:17"
+    },
+    {
+      "judul": "BKOT, Dukung Masa Depan Anak Lebih Pasti Bersama UBSI Kampus Cibitung",
+      "link_berita": "https://news.republika.co.id/berita/szfjwo472/bkot-dukung-masa-depan-anak-lebih-pasti-bersama-ubsi-kampus-cibitung",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:39:17"
+    },
+    {
+      "judul": "Kejagung Sebut Pemeriksaan Nadiem Krusial, Ada Tersangka Baru?",
+      "link_berita": "https://news.republika.co.id/berita/szfjoz393/kejagung-sebut-pemeriksaan-nadiem-krusial-ada-tersangka-baru",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:34:17"
+    },
+    {
+      "judul": "Menkop Ungkap Kopdes Dapat Pinjaman Modal Kalau Sudah Terbukti Untung",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szfjm1370/menkop-ungkap-kopdes-dapat-pinjaman-modal-kalau-sudah-terbukti-untung",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Indonesia Luncurkan Ocean Centre, Perkuat Ekonomi Biru dan Tata Kelola Laut",
+      "link_berita": "https://esgnow.republika.co.id/berita/szfjj7416/indonesia-luncurkan-ocean-centre-perkuat-ekonomi-biru-dan-tata-kelola-laut",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Disebut Sebagai 'Ajudan' Rasulullah, Siapakah Qais bin Saad?",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfjh7458/disebut-sebagai-ajudan-rasulullah-siapakah-qais-bin-saad",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Tasyakuran Milad ke-7 Surya Madina, Sebanyak 25 Jamaah Peroleh Umrah Gratis",
+      "link_berita": "https://rejogja.republika.co.id/berita/szfhb4291/tasyakuran-milad-ke7-surya-madina-sebanyak-25-jamaah-peroleh-umrah-gratis",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Uji Coba Sekolah Swasta Gratis di Jakarta tak Ada Dasar Hukum? Ini Jawaban Rano Karno",
+      "link_berita": "https://news.republika.co.id/berita/szfjfv487/uji-coba-sekolah-swasta-gratis-di-jakarta-tak-ada-dasar-hukum-ini-jawaban-rano-karno",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Bea Cukai Lhokseumawe Tetapkan Lima Moge Hasil Penindakan Jadi Barang yang Dikuasai Negara",
+      "link_berita": "https://republika.co.id/berita//szfjcd472/bea-cukai-lhokseumawe-tetapkan-lima-moge-hasil-penindakan-jadi-barang-yang-dikuasai-negara",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Kapal Terbalik di Mentawai, Seluruh Penumpang Selamat dan Sudah Dievakuasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szfjbn423/kapal-terbalik-di-mentawai-seluruh-penumpang-selamat-dan-sudah-dievakuasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
+      "judul": "Sebelum Turun Surah al-Alaq, Muhammad SAW Sudah Jadi Nabi?",
+      "link_berita": "https://khazanah.republika.co.id/berita/szfjbe458/sebelum-turun-surah-alalaq-muhammad-saw-sudah-jadi-nabi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
+    },
+    {
       "judul": "BRICS, Multi Track Diplomasi Ala Prabowo Subianto",
       "link_berita": "https://analisis.republika.co.id/berita/szfj7g451/brics-multi-track-diplomasi-ala-prabowo-subianto",
       "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:23:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "Aipda Robig Sebut Tembakan yang Tewaskan Gamma Tindakan tak Sengaja",
       "link_berita": "https://news.republika.co.id/berita/szfj2x377/aipda-robig-sebut-tembakan-yang-tewaskan-gamma-tindakan-tak-sengaja",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:21:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "MSC 2025: 5 Pemain Indonesia di Tim Luar Negeri",
       "link_berita": "https://skor.republika.co.id/posts/692883/msc-2025-5-pemain-indonesia-di-tim-luar-negeri",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:20:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "Selain Olivia Rodrigo, Ini Deretan Musisi Wanita yang Berani Bela Palestina",
       "link_berita": "https://ameera.republika.co.id/berita/szfj00425/selain-olivia-rodrigo-ini-deretan-musisi-wanita-yang-berani-bela-palestina",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:19:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "Sinergi Foundation dan Forkwood Bandung Bahagiakan 100 Anak Yatim di Bulan Muharram",
       "link_berita": "https://khazanah.republika.co.id/berita/szfiyn472/sinergi-foundation-dan-forkwood-bandung-bahagiakan-100-anak-yatim-di-bulan-muharram",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:18:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "Celios Ungkap Faktor Munculnya Beras Oplosan",
       "link_berita": "https://ekonomi.republika.co.id/berita/szfivd423/celios-ungkap-faktor-munculnya-beras-oplosan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:16:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "Volume Perdagangan Karbon Tembus 1,6 Juta Ton, BEI Catat Lonjakan Pengguna dan Transaksi",
       "link_berita": "https://esgnow.republika.co.id/berita/szfikg370/volume-perdagangan-karbon-tembus-16-juta-ton-bei-catat-lonjakan-pengguna-dan-transaksi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:15:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
       "judul": "Pedagang Pasar Induk Cipinang Curhat Terdampak Isu Beras Oplosan",
       "link_berita": "https://ekonomi.republika.co.id/berita/szfilv416/pedagang-pasar-induk-cipinang-curhat-terdampak-isu-beras-oplosan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:10:21"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:32:17"
     },
     {
-      "judul": "Japan Open 2025: Gugur Dini, 1 Pelajaran Dipetik Jonatan Christie",
-      "link_berita": "https://skor.republika.co.id/posts/692880/japan-open-2025-gugur-dini-1-pelajaran-dipetik-jonatan-christie",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:10:21"
-    },
-    {
-      "judul": "Dua SMAN di Tangsel yang Disegel Paksa Orang Tua, Dibuka Kembali",
-      "link_berita": "https://news.republika.co.id/berita/szfij7484/dua-sman-di-tangsel-yang-disegel-paksa-orang-tua-dibuka-kembali",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:09:21"
-    },
-    {
-      "judul": "MTQ Perkuat Kecintaan Warga Kepada Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/szfif8451/mtq-perkuat-kecintaan-warga-kepada-alquran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:06:21"
-    },
-    {
-      "judul": "Bisnis Emas Syariah Masih Dikuasai Dua Pemain, OJK Lihat Peluang Tumbuh",
-      "link_berita": "https://sharia.republika.co.id/berita/szfiao423/bisnis-emas-syariah-masih-dikuasai-dua-pemain-ojk-lihat-peluang-tumbuh",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 07:04:21"
-    },
-    {
-      "judul": "Penjualan LCGC Juni 2025 Anjlok 50 Persen, Ini Penyebabnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szfi2z370/penjualan-lcgc-juni-2025-anjlok-50-persen-ini-penyebabnya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:59:21"
-    },
-    {
-      "judul": "Kementan: RI telah Mencapai Swasembada Daging Ayam dan Telur Ayam",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szfi2a451/kementan-ri-telah-mencapai-swasembada-daging-ayam-dan-telur-ayam",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:59:21"
-    },
-    {
-      "judul": "Victor Wembanyama Pulih dari Pembekuan Darah, Siap Kembali ke Lapangan Basket",
-      "link_berita": "https://news.republika.co.id/berita/szfhq5348/victor-wembanyama-pulih-dari-pembekuan-darah-siap-kembali-ke-lapangan-basket",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:51:21"
-    },
-    {
-      "judul": "Dua Bocah Asal Bandung Barat Tersengat Listik Saat Berburu Layangan, Begini Kondisinya",
-      "link_berita": "https://rejabar.republika.co.id/berita/szfhpt512/dua-bocah-asal-bandung-barat-tersengat-listik-saat-berburu-layangan-begini-kondisinya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:51:21"
-    },
-    {
-      "judul": "Serikat Pekerja Blokade Salah Satu Pelabuhan Terbesar di Yunani, Cegah Pengiriman Baja ke Israel",
-      "link_berita": "https://news.republika.co.id/berita/szfhns409/serikat-pekerja-blokade-salah-satu-pelabuhan-terbesar-di-yunani-cegah-pengiriman-baja-ke-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:50:21"
-    },
-    {
-      "judul": "Catatan Tim Receveur di Liga Belanda, Spesialis Kasta Kedua!",
-      "link_berita": "https://skor.republika.co.id/posts/692871/catatan-tim-receveur-di-liga-belanda-spesialis-kasta-kedua",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:50:21"
-    },
-    {
-      "judul": "Kopassus, Kormar, Kopasgat Dipimpin Bintang Tiga, Kapuspen: Tunggu Bulan Depan",
-      "link_berita": "https://news.republika.co.id/berita/szfhh9484/kopassus-kormar-kopasgat-dipimpin-bintang-tiga-kapuspen-tunggu-bulan-depan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:46:21"
-    },
-    {
-      "judul": "Bulog Wajibkan Penyalur Beras SPHP Teken Komitmen dan Siap Diproses Hukum",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szfhfu423/bulog-wajibkan-penyalur-beras-sphp-teken-komitmen-dan-siap-diproses-hukum",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:45:21"
-    },
-    {
-      "judul": "Akibat Obat Nyamuk Bakar, Rumah Warga di Cirebon Ludes Dilalap Si Jago Merah",
-      "link_berita": "https://rejabar.republika.co.id/berita/szfh62512/akibat-obat-nyamuk-bakar-rumah-warga-di-cirebon-ludes-dilalap-si-jago-merah",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:39:21"
-    },
-    {
-      "judul": "ICP Indonesia Naik Drastis, Ketegangan AS-Iran-Israel Jadi Pemicu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szfh5v370/icp-indonesia-naik-drastis-ketegangan-asiranisrael-jadi-pemicu",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:39:21"
-    },
-    {
-      "judul": "Zinc Trail Run Kembali Hadir di Bali, Kini Lebih Menantang!",
-      "link_berita": "https://skor.republika.co.id/posts/692864/zinc-trail-run-kembali-hadir-di-bali-kini-lebih-menantang",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:30:21"
-    },
-    {
-      "judul": "Puluhan Mahasiswa dari Sembilan Negara Ikuti Global Summer Week di FEB UGM",
-      "link_berita": "https://rejogja.republika.co.id/berita/szfgnb291/puluhan-mahasiswa-dari-sembilan-negara-ikuti-global-summer-week-di-feb-ugm",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:28:21"
-    },
-    {
-      "judul": "Wagub Rano Siap Tindak Food Station Jika Ditemukan Beras Oplosan",
-      "link_berita": "https://news.republika.co.id/berita/szfggj484/wagub-rano-siap-tindak-food-station-jika-ditemukan-beras-oplosan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Indonesia Resmi Masuk Pasar Karbon Internasional, OJK Siapkan Aturan Mainnya",
-      "link_berita": "https://esgnow.republika.co.id/berita/szfg3l423/indonesia-resmi-masuk-pasar-karbon-internasional-ojk-siapkan-aturan-mainnya",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "FK-KMK UGM Selenggarakan Summer Course 2025: Solusi Inovatif Penanganan Kanker Secara Integratif",
-      "link_berita": "https://rejogja.republika.co.id/berita/szfg8v291/fkkmk-ugm-selenggarakan-summer-course-2025-solusi-inovatif-penanganan-kanker-secara-integratif",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Satgas Pangan Polri Telah Periksa 22 Saksi Terkait Kasus Beras Premium Oplosan",
-      "link_berita": "https://news.republika.co.id/berita/szfg35409/satgas-pangan-polri-telah-periksa-22-saksi-terkait-kasus-beras-premium-oplosan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Marketplace Butuh Setahun Persiapan Jadi Pemungut Pajak, Ini Penjelasan idEA",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szffzc370/marketplace-butuh-setahun-persiapan-jadi-pemungut-pajak-ini-penjelasan-idea",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Kapal Boat Tenggelam di Perairan Mentawai",
-      "link_berita": "https://tv.republika.co.id/berita/szffxn418/kapal-boat-tenggelam-di-perairan-mentawai",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Buya Anwar Abbas: Bank Syariah Matahari Resmi Kantongi Izin Operasional dari OJK",
-      "link_berita": "https://sharia.republika.co.id/berita/szffuc423/buya-anwar-abbas-bank-syariah-matahari-resmi-kantongi-izin-operasional-dari-ojk",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Lisa Mariana Siap Diperiksa Polda, Tapi Belum Bisa Banyak Bicara karena Baru Bangun Tidur",
-      "link_berita": "https://news.republika.co.id/berita/szfftm377/lisa-mariana-siap-diperiksa-polda-tapi-belum-bisa-banyak-bicara-karena-baru-bangun-tidur",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "RMI NU Jabar Sebut Kebijakan KDM Diskreditkan Pesantren, Banyak Calon Santri yang Mundur",
-      "link_berita": "https://khazanah.republika.co.id/berita/szfffz483/rmi-nu-jabar-sebut-kebijakan-kdm-diskreditkan-pesantren-banyak-calon-santri-yang-mundur",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Wagub DKI Si Doel Bicara Soal Pergub Sekolah Swasta Gratis di Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/szfffy451/wagub-dki-si-doel-bicara-soal-pergub-sekolah-swasta-gratis-di-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Rihanna Ternyata Idamkan Bisa Jadi Smurfette",
-      "link_berita": "https://ameera.republika.co.id/berita/szff8f328/rihanna-ternyata-idamkan-bisa-jadi-smurfette",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "Bahaya Filter Berlebihan di TikTok, Survei: Remaja Terancam Krisis Percaya Diri",
-      "link_berita": "https://rejogja.republika.co.id/berita/szff6y291/bahaya-filter-berlebihan-di-tiktok-survei-remaja-terancam-krisis-percaya-diri",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 06:25:21"
-    },
-    {
-      "judul": "IDF Terus Bertumbangan di Gaza, Koalisi Netanyahu Terancam Bubar",
-      "link_berita": "https://news.republika.co.id/berita/szff2j393/idf-terus-bertumbangan-di-gaza-koalisi-netanyahu-terancam-bubar",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "OJK Atur Ketat Perusahaan Efek, Kerja Sama dengan Influencer Kini Wajib Izin",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szff10370/ojk-atur-ketat-perusahaan-efek-kerja-sama-dengan-influencer-kini-wajib-izin",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "Temukan Bukti Tsunami Purba, BRIN Soroti Pembangunan di Sekitar YIA",
-      "link_berita": "https://news.republika.co.id/berita/szfe49328/temukan-bukti-tsunami-purba-brin-soroti-pembangunan-di-sekitar-yia",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "Lisa Mariana Datangi Polda Jabar Penuhi Panggilan Kasus Video Syur",
-      "link_berita": "https://rejabar.republika.co.id/berita/szfe2f512/lisa-mariana-datangi-polda-jabar-penuhi-panggilan-kasus-video-syur",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "IDXCarbon Catat Lonjakan Transaksi dan Pengguna",
-      "link_berita": "https://esgnow.republika.co.id/berita/szfdl6416/idxcarbon-catat-lonjakan-transaksi-dan-pengguna",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "Jonatan Christie Tumbang, Rehan/Gloria dan Amri/Nita ke 16 Besar Japan Open 2025",
-      "link_berita": "https://news.republika.co.id/berita/szfdy7348/jonatan-christie-tumbang-rehangloria-dan-amrinita-ke-16-besar-japan-open-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "MUI Lebak Apresiasi Pemerintah Coret Penerima Bansos Terlibat Judol",
-      "link_berita": "https://khazanah.republika.co.id/berita/szfdr6451/mui-lebak-apresiasi-pemerintah-coret-penerima-bansos-terlibat-judol",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "Anggota DPR: Guru Harus Dapat Afirmasi yang Layak",
-      "link_berita": "https://news.republika.co.id/berita/szfdl8451/anggota-dpr-guru-harus-dapat-afirmasi-yang-layak",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "Catat Assist Perdana, Shayne Pattynama Bawa Buriram United Menang Telak",
-      "link_berita": "https://skor.republika.co.id/posts/692845/catat-assist-shayne-pattynama-bawa-buriram-united-menang-telak",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "Lisa Mariana Penuhi Panggilan Polda Jabar untuk Kasus Video Asusila",
-      "link_berita": "https://news.republika.co.id/berita/szfcss409/lisa-mariana-penuhi-panggilan-polda-jabar-untuk-kasus-video-asusila",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 05:25:21"
-    },
-    {
-      "judul": "PSSI Gelar Penyegaran Wasit Jelang I League Musim 2025/2026, Datangkan Instruktur Teknis FIFA",
-      "link_berita": "https://news.republika.co.id/berita/szfbxc348/pssi-gelar-penyegaran-wasit-jelang-i-league-musim-20252026-datangkan-instruktur-teknis-fifa",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 04:25:21"
-    },
-    {
-      "judul": "Bupati Jayapura: Anak Asli Papua Berhak Dapat Beasiswa Pemerintah",
-      "link_berita": "https://news.republika.co.id/berita/szfbvb451/bupati-jayapura-anak-asli-papua-berhak-dapat-beasiswa-pemerintah",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 04:25:21"
-    },
-    {
-      "judul": "BPS Tiba-Tiba Tunda Umumkan Data Kemiskinan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szfbsp416/bps-tibatiba-tunda-umumkan-data-kemiskinan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 04:25:21"
-    },
-    {
-      "judul": "Nadiem Makarim Penuhi Panggilan Kedua Kejagung di Kasus Chromebook",
-      "link_berita": "https://tv.republika.co.id/berita/szfbl4526/nadiem-makarim-penuhi-panggilan-kedua-kejagung-di-kasus-chromebook",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 04:25:21"
-    },
-    {
-      "judul": "Selain Olivia Rodrigo, Ini Deretan Musisi Wanita yang Berani Bela Palestina",
-      "link_berita": "https://ameera.republika.co.id/berita/szfj00425/selain-olivia-rodrigo-ini-deretan-musisi-wanita-yang-berani-bela-palestina",
+      "judul": "Ngelamar Kerja Gagal Terus? Mungkin CV Kamu Belum ATS-Friendly",
+      "link_berita": "https://ameera.republika.co.id/berita/szfm9h425/ngelamar-kerja-gagal-terus-mungkin-cv-kamu-belum-atsfriendly",
       "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 14:19:00"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 15:29:00"
     },
     {
-      "judul": "IDXCarbon Catat Lonjakan Transaksi dan Pengguna",
-      "link_berita": "https://esgnow.republika.co.id/berita/szfdl6416/idxcarbon-catat-lonjakan-transaksi-dan-pengguna",
+      "judul": "DLH Tindak Tegas Perusahaan Pencemar Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/szfk8q423/dlh-tindak-tegas-perusahaan-pencemar-lingkungan",
       "kategori": "Tata Kelola",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 12:31:00"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 14:50:00"
     },
     {
-      "judul": "Celios Ungkap Faktor Munculnya Beras Oplosan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szfivd423/celios-ungkap-faktor-munculnya-beras-oplosan",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 14:16:00"
+      "judul": "Sri Mulyani Paparkan Strategi Pemerintah Tekan Angka Pengangguran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szfldh370/sri-mulyani-paparkan-strategi-pemerintah-tekan-angka-pengangguran",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 15:10:00"
     },
     {
       "judul": "Bisnis Emas Syariah Masih Dikuasai Dua Pemain, OJK Lihat Peluang Tumbuh",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 15 Jul 2025, 14:04:00"
     },
     {
-      "judul": "Aipda Robig Sebut Tembakan yang Tewaskan Gamma Tindakan tak Sengaja",
-      "link_berita": "https://news.republika.co.id/berita/szfj2x377/aipda-robig-sebut-tembakan-yang-tewaskan-gamma-tindakan-tak-sengaja",
+      "judul": "Satu Saksi Kasus Chromebook Dijemput Paksa Kejagung",
+      "link_berita": "https://news.republika.co.id/berita/szfm4x409/satu-saksi-kasus-chromebook-dijemput-paksa-kejagung",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 15 Jul 2025, 14:20:00"
+      "tanggal_terbit": "Tuesday, 15 Jul 2025, 15:26:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 15 Jul 2025, 14:25:21"
+  "waktu_scraping": "Tuesday, 15 Jul 2025, 15:32:17"
 }
