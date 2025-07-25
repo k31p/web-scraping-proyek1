@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Prabowo-Gibran Targetkan Nol Persen Kemiskinan Ekstrem pada 2029",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szyehi423/prabowogibran-targetkan-nol-persen-kemiskinan-ekstrem-pada-2029"
+    },
+    {
+      "judul": "Kemiskinan Jakarta Naik Jadi 4,28 Persen, Ini Kata Pramono",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szycjs423/kemiskinan-jakarta-naik-jadi-428-persen-ini-kata-pramono"
+    },
+    {
       "judul": "Inggris Dukung Pengakuan Kedaulatan Negara Palestina, Kapan Susul Prancis?",
       "link_berita": "https://khazanah.republika.co.id/berita/szyb3y483/inggris-dukung-pengakuan-kedaulatan-negara-palestina-kapan-susul-prancis"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Polda Metro Enggan Komentari Spekulasi Diplomat Muda Kemenlu Tewas Dibunuh",
       "link_berita": "https://news.republika.co.id/berita/szy6ak409/polda-metro-enggan-komentari-spekulasi-diplomat-muda-kemenlu-tewas-dibunuh"
-    },
-    {
-      "judul": "Pesan Hasto untuk Pendukungnya Jelang Vonis: Tetap Disiplin Sebagai Banteng-Banteng PDI Perjuangan",
-      "link_berita": "https://news.republika.co.id/berita/szy2xg487/pesan-hasto-untuk-pendukungnya-jelang-vonis-tetap-disiplin-sebagai-bantengbanteng-pdi-perjuangan"
-    },
-    {
-      "judul": "Gigi Ngilu Sampai Ubun-Ubun? Ini Penyebab dan Cara Dokter Mengatasinya",
-      "link_berita": "https://ameera.republika.co.id/berita/szxyo8425/gigi-ngilu-sampai-ubunubun-ini-penyebab-dan-cara-dokter-mengatasinya"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Divonis 3,5 Tahun Penjara, Apakah akan Mundur dari Sekjen PDIP? Ini Jawaban Hasto",
+      "link_berita": "https://news.republika.co.id/berita/szyfp6377/divonis-35-tahun-penjara-apakah-akan-mundur-dari-sekjen-pdip-ini-jawaban-hasto"
+    },
+    {
+      "judul": "Terbukti Bersalah, Sekjen PDIP Hasto Kristiyanto Divonis 3,5 Tahun Penjara",
+      "link_berita": "https://visual.republika.co.id/berita/szyd63375/terbukti-bersalah-sekjen-pdip-hasto-kristiyanto-divonis-35-tahun-penjara"
+    },
     {
       "judul": "Jokowi Ungkap Isi Pembicaraan dengan Prabowo di Solo",
       "link_berita": "https://tv.republika.co.id/berita/szy97t313/jokowi-ungkap-isi-pembicaraan-dengan-prabowo-di-solo"
@@ -73,334 +81,326 @@
     {
       "judul": "Dua Ijazah Jokowi Diperiksa di Laboratorium Forensik",
       "link_berita": "https://news.republika.co.id/berita/szxeiv377/dua-ijazah-jokowi-diperiksa-di-laboratorium-forensik"
-    },
-    {
-      "judul": "Nenek-Nenek Berupaya Eksekusi Netanyahu di Tel Aviv",
-      "link_berita": "https://news.republika.co.id/berita/szwzbr393/neneknenek-berupaya-eksekusi-netanyahu-di-tel-aviv"
-    },
-    {
-      "judul": "RUU Haji dan Umrah Resmi Jadi Usul Inisiatif DPR",
-      "link_berita": "https://khazanah.republika.co.id/berita/szwo2n458/ruu-haji-dan-umrah-resmi-jadi-usul-inisiatif-dpr"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Semester I 2025, Transaksi LCT Capai Rekor Tertinggi dalam Sejarah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szygln423/semester-i-2025-transaksi-lct-capai-rekor-tertinggi-dalam-sejarah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:41:30"
+    },
+    {
+      "judul": "Panji Tengkorak Bangkit! Legenda Komik Hadir dalam Animasi Modern",
+      "link_berita": "https://ameera.republika.co.id/berita/szygi5425/panji-tengkorak-bangkit-legenda-komik-hadir-dalam-animasi-modern",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:39:30"
+    },
+    {
+      "judul": "KPK Lakukan Penyelidikan Dugaan Korupsi Pengadaan Kuota Internet Gratis Era Nadiem",
+      "link_berita": "https://news.republika.co.id/berita/szy83r409/kpk-lakukan-penyelidikan-dugaan-korupsi-pengadaan-kuota-internet-gratis-era-nadiem",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:29:30"
+    },
+    {
+      "judul": "Karhutla Belum Padam, Warga Limapuluh Kota Gelar Sholat Istisqa Minta Hujan",
+      "link_berita": "https://visual.republika.co.id/berita/szydak375/karhutla-belum-padam-warga-limapuluh-kota-gelar-sholat-istisqa-minta-hujan",
+      "kategori": "Visual",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:29:30"
+    },
+    {
+      "judul": "India Usir Ribuan Muslim ke Bangladesh tanpa Proses Hukum",
+      "link_berita": "https://khazanah.republika.co.id/berita/szyg1p320/india-usir-ribuan-muslim-ke-bangladesh-tanpa-proses-hukum",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:29:30"
+    },
+    {
+      "judul": "Vonis 3 Tahun 6 Bulan, Hasto: Saya sudah tahu beberapa hari lalu",
+      "link_berita": "https://tv.republika.co.id/berita/szyflu526/vonis-3-tahun-6-bulan-hasto-saya-sudah-tahu-beberapa-hari-lalu",
+      "kategori": "Video",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:27:30"
+    },
+    {
+      "judul": "OCBC Jadi Bank Pertama Gunakan Seragam Daur Ulang, Dukung Ekonomi Sirkular",
+      "link_berita": "https://esgnow.republika.co.id/berita/szyfqh423/ocbc-jadi-bank-pertama-gunakan-seragam-daur-ulang-dukung-ekonomi-sirkular",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:23:30"
+    },
+    {
+      "judul": "Divonis 3,5 Tahun Penjara, Apakah akan Mundur dari Sekjen PDIP? Ini Jawaban Hasto",
+      "link_berita": "https://news.republika.co.id/berita/szyfp6377/divonis-35-tahun-penjara-apakah-akan-mundur-dari-sekjen-pdip-ini-jawaban-hasto",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:22:30"
+    },
+    {
+      "judul": "5 Fakta Cristhian Mosquera, Bek Baru Arsenal yang Sempat Bermain Basket dan Futsal",
+      "link_berita": "https://skor.republika.co.id/posts/694976/5-fakta-cristhian-mosquera-bek-baru-arsenal-yang-sempat-bermain-basket-dan-futsal",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 12:10:30"
+    },
+    {
+      "judul": "Prabowo-Gibran Targetkan Nol Persen Kemiskinan Ekstrem pada 2029",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szyehi423/prabowogibran-targetkan-nol-persen-kemiskinan-ekstrem-pada-2029",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:56:30"
+    },
+    {
+      "judul": "Dermatolog Ungkap Manfaat Luar Biasa Kombinasi Retinal dan Cysteamine untuk Kulit",
+      "link_berita": "https://ameera.republika.co.id/berita/szyegs425/dermatolog-ungkap-manfaat-luar-biasa-kombinasi-retinal-dan-cysteamine-untuk-kulit",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:55:30"
+    },
+    {
+      "judul": "Pembinaan Legalitas Izin Edar Produk Perikanan Digencarkan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szyds6430/pembinaan-legalitas-izin-edar-produk-perikanan-digencarkan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Cyber University Bangun Semangat Karier Digital Siswa SMKN 67 Jakarta Sejak Dini",
+      "link_berita": "https://news.republika.co.id/berita/szyds1472/cyber-university-bangun-semangat-karier-digital-siswa-smkn-67-jakarta-sejak-dini",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Penyebab Kematian Diplomat Arya Masih Misterius, Polda Metro Jaya: HP Korban Belum Ditemukan",
+      "link_berita": "https://news.republika.co.id/berita/szy88t409/penyebab-kematian-diplomat-arya-masih-misterius-polda-metro-jaya-hp-korban-belum-ditemukan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Usulan Bisnis Kreatif Mahasiswa UBSI Lolos Pendanaan P2MW 2025",
+      "link_berita": "https://news.republika.co.id/berita/szydi1472/usulan-bisnis-kreatif-mahasiswa-ubsi-lolos-pendanaan-p2mw-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Joko Anwar Kembali dengan Horor Komedi, Siap-Siap Tertawa dan Teriak",
+      "link_berita": "https://ameera.republika.co.id/berita/szydgi425/joko-anwar-kembali-dengan-horor-komedi-siapsiap-tertawa-dan-teriak",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Ada Tiga Golongan yang tak Diajak Bicara Allah Saat Kiamat",
+      "link_berita": "https://khazanah.republika.co.id/berita/szyde9430/ada-tiga-golongan-yang-tak-diajak-bicara-allah-saat-kiamat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Usulan Bisnis Kreatif Mahasiswa UBSI Lolos Pendanaan P2MW 2025",
+      "link_berita": "https://news.republika.co.id/berita/szydb7472/usulan-bisnis-kreatif-mahasiswa-ubsi-lolos-pendanaan-p2mw-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Terbukti Bersalah, Sekjen PDIP Hasto Kristiyanto Divonis 3,5 Tahun Penjara",
+      "link_berita": "https://visual.republika.co.id/berita/szyd63375/terbukti-bersalah-sekjen-pdip-hasto-kristiyanto-divonis-35-tahun-penjara",
+      "kategori": "Visual",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
+      "judul": "Kementan: Percepatan Sertifikasi ISPO Perkuat Ekosistem Berkelanjutan di Industri Sawit",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szycz5522/kementan-percepatan-sertifikasi-ispo-perkuat-ekosistem-berkelanjutan-di-industri-sawit",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 11:50:30"
+    },
+    {
       "judul": "Fakta Baru Terungkap: Sebelum di Puncak, Panitia Sudah 2 Kali Gelar Pesta Gay di Luar Bogor",
       "link_berita": "https://rejabar.republika.co.id/berita/szycti282/fakta-baru-terungkap-sebelum-di-puncak-panitia-sudah-2-kali-gelar-pesta-gay-di-luar-bogor",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:20:07"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Seskab Teddy Bertandang ke Kantor Menteri Imipas Bahas Layanan Imigrasi",
       "link_berita": "https://news.republika.co.id/berita/szyco2484/seskab-teddy-bertandang-ke-kantor-menteri-imipas-bahas-layanan-imigrasi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:16:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Kemiskinan Jakarta Naik Jadi 4,28 Persen, Ini Kata Pramono",
       "link_berita": "https://ekonomi.republika.co.id/berita/szycjs423/kemiskinan-jakarta-naik-jadi-428-persen-ini-kata-pramono",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:14:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Kuliah Mahal? Saatnya Bijak Memilih Kampus Berkualitas dengan Biaya Terjangkau",
       "link_berita": "https://news.republika.co.id/berita/szycel472/kuliah-mahal-saatnya-bijak-memilih-kampus-berkualitas-dengan-biaya-terjangkau",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:10:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Menteri ESDM Dorong Listrik 24 Jam di Pedalaman Papua",
       "link_berita": "https://ekonomi.republika.co.id/berita/szyc3f423/menteri-esdm-dorong-listrik-24-jam-di-pedalaman-papua",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:04:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Tiga Juta Kendaraan Bermotor di Jateng tak Manfaatkan Pemutihan Tunggakan Pajak",
       "link_berita": "https://rejogja.republika.co.id/berita/szyc08430/tiga-juta-kendaraan-bermotor-di-jateng-tak-manfaatkan-pemutihan-tunggakan-pajak",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:02:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Gen Z Wajib Tahu! UNM Tawarkan Program IEP 3+1 dengan Akses Jurnal dan Magang Profesional",
       "link_berita": "https://news.republika.co.id/berita/szybyy472/gen-z-wajib-tahu-unm-tawarkan-program-iep-31-dengan-akses-jurnal-dan-magang-profesional",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 11:01:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "WWF: Perjanjian Paris Kehilangan Daya Transformasi Jelang COP30",
       "link_berita": "https://esgnow.republika.co.id/berita/szybji423/wwf-perjanjian-paris-kehilangan-daya-transformasi-jelang-cop30",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:52:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "UNM Teken MoU dengan ACAD CSIRT, Perkuat Komitmen Keamanan Siber di Dunia Kampus",
       "link_berita": "https://news.republika.co.id/berita/szybff472/unm-teken-mou-dengan-acad-csirt-perkuat-komitmen-keamanan-siber-di-dunia-kampus",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:49:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Terbukti Suap Harun Masiku, Hasto Terima Divonis 3,5 Tahun Penjara",
       "link_berita": "https://news.republika.co.id/berita/szybf4484/terbukti-suap-harun-masiku-hasto-terima-divonis-35-tahun-penjara",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:49:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Pemprov Jatim Siapkan Aturan Sound Horeg, Khofifah: Demi Kesehatan dan Ketertiban Publik",
       "link_berita": "https://sekitarsurabaya.com/posts/694921/pemprov-jatim-siapkan-aturan-sound-horeg-khofifah-demi-kesehatan-dan-ketertiban-publik",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:48:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Napak Tilas Raja Thailand, Pemkot Bandung dan Kedutaan Thailand Resmikan Paviliun Curug Dago",
       "link_berita": "https://bandung24jam.id/posts/694924/napak-tilas-raja-thailand-pemkot-bandung-dan-kedutaan-thailand-resmikan-paviliun-curug-dago",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:47:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Sekjen PDIP Hasto Dijatuhkan Hukuman 3 Tahun 6 Bulan",
       "link_berita": "https://tv.republika.co.id/berita/szyb96526/sekjen-pdip-hasto-dijatuhkan-hukuman-3-tahun-6-bulan",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:47:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Jepang Investasi Kapal 550 Miliar: Janji Raksasa, Realisasi Tanda Tanya?",
       "link_berita": "https://shippingcargo.co.id/posts/694926/jepang-investasi-kapal-550-miliar-janji-raksasa-realisasi-tanda-tanya",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:47:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Gunakan Visa Turis dan Akal-akalan Suaka, Tiga WNI Jadi Korban Sindikat Perdagangan Orang",
       "link_berita": "https://sekitarsurabaya.com/posts/694933/gunakan-visa-turis-dan-akal-akalan-suaka-tiga-wni-jadi-korban-sindikat-perdagangan-orang",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:47:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Kronik Polymath Nusantara: Penjaga Kosmos dan Chaos (Bagian 1)",
       "link_berita": "https://kingdomsriwijaya.id/posts/694947/kronik-polymath-nusantara-penjaga-kosmos-dan-chaos-bagian-1-",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:47:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Kronik Polymath Nusantara: Penjaga Kosmos dan Chaos (Bagian 2)",
       "link_berita": "https://kingdomsriwijaya.id/posts/694954/kronik-polymath-nusantara-penjaga-kosmos-dan-chaos-bagian-2-",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:47:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "UI Hadirkan Pendidikan Karakter Anak Lewat Pagelaran Seni Budaya",
       "link_berita": "https://ruzkaindonesia.id/posts/694960/ui-hadirkan-pendidikan-karakter-anak-lewat-pagelaran-seni-budaya",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:46:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "RUU Ketenagakerjaan Pintu Masuk Regulasi Ojek Daring yang Berkeadilan",
       "link_berita": "https://pemantiknews.id/posts/694961/ruu-ketenagakerjaan-pintu-masuk-regulasi-ojek-daring-yang-berkeadilan",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:46:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Rasulullah SAW Ungkap Amalan agar Dicintai Allah dan Manusia",
       "link_berita": "https://khazanah.republika.co.id/berita/szyb9d430/rasulullah-saw-ungkap-amalan-agar-dicintai-allah-dan-manusia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:46:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "ICC Kecam Hongaria tak Penuhi Kewajiban Tangkap Netanyahu Sesuai Statuta Roma",
       "link_berita": "https://news.republika.co.id/berita/szy8mj409/icc-kecam-hongaria-tak-penuhi-kewajiban-tangkap-netanyahu-sesuai-statuta-roma",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:44:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Inggris Dukung Pengakuan Kedaulatan Negara Palestina, Kapan Susul Prancis?",
       "link_berita": "https://khazanah.republika.co.id/berita/szyb3y483/inggris-dukung-pengakuan-kedaulatan-negara-palestina-kapan-susul-prancis",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:43:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Persija vs Arema FC pada Acara Jakarta Bersinergi",
       "link_berita": "https://skor.republika.co.id/posts/694964/prediksi-dan-link-live-streaming-persija-vs-arema-fc-pada-acara-jakarta-bersinergi",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:39:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Di Bawah Plafon Bolong Kelas Rawan Ambruk, Siswa SD di Bandung Barat Terus Semangat Belajar",
       "link_berita": "https://rejabar.republika.co.id/berita/szyayp512/di-bawah-plafon-bolong-kelas-rawan-ambruk-siswa-sd-di-bandung-barat-terus-semangat-belajar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:39:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "AI Cyber & Fintech Summit 2025 Dorong Kolaborasi Teknologi untuk Tata Kelola Cerdas",
       "link_berita": "https://news.republika.co.id/berita/szyawh472/ai-cyber-fintech-summit-2025-dorong-kolaborasi-teknologi-untuk-tata-kelola-cerdas",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:38:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Kebakaran Rumah di Semarang, Lima Orang dari Satu Keluarga Meninggal Terbakar",
       "link_berita": "https://rejogja.republika.co.id/berita/szyake282/kebakaran-rumah-di-semarang-lima-orang-dari-satu-keluarga-meninggal-terbakar",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:31:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Sound Horeg Bisa Bikin Tuli Permanen? Ini Kata Dokter THT",
       "link_berita": "https://ameera.republika.co.id/berita/szyajc425/sound-horeg-bisa-bikin-tuli-permanen-ini-kata-dokter-tht",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:30:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Terdampak Kebijakan Satu Kelas 50 Orang, SMA Tamansiswa Bandung Hanya Miliki Satu Siswa",
       "link_berita": "https://rejabar.republika.co.id/berita/szyaii512/terdampak-kebijakan-satu-kelas-50-orang-sma-tamansiswa-bandung-hanya-miliki-satu-siswa",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:30:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Juara Holding Group Mitra Strategis Bali International Golf, Catat Rekor MURI Lewat Golfphoria 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/szyaig472/juara-holding-group-mitra-strategis-bali-international-golf-catat-rekor-muri-lewat-golfphoria-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:30:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
       "judul": "Kapal Handala Berawak Tujuh Warga AS Hilang Kontak Usai Dikepung Drone Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/szya39483/kapal-handala-berawak-tujuh-warga-as-hilang-kontak-usai-dikepung-drone-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 10:50:30"
     },
     {
-      "judul": "Satgas Pangan Gelar Sidak Beras Oplosan di Pasar Induk Cipinang",
-      "link_berita": "https://visual.republika.co.id/berita/szya37375/satgas-pangan-gelar-sidak-beras-oplosan-di-pasar-induk-cipinang",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
+      "judul": "Panji Tengkorak Bangkit! Legenda Komik Hadir dalam Animasi Modern",
+      "link_berita": "https://ameera.republika.co.id/berita/szygi5425/panji-tengkorak-bangkit-legenda-komik-hadir-dalam-animasi-modern",
+      "kategori": "Happening",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 19:39:00"
     },
     {
-      "judul": "PINTU Sukses Gelar Kompetisi Olahraga Bertajuk Tricourt Cup 2025",
-      "link_berita": "https://skor.republika.co.id/posts/694959/pintu-sukses-gelar-kompetisi-olahraga-bertajuk-tricourt-cup-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
+      "judul": "OCBC Jadi Bank Pertama Gunakan Seragam Daur Ulang, Dukung Ekonomi Sirkular",
+      "link_berita": "https://esgnow.republika.co.id/berita/szyfqh423/ocbc-jadi-bank-pertama-gunakan-seragam-daur-ulang-dukung-ekonomi-sirkular",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Friday, 25 Jul 2025, 19:23:00"
     },
     {
-      "judul": "BPS: Fenomena Rojali tak Selalu Tanda Kemiskinan, Tapi Wajib Diwaspadai",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szy9y6423/bps-fenomena-rojali-tak-selalu-tanda-kemiskinan-tapi-wajib-diwaspadai",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "PCO Nilai Logo HUT Ke-80 RI Karya Terbaik Anak Bangsa",
-      "link_berita": "https://news.republika.co.id/berita/szy9vx484/pco-nilai-logo-hut-ke80-ri-karya-terbaik-anak-bangsa",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Yasmin Napper Sebut Kulit Artis Enggak Selalu 'Sempurna'",
-      "link_berita": "https://ameera.republika.co.id/berita/szy9qm425/yasmin-napper-sebut-kulit-artis-enggak-selalu-sempurna",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Hakim Nilai Hasto Terbukti Terima Suap, Tapi tak Terbukti Merintangi Penyidikan",
-      "link_berita": "https://news.republika.co.id/berita/szy9q8409/hakim-nilai-hasto-terbukti-terima-suap-tapi-tak-terbukti-merintangi-penyidikan",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Kolaborasi dengan Lionel Messi, Stanley 1913 Kembali Luncurkan Edisi Eksklusif",
-      "link_berita": "https://skor.republika.co.id/posts/694956/kolaborasi-dengan-lionel-messi-stanley-1913-kembali-luncurkan-edisi-eksklusif",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Mensesneg Pastikan Prabowo Undang Jokowi dan Megawati Hadiri HUT Ke-80 RI di Istana",
-      "link_berita": "https://news.republika.co.id/berita/szy9fn484/mensesneg-pastikan-prabowo-undang-jokowi-dan-megawati-hadiri-hut-ke80-ri-di-istana",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Kejagung Minta Eks Stafsus Nadiem Penuhi Panggilan Ketiga Sebelum Ditetapkan Sebagai Buron",
-      "link_berita": "https://news.republika.co.id/berita/szy8wd409/kejagung-minta-eks-stafsus-nadiem-penuhi-panggilan-ketiga-sebelum-ditetapkan-sebagai-buron",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Jokowi Ungkap Isi Pembicaraan dengan Prabowo di Solo",
-      "link_berita": "https://tv.republika.co.id/berita/szy97t313/jokowi-ungkap-isi-pembicaraan-dengan-prabowo-di-solo",
-      "kategori": "Video",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Arsenal Dapatkan Cristhian Mosquera, Pemain Kelima di Bursa Transfer Musim Panas",
-      "link_berita": "https://skor.republika.co.id/posts/694953/arsenal-dapatkan-cristhian-mosquera-pemain-kelima-di-bursa-transfer-musim-panas",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "PKS DKI Jakarta Punya Nakhoda Baru",
-      "link_berita": "https://news.republika.co.id/berita/szy92w472/pks-dki-jakarta-punya-nakhoda-baru",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "Kuasa Hukum Hasto: Vonis Jangan Jadi Alat Politik",
-      "link_berita": "https://rejogja.republika.co.id/berita/szy901282/kuasa-hukum-hasto-vonis-jangan-jadi-alat-politik",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "TNI Sudah Kirim Lebih 2.500 Personel Wanita Jadi UN Peacekeeping",
-      "link_berita": "https://news.republika.co.id/berita/szy8v6484/tni-sudah-kirim-lebih-2500-personel-wanita-jadi-un-peacekeeping",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 10:20:40"
-    },
-    {
-      "judul": "PWI-LS Geruduk Pengajian Habib Rizieq di Pemalang, 11 Terluka",
-      "link_berita": "https://rejogja.republika.co.id/berita/szy8kv282/pwils-geruduk-pengajian-habib-rizieq-di-pemalang-11-terluka",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 09:20:40"
-    },
-    {
-      "judul": "Breaking News: Sekjen PDIP Hasto Kristiyanto Divonis 3,5 Tahun Penjara",
-      "link_berita": "https://news.republika.co.id/berita/szy8f9282/breaking-news-sekjen-pdip-hasto-kristiyanto-divonis-35-tahun-penjara",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 09:20:40"
-    },
-    {
-      "judul": "AMAL Salurkan Bantuan Sekolah untuk Yatim, Dhuafa, dan Penghafal Qur'an",
-      "link_berita": "https://khazanah.republika.co.id/berita/szy878472/amal-salurkan-bantuan-sekolah-untuk-yatim-dhuafa-dan-penghafal-quran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 09:20:40"
-    },
-    {
-      "judul": "Kepala Bappenas Dukung Penajam Paser Utara Jadi Gerbang IKN",
-      "link_berita": "https://news.republika.co.id/berita/szy8v2484/kepala-bappenas-dukung-penajam-paser-utara-jadi-gerbang-ikn",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 09:20:40"
-    },
-    {
-      "judul": "Evaluasi Haji 2025, Persiapan Haji Tahun Depan Dimulai Sejak Awal Juni 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/szy7vj483/evaluasi-haji-2025-persiapan-haji-tahun-depan-dimulai-sejak-awal-juni-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 09:20:40"
-    },
-    {
-      "judul": "Penguatan Likuiditas dan Pengelolaan Kualitas Aset Jadi Fondasi Kinerja BNI di Semester I 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szy7sy472/penguatan-likuiditas-dan-pengelolaan-kualitas-aset-jadi-fondasi-kinerja-bni-di-semester-i-2025",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 09:20:40"
-    },
-    {
-      "judul": "Sound Horeg Bisa Bikin Tuli Permanen? Ini Kata Dokter THT",
-      "link_berita": "https://ameera.republika.co.id/berita/szyajc425/sound-horeg-bisa-bikin-tuli-permanen-ini-kata-dokter-tht",
-      "kategori": "Health",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 17:30:00"
-    },
-    {
-      "judul": "WWF: Perjanjian Paris Kehilangan Daya Transformasi Jelang COP30",
-      "link_berita": "https://esgnow.republika.co.id/berita/szybji423/wwf-perjanjian-paris-kehilangan-daya-transformasi-jelang-cop30",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 17:52:00"
-    },
-    {
-      "judul": "Kemiskinan Jakarta Naik Jadi 4,28 Persen, Ini Kata Pramono",
-      "link_berita": "https://ekonomi.republika.co.id/berita/szycjs423/kemiskinan-jakarta-naik-jadi-428-persen-ini-kata-pramono",
+      "judul": "Semester I 2025, Transaksi LCT Capai Rekor Tertinggi dalam Sejarah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/szygln423/semester-i-2025-transaksi-lct-capai-rekor-tertinggi-dalam-sejarah",
       "kategori": "Finansial",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 18:14:00"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 19:41:00"
     },
     {
       "judul": "Rempah Nusantara Perlu Didorong Jadi Daya Tarik Wisata Halal",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 25 Jul 2025, 12:56:00"
     },
     {
-      "judul": "Seskab Teddy Bertandang ke Kantor Menteri Imipas Bahas Layanan Imigrasi",
-      "link_berita": "https://news.republika.co.id/berita/szyco2484/seskab-teddy-bertandang-ke-kantor-menteri-imipas-bahas-layanan-imigrasi",
+      "judul": "Divonis 3,5 Tahun Penjara, Apakah akan Mundur dari Sekjen PDIP? Ini Jawaban Hasto",
+      "link_berita": "https://news.republika.co.id/berita/szyfp6377/divonis-35-tahun-penjara-apakah-akan-mundur-dari-sekjen-pdip-ini-jawaban-hasto",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 25 Jul 2025, 18:16:00"
+      "tanggal_terbit": "Friday, 25 Jul 2025, 19:22:00"
     }
   ],
-  "waktu_scraping": "Friday, 25 Jul 2025, 18:20:40"
+  "waktu_scraping": "Friday, 25 Jul 2025, 19:50:30"
 }
