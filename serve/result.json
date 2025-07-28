@@ -23,8 +23,24 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "Sejumlah Adab Saat Membaca Alquran",
+      "link_berita": "https://iqra.republika.co.id/berita/t047kt430/sejumlah-adab-saat-membaca-alquran"
+    },
+    {
+      "judul": "Soal Tuduhan Partai Biru di Kasus Ijazah Palsu Jokowi, Ibas: Fitnah Zalim dan Sesat",
+      "link_berita": "https://news.republika.co.id/berita/t046rf320/soal-tuduhan-partai-biru-di-kasus-ijazah-palsu-jokowi-ibas-fitnah-zalim-dan-sesat"
+    },
+    {
+      "judul": "Kebakaran Hebat Pasar Taman Puring, Polisi evakuasi Tahan di Polsek Kebayoran Baru",
+      "link_berita": "https://tv.republika.co.id/berita/t046j3526/kebakaran-hebat-pasar-taman-puring-polisi-evakuasi-tahan-di-polsek-kebayoran-baru"
+    },
+    {
       "judul": "Perdana, Lembaga HAM Israel Akui Negaranya Lakukan Genosida di Gaza",
       "link_berita": "https://news.republika.co.id/berita/t0464v393/perdana-lembaga-ham-israel-akui-negaranya-lakukan-genosida-di-gaza"
+    },
+    {
+      "judul": "Bantah Netanyahu, Trump Akui Kelaparan di Gaza",
+      "link_berita": "https://news.republika.co.id/berita/t0453o393/bantah-netanyahu-trump-akui-kelaparan-di-gaza"
     },
     {
       "judul": "Ini 4 Perkara Menggelapkan Hati",
@@ -65,324 +81,308 @@
     {
       "judul": "Polisi Ungkap Isi Tas Diplomat Arya yang Dibawa ke Rooftop Kemenlu",
       "link_berita": "https://news.republika.co.id/berita/t03m2i487/polisi-ungkap-isi-tas-diplomat-arya-yang-dibawa-ke-rooftop-kemenlu"
-    },
-    {
-      "judul": "Soal Isu Peretasan Data Pribadi Warga Jabar, Pemkot Bandung: InsyaAllah tak Ada yang Bocor",
-      "link_berita": "https://news.republika.co.id/berita/t03kgp377/soal-isu-peretasan-data-pribadi-warga-jabar-pemkot-bandung-insyaallah-tak-ada-yang-bocor"
-    },
-    {
-      "judul": "Surat Terbuka 1.000 Rabi Yahudi: Israel Jadikan Kelaparan Sebagai Senjata di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/t03if2377/surat-terbuka-1000-rabi-yahudi-israel-jadikan-kelaparan-sebagai-senjata-di-gaza"
-    },
-    {
-      "judul": "Paus Leo Doakan Warga Gaza, Beri Peringatan Keras Terkait Krisis Kemanusiaan",
-      "link_berita": "https://news.republika.co.id/berita/t03hs1409/paus-leo-doakan-warga-gaza-beri-peringatan-keras-terkait-krisis-kemanusiaan"
-    },
-    {
-      "judul": "Mantan Ketua PN Surabaya Dituntut 7 Tahun Penjara, Ini Pertimbangan Memberatkan dan Meringankan",
-      "link_berita": "https://news.republika.co.id/berita/t03g23487/mantan-ketua-pn-surabaya-dituntut-7-tahun-penjara-ini-pertimbangan-memberatkan-dan-meringankan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Apakah Umat Islam Cukup dengan Alquran Saja tanpa Hadits?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t048lu430/apakah-umat-islam-cukup-dengan-alquran-saja-tanpa-hadits",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:32:00"
+    },
+    {
+      "judul": "Lugano Swiss dan Putri Jepang Juara, Inaspro 3x3 Jakarta 2025 Tuntas dan Sukses",
+      "link_berita": "https://news.republika.co.id/berita/t04b3f348/lugano-swiss-dan-putri-jepang-juara-inaspro-3x3-jakarta-2025-tuntas-dan-sukses",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:28:24"
+    },
+    {
+      "judul": "Percepat Penyaluran BSU, Pos Indonesia Terapkan Metode Jemput Bola",
+      "link_berita": "https://news.republika.co.id/berita/t03x9u451/percepat-penyaluran-bsu-pos-indonesia-terapkan-metode-jemput-bola",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:27:24"
+    },
+    {
+      "judul": "Jawaban Alquran atas Klaim Yahudi Kaum Paling Cerdas",
+      "link_berita": "https://iqra.republika.co.id/berita/t0484v430/jawaban-alquran-atas-klaim-yahudi-kaum-paling-cerdas",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:21:24"
+    },
+    {
+      "judul": "Intip Persiapan Timnas Indonesia Jelang Laga Final Piala AFF U-23",
+      "link_berita": "https://visual.republika.co.id/berita/t043c4375/intip-persiapan-timnas-indonesia-jelang-laga-final-piala-aff-u23",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:20:24"
+    },
+    {
+      "judul": "I.League Bersama Kemenpora Jalin Kerja Sama Edukasi Suporter Sepak Bola Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/t04anv348/ileague-bersama-kemenpora-jalin-kerja-sama-edukasi-suporter-sepak-bola-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:19:24"
+    },
+    {
+      "judul": "Walkot Semarang Siapkan Rp 40 Juta untuk Bangun Rumah Terbakar yang Tewaskan Satu Keluarga",
+      "link_berita": "https://rejogja.republika.co.id/berita/t049wb282/walkot-semarang-siapkan-rp-40-juta-untuk-bangun-rumah-terbakar-yang-tewaskan-satu-keluarga",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 16:02:24"
+    },
+    {
+      "judul": "Tertutup Longsor, Arus Lalin di Jalan Gorontalo Outer Ring Road Lumpuh",
+      "link_berita": "https://visual.republika.co.id/berita/t0437n375/tertutup-longsor-arus-lalin-di-jalan-gorontalo-outer-ring-road-lumpuh",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 15:45:24"
+    },
+    {
+      "judul": "Jelang Gelar Perkara Kasus Kematian Diplomat Arya Daru, Suasana Rumah Duka di Yogyakarta Sepi",
+      "link_berita": "https://rejogja.republika.co.id/berita/t0491i282/jelang-gelar-perkara-kasus-kematian-diplomat-arya-daru-suasana-rumah-duka-di-yogyakarta-sepi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 15:44:24"
+    },
+    {
+      "judul": "Kalahkan Filipina, Thailand Raih Peringkat Ketiga Piala AFF U-23 2025",
+      "link_berita": "https://skor.republika.co.id/posts/695532/kalahkan-filipina-thailand-raih-peringkat-ketiga-piala-aff-u-23-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 15:32:24"
+    },
+    {
       "judul": "Kantor BUMA Dibangun di Kepri, Ansor Siap Geliatkan Perekonomian di Wilayah Perbatasan",
       "link_berita": "https://khazanah.republika.co.id/berita/t0482z320/kantor-buma-dibangun-di-kepri-ansor-siap-geliatkan-perekonomian-di-wilayah-perbatasan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 15:23:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 15:32:24"
     },
     {
       "judul": "Kebakaran Taman Puring, Pedagang Sepatu: Saya Rugi Rp 300 Juta",
       "link_berita": "https://news.republika.co.id/berita/t047ku483/kebakaran-taman-puring-pedagang-sepatu-saya-rugi-rp-300-juta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 15:12:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 15:32:24"
     },
     {
-      "judul": "Sejumlah Adab saat Membaca Alquran",
+      "judul": "Sejumlah Adab Saat Membaca Alquran",
       "link_berita": "https://iqra.republika.co.id/berita/t047kt430/sejumlah-adab-saat-membaca-alquran",
       "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 15:12:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 15:32:24"
     },
     {
       "judul": "Polisi Periksa 24 Saksi untuk Ungkap Penyebab Kematian Diplomat Arya",
       "link_berita": "https://news.republika.co.id/berita/t044kn377/polisi-periksa-24-saksi-untuk-ungkap-penyebab-kematian-diplomat-arya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 15:00:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Mahasiswa Gelar Aksi Indonesia Cemas di Kawasan Patung Kuda",
       "link_berita": "https://visual.republika.co.id/berita/t042td375/mahasiswa-gelar-aksi-indonesia-cemas-di-kawasan-patung-kuda",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 15:00:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Fenomena Rojali dan Rohana, Celios: Masyarakat Butuh Hiburan Murah",
       "link_berita": "https://ekonomi.republika.co.id/berita/t046zu430/fenomena-rojali-dan-rohana-celios-masyarakat-butuh-hiburan-murah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 15:00:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Soal Tuduhan Partai Biru di Kasus Ijazah Palsu Jokowi, Ibas: Fitnah Zalim dan Sesat",
       "link_berita": "https://news.republika.co.id/berita/t046rf320/soal-tuduhan-partai-biru-di-kasus-ijazah-palsu-jokowi-ibas-fitnah-zalim-dan-sesat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:55:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Kebakaran Hebat Pasar Taman Puring, Polisi evakuasi Tahan di Polsek Kebayoran Baru",
       "link_berita": "https://tv.republika.co.id/berita/t046j3526/kebakaran-hebat-pasar-taman-puring-polisi-evakuasi-tahan-di-polsek-kebayoran-baru",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:52:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Keberkahan dengan Adanya Ka'bah",
       "link_berita": "https://khazanah.republika.co.id/berita/t046i0430/keberkahan-dengan-adanya-kabah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:49:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Perdana, Lembaga HAM Israel Akui Negaranya Lakukan Genosida di Gaza",
       "link_berita": "https://news.republika.co.id/berita/t0464v393/perdana-lembaga-ham-israel-akui-negaranya-lakukan-genosida-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:41:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Al-Azhar Mesir Berhentikan Guru Besarnya yang Halalkan Ganja",
       "link_berita": "https://khazanah.republika.co.id/berita/t045xe320/alazhar-mesir-berhentikan-guru-besarnya-yang-halalkan-ganja",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:37:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Contact Center World Asia Pacific Awards 2025: KAI Raih 8 Penghargaan",
       "link_berita": "https://kreta.id/posts/695457/contact-center-world-asia-pacific-awards-2025-kai-raih-8-penghargaan",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:35:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "KSAD Pimpin Sertijab, Kapusbekangad Dijabat Brigjen Toto Hadiyan",
       "link_berita": "https://seputarmiliter.id/posts/695519/ksad-pimpin-sertijab-kapusbekangad-dijabat-brigjen-toto-hadiyan",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:35:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Bagaimana Cara Nabi Muhammad dalam Persiapan Menghadapi Serangan Musuh?",
       "link_berita": "https://khazanah.republika.co.id/berita/t045p9430/bagaimana-cara-nabi-muhammad-dalam-persiapan-menghadapi-serangan-musuh",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Garuda Masih Hitung Untung Rugi Buka Penerbangan Internasional di Bandara Ahmad Yani Semarang",
       "link_berita": "https://rejogja.republika.co.id/berita/t045on282/garuda-masih-hitung-untung-rugi-buka-penerbangan-internasional-di-bandara-ahmad-yani-semarang",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:31:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Rekening tak Dipakai 3 Bulan akan Diblokir PPATK? Begini Kebijakan BSI",
       "link_berita": "https://sharia.republika.co.id/berita/t045jk502/rekening-tak-dipakai-3-bulan-akan-diblokir-ppatk-begini-kebijakan-bsi",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:28:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Bantah Netanyahu, Trump Akui Kelaparan di Gaza",
       "link_berita": "https://news.republika.co.id/berita/t0453o393/bantah-netanyahu-trump-akui-kelaparan-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "KSSK Makin Andalkan Keuangan Syariah untuk Dorong Penguatan Fiskal dan Moneter",
       "link_berita": "https://sharia.republika.co.id/berita/t044z8502/kssk-makin-andalkan-keuangan-syariah-untuk-dorong-penguatan-fiskal-dan-moneter",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Ini 4 Perkara Menggelapkan Hati",
       "link_berita": "https://khazanah.republika.co.id/berita/t044s5458/ini-4-perkara-menggelapkan-hati",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 14:32:24"
     },
     {
       "judul": "Kesaksian Polisi: Kebakaran Hebat Taman Puring tanpa Peringatan dan Alarm Kebakaran",
       "link_berita": "https://news.republika.co.id/berita/t044bd377/kesaksian-polisi-kebakaran-hebat-taman-puring-tanpa-peringatan-dan-alarm-kebakaran",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "DJBC Jateng-DIY Sita 64,5 Juta Batang Rokok Ilegal dan 12.730 Liter Miras Ilegal",
       "link_berita": "https://rejogja.republika.co.id/berita/t0448w282/djbc-jatengdiy-sita-645-juta-batang-rokok-ilegal-dan-12730-liter-miras-ilegal",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Sedekah Air Minum Gratis Jadi Oase Kebutuhan Air Warga Jakarta",
       "link_berita": "https://visual.republika.co.id/berita/t042lx375/sedekah-air-minum-gratis-jadi-oase-kebutuhan-air-warga-jakarta",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 14:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "10 Nilai Kebaikan yang Bisa Dipetik dari Watak Anjing",
       "link_berita": "https://khazanah.republika.co.id/berita/t0442o458/10-nilai-kebaikan-yang-bisa-dipetik-dari-watak-anjing",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Empat Perusahaan Mangkir Pemeriksaaan Korupsi Beras Oplosan",
       "link_berita": "https://news.republika.co.id/berita/t043wi393/empat-perusahaan-mangkir-pemeriksaaan-korupsi-beras-oplosan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Fenomena Padel di Indonesia, Perlindungan Risiko Usaha Olahraga-Lifestyle Dihadirkan MPMInsurance",
       "link_berita": "https://skor.republika.co.id/posts/695518/fenomena-padel-di-indonesia-perlindungan-risiko-usaha-olahraga-lifestyle-dihadirkan-mpm-insurance",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Indonesia Berlatih dengan Kekuatan Penuh Jelang Lawan Vietnam di Final Piala AFF U-23",
       "link_berita": "https://news.republika.co.id/berita/t043qm348/indonesia-berlatih-dengan-kekuatan-penuh-jelang-lawan-vietnam-di-final-piala-aff-u23",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Taman Puring Kebayoran Baru Kebakaran, Arus Lalu Lintas Macet Total",
       "link_berita": "https://news.republika.co.id/berita/t043pw377/taman-puring-kebayoran-baru-kebakaran-arus-lalu-lintas-macet-total",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Transjakarta Koridor 13 Kembali Normal Usai Kebakaran Taman Puring",
       "link_berita": "https://news.republika.co.id/berita/t043j0348/transjakarta-koridor-13-kembali-normal-usai-kebakaran-taman-puring",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Pelatih Vietnam Pede Jungkalkan Indonesia di Final Piala AFF U-23",
       "link_berita": "https://news.republika.co.id/berita/t043ai348/pelatih-vietnam-pede-jungkalkan-indonesia-di-final-piala-aff-u23",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Kaesang: Ketua Dewan Pembina PSI adalah Sosok Berinisial 'J'",
       "link_berita": "https://news.republika.co.id/berita/t04395377/kaesang-ketua-dewan-pembina-psi-adalah-sosok-berinisial-j",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Hukum Aborsi Janin Menurut Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/t04392458/hukum-aborsi-janin-menurut-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Angka Kemiskinan di Jateng Turun tapi PHK Masih Tertinggi, Gubernur Luthfi: Harus Ditingkatkan",
       "link_berita": "https://rejogja.republika.co.id/berita/t042vx282/angka-kemiskinan-di-jateng-turun-tapi-phk-masih-tertinggi-gubernur-luthfi-harus-ditingkatkan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Hacker Ngaku Retas Data Penduduk Jabar, Disdukcapil Kota Cimahi: Landai!",
       "link_berita": "https://rejabar.republika.co.id/berita/t042tq512/hacker-ngaku-retas-data-penduduk-jabar-disdukcapil-kota-cimahi-landai",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Jadi Ketua Percasi Jakarta, Hardiyanto Kenneth Ingin Pertahankan Jakarta Barometer Catur Nasional",
       "link_berita": "https://news.republika.co.id/berita/t042qw348/jadi-ketua-percasi-jakarta-hardiyanto-kenneth-ingin-pertahankan-jakarta-barometer-catur-nasional",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Kongres GMNI di Bandung Berlangsung Alot Bahkan Sempat Memanas",
       "link_berita": "https://rejabar.republika.co.id/berita/t042ku512/kongres-gmni-di-bandung-berlangsung-alot-bahkan-sempat-memanas",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Kebakaran Hebat Landa Pasar Taman Puring Jaksel",
       "link_berita": "https://tv.republika.co.id/berita/t042e1526/kebakaran-hebat-landa-pasar-taman-puring-jaksel",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Siap Juara, Timnas U-23 Indonesia Akan Coba Kalahkan Vietnam dalam 90 Menit",
       "link_berita": "https://skor.republika.co.id/posts/695515/siap-juara-timnas-u-23-indonesia-akan-coba-kalahkan-vietnam-dalam-90-menit",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Dedi Mulyadi akan Ambil Alih RSUD Sentot, Ini Reaksi Lucky Hakim",
       "link_berita": "https://rejabar.republika.co.id/berita/t04297512/dedi-mulyadi-akan-ambil-alih-rsud-sentot-ini-reaksi-lucky-hakim",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Saat Hujan Turun di Jalan Sudirman",
       "link_berita": "https://visual.republika.co.id/berita/t041y9375/saat-hujan-turun-di-jalan-sudirman",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Hanya 2 Kali Sakit di Sepanjang Hidupnya, Ini Gaya Hidup Sehat Rasulullah",
       "link_berita": "https://khazanah.republika.co.id/berita/t041y2458/hanya-2-kali-sakit-di-sepanjang-hidupnya-ini-gaya-hidup-sehat-rasulullah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
-    },
-    {
-      "judul": "Ini Penjelasan Dishub Soal Tahapan Rencana Penghapusan Trayek Angkot di Bandung",
-      "link_berita": "https://rejabar.republika.co.id/berita/t041tz512/ini-penjelasan-dishub-soal-tahapan-rencana-penghapusan-trayek-angkot-di-bandung",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
-    },
-    {
-      "judul": "Buka Booth di GIIAS, Astra Financial Wujudkan Impian Berkendara tanpa Beban Finansial",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t041je368/buka-booth-di-giias-astra-financial-wujudkan-impian-berkendara-tanpa-beban-finansial",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 13:27:12"
-    },
-    {
-      "judul": "PM Anwar Tiba di Indonesia Disambut Mendagri Tito dan Menlu Sugiono",
-      "link_berita": "https://news.republika.co.id/berita/t041au484/pm-anwar-tiba-di-indonesia-disambut-mendagri-tito-dan-menlu-sugiono",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "Pemkot Semarang Rangkul Kalangan Santri dalam Penanganan Isu Sampah",
-      "link_berita": "https://news.republika.co.id/berita/t0418z487/pemkot-semarang-rangkul-kalangan-santri-dalam-penanganan-isu-sampah",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "Masuk Jalur Tikus di Wilayah Indonesia tanpa Dokumen Sah, 4 Warga Negara Timor Leste Dideportasi",
-      "link_berita": "https://cari.republika.co.id/posts/695456/masuk-jalur-tikus-di-wilayah-indonesia-tanpa-dokumen-sah-4-warga-negara-timor-leste-dideportasi",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "Gaji Pegawai tak Dibayarkan, Media Suara Merdeka Dilaporkan ke Disnakertrans Jateng",
-      "link_berita": "https://news.republika.co.id/berita/t0406a409/gaji-pegawai-tak-dibayarkan-media-suara-merdeka-dilaporkan-ke-disnakertrans-jateng",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "Disdik Depok Masih Membuka Program Rintisan Sekolah Siswa Gratis, Segera Daftar di Nomor Telp Ini!",
-      "link_berita": "https://ruzkaindonesia.id/posts/695493/disdik-depok-masih-membuka-program-rintisan-sekolah-siswa-gratis-segera-daftar-di-nomor-telp-ini-",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "BPS: Gini Ratio Kaltim Naik Tipis, Ketimpangan Tetap Rendah",
-      "link_berita": "https://sekitarkaltim.id/posts/695497/bps-gini-ratio-kaltim-naik-tipis-ketimpangan-tetap-rendah",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "Hilirisasi Sawit dan Pengembangan Energi Kaltim Dilirik Serawak Malaysia",
-      "link_berita": "https://sekitarkaltim.id/posts/695500/hilirisasi-sawit-dan-pengembangan-energi-kaltim-dilirik-serawak-malaysia",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
-    },
-    {
-      "judul": "Taman Puring Kebakaran, Ini Rute Bus Transjakarta Terdampak",
-      "link_berita": "https://news.republika.co.id/berita/t040vn377/taman-puring-kebakaran-ini-rute-bus-transjakarta-terdampak",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 12:27:12"
+      "tanggal_terbit": "Monday, 28 Jul 2025, 13:32:24"
     },
     {
       "judul": "Leya Princy Ungkap Dukungan Orang Tua di Balik Peran Cinta dalam Film Rangga & Cinta",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 28 Jul 2025, 21:28:00"
     },
     {
-      "judul": "Kebakaran Taman Puring, Pedagang Sepatu: Saya Rugi Rp 300 Juta",
-      "link_berita": "https://news.republika.co.id/berita/t047ku483/kebakaran-taman-puring-pedagang-sepatu-saya-rugi-rp-300-juta",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 28 Jul 2025, 22:12:00"
+      "judul": "Lugano Swiss dan Putri Jepang Juara, Inaspro 3x3 Jakarta 2025 Tuntas dan Sukses",
+      "link_berita": "https://news.republika.co.id/berita/t04b3f348/lugano-swiss-dan-putri-jepang-juara-inaspro-3x3-jakarta-2025-tuntas-dan-sukses",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 28 Jul 2025, 23:28:00"
     }
   ],
-  "waktu_scraping": "Monday, 28 Jul 2025, 22:27:12"
+  "waktu_scraping": "Monday, 28 Jul 2025, 23:32:24"
 }
