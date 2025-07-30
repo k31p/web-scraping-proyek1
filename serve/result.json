@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Ancang-Ancang Negara Barat Akui Kemerdekaan Palestina",
+      "link_berita": "https://news.republika.co.id/berita/t070un409/ancangancang-negara-barat-akui-kemerdekaan-palestina"
+    },
+    {
+      "judul": "Himbara Kompak Lindungi Dana Nasabah, Usai PPATK Blokir 140 Ribu Rekening Dormant",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t06yxl423/himbara-kompak-lindungi-dana-nasabah-usai-ppatk-blokir-140-ribu-rekening-dormant"
+    },
+    {
       "judul": "Waspada! 10 Daerah Indonesia Timur Terancam Tsunami Akibat Gempa Rusia",
       "link_berita": "https://news.republika.co.id/berita/t06vvy393/waspada-10-daerah-indonesia-timur-terancam-tsunami-akibat-gempa-rusia"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Bakal Akui Palestina, Begini 'Dosa' Inggris Dirikan Israel",
       "link_berita": "https://news.republika.co.id/berita/t06qr6393/bakal-akui-palestina-begini-dosa-inggris-dirikan-israel"
-    },
-    {
-      "judul": "Asosiasi Psikologi Forensik Ungkap Temuan Bermakna di Kasus Kematian Diplomat Muda Kemenlu",
-      "link_berita": "https://news.republika.co.id/berita/t063pz409/asosiasi-psikologi-forensik-ungkap-temuan-bermakna-di-kasus-kematian-diplomat-muda-kemenlu"
-    },
-    {
-      "judul": "Mensos Respons Kepala Sekolah Usul Seskab Teddy Jadi Duta Sekolah Rakyat",
-      "link_berita": "https://news.republika.co.id/berita/t06p0f484/mensos-respons-kepala-sekolah-usul-seskab-teddy-jadi-duta-sekolah-rakyat"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Operasi Kereta Gideon Gagal Total, Tentara Israel Banyak Mati Tawanan tak Kunjung Kembali",
+      "link_berita": "https://khazanah.republika.co.id/berita/t070gl320/operasi-kereta-gideon-gagal-total-tentara-israel-banyak-mati-tawanan-tak-kunjung-kembali"
+    },
+    {
+      "judul": "Kontroversi Vietnam, Giliran Pelatih Pancing Emosi Indonesia, Halangi Lemparan ke Dalam Robi Darwis",
+      "link_berita": "https://news.republika.co.id/berita/t06wdc348/kontroversi-vietnam-giliran-pelatih-pancing-emosi-indonesia-halangi-lemparan-ke-dalam-robi-darwis"
+    },
     {
       "judul": "TikTok Dilaporkan Angkat Eks Instruktur Tentara Israel Jadi Manajer Ujaran Kebencian",
       "link_berita": "https://khazanah.republika.co.id/berita/t06v60483/tiktok-dilaporkan-angkat-eks-instruktur-tentara-israel-jadi-manajer-ujaran-kebencian"
@@ -73,322 +81,314 @@
     {
       "judul": "Mengapa Negara-negara Eropa Kian Dukung Palestina? Ini Pandangan Muhammadiyah",
       "link_berita": "https://khazanah.republika.co.id/berita/t05s34458/mengapa-negaranegara-eropa-kian-dukung-palestina-ini-pandangan-muhammadiyah"
-    },
-    {
-      "judul": "PM Anwar Ibrahim dan Prabowo Bicara dengan PM Thailand dan Kamboja, Pelanggaran Sudah Diatasi",
-      "link_berita": "https://news.republika.co.id/berita/t05oen377/pm-anwar-ibrahim-dan-prabowo-bicara-dengan-pm-thailand-dan-kamboja-pelanggaran-sudah-diatasi"
-    },
-    {
-      "judul": "Gus Irfan Siap Tancap Gas Ambil Alih Haji 2026, Tunggu Revisi UU",
-      "link_berita": "https://khazanah.republika.co.id/berita/t05lqf458/gus-irfan-siap-tancap-gas-ambil-alih-haji-2026-tunggu-revisi-uu"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Houthi Yaman Kembali Serang Ben Gurion, Penuhi Janjinya Kacaukan Langit Israel",
+      "link_berita": "https://khazanah.republika.co.id/berita/t071zg320/houthi-yaman-kembali-serang-ben-gurion-penuhi-janjinya-kacaukan-langit-israel",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 04:04:28"
+    },
+    {
+      "judul": "Menkeu: Presiden Prabowo Prihatin Kebiasaan Anak Menulis Huruf Kecil-Kecil",
+      "link_berita": "https://news.republika.co.id/berita/t071qv484/menkeu-presiden-prabowo-prihatin-kebiasaan-anak-menulis-huruf-kecilkecil",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:59:20"
+    },
+    {
+      "judul": "Tugu Insurance Jalin Sinergi Bisnis Strategis dengan Bank Shinhan Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t071qo472/tugu-insurance-jalin-sinergi-bisnis-strategis-dengan-bank-shinhan-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:59:20"
+    },
+    {
+      "judul": "Indonesia Didorong Gabungkan Ilmu Modern dan Tradisi Lokal untuk Selamatkan Bumi",
+      "link_berita": "https://esgnow.republika.co.id/berita/t070wt423/indonesia-didorong-gabungkan-ilmu-modern-dan-tradisi-lokal-untuk-selamatkan-bumi",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:50:20"
+    },
+    {
+      "judul": "Berawal dari Proyek Mahasiswa, Kumora Cookies Melejit Jadi UMKM Sukses Berkat Rumah BUMN BRI",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0715a472/berawal-dari-proyek-mahasiswa-kumora-cookies-melejit-jadi-umkm-sukses-berkat-rumah-bumn-bri",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:46:20"
+    },
+    {
+      "judul": "Film Avatar Fire & Ash Bawa Kejutan! Klan Wind Traders Bakal Guncang Pandora",
+      "link_berita": "https://ameera.republika.co.id/berita/t0713k425/film-avatar-fire-ash-bawa-kejutan-klan-wind-traders-bakal-guncang-pandora",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:45:20"
+    },
+    {
+      "judul": "Sejarah Inggris dan Zionisme",
+      "link_berita": "https://visual.republika.co.id/berita/t070wf393/sejarah-inggris-dan-zionisme",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:41:20"
+    },
+    {
+      "judul": "Ancang-Ancang Negara Barat Akui Kemerdekaan Palestina",
+      "link_berita": "https://news.republika.co.id/berita/t070un409/ancangancang-negara-barat-akui-kemerdekaan-palestina",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:40:20"
+    },
+    {
+      "judul": "Insiden Kartu Merah Buat Pelatih U-23 Gerald Angkat Bicara",
+      "link_berita": "https://tv.republika.co.id/berita/t070oo526/insiden-kartu-merah-buat-pelatih-u23-gerald-angkat-bicara",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:37:20"
+    },
+    {
+      "judul": "Ekonom Usul Pemerintah Gunakan Indikator Kemiskinan yang Lebih Progresif",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t070kf423/ekonom-usul-pemerintah-gunakan-indikator-kemiskinan-yang-lebih-progresif",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:35:20"
+    },
+    {
+      "judul": "Operasi Kereta Gideon Gagal Total, Tentara Israel Banyak Mati Tawanan tak Kunjung Kembali",
+      "link_berita": "https://khazanah.republika.co.id/berita/t070gl320/operasi-kereta-gideon-gagal-total-tentara-israel-banyak-mati-tawanan-tak-kunjung-kembali",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:31:20"
+    },
+    {
+      "judul": "AIMI Soroti Pentingnya Peran Tokoh Agama dalam Kampanye ASI Eksklusif",
+      "link_berita": "https://ameera.republika.co.id/berita/t0709j425/aimi-soroti-pentingnya-peran-tokoh-agama-dalam-kampanye-asi-eksklusif",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:27:20"
+    },
+    {
+      "judul": "7 Fakta Fortuna Sittard, Klub Anyar Justin Hubner",
+      "link_berita": "https://skor.republika.co.id/posts/695820/7-fakta-fortuna-sittard-klub-anyar-justin-hubner",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:20:20"
+    },
+    {
+      "judul": "Kembalinya Joanna Alexandra dan Debut Dira Sugandi di Film Siapa Dia",
+      "link_berita": "https://ameera.republika.co.id/berita/t06zvp425/kembalinya-joanna-alexandra-dan-debut-dira-sugandi-di-film-siapa-dia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:19:20"
+    },
+    {
+      "judul": "Ahmad Fikri Terpilih Jadi Ketua Umum JSIT Periode 2025-2029 di Munas Makassar",
+      "link_berita": "https://khazanah.republika.co.id/berita/t06zvh483/ahmad-fikri-terpilih-jadi-ketua-umum-jsit-periode-20252029-di-munas-makassar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:19:20"
+    },
+    {
+      "judul": "Begini Cara Aktifkan Rekening Dormant di BCA, blu, dan BCA Syariah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t06zj2423/begini-cara-aktifkan-rekening-dormant-di-bca-blu-dan-bca-syariah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:11:20"
+    },
+    {
+      "judul": "Perluas Edukasi Soal Program Jaminan Sosial, BPJS Ketenagakerjaan Jabar Gandeng Ratusan Influencer",
+      "link_berita": "https://rejabar.republika.co.id/berita/t06zf4512/perluas-edukasi-soal-program-jaminan-sosial-bpjs-ketenagakerjaan-jabar-gandeng-ratusan-influencer",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:09:20"
+    },
+    {
+      "judul": "Pemkot Depok Siap Kelola Sampah Jadi Energi Listrik",
+      "link_berita": "https://ruzkaindonesia.id/posts/695697/pemkot-depok-siap-kelola-sampah-jadi-energi-listrik",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Kapolri Resmikan Pembangunan 20 SPPG Polda Lampung, Wujud Komitmen Dukung MBG",
+      "link_berita": "https://pemantiknews.id/posts/695701/kapolri-resmikan-pembangunan-20-sppg-polda-lampung-wujud-komitmen-dukung-mbg",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Dari 1950-2025, Telah 75 Tahun Kemenag Menyelenggarakan Haji, Saatnya Berpindah",
+      "link_berita": "https://sajada.id/posts/695725/dari-1950-2025-telah-75-tahun-kemenag-menyelenggarakan-haji-saatnya-berpindah",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Bela Taiwan, Menhan Inggris Siap Perang Lawan China di Indo-Pasifik",
+      "link_berita": "https://seputarmiliter.id/posts/695726/bela-taiwan-menhan-inggris-siap-perang-lawan-china-di-indo-pasifik",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Angkatan Udara Spanyol Beli 30 Jet Latih Hurjet Produksi Turki",
+      "link_berita": "https://seputarmiliter.id/posts/695727/angkatan-udara-spanyol-beli-30-jet-latih-hurjet-produksi-turki",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Prakiraan Cuaca Balikpapan 30 Juli: Langit Cerah Potensi Hujan Tipis",
+      "link_berita": "https://sekitarkaltim.id/posts/695743/prakiraan-cuaca-balikpapan-30-juli-langit-cerah-potensi-hujan-tipis",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Netanyahu Siapkan Aneksasi Penuh Gaza, Terapkan Genosida Berkelanjutan",
+      "link_berita": "https://sekitarkaltim.id/posts/695771/netanyahu-siapkan-aneksasi-penuh-gaza-terapkan-genosida-berkelanjutan",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "BMH Kudus Tebar Kebahagiaan untuk 100 Anak Yatim dan Dhuafa di Bulan Muharram",
+      "link_berita": "https://bisnistime.com/posts/695778/bmh-kudus-tebar-kebahagiaan-untuk-100-anak-yatim-dan-dhuafa-di-bulan-muharram",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Mobil Listrik LEPAS L8 Resmi Meluncur, Indonesia Jadi Negara Ekspor Pertama",
+      "link_berita": "https://motoresto.id/posts/695772/mobil-listrik-lepas-l8-resmi-meluncur-indonesia-jadi-negara-ekspor-pertama",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Ke Semarang dari Gambir Naik KA Gunung Jati Cukup Rp161 Ribu",
+      "link_berita": "https://kreta.id/posts/695785/ke-semarang-dari-gambir-naik-ka-gunung-jati-cukup-rp161-ribu",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Hasil Studi: Diet Tinggi Protein Dapat Menimbulkan Risiko Kesehatan Tersembunyi",
+      "link_berita": "https://impresiupdate.id/posts/695736/hasil-studi-diet-tinggi-protein-dapat-menimbulkan-risiko-kesehatan-tersembunyi",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Waduh...Lautan Antartika Semakin Asin dan Panas, Es Mencair Lebih Cepat!",
+      "link_berita": "https://impresiupdate.id/posts/695739/waduh-lautan-antartika-semakin-asin-dan-panas-es-mencair-lebih-cepat",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Generasi Cemas dan Rokok Ketengan: Ancaman Nyata Bagi Masa Depan Anak Bangsa",
+      "link_berita": "https://diagnosa.id/posts/695805/generasi-cemas-dan-rokok-ketengan-ancaman-nyata-bagi-masa-depan-anak-bangsa",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Jadwal dan Tiket KA Madiun Jaya Relasi Pasar Senen-Madiun",
+      "link_berita": "https://kreta.id/posts/695796/jadwal-dan-tiket-ka-madiun-jaya-relasi-pasar-senen-madiun",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Vokalis Pertama Iron Maiden, Paul Mario Day, Meninggal Dunia",
+      "link_berita": "https://impresiupdate.id/posts/695808/vokalis-pertama-iron-maiden-paul-mario-day-meninggal-dunia",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Benar Enggak Sih Pilates Bikin Langsing? Yuk, Bongkar Bareng Ahlinya",
+      "link_berita": "https://ameera.republika.co.id/berita/t06yym425/benar-enggak-sih-pilates-bikin-langsing-yuk-bongkar-bareng-ahlinya",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Himbara Kompak Lindungi Dana Nasabah, Usai PPATK Blokir 140 Ribu Rekening Dormant",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t06yxl423/himbara-kompak-lindungi-dana-nasabah-usai-ppatk-blokir-140-ribu-rekening-dormant",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Ancaman Kekeringan Resahkan Petani di Musim Gadu",
+      "link_berita": "https://rejabar.republika.co.id/berita/t06yfp512/ancaman-kekeringan-resahkan-petani-di-musim-gadu",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Beasiswa BCA Cetak SDM Siap Kerja dan Dorong Keberlanjutan Sosial",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t06y62423/beasiswa-bca-cetak-sdm-siap-kerja-dan-dorong-keberlanjutan-sosial",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Menghitung Rataan Gol Alexander Isak, Meledak di Liverpool?",
+      "link_berita": "https://skor.republika.co.id/posts/695803/menghitung-rataan-gol-alexander-isak-meledak-di-liverpool",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Penjaga Ekosistem Hutan Sumatera",
+      "link_berita": "https://analisis.republika.co.id/berita/t06xyo393/penjaga-ekosistem-hutan-sumatera",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Kutuk Pembunuhan Aktivis Palestina, Prancis: Pemukim Ekstremis Israel Lakukan Terorisme",
+      "link_berita": "https://khazanah.republika.co.id/berita/t06xwb483/kutuk-pembunuhan-aktivis-palestina-prancis-pemukim-ekstremis-israel-lakukan-terorisme",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 03:05:20"
+    },
+    {
+      "judul": "Sosok Islam, Polisi Muslim yang Tertambak di Midtown Manhattan: Pribadi yang Ramah Rajin Beribadah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t06xvc320/sosok-islam-polisi-muslim-yang-tertambak-di-midtown-manhattan-pribadi-yang-ramah-rajin-beribadah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "Menpora: Indonesia Siap Jadi Tuan Rumah SEA U-18/U-20 2025",
+      "link_berita": "https://skor.republika.co.id/posts/695797/menpora-indonesia-siap-jadi-tuan-rumah-sea-u-18-u-20-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "Wanita Penuduh Gong Yoo Divonis Penjara, Fitnah di Dunia Maya Berujung Bui",
+      "link_berita": "https://ameera.republika.co.id/berita/t06xl9425/wanita-penuduh-gong-yoo-divonis-penjara-fitnah-di-dunia-maya-berujung-bui",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "YKPI, PERABOI, dan PDKI Beri Pelatihan Pendampingan Pasien Kanker Payudara",
+      "link_berita": "https://ameera.republika.co.id/berita/t06xh7348/ykpi-peraboi-dan-pdki-beri-pelatihan-pendampingan-pasien-kanker-payudara",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "Zulhas Soroti Ketegasan China Soal Pangan, Indonesia Diminta Tiru Komitmennya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t06xh6423/zulhas-soroti-ketegasan-china-soal-pangan-indonesia-diminta-tiru-komitmennya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "NASA Temukan Objek Misterius, Benarkah Wahana Alien yang Lagi Amati Bumi?",
+      "link_berita": "https://ameera.republika.co.id/berita/t06wz2425/nasa-temukan-objek-misterius-benarkah-wahana-alien-yang-lagi-amati-bumi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "Pemerintah Gulirkan Dana untuk Kopdes, Skema Penempatan Mirip Saat Pandemi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t06wtd423/pemerintah-gulirkan-dana-untuk-kopdes-skema-penempatan-mirip-saat-pandemi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "Survei: Isu Palestina Dongkrak Dukungan untuk Zohran Mamdani",
+      "link_berita": "https://khazanah.republika.co.id/berita/t06wlj483/survei-isu-palestina-dongkrak-dukungan-untuk-zohran-mamdani",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
+      "judul": "Polisi Muslim New York Dilepas Layaknya Pahlawan",
+      "link_berita": "https://news.republika.co.id/berita/t06whx393/polisi-muslim-new-york-dilepas-layaknya-pahlawan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
+    },
+    {
       "judul": "Kontroversi Vietnam, Giliran Pelatih Pancing Emosi Indonesia, Halangi Lemparan ke Dalam Robi Darwis",
       "link_berita": "https://news.republika.co.id/berita/t06wdc348/kontroversi-vietnam-giliran-pelatih-pancing-emosi-indonesia-halangi-lemparan-ke-dalam-robi-darwis",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:03:13"
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
     },
     {
       "judul": "Istri Diplomat Arya Daru Masih Syok, Keluarga: Bukan Hal Mudah Mencerna Ini Semua",
       "link_berita": "https://rejogja.republika.co.id/berita/t06trv291/istri-diplomat-arya-daru-masih-syokkeluarga-bukan-hal-mudah-mencerna-ini-semua",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:03:03"
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 02:05:20"
     },
     {
-      "judul": "Bek Timnas Irak Frans Putros Ungkap Alasan Gabung Persib Bandung",
-      "link_berita": "https://news.republika.co.id/berita/t06vy5409/bek-timnas-irak-frans-putros-ungkap-alasan-gabung-persib-bandung",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:54:03"
-    },
-    {
-      "judul": "Waspada! 10 Daerah Indonesia Timur Terancam Tsunami Akibat Gempa Rusia",
-      "link_berita": "https://news.republika.co.id/berita/t06vvy393/waspada-10-daerah-indonesia-timur-terancam-tsunami-akibat-gempa-rusia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:53:03"
-    },
-    {
-      "judul": "Industri Kuliner Berkembang Pesat, Ecolab Hadirkan Solusi Keberlanjutan Lewat ReadyDose",
-      "link_berita": "https://rejogja.republika.co.id/berita/t06t9q291/industri-kuliner-berkembang-pesat-ecolab-hadirkan-solusi-keberlanjutan-lewat-readydose",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:50:03"
-    },
-    {
-      "judul": "Film Siapa Dia Boyong Orkestra 'Star Wars' Buat Garap Musiknya",
-      "link_berita": "https://ameera.republika.co.id/berita/t06vk9425/film-siapa-dia-boyong-orkestra-star-wars-buat-garap-musiknya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:46:03"
-    },
-    {
-      "judul": "Nilai Ekonomi Hutan Morowali Lampaui Pendapatan Daerah, Terancam Tambang",
-      "link_berita": "https://esgnow.republika.co.id/berita/t06v8r423/nilai-ekonomi-hutan-morowali-lampaui-pendapatan-daerah-terancam-tambang",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:43:03"
-    },
-    {
-      "judul": "TikTok Dilaporkan Angkat Eks Instruktur Tentara Israel Jadi Manajer Ujaran Kebencian",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06v60483/tiktok-dilaporkan-angkat-eks-instruktur-tentara-israel-jadi-manajer-ujaran-kebencian",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:37:03"
-    },
-    {
-      "judul": "KKP dan BPJPH Perkuat Sertifikasi Halal Produk Perikanan Budi Daya",
-      "link_berita": "https://sharia.republika.co.id/berita/t06utw423/kkp-dan-bpjph-perkuat-sertifikasi-halal-produk-perikanan-budi-daya",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:33:03"
-    },
-    {
-      "judul": "Dari UMKM hingga Kampus, CIMB Niaga Hadirkan Layanan Digital Berkelanjutan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t06uj3423/dari-umkm-hingga-kampus-cimb-niaga-hadirkan-layanan-digital-berkelanjutan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:23:03"
-    },
-    {
-      "judul": "Dunia Usaha Hadapi Tantangan Serius, APINDO Kumpulkan Semua Pengusaha di Bandung Gelar Rakokernas",
-      "link_berita": "https://rejabar.republika.co.id/berita/t06uir512/dunia-usaha-hadapi-tantangan-serius-apindo-kumpulkan-semua-pengusaha-di-bandung-gelar-rakokernas",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:23:03"
-    },
-    {
-      "judul": "Gempa Besar Hantam Rusia, Peringatan Tsunami Sampai Jepang dan Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/t06tom393/gempa-besar-hantam-rusia-peringatan-tsunami-sampai-jepang-dan-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:05:03"
-    },
-    {
-      "judul": "Polisi Sita Dokumen Mulai dari Akta Notaris Hingga Paspor Kasus Penjualan Bayi ke Singapura",
-      "link_berita": "https://rejabar.republika.co.id/berita/t06teo512/polisi-sita-dokumen-mulai-dari-akta-notaris-hingga-paspor-kasus-penjualan-bayi-ke-singapura",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:04:03"
-    },
-    {
-      "judul": "Tersangka Penjualan Bayi asal Jabar ke Singapura Bertambah, Total 20 Orang",
-      "link_berita": "https://rejabar.republika.co.id/berita/t06t4u512/tersangka-penjualan-bayi-asal-jabar-ke-singapura-bertambah-total-20-orang",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:04:03"
-    },
-    {
-      "judul": "AMICTA: Terus Berkarya dan Berinovasi tanpa Batas",
-      "link_berita": "https://rejogja.republika.co.id/berita/t06sy9291/amicta-terus-berkarya-dan-berinovasi-tanpa-batas",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:04:03"
-    },
-    {
-      "judul": "IEU-CEPA dan Diplomasi Tarif AS Jadi Strategi RI Hadapi Gejolak Global",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t06swb416/ieucepa-dan-diplomasi-tarif-as-jadi-strategi-ri-hadapi-gejolak-global",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:04:03"
-    },
-    {
-      "judul": "Skandal Beras Oplosan, 26 Merek Naik ke Tahap Penyidikan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t06si3416/skandal-beras-oplosan-26-merek-naik-ke-tahap-penyidikan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:04:03"
-    },
-    {
-      "judul": "Penembakan Massal di Gedung Pencakar Langit Midtown Manhattan, 4 Orang Tewas Termasuk Polisi Muslim",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06s9p320/penembakan-massal-di-gedung-pencakar-langit-midtown-manhattan-4-orang-tewas-termasuk-polisi-muslim",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 01:04:03"
-    },
-    {
-      "judul": "Bakal Akui Palestina, Begini 'Dosa' Inggris Dirikan Israel",
-      "link_berita": "https://news.republika.co.id/berita/t06qr6393/bakal-akui-palestina-begini-dosa-inggris-dirikan-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Hikmah Rukuk dalam Sholat",
-      "link_berita": "https://iqra.republika.co.id/berita/t06rpb430/hikmah-rukuk-dalam-sholat",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Hikmah Membaca Taawudz dan Surat Al Fatihah dalam Sholat",
-      "link_berita": "https://iqra.republika.co.id/berita/t06r2b430/hikmah-membaca-taawudz-dan-surat-al-fatihah-dalam-sholat",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Sukses ASI Eksklusif Sambil Ngantor? Kuncinya Ada di Persiapan Sejak Sebelum Lahiran",
-      "link_berita": "https://ameera.republika.co.id/berita/t06qrw425/sukses-asi-eksklusif-sambil-ngantor-kuncinya-ada-di-persiapan-sejak-sebelum-lahiran",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Asosiasi Psikologi Forensik Ungkap Temuan Bermakna di Kasus Kematian Diplomat Muda Kemenlu",
-      "link_berita": "https://news.republika.co.id/berita/t063pz409/asosiasi-psikologi-forensik-ungkap-temuan-bermakna-di-kasus-kematian-diplomat-muda-kemenlu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Menag: Insya Allah Tidak Ada Maksud Menahan Pelaksanaan Haji di Kemenag",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06q0k430/menag-insya-allah-tidak-ada-maksud-menahan-pelaksanaan-haji-di-kemenag",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Aceh Jadi Embarkasi Terbaik untuk Pelayanan Jamaah Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0641v483/aceh-jadi-embarkasi-terbaik-untuk-pelayanan-jamaah-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Mengapa Man City Pecahkan Rekor Transfer untuk Beli Kiper",
-      "link_berita": "https://skor.republika.co.id/posts/695775/mengapa-man-city-pecahkan-rekor-transfer-untuk-beli-kiper",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Anggaran Sekolah Rakyat Rp 1,1 Triliun untuk Laptop dan Seragam 15 Ribu Siswa",
-      "link_berita": "https://news.republika.co.id/berita/t06pni484/anggaran-sekolah-rakyat-rp-11-triliun-untuk-laptop-dan-seragam-15-ribu-siswa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 00:04:03"
-    },
-    {
-      "judul": "Pencuri Sandal Hermes Mantan Majikan di Medan Divonis 1,5 Tahun Penjara",
-      "link_berita": "https://news.republika.co.id/berita/t063h7409/pencuri-sandal-hermes-mantan-majikan-di-medan-divonis-15-tahun-penjara",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Mensos Respons Kepala Sekolah Usul Seskab Teddy Jadi Duta Sekolah Rakyat",
-      "link_berita": "https://news.republika.co.id/berita/t06p0f484/mensos-respons-kepala-sekolah-usul-seskab-teddy-jadi-duta-sekolah-rakyat",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Apakah Tenung, Santet, Sihir, dan Sejenisnya Benar-Benar Ada? Ini Pandangan Islam",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06oy4320/apakah-tenung-santet-sihir-dan-sejenisnya-benarbenar-ada-ini-pandangan-islam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "7 Fakta Babak Gugur MSC 2025 yang Harus Kamu Tahu!",
-      "link_berita": "https://skor.republika.co.id/posts/695774/7-fakta-babak-gugur-msc-2025-yang-harus-kamu-tahu",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Prabowo Rapat dengan Dirut dan Komut MIND ID di Istana",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t06oqf484/prabowo-rapat-dengan-dirut-dan-komut-mind-id-di-istana",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Pijar Cahaya Islam di Tengah Kawasan Industri IMIP",
-      "link_berita": "https://khazanah.republika.co.id/berita/t065t7366/pijar-cahaya-islam-di-tengah-kawasan-industri-imip",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Sikap Tegas Desainer Miguel Adrover: Tolak Pesanan Penyanyi Rosalia demi Palestina",
-      "link_berita": "https://ameera.republika.co.id/berita/t06oij425/sikap-tegas-desainer-miguel-adrover-tolak-pesanan-penyanyi-rosalia-demi-palestina",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Hasil Autopsi Pihak RSCM Ungkap Dugaan Penyebab Memar dan Luka di Tubuh Arya Daru",
-      "link_berita": "https://news.republika.co.id/berita/t0638i409/hasil-autopsi-pihak-rscm-ungkap-dugaan-penyebab-memar-dan-luka-di-tubuh-arya-daru",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Imigrasi Cabut Paspor 'Raja Minyak' Riza Chalid",
-      "link_berita": "https://news.republika.co.id/berita/t06nq2377/imigrasi-cabut-paspor-raja-minyak-riza-chalid",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Soal Alat Kontrasepsi Jadi Barang Bukti Kasus Kematian Diplomat Arya, Ini Penjelasan Polisi",
-      "link_berita": "https://news.republika.co.id/berita/t06mvz377/soal-alat-kontrasepsi-jadi-barang-bukti-kasus-kematian-diplomat-arya-ini-penjelasan-polisi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 23:04:03"
-    },
-    {
-      "judul": "Kata Pengunjung Mal Saat Ditanya Soal 'Rojali': Tanya-Tanya Dulu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t044ug483/kata-pengunjung-mal-saat-ditanya-soal-rojali-tanyatanya-dulu",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 22:04:03"
-    },
-    {
-      "judul": "Pemimpin Gereja Yerussalem Kutuk Serangan Ekstremis Yahudi ke Kota Kristen Palestina",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06mkh483/pemimpin-gereja-yerussalem-kutuk-serangan-ekstremis-yahudi-ke-kota-kristen-palestina",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 22:04:03"
-    },
-    {
-      "judul": "Tujuh Petugas Israel Aniaya Awak Kapal Handala Asal AS, FFC: Mereka Mencekik dan Menendangnya",
-      "link_berita": "https://khazanah.republika.co.id/berita/t063ps483/tujuh-petugas-israel-aniaya-awak-kapal-handala-asal-as-ffc-mereka-mencekik-dan-menendangnya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 22:04:03"
-    },
-    {
-      "judul": "Momen Perjuangan Garuda Muda di Final Piala AFF-U23",
-      "link_berita": "https://visual.republika.co.id/berita/t06c2t375/momen-perjuangan-garuda-muda-di-final-piala-affu23",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 22:04:03"
-    },
-    {
-      "judul": "Jumlah Syuhada Gaza Akibat Genosida Israel Tembus 60 Ribu Jiwa",
-      "link_berita": "https://khazanah.republika.co.id/berita/t064db483/jumlah-syuhada-gaza-akibat-genosida-israel-tembus-60-ribu-jiwa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 22:04:03"
-    },
-    {
-      "judul": "Gagal Juara Piala AFF U-23 2025, Erick Thohir Bicara Masa Depan Gerald Vanenburg",
-      "link_berita": "https://skor.republika.co.id/posts/695762/gagal-juara-piala-aff-u-23-2025-erick-thohir-bicara-masa-depan-gerald-vanenburg",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 22:04:03"
-    },
-    {
-      "judul": "Keutamaan Sholat dan Jadwal Sholat Hari Ini, 30 Juli 2025 di Palembang",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06hf51560598262/keutamaan-sholat-dan-jadwal-sholat-hari-ini-30-juli-2025-di-palembang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 21:04:03"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini: Yogyakarta, 30 Juli 2025 | Petunjuk Ibadah Sehari-hari",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06g111743630839/jadwal-sholat-hari-ini-yogyakarta-30-juli-2025-petunjuk-ibadah-seharihari",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 20:04:03"
-    },
-    {
-      "judul": "Urung Angkat Trofi, Gerald Vanenburg Tetap Bangga dengan Timnas U-23 Indonesia",
-      "link_berita": "https://skor.republika.co.id/posts/695749/urung-angkat-trofi-gerald-vanenburg-tetap-bangga-dengan-timnas-u-23-indonesia",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 20:04:03"
-    },
-    {
-      "judul": "Persembahan bersama: Jadwal Sholat Hari Ini 30 Juli 2025 di Jakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06ei01351441462/persembahan-bersama-jadwal-sholat-hari-ini-30-juli-2025-di-jakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 20:04:03"
-    },
-    {
-      "judul": "Menemukan Kedamaian, Yuk Intip Jadwal Sholat Hari Ini: 30 Juli 2025 di Medan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06d2f170445230/menemukan-kedamaian-yuk-intip-jadwal-sholat-hari-ini-30-juli-2025-di-medan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 19:04:03"
-    },
-    {
-      "judul": "Menemukan Kedamaian dalam Keimanan: Jadwal Sholat Hari Ini di Depok, 30 Juli 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t06c3f2069822874/menemukan-kedamaian-dalam-keimanan-jadwal-sholat-hari-ini-di-depok-30-juli-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 19:04:03"
-    },
-    {
-      "judul": "Telkomsat Percepat Konektivitas Digital di Maluku Utara",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t06rw8415/telkomsat-percepat-konektivitas-digital-di-maluku-utara",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 29 Jul 2025, 18:04:03"
-    },
-    {
-      "judul": "Film Siapa Dia Boyong Orkestra 'Star Wars' Buat Garap Musiknya",
-      "link_berita": "https://ameera.republika.co.id/berita/t06vk9425/film-siapa-dia-boyong-orkestra-star-wars-buat-garap-musiknya",
+      "judul": "Film Avatar Fire & Ash Bawa Kejutan! Klan Wind Traders Bakal Guncang Pandora",
+      "link_berita": "https://ameera.republika.co.id/berita/t0713k425/film-avatar-fire-ash-bawa-kejutan-klan-wind-traders-bakal-guncang-pandora",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 08:45:00"
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 10:45:00"
     },
     {
       "judul": "Nilai Ekonomi Hutan Morowali Lampaui Pendapatan Daerah, Terancam Tambang",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 30 Jul 2025, 08:43:00"
     },
     {
-      "judul": "Dari UMKM hingga Kampus, CIMB Niaga Hadirkan Layanan Digital Berkelanjutan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t06uj3423/dari-umkm-hingga-kampus-cimb-niaga-hadirkan-layanan-digital-berkelanjutan",
+      "judul": "Tugu Insurance Jalin Sinergi Bisnis Strategis dengan Bank Shinhan Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t071qo472/tugu-insurance-jalin-sinergi-bisnis-strategis-dengan-bank-shinhan-indonesia",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 08:23:00"
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 10:59:00"
     },
     {
       "judul": "Fatwa Baru DSN-MUI Siap Perkuat Restrukturisasi Bank Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 29 Jul 2025, 07:29:00"
     },
     {
-      "judul": "Kontroversi Vietnam, Giliran Pelatih Pancing Emosi Indonesia, Halangi Lemparan ke Dalam Robi Darwis",
-      "link_berita": "https://news.republika.co.id/berita/t06wdc348/kontroversi-vietnam-giliran-pelatih-pancing-emosi-indonesia-halangi-lemparan-ke-dalam-robi-darwis",
-      "kategori": "Sport",
-      "tanggal_terbit": "Wednesday, 30 Jul 2025, 09:03:00"
+      "judul": "Menkeu: Presiden Prabowo Prihatin Kebiasaan Anak Menulis Huruf Kecil-Kecil",
+      "link_berita": "https://news.republika.co.id/berita/t071qv484/menkeu-presiden-prabowo-prihatin-kebiasaan-anak-menulis-huruf-kecilkecil",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Wednesday, 30 Jul 2025, 10:59:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 30 Jul 2025, 09:04:03"
+  "waktu_scraping": "Wednesday, 30 Jul 2025, 11:05:20"
 }
