@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Bertambah Banyak, Negara Dunia Siap Akui Palestina pada 2025",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0b1r9366/bertambah-banyak-negara-dunia-siap-akui-palestina-pada-2025"
+    },
+    {
       "judul": "Sambut HUT Ke-80 RI, Prabowo Beri 'Hadiah Kemerdekaan' untuk Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/t0aywi484/sambut-hut-ke80-ri-prabowo-beri-hadiah-kemerdekaan-untuk-masyarakat"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Surplus Dagang Indonesia Capai 4,1 Miliar Dolar AS pada Juni 2025, Bertahan 62 Bulan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0asce423/surplus-dagang-indonesia-capai-41-miliar-dolar-as-pada-juni-2025-bertahan-62-bulan"
-    },
-    {
-      "judul": "Jimly Asshiddiqie: Amnesti tak Berarti Tom Lembong dan Hasto Terbukti Bersalah",
-      "link_berita": "https://news.republika.co.id/berita/t0apaj318/jimly-asshiddiqie-amnesti-tak-berarti-tom-lembong-dan-hasto-terbukti-bersalah"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pengacara Hasto Berterima Kasih kepada Prabowo Telah Berikan Amnesti",
+      "link_berita": "https://news.republika.co.id/berita/t0b0gy409/pengacara-hasto-berterima-kasih-kepada-prabowo-telah-berikan-amnesti"
+    },
+    {
+      "judul": "Detik-Detik Pencurian Kotak Amal Masjid Terekam CCTV",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0axsz483/detikdetik-pencurian-kotak-amal-masjid-terekam-cctv"
+    },
     {
       "judul": "Pemerintah Putuskan Tanggal 18 Agustus 2025 Hari Libur Nasional",
       "link_berita": "https://news.republika.co.id/berita/t0atia484/pemerintah-putuskan-tanggal-18-agustus-2025-hari-libur-nasional"
@@ -73,322 +81,314 @@
     {
       "judul": "Mobil Sedan Terbakar Usai Tabrakan di Tol JORR Cipayung Jaktim",
       "link_berita": "https://news.republika.co.id/berita/t09l58348/mobil-sedan-terbakar-usai-tabrakan-di-tol-jorr-cipayung-jaktim"
-    },
-    {
-      "judul": "Aktivis Palestina yang Terlibat dalam Film No Other Land Meninggal Ditembak Pemukim Israel",
-      "link_berita": "https://ameera.republika.co.id/berita/t09ilq425/aktivis-palestina-yang-terlibat-dalam-film-no-other-land-meninggal-ditembak-pemukim-israel"
-    },
-    {
-      "judul": "Kisah Wafatnya Sahabat-Nabi yang Mantan Perampok",
-      "link_berita": "https://khazanah.republika.co.id/berita/t09i0w458/kisah-wafatnya-sahabatnabi-yang-mantan-perampok"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Perkuat Ekosistem Syariah, KNEKS Tinjau Langsung Pelaksanaan KDMP di Aceh",
+      "link_berita": "https://sharia.republika.co.id/berita/t0b3pg368/perkuat-ekosistem-syariah-kneks-tinjau-langsung-pelaksanaan-kdmp-di-aceh",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:32:27"
+    },
+    {
+      "judul": "Musisi Dunia 'Cabut' dari Spotify, CEO-nya Dituding Danai Pabrik Senjata AI",
+      "link_berita": "https://ameera.republika.co.id/berita/t0b3kl425/musisi-dunia-cabut-dari-spotify-ceonya-dituding-danai-pabrik-senjata-ai",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:29:27"
+    },
+    {
+      "judul": "Airlangga: Tarif AS 19 Persen Mulai Berlaku 7 Agustus 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0b3hy502/airlangga-tarif-as-19-persen-mulai-berlaku-7-agustus-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:27:27"
+    },
+    {
+      "judul": "BSI Catatkan Lonjakan Pembiayaan Kendaraan Listrik",
+      "link_berita": "https://sharia.republika.co.id/berita/t0b2id416/bsi-catatkan-lonjakan-pembiayaan-kendaraan-listrik",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:21:27"
+    },
+    {
+      "judul": "Pelatihan SDM Perhotelan Masih Tertinggal, AI Didorong Jadi Solusi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0b36n416/pelatihan-sdm-perhotelan-masih-tertinggal-ai-didorong-jadi-solusi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:20:27"
+    },
+    {
+      "judul": "BPS: Inflasi Pendidikan Diprediksi Berlanjut hingga September 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0b341370/bps-inflasi-pendidikan-diprediksi-berlanjut-hingga-september-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:19:27"
+    },
+    {
+      "judul": "Tom Lembong dan Hasto Dapat Pengampunan dari Prabowo, Ini Respons Jokowi",
+      "link_berita": "https://news.republika.co.id/berita/t0b2hx409/tom-lembong-dan-hasto-dapat-pengampunan-dari-prabowo-ini-respons-jokowi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:06:27"
+    },
+    {
+      "judul": "Kemendiktisaintek: Guru Kunci Transformasi Pendidikan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0arbt451/kemendiktisaintek-guru-kunci-transformasi-pendidikan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:02:27"
+    },
+    {
+      "judul": "PSSI Kirim Orang Indonesia Pertama Kerja di FIFA",
+      "link_berita": "https://skor.republika.co.id/posts/696284/pssi-kirim-orang-indonesia-pertama-kerja-di-fifa-1",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 08:00:27"
+    },
+    {
+      "judul": "Erick Thohir: PSSI Berhasil Kirim Orang Indonesia Pertama Kerja di FIFA Prancis",
+      "link_berita": "https://news.republika.co.id/berita/t0b1ri348/erick-thohir-pssi-berhasil-kirim-orang-indonesia-pertama-kerja-di-fifa-prancis",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:50:27"
+    },
+    {
+      "judul": "Bertambah Banyak, Negara Dunia Siap Akui Palestina pada 2025",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0b1r9366/bertambah-banyak-negara-dunia-siap-akui-palestina-pada-2025",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:50:27"
+    },
+    {
+      "judul": "Pemerhati Anak: Pendidikan Utama Siswa Harus Dimulai dari Lingkungan Keluarga",
+      "link_berita": "https://rejogja.republika.co.id/berita/t0az2m291/pemerhati-anak-pendidikan-utama-siswa-harus-dimulai-dari-lingkungan-keluarga",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:45:27"
+    },
+    {
+      "judul": "Ragnarok Online 3 Ungkap Gameplay Perdana",
+      "link_berita": "https://skor.republika.co.id/posts/696281/ragnarok-online-3-ungkap-gameplay-perdana",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:40:27"
+    },
+    {
+      "judul": "10 Besar Penjaga Gawang Termahal di Liga Italia, Terbaru Kiper Pinjaman Napoli",
+      "link_berita": "https://skor.republika.co.id/posts/696280/10-besar-penjaga-gawang-termahal-di-liga-italia-terbaru-kiper-pinjaman-napoli",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:40:27"
+    },
+    {
+      "judul": "Operasi Kereta Gideon Gagal Total, Pasukan Israel Tarik Pasukan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0b13o483/operasi-kereta-gideon-gagal-total-pasukan-israel-tarik-pasukan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:35:27"
+    },
+    {
       "judul": "BTN dan CIMB Niaga Resmi Lakukan Spin Off Unit Syariah, Ini Tahapannya",
       "link_berita": "https://sharia.republika.co.id/berita/t0b0la370/btn-dan-cimb-niaga-resmi-lakukan-spin-off-unit-syariah-ini-tahapannya",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:24:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Dari Golden Age ke Era Digital, Menag Minta Kampus Islam Bangun Peradaban",
       "link_berita": "https://khazanah.republika.co.id/berita/t0b0jb483/dari-golden-age-ke-era-digital-menag-minta-kampus-islam-bangun-peradaban",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:23:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Pengacara Hasto Berterima Kasih kepada Prabowo Telah Berikan Amnesti",
       "link_berita": "https://news.republika.co.id/berita/t0b0gy409/pengacara-hasto-berterima-kasih-kepada-prabowo-telah-berikan-amnesti",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:22:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Kenapa Pengerukan Alur Pelayaran Penting?",
       "link_berita": "https://shippingcargo.co.id/posts/695890/kenapa-pengerukan-alur-pelayaran-penting",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:22:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Gel Berbahan Dasar Yogurt Menawarkan Terobosan Dalam Penyembuhan Jaringan",
       "link_berita": "https://impresiupdate.id/posts/696236/gel-berbahan-dasar-yogurt-menawarkan-terobosan-dalam-penyembuhan-jaringan",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:21:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Shakira Pecahkan Rekor, Satu Juta Tiket Konser Terjual di Meksiko",
       "link_berita": "https://impresiupdate.id/posts/696238/shakira-pecahkan-rekor-satu-juta-tiket-konser-terjual-di-meksiko",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:20:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Garuda di Dadaku Kembali! Intip First Look Animasi yang Penuh Semangat",
       "link_berita": "https://ameera.republika.co.id/berita/t0b0d7425/garuda-di-dadaku-kembali-intip-first-look-animasi-yang-penuh-semangat",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:20:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Catatan Cak AT: 'Dawir ' Oknum Habib",
       "link_berita": "https://ruzkaindonesia.id/posts/696263/catatan-cak-at-dawir-oknum-habib",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:18:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Pemkot Bandung Jamin Kondisi Beras di Kota Bandung Aman",
       "link_berita": "https://bandung24jam.id/posts/696269/pemkot-bandung-jamin-kondisi-beras-di-kota-bandung-aman",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:18:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Kronologi Perselisihan Pengelolaan Bandung Zoo Antar Manajemen Baru dan Lama Terungkap",
       "link_berita": "https://rejabar.republika.co.id/berita/t0b04i282/kronologi-perselisihan-pengelolaan-bandung-zoo-antar-manajemen-baru-dan-lama-terungkap",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:14:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Profil Klub Super League 2025-2026: Persita Tangerang",
       "link_berita": "https://skor.republika.co.id/posts/696277/profil-klub-super-league-2025-2026-persita-tangerang",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:10:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "KPK Tunggu Surat dari Prabowo Sebelum Bebaskan Hasto",
       "link_berita": "https://news.republika.co.id/berita/t0aztb393/kpk-tunggu-surat-dari-prabowo-sebelum-bebaskan-hasto",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:08:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 07:33:27"
     },
     {
       "judul": "Dapat Pelatihan, UMKM Satu Hati Binaan Yayasan AHM Siap Jadi Jagoan Ekonomi Lokal",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0azm6368/dapat-pelatihan-umkm-satu-hati-binaan-yayasan-ahm-siap-jadi-jagoan-ekonomi-lokal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:03:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Kemenag: Pendidikan Jadi Strategi Generasi Muda Kalangan tak Mampu Tingkatkan SDM",
       "link_berita": "https://khazanah.republika.co.id/berita/t0ar75451/kemenag-pendidikan-jadi-strategi-generasi-muda-kalangan-tak-mampu-tingkatkan-sdm",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:02:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Serukan Revolusi, Houthi Minta Bangsa Arab Tekan Pemerintah Hentikan Kejahatan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/t0azfy483/serukan-revolusi-houthi-minta-bangsa-arab-tekan-pemerintah-hentikan-kejahatan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 07:00:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Sambut HUT Ke-80 RI, Prabowo Beri 'Hadiah Kemerdekaan' untuk Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/t0aywi484/sambut-hut-ke80-ri-prabowo-beri-hadiah-kemerdekaan-untuk-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:48:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Pengusaha UMKM Perlu Punya Laporan Keuangan, Ini Alasannya",
       "link_berita": "https://kareba.republika.co.id/posts/696164/pengusaha-umkm-perlu-punya-laporan-keuangan-ini-alasannya",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:47:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Karena Buaya (Sukardi)",
       "link_berita": "https://retizen.republika.co.id/posts/696106/karena-buaya-sukardi",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:46:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Inspirasi 10 Alasan Anak Broken Home Bisa Sukses: Luka Jadi Kekuatan",
       "link_berita": "https://retizen.republika.co.id/posts/696176/inspirasi-10-alasan-anak-broken-home-bisa-sukses-luka-jadi-kekuatan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:46:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Kelaparan Gaza, Penjajahan Gaya Baru",
       "link_berita": "https://retizen.republika.co.id/posts/696217/kelaparan-gaza-penjajahan-gaya-baru",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:46:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Bank Mandiri Perkuat Komitmen ESG Lewat Inovasi KPR Hijau",
       "link_berita": "https://esgnow.republika.co.id/berita/t0ayrv368/bank-mandiri-perkuat-komitmen-esg-lewat-inovasi-kpr-hijau",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:45:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Bea Cukai dan Satpol PP Gagalkan Distribusi 600 Ribu Batang Rokok Ilegal di Pemalang",
       "link_berita": "https://republika.co.id/berita//t0ayhx368/bea-cukai-dan-satpol-pp-gagalkan-distribusi-600-ribu-batang-rokok-ilegal-di-pemalang",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:39:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "KPK Tunggu Surat Keputusan Amnesti untuk Bebaskan Hasto",
       "link_berita": "https://tv.republika.co.id/berita/t0ayh8313/kpk-tunggu-surat-keputusan-amnesti-untuk-bebaskan-hasto",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:39:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Stimulus Ekonomi Dongkrak Jumlah Penumpang Transportasi Juni 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0ayew370/stimulus-ekonomi-dongkrak-jumlah-penumpang-transportasi-juni-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:37:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Sekolah Rakyat Bikin Erick Thohir Terharu, Terkenang Perjuangan Sang Ayah",
       "link_berita": "https://khazanah.republika.co.id/berita/t0aycm483/sekolah-rakyat-bikin-erick-thohir-terharu-terkenang-perjuangan-sang-ayah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:36:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
-      "judul": "Detik-detik Pencurian Kotak Amal Masjid Terekam CCTV",
+      "judul": "Detik-Detik Pencurian Kotak Amal Masjid Terekam CCTV",
       "link_berita": "https://khazanah.republika.co.id/berita/t0axsz483/detikdetik-pencurian-kotak-amal-masjid-terekam-cctv",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Pernyataan Timothy Ronald tentang Gym Tuai Kontroversi, PBFI Buka Suara",
       "link_berita": "https://ameera.republika.co.id/berita/t0axes425/pernyataan-timothy-ronald-tentang-gym-tuai-kontroversi-pbfi-buka-suara",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Rupiah Nyaris Sentuh Rp 16.500 Jelang Pemberlakuan Kebijakan Tarif AS",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0awus423/rupiah-nyaris-sentuh-rp-16500-jelang-pemberlakuan-kebijakan-tarif-as",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Tol Pertama Sumbar Resmi Berbayar per 2 Agustus",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0awp4370/tol-pertama-sumbar-resmi-berbayar-per-2-agustus",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "5.700 Desa Belum Terlistriki, Pemerintah Andalkan PLTS untuk Pelosok",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0awzw416/5700-desa-belum-terlistriki-pemerintah-andalkan-plts-untuk-pelosok",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Jubir Jelaskan Alasan Prabowo Beri Abolisi Tom dan Amnesti Hasto",
       "link_berita": "https://news.republika.co.id/berita/t0awwf484/jubir-jelaskan-alasan-prabowo-beri-abolisi-tom-dan-amnesti-hasto",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 06:33:27"
     },
     {
       "judul": "Gabah Hingga Kelapa Sawit Dongkrak Nilai Tukar Petani pada Juli 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0awnv423/gabah-hingga-kelapa-sawit-dongkrak-nilai-tukar-petani-pada-juli-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 05:33:27"
     },
     {
       "judul": "Tiga Petinggi Food Station Cipinang Jadi Tersangka, Bareskrim Ungkap Modus Beras Premium Oplosan",
       "link_berita": "https://news.republika.co.id/berita/t0av9u409/tiga-petinggi-food-station-cipinang-jadi-tersangka-bareskrim-ungkap-modus-beras-premium-oplosan",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 05:33:27"
     },
     {
       "judul": "Kemendikdasmen Tunjuk Unipa Kawal Percepatan Pendidikan Guru SD",
       "link_berita": "https://khazanah.republika.co.id/berita/t0ar24451/kemendikdasmen-tunjuk-unipa-kawal-percepatan-pendidikan-guru-sd",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 05:33:27"
     },
     {
       "judul": "Ikut Tur Pramusim, Jay Idzes Bicara Soal Masa Depannya di Venezia",
       "link_berita": "https://skor.republika.co.id/posts/696261/ikut-tur-pramusim-jay-idzes-bicara-soal-masa-depannya-di-venezia",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 05:33:27"
     },
     {
-      "judul": "V BTS Jadi Duta Coca-Cola, Tagar #BoycottCoke Menggema di Kalangan Penggemar",
-      "link_berita": "https://ameera.republika.co.id/berita/t0awnw425/v-bts-jadi-duta-cocacola-tagar-boycottcoke-menggema-di-kalangan-penggemar",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 06:29:20"
-    },
-    {
-      "judul": "Biaya Sekolah dan Bimbel Kerek Inflasi Inti",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0awam416/biaya-sekolah-dan-bimbel-kerek-inflasi-inti",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Harga Beras di Penggilingan, Grosir, dan Eceran Kompak Naik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0awhr423/harga-beras-di-penggilingan-grosir-dan-eceran-kompak-naik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Proyek Konstruksi Menggeliat, Emiten BAUT Bidik Penjualan Rp160 Miliar",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0awhj416/proyek-konstruksi-menggeliat-emiten-baut-bidik-penjualan-rp160-miliar",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Waspada Kosmetik Berbahaya, BPOM Cabut Izin Edar 34 Produk, Ini Daftarnya",
-      "link_berita": "https://ameera.republika.co.id/berita/t0awb8370/waspada-kosmetik-berbahaya-bpom-cabut-izin-edar-34-produk-ini-daftarnya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Temui Tom Lembong di Rutan Cipinang, Anies Sebut Abolisi Sebagai 'Kabar Baik'",
-      "link_berita": "https://news.republika.co.id/berita/t0auzz409/temui-tom-lembong-di-rutan-cipinang-anies-sebut-abolisi-sebagai-kabar-baik",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Dewan Komisaris Pertamina Tinjau Ketahanan Energi di Kepulauan Bangka Belitung",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0aw5k522/dewan-komisaris-pertamina-tinjau-ketahanan-energi-di-kepulauan-bangka-belitung",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Intip Serunya Mahasiswa Cyber University Gelar Edutrip ke Glints Singapura",
-      "link_berita": "https://news.republika.co.id/berita/t0avg5368/intip-serunya-mahasiswa-cyber-university-gelar-edutrip-ke-glints-singapura",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Edutrip UNM 2025, Belajar Global, Menjejak Singapura Malaysia Bersama Kampus Digital Bisnis",
-      "link_berita": "https://news.republika.co.id/berita/t0av47368/edutrip-unm-2025-belajar-global-menjejak-singapura-malaysia-bersama-kampus-digital-bisnis",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "923 Madrasah Jadi Sasaran Pemkab Serang untuk Gerakan Aksi Bergizi",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0aqwr451/923-madrasah-jadi-sasaran-pemkab-serang-untuk-gerakan-aksi-bergizi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Dari Kampus ke Dunia Global, Edutrip UNM Jadi Gerbang Menuju Karier Internasional",
-      "link_berita": "https://news.republika.co.id/berita/t0auvs368/dari-kampus-ke-dunia-global-edutrip-unm-jadi-gerbang-menuju-karier-internasional",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Penyaluran Beras SPHP Dipercepat demi Tekan Inflasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0auuv423/penyaluran-beras-sphp-dipercepat-demi-tekan-inflasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Kinerja Solid, Telkom Cetak Pendapatan Konsolidasi Rp 73 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0aunf368/kinerja-solid-telkom-cetak-pendapatan-konsolidasi-rp-73-triliun",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Bea Cukai Amankan Ratusan Ribu Rokok Ilegal dalam Operasi Gabungan di Surabaya",
-      "link_berita": "https://republika.co.id/berita//t0au4s368/bea-cukai-amankan-ratusan-ribu-rokok-ilegal-dalam-operasi-gabungan-di-surabaya",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Serap Ilmu Global Lewat Edutrip, Cyber University Bawa Mahasiswa Jelajahi NTU di Singapura",
-      "link_berita": "https://news.republika.co.id/berita/t0at9x368/serap-ilmu-global-lewat-edutrip-cyber-university-bawa-mahasiswa-jelajahi-ntu-di-singapura",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 05:29:20"
-    },
-    {
-      "judul": "Garuda di Dadaku Kembali! Intip First Look Animasi yang Penuh Semangat",
-      "link_berita": "https://ameera.republika.co.id/berita/t0b0d7425/garuda-di-dadaku-kembali-intip-first-look-animasi-yang-penuh-semangat",
+      "judul": "Musisi Dunia 'Cabut' dari Spotify, CEO-nya Dituding Danai Pabrik Senjata AI",
+      "link_berita": "https://ameera.republika.co.id/berita/t0b3kl425/musisi-dunia-cabut-dari-spotify-ceonya-dituding-danai-pabrik-senjata-ai",
       "kategori": "Happening",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 14:19:00"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 15:29:00"
     },
     {
       "judul": "Bank Mandiri Perkuat Komitmen ESG Lewat Inovasi KPR Hijau",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Friday, 01 Aug 2025, 13:45:00"
     },
     {
-      "judul": "Dapat Pelatihan, UMKM Satu Hati Binaan Yayasan AHM Siap Jadi Jagoan Ekonomi Lokal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0azm6368/dapat-pelatihan-umkm-satu-hati-binaan-yayasan-ahm-siap-jadi-jagoan-ekonomi-lokal",
+      "judul": "Airlangga: Tarif AS 19 Persen Mulai Berlaku 7 Agustus 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0b3hy502/airlangga-tarif-as-19-persen-mulai-berlaku-7-agustus-2025",
       "kategori": "Finansial",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 14:03:00"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 15:27:00"
     },
     {
-      "judul": "BTN dan CIMB Niaga Resmi Lakukan Spin Off Unit Syariah, Ini Tahapannya",
-      "link_berita": "https://sharia.republika.co.id/berita/t0b0la370/btn-dan-cimb-niaga-resmi-lakukan-spin-off-unit-syariah-ini-tahapannya",
+      "judul": "Perkuat Ekosistem Syariah, KNEKS Tinjau Langsung Pelaksanaan KDMP di Aceh",
+      "link_berita": "https://sharia.republika.co.id/berita/t0b3pg368/perkuat-ekosistem-syariah-kneks-tinjau-langsung-pelaksanaan-kdmp-di-aceh",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 14:24:00"
+      "tanggal_terbit": "Friday, 01 Aug 2025, 15:32:00"
     },
     {
-      "judul": "Pengacara Hasto Berterima Kasih kepada Prabowo Telah Berikan Amnesti",
-      "link_berita": "https://news.republika.co.id/berita/t0b0gy409/pengacara-hasto-berterima-kasih-kepada-prabowo-telah-berikan-amnesti",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 01 Aug 2025, 14:22:00"
+      "judul": "Musisi Dunia 'Cabut' dari Spotify, CEO-nya Dituding Danai Pabrik Senjata AI",
+      "link_berita": "https://news.republika.co.id/berita/t0b3kl425/musisi-dunia-cabut-dari-spotify-ceonya-dituding-danai-pabrik-senjata-ai",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Friday, 01 Aug 2025, 15:29:00"
     }
   ],
-  "waktu_scraping": "Friday, 01 Aug 2025, 14:29:20"
+  "waktu_scraping": "Friday, 01 Aug 2025, 15:33:27"
 }
