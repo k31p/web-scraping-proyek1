@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Netanyahu Siapkan Rencana Perang Baru di Gaza",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0it91430/netanyahu-siapkan-rencana-perang-baru-di-gaza"
+    },
+    {
       "judul": "Satpol PP Belum Terima Laporan Adanya Pemasangan Bendera One Piece di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/t0ipl0409/satpol-pp-belum-terima-laporan-adanya-pemasangan-bendera-one-piece-di-jakarta"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Menlu RI Kecam Keras Serbuan Menteri Israel ke Masjid Al-Aqsa, Sebut Pelanggaran Status Quo",
       "link_berita": "https://news.republika.co.id/berita/t0ij9m377/menlu-ri-kecam-keras-serbuan-menteri-israel-ke-masjid-alaqsa-sebut-pelanggaran-status-quo"
-    },
-    {
-      "judul": "Amalan Mengandung Kesyirikan tak akan Diterima",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0ig81430/amalan-mengandung-kesyirikan-tak-akan-diterima"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Eks Pj Gubernur DKI Jadi Komut, Pramono: Saya dan Bang Doel yang Putuskan",
+      "link_berita": "https://news.republika.co.id/berita/t0irm6484/eks-pj-gubernur-dki-jadi-komut-pramono-saya-dan-bang-doel-yang-putuskan"
+    },
+    {
+      "judul": "Tiba di Gaza, Tim Medis ke-9 MER-C Langsung Beri Pelayanan Medis di RS Nasser Khan Younis",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0iqs0483/tiba-di-gaza-tim-medis-ke9-merc-langsung-beri-pelayanan-medis-di-rs-nasser-khan-younis"
+    },
+    {
+      "judul": "Kafe Dilarang Putar Lagu Indonesia? Isu Royalti Musik yang Bikin Bingung Harusnya Punya Solusi",
+      "link_berita": "https://analisis.republika.co.id/berita/t0iq28348/kafe-dilarang-putar-lagu-indonesia-isu-royalti-musik-yang-bikin-bingung-harusnya-punya-solusi"
+    },
     {
       "judul": "Dua Kendaraan Tempur TNI Terparkir di Gedung Kejagung, Ini Penjelasan Kapuspenkum",
       "link_berita": "https://news.republika.co.id/berita/t0inuc409/dua-kendaraan-tempur-tni-terparkir-di-gedung-kejagung-ini-penjelasan-kapuspenkum"
@@ -69,326 +81,314 @@
     {
       "judul": "Isu Rumah Jampidsus Digeledah, Respons Kejagung, dan Bantahan TNI",
       "link_berita": "https://news.republika.co.id/berita/t0h6lr409/isu-rumah-jampidsus-digeledah-respons-kejagung-dan-bantahan-tni"
-    },
-    {
-      "judul": "Para Malaikat, Apakah Laki-laki atau Perempuan?",
-      "link_berita": "https://iqra.republika.co.id/berita/t0hrt3320/para-malaikat-apakah-lakilaki-atau-perempuan"
-    },
-    {
-      "judul": "Apakah Rasulullah Muhammad SAW Pernah Alami Ihtilam atau Mimpi Basah?",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0hqih320/apakah-rasulullah-muhammad-saw-pernah-alami-ihtilam-atau-mimpi-basah"
-    },
-    {
-      "judul": "Saat Kepentingan Presiden Prabowo dan PDIP Bertemu di Pemberian Amnesti Hasto",
-      "link_berita": "https://rejogja.republika.co.id/berita/t0h9dq282/saat-kepentingan-presiden-prabowo-dan-pdip-bertemu-di-pemberian-amnesti-hasto"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bendera One Piece Banyak Diburu di Cimahi dan Bandung",
+      "link_berita": "https://rejabar.republika.co.id/berita/t0iugx512/bendera-one-piece-banyak-diburu-di-cimahi-dan-bandung",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:53:21"
+    },
+    {
+      "judul": "80 Tahun Merdeka, Masih Bertanya Bisa Kenyang?",
+      "link_berita": "https://oohya.republika.co.id/posts/696990/80-tahun-merdeka-masih-bertanya-bisa-kenyang",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:48:07"
+    },
+    {
+      "judul": "Cilegon Jadi Tuan Rumah Festival Internasional BC FIFA 2025",
+      "link_berita": "https://magentatoday.id/posts/696959/cilegon-jadi-tuan-rumah-festival-internasional-bc-fifa-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:47:07"
+    },
+    {
+      "judul": "Malaysia Perketat Aturan Transfer Minyak Antar-Kapal, Targetkan Armada Bayangan",
+      "link_berita": "https://shippingcargo.co.id/posts/696750/malaysia-perketat-aturan-transfer-minyak-antar-kapal-targetkan-armada-bayangan",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:47:07"
+    },
+    {
+      "judul": "Obituari yang Tidak Pernah Ditulis (Bagian 1)",
+      "link_berita": "https://kingdomsriwijaya.id/posts/696971/obituari-yang-tidak-pernah-ditulis-bagian-1-",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:46:07"
+    },
+    {
+      "judul": "Gelar Karya Mengenang Maestro Musik Sunda, Nano S",
+      "link_berita": "https://bandung24jam.id/posts/696973/gelar-karya-mengenang-maestro-musik-sunda-nano-s",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:46:07"
+    },
+    {
+      "judul": "Obituari yang Tidak Pernah Ditulis (Bagian 2)",
+      "link_berita": "https://kingdomsriwijaya.id/posts/696976/obituari-yang-tidak-pernah-ditulis-bagian-2-",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:46:07"
+    },
+    {
+      "judul": "Mendikdasmen Larang Siswa Main Roblox, Ingatkan Orangtua: Gim Berbahaya",
+      "link_berita": "https://sekitarkaltim.id/posts/696984/mendikdasmen-larang-siswa-main-roblox-ingatkan-orangtua-gim-berbahaya",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:46:07"
+    },
+    {
+      "judul": "Mengapa Industri Maritim Dunia Butuh Lebih dari Sekadar Angka",
+      "link_berita": "https://shippingcargo.co.id/posts/696756/mengapa-industri-maritim-dunia-butuh-lebih-dari-sekadar-angka",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:45:07"
+    },
+    {
+      "judul": "Wagub Kaltara: Penanganan Stunting Butuh Pendekatan Lintas Sektor Terintegrasi",
+      "link_berita": "https://sekitarkaltim.id/posts/696997/wagub-kaltara-penanganan-stunting-butuh-pendekatan-lintas-sektor-terintegrasi",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:45:07"
+    },
+    {
+      "judul": "Sukabumi Komitmen Gerakkan Pembangunan Berwawasan Kesehatan yang Berkelanjutan",
+      "link_berita": "https://sukabumikini.com/posts/696998/sukabumi-komitmen-gerakkan-pembangunan-berwawasan-kesehatan-yang-berkelanjutan",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:45:07"
+    },
+    {
+      "judul": "Ma\u2019ruf Amin Dorong Penyehatan Muamalat: Bisa Lewat Investor atau Perbaikan Manajemen",
+      "link_berita": "https://sharia.republika.co.id/berita/t0itz5430/maruf-amin-dorong-penyehatan-muamalat-bisa-lewat-investor-atau-perbaikan-manajemen",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:43:07"
+    },
+    {
+      "judul": "Bupati Jepara: Peternakan Babi yang Diharamkan MUI akan Hasilkan 2-3 Juta Ekor untuk Ekspor",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0ityg483/bupati-jepara-peternakan-babi-yang-diharamkan-mui-akan-hasilkan-23-juta-ekor-untuk-ekspor",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:42:07"
+    },
+    {
+      "judul": "Sering Skip Sarapan? Ini Dampaknya Menurut Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/t0itxw328/sering-skip-sarapan-ini-dampaknya-menurut-dokter",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:42:07"
+    },
+    {
+      "judul": "Viral Undangan Rapat DPRD Indramayu di Hotel Semarang, Ini Penjelasan Pimpinan Dewan",
+      "link_berita": "https://rejabar.republika.co.id/berita/t0itc7512/viral-undangan-rapat-dprd-indramayu-di-hotel-semarang-ini-penjelasan-pimpinan-dewan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:29:07"
+    },
+    {
+      "judul": "Netanyahu Siapkan Rencana Perang Baru di Gaza",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0it91430/netanyahu-siapkan-rencana-perang-baru-di-gaza",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:27:07"
+    },
+    {
+      "judul": "Ekonomi Tumbuh 5,12 Persen di Kuartal II 2025, Pelaku Usaha Teriak Daya Beli Belum Pulih",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0it86502/ekonomi-tumbuh-512-persen-di-kuartal-ii-2025-pelaku-usaha-teriak-daya-beli-belum-pulih",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:26:07"
+    },
+    {
+      "judul": "Puluhan Motor di Jakbar Rusak Diduga Usai Isi BBM Tercampur Solar, Ini Kata Pihak Bengkel dan SPBU",
+      "link_berita": "https://news.republika.co.id/berita/t0iszx409/puluhan-motor-di-jakbar-rusak-diduga-usai-isi-bbm-tercampur-solar-ini-kata-pihak-bengkel-dan-spbu",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:21:07"
+    },
+    {
+      "judul": "Kejagung Sita Mobil Mewah Riza Chalid, Ada Alphard hingga Mercy",
+      "link_berita": "https://visual.republika.co.id/berita/t0isc8375/kejagung-sita-mobil-mewah-riza-chalid-ada-alphard-hingga-mercy",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:07:07"
+    },
+    {
+      "judul": "Prof Abu Rokhmad: Dai Hari Ini Jangan Hanya Ceramah di Balik Mimbar",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0is8x483/prof-abu-rokhmad-dai-hari-ini-jangan-hanya-ceramah-di-balik-mimbar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:05:07"
+    },
+    {
+      "judul": "Jelang Berlaga di Piala AFF Wanita, Joko Susilo Ingin Raih Kemenangan di Setiap Laga",
+      "link_berita": "https://news.republika.co.id/berita/t0is8j348/jelang-berlaga-di-piala-aff-wanita-joko-susilo-ingin-raih-kemenangan-di-setiap-laga",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:05:07"
+    },
+    {
+      "judul": "MTI Soroti Insiden Anjloknya Kereta di Subang dan KRL di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/t0is2j484/mti-soroti-insiden-anjloknya-kereta-di-subang-dan-krl-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 12:01:07"
+    },
+    {
+      "judul": "Eks Pj Gubernur DKI Jadi Komut, Pramono: Saya dan Bang Doel yang Putuskan",
+      "link_berita": "https://news.republika.co.id/berita/t0irm6484/eks-pj-gubernur-dki-jadi-komut-pramono-saya-dan-bang-doel-yang-putuskan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:54:07"
+    },
+    {
+      "judul": "Menko Airlangga Ungkap Pertumbuhan Ekonomi Mulai Tumbuh, Sektor Industri Membaik",
+      "link_berita": "https://rejabar.republika.co.id/berita/t0irku512/menko-airlangga-ungkap-pertumbuhan-ekonomi-mulai-tumbuh-sektor-industri-membaik",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:54:07"
+    },
+    {
+      "judul": "Daerah Ini Punya Masa Tunggu Haji Ekstrem Hampir Setengah Abad, Ini Cara BP Haji untuk Menguranginya",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0irig483/daerah-ini-punya-masa-tunggu-haji-ekstrem-hampir-setengah-abad-ini-cara-bp-haji-untuk-menguranginya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:54:07"
+    },
+    {
+      "judul": "Abdul Rahman Farisi: Gerak Cepat Menteri Bahlil Kerjakan Perintah Presiden Soal Listrik Diapresiasi",
+      "link_berita": "https://news.republika.co.id/berita/t0im3r451/abdul-rahman-farisi-gerak-cepat-menteri-bahlil-kerjakan-perintah-presiden-soal-listrik-diapresiasi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:54:07"
+    },
+    {
+      "judul": "Dua Kendaraan Tempur Anoa Dikerahkan Amankan Gedung Kejagung, Ini Keterangan Mabes TNI",
+      "link_berita": "https://news.republika.co.id/berita/t0ir85409/dua-kendaraan-tempur-anoa-dikerahkan-amankan-gedung-kejagung-ini-keterangan-mabes-tni",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:54:07"
+    },
+    {
+      "judul": "Tiba di Gaza, Tim Medis ke-9 MER-C Langsung Beri Pelayanan Medis di RS Nasser Khan Younis",
+      "link_berita": "https://khazanah.republika.co.id/berita/t0iqs0483/tiba-di-gaza-tim-medis-ke9-merc-langsung-beri-pelayanan-medis-di-rs-nasser-khan-younis",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:54:07"
+    },
+    {
       "judul": "Kafe Dilarang Putar Lagu Indonesia? Isu Royalti Musik yang Bikin Bingung Harusnya Punya Solusi",
       "link_berita": "https://analisis.republika.co.id/berita/t0iq28348/kafe-dilarang-putar-lagu-indonesia-isu-royalti-musik-yang-bikin-bingung-harusnya-punya-solusi",
       "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:17:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Kolaborasi BUMN dan Kampus Sukses Tingkatkan Panen di Lahan Kering Desa Grogol",
       "link_berita": "https://esgnow.republika.co.id/berita/t0ipzr349/kolaborasi-bumn-dan-kampus-sukses-tingkatkan-panen-di-lahan-kering-desa-grogol",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:16:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Satpol PP Belum Terima Laporan Adanya Pemasangan Bendera One Piece di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/t0ipl0409/satpol-pp-belum-terima-laporan-adanya-pemasangan-bendera-one-piece-di-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:07:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Ganggu Operasional Whoosh, KCIC Tertibkan 26 Bangunan Liar",
       "link_berita": "https://tv.republika.co.id/berita/t0ipb1313/ganggu-operasional-whoosh-kcic-tertibkan-26-bangunan-liar",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 11:01:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Menhan Singapura Beri Kuliah Umum di Lemhannas: Ajak Kedua Negara Bekerja Sama",
       "link_berita": "https://news.republika.co.id/berita/t0ip05484/menhan-singapura-beri-kuliah-umum-di-lemhannas-ajak-kedua-negara-bekerja-sama",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Alter Ego Umumkan Roster untuk MPL ID Season 16",
       "link_berita": "https://skor.republika.co.id/posts/696987/alter-ego-umumkan-roster-untuk-mpl-id-season-16",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:49:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Gerakan Indonesia Berwakaf Dukung Visi Indonesia Emas 2045",
       "link_berita": "https://khazanah.republika.co.id/berita/t0iool430/gerakan-indonesia-berwakaf-dukung-visi-indonesia-emas-2045",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:47:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Pertamina EP Bentuk Tim Investigasi Kebakaran di Stasiun Pengumpul Subang",
       "link_berita": "https://tv.republika.co.id/berita/t0iol6313/pertamina-ep-bentuk-tim-investigasi-kebakaran-di-stasiun-pengumpul-subang",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:45:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Harga Jengkol Melejit di Pasar Kebayoran Lama, Tembus Rp125 Ribu Per Kilogram",
       "link_berita": "https://visual.republika.co.id/berita/t0iocz375/harga-jengkol-melejit-di-pasar-kebayoran-lama-tembus-rp125-ribu-per-kilogram",
       "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:40:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Pengadilan Tinggi Kepri Vonis Mati Kompol Satria Nanda",
       "link_berita": "https://news.republika.co.id/berita/t0io89487/pengadilan-tinggi-kepri-vonis-mati-kompol-satria-nanda",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:38:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Dua Kendaraan Tempur TNI Terparkir di Gedung Kejagung, Ini Penjelasan Kapuspenkum",
       "link_berita": "https://news.republika.co.id/berita/t0inuc409/dua-kendaraan-tempur-tni-terparkir-di-gedung-kejagung-ini-penjelasan-kapuspenkum",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:29:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Pemprov Bakal Buka Rekrutmen 1.000 Petugas Damkar, Pendaftar tidak Harus KTP Jakarta",
       "link_berita": "https://news.republika.co.id/berita/t0insp487/pemprov-bakal-buka-rekrutmen-1000-petugas-damkar-pendaftar-tidak-harus-ktp-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:28:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
+    },
+    {
+      "judul": "LPKR Fokus Keberlanjutan Melalui Bangunan Ramah Lingkungan dan Efisiensi Material",
+      "link_berita": "https://esgnow.republika.co.id/berita/t0intm415/lpkr-fokus-keberlanjutan-melalui-bangunan-ramah-lingkungan-dan-efisiensi-material",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:54:07"
     },
     {
       "judul": "Menhan Ingatkan Jangan Pasang Bendera One Piece di Bawah Bendera Merah Putih",
       "link_berita": "https://news.republika.co.id/berita/t0ink7409/menhan-ingatkan-jangan-pasang-bendera-one-piece-di-bawah-bendera-merah-putih",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:23:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "Mendiktisaintek: Tugas Kita adalah Meningkatkan Ekonomi Syariah ke Level Riset",
       "link_berita": "https://news.republika.co.id/berita/t0indv451/mendiktisaintek-tugas-kita-adalah-meningkatkan-ekonomi-syariah-ke-level-riset",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "STY Resmi Diumumkan Jadi Pelatih Anyar Ulsan HD",
       "link_berita": "https://skor.republika.co.id/posts/696985/sty-resmi-diumumkan-jadi-pelatih-anyar-ulsan-hd",
       "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "Isbat Nikah, Wali Kota Ambon: Pesertanya 500 Pasangan",
       "link_berita": "https://khazanah.republika.co.id/berita/t0in1s451/isbat-nikah-wali-kota-ambon-pesertanya-500-pasangan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "Respons Fenomena Bendera One Piece, Mabes Polri: Mari Kibarkan Bendera Merah Putih",
       "link_berita": "https://news.republika.co.id/berita/t0imny409/respons-fenomena-bendera-one-piece-mabes-polri-mari-kibarkan-bendera-merah-putih",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "Soal Bendera One Piece, Sekjen Demokrat: Kalau Aparat Menegakkan Hukum dengan Keras ya Wajar",
       "link_berita": "https://news.republika.co.id/berita/t0imn4487/soal-bendera-one-piece-sekjen-demokrat-kalau-aparat-menegakkan-hukum-dengan-keras-ya-wajar",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "Bernostalgia di Kemenhan, Sjafrie Ajak Menhan Singapura Nikmati Gado-Gado",
       "link_berita": "https://news.republika.co.id/berita/t0imj9484/bernostalgia-di-kemenhan-sjafrie-ajak-menhan-singapura-nikmati-gadogado",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "BPS: Sektor Pertanian Tumbuh Signifikan, Penopang Utama Ekonomi Nasional Triwulan II-2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t0imf4472/bps-sektor-pertanian-tumbuh-signifikan-penopang-utama-ekonomi-nasional-triwulan-ii2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
       "judul": "Banyak Media Gunakan Nama Instansi Negara, Dewan Pers Bakal Lakukan Penertiban",
       "link_berita": "https://news.republika.co.id/berita/t0ijta487/banyak-media-gunakan-nama-instansi-negara-dewan-pers-bakal-lakukan-penertiban",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 10:21:59"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:54:07"
     },
     {
-      "judul": "Tsunami Kamchatka 2025: Ketangguhan Bukan Soal Keberuntungan",
-      "link_berita": "https://analisis.republika.co.id/berita/t0ilvq451/tsunami-kamchatka-2025-ketangguhan-bukan-soal-keberuntungan",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "AG Peduli dan AG Network Dukung Kongres Diaspora ke-8 dan Eco Fashion Nusantara di IKN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0iltx472/ag-peduli-dan-ag-network-dukung-kongres-diaspora-ke8-dan-eco-fashion-nusantara-di-ikn",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Soal Pengibaran Bendera One Piece, Polda Jateng: Kami Memonitor",
-      "link_berita": "https://news.republika.co.id/berita/t0ilih487/soal-pengibaran-bendera-one-piece-polda-jateng-kami-memonitor",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Gubernur Lemhannas Ikut Respons Fenomena Pengibaran Bendera One Piece",
-      "link_berita": "https://news.republika.co.id/berita/t0il5q484/gubernur-lemhannas-ikut-respons-fenomena-pengibaran-bendera-one-piece",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Rondo Resmi Jadi Map Kompetitif PUBG Mobile, Bakal Hadir di PMSL SEA Fall 2025",
-      "link_berita": "https://skor.republika.co.id/posts/696970/rondo-resmi-jadi-map-kompetitif-pubg-mobile-bakal-hadir-di-pmsl-sea-fall-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Misi Tembus Gaza tak Berhenti, Enam Ribu Aktivis Daftar untuk Ikut Pelayaran Terbaru Akhir Agustus",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0ikuf483/misi-tembus-gaza-tak-berhenti-enam-ribu-aktivis-daftar-untuk-ikut-pelayaran-terbaru-akhir-agustus",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Gubernur Lemhannas Sambut Baik Dukungan Negara Eropa ke Palestina",
-      "link_berita": "https://news.republika.co.id/berita/t0iklh484/gubernur-lemhannas-sambut-baik-dukungan-negara-eropa-ke-palestina",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Kemenhub Dorong Operasional Reguler Transjakarta di Pelabuhan Tanjung Priok",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0ikdz423/kemenhub-dorong-operasional-reguler-transjakarta-di-pelabuhan-tanjung-priok",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "BP Haji Harap Revisi UU Disahkan sebelum Agustus",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0ijo9458/bp-haji-harap-revisi-uu-disahkan-sebelum-agustus",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Ma\u2019ruf Amin: Badan Pengganti KNEKS Harus Dorong Lahirnya Bank Syariah Baru",
-      "link_berita": "https://sharia.republika.co.id/berita/t0ijnm423/maruf-amin-badan-pengganti-kneks-harus-dorong-lahirnya-bank-syariah-baru",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Sepanjang 2025, Dewan Pers Terima 780 Pengaduan Masyarakat Soal Pemberitaan",
-      "link_berita": "https://news.republika.co.id/berita/t0ijm0487/sepanjang-2025-dewan-pers-terima-780-pengaduan-masyarakat-soal-pemberitaan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 09:21:59"
-    },
-    {
-      "judul": "Menlu RI Kecam Keras Serbuan Menteri Israel ke Masjid Al-Aqsa, Sebut Pelanggaran Status Quo",
-      "link_berita": "https://news.republika.co.id/berita/t0ij9m377/menlu-ri-kecam-keras-serbuan-menteri-israel-ke-masjid-alaqsa-sebut-pelanggaran-status-quo",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Doa Agar Anak Terhindar dari Penyakit Ain",
-      "link_berita": "https://iqra.republika.co.id/berita/t0iizw458/doa-agar-anak-terhindar-dari-penyakit-ain",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Polisi Bantah Lakukan Penggeledahan di Rumah Jampidsus Kejagung, Begini Penjelasannya",
-      "link_berita": "https://news.republika.co.id/berita/t0iizl487/polisi-bantah-lakukan-penggeledahan-di-rumah-jampidsus-kejagung-begini-penjelasannya",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Ekspor CPO hingga Kakao ke Belarus Digenjot, Indonesia Incar Neraca Dagang Seimbang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0iitp423/ekspor-cpo-hingga-kakao-ke-belarus-digenjot-indonesia-incar-neraca-dagang-seimbang",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Lewat I Care I Share, Astra Financial Angkat Potensi Batik Cikuya ke Panggung Lebih Luas",
-      "link_berita": "https://esgnow.republika.co.id/berita/t0iipt368/lewat-i-care-i-share-astra-financial-angkat-potensi-batik-cikuya-ke-panggung-lebih-luas",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Doa agar Terhindar dari Sifat Malas",
-      "link_berita": "https://iqra.republika.co.id/berita/t0iih3458/doa-agar-terhindar-dari-sifat-malas",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Mediasi Gagal, Kasus Kakek Gugat Cucu Masuki Babak Baru",
-      "link_berita": "https://rejabar.republika.co.id/berita/t0ii4j512/mediasi-gagal-kasus-kakek-gugat-cucu-masuki-babak-baru",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Jubir Anies Jadi Komisaris Jakpro, Pramono: Syaratnya Kenal dan Kredibilitas",
-      "link_berita": "https://news.republika.co.id/berita/t0ii45484/jubir-anies-jadi-komisaris-jakpro-pramono-syaratnya-kenal-dan-kredibilitas",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Aisyiyah: Peran Ibu Krusial Wujudkan Rumah Tangga Ramah Lingkungan",
-      "link_berita": "https://esgnow.republika.co.id/berita/t0ii1x423/aisyiyah-peran-ibu-krusial-wujudkan-rumah-tangga-ramah-lingkungan",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Dosen FIP UMJ Raih Medali Emas di Ajang Woodball Internasional",
-      "link_berita": "https://news.republika.co.id/berita/t0ihz7368/dosen-fip-umj-raih-medali-emas-di-ajang-woodball-internasional",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Dosa Pelaku Rencana Jahat",
-      "link_berita": "https://khazanah.republika.co.id/berita/t0ihxg458/dosa-pelaku-rencana-jahat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Kapal-Kapal Akan Bertolak dari Berbagai Pelabuhan di Dunia Menuju Gaza",
-      "link_berita": "https://news.republika.co.id/berita/t0ihxa393/kapalkapal-akan-bertolak-dari-berbagai-pelabuhan-di-dunia-menuju-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Ibu Rumah Tangga Desa Cikole Ciptakan Kampung Ramah Lingkungan",
-      "link_berita": "https://diplomasi.republika.co.id/posts/696904/ibu-rumah-tangga-desa-cikole-ciptakan-kampung-ramah-lingkungan",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Campak dan Rubella Masih Ada, Tapi Anak Bisa Aman dengan Imunisasi Lengkap",
-      "link_berita": "https://diagnosa.id/posts/696875/campak-dan-rubella-masih-ada-tapi-anak-bisa-aman-dengan-imunisasi-lengkap",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Benarkah Obat Tekanan Darah Bisa Memengaruhi Kesehatan Mental?",
-      "link_berita": "https://impresiupdate.id/posts/696891/benarkah-obat-tekanan-darah-bisa-memengaruhi-kesehatan-mental-",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Ini Daftar KA ke Surabaya Keberangkatan dari Pasar Senen",
-      "link_berita": "https://kreta.id/posts/696868/ini-daftar-ka-ke-surabaya-keberangkatan-dari-pasar-senen",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Paruh Kedua 2025 Diprediksi Suram bagi Kontainer Global",
-      "link_berita": "https://shippingcargo.co.id/posts/696748/paruh-kedua-2025-diprediksi-suram-bagi-kontainer-global",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "Surabaya Targetkan 242 Ribu Siswa Ikuti Pemeriksaan Kesehatan Gratis di Sekolah, Cakup Fisik hingga Mental",
-      "link_berita": "https://sekitarsurabaya.com/posts/696917/surabaya-targetkan-242-ribu-siswa-ikuti-pemeriksaan-kesehatan-gratis-di-sekolah-cakup-fisik-hingga-mental",
-      "kategori": "Network",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 08:21:59"
-    },
-    {
-      "judul": "LMKN: Penyanyi Kafe tidak Dibebani Keribetan Royalti",
-      "link_berita": "https://ameera.republika.co.id/berita/t0iget328/lmkn-penyanyi-kafe-tidak-dibebani-keribetan-royalti",
-      "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 14:49:00"
+      "judul": "Sering Skip Sarapan? Ini Dampaknya Menurut Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/t0itxw328/sering-skip-sarapan-ini-dampaknya-menurut-dokter",
+      "kategori": "Health",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 19:41:00"
     },
     {
       "judul": "Kolaborasi BUMN dan Kampus Sukses Tingkatkan Panen di Lahan Kering Desa Grogol",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Tuesday, 05 Aug 2025, 18:16:00"
     },
     {
-      "judul": "BPS: Sektor Pertanian Tumbuh Signifikan, Penopang Utama Ekonomi Nasional Triwulan II-2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t0imf4472/bps-sektor-pertanian-tumbuh-signifikan-penopang-utama-ekonomi-nasional-triwulan-ii2025",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 16:59:00"
+      "judul": "Ekonomi Tumbuh 5,12 Persen di Kuartal II 2025, Pelaku Usaha Teriak Daya Beli Belum Pulih",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t0it86502/ekonomi-tumbuh-512-persen-di-kuartal-ii-2025-pelaku-usaha-teriak-daya-beli-belum-pulih",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 19:26:00"
     },
     {
-      "judul": "Ma\u2019ruf Amin: Badan Pengganti KNEKS Harus Dorong Lahirnya Bank Syariah Baru",
-      "link_berita": "https://sharia.republika.co.id/berita/t0ijnm423/maruf-amin-badan-pengganti-kneks-harus-dorong-lahirnya-bank-syariah-baru",
+      "judul": "Ma\u2019ruf Amin Dorong Penyehatan Muamalat: Bisa Lewat Investor atau Perbaikan Manajemen",
+      "link_berita": "https://sharia.republika.co.id/berita/t0itz5430/maruf-amin-dorong-penyehatan-muamalat-bisa-lewat-investor-atau-perbaikan-manajemen",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 15:59:00"
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 19:42:00"
     },
     {
-      "judul": "Kafe Dilarang Putar Lagu Indonesia? Isu Royalti Musik yang Bikin Bingung Harusnya Punya Solusi",
-      "link_berita": "https://analisis.republika.co.id/berita/t0iq28348/kafe-dilarang-putar-lagu-indonesia-isu-royalti-musik-yang-bikin-bingung-harusnya-punya-solusi",
-      "kategori": "Fokus",
-      "tanggal_terbit": "Tuesday, 05 Aug 2025, 18:18:00"
+      "judul": "Puluhan Motor di Jakbar Rusak Diduga Usai Isi BBM Tercampur Solar, Ini Kata Pihak Bengkel dan SPBU",
+      "link_berita": "https://news.republika.co.id/berita/t0iszx409/puluhan-motor-di-jakbar-rusak-diduga-usai-isi-bbm-tercampur-solar-ini-kata-pihak-bengkel-dan-spbu",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Tuesday, 05 Aug 2025, 19:21:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 05 Aug 2025, 18:21:59"
+  "waktu_scraping": "Tuesday, 05 Aug 2025, 19:54:07"
 }
