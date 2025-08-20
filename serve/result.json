@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "BI Turunkan Perkiraan Pertumbuhan Ekonomi Global Jadi di Bawah 3 Persen pada 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1aa8w423/bi-turunkan-perkiraan-pertumbuhan-ekonomi-global-jadi-di-bawah-3-persen-pada-2025"
+    },
+    {
       "judul": "Tak Gentar Digertak, Australia Sindir Netanyahu Frustrasi Makin Dikucilkan Dunia Internasional",
       "link_berita": "https://news.republika.co.id/berita/t1a7mu409/tak-gentar-digertak-australia-sindir-netanyahu-frustrasi-makin-dikucilkan-dunia-internasional"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Pramono Sebut Kemacetan di TB Simatupang Gara-Gara Proyek Pemerintah Pusat",
       "link_berita": "https://news.republika.co.id/berita/t1a1s2487/pramono-sebut-kemacetan-di-tb-simatupang-garagara-proyek-pemerintah-pusat"
-    },
-    {
-      "judul": "PN Jaksel Gelar Sidang PK Silfester Matutina Siang Ini, Kejagung Pastikan tak Pengaruhi Eksekusi",
-      "link_berita": "https://news.republika.co.id/berita/t1a0xd487/pn-jaksel-gelar-sidang-pk-silfester-matutina-siang-ini-kejagung-pastikan-tak-pengaruhi-eksekusi"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Tunjangan Perumahan Tetap Diberikan Meski Anggota DPR Punya Rumah di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/t1abr4487/tunjangan-perumahan-tetap-diberikan-meski-anggota-dpr-punya-rumah-di-jakarta"
+    },
+    {
+      "judul": "Buntut Kasus Balita Meninggal dengan Tubuh Dipenuhi Cacing, Dedi Mulyadi Warning Bupati/Wali Kota",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1a932512/buntut-kasus-balita-meninggal-dengan-tubuh-dipenuhi-cacingdedi-mulyadi-warning-bupatiwali-kota"
+    },
     {
       "judul": "Bayi 3 Tahun Meninggal Penuh Cacing Gelang Ternyata Ibu ODGJ, Ayah TBC, Dedi Sentil Pemkab Sukabumi",
       "link_berita": "https://news.republika.co.id/berita/t1a6ld377/bayi-3-tahun-meninggal-penuh-cacing-gelang-ternyata-ibu-odgj-ayah-tbc-dedi-sentil-pemkab-sukabumi"
@@ -73,322 +81,314 @@
     {
       "judul": "Presiden Prabowo Sebut akan Ada 8 Juta Lapangan Kerja Baru Dalam 5 Tahun Kedepan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t18xz8502/presiden-prabowo-sebut-akan-ada-8-juta-lapangan-kerja-baru-dalam-5-tahun-kedepan"
-    },
-    {
-      "judul": "Prabowo Perintahkan Jumlah Komisaris Dipangkas, CEO Danantara: Sudah Dilaksanakan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t18u2a484/prabowo-perintahkan-jumlah-komisaris-dipangkas-ceo-danantara-sudah-dilaksanakan"
-    },
-    {
-      "judul": "WAMI Klarifikasi Pembayaran Royalti Ari Lasso, Sebut Angka Puluhan Juta Rupiah",
-      "link_berita": "https://ameera.republika.co.id/berita/t18skc409/wami-klarifikasi-pembayaran-royalti-ari-lasso-sebut-angka-puluhan-juta-rupiah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KPK Geledah 3 Kantor Asosiasi dan 1 Rumah Agensi Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1acn7458/kpk-geledah-3-kantor-asosiasi-dan-1-rumah-agensi-haji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:20:54"
+    },
+    {
+      "judul": "BI Prediksi FFR Turun Dua Kali Semester II 2025, Ekonomi Global Melambat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1acm8423/bi-prediksi-ffr-turun-dua-kali-semester-ii-2025-ekonomi-global-melambat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:20:54"
+    },
+    {
+      "judul": "Malaysia Ancam Pria Muslim yang tak Sholat Jumat dengan Pidana Dua Tahun Penjara",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1aciw483/malaysia-ancam-pria-muslim-yang-tak-sholat-jumat-dengan-pidana-dua-tahun-penjara",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:18:54"
+    },
+    {
+      "judul": "Film Horor Rest Area, tak Sekadar Andalkan Jumpscare",
+      "link_berita": "https://ameera.republika.co.id/berita/t1acip425/film-horor-rest-area-tak-sekadar-andalkan-jumpscare",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:18:54"
+    },
+    {
+      "judul": "Mentan Dorong Hilirisasi Pertanian, Target Serap 1,6 Juta Tenaga Kerja",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1ac98423/mentan-dorong-hilirisasi-pertanian-target-serap-16-juta-tenaga-kerja",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:12:54"
+    },
+    {
+      "judul": "Petani Lokal Jadi Pemasok MBG, Pemprov Kaltim: Untuk Memberdayakan Ekonomi Petani",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1ac4s451/petani-lokal-jadi-pemasok-mbg-pemprov-kaltim-untuk-memberdayakan-ekonomi-petani",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:09:54"
+    },
+    {
+      "judul": "Dedi Mulyadi Intruksikan Tunggakan PBB Dihapuskan, Ini Nilainya di Kota Cimahi",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1abzu512/dedi-mulyadi-intruksikan-tunggakan-pbb-dihapuskan-ini-nilainya-di-kota-cimahi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:06:54"
+    },
+    {
+      "judul": "KDM Tunda Pencairan Dana Desa Kabupaten Sukabumi Imbas Kasus Bayi Meninggal Tubuhnya Penuh Cacing",
+      "link_berita": "https://news.republika.co.id/berita/t1abyp409/kdm-tunda-pencairan-dana-desa-kabupaten-sukabumi-imbas-kasus-bayi-meninggal-tubuhnya-penuh-cacing",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:06:54"
+    },
+    {
+      "judul": "Bahagia Bersama Rasulullah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1abxb458/bahagia-bersama-rasulullah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:05:54"
+    },
+    {
+      "judul": "Tunjangan Perumahan Tetap Diberikan Meski Anggota DPR Punya Rumah di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/t1abr4487/tunjangan-perumahan-tetap-diberikan-meski-anggota-dpr-punya-rumah-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:01:54"
+    },
+    {
+      "judul": "Persib Segera Umumkan Pemain Baru Lagi",
+      "link_berita": "https://skor.republika.co.id/posts/699984/persib-segera-umumkan-pemain-baru-lagi",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:59:54"
+    },
+    {
+      "judul": "Akhlak Nabi di Kala Perang dan Menang",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1abmp458/akhlak-nabi-di-kala-perang-dan-menang",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:58:54"
+    },
+    {
+      "judul": "Ahmad Dhani Komentari Kenaikan Tarif Royalti Karaoke",
+      "link_berita": "https://ameera.republika.co.id/berita/t1ablz425/ahmad-dhani-komentari-kenaikan-tarif-royalti-karaoke",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:58:54"
+    },
+    {
+      "judul": "Israel Caplok Gaza, Profesor Yudaisme: Negara Gila, Dipimpin Orang Orang Fanatik Tanpa Logika",
+      "link_berita": "https://news.republika.co.id/berita/t1abio451/israel-caplok-gaza-profesor-yudaisme-negara-gila-dipimpin-orang-orang-fanatik-tanpa-logika",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:56:54"
+    },
+    {
+      "judul": "Pertamina, Elnusa, Pindad Luncurkan Alat Inspeksi Pipa Migas Pertama Buatan Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1abfi423/pertamina-elnusa-pindad-luncurkan-alat-inspeksi-pipa-migas-pertama-buatan-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:54:54"
+    },
+    {
+      "judul": "Prabowo Panggil Mendadak Sejumlah Menteri Bahas Tambang Ilegal",
+      "link_berita": "https://news.republika.co.id/berita/t1abf4484/prabowo-panggil-mendadak-sejumlah-menteri-bahas-tambang-ilegal",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:54:54"
+    },
+    {
+      "judul": "Cara Komunikasi Nabi Muhammad, Efektif-Afektif",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1abdk458/cara-komunikasi-nabi-muhammad-efektifafektif",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:53:54"
+    },
+    {
+      "judul": "Aktivitas Kegempaan Sesar Lembang Meningkat, BMKG Ingatkan Ancaman dan Dampaknya",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1abc5512/aktivitas-kegempaan-sesar-lembang-meningkat-bmkg-ingatkan-ancaman-dan-dampaknya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:52:54"
+    },
+    {
+      "judul": "Indonesia akan Bangun Rumah Sakit Ibu dan Anak di Gaza",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1a5oh430/indonesia-akan-bangun-rumah-sakit-ibu-dan-anak-di-gaza",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:47:54"
+    },
+    {
+      "judul": "Pengusaha Karaoke di Semarang Keluhkan Tarif Royalti Rp15 Juta per Room",
+      "link_berita": "https://ameera.republika.co.id/berita/t1ab2q425/pengusaha-karaoke-di-semarang-keluhkan-tarif-royalti-rp15-juta-per-room",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:46:54"
+    },
+    {
+      "judul": "Penjelasan Pusdokkes Polri Atas Simpulan CA Bukan Anak Biologis Ridwan Kamil",
+      "link_berita": "https://news.republika.co.id/berita/t1aawu409/penjelasan-pusdokkes-polri-atas-simpulan-ca-bukan-anak-biologis-ridwan-kamil",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:43:54"
+    },
+    {
+      "judul": "Ini 3 Metode Nabi Muhammad Dalam Mengajar",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1aath458/ini-3-metode-nabi-muhammad-dalam-mengajar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:41:54"
+    },
+    {
+      "judul": "Menhan Ajak Menkeu, Menkes, dan Mentan Tinjau Yonif TP 834 di Bekasi",
+      "link_berita": "https://news.republika.co.id/berita/t1aat1484/menhan-ajak-menkeu-menkes-dan-mentan-tinjau-yonif-tp-834-di-bekasi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:41:54"
+    },
+    {
+      "judul": "Keluarga Perlu Peka, Ini Tanda Awal Gangguan Mental pada Remaja",
+      "link_berita": "https://inforemaja.id/posts/699964/keluarga-perlu-peka-ini-tanda-awal-gangguan-mental-pada-remaja",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:38:54"
+    },
+    {
+      "judul": "Inklusi di Hari Pramuka, Anak Disabilitas Angkat Bendera",
+      "link_berita": "https://tv.republika.co.id/berita/t1aamx313/inklusi-di-hari-pramuka-anak-disabilitas-angkat-bendera",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:37:54"
+    },
+    {
+      "judul": "Visual Film Merah Putih One for All Dinilai Lemah, Pakar: Pesan Nasionalisme Jadi tak Efektif",
+      "link_berita": "https://ameera.republika.co.id/berita/t1aamx425/visual-film-merah-putih-one-for-all-dinilai-lemah-pakar-pesan-nasionalisme-jadi-tak-efektif",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:37:54"
+    },
+    {
+      "judul": "OJK Atur Ulang Rekening Dormant, Dana Nasabah Dipastikan Aman",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1aajg423/ojk-atur-ulang-rekening-dormant-dana-nasabah-dipastikan-aman",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:35:54"
+    },
+    {
+      "judul": "Rakornas Kadin 2025 Tegaskan Peran UMKM dan Koperasi sebagai Sokoguru Ekonomi Rakyat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1a9f3349/rakornas-kadin-2025-tegaskan-peran-umkm-dan-koperasi-sebagai-sokoguru-ekonomi-rakyat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:34:54"
+    },
+    {
+      "judul": "Hari Jadi Jawa Barat, Momentum Bangun Jabar Istimewa, Lembur Diurus Kota Ditata",
+      "link_berita": "https://bandung24jam.id/posts/699966/hari-jadi-jawa-barat-momentum-bangun-jabar-istimewa-lembur-diurus-kota-ditata",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:31:54"
+    },
+    {
       "judul": "BI Turunkan Perkiraan Pertumbuhan Ekonomi Global Jadi di Bawah 3 Persen pada 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1aa8w423/bi-turunkan-perkiraan-pertumbuhan-ekonomi-global-jadi-di-bawah-3-persen-pada-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:29:21"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:28:54"
     },
     {
       "judul": "BI Yakin Ekonomi Semester II Menguat, Ini Faktor Pendorongnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1aa7t416/bi-yakin-ekonomi-semester-ii-menguat-ini-faktor-pendorongnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:28:42"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:28:54"
     },
     {
       "judul": "Materialists, Film Komedi Romantis yang Bikin 'Mikir'",
       "link_berita": "https://ameera.republika.co.id/berita/t1aa33425/materialists-film-komedi-romantis-yang-bikin-mikir",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:25:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:25:54"
     },
     {
       "judul": "Jago Menafsirkan \u2018Mimpi Kosong\u2019, Nabi yang Semula Narapidana ini Jadi Penasihat Raja",
       "link_berita": "https://iqra.republika.co.id/berita/t1aa2z451/jago-menafsirkan-mimpi-kosong-nabi-yang-semula-narapidana-ini-jadi-penasihat-raja",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:25:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:25:54"
     },
     {
       "judul": "Keberkahan Ilmu, Apa Saja Faktornya?",
       "link_berita": "https://khazanah.republika.co.id/berita/t1aa0c458/keberkahan-ilmu-apa-saja-faktornya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "BI Putuskan Turunkan Suku Bunga Jadi 5 Persen pada Agustus 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1a9qg423/bi-putuskan-turunkan-suku-bunga-jadi-5-persen-pada-agustus-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:18:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Jalan Hidup Berubah Berkat Nasihat Guru",
       "link_berita": "https://khazanah.republika.co.id/berita/t1a9nw458/jalan-hidup-berubah-berkat-nasihat-guru",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:16:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Guru Manshur, Ulama Besar dari Betawi",
       "link_berita": "https://khazanah.republika.co.id/berita/t1a9go458/guru-manshur-ulama-besar-dari-betawi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:12:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Soal Kampung Haji, Menag Sebut Masuk Tahap Penyusunan Desain",
       "link_berita": "https://topnews62.com/posts/699941/soal-kampung-haji-menag-sebut-masuk-tahap-penyusunan-desain",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:09:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Cara Orang Tua dan Sekolah Bekerja Sama Lindungi Mental Remaja",
       "link_berita": "https://inforemaja.id/posts/699955/cara-orang-tua-dan-sekolah-bekerja-sama-lindungi-mental-remaja",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:07:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Jaga Keanekaragaman Hayati, Telkom Aktif Tanam Bibit Pohon di Berbagai Daerah",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1a98j472/jaga-keanekaragaman-hayati-telkom-aktif-tanam-bibit-pohon-di-berbagai-daerah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:07:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Panglima TNI Rotasi Ratusan Perwira, Ini Empat Jabatan Strategis yang Dirotasi Termasuk Kapuspen",
       "link_berita": "https://news.republika.co.id/berita/t1a97k409/panglima-tni-rotasi-ratusan-perwira-ini-empat-jabatan-strategis-yang-dirotasi-termasuk-kapuspen",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:06:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Wahai Para Guru, Tirulah Metode Imam Syafii!",
       "link_berita": "https://khazanah.republika.co.id/berita/t1a96u458/wahai-para-guru-tirulah-metode-imam-syafii",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:06:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Buntut Kasus Balita Meninggal dengan Tubuh Dipenuhi Cacing, Dedi Mulyadi Warning Bupati/Wali Kota",
       "link_berita": "https://rejabar.republika.co.id/berita/t1a932512/buntut-kasus-balita-meninggal-dengan-tubuh-dipenuhi-cacingdedi-mulyadi-warning-bupatiwali-kota",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:04:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Ini Adab Guru Menurut Imam Ghazali",
       "link_berita": "https://khazanah.republika.co.id/berita/t1a8wf458/ini-adab-guru-menurut-imam-ghazali",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:00:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "IKHEF 2025 Dorong Akselerasi Diplomasi Pendidikan Indonesia\u2013Korea",
       "link_berita": "https://news.republika.co.id/berita/t1a8vy349/ikhef-2025-dorong-akselerasi-diplomasi-pendidikan-indonesiakorea",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:59:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Pertamina Patra Niaga Kerahkan 12 Mobil Tangki Tambahan, Amankan Distribusi BBM di Labuan Bajo",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1a8u6522/pertamina-patra-niaga-kerahkan-12-mobil-tangki-tambahan-amankan-distribusi-bbm-di-labuan-bajo",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:58:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Pernah Mimpi Melihat Ular? Tak Selalu Buruk, Begini Tafsirannya Menurut Ulama",
       "link_berita": "https://iqra.republika.co.id/berita/t1a8s0451/pernah-mimpi-melihat-ular-tak-selalu-buruk-begini-tafsirannya-menurut-ulama",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:57:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Bea Cukai Berikan Fasilitas Kawasan Berikat kepada Dua Perusahaan di Jateng",
       "link_berita": "https://republika.co.id/berita//t1a8qg472/bea-cukai-berikan-fasilitas-kawasan-berikat-kepada-dua-perusahaan-di-jateng",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:56:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 08:24:54"
     },
     {
       "judul": "Lewat NSC dan IEP 3+1, UNM Cetak Generasi Pengusaha Muda yang Siap Menang di KBMK 2025",
       "link_berita": "https://news.republika.co.id/berita/t1a80c368/lewat-nsc-dan-iep-31-unm-cetak-generasi-pengusaha-muda-yang-siap-menang-di-kbmk-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:52:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:24:54"
     },
     {
       "judul": "Tumpukan Sampah Berserakan di Depan Kantor Bupati Pandeglang",
       "link_berita": "https://visual.republika.co.id/berita/t1a8iw375/tumpukan-sampah-berserakan-di-depan-kantor-bupati-pandeglang",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:51:39"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:24:54"
     },
     {
-      "judul": "Jadi Hacker Baik, Anak Muda Karawang Buktikan Etika Siber Lebih Penting dari Segalanya",
-      "link_berita": "https://news.republika.co.id/berita/t1a8c9472/jadi-hacker-baik-anak-muda-karawang-buktikan-etika-siber-lebih-penting-dari-segalanya",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:48:39"
-    },
-    {
-      "judul": "Imbas Kasus Balita Meninggal Penuh Cacing, KDM Ancam Pangkas Anggaran Pemkab",
-      "link_berita": "https://news.republika.co.id/berita/t1a89t377/imbas-kasus-balita-meninggal-penuh-cacing-kdm-ancam-pangkas-anggaran-pemkab",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:46:39"
-    },
-    {
-      "judul": "Bareskrim Umumkan Hasil Tes DNA: Ridwan Kamil Bukan Ayah Kandung Anak Lisa Mariana",
-      "link_berita": "https://news.republika.co.id/berita/t1a7yp409/bareskrim-umumkan-hasil-tes-dna-ridwan-kamil-bukan-ayah-kandung-anak-lisa-mariana",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:39:39"
-    },
-    {
-      "judul": "24 Tahun UNM, 80 Tahun RI: Pendidikan dan Inovasi untuk Masa Depan Bangsa",
-      "link_berita": "https://news.republika.co.id/berita/t1a7y5472/24-tahun-unm-80-tahun-ri-pendidikan-dan-inovasi-untuk-masa-depan-bangsa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:39:39"
-    },
-    {
-      "judul": "PLN Dorong Pemberdayaan Perempuan Lewat Seminar Women Empowerment di Pacitan",
-      "link_berita": "https://sekitarsurabaya.com/posts/699894/pln-dorong-pemberdayaan-perempuan-lewat-seminar-women-empowerment-di-pacitan",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:36:39"
-    },
-    {
-      "judul": "Bayi 3 Tahun Meninggal Penuh Cacing Gelang, RSUD Syamsudin: Kasus Raya Jarang Ditemui",
-      "link_berita": "https://news.republika.co.id/berita/t1a7tn377/bayi-3-tahun-meninggal-penuh-cacing-gelang-rsud-syamsudin-kasus-raya-jarang-ditemui",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:36:39"
-    },
-    {
-      "judul": "Pemkot Cimahi Gratiskan Biaya BPHTB dan PBG, Ini Syaratnya",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1a7s6512/pemkot-cimahi-gratiskan-biaya-bphtb-dan-pbg-ini-syaratnya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:35:39"
-    },
-    {
-      "judul": "Penyakit Jantung Bawaan Bisa Menutup Sendiri, Ini Kriterianya",
-      "link_berita": "https://ameera.republika.co.id/berita/t1a7rx370/penyakit-jantung-bawaan-bisa-menutup-sendiri-ini-kriterianya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:35:39"
-    },
-    {
-      "judul": "Kenali Gejala Duck Syndrome, Jujur dan Mau Bercerita jadi Jurus Jitu Mengatasinya",
-      "link_berita": "https://diagnosa.id/posts/699910/kenali-gejala-duck-syndrome-jujur-dan-mau-bercerita-jadi-jurus-jitu-mengatasinya",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:35:39"
-    },
-    {
-      "judul": "Gempa Poso, Kepala BNPB: Perkuat Struktur Bangunan dan Ketahanan Rumah",
-      "link_berita": "https://topnews62.com/posts/699914/gempa-poso-kepala-bnpb-perkuat-struktur-bangunan-dan-ketahanan-rumah",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:35:39"
-    },
-    {
-      "judul": "House of Guinness, Perjuangan Mempertahankan Emas Hitam Yang Diarahkan Sutradara Peaky Blinders",
-      "link_berita": "https://filmusiku.com/posts/699916/house-of-guinness-perjuangan-mempertahankan-emas-hitam-yang-diarahkan-sutradara-peaky-blinders",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:35:39"
-    },
-    {
-      "judul": "Dua Warga Meninggal, Puluhan Rumah Rusak Akibat Gempa Poso",
-      "link_berita": "https://bisnistime.com/posts/699918/dua-warga-meninggal-puluhan-rumah-rusak-akibat-gempa-poso",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:34:39"
-    },
-    {
-      "judul": "Tiga EV Niaga Baru JAC Motors Resmi Mengaspal di Indonesia, Bisa Cas 2080 Kurang dari 1 Jam!",
-      "link_berita": "https://motoresto.id/posts/699900/tiga-ev-niaga-baru-jac-motors-resmi-mengaspal-di-indonesia-bisa-cas-2080-kurang-dari-1-jam",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:34:39"
-    },
-    {
-      "judul": "Pesona Masjid Al Akbar Surabaya di Mata Para Turis Mancanegara",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1a7oj483/pesona-masjid-al-akbar-surabaya-di-mata-para-turis-mancanegara",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:33:39"
-    },
-    {
-      "judul": "5 Pertanyaan yang Acap Ditanyakan Terkait Siklus Menstruasi",
-      "link_berita": "https://bisnistime.com/posts/699922/5-pertanyaan-yang-acap-ditanyakan-terkait-siklus-menstruasi",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:33:39"
-    },
-    {
-      "judul": "Relokasi Kabel Udara di Kota Cilegon Dimulai, Wali Kota: Kedepan Tidak Ada Lagi Kabel Menjuntai",
-      "link_berita": "https://magentatoday.id/posts/699928/relokasi-kabel-udara-di-kota-cilegon-dimulai-wali-kota-kedepan-tidak-ada-lagi-kabel-menjuntai",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:33:39"
-    },
-    {
-      "judul": "Inovasi Green Technology, Ketika Teknologi dan Lingkungan Berkolaborasi",
-      "link_berita": "https://news.republika.co.id/berita/t1a7nu368/inovasi-green-technology-ketika-teknologi-dan-lingkungan-berkolaborasi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:33:39"
-    },
-    {
-      "judul": "667 Ribu Orang Gunakan Kereta Api pada Long Weekend Kemerdekaan",
-      "link_berita": "https://kreta.id/posts/699938/667-ribu-orang-gunakan-kereta-api-pada-long-weekend-kemerdekaan",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:32:39"
-    },
-    {
-      "judul": "Tak Gentar Digertak, Australia Sindir Netanyahu Frustrasi Makin Dikucilkan Dunia Internasional",
-      "link_berita": "https://news.republika.co.id/berita/t1a7mu409/tak-gentar-digertak-australia-sindir-netanyahu-frustrasi-makin-dikucilkan-dunia-internasional",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:32:39"
-    },
-    {
-      "judul": "Dari Kampus Digital Bisnis untuk Negeri: Membangun Generasi Emas Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/t1a7hh472/dari-kampus-digital-bisnis-untuk-negeri-membangun-generasi-emas-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Cyber University Siap Lepas Mahasiswa ke Malaysia, Wujudkan Misi Go International",
-      "link_berita": "https://news.republika.co.id/berita/t1a7ap368/cyber-university-siap-lepas-mahasiswa-ke-malaysia-wujudkan-misi-go-international",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Niat Gandakan Uang, Pasutri di Tegal Tewas Diracun Dukun Pengganda Uang",
-      "link_berita": "https://news.republika.co.id/berita/t1a77h377/niat-gandakan-uang-pasutri-di-tegal-tewas-diracun-dukun-pengganda-uang",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Invensi Pangan Lokal: Tepung Melinjo Karya Dosen UMJ Terima Paten Granted",
-      "link_berita": "https://news.republika.co.id/berita/t1a6y0472/invensi-pangan-lokal-tepung-melinjo-karya-dosen-umj-terima-paten-granted",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Gempa Bumi Magnitudo 1,7 Guncang Bandung Barat Akibat Sesar Lembang",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1a6on512/gempa-bumi-magnitudo-17-guncang-bandung-barat-akibat-sesar-lembang",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Bayi 3 Tahun Meninggal Penuh Cacing Gelang Ternyata Ibu ODGJ, Ayah TBC, Dedi Sentil Pemkab Sukabumi",
-      "link_berita": "https://news.republika.co.id/berita/t1a6ld377/bayi-3-tahun-meninggal-penuh-cacing-gelang-ternyata-ibu-odgj-ayah-tbc-dedi-sentil-pemkab-sukabumi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "10 Penjualan Termahal Parma, Giovanni Leoni Belum Mampu Lewati 3 Legenda",
-      "link_berita": "https://skor.republika.co.id/posts/699943/10-penjualan-termahal-parma-giovanni-leoni-belum-mampu-lewati-3-legenda",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Dedi Mulyadi Geram ke Bupati Sukabumi Ada Balita Meninggal Dipenuhi Cacing Gelang",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1a6f3512/dedi-mulyadi-geram-ke-bupati-sukabumi-ada-balita-meninggal-dipenuhi-cacing-gelang",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Perhutanan Sosial Disiapkan Jadi Pemasok Pangan Lokal untuk MBG",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1a6as416/perhutanan-sosial-disiapkan-jadi-pemasok-pangan-lokal-untuk-mbg",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 07:29:39"
-    },
-    {
-      "judul": "Dorong Industri Legal, Bea Cukai Malang Terbitkan NPPBKC untuk Dua Perusahaan Rokok",
-      "link_berita": "https://republika.co.id/berita//t1a63e472/dorong-industri-legal-bea-cukai-malang-terbitkan-nppbkc-untuk-dua-perusahaan-rokok",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 06:29:39"
-    },
-    {
-      "judul": "Materialists, Film Komedi Romantis yang Bikin 'Mikir'",
-      "link_berita": "https://ameera.republika.co.id/berita/t1aa33425/materialists-film-komedi-romantis-yang-bikin-mikir",
+      "judul": "Film Horor Rest Area, tak Sekadar Andalkan Jumpscare",
+      "link_berita": "https://ameera.republika.co.id/berita/t1acip425/film-horor-rest-area-tak-sekadar-andalkan-jumpscare",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 15:25:00"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 16:18:00"
     },
     {
       "judul": "Pemkot Padang Kaji Sanksi Sosial bagi Pembuang Sampah Sembarangan",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 20 Aug 2025, 13:37:00"
     },
     {
-      "judul": "BI Turunkan Perkiraan Pertumbuhan Ekonomi Global Jadi di Bawah 3 Persen pada 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1aa8w423/bi-turunkan-perkiraan-pertumbuhan-ekonomi-global-jadi-di-bawah-3-persen-pada-2025",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 15:29:00"
+      "judul": "BI Prediksi FFR Turun Dua Kali Semester II 2025, Ekonomi Global Melambat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1acm8423/bi-prediksi-ffr-turun-dua-kali-semester-ii-2025-ekonomi-global-melambat",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 16:20:00"
     },
     {
       "judul": "BPJPH Gratiskan Sertifikat Halal untuk Warteg Sampai Warung Padang, Ini Kriterianya",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 20 Aug 2025, 09:43:00"
     },
     {
-      "judul": "Panglima TNI Rotasi Ratusan Perwira, Ini Empat Jabatan Strategis yang Dirotasi Termasuk Kapuspen",
-      "link_berita": "https://news.republika.co.id/berita/t1a97k409/panglima-tni-rotasi-ratusan-perwira-ini-empat-jabatan-strategis-yang-dirotasi-termasuk-kapuspen",
+      "judul": "KDM Tunda Pencairan Dana Desa Kabupaten Sukabumi Imbas Kasus Bayi Meninggal Tubuhnya Penuh Cacing",
+      "link_berita": "https://news.republika.co.id/berita/t1abyp409/kdm-tunda-pencairan-dana-desa-kabupaten-sukabumi-imbas-kasus-bayi-meninggal-tubuhnya-penuh-cacing",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 20 Aug 2025, 15:06:00"
+      "tanggal_terbit": "Wednesday, 20 Aug 2025, 16:06:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 20 Aug 2025, 15:29:39"
+  "waktu_scraping": "Wednesday, 20 Aug 2025, 16:24:54"
 }
