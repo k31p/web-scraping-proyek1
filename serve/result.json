@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Ketua UISJP: Mengundang Profesor Berkowitz Khianati Sembilan Nilai UI",
+      "link_berita": "https://news.republika.co.id/berita/t1jm2t377/ketua-uisjp-mengundang-profesor-berkowitz-khianati-sembilan-nilai-ui"
+    },
+    {
       "judul": "Menkum Ungkap Alasan Presiden Ubah BP Haji Menjadi Kementerian",
       "link_berita": "https://khazanah.republika.co.id/berita/t1jis0483/menkum-ungkap-alasan-presiden-ubah-bp-haji-menjadi-kementerian"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Anak STM Ikut Demo di Depan Gedung Dewan, Bawa Poster 'Bubarkan DPR'",
       "link_berita": "https://news.republika.co.id/berita/t1jcll377/anak-stm-ikut-demo-di-depan-gedung-dewan-bawa-poster-bubarkan-dpr"
-    },
-    {
-      "judul": "UNICEF: Kelaparan di Gaza Disebabkan Blokade, Bukan karena Kekurangan Pangan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1j9o8483/unicef-kelaparan-di-gaza-disebabkan-blokade-bukan-karena-kekurangan-pangan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Mengenal Sakratul Maut, Siksaan dan Kedamaian di Ujung Kehidupan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1jm3l430/mengenal-sakratul-maut-siksaan-dan-kedamaian-di-ujung-kehidupan"
+    },
     {
       "judul": "Forum Sekolah Swasta Cabut Gugatan Terhadap KDM, Ini Kesepakatan Soal Kebijakan 50 Siswa Per Kelas",
       "link_berita": "https://news.republika.co.id/berita/t1jipq409/forum-sekolah-swasta-cabut-gugatan-terhadap-kdm-ini-kesepakatan-soal-kebijakan-50-siswa-per-kelas"
@@ -77,312 +81,308 @@
     {
       "judul": "PSIM Yogyakarta Tahan Imbang Persib Bandung 1-1",
       "link_berita": "https://visual.republika.co.id/berita/t1i5n9375/psim-yogyakarta-tahan-imbang-persib-bandung-11"
-    },
-    {
-      "judul": "Kota Bandung Tertinggi Kasus DBD se Jawa Barat",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1i5nw512/kota-bandung-tertinggi-kasus-dbd-se-jawa-barat"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Program Strategis Penguatan Desa, Wamendagri: P3PD Perbaiki Tata Kelola dan Kualitas Pembangunan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1jor3451/program-strategis-penguatan-desa-wamendagri-p3pd-perbaiki-tata-kelola-dan-kualitas-pembangunan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:21:08"
+    },
+    {
+      "judul": "Tol Dalam Kota Ditutup Total Imbas Demo di Gedung DPR/MPR",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1joo5370/tol-dalam-kota-ditutup-total-imbas-demo-di-gedung-dprmpr",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:19:08"
+    },
+    {
+      "judul": "Islam Bersemi di Thailand Selatan, Ini Sejarahnya",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1jok0458/islam-bersemi-di-thailand-selatan-ini-sejarahnya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:17:08"
+    },
+    {
+      "judul": "Polisi Siap Tetapkan Tersangka dalam Kasus Kebakaran Sumur Minyak Blora",
+      "link_berita": "https://rejogja.republika.co.id/berita/t1jois282/polisi-siap-tetapkan-tersangka-dalam-kasus-kebakaran-sumur-minyak-blora",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:16:08"
+    },
+    {
+      "judul": "Kerja Sama Indonesia\u2013Jepang Lewat QRIS dan LCT Jadi Babak Baru Digital Payment",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1joee370/kerja-sama-indonesiajepang-lewat-qris-dan-lct-jadi-babak-baru-digital-payment",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:13:08"
+    },
+    {
+      "judul": "Pesona Masjid Agung Isfahan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1jo8d458/pesona-masjid-agung-isfahan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:10:08"
+    },
+    {
+      "judul": "UII Cetak Insinyur Tangguh Bencana Lewat Program Internasional 'GeoAdventure'",
+      "link_berita": "https://rejogja.republika.co.id/berita/t1jo4k291/uii-cetak-insinyur-tangguh-bencana-lewat-program-internasional-geoadventure",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:07:08"
+    },
+    {
+      "judul": "Kelulusan 12 Peserta PPPK di Kota Cimahi Dibatalkan, Ini Penyebabnya",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1jo29512/kelulusan-12-peserta-pppk-di-kota-cimahi-dibatalkan-ini-penyebabnya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:06:08"
+    },
+    {
+      "judul": "Warga Pati Gelar Aksi Kirim Surat Massal ke KPK",
+      "link_berita": "https://visual.republika.co.id/berita/t1jo1x375/warga-pati-gelar-aksi-kirim-surat-massal-ke-kpk",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:06:08"
+    },
+    {
+      "judul": "Keistimewaan Penduduk Madinah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1jnyj458/keistimewaan-penduduk-madinah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:04:08"
+    },
+    {
+      "judul": "Penerjamah dan Organisasi Jasa Bahasa Ikut Gugat UU Bahasa",
+      "link_berita": "https://news.republika.co.id/berita/t1jnln318/penerjamah-dan-organisasi-jasa-bahasa-ikut-gugat-uu-bahasa",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 10:03:08"
+    },
+    {
+      "judul": "Nikmat dan Siksa di Alam Barzakh, Begini Penjelasan Alquran dan Hadits",
+      "link_berita": "https://iqra.republika.co.id/berita/t1jng5430/nikmat-dan-siksa-di-alam-barzakh-begini-penjelasan-alquran-dan-hadits",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:53:08"
+    },
+    {
+      "judul": "Miliano Jonathans Segera Ucap Sumpah WNI, Keluarga: Kita Orang Depok Bangga",
+      "link_berita": "https://news.republika.co.id/berita/t1jn30409/miliano-jonathans-segera-ucap-sumpah-wni-keluarga-kita-orang-depok-bangga",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:45:08"
+    },
+    {
+      "judul": "INDEF: Wakaf Uang Bisa Jadi Instrumen Fiskal, Tapi Belum Tergarap di RAPBN",
+      "link_berita": "https://sharia.republika.co.id/berita/t1jmzx370/indef-wakaf-uang-bisa-jadi-instrumen-fiskal-tapi-belum-tergarap-di-rapbn",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:43:08"
+    },
+    {
+      "judul": "Pemerintah Investigasi 1,4 Juta Mobil Honda, Ini Sumber Masalahnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1jmwd468/pemerintah-investigasi-14-juta-mobil-honda-ini-sumber-masalahnya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:41:08"
+    },
+    {
+      "judul": "Menlu Sugiono Raih Bintang Mahaputera Utama, Tiga Eks Menlu Dapat Bintang Mahaputera Adipurna",
+      "link_berita": "https://news.republika.co.id/berita/t1jmtm484/menlu-sugiono-raih-bintang-mahaputera-utama-tiga-eks-menlu-dapat-bintang-mahaputera-adipurna",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:39:08"
+    },
+    {
+      "judul": "SRN Jadi Instrumen Transparansi Aksi Iklim Indonesia",
+      "link_berita": "https://esgnow.republika.co.id/berita/t1jmnf416/srn-jadi-instrumen-transparansi-aksi-iklim-indonesia",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:36:08"
+    },
+    {
+      "judul": "Sumur Minyak Warga yang Terbakar di Blora akan Ditutup dengan Cara Disemen",
+      "link_berita": "https://rejogja.republika.co.id/berita/t1jml4282/sumur-minyak-warga-yang-terbakar-di-blora-akan-ditutup-dengan-cara-disemen",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:34:08"
+    },
+    {
+      "judul": "Menkum: Pembentukan Kementerian Haji dan Umroh Demi Perbaikan Sistem",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1jmf9430/menkum-pembentukan-kementerian-haji-dan-umroh-demi-perbaikan-sistem",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:31:08"
+    },
+    {
       "judul": "Sekolah Swasta Cabut Gugatan Kebijakan Dedi Mulyadi Soal 50 Siswa Per Kelas di PTUN, Ini Penyebabnya",
       "link_berita": "https://rejabar.republika.co.id/berita/t1jm5r512/sekolah-swasta-cabut-gugatan-kebijakan-dedi-mulyadi-soal-50-siswa-per-kelas-di-ptun-ini-penyebabnya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:03"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Mengenal Sakratul Maut, Siksaan dan Kedamaian di Ujung Kehidupan",
       "link_berita": "https://khazanah.republika.co.id/berita/t1jm3l430/mengenal-sakratul-maut-siksaan-dan-kedamaian-di-ujung-kehidupan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:23:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Ketua UISJP: Mengundang Profesor Berkowitz Khianati Sembilan Nilai UI",
       "link_berita": "https://news.republika.co.id/berita/t1jm2t377/ketua-uisjp-mengundang-profesor-berkowitz-khianati-sembilan-nilai-ui",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:23:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Gandeng Komunitas Tuli Mengaji, Daarul Qur'an Ajarkan Alquran dengan Bahasa Isyarat untuk Teman Tuli",
       "link_berita": "https://rejogja.republika.co.id/berita/t1jm2t291/gandeng-komunitas-tuli-mengaji-daarul-quran-ajarkan-alquran-dengan-bahasa-isyarat-untuk-teman-tuli",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:23:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Pemprov DKI Putar Otak Atasi Macet TB Simatupang",
       "link_berita": "https://news.republika.co.id/berita/t1jly5393/pemprov-dki-putar-otak-atasi-macet-tb-simatupang",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:20:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Komunitas NPD Survivor Ajak Penyintas Ubah Trauma Jadi Kekuatan",
       "link_berita": "https://ameera.republika.co.id/berita/t1jlt6416/komunitas-npd-survivor-ajak-penyintas-ubah-trauma-jadi-kekuatan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:17:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Tiga Hadis Ungkap Tanda Kiamat Sudah Dekat",
       "link_berita": "https://khazanah.republika.co.id/berita/t1jlrk458/tiga-hadis-ungkap-tanda-kiamat-sudah-dekat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:16:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Guru Besar UIN Syarif Hidayatullah: Deep Learning Membuat Anak Senang Belajar",
       "link_berita": "https://news.republika.co.id/berita/t1jlip451/guru-besar-uin-syarif-hidayatullah-deep-learning-membuat-anak-senang-belajar",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:11:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Brigadir Esco Ditemukan Tewas dengan Leher Terrikat Tali, Ada Luka Hantaman Benda Tumpul",
       "link_berita": "https://news.republika.co.id/berita/t1jli2377/brigadir-esco-ditemukan-tewas-dengan-leher-terrikat-tali-ada-luka-hantaman-benda-tumpul",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:10:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "KLB Campak di Sumenep Sebabkan 17 Meninggal, 16 di Antaranya Belum Pernah Imunisasi",
       "link_berita": "https://news.republika.co.id/berita/t1jlh0370/klb-campak-di-sumenep-sebabkan-17-meninggal-16-di-antaranya-belum-pernah-imunisasi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:09:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "FK UII Gelar Pemeriksaan Napza Gratis untuk Pengurus Panti Asuhan Muhammadiyah & 'Aisyiyah se-DIY",
       "link_berita": "https://rejogja.republika.co.id/berita/t1jlgs291/fk-uii-gelar-pemeriksaan-napza-gratis-untuk-pengurus-panti-asuhan-muhammadiyah-aisyiyah-sediy",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:09:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Serangan Israel di RS Nasser Gaza, 15 Orang Termasuk 4 Jurnalis Gugur",
       "link_berita": "https://news.republika.co.id/berita/t1jl9h370/serangan-israel-di-rs-nasser-gaza-15-orang-termasuk-4-jurnalis-gugur",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:05:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Lembutkan, Jangan Patahkan",
       "link_berita": "https://retizen.republika.co.id/posts/700933/lembutkan-jangan-patahkan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:04:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Kementerian Haji dan Umrah Bagian Visi Presiden Prabowo Sejak 10 Tahun Lalu",
       "link_berita": "https://rejogja.republika.co.id/berita/t1jkfn282/kementerian-haji-dan-umrah-bagian-visi-presiden-prabowo-sejak-10-tahun-lalu",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:04:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Perkuat Inklusi Keuangan Digital, BRI Luncurkan Kartu Debit Co-Branding BRI X INDODAX",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1jkx2368/perkuat-inklusi-keuangan-digital-bri-luncurkan-kartu-debit-cobranding-bri-x-indodax",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:58:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Catatan Cak AT: Rukun Digital Umrah-Haji",
       "link_berita": "https://ruzkaindonesia.id/posts/700909/catatan-cak-at-rukun-digital-umrah-haji",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:57:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Tiga Jurnalis Kembali Syahid Dibunuh Israel di Gaza",
       "link_berita": "https://news.republika.co.id/berita/t1jkvc393/tiga-jurnalis-kembali-syahid-dibunuh-israel-di-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:56:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Aliansi Balikpapan Melawan: Batalkan Kenaikan Pajak Bumi dan Bangunan",
       "link_berita": "https://sekitarkaltim.id/posts/700913/aliansi-balikpapan-melawan-batalkan-kenaikan-pajak-bumi-dan-bangunan",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:56:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Tembus Ratusan Miliar, Udang Windu Jadi Primadona Ekspor Perikanan Kaltim",
       "link_berita": "https://sekitarkaltim.id/posts/700924/tembus-ratusan-miliar-udang-windu-jadi-primadona-ekspor-perikanan-kaltim",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:56:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Paripurna DPRD Sukabumi Setujui Perubahan APBD 2025, Salah Satunya Sepakati P2RW",
       "link_berita": "https://sukabumikini.com/posts/700948/paripurna-dprd-sukabumi-setujui-perubahan-apbd-2025-salah-satunya-sepakati-p2rw",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:55:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:08"
     },
     {
       "judul": "Demonstran 25 Agustus Bantah Dibayar: 'Saya Datang Kemauan Sendiri, Mereka Merampok Rakyat'",
       "link_berita": "https://news.republika.co.id/berita/t1jko2377/demonstran-25-agustus-bantah-dibayar-saya-datang-kemauan-sendiri-mereka-merampok-rakyat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:52:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Mahasiswa Doktoral UII Usulkan Model Penerapan Maqashid Syariah Integratif Berwawasan Pancasila",
       "link_berita": "https://rejogja.republika.co.id/berita/t1jkme291/mahasiswa-doktoral-uii-usulkan-model-penerapan-maqashid-syariah-integratif-berwawasan-pancasila",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:51:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Indonesia dan Korea Selatan Perkuat Sinergi Produk Halal",
       "link_berita": "https://sharia.republika.co.id/berita/t1jkfi370/indonesia-dan-korea-selatan-perkuat-sinergi-produk-halal",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:47:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Mark Ruffalo Minta Pemimpin Dunia Atasi Kelaparan di Gaza",
       "link_berita": "https://tv.republika.co.id/berita/t1jkb6313/mark-ruffalo-minta-pemimpin-dunia-atasi-kelaparan-di-gaza",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:44:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "UGM Tegaskan Ijazah Jokowi Dicetak Hanya Sekali, Diserahkan Saat Wisuda 1985",
       "link_berita": "https://rejogja.republika.co.id/berita/t1jk97282/ugm-tegaskan-ijazah-jokowi-dicetak-hanya-sekali-diserahkan-saat-wisuda-1985",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:43:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Angin Mengamuk di Dua Desa, Tumbangkan Pohon Hingga Timpa Belasan Rumah Warga",
       "link_berita": "https://rejabar.republika.co.id/berita/t1jk4u512/angin-mengamuk-di-dua-desa-tumbangkan-pohon-hingga-timpa-belasan-rumah-warga",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:41:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Teka Teki Ijazah Jokowi, Rektor UGM Tegaskan Punya Data dan Bukti, Mengapa tak Dibuka ke Publik?",
       "link_berita": "https://rejogja.republika.co.id/berita/t1jjvq282/teka-teki-ijazah-jokowi-rektor-ugm-tegaskan-punya-data-dan-bukti-mengapa-tak-dibuka-ke-publik",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:35:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Mendikdasmen Abdul Mu'ti Terima Tanda Kehormatan Bintang Mahaputera Utama dari Presiden",
       "link_berita": "https://news.republika.co.id/berita/t1jjpg368/mendikdasmen-abdul-muti-terima-tanda-kehormatan-bintang-mahaputera-utama-dari-presiden",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:31:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "BEI Sempurnakan Distribusi Data, Investor Kini Bisa Akses di Akhir Sesi I",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1jjkx370/bei-sempurnakan-distribusi-data-investor-kini-bisa-akses-di-akhir-sesi-i",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:29:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Sastrawan Senior Taufiq Ismail Terima Bintang Mahaputera Nararya dari Presiden",
       "link_berita": "https://news.republika.co.id/berita/t1jjfh458/sastrawan-senior-taufiq-ismail-terima-bintang-mahaputera-nararya-dari-presiden",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Gerbong Khusus Perokok di Kereta? Ini Respons Wamen BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1jj7e423/gerbong-khusus-perokok-di-kereta-ini-respons-wamen-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "Syuhada Akibat Kelaparan di Gaza Capai 300 Orang",
-      "link_berita": "https://news.republika.co.id/berita/t1jixu393/syuhada-akibat-kelaparan-di-gaza-capai-300-orang",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "Menkum Ungkap Alasan Presiden Ubah BP Haji Menjadi Kementerian",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1jis0483/menkum-ungkap-alasan-presiden-ubah-bp-haji-menjadi-kementerian",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "Forum Sekolah Swasta Cabut Gugatan Terhadap KDM, Ini Kesepakatan Soal Kebijakan 50 Siswa Per Kelas",
-      "link_berita": "https://news.republika.co.id/berita/t1jipq409/forum-sekolah-swasta-cabut-gugatan-terhadap-kdm-ini-kesepakatan-soal-kebijakan-50-siswa-per-kelas",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "KEK Singhasari Raih Investasi Rp 2,3 Triliun, Serap Ratusan Tenaga Kerja",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1jiks370/kek-singhasari-raih-investasi-rp-23-triliun-serap-ratusan-tenaga-kerja",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "Demonstrrasi Depan DPR Rusuh, Jurnalis Foto Kantor Berita Negara Kena Hantam Polisi",
-      "link_berita": "https://news.republika.co.id/berita/t1jiju377/demonstrrasi-depan-dpr-rusuh-jurnalis-foto-kantor-berita-negara-kena-hantam-polisi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "Telkom Hadirkan DigiHack 2025 sebagai Ruang Inovasi AI Talenta Digital",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1jiie368/telkom-hadirkan-digihack-2025-sebagai-ruang-inovasi-ai-talenta-digital",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:42"
-    },
-    {
-      "judul": "BI Jajaki Perluasan Transaksi Rupiah dan Yen untuk Obligasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1ji13490/bi-jajaki-perluasan-transaksi-rupiah-dan-yen-untuk-obligasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Janice Tjen Bangga Wakili Indonesia di US Open",
-      "link_berita": "https://news.republika.co.id/berita/t1jhyx348/janice-tjen-bangga-wakili-indonesia-di-us-open",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Khamenei: Perselisihan Iran-AS tak Ada Penyelesaiannya",
-      "link_berita": "https://news.republika.co.id/berita/t1jhy3377/khamenei-perselisihan-iranas-tak-ada-penyelesaiannya",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Prabowo Bentuk Badan Otorita Pantura untuk Tanggul Laut Raksasa",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1jhui370/prabowo-bentuk-badan-otorita-pantura-untuk-tanggul-laut-raksasa",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Rekap Pekan Kedua FFWS SEA Fall 2025, Performa Tim Indonesia Naik Turun",
-      "link_berita": "https://skor.republika.co.id/posts/700947/rekap-pekan-kedua-ffws-sea-fall-2025-performa-tim-indonesia-naik-turun",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Bos Eramet Ungkap Perubahan RKAB Jadi Tantangan Industri Nikel",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1jhfy490/bos-eramet-ungkap-perubahan-rkab-jadi-tantangan-industri-nikel",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Indonesia Jadikan COP30 Ajang Promosikan Potensi Karbon",
-      "link_berita": "https://esgnow.republika.co.id/berita/t1jhcc416/indonesia-jadikan-cop30-ajang-promosikan-potensi-karbon",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Lima Santri Meninggal Dunia Terseret Arus di Pidie Aceh, Ini Kronologinya",
-      "link_berita": "https://news.republika.co.id/berita/t1jhbp377/lima-santri-meninggal-dunia-terseret-arus-di-pidie-aceh-ini-kronologinya",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Rekap Pekan Pertama IKL Fall 2025, Vesakha dan Kagendra Unjuk Gigi",
-      "link_berita": "https://skor.republika.co.id/posts/700946/rekap-pekan-pertama-ikl-fall-2025-vesakha-dan-kagendra-unjuk-gigi",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "A Number of Scholars Received the Star of Mahaputera Utama",
-      "link_berita": "https://en.republika.co.id/berita/t1jgsz415/a-number-of-scholars-received-the-star-of-mahaputera-utama",
-      "kategori": "En",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 09:25:42"
-    },
-    {
-      "judul": "Menguak Realitas Dana Abadi Pesantren",
-      "link_berita": "https://rejogja.republika.co.id/berita/t1jgs2291/menguak-realitas-dana-abadi-pesantren",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Sumur Minyak Ilegal Terbakar di Blora akan Ditutup Permanen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1jgf4416/sumur-minyak-ilegal-terbakar-di-blora-akan-ditutup-permanen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
-    },
-    {
-      "judul": "Kejuraaan Dunia Bulu Tangkis Dimulai, Hanya Gregoria Mariska Wakil Indonesia yang Main Hari Ini",
-      "link_berita": "https://news.republika.co.id/berita/t1jgd4348/kejuraaan-dunia-bulu-tangkis-dimulai-hanya-gregoria-mariska-wakil-indonesia-yang-main-hari-ini",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 07:25:42"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 08:25:08"
     },
     {
       "judul": "Komunitas NPD Survivor Ajak Penyintas Ubah Trauma Jadi Kekuatan",
@@ -391,29 +391,29 @@
       "tanggal_terbit": "Monday, 25 Aug 2025, 16:17:00"
     },
     {
-      "judul": "Indonesia Jadikan COP30 Ajang Promosikan Potensi Karbon",
-      "link_berita": "https://esgnow.republika.co.id/berita/t1jhcc416/indonesia-jadikan-cop30-ajang-promosikan-potensi-karbon",
+      "judul": "SRN Jadi Instrumen Transparansi Aksi Iklim Indonesia",
+      "link_berita": "https://esgnow.republika.co.id/berita/t1jmnf416/srn-jadi-instrumen-transparansi-aksi-iklim-indonesia",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 14:41:00"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 16:35:00"
     },
     {
-      "judul": "Perkuat Inklusi Keuangan Digital, BRI Luncurkan Kartu Debit Co-Branding BRI X INDODAX",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1jkx2368/perkuat-inklusi-keuangan-digital-bri-luncurkan-kartu-debit-cobranding-bri-x-indodax",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 15:58:00"
+      "judul": "Tol Dalam Kota Ditutup Total Imbas Demo di Gedung DPR/MPR",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1joo5370/tol-dalam-kota-ditutup-total-imbas-demo-di-gedung-dprmpr",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 17:19:00"
     },
     {
-      "judul": "Indonesia dan Korea Selatan Perkuat Sinergi Produk Halal",
-      "link_berita": "https://sharia.republika.co.id/berita/t1jkfi370/indonesia-dan-korea-selatan-perkuat-sinergi-produk-halal",
-      "kategori": "Industri Halal Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 15:47:00"
+      "judul": "INDEF: Wakaf Uang Bisa Jadi Instrumen Fiskal, Tapi Belum Tergarap di RAPBN",
+      "link_berita": "https://sharia.republika.co.id/berita/t1jmzx370/indef-wakaf-uang-bisa-jadi-instrumen-fiskal-tapi-belum-tergarap-di-rapbn",
+      "kategori": "Keuangan Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 25 Aug 2025, 16:43:00"
     },
     {
-      "judul": "Ketua UISJP: Mengundang Profesor Berkowitz Khianati Sembilan Nilai UI",
-      "link_berita": "https://news.republika.co.id/berita/t1jm2t377/ketua-uisjp-mengundang-profesor-berkowitz-khianati-sembilan-nilai-ui",
+      "judul": "Penerjamah dan Organisasi Jasa Bahasa Ikut Gugat UU Bahasa",
+      "link_berita": "https://news.republika.co.id/berita/t1jnln318/penerjamah-dan-organisasi-jasa-bahasa-ikut-gugat-uu-bahasa",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 25 Aug 2025, 16:23:00"
+      "tanggal_terbit": "Monday, 25 Aug 2025, 17:02:00"
     }
   ],
-  "waktu_scraping": "Monday, 25 Aug 2025, 16:25:42"
+  "waktu_scraping": "Monday, 25 Aug 2025, 17:25:08"
 }
