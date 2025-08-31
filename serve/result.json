@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Massa Jarah Rumah Pribadi Menkeu Sri Mulyani di Bintaro",
+      "link_berita": "https://news.republika.co.id/berita/t1tzba484/massa-jarah-rumah-pribadi-menkeu-sri-mulyani-di-bintaro"
+    },
+    {
+      "judul": "Fitur 'LIVE' TikTok Dimatikan, Setop Sebaran Siaran Kerusuhan",
+      "link_berita": "https://news.republika.co.id/berita/t1txta393/fitur-live-tiktok-dimatikan-setop-sebaran-siaran-kerusuhan"
+    },
+    {
       "judul": "Korban Tewas Kebakaran DPRD Makassar Bertambah, Total Empat Orang",
       "link_berita": "https://news.republika.co.id/berita/t1twbh370/korban-tewas-kebakaran-dprd-makassar-bertambah-total-empat-orang"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Bandung Masih Mencekam, Massa Blokade Jalan Dago dan Djuanda",
       "link_berita": "https://rejabar.republika.co.id/berita/t1tjr2282/bandung-masih-mencekam-massa-blokade-jalan-dago-dan-djuanda"
-    },
-    {
-      "judul": "Tak Terlihat Ada Polisi Saat Rumah Sahroni Digeruduk Massa, Hanya Tampak Satu Anggota TNI",
-      "link_berita": "https://news.republika.co.id/berita/t1tcw0377/tak-terlihat-ada-polisi-saat-rumah-sahroni-digeruduk-massa-hanya-tampak-satu-anggota-tni"
-    },
-    {
-      "judul": "Eko Patrio Akhirnya Minta Maaf, Akui Buat Kegaduhan dari Perbuatannya",
-      "link_berita": "https://news.republika.co.id/berita/t1t9qh348/eko-patrio-akhirnya-minta-maaf-akui-buat-kegaduhan-dari-perbuatannya"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Jakarta Membara, Bagaimana Kondisi di Luar Jawa",
+      "link_berita": "https://news.republika.co.id/berita/t1u3fc393/jakarta-membara-bagaimana-kondisi-di-luar-jawa"
+    },
+    {
+      "judul": "Kesaksian Warga: Banyak Wajah tak Dikenal Geruduk Rumah Sahroni",
+      "link_berita": "https://news.republika.co.id/berita/t1tyw3377/kesaksian-warga-banyak-wajah-tak-dikenal-geruduk-rumah-sahroni"
+    },
     {
       "judul": "Polda Jateng Tangkap 318 Orang yang Dituding Kelompok Anarko",
       "link_berita": "https://news.republika.co.id/berita/t1txk2393/polda-jateng-tangkap-318-orang-yang-dituding-kelompok-anarko"
@@ -73,316 +81,308 @@
     {
       "judul": "Marak Aksi Demonstrasi, Polda Jabar Tetapkan Status Siaga Satu",
       "link_berita": "https://rejabar.republika.co.id/berita/t1sta2458/marak-aksi-demonstrasi-polda-jabar-tetapkan-status-siaga-satu"
-    },
-    {
-      "judul": "BPBD: 67 Mobil Terbakar dalam Kerusuhan di Kantor DPRD Makassar, Mayoritas Kendaraan Dinas",
-      "link_berita": "https://news.republika.co.id/berita/t1sru4377/bpbd-67-mobil-terbakar-dalam-kerusuhan-di-kantor-dprd-makassar-mayoritas-kendaraan-dinas"
-    },
-    {
-      "judul": "Pemprov Jakarta Gratiskan Transjakarta dan MRT Seminggu ke Depan Sambil Perbaiki Halte",
-      "link_berita": "https://news.republika.co.id/berita/t1ssov502/pemprov-jakarta-gratiskan-transjakarta-dan-mrt-seminggu-ke-depan-sambil-perbaiki-halte"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Update Harga Emas Hari Ini: UBS, Galeri24, dan Antam Kompak Naik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u4it370/update-harga-emas-hari-ini-ubs-galeri24-dan-antam-kompak-naik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Polri Tangkap Ratusan Demonstran Langgar Hukum",
+      "link_berita": "https://news.republika.co.id/berita/t1u44g451/polri-tangkap-ratusan-demonstran-langgar-hukum",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Ketum Laskar Prabowo 08 Ajak Masyarakat Jaga Ketenangan di Tengah Dinamika Bangsa",
+      "link_berita": "https://news.republika.co.id/berita/t1u445472/ketum-laskar-prabowo-08-ajak-masyarakat-jaga-ketenangan-di-tengah-dinamika-bangsa",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Mendag : Ekspor Hortikultura Naik 49 Persen Semester I 2025, Indonesia Terus Tekan Impor",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u3m0472/mendag-ekspor-hortikultura-naik-49-persen-semester-i-2025-indonesia-terus-tekan-impor",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Rumah Sri Mulyani Dijarah, Petugas tak Kuasa Menahan: Jumlahnya Terlalu Banyak, Ada yang Bawa Sajam",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u3li370/rumah-sri-mulyani-dijarah-petugas-tak-kuasa-menahan-jumlahnya-terlalu-banyak-ada-yang-bawa-sajam",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Jakarta Membara, Bagaimana Kondisi di Luar Jawa",
+      "link_berita": "https://news.republika.co.id/berita/t1u3fc393/jakarta-membara-bagaimana-kondisi-di-luar-jawa",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Marak Aksi Demonstasi, Presidium KAMI: Semua Pihak agar Introspeksi Diri",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1u36b458/marak-aksi-demonstasi-presidium-kami-semua-pihak-agar-introspeksi-diri",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Stabilisasi Harga Beras, Pemerintah Salurkan 43 Ribu Ton Beras SPHP Secara Serentak",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u2z2472/stabilisasi-harga-beras-pemerintah-salurkan-43-ribu-ton-beras-sphp-secara-serentak",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Tak Dijaga Aparat, Rumah Menkeu Sri Mulyani Indrawati Dijarah Massa",
+      "link_berita": "https://news.republika.co.id/berita/t1u2fd484/tak-dijaga-aparat-rumah-menkeu-sri-mulyani-indrawati-dijarah-massa",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Polda Banten Tangkap Pendemo Pelajar Akibatkan Kericuhan, Aparat Siaga",
+      "link_berita": "https://news.republika.co.id/berita/t1u2ee451/polda-banten-tangkap-pendemo-pelajar-akibatkan-kericuhan-aparat-siaga",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Kemendagri: Gerakan Pangan Murah Jaga Daya Beli dan Kendalikan Inflasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u1ro370/kemendagri-gerakan-pangan-murah-jaga-daya-beli-dan-kendalikan-inflasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Ketika Demokrasi Membisu: Dinamika Ekonomi, Represi, dan Hilangnya Ruang Aspirasi",
+      "link_berita": "https://analisis.republika.co.id/berita/t1u1pp451/ketika-demokrasi-membisu-dinamika-ekonomi-represi-dan-hilangnya-ruang-aspirasi",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Meluas, Begini Dampak Aksi-Aksi di Jawa Timur",
+      "link_berita": "https://news.republika.co.id/berita/t1u1hh393/meluas-begini-dampak-aksiaksi-di-jawa-timur",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Prediksi dan Link Live Streaming Genoa vs Juventus di Liga Italia 2025-2026",
+      "link_berita": "https://skor.republika.co.id/posts/702083/prediksi-dan-link-live-streaming-genoa-vs-juventus-di-liga-italia-2025-2026",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Memantau Suasana Gelap di Sekitar Kwitang Dekat Mako Brimob Polda",
+      "link_berita": "https://news.republika.co.id/berita/t1u0x5484/memantau-suasana-gelap-di-sekitar-kwitang-dekat-mako-brimob-polda",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Respons Penjarahan, Gubernur NTB: Kita Butuh Situasi Kondusif untuk Tingkatkan Kesejahteraan",
+      "link_berita": "https://news.republika.co.id/berita/t1u0r1451/respons-penjarahan-gubernur-ntb-kita-butuh-situasi-kondusif-untuk-tingkatkan-kesejahteraan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Menag Minta UIN Alauddin Jadi Lokomotif Peradaban Islam Modern",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1tu83451/menag-minta-uin-alauddin-jadi-lokomotif-peradaban-islam-modern",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Astra International Realisasikan Capex Rp 8,8 Triliun pada Semester I 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u09z370/astra-international-realisasikan-capex-rp-88-triliun-pada-semester-i-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Prediksi dan Link Live Streaming Rayo Vallecano vs Barcelona di La Liga 2025-2026",
+      "link_berita": "https://skor.republika.co.id/posts/702082/prediksi-dan-link-live-streaming-rayo-vallecano-vs-barcelona-di-la-liga-2025-2026",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Peringatan Alquran bagi yang Mencuri Harta Orang Lain",
+      "link_berita": "https://iqra.republika.co.id/berita/t1tzq7430/peringatan-alquran-bagi-yang-mencuri-harta-orang-lain",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Massa Jarah Rumah Pribadi Menkeu Sri Mulyani di Bintaro",
+      "link_berita": "https://news.republika.co.id/berita/t1tzba484/massa-jarah-rumah-pribadi-menkeu-sri-mulyani-di-bintaro",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Prediksi dan Link Live Streaming Liverpool vs Arsenal di Liga Inggris 2025-2026",
+      "link_berita": "https://skor.republika.co.id/posts/702081/prediksi-dan-link-live-streaming-liverpool-vs-arsenal-di-liga-inggris-2025-2026",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Kesaksian Warga: Banyak Wajah tak Dikenal Geruduk Rumah Sahroni",
+      "link_berita": "https://news.republika.co.id/berita/t1tyw3377/kesaksian-warga-banyak-wajah-tak-dikenal-geruduk-rumah-sahroni",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Pasca Wafatnya Ojol, Kemenag Imbau Penyuluh Agama Berperan Aktif Jaga Kerukunan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1tu08451/pasca-wafatnya-ojol-kemenag-imbau-penyuluh-agama-berperan-aktif-jaga-kerukunan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
+      "judul": "Polri Janji Gunakan Langkah Terukur Tindak Aksi Anarkistis",
+      "link_berita": "https://news.republika.co.id/berita/t1tyhc484/polri-janji-gunakan-langkah-terukur-tindak-aksi-anarkistis",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
+    },
+    {
       "judul": "Fitur 'LIVE' TikTok Dimatikan, Setop Sebaran Siaran Kerusuhan",
       "link_berita": "https://news.republika.co.id/berita/t1txta393/fitur-live-tiktok-dimatikan-setop-sebaran-siaran-kerusuhan",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "5 Fakta usai Real Madrid Menang Comeback Kontra Mallorca",
       "link_berita": "https://skor.republika.co.id/posts/702080/5-fakta-usai-real-madrid-menang-comeback-kontra-mallorca",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Polda Jateng Tangkap 318 Orang yang Dituding Kelompok Anarko",
       "link_berita": "https://news.republika.co.id/berita/t1txk2393/polda-jateng-tangkap-318-orang-yang-dituding-kelompok-anarko",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "KKP Gandeng Industri Migas Perkuat Pengelolaan Kawasan Konservasi Anambas",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1ttva451/kkp-gandeng-industri-migas-perkuat-pengelolaan-kawasan-konservasi-anambas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "5 Fakta Kemenangan Tipis Manchester United Lawan Burnley",
       "link_berita": "https://skor.republika.co.id/posts/702075/5-fakta-kemenangan-tipis-manchester-united-lawan-burnley",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Vidi Aldiano Hingga Bintang Emon Minta Setop Menjarah, Tindakan Anarkis Harus Dihentikan",
       "link_berita": "https://news.republika.co.id/berita/t1twpa483/vidi-aldiano-hingga-bintang-emon-minta-setop-menjarah-tindakan-anarkis-harus-dihentikan",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Korban Tewas Kebakaran DPRD Makassar Bertambah, Total Empat Orang",
       "link_berita": "https://news.republika.co.id/berita/t1twbh370/korban-tewas-kebakaran-dprd-makassar-bertambah-total-empat-orang",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Larangan Tegas Islam untuk Mencuri: Pelakunya Tidak Disebut Sebagai Mukmin",
       "link_berita": "https://khazanah.republika.co.id/berita/t1tw33430/larangan-tegas-islam-untuk-mencuri-pelakunya-tidak-disebut-sebagai-mukmin",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Gubernur Sulsel Pastikan Pemulihan Korban Kebakaran DPRD Makassar",
       "link_berita": "https://news.republika.co.id/berita/t1tvu69930000/gubernur-sulsel-pastikan-pemulihan-korban-kebakaran-dprd-makassar",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Massa Berpakaian Hitam Menjarah Gedung Negara Grahadi Surabaya, Kasur Hingga Laptop Dibawa",
       "link_berita": "https://rejogja.republika.co.id/berita/t1tvpe483/massa-berpakaian-hitam-menjarah-gedung-negara-grahadi-surabaya-kasur-hingga-laptop-dibawa",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Giliran Rumah Eko Patrio Dijarah, Kucing Ikut Diangkut",
       "link_berita": "https://news.republika.co.id/berita/t1tvas393/giliran-rumah-eko-patrio-dijarah-kucing-ikut-diangkut",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Kapolresta Kupang Kota Temui Mahasiswa yang Berunjuk Rasa di Polda NTT",
       "link_berita": "https://news.republika.co.id/berita/t1ttw61430000/kapolresta-kupang-kota-temui-mahasiswa-yang-berunjuk-rasa-di-polda-ntt",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Peremajaan Sawit Rakyat Kunci Ketahanan Pangan dan Energi",
       "link_berita": "https://news.republika.co.id/berita/t1tsdz9330000/peremajaan-sawit-rakyat-kunci-ketahanan-pangan-dan-energi",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Stuttgart Menang Tipis 1-0 atas Gladbach di Bundesliga",
       "link_berita": "https://news.republika.co.id/berita/t1trop9830000/stuttgart-menang-tipis-10-atas-gladbach-di-bundesliga",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Timnas Voli Putra U-21 Indonesia Finis di Peringkat ke-19 Kejuaraan Dunia 2025",
       "link_berita": "https://skor.republika.co.id/posts/702074/timnas-voli-putra-u-21-indonesia-finis-di-peringkat-ke-19-kejuaraan-dunia-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Malut United Siap Bangkit Usai Kekalahan dari PSIM Yogyakarta",
       "link_berita": "https://news.republika.co.id/berita/t1tqzb6030000/malut-united-siap-bangkit-usai-kekalahan-dari-psim-yogyakarta",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Jadwal Sholat Hari Ini: 31 Agustus 2025 di Palembang",
       "link_berita": "https://khazanah.republika.co.id/berita/t1tqqx1924260573/jadwal-sholat-hari-ini-31-agustus-2025-di-palembang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Deportivo Alaves Tahan Imbang Atletico Madrid 1-1 di LaLiga",
       "link_berita": "https://news.republika.co.id/berita/t1tqa99930000/deportivo-alaves-tahan-imbang-atletico-madrid-11-di-laliga",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Timnas Voli U-21 Putra Indonesia Raih Peringkat 19 di Kejuaraan Dunia",
       "link_berita": "https://news.republika.co.id/berita/t1tpl61230000/timnas-voli-u21-putra-indonesia-raih-peringkat-19-di-kejuaraan-dunia",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Memperkuat Iman: Jadwal Sholat Hari Ini di Yogyakarta, 31 Agustus 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/t1tpd01386030409/memperkuat-iman-jadwal-sholat-hari-ini-di-yogyakarta-31-agustus-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Menjelang Maghrib: Jadwal Sholat Hari Ini di Jakarta, 31 Agustus 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/t1tntw599683387/menjelang-maghrib-jadwal-sholat-hari-ini-di-jakarta-31-agustus-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Polda Maluku Tetapkan Satu Tersangka Pembakaran Rumah di Hunuth",
       "link_berita": "https://news.republika.co.id/berita/t1tmt95830000/polda-maluku-tetapkan-satu-tersangka-pembakaran-rumah-di-hunuth",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Pangdam XXI/Radin Inten Ajak Prajurit dan PNS Bangun Kebersamaan",
       "link_berita": "https://news.republika.co.id/berita/t1tm464930000/pangdam-xxiradin-inten-ajak-prajurit-dan-pns-bangun-kebersamaan",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Kerusuhan di Gedung DPRD Cirebon: Motor Satpam Terbakar",
       "link_berita": "https://news.republika.co.id/berita/t1tlfh2930000/kerusuhan-di-gedung-dprd-cirebon-motor-satpam-terbakar",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Jadwal Sholat Hari Ini: Menyambut 31 Agustus 2025 di Kota Depok",
       "link_berita": "https://khazanah.republika.co.id/berita/t1tlf71482879948/jadwal-sholat-hari-ini-menyambut-31-agustus-2025-di-kota-depok",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Akhmad Munir Pimpin PWI Pusat, Janji Solidkan Organisasi Pers",
-      "link_berita": "https://news.republika.co.id/berita/t1tkq62830000/akhmad-munir-pimpin-pwi-pusat-janji-solidkan-organisasi-pers",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Menggapai Kedamaian di Kota Semarang: Jadwal Sholat Hari Ini, 31 Agustus 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1tk9k1573773999/menggapai-kedamaian-di-kota-semarang-jadwal-sholat-hari-ini-31-agustus-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Jakarta Diprakirakan Hujan dan Angin Kencang Minggu Sore",
-      "link_berita": "https://news.republika.co.id/berita/t1tk151330000/jakarta-diprakirakan-hujan-dan-angin-kencang-minggu-sore",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Bandung Masih Mencekam, Massa Blokade Jalan Dago dan Djuanda",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1tjr2282/bandung-masih-mencekam-massa-blokade-jalan-dago-dan-djuanda",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Fraksi PDI Perjuangan Usulkan Penghentian Tunjangan Perumahan DPR",
-      "link_berita": "https://news.republika.co.id/berita/t1tina3330000/fraksi-pdi-perjuangan-usulkan-penghentian-tunjangan-perumahan-dpr",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Driver Ojol dan Warga Surabaya Bersihkan Puing Pos Polisi Pascakerusuhan",
-      "link_berita": "https://news.republika.co.id/berita/t1thy96730000/driver-ojol-dan-warga-surabaya-bersihkan-puing-pos-polisi-pascakerusuhan",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Polres Lumajang dan Ojol Gelar Shalat Ghaib untuk Affan Kurniawan",
-      "link_berita": "https://news.republika.co.id/berita/t1th994430000/polres-lumajang-dan-ojol-gelar-shalat-ghaib-untuk-affan-kurniawan",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Makassar: Jadwal Sholat Hari Ini, 31 Agustus 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1tgnj1022548980/makassar-jadwal-sholat-hari-ini-31-agustus-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Polres Sumenep Tetapkan Status Siaga 1 untuk Tingkatkan Keamanan",
-      "link_berita": "https://news.republika.co.id/berita/t1tgkb4930000/polres-sumenep-tetapkan-status-siaga-1-untuk-tingkatkan-keamanan",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Momen Demonstran Sholat Maghrib Bersama Aparat Disela Aksi Massa",
-      "link_berita": "https://visual.republika.co.id/berita/t1tfzn375/momen-demonstran-sholat-maghrib-bersama-aparat-disela-aksi-massa",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "PSIM Yogyakarta Tundukkan Malut United 2-0",
-      "link_berita": "https://visual.republika.co.id/berita/t1tfrg375/psim-yogyakarta-tundukkan-malut-united-20",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Soal Macan Tutul yang Kabur dari Kandang Karantina Lembang Park and Zoo, Ini Kabar Terbarunya",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1tfhk512/soal-macan-tutul-yang-kabur-dari-kandang-karantina-lembang-park-and-zoo-ini-kabar-terbarunya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Satria Muda Pertamina Bandung Juara IBL All Indonesian 2025",
-      "link_berita": "https://skor.republika.co.id/posts/702067/satria-muda-pertamina-bandung-juara-ibl-all-indonesian-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Ratusan SMA/SMK se-Kota Bandung dan Cimahi Antusis Ikut Pelatihan Editing",
-      "link_berita": "https://rejabar.republika.co.id/berita/t1tf62512/ratusan-smasmk-sekota-bandung-dan-cimahi-antusis-ikut-pelatihan-editing",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Dapat Beras SPHP Rusak? Mentan Jamin Bisa Langsung Diganti",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1tdn6490/dapat-beras-sphp-rusak-mentan-jamin-bisa-langsung-diganti",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "FKG Universitas Trisakti Gelar Foril XIV 2025, Bahas Tren dan Inovasi Kedokteran Gigi",
-      "link_berita": "https://news.republika.co.id/berita/t1tdf4416/fkg-universitas-trisakti-gelar-foril-xiv-2025-bahas-tren-dan-inovasi-kedokteran-gigi",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Tak Terlihat Ada Polisi Saat Rumah Sahroni Digeruduk Massa, Hanya Tampak Satu Anggota TNI",
-      "link_berita": "https://news.republika.co.id/berita/t1tcw0377/tak-terlihat-ada-polisi-saat-rumah-sahroni-digeruduk-massa-hanya-tampak-satu-anggota-tni",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Ulama Jawa Timur Serukan Perdamaian dan Persatuan Bangsa",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1tcr6416/ulama-jawa-timur-serukan-perdamaian-dan-persatuan-bangsa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "President Prabowo Cancels Visit to Beijing, China",
-      "link_berita": "https://en.republika.co.id/berita/t1tcov484/president-prabowo-cancels-visit-to-beijing-china",
-      "kategori": "En",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "TikTok Tangguhkan Fitur Live di Indonesia Buntut Ricuh di Sejumlah Daerah",
-      "link_berita": "https://news.republika.co.id/berita/t1tbxf377/tiktok-tangguhkan-fitur-live-di-indonesia-buntut-ricuh-di-sejumlah-daerah",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Breaking News! Presiden Prabowo Batalkan Kunjungan ke China",
-      "link_berita": "https://news.republika.co.id/berita/t1tbl6484/breaking-news-presiden-prabowo-batalkan-kunjungan-ke-china",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Berjalan Lancar, Andre Rosiade Cup Jilid 2 Sukses Digelar",
-      "link_berita": "https://skor.republika.co.id/posts/702062/berjalan-lancar-andre-rosiade-cup-jilid-2-sukses-digelar",
-      "kategori": "Network",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Chelsea Diuntungkan oleh VAR Saat Kalahkan Fulham 2-0 dalam Lanjutan Liga Primer Inggris",
-      "link_berita": "https://news.republika.co.id/berita/t1tarh348/chelsea-diuntungkan-oleh-var-saat-kalahkan-fulham-20-dalam-lanjutan-liga-primer-inggris",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Said Abdullah: Fraksi PDIP Minta Tunjangan Perumahan Anggota DPR Dihapus",
-      "link_berita": "https://news.republika.co.id/berita/t1tad3320/said-abdullah-fraksi-pdip-minta-tunjangan-perumahan-anggota-dpr-dihapus",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
-    },
-    {
-      "judul": "Eko Patrio Akhirnya Minta Maaf, Akui Buat Kegaduhan dari Perbuatannya",
-      "link_berita": "https://news.republika.co.id/berita/t1t9qh348/eko-patrio-akhirnya-minta-maaf-akui-buat-kegaduhan-dari-perbuatannya",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 23:18:44"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 01:48:56"
     },
     {
       "judul": "Dermatolog: Anxiety Bisa Picu Jerawat, Eksim, Hingga Penuaan Dini",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Saturday, 30 Aug 2025, 21:08:00"
     },
     {
-      "judul": "PLN Icon Plus Rilis Layanan Charging EV di Rumah, Dapat Diskon Tarif Listrik 30 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1t961483/pln-icon-plus-rilis-layanan-charging-ev-di-rumah-dapat-diskon-tarif-listrik-30-persen",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 21:20:00"
+      "judul": "Update Harga Emas Hari Ini: UBS, Galeri24, dan Antam Kompak Naik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1u4it370/update-harga-emas-hari-ini-ubs-galeri24-dan-antam-kompak-naik",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 08:37:00"
     },
     {
       "judul": "BCA Syariah Kick Off WEpreneur 3, Dukung Ketangguhan UMKM Perempuan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 30 Aug 2025, 19:25:00"
     },
     {
-      "judul": "Fitur 'LIVE' TikTok Dimatikan, Setop Sebaran Siaran Kerusuhan",
-      "link_berita": "https://news.republika.co.id/berita/t1txta393/fitur-live-tiktok-dimatikan-setop-sebaran-siaran-kerusuhan",
+      "judul": "Polri Tangkap Ratusan Demonstran Langgar Hukum",
+      "link_berita": "https://news.republika.co.id/berita/t1u44g451/polri-tangkap-ratusan-demonstran-langgar-hukum",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Sunday, 31 Aug 2025, 06:12:00"
+      "tanggal_terbit": "Sunday, 31 Aug 2025, 08:29:00"
     }
   ],
-  "waktu_scraping": "Sunday, 31 Aug 2025, 06:18:44"
+  "waktu_scraping": "Sunday, 31 Aug 2025, 08:48:56"
 }
