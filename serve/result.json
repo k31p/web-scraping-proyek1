@@ -1,27 +1,43 @@
 {
   "berita_headline": [
     {
+      "judul": "Imam Bukhari Rutin Shalat Sunah sebelum Tulis Hadis",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xtgg458/imam-bukhari-rutin-shalat-sunah-sebelum-tulis-hadis"
+    },
+    {
+      "judul": "Kampus Unisba dan Unpas Jadi Sasaran Tembakan Gas Air Mata",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xple512/kampus-unisba-dan-unpas-jadi-sasaran-tembakan-gas-air-mata"
+    },
+    {
+      "judul": "Prabowo Terima Aspirasi Serikat Pekerja, Bahas RUU Perampasan Aset dan Reformasi Pajak",
+      "link_berita": "https://news.republika.co.id/berita/t1xnto484/prabowo-terima-aspirasi-serikat-pekerja-bahas-ruu-perampasan-aset-dan-reformasi-pajak"
+    },
+    {
+      "judul": "Pembalasan Houthi Dimulai, Rudal Balistik Incar Tanker Minyak Israel di Laut Merah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xksr483/pembalasan-houthi-dimulai-rudal-balistik-incar-tanker-minyak-israel-di-laut-merah"
+    },
+    {
       "judul": "Belum Ada Penetapan Tersangka Usai Pemeriksaan Gus Yaqut dan Asosiasi, Begini Alasan KPK",
       "link_berita": "https://khazanah.republika.co.id/berita/t1xivx483/belum-ada-penetapan-tersangka-usai-pemeriksaan-gus-yaqut-dan-asosiasi-begini-alasan-kpk"
+    }
+  ],
+  "berita_unggulan": [
+    {
+      "judul": "Kurang Minum Bisa Ganggu Mood dan Turunkan Daya Pikir",
+      "link_berita": "https://ameera.republika.co.id/berita/t1xrze328/kurang-minum-bisa-ganggu-mood-dan-turunkan-daya-pikir"
+    },
+    {
+      "judul": "Hukum Bekerja di Pajak dan Bea Cukai, Haramkah Menurut Islam?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xo3y458/hukum-bekerja-di-pajak-dan-bea-cukai-haramkah-menurut-islam"
+    },
+    {
+      "judul": "Alexander Isak Lega Akhirnya Bergabung dengan Liverpool",
+      "link_berita": "https://news.republika.co.id/berita/t1xnmr348/alexander-isak-lega-akhirnya-bergabung-dengan-liverpool"
     },
     {
       "judul": "Dubes Zuhairi Siap Lindungi Delegasi IGPC yang akan Tembus Blokade Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/t1xi77483/dubes-zuhairi-siap-lindungi-delegasi-igpc-yang-akan-tembus-blokade-gaza"
     },
-    {
-      "judul": "Amerika Hadang Delegasi Palestina Ikut Sidang PBB",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x0qi430/amerika-hadang-delegasi-palestina-ikut-sidang-pbb"
-    },
-    {
-      "judul": "Polisi Amankan 1.240 Orang dari Kericuhan di Jakarta: Mayoritas dari Luar Kota, 10 Jadi Tersangka",
-      "link_berita": "https://news.republika.co.id/berita/t1wxd6348/polisi-amankan-1240-orang-dari-kericuhan-di-jakarta-mayoritas-dari-luar-kota-10-jadi-tersangka"
-    },
-    {
-      "judul": "Sri Mulyani Minta Maaf dan Janji Evaluasi Perbaikan Usai Rumah Dijarah",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1wv1j423/sri-mulyani-minta-maaf-dan-janji-evaluasi-perbaikan-usai-rumah-dijarah"
-    }
-  ],
-  "berita_unggulan": [
     {
       "judul": "LBH Ungkap Ratusan Orang Ditangkap Polisi Semarang Secara Sporadis, dari Anak SD Sampai Disabilitas",
       "link_berita": "https://rejogja.republika.co.id/berita/t1x5n1282/lbh-ungkap-ratusan-orang-ditangkap-polisi-semarang-secara-sporadis-dari-anak-sd-sampai-disabilitas"
@@ -65,330 +81,314 @@
     {
       "judul": "Airlangga Yakin Dinamika Sosial dan Politik Berdampak Jangka Pendek untuk Ekonomi, Ini Alasannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1wjib490/airlangga-yakin-dinamika-sosial-dan-politik-berdampak-jangka-pendek-untuk-ekonomi-ini-alasannya"
-    },
-    {
-      "judul": "Kasus Campak Merebak, Epidemiolog Minta Pemerintah Perluas Cakupan Vaksinasi",
-      "link_berita": "https://ameera.republika.co.id/berita/t1wjrl425/kasus-campak-merebak-epidemiolog-minta-pemerintah-perluas-cakupan-vaksinasi"
-    },
-    {
-      "judul": "BPS: Penumpang Udara Internasional Juli 2025 Naik, Didukung Jamaah Umroh",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1wjhv370/bps-penumpang-udara-internasional-juli-2025-naik-didukung-jamaah-umroh"
-    },
-    {
-      "judul": "Beda Arah dengan Harga BBM Pertamina yang Turun, Harga BBM Shell Justru Naik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1wig8490/beda-arah-dengan-harga-bbm-pertamina-yang-turun-harga-bbm-shell-justru-naik"
-    },
-    {
-      "judul": "Sri Mulyani: Tugas Kita Perbaiki Kualitas Demokrasi, Bukan dengan Anarki",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1wgai423/sri-mulyani-tugas-kita-perbaiki-kualitas-demokrasi-bukan-dengan-anarki"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Prabowo Terima Aspirasi Tokoh Lintas Agama, Janjia Proses RUU Perampasan Aset",
+      "link_berita": "https://news.republika.co.id/berita/t1xtwv484/prabowo-terima-aspirasi-tokoh-lintas-agama-janjia-proses-ruu-perampasan-aset",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:38:46"
+    },
+    {
+      "judul": "BI Dorong Ekonomi Syariah Jadi Sumber Pertumbuhan Baru di Kawasan Timur Indonesia",
+      "link_berita": "https://sharia.republika.co.id/berita/t1xtur490/bi-dorong-ekonomi-syariah-jadi-sumber-pertumbuhan-baru-di-kawasan-timur-indonesia",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:37:46"
+    },
+    {
+      "judul": "4.907 Bus Transjakarta Beroperasi Normal, Layani 240 Rute",
+      "link_berita": "https://news.republika.co.id/berita/t1xtmr370/4907-bus-transjakarta-beroperasi-normal-layani-240-rute",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:32:46"
+    },
+    {
+      "judul": "Alquran Memandang Waktu",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xtm0458/alquran-memandang-waktu",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:32:46"
+    },
+    {
+      "judul": "LPPOM: Kemasan yang Bersentuhan Langsung dengan Makanan Harus Halal",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xq7h451/lppom-kemasan-yang-bersentuhan-langsung-dengan-makanan-harus-halal",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:30:46"
+    },
+    {
+      "judul": "DPRD Jabar Dukung Aksi Demo di Kota Bandung Soal RUU Perampasan Aset Hingga Reformasi Polri",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xtjl282/dprd-jabar-dukung-aksi-demo-di-kota-bandung-soal-ruu-perampasan-aset-hingga-reformasi-polri",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:30:46"
+    },
+    {
+      "judul": "2 Hal Serba Pertama usai Calvin Verdonk Resmi Gabung Lille",
+      "link_berita": "https://skor.republika.co.id/posts/702383/2-hal-serba-pertama-usai-calvin-verdonk-resmi-gabung-lille",
+      "kategori": "Network",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:29:46"
+    },
+    {
+      "judul": "Imam Bukhari Rutin Shalat Sunah sebelum Tulis Hadis",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xtgg458/imam-bukhari-rutin-shalat-sunah-sebelum-tulis-hadis",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:28:46"
+    },
+    {
+      "judul": "Tambah Personel Patroli, Hutama Karya Pastikan Tol JORR-S Beroperasi Normal",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xtdr490/tambah-personel-patroli-hutama-karya-pastikan-tol-jorrs-beroperasi-normal",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:27:46"
+    },
+    {
+      "judul": "Polrestabes Bandung Selidiki Kasus Mahasiswa Unisba Dikeroyok 15 Orang",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xt7d282/polrestabes-bandung-selidiki-kasus-mahasiswa-unisba-dikeroyok-15-orang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:23:46"
+    },
+    {
+      "judul": "AS-Venezuela di Ambang Perang",
+      "link_berita": "https://news.republika.co.id/berita/t1xt58393/asvenezuela-di-ambang-perang",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:22:46"
+    },
+    {
+      "judul": "23,8 Persen Balita Alami Anemia, Ahli Tegaskan Pentingnya Deteksi dan Intervensi Dini",
+      "link_berita": "https://news.republika.co.id/berita/t1xt3a328/238-persen-balita-alami-anemia-ahli-tegaskan-pentingnya-deteksi-dan-intervensi-dini",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:20:46"
+    },
+    {
+      "judul": "Pelajar Tangerang Ikut Tewas dalam Demonstrasi, Ini Kata Ketua RT Tentang Sosok Andika",
+      "link_berita": "https://news.republika.co.id/berita/t1xsgb377/pelajar-tangerang-ikut-tewas-dalam-demonstrasi-ini-kata-ketua-rt-tentang-sosok-andika",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:07:46"
+    },
+    {
+      "judul": "Begini Ancaman Buruh Pelabuhan Italia Jika Israel Ganggu Armada Sumud",
+      "link_berita": "https://news.republika.co.id/berita/t1xsf5393/begini-ancaman-buruh-pelabuhan-italia-jika-israel-ganggu-armada-sumud",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:06:46"
+    },
+    {
+      "judul": "Bahaya Judol, Pemkot Palangka Raya: Gangguan Mental, Penurunan Ekonomi, dan Kemiskinan",
+      "link_berita": "https://news.republika.co.id/berita/t1xs8x451/bahaya-judol-pemkot-palangka-raya-gangguan-mental-penurunan-ekonomi-dan-kemiskinan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 01:02:46"
+    },
+    {
+      "judul": "Cegah Demo Anarkhis, ini yang Dilakukan NU dan Muhammadiyah Depok",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xqwo451/cegah-demo-anarkhis-ini-yang-dilakukan-nu-dan-muhammadiyah-depok",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:58:46"
+    },
+    {
+      "judul": "Kurang Minum Bisa Ganggu Mood dan Turunkan Daya Pikir",
+      "link_berita": "https://ameera.republika.co.id/berita/t1xrze328/kurang-minum-bisa-ganggu-mood-dan-turunkan-daya-pikir",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:56:46"
+    },
+    {
+      "judul": "Lima Prinsip Kepemimpinan Sun Tzu",
+      "link_berita": "https://analisis.republika.co.id/berita/t1xrnr451/lima-prinsip-kepemimpinan-sun-tzu",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:49:46"
+    },
+    {
+      "judul": "Babad Siti Kemantren #3 Angkat Jejak Seni dan Warisan Amri Yahya",
+      "link_berita": "https://rejogja.republika.co.id/berita/t1xr8u291/babad-siti-kemantren-3-angkat-jejak-seni-dan-warisan-amri-yahya",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:45:46"
+    },
+    {
+      "judul": "BPS: Kesejahteraan Petani Meningkat Bulan Agustus 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xr3p368/bps-kesejahteraan-petani-meningkat-bulan-agustus-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:45:46"
+    },
+    {
+      "judul": "Korupsi dan Trust Masyarakat, Jangan Main-main dengan Keduanya",
+      "link_berita": "https://news.republika.co.id/berita/t1xr3m451/korupsi-dan-trust-masyarakat-jangan-mainmain-dengan-keduanya",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:45:46"
+    },
+    {
+      "judul": "BPS Sebut Produksi Beras Hingga Oktober 2025 Surplus 3,7 Juta Ton",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xqn7368/bps-sebut-produksi-beras-hingga-oktober-2025-surplus-37-juta-ton",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:45:46"
+    },
+    {
+      "judul": "Unisa Yogyakarta Sampaikan Sepuluh Sikap Moral, dari Bela Korban hingga Seruan Persatuan Bangsa",
+      "link_berita": "https://rejogja.republika.co.id/berita/t1xqh3291/unisa-yogyakarta-sampaikan-sepuluh-sikap-moral-dari-bela-korban-hingga-seruan-persatuan-bangsa",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:45:46"
+    },
+    {
+      "judul": "Kementerian PU Siap Rehabilitasi Fasilitas Umum Pascakerusuhan Akhir Agustus",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xqg3370/kementerian-pu-siap-rehabilitasi-fasilitas-umum-pascakerusuhan-akhir-agustus",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 00:45:46"
+    },
+    {
+      "judul": "MU Akhirnya Lepas Antony ke Real Betis, Arsenal Pinjam Hincapie dari Leverkusen",
+      "link_berita": "https://news.republika.co.id/berita/t1xq0u348/mu-akhirnya-lepas-antony-ke-real-betis-arsenal-pinjam-hincapie-dari-leverkusen",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "IKA Unila Jabodetabek Serukan Persatuan Nasional dan Tolak Tindakan Anarkis",
+      "link_berita": "https://news.republika.co.id/berita/t1xpyq377/ika-unila-jabodetabek-serukan-persatuan-nasional-dan-tolak-tindakan-anarkis",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Babe Haikal Minta Komunitas Halal Jadi Teladan Jaga Persatuan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xpw1451/babe-haikal-minta-komunitas-halal-jadi-teladan-jaga-persatuan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Tanda Negara akan Hancur Menurut Ibnu Khaldun: Rakyat Dibebani Pajak Berlebihan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xpvi458/tanda-negara-akan-hancur-menurut-ibnu-khaldun-rakyat-dibebani-pajak-berlebihan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Acil Bimbo akan Dimakamkan di TPU Muslim Cipageran Kota Cimahi",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xpsp512/acil-bimbo-akan-dimakamkan-di-tpu-muslim-cipageran-kota-cimahi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Kampus Unisba dan Unpas Jadi Sasaran Tembakan Gas Air Mata",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xple512/kampus-unisba-dan-unpas-jadi-sasaran-tembakan-gas-air-mata",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Menlu Sugiono Sampaikan Permohonan Maaf Prabowo ke Xi Jinping",
+      "link_berita": "https://news.republika.co.id/berita/t1xp9c377/menlu-sugiono-sampaikan-permohonan-maaf-prabowo-ke-xi-jinping",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Menteri ESDM Bantah Kelangkaan BBM di SPBU Swasta, Kuota Impor Ditambah 10 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xorg370/menteri-esdm-bantah-kelangkaan-bbm-di-spbu-swasta-kuota-impor-ditambah-10-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Pemain Abroad Timnas Indonesia Sudah Berdatangan ke Surabaya untuk Dua Laga FIFA Matchday",
+      "link_berita": "https://news.republika.co.id/berita/t1xoo4348/pemain-abroad-timnas-indonesia-sudah-berdatangan-ke-surabaya-untuk-dua-laga-fifa-matchday",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Kabar Duka, Acil Bimbo Meninggal Dunia",
+      "link_berita": "https://ameera.republika.co.id/berita/t1xofy377/kabar-duka-acil-bimbo-meninggal-dunia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Ketum Pemuda Lintas Iman Sampaikan Sejumlah Aspirasi kepada Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/t1xobq484/ketum-pemuda-lintas-iman-sampaikan-sejumlah-aspirasi-kepada-prabowo",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Acil Bimbo Meninggal Dunia, Adhisty Zara: Kiyang Udah Gak Sakit Lagi",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xo7v512/acil-bimbo-meninggal-dunia-adhisty-zara-kiyang-udah-gak-sakit-lagi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Penyerang Veteran Alexis Sanchez Hijrah ke Sevilla dari Udinese",
+      "link_berita": "https://news.republika.co.id/berita/t1xo69348/penyerang-veteran-alexis-sanchez-hijrah-ke-sevilla-dari-udinese",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Hukum Bekerja di Pajak dan Bea Cukai, Haramkah Menurut Islam?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t1xo3y458/hukum-bekerja-di-pajak-dan-bea-cukai-haramkah-menurut-islam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Acil Bimbo Meninggal Dunia, Sempat Jalani Perawatan di Rumah Sakit",
+      "link_berita": "https://rejabar.republika.co.id/berita/t1xnvw512/acil-bimbo-meninggal-dunia-sempat-jalani-perawatan-di-rumah-sakit",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Indo Security dan Indo Firex Expo & Forum 2026 Digelar Bersamaan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xlms430/indo-security-dan-indo-firex-expo-forum-2026-digelar-bersamaan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Prabowo Terima Aspirasi Serikat Pekerja, Bahas RUU Perampasan Aset dan Reformasi Pajak",
+      "link_berita": "https://news.republika.co.id/berita/t1xnto484/prabowo-terima-aspirasi-serikat-pekerja-bahas-ruu-perampasan-aset-dan-reformasi-pajak",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Kamila Andini Angkat Isu Ketimpangan Sosial di Film Terbaru",
+      "link_berita": "https://ameera.republika.co.id/berita/t1xnnk425/kamila-andini-angkat-isu-ketimpangan-sosial-di-film-terbaru",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
+      "judul": "Alexander Isak Lega Akhirnya Bergabung dengan Liverpool",
+      "link_berita": "https://news.republika.co.id/berita/t1xnmr348/alexander-isak-lega-akhirnya-bergabung-dengan-liverpool",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 01 Sep 2025, 23:45:46"
+    },
+    {
       "judul": "Alasan Mees Hilgers Gagal Hijrah ke Liga Prancis",
       "link_berita": "https://skor.republika.co.id/posts/702374/alasan-mees-hilgers-gagal-hijrah-ke-liga-prancis",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 23:10:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
       "judul": "Komnas Perempuan: Peran Polwan Penting Terapkan UU Kekerasan Seksual",
       "link_berita": "https://news.republika.co.id/berita/t1wv57451/komnas-perempuan-peran-polwan-penting-terapkan-uu-kekerasan-seksual",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:59:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
       "judul": "DPRD Riau Sambut Aspirasi Mahasiswa dalam Aksi Damai di Pekanbaru",
       "link_berita": "https://news.republika.co.id/berita/t1xlvf6130000/dprd-riau-sambut-aspirasi-mahasiswa-dalam-aksi-damai-di-pekanbaru",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
       "judul": "Huru Hara di Dalam dan di Luar Diri",
       "link_berita": "https://www.republika.id/posts/58916/huru-hara-di-dalam-dan-di-luar-diri",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:32:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
       "judul": "NU dan Muhammadiyah Depok Sepakat Jaga Kondusivitas Wilayah",
       "link_berita": "https://news.republika.co.id/berita/t1xl675430000/nu-dan-muhammadiyah-depok-sepakat-jaga-kondusivitas-wilayah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:30:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
       "judul": "Tampil di Maybank Marathon dan Sydney Marathon, NB Perkenalkan Sepatu Balap Baru",
       "link_berita": "https://ameera.republika.co.id/berita/t1wzp7490/tampil-di-maybank-marathon-dan-sydney-marathon-nb-perkenalkan-sepatu-balap-baru",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:29:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
       "judul": "Jepara Gandeng Swasta Perbaiki Pelabuhan Penyeberangan ke Karimunjawa",
       "link_berita": "https://ekonomi.republika.co.id/berita/t1wyzu490/jepara-gandeng-swasta-perbaiki-pelabuhan-penyeberangan-ke-karimunjawa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:28:23"
+      "tanggal_terbit": "Monday, 01 Sep 2025, 22:45:46"
     },
     {
-      "judul": "Musisi Kunto Aji Apresiasi Warga Bekasi Halau Penjarahan",
-      "link_berita": "https://ameera.republika.co.id/berita/t1xkym425/musisi-kunto-aji-apresiasi-warga-bekasi-halau-penjarahan",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:25:23"
-    },
-    {
-      "judul": "Pembalasan Houthi Dimulai, Rudal Balistik Incar Tanker Minyak Israel di Laut Merah",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1xksr483/pembalasan-houthi-dimulai-rudal-balistik-incar-tanker-minyak-israel-di-laut-merah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:22:23"
-    },
-    {
-      "judul": "Arsenal Resmi Pinjam Bek Piero Hincapie dari Bayer Leverkusen",
-      "link_berita": "https://news.republika.co.id/berita/t1xkh66530000/arsenal-resmi-pinjam-bek-piero-hincapie-dari-bayer-leverkusen",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:19:23"
-    },
-    {
-      "judul": "Gubernur Kalbar Dengarkan Langsung Aspirasi Mahasiswa di Pontianak",
-      "link_berita": "https://news.republika.co.id/berita/t1xjse2530000/gubernur-kalbar-dengarkan-langsung-aspirasi-mahasiswa-di-pontianak",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:19:23"
-    },
-    {
-      "judul": "DPRD Serang Dukung Insentif Guru Swasta di APBD 2026",
-      "link_berita": "https://news.republika.co.id/berita/t1xj381730000/dprd-serang-dukung-insentif-guru-swasta-di-apbd-2026",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 21:19:23"
-    },
-    {
-      "judul": "Belum Ada Penetapan Tersangka Usai Pemeriksaan Gus Yaqut dan Asosiasi, Begini Alasan KPK",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1xivx483/belum-ada-penetapan-tersangka-usai-pemeriksaan-gus-yaqut-dan-asosiasi-begini-alasan-kpk",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 21:19:23"
-    },
-    {
-      "judul": "Kolaborasi Strategis BRI X Indodax Perluas Akses Keuangan Digital di Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1ww8z370/kolaborasi-strategis-bri-x-indodax-perluas-akses-keuangan-digital-di-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 21:19:23"
-    },
-    {
-      "judul": "Dubes Zuhairi Siap Lindungi Delegasi IGPC yang akan Tembus Blokade Gaza",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1xi77483/dubes-zuhairi-siap-lindungi-delegasi-igpc-yang-akan-tembus-blokade-gaza",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 21:19:23"
-    },
-    {
-      "judul": "BEST HC Award 2025 Apresiasi Perusahaan dengan Strategi SDM Unggul",
-      "link_berita": "https://esgnow.republika.co.id/berita/t1x746349/best-hc-award-2025-apresiasi-perusahaan-dengan-strategi-sdm-unggul",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 21:19:23"
-    },
-    {
-      "judul": "Kodam XVIII/Kasuari Siagakan 6.300 Prajurit untuk Antisipasi Demo di Manokwari",
-      "link_berita": "https://news.republika.co.id/berita/t1xex91930000/kodam-xviiikasuari-siagakan-6300-prajurit-untuk-antisipasi-demo-di-manokwari",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 20:19:23"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Yogyakarta: 2 September 2025, Pentingnya Sholat dan Waktu Khususnya",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1xep31577632262/jadwal-sholat-hari-ini-di-yogyakarta-2-september-2025-pentingnya-sholat-dan-waktu-khususnya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 20:19:23"
-    },
-    {
-      "judul": "Menteri ESDM Bantah Kelangkaan BBM di SPBU Swasta",
-      "link_berita": "https://news.republika.co.id/berita/t1xe882630000/menteri-esdm-bantah-kelangkaan-bbm-di-spbu-swasta",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 20:19:23"
-    },
-    {
-      "judul": "Duka Achi atas Meninggalnya Acil Bimbo di Bandung",
-      "link_berita": "https://news.republika.co.id/berita/t1xdj96630000/duka-achi-atas-meninggalnya-acil-bimbo-di-bandung",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 19:19:23"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini: Panduan Ibadah di Tanggal 2 September 2025 - Jakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1xd5w897726991/jadwal-sholat-hari-ini-panduan-ibadah-di-tanggal-2-september-2025-jakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 19:19:23"
-    },
-    {
-      "judul": "Kapolri Berikan Motivasi kepada Pasukan Pengamanan DPR/MPR RI",
-      "link_berita": "https://news.republika.co.id/berita/t1xcu88130000/kapolri-berikan-motivasi-kepada-pasukan-pengamanan-dprmpr-ri",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 19:19:23"
-    },
-    {
-      "judul": "Napoli Resmi Pinjam Rasmus Hojlund dari Manchester United",
-      "link_berita": "https://news.republika.co.id/berita/t1xc597530000/napoli-resmi-pinjam-rasmus-hojlund-dari-manchester-united",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 19:19:23"
-    },
-    {
-      "judul": "Koalisi Aktivis Keberlanjutan: Akhiri Kekerasan",
-      "link_berita": "https://news.republika.co.id/berita/t1x1d4483/koalisi-aktivis-keberlanjutan-akhiri-kekerasan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 19:19:23"
-    },
-    {
-      "judul": "Polres Batang-TNI Intensifkan Patroli Cegah Pergerakan Massa",
-      "link_berita": "https://news.republika.co.id/berita/t1xbg85830000/polres-batangtni-intensifkan-patroli-cegah-pergerakan-massa",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 19:19:23"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini, 2 September 2025, di Depok",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1xara1906170194/jadwal-sholat-hari-ini-2-september-2025-di-depok",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "Wamen PKP Dorong Keberlanjutan dalam Pengembangan Perumahan",
-      "link_berita": "https://news.republika.co.id/berita/t1xar79230000/wamen-pkp-dorong-keberlanjutan-dalam-pengembangan-perumahan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "Polres Indramayu Amankan 58 Perusuh Bersenjata Molotov",
-      "link_berita": "https://news.republika.co.id/berita/t1xa293230000/polres-indramayu-amankan-58-perusuh-bersenjata-molotov",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "Judul: Meraih Keberkahan dengan Menjalankan Ibadah: Jadwal Sholat Hari Ini di Semarang, 2 September 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x9lm281972694/judul-meraih-keberkahan-dengan-menjalankan-ibadah-jadwal-sholat-hari-ini-di-semarang-2-september-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "Kemenkum dan OJK Bentuk Satgas Pengawasan Fidusia di Bengkulu",
-      "link_berita": "https://news.republika.co.id/berita/t1x9d76530000/kemenkum-dan-ojk-bentuk-satgas-pengawasan-fidusia-di-bengkulu",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "Patroli Gabungan di Demak untuk Antisipasi Kerusuhan",
-      "link_berita": "https://news.republika.co.id/berita/t1x8o93630000/patroli-gabungan-di-demak-untuk-antisipasi-kerusuhan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "KPK Pastikan Penyelidikan Kasus Dugaan Suap Bupati Pati Sudewo Belum Berhenti",
-      "link_berita": "https://rejogja.republika.co.id/berita/t1x8dq282/kpk-pastikan-penyelidikan-kasus-dugaan-suap-bupati-pati-sudewo-belum-berhenti",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 18:19:23"
-    },
-    {
-      "judul": "Gibran dan Prabowo Jenguk Korban Demonstrasi Ricuh di RS Polri",
-      "link_berita": "https://news.republika.co.id/berita/t1x7z7530000/gibran-dan-prabowo-jenguk-korban-demonstrasi-ricuh-di-rs-polri",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Dispar Bali Tegaskan Pariwisata Masih Kondusif Meski Ada Demonstrasi",
-      "link_berita": "https://news.republika.co.id/berita/t1x7aa7030000/dispar-bali-tegaskan-pariwisata-masih-kondusif-meski-ada-demonstrasi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini: Selasa, 2 September 2025 di Surabaya",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x7a890063346/jadwal-sholat-hari-ini-selasa-2-september-2025-di-surabaya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Prabowo Dijadwalkan Kunjungi Keluarga Korban Kerusuhan Makassar",
-      "link_berita": "https://news.republika.co.id/berita/t1x6l8430000/prabowo-dijadwalkan-kunjungi-keluarga-korban-kerusuhan-makassar",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Ratusan Warga Pati Kepung Gedung KPK, Minta Bupati Sudewo Segera Ditetapkan Sebagai Tersangka",
-      "link_berita": "https://rejogja.republika.co.id/berita/t1x6as282/ratusan-warga-pati-kepung-gedung-kpk-minta-bupati-sudewo-segera-ditetapkan-sebagai-tersangka",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Makassar, 2 September 2025: Jangan Lewatkan Kesempatan Beribadah",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x5zl1902787914/jadwal-sholat-hari-ini-di-makassar-2-september-2025-jangan-lewatkan-kesempatan-beribadah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "UDN Dukung Pelatihan Asesmen Penjaminan Mutu Pendidikan Pesantren",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1we2t451/udn-dukung-pelatihan-asesmen-penjaminan-mutu-pendidikan-pesantren",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Pasokan Pangan Jakarta Aman hingga Oktober 2025, Tegas Gubernur Pramono",
-      "link_berita": "https://news.republika.co.id/berita/t1x5wm7930000/pasokan-pangan-jakarta-aman-hingga-oktober-2025-tegas-gubernur-pramono",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Gubernur Anwar Hafid: Masyarakat Sulteng Memang Punya Kedewasaan Demokrasi",
-      "link_berita": "https://news.republika.co.id/berita/t1wuwv451/gubernur-anwar-hafid-masyarakat-sulteng-memang-punya-kedewasaan-demokrasi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Waspada Hujan Deras Disertai Badai Diprediksi Menimpa Makkah, Rawan Banjir Bandang",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x5vn320/waspada-hujan-deras-disertai-badai-diprediksi-menimpa-makkah-rawan-banjir-bandang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Ratusan Warga Bogor Gelar Istighosah Bersama Demi Indonesia Damai",
-      "link_berita": "https://visual.republika.co.id/berita/t1x23a375/ratusan-warga-bogor-gelar-istighosah-bersama-demi-indonesia-damai",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "LBH Ungkap Ratusan Orang Ditangkap Polisi Semarang Secara Sporadis, dari Anak SD Sampai Disabilitas",
-      "link_berita": "https://rejogja.republika.co.id/berita/t1x5n1282/lbh-ungkap-ratusan-orang-ditangkap-polisi-semarang-secara-sporadis-dari-anak-sd-sampai-disabilitas",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 17:19:23"
-    },
-    {
-      "judul": "Innalillahi Wa Inna Ilaihi Rojiun, Acil Bimbo Meninggal Dunia",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x5cb430/innalillahi-wa-inna-ilaihi-rojiun-acil-bimbo-meninggal-dunia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 16:19:23"
-    },
-    {
-      "judul": "Jika Anda Terbangun Malam Hari dan Ingin Kembali Tidur, Ini Doa yang Diajarkan Rasulullah SAW",
-      "link_berita": "https://iqra.republika.co.id/berita/t1x4zf320/jika-anda-terbangun-malam-hari-dan-ingin-kembali-tidur-ini-doa-yang-diajarkan-rasulullah-saw",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 16:19:23"
-    },
-    {
-      "judul": "Jadwal Timnas Indonesia Sepanjang September 2025: Lawan Korea Selatan hingga Belanda",
-      "link_berita": "https://skor.republika.co.id/posts/702369/jadwal-timnas-indonesia-sepanjang-september-2025-lawan-korea-selatan-hingga-belanda",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 16:19:23"
-    },
-    {
-      "judul": "Strategi Program Hamil di Usia 35+: Peluang Tetap Ada, Meski Risiko Meningkat",
-      "link_berita": "https://ameera.republika.co.id/berita/t1x4ez456/strategi-program-hamil-di-usia-35-peluang-tetap-ada-meski-risiko-meningkat",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 16:19:23"
-    },
-    {
-      "judul": "Suteepat Pecahkan Rekor di Mandiri Indonesia Open 2025",
-      "link_berita": "https://news.republika.co.id/berita/t1x48f456/suteepat-pecahkan-rekor-di-mandiri-indonesia-open-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 16:19:23"
-    },
-    {
-      "judul": "Berterima Kasih ke China, Presiden Iran Dukung Ide Xi Jinping Reformasi Tata Kelola Global",
-      "link_berita": "https://khazanah.republika.co.id/berita/t1x3u9320/berterima-kasih-ke-china-presiden-iran-dukung-ide-xi-jinping-reformasi-tata-kelola-global",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 16:19:23"
-    },
-    {
-      "judul": "Musisi Kunto Aji Apresiasi Warga Bekasi Halau Penjarahan",
-      "link_berita": "https://ameera.republika.co.id/berita/t1xkym425/musisi-kunto-aji-apresiasi-warga-bekasi-halau-penjarahan",
-      "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 02 Sep 2025, 05:25:00"
+      "judul": "Kurang Minum Bisa Ganggu Mood dan Turunkan Daya Pikir",
+      "link_berita": "https://ameera.republika.co.id/berita/t1xrze328/kurang-minum-bisa-ganggu-mood-dan-turunkan-daya-pikir",
+      "kategori": "Health",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 07:57:00"
     },
     {
       "judul": "Pasca Pengrusakan, Petugas Angkut Satu Truk Pecahan Kaca dari Gedung DPRD Cirebon",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Monday, 01 Sep 2025, 21:02:00"
     },
     {
-      "judul": "Tren Bisnis Ramah Lingkungan, UMKM Bisa Mulai dari Kemasan hingga Mitra Logistik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t1x1nn349/tren-bisnis-ramah-lingkungan-umkm-bisa-mulai-dari-kemasan-hingga-mitra-logistik",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 01 Sep 2025, 22:28:00"
+      "judul": "Tambah Personel Patroli, Hutama Karya Pastikan Tol JORR-S Beroperasi Normal",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t1xtdr490/tambah-personel-patroli-hutama-karya-pastikan-tol-jorrs-beroperasi-normal",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 08:27:00"
     },
     {
-      "judul": "BCA Syariah Kick Off WEpreneur 3, Dukung Ketangguhan UMKM Perempuan",
-      "link_berita": "https://sharia.republika.co.id/berita/t1t3v6349/bca-syariah-kick-off-wepreneur-3-dukung-ketangguhan-umkm-perempuan",
-      "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Saturday, 30 Aug 2025, 19:25:00"
+      "judul": "BI Dorong Ekonomi Syariah Jadi Sumber Pertumbuhan Baru di Kawasan Timur Indonesia",
+      "link_berita": "https://sharia.republika.co.id/berita/t1xtur490/bi-dorong-ekonomi-syariah-jadi-sumber-pertumbuhan-baru-di-kawasan-timur-indonesia",
+      "kategori": "Industri Halal Ekonomi Syariah",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 08:37:00"
     },
     {
-      "judul": "Huru Hara di Dalam dan di Luar Diri",
-      "link_berita": "https://www.republika.id/posts/58916/huru-hara-di-dalam-dan-di-luar-diri",
-      "kategori": "Kalam",
-      "tanggal_terbit": "Tuesday, 02 Sep 2025, 05:32:00"
+      "judul": "Prabowo Terima Aspirasi Tokoh Lintas Agama, Janjia Proses RUU Perampasan Aset",
+      "link_berita": "https://news.republika.co.id/berita/t1xtwv484/prabowo-terima-aspirasi-tokoh-lintas-agama-janjia-proses-ruu-perampasan-aset",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Tuesday, 02 Sep 2025, 08:38:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 02 Sep 2025, 06:19:23"
+  "waktu_scraping": "Tuesday, 02 Sep 2025, 08:45:46"
 }
