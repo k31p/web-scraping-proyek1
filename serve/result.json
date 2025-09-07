@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Rumah Netanyahu Digeruduk Massa, Ribuan Warga Israel Berkumpul di Hostage Square Tel Aviv",
+      "link_berita": "https://news.republika.co.id/berita/t27j2g409/rumah-netanyahu-digeruduk-massa-ribuan-warga-israel-berkumpul-di-hostage-square-tel-aviv"
+    },
+    {
       "judul": "Bangunan Majelis di Bogor Ambruk Saat Acara Peringatan Maulid Nabi, Tiga Orang Tewas",
       "link_berita": "https://news.republika.co.id/berita/t27gac409/bangunan-majelis-di-bogor-ambruk-saat-acara-peringatan-maulid-nabi-tiga-orang-tewas"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "Mantan Penyidik Sebut KPK Tetap Berwenang Usut Kasus Google Cloud Usai Nadiem Tersangka",
       "link_berita": "https://news.republika.co.id/berita/t27aks409/mantan-penyidik-sebut-kpk-tetap-berwenang-usut-kasus-google-cloud-usai-nadiem-tersangka"
-    },
-    {
-      "judul": "Diberitakan Main Domino dengan Azis Wellang, Menteri Kehutanan: Saya tidak Kenal",
-      "link_berita": "https://news.republika.co.id/berita/t27681483/diberitakan-main-domino-dengan-azis-wellang-menteri-kehutanan-saya-tidak-kenal"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Perkembangan Terbaru Uji Lab Nampan MBG, Benarkah Mengandung Babi?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t27kch483/perkembangan-terbaru-uji-lab-nampan-mbg-benarkah-mengandung-babi"
+    },
+    {
+      "judul": "Polres Garut Olah TKP Tempat Ditemukannya Jasad Encuy, Aktor Sinetron Preman Pensiun",
+      "link_berita": "https://news.republika.co.id/berita/t27hyk409/polres-garut-olah-tkp-tempat-ditemukannya-jasad-encuy-aktor-sinetron-preman-pensiun"
+    },
+    {
+      "judul": "Konsulat Korsel Temui Pekerja Hyundai yang Ditahan Imigrasi AS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t27fgo423/konsulat-korsel-temui-pekerja-hyundai-yang-ditahan-imigrasi-as"
+    },
     {
       "judul": "KAI Prediksi Hari Ini Jadi Puncak Arus Balik Long Weekend Maulid Nabi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27cv3423/kai-prediksi-hari-ini-jadi-puncak-arus-balik-long-weekend-maulid-nabi"
@@ -69,320 +81,308 @@
     {
       "judul": "Inggris dan Portugal Menang di Kualifikasi Piala Dunia 2026 Zona Eropa",
       "link_berita": "https://news.republika.co.id/berita/t26vfh93797361526001/inggris-dan-portugal-menang-di-kualifikasi-piala-dunia-2026-zona-eropa"
-    },
-    {
-      "judul": "Sheila On 7 Tampil Beda di Pestapora 2025 dengan Setlist B-Sides",
-      "link_berita": "https://ameera.republika.co.id/berita/t26f876030000/sheila-on-7-tampil-beda-di-pestapora-2025-dengan-setlist-bsides"
-    },
-    {
-      "judul": "Pos Polisi DIY Dirusak, Mahfud MD: Yogya Itu Barometer, Kalau Panas Indonesia Ikutan Panas",
-      "link_berita": "https://rejogja.republika.co.id/berita/t26csn282/pos-polisi-diy-dirusak-mahfud-md-yogya-itu-barometer-kalau-panas-indonesia-ikutan-panas"
-    },
-    {
-      "judul": "Unggahan Warganet Apresiasi Sinergi TNI-Polri Jaga Kondusifitas di Indramayu Viral di Media Sosial",
-      "link_berita": "https://rejabar.republika.co.id/berita/t269q7512/unggahan-warganet-apresiasi-sinergi-tnipolri-jaga-kondusifitas-di-indramayu-viral-di-media-sosial"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kebakaran Hutan di Spanyol dan Portugal Kian Parah Akibat Perubahan Iklim",
+      "link_berita": "https://esgnow.republika.co.id/berita/t27lxn416/kebakaran-hutan-di-spanyol-dan-portugal-kian-parah-akibat-perubahan-iklim",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "KRI Brawijaya-320 Tiba di Tanjung Priok pada 8 September 2025",
+      "link_berita": "https://seputarmiliter.id/posts/703260/kri-brawijaya-320-tiba-di-tanjung-priok-pada-8-september-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Dilatih Kepemimpinan, Ratusan Pemuda Papua Diminta Punya Kendali Diri untuk Menjadi Pemimpin",
+      "link_berita": "https://khazanah.republika.co.id/berita/t27lky483/dilatih-kepemimpinan-ratusan-pemuda-papua-diminta-punya-kendali-diri-untuk-menjadi-pemimpin",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Affirmative Basic Income: Jalan Cepat Pengentasan Kemiskinan",
+      "link_berita": "https://analisis.republika.co.id/berita/t27kw6318/affirmative-basic-income-jalan-cepat-pengentasan-kemiskinan",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Puluhan Balon Udara Hiasi Langit Gorontalo",
+      "link_berita": "https://visual.republika.co.id/berita/t27kck375/puluhan-balon-udara-hiasi-langit-gorontalo",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Perkembangan Terbaru Uji Lab Nampan MBG, Benarkah Mengandung Babi?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t27kch483/perkembangan-terbaru-uji-lab-nampan-mbg-benarkah-mengandung-babi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "BPOM Masih Tunggu Hasil Uji Laboratorium Nampan MBG",
+      "link_berita": "https://news.republika.co.id/berita/t27k59416/bpom-masih-tunggu-hasil-uji-laboratorium-nampan-mbg",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Poltekkes Kemenkes Yogyakarta Berbagi Cara Produksi Pangan Olahan di Moyudan",
+      "link_berita": "https://rejogja.republika.co.id/berita/t27k4p291/poltekkes-kemenkes-yogyakarta-berbagi-cara-produksi-pangan-olahan-di-moyudan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Nadiem Tersangka, Jimly Asshiddiqie: Jangan Pakai Ilmu Kira-Kira",
+      "link_berita": "https://news.republika.co.id/berita/t27k12318/nadiem-tersangka-jimly-asshiddiqie-jangan-pakai-ilmu-kirakira",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Banyak Generasi Muda Terjebak Romance Recession, Dokter Wahyu Tomo Kupas Makna 'Cinta tanpa Sianida'",
+      "link_berita": "https://rejogja.republika.co.id/berita/t27jr4291/banyak-generasi-muda-terjebak-romance-recession-dokter-wahyu-tomo-kupas-makna-cinta-tanpa-sianida",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "PNM Ajak Nasabah Unggulan Mekaar Eksis Pameran di Tokyo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t27jnn368/pnm-ajak-nasabah-unggulan-mekaar-eksis-pameran-di-tokyo",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "De Bruyne: Aneh Rasanya Kembali ke Etihad",
+      "link_berita": "https://news.republika.co.id/berita/t27jkd348/de-bruyne-aneh-rasanya-kembali-ke-etihad",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Makna dan Keagungan Kalimat Tahlil",
+      "link_berita": "https://khazanah.republika.co.id/berita/t278xa430/makna-dan-keagungan-kalimat-tahlil",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Trump Desak Eropa Hentikan Impor Minyak Rusia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t27j4o416/trump-desak-eropa-hentikan-impor-minyak-rusia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "Rumah Netanyahu Digeruduk Massa, Ribuan Warga Israel Berkumpul di Hostage Square Tel Aviv",
+      "link_berita": "https://news.republika.co.id/berita/t27j2g409/rumah-netanyahu-digeruduk-massa-ribuan-warga-israel-berkumpul-di-hostage-square-tel-aviv",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
+      "judul": "5.800 Calon Mahasiswa Baru Mancanegara Minati S2 dan S3 UMS",
+      "link_berita": "https://rejogja.republika.co.id/berita/t27izy291/5800-calon-mahasiswa-baru-mancanegara-minati-s2-dan-s3-ums",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
+    },
+    {
       "judul": "Alex M\u00e1rquez Siap Tebus Kesalahan di Balapan Utama GP Catalunya",
       "link_berita": "https://news.republika.co.id/berita/t27iwu348/alex-mrquez-siap-tebus-kesalahan-di-balapan-utama-gp-catalunya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Cabang Ilmu Pertama yang Sebaiknya Diajarkan ke Anak",
       "link_berita": "https://khazanah.republika.co.id/berita/t278s9430/cabang-ilmu-pertama-yang-sebaiknya-diajarkan-ke-anak",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Polres Garut Olah TKP Tempat Ditemukannya Jasad Encuy, Aktor Sinetron Preman Pensiun",
       "link_berita": "https://news.republika.co.id/berita/t27hyk409/polres-garut-olah-tkp-tempat-ditemukannya-jasad-encuy-aktor-sinetron-preman-pensiun",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Turki vs Spanyol di Kualifikasi Piala Dunia 2026 Zona Eropa",
       "link_berita": "https://skor.republika.co.id/posts/703263/prediksi-dan-link-live-streaming-turki-vs-spanyol-di-kualifikasi-piala-dunia-2026-zona-eropa",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Oposisi Ajukan Mosi Makzulkan Macron dari Jabatan Presiden Prancis",
       "link_berita": "https://news.republika.co.id/berita/t27hfw409/oposisi-ajukan-mosi-makzulkan-macron-dari-jabatan-presiden-prancis",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Jelang Lawan Korsel, Vanenburg Abaikan Rekor Negatif Lawan Tim yang Dipoles Pelatih Negeri Ginseng",
       "link_berita": "https://news.republika.co.id/berita/t27h14348/jelang-lawan-korsel-vanenburg-abaikan-rekor-negatif-lawan-tim-yang-dipoles-pelatih-negeri-ginseng",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Harga Emas Dunia Makin Mengilap, Pengamat Prediksi Tembus 3.700 Dolar AS per Troy Ons Akhir 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27gi9423/harga-emas-dunia-makin-mengilap-pengamat-prediksi-tembus-3700-dolar-as-per-troy-ons-akhir-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Prominent Awards 2025 Jadikan PNM Lembaga Pembiayaan Perempuan Terbesar",
       "link_berita": "https://news.republika.co.id/berita/t27ghy318/prominent-awards-2025-jadikan-pnm-lembaga-pembiayaan-perempuan-terbesar",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Anggaran Kehutanan 2026 Naik, Kemenhut Fokus Rehabilitasi dan Penertiban Izin",
       "link_berita": "https://esgnow.republika.co.id/berita/t27gb0423/anggaran-kehutanan-2026-naik-kemenhut-fokus-rehabilitasi-dan-penertiban-izin",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Bangunan Majelis di Bogor Ambruk Saat Acara Peringatan Maulid Nabi, Tiga Orang Tewas",
       "link_berita": "https://news.republika.co.id/berita/t27gac409/bangunan-majelis-di-bogor-ambruk-saat-acara-peringatan-maulid-nabi-tiga-orang-tewas",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Trump Resmi Ubah Departemen Pertahanan Jadi Departemen Perang",
       "link_berita": "https://seputarmiliter.id/posts/703218/trump-resmi-ubah-departemen-pertahanan-jadi-departemen-perang",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Perang Laut AS-Venezuela Kian Dekat",
       "link_berita": "https://oceania.id/posts/703228/perang-laut-as-venezuela-kian-dekat",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Ilmuwan Temukan Ekosistem Terdalam di Lautan",
       "link_berita": "https://oceania.id/posts/703229/ilmuwan-temukan-ekosistem-terdalam-di-lautan",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Kereta Cepat Whoosh Sudah Angkut 11 Juta Orang",
       "link_berita": "https://kreta.id/posts/703231/kereta-cepat-whoosh-sudah-angkut-11-juta-orang",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Catatan Cak AT: Robot di Meja Redaksi",
       "link_berita": "https://ruzkaindonesia.id/posts/703235/catatan-cak-at-robot-di-meja-redaksi",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Pelatihan Membatik Motif Batik Depok bagi Lansia di Kampung Lio, Intervensi Budaya untuk Cegah Risiko Demensia",
       "link_berita": "https://ruzkaindonesia.id/posts/703238/pelatihan-membatik-motif-batik-depok-bagi-lansia-di-kampung-lio-intervensi-budaya-untuk-cegah-risiko-demensia",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Digunduli Indonesia 5-0, Pelatih Timnas Makau Bilang Begini",
       "link_berita": "https://ruzkaindonesia.id/posts/703241/digunduli-indonesia-5-0-pelatih-timnas-makau-bilang-begini",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Film Timo Tjahjanto Nobody 2 Hanya Meraih 47 Ribu Penonton di Indonesia dalam Sepekan Penayangan",
       "link_berita": "https://filmusiku.com/posts/703245/film-timo-tjahjanto-nobody-2-hanya-meraih-47-ribu-penonton-di-indonesia-dalam-sepekan-penayangan",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Selamat Datang Gerhana Bulan Total 'Blood Moon'",
       "link_berita": "https://impresiupdate.id/posts/703249/selamat-datang-gerhana-bulan-total-blood-moon-",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Temuan Penelitian: Depresi dan Penyakit Jantung Terkait Secara Genetik",
       "link_berita": "https://impresiupdate.id/posts/703253/temuan-penelitian-depresi-dan-penyakit-jantung-terkait-secara-genetik",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Tidak Semua Protein Sama",
       "link_berita": "https://impresiupdate.id/posts/703254/tidak-semua-protein-sama",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Kopi Pagi Dapat Memengaruhi Transfusi Darah, Kok Bisa?",
       "link_berita": "https://impresiupdate.id/posts/703255/kopi-pagi-dapat-memengaruhi-transfusi-darah-kok-bisa-",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Konsulat Korsel Temui Pekerja Hyundai yang Ditahan Imigrasi AS",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27fgo423/konsulat-korsel-temui-pekerja-hyundai-yang-ditahan-imigrasi-as",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Belanegarun Satukan Ribuan Peserta Dalam Semangat Bela Negara",
       "link_berita": "https://news.republika.co.id/berita/t27f6m458/belanegarun-satukan-ribuan-peserta-dalam-semangat-bela-negara",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "UMK Jadi Fokus, BPJPH Perluas Pembinaan Jaminan Produk Halal",
       "link_berita": "https://sharia.republika.co.id/berita/t27e8q423/umk-jadi-fokus-bpjph-perluas-pembinaan-jaminan-produk-halal",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Kota Bandung Perkuat Pendidikan Karakter Siswa Lewat Pendekatan Humanis",
       "link_berita": "https://rejabar.republika.co.id/berita/t27dzh368/kota-bandung-perkuat-pendidikan-karakter-siswa-lewat-pendekatan-humanis",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Tol Semarang\u2013Demak Seksi 1 Ditargetkan Jadi Solusi Permanen Banjir Rob",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27dpu423/tol-semarangdemak-seksi-1-ditargetkan-jadi-solusi-permanen-banjir-rob",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Lithuania vs Belanda di Kualifikasi Piala Dunia 2026 Zona Eropa",
       "link_berita": "https://skor.republika.co.id/posts/703258/prediksi-dan-link-live-streaming-lithuania-vs-belanda-di-kualifikasi-piala-dunia-2026-zona-eropa",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Usai Rusak Akibat Demo, Halte TransJakarta Senen Diresmikan 8 September",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27dgl423/usai-rusak-akibat-demo-halte-transjakarta-senen-diresmikan-8-september",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "KAI Prediksi Hari Ini Jadi Puncak Arus Balik Long Weekend Maulid Nabi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27cv3423/kai-prediksi-hari-ini-jadi-puncak-arus-balik-long-weekend-maulid-nabi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Terima Kasih Orang Baik, Ini Cerita Ojol Dapat Order Makanan Termasuk dari Malaysia untuk Dibagikan",
       "link_berita": "https://news.republika.co.id/berita/t27c9g409/terima-kasih-orang-baik-ini-cerita-ojol-dapat-order-makanan-termasuk-dari-malaysia-untuk-dibagikan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "InJourney Jamin Keamanan Bandara hingga Destinasi Wisata Unggulan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t27c7a423/injourney-jamin-keamanan-bandara-hingga-destinasi-wisata-unggulan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Maulid Nabi, Ketum MUI: Kelahiran Rasulullah Tanda Allah Sayang kepada Umatnya",
       "link_berita": "https://khazanah.republika.co.id/berita/t27bhi483/maulid-nabi-ketum-mui-kelahiran-rasulullah-tanda-allah-sayang-kepada-umatnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Mantan Penyidik Sebut KPK Tetap Berwenang Usut Kasus Google Cloud Usai Nadiem Tersangka",
       "link_berita": "https://news.republika.co.id/berita/t27aks409/mantan-penyidik-sebut-kpk-tetap-berwenang-usut-kasus-google-cloud-usai-nadiem-tersangka",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Epilog Senja",
-      "link_berita": "https://www.republika.id/posts/58939/epilog-senja",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Tembok Masjid Ghede Kauman Yogya Roboh Ditendang Sultan HB X, Jejak Banon di Sekaten Maulid Nabi",
-      "link_berita": "https://rejogja.republika.co.id/berita/t279x5282/tembok-masjid-ghede-kauman-yogya-roboh-ditendang-sultan-hb-x-jejak-banon-di-sekaten-maulid-nabi",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Regulasi Zakat, Dari MK ke DPR",
-      "link_berita": "https://khazanah.republika.co.id/berita/t279g2368/regulasi-zakat-dari-mk-ke-dpr",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Syarat Timnas U-23 Indonesia Bisa Lolos Piala Asia U-23 2026",
-      "link_berita": "https://skor.republika.co.id/posts/703240/syarat-timnas-u-23-indonesia-bisa-lolos-piala-asia-u-23-2026",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "6 Pemain Timnas Lebanon yang Bermain di Luar Negeri",
-      "link_berita": "https://skor.republika.co.id/posts/703236/6-pemain-timnas-lebanon-yang-bermain-di-luar-negeri",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Manfaat Game Puzzle: Hiburan Sekaligus Latihan Otak",
-      "link_berita": "https://retizen.republika.co.id/posts/703159/manfaat-game-puzzle-hiburan-sekaligus-latihan-otak",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Hidup Perempuan yang Melawan",
-      "link_berita": "https://retizen.republika.co.id/posts/703161/hidup-perempuan-yang-melawan",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Huru-Hara Demo DPR RI, Palembang Kondusif",
-      "link_berita": "https://retizen.republika.co.id/posts/703168/huru-hara-demo-dpr-ri-palembang-kondusif",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Naskah Jawi di Dapur: Ketika Nenek Moyang Menulis Resep dengan Tinta dan Tradisi",
-      "link_berita": "https://retizen.republika.co.id/posts/703174/naskah-jawi-di-dapur-ketika-nenek-moyang-menulis-resep-dengan-tinta-dan-tradisi",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Sastra Horor: Indonesia dan Amerika",
-      "link_berita": "https://retizen.republika.co.id/posts/703176/sastra-horor-indonesia-dan-amerika",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Konsisten Layani Keuangan Inklusif, BRI Peroleh Anugerah Ekonomi Hijau atas Pemberdayaan UMKM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t2789j368/konsisten-layani-keuangan-inklusif-bri-peroleh-anugerah-ekonomi-hijau-atas-pemberdayaan-umkm",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Mengungkap Makna Sumud, Rahasia di Balik Keteguhan Bangsa Palestina yang tak Mau Menyerah",
-      "link_berita": "https://khazanah.republika.co.id/berita/t277sc483/mengungkap-makna-sumud-rahasia-di-balik-keteguhan-bangsa-palestina-yang-tak-mau-menyerah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Ada WNI Ikut Terciduk Razia Imigrasi AS di Pabrik Hyundai Georgia, Ini Keterangan Kemlu RI",
-      "link_berita": "https://news.republika.co.id/berita/t277gs409/ada-wni-ikut-terciduk-razia-imigrasi-as-di-pabrik-hyundai-georgia-ini-keterangan-kemlu-ri",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Kemenpar: Wisatawan Malaysia Suka Naik Whoosh dan Kereta Panoramic",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t27753502/kemenpar-wisatawan-malaysia-suka-naik-whoosh-dan-kereta-panoramic",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "KDKMP Syariah: Pilar Baru Ekonomi Umat Berbasis Zakat dan Wakaf",
-      "link_berita": "https://analisis.republika.co.id/berita/t271gc393/kdkmp-syariah-pilar-baru-ekonomi-umat-berbasis-zakat-dan-wakaf",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
-    },
-    {
-      "judul": "Diberitakan Main Domino dengan Azis Wellang, Menteri Kehutanan: Saya tidak Kenal",
-      "link_berita": "https://news.republika.co.id/berita/t27681483/diberitakan-main-domino-dengan-azis-wellang-menteri-kehutanan-saya-tidak-kenal",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 07:18:08"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 08:24:08"
     },
     {
       "judul": "Sheila On 7 Tampil Beda di Pestapora 2025 dengan Setlist B-Sides",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Sunday, 07 Sep 2025, 00:00:00"
     },
     {
-      "judul": "Google Diam-diam Hapus Janji Net-Zero 2030, Picu Pertanyaan atas Komitmen Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/t268ww522/google-diamdiam-hapus-janji-netzero-2030-picu-pertanyaan-atas-komitmen-iklim",
+      "judul": "Kebakaran Hutan di Spanyol dan Portugal Kian Parah Akibat Perubahan Iklim",
+      "link_berita": "https://esgnow.republika.co.id/berita/t27lxn416/kebakaran-hutan-di-spanyol-dan-portugal-kian-parah-akibat-perubahan-iklim",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Saturday, 06 Sep 2025, 21:43:00"
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 15:22:00"
     },
     {
-      "judul": "Konsulat Korsel Temui Pekerja Hyundai yang Ditahan Imigrasi AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t27fgo423/konsulat-korsel-temui-pekerja-hyundai-yang-ditahan-imigrasi-as",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 13:02:00"
+      "judul": "PNM Ajak Nasabah Unggulan Mekaar Eksis Pameran di Tokyo",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t27jnn368/pnm-ajak-nasabah-unggulan-mekaar-eksis-pameran-di-tokyo",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 14:33:00"
     },
     {
       "judul": "BSI Sediakan 345 Outlet Weekend Banking untuk Nasabah di September 2025",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 07 Sep 2025, 07:28:00"
     },
     {
-      "judul": "Alex M\u00e1rquez Siap Tebus Kesalahan di Balapan Utama GP Catalunya",
-      "link_berita": "https://news.republika.co.id/berita/t27iwu348/alex-mrquez-siap-tebus-kesalahan-di-balapan-utama-gp-catalunya",
-      "kategori": "Sport",
-      "tanggal_terbit": "Sunday, 07 Sep 2025, 14:17:00"
+      "judul": "Affirmative Basic Income: Jalan Cepat Pengentasan Kemiskinan",
+      "link_berita": "https://analisis.republika.co.id/berita/t27kw6318/affirmative-basic-income-jalan-cepat-pengentasan-kemiskinan",
+      "kategori": "Wacana",
+      "tanggal_terbit": "Sunday, 07 Sep 2025, 15:00:00"
     }
   ],
-  "waktu_scraping": "Sunday, 07 Sep 2025, 14:18:08"
+  "waktu_scraping": "Sunday, 07 Sep 2025, 15:24:08"
 }
