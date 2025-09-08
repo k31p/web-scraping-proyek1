@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "BREAKING NEWS: Prabowo Rombak Kabinet, Budi Gunawan, Sri Mulyani Hingga Budi Arie Diganti",
+      "link_berita": "https://news.republika.co.id/berita/t29h9j377/breaking-news-prabowo-rombak-kabinet-budi-gunawan-sri-mulyani-hingga-budi-arie-diganti"
+    },
+    {
+      "judul": "Prabowo Ganti Menko Polkam Budi Gunawan dan Menkeu Sri Mulyani",
+      "link_berita": "https://news.republika.co.id/berita/t29h0d484/prabowo-ganti-menko-polkam-budi-gunawan-dan-menkeu-sri-mulyani"
+    },
+    {
       "judul": "Dipanggil ke Istana karena Reshuffle? Airlangga: Kita Tunggu Saja",
       "link_berita": "https://news.republika.co.id/berita/t29gn2487/dipanggil-ke-istana-karena-reshuffle-airlangga-kita-tunggu-saja"
     },
@@ -9,19 +17,23 @@
       "link_berita": "https://rejabar.republika.co.id/berita/t29d4v512/ada-seruan-efisiensi-ratusan-miliar-apbd-ternyata-dialokasikan-untuk-gubernur-wagub-dan-dprd-jabar"
     },
     {
-      "judul": "Isu Baki MBG Diragukan Kehalalannya, Babe Haikal Sebut Wartawan Tidak Bertanggung Jawab",
-      "link_berita": "https://khazanah.republika.co.id/berita/t29a2k430/isu-baki-mbg-diragukan-kehalalannya-babe-haikal-sebut-wartawan-tidak-bertanggung-jawab"
-    },
-    {
-      "judul": "Tunjangan Rumah Rp70 Juta Per Bulan Anggota Dewan Disorot, Pramono: DPRD Gelar Rapat Hari Ini",
-      "link_berita": "https://news.republika.co.id/berita/t296vl409/tunjangan-rumah-rp70-juta-per-bulan-anggota-dewan-disorot-pramono-dprd-gelar-rapat-hari-ini"
-    },
-    {
-      "judul": "Trump Beri Peringatan Terakhir untuk Hamas, Klaim Israel Setuju Gencatan Senjata",
-      "link_berita": "https://news.republika.co.id/berita/t2942t409/trump-beri-peringatan-terakhir-untuk-hamas-klaim-israel-setuju-gencatan-senjata"
+      "judul": "Isu Nampan MBG Diragukan Kehalalannya, Babe Haikal Sebut Wartawan tidak Bertanggung Jawab",
+      "link_berita": "https://khazanah.republika.co.id/berita/t29a2k430/isu-nampan-mbg-diragukan-kehalalannya-babe-haikal-sebut-wartawan-tidak-bertanggung-jawab"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Nostalgia Sri Mulyani Mundur dari Kabinet pada 2010, IHSG Langsung Anjlok 3,8 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t29inn490/nostalgia-sri-mulyani-mundur-dari-kabinet-pada-2010-ihsg-langsung-anjlok-38-persen"
+    },
+    {
+      "judul": "Reshuffle ala Umar bin Khattab: Copot Pejabat yang Terima Uang di Luar Gaji",
+      "link_berita": "https://khazanah.republika.co.id/berita/t29h5p430/reshuffle-ala-umar-bin-khattab-copot-pejabat-yang-terima-uang-di-luar-gaji"
+    },
+    {
+      "judul": "Kisah Ulama Menolak Permintaan Fatwa Penguasa",
+      "link_berita": "https://khazanah.republika.co.id/berita/t29gsm430/kisah-ulama-menolak-permintaan-fatwa-penguasa"
+    },
     {
       "judul": "Hasil Survei: Transportasi Umum di Jakarta Terbaik ke-17, Hanya Kalah oleh Singapura di ASEAN",
       "link_berita": "https://news.republika.co.id/berita/t29cfg487/hasil-survei-transportasi-umum-di-jakarta-terbaik-ke17-hanya-kalah-oleh-singapura-di-asean"
@@ -69,326 +81,314 @@
     {
       "judul": "Kompensasi Pengalihan TKD, Pendanaan Kopdes Merah Putih Capai Rp 16 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t28o90484/kompensasi-pengalihan-tkd-pendanaan-kopdes-merah-putih-capai-rp-16-triliun"
-    },
-    {
-      "judul": "Rasulullah: Aku Diutus untuk Sempurnakan Akhlak Mulia",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2818d458/rasulullah-aku-diutus-untuk-sempurnakan-akhlak-mulia"
-    },
-    {
-      "judul": "Beribadah Seperti Sedang Melihat Allah, Ini 3 Level Ihsan Menurut Ibnul Qayyim",
-      "link_berita": "https://khazanah.republika.co.id/berita/t281u6458/beribadah-seperti-sedang-melihat-allah-ini-3-level-ihsan-menurut-ibnul-qayyim"
-    },
-    {
-      "judul": "Gerhana Bulan Merah Terlihat di Kepri Meski Langit Berawan",
-      "link_berita": "https://news.republika.co.id/berita/t289wa7630000/gerhana-bulan-merah-terlihat-di-kepri-meski-langit-berawan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Terungkap Sosok Pembunuh Satu Keluarga di Indramayu, Begini Penjelasan Polisi",
+      "link_berita": "https://news.republika.co.id/berita/t29is6487/terungkap-sosok-pembunuh-satu-keluarga-di-indramayubeginipenjelasan-polisi",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:25:00"
+    },
+    {
+      "judul": "Terapi Musik Bisa Meredakan Nyeri Punggung Bagi Pasien UGD",
+      "link_berita": "https://impresiupdate.id/posts/703401/terapi-musik-bisa-meredakan-nyeri-punggung-bagi-pasien-ugd",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:23:38"
+    },
+    {
+      "judul": "Catatan Cak AT: Kota Cinta untuk Penguasa",
+      "link_berita": "https://ruzkaindonesia.id/posts/703430/catatan-cak-at-kota-cinta-untuk-penguasa",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:23:38"
+    },
+    {
+      "judul": "186.711 Tiket Arus Balik Sudah Dipesan, Okupansi Sementara Capai 112,01 persen",
+      "link_berita": "https://kreta.id/posts/703435/186-711-tiket-arus-balik-sudah-dipesan-okupansi-sementara-capai-112-01-persen",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:23:38"
+    },
+    {
+      "judul": "Polisi Tembak Dua Pembunuh 5 Anggota Keluarrga Sahroni",
+      "link_berita": "https://news.republika.co.id/berita/t29jc1377/polisi-tembak-dua-pembunuh-5-anggota-keluarrga-sahroni",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:21:38"
+    },
+    {
+      "judul": "Tentang Brave Pink, Hero Green, dan Orang Menggigit Anjing",
+      "link_berita": "https://oohya.republika.co.id/posts/703462/tentang-brave-pink-hero-green-dan-orang-menggigit-anjing",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:21:38"
+    },
+    {
+      "judul": "Purbaya Gantikan Sri Mulyani Jadi Menteri Keuangan, Ini Pesan Ekonom",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t29jbm370/purbaya-gantikan-sri-mulyani-jadi-menteri-keuangan-ini-pesan-ekonom",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:21:38"
+    },
+    {
+      "judul": "Laga Seru SMPN7 Bandung vs SMP BPK Penabur di Revival 4 Basketball Championship",
+      "link_berita": "https://kangjepret.id/posts/703457/laga-seru-smpn7-bandung-vs-smp-bpk-penabur-di-revival-4-basketball-championship",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:20:38"
+    },
+    {
+      "judul": "China Penyumbang Terbanyak Limbah di Lautan",
+      "link_berita": "https://oceania.id/posts/703463/china-penyumbang-terbanyak-limbah-di-lautan",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:20:38"
+    },
+    {
+      "judul": "Bahasa Jurnalistik Cermin Kualitas Demokrasi (Demonstrasi Anarki atau Anarkis)",
+      "link_berita": "https://kingdomsriwijaya.id/posts/703465/bahasa-jurnalistik-cermin-kualitas-demokrasi-demonstrasi-anarki-atau-anarkis-",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:20:38"
+    },
+    {
+      "judul": "Kabinet Dirombak, Prabowo Copot Menkop Budi Arie, Ferry Juliantono Ditunjuk Jadi Pengganti",
+      "link_berita": "https://news.republika.co.id/berita/t29j5n377/kabinet-dirombak-prabowo-copot-menkop-budi-arie-ferry-juliantono-ditunjuk-jadi-pengganti",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:17:38"
+    },
+    {
+      "judul": "Dicopot Prabowo, Ini Reaksi Dito Ariotedjo",
+      "link_berita": "https://news.republika.co.id/berita/t29j2o430/dicopot-prabowo-ini-reaksi-dito-ariotedjo",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:15:38"
+    },
+    {
+      "judul": "Toyota Luncurkan New Kijang Innova Zenix, Ini Spesifikasi Terbarunya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t29ixy468/toyota-luncurkan-new-kijang-innova-zenix-ini-spesifikasi-terbarunya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:13:38"
+    },
+    {
+      "judul": "Tunjangan Rumah DPRD Jateng Capai Hampir Rp80 Juta per Bulan",
+      "link_berita": "https://rejogja.republika.co.id/berita/t29iwy282/tunjangan-rumah-dprd-jateng-capai-hampir-rp80-juta-per-bulan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:12:38"
+    },
+    {
+      "judul": "Presiden Prabowo Reshuffle Menpora Dito Ariotedjo",
+      "link_berita": "https://skor.republika.co.id/posts/703471/presiden-prabowo-reshuffle-menpora-dito-ariotedjo",
+      "kategori": "Network",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:09:38"
+    },
+    {
+      "judul": "Nostalgia Sri Mulyani Mundur dari Kabinet pada 2010, IHSG Langsung Anjlok 3,8 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t29inn490/nostalgia-sri-mulyani-mundur-dari-kabinet-pada-2010-ihsg-langsung-anjlok-38-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:06:38"
+    },
+    {
+      "judul": "Reshuffle Kabinet Merah Putih: Ini Daftar 5 Menteri yang Dicopot Presiden Prabowo",
+      "link_berita": "https://rejabar.republika.co.id/berita/t29ick282/reshuffle-kabinet-merah-putih-ini-daftar-5-menteri-yang-dicopot-presiden-prabowo",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 09:00:38"
+    },
+    {
+      "judul": "Pelaku Pembunuh Satu Keluarga di Indramayu Ternyata Mantan Rekan Kerja Korban di Bank",
+      "link_berita": "https://rejabar.republika.co.id/berita/t29ib2512/pelaku-pembunuh-satu-keluarga-di-indramayu-ternyata-mantan-rekan-kerja-korban-di-bank",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:59:38"
+    },
+    {
+      "judul": "Data Cadangan Devisa Turun, tapi Rupiah Ditutup Menguat ke Level Rp 16.300-an",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t29i9b370/data-cadangan-devisa-turun-tapi-rupiah-ditutup-menguat-ke-level-rp-16300an",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:58:38"
+    },
+    {
+      "judul": "Psikolog Ungkap Gejala Depresi Ibu Rumah Tangga yang Sering Terabaikan",
+      "link_berita": "https://ameera.republika.co.id/berita/t29i94425/psikolog-ungkap-gejala-depresi-ibu-rumah-tangga-yang-sering-terabaikan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:58:38"
+    },
+    {
+      "judul": "Perombakan Kabinet, Sri Mulyani Diganti Purbaya Yudhi Sadewa",
+      "link_berita": "https://news.republika.co.id/berita/t29i8f377/perombakan-kabinet-sri-mulyani-diganti-purbaya-yudhi-sadewa",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:57:38"
+    },
+    {
+      "judul": "Reshuffle di Lima Kementerian, Prabowo Lantik Menteri Haji dan Umrah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t29i6i430/reshuffle-di-lima-kementerian-prabowo-lantik-menteri-haji-dan-umrah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:56:38"
+    },
+    {
+      "judul": "Reshuffle Kabinet: Presiden Prabowo Copot 5 Menteri, Salah Satunya Menkeu Sri Mulyani",
+      "link_berita": "https://rejogja.republika.co.id/berita/t29hmh282/reshuffle-kabinet-presiden-prabowo-copot-5-menteri-salah-satunya-menkeu-sri-mulyani",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:44:38"
+    },
+    {
+      "judul": "Reshuffle di Masa Umar bin Abdul Aziz, Copot Orang yang Diangkat Pejabat Zalim",
+      "link_berita": "https://khazanah.republika.co.id/berita/t29hje430/reshuffle-di-masa-umar-bin-abdul-aziz-copot-orang-yang-diangkat-pejabat-zalim",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:42:38"
+    },
+    {
+      "judul": "BREAKING NEWS: Prabowo Rombak Kabinet, Budi Gunawan, Sri Mulyani Hingga Budi Arie Diganti",
+      "link_berita": "https://news.republika.co.id/berita/t29h9j377/breaking-news-prabowo-rombak-kabinet-budi-gunawan-sri-mulyani-hingga-budi-arie-diganti",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:36:38"
+    },
+    {
+      "judul": "Ditahan 4 Hari, Nadiem Makarim Dapat Bekal Samosa dan Pastel Buatan Ibunya",
+      "link_berita": "https://news.republika.co.id/berita/t29h8m487/ditahan-4-hari-nadiem-makarim-dapat-bekal-samosa-dan-pastel-buatan-ibunya",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:36:38"
+    },
+    {
+      "judul": "Menag Beri Bantuan Pembangunan Majelis Taklim yang Roboh di Bogor",
+      "link_berita": "https://khazanah.republika.co.id/berita/t298y7451/menag-beri-bantuan-pembangunan-majelis-taklim-yang-roboh-di-bogor",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:34:38"
+    },
+    {
+      "judul": "Reshuffle ala Umar bin Khattab: Copot Pejabat yang Terima Uang di Luar Gaji",
+      "link_berita": "https://khazanah.republika.co.id/berita/t29h5p430/reshuffle-ala-umar-bin-khattab-copot-pejabat-yang-terima-uang-di-luar-gaji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:34:38"
+    },
+    {
+      "judul": "Isu Reshuffle Kabinet Menguat, Purbaya hingga Gus Irfan Hadir di Istana",
+      "link_berita": "https://news.republika.co.id/berita/t29h4f370/isu-reshuffle-kabinet-menguat-purbaya-hingga-gus-irfan-hadir-di-istana",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:33:38"
+    },
+    {
+      "judul": "Lakukan Perlawanan Saat akan Ditangkap, Polisi Tembak Pelaku Pembunuh Keluarga Haji Sahroni",
+      "link_berita": "https://rejabar.republika.co.id/berita/t29h14512/lakukan-perlawanan-saat-akan-ditangkap-polisi-tembak-pelaku-pembunuh-keluarga-haji-sahroni",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:31:38"
+    },
+    {
+      "judul": "Prabowo Ganti Menko Polkam Budi Gunawan dan Menkeu Sri Mulyani",
+      "link_berita": "https://news.republika.co.id/berita/t29h0d484/prabowo-ganti-menko-polkam-budi-gunawan-dan-menkeu-sri-mulyani",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:31:38"
+    },
+    {
       "judul": "Kisah Ulama Menolak Permintaan Fatwa Penguasa",
       "link_berita": "https://khazanah.republika.co.id/berita/t29gsm430/kisah-ulama-menolak-permintaan-fatwa-penguasa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:26:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:26:38"
     },
     {
       "judul": "Dipanggil ke Istana karena Reshuffle? Airlangga: Kita Tunggu Saja",
       "link_berita": "https://news.republika.co.id/berita/t29gn2487/dipanggil-ke-istana-karena-reshuffle-airlangga-kita-tunggu-saja",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:23:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Kisah Ulama Yahudi yang Mengikuti Hawa Nafsu",
       "link_berita": "https://khazanah.republika.co.id/berita/t29gm1430/kisah-ulama-yahudi-yang-mengikuti-hawa-nafsu",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:22:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Cerita Ipda Sandi Operasi Tempurung Tengkorak Diganti Titanium",
       "link_berita": "https://tv.republika.co.id/berita/t29gjl418/cerita-ipda-sandi-operasi-tempurung-tengkorak-diganti-titanium",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:21:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Skandal Google dan Israel Kaburkan Fakta Kelaparan Ekstrem di Gaza Terbongkar",
       "link_berita": "https://khazanah.republika.co.id/berita/t29gex320/skandal-google-dan-israel-kaburkan-fakta-kelaparan-ekstrem-di-gaza-terbongkar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:18:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Tunjangan Perumahan DPRD DKI Rp 70 Triliun Per Bulan Digugat, Ini Sikap PKS",
       "link_berita": "https://news.republika.co.id/berita/t29ge0377/tunjangan-perumahan-dprd-dki-rp-70-triliun-per-bulan-digugat-ini-sikap-pks",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:17:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Pemerintah Respons Tuntutan Rakyat, Yusril: Tak Semua Bisa Langsung Dipenuhi",
       "link_berita": "https://news.republika.co.id/berita/t29gah487/pemerintah-respons-tuntutan-rakyat-yusril-tak-semua-bisa-langsung-dipenuhi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:15:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Chile Buka Peluang Impor Mobil Listrik dari Indonesia Lewat IC-CEPA",
       "link_berita": "https://ekonomi.republika.co.id/berita/t29g1y370/chile-buka-peluang-impor-mobil-listrik-dari-indonesia-lewat-iccepa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:10:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Korea Selatan vs Indonesia di Kualifikasi Piala Asia U-23 2026",
       "link_berita": "https://skor.republika.co.id/posts/703458/prediksi-dan-link-live-streaming-korea-selatan-vs-indonesia-di-kualifikasi-piala-asia-u-23-2026",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:09:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Wamenhan Terima Kunjungan KSAD Australia Bahas Pertukaran Taruna",
       "link_berita": "https://news.republika.co.id/berita/t29fou484/wamenhan-terima-kunjungan-ksad-australia-bahas-pertukaran-taruna",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:02:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Besaran Tunjangan Rumah Disorot, Pimpinan DPRD dan Gubernur Jateng Gelar Rapat Evaluasi",
       "link_berita": "https://news.republika.co.id/berita/t29fmx487/besaran-tunjangan-rumah-disorot-pimpinan-dprd-dan-gubernur-jateng-gelar-rapat-evaluasi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:01:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Istri: Nadiem Sehat, Baca Buku dalam Tahanan",
       "link_berita": "https://news.republika.co.id/berita/t29fmo377/istri-nadiem-sehat-baca-buku-dalam-tahanan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:01:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 08:25:38"
     },
     {
       "judul": "Airlangga: Skema Burden Sharing BI-Kemenkeu Hanya Bagi Bunga SBN",
       "link_berita": "https://ekonomi.republika.co.id/berita/t29e16370/airlangga-skema-burden-sharing-bikemenkeu-hanya-bagi-bunga-sbn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:54:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
       "judul": "Tunjangan Rumah DPRD Jateng Capai Rp 47 Juta hingga Hampir Rp 80 Juta, Transportasi Rp 16 Juta",
       "link_berita": "https://news.republika.co.id/berita/t29f90487/tunjangan-rumah-dprd-jateng-capai-rp-47-juta-hingga-hampir-rp-80-juta-transportasi-rp-16-juta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:53:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
       "judul": "Bank Mandiri Perkuat Komitmen ESG Lewat Livin\u2019 Planet dan Aktivasi Keberlanjutan Looping For Life",
       "link_berita": "https://esgnow.republika.co.id/berita/t29f6h368/bank-mandiri-perkuat-komitmen-esg-lewat-livin-planet-dan-aktivasi-keberlanjutan-looping-for-life",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:51:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
       "judul": "Ustaz Bachtiar Nasir Tiba di Tunisia, Dampingi Global Peace Convoy Menuju Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/t29f3i458/ustaz-bachtiar-nasir-tiba-di-tunisia-dampingi-global-peace-convoy-menuju-gaza",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:49:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
       "judul": "Memphis Depay Tinggalkan Robin van Persie di Daftar Top Skor Sepanjang Masa Belanda",
       "link_berita": "https://skor.republika.co.id/posts/703454/memphis-depay-tinggalkan-robin-van-persie-di-daftar-top-skor-sepanjang-masa-belanda",
       "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:49:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
       "judul": "KPAI Ungkap Kasus Filisida Paling Banyak Dilakukan Ibu",
       "link_berita": "https://ameera.republika.co.id/berita/t29elj425/kpai-ungkap-kasus-filisida-paling-banyak-dilakukan-ibu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:39:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
       "judul": "Validasi dari Naga Api Bikin Richard Mainaky Makin Yakin Terhadap Anak-Anak Manado",
       "link_berita": "https://news.republika.co.id/berita/t29efj456/validasi-dari-naga-api-bikin-richard-mainaky-makin-yakin-terhadap-anakanak-manado",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:35:39"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 07:25:38"
     },
     {
-      "judul": "Pemkab Jayapura: Pesantren Ciptakan Generasi Berakhlak",
-      "link_berita": "https://khazanah.republika.co.id/berita/t298ud451/pemkab-jayapura-pesantren-ciptakan-generasi-berakhlak",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:32:39"
-    },
-    {
-      "judul": "Anggota DPR Bertanya-tanya Kok Bisa Calon Hakim Agung Terrduga Plagiat Lolos Seleksi",
-      "link_berita": "https://news.republika.co.id/berita/t29e6u377/anggota-dpr-bertanyatanya-kok-bisa-calon-hakim-agung-terrduga-plagiat-lolos-seleksi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Airlangga: Pemerintah Pantau Isu PHK Massal di Gudang Garam",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t29dir370/airlangga-pemerintah-pantau-isu-phk-massal-di-gudang-garam",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Tidur Miring Bisa Merusak Wajah? Ternyata Cuma Mitos",
-      "link_berita": "https://ameera.republika.co.id/berita/t29e13425/tidur-miring-bisa-merusak-wajah-ternyata-cuma-mitos",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "BPKH Kucurkan Rp 2,1 Triliun Nilai Manfaat untuk 5,4 Juta Orang Jamaah Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/t29dv5458/bpkh-kucurkan-rp-21-triliun-nilai-manfaat-untuk-54-juta-orang-jamaah-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Pembagian Grup Pekan Pertama PMSL SEA Fall 2025",
-      "link_berita": "https://skor.republika.co.id/posts/703446/pembagian-grup-pekan-pertama-pmsl-sea-fall-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Head-to-Head Timnas Lebanon vs Negara-Negara Asia Tenggara",
-      "link_berita": "https://skor.republika.co.id/posts/703445/head-to-head-timnas-lebanon-vs-negara-negara-asia-tenggara",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Teka-Teki Mulai Terungkap, Pembunuh Satu Keluarga di Indrramayu Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/t29d6z377/tekateki-mulai-terungkap-pembunuh-satu-keluarga-di-indrramayu-ditangkap",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Ada Seruan Efisiensi, Ratusan Miliar APBD Ternyata Dialokasikan untuk Gubernur, Wagub dan DPRD Jabar",
-      "link_berita": "https://rejabar.republika.co.id/berita/t29d4v512/ada-seruan-efisiensi-ratusan-miliar-apbd-ternyata-dialokasikan-untuk-gubernur-wagub-dan-dprd-jabar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Survey Results: Public Transport in Jakarta 17th Best, Losing Only to Singapore in ASEAN",
-      "link_berita": "https://en.republika.co.id/berita/t29d4r415/survey-results-public-transport-in-jakarta-17th-best-losing-only-to-singapore-in-asean",
-      "kategori": "En",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 08:30:39"
-    },
-    {
-      "judul": "Babe Haikal: Tidak Ada Kementerian yang Paling Peduli Halal Selain Bappenas",
-      "link_berita": "https://khazanah.republika.co.id/berita/t29d4m430/babe-haikal-tidak-ada-kementerian-yang-paling-peduli-halal-selain-bappenas",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Airlangga Minta Porsi Produk Lokal di Harbolnas 2025 Lebih Tinggi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t29d1z370/airlangga-minta-porsi-produk-lokal-di-harbolnas-2025-lebih-tinggi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Ramai Wisatawan pada Libur Maulid Nabi, Malioboro Tunjukkan Tanda Pulih Pasca-Demonstrasi",
-      "link_berita": "https://rejogja.republika.co.id/berita/t29cxc291/ramai-wisatawan-pada-libur-maulid-nabi-malioboro-tunjukkan-tanda-pulih-pascademonstrasi",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 07:30:39"
-    },
-    {
-      "judul": "Rekap Pekan Ketiga IKL Fall 2025, Bigetron by Vitality ke Puncak",
-      "link_berita": "https://skor.republika.co.id/posts/703442/rekap-pekan-ketiga-ikl-fall-2025-bigetron-by-vitality-ke-puncak",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Israel Terus Hujani Kota Gaza dengan Rudal",
-      "link_berita": "https://tv.republika.co.id/berita/t29ciy418/israel-terus-hujani-kota-gaza-dengan-rudal",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Taylor Swift tak Datang ke MTV VMAs 2025, Apa Alasannya?",
-      "link_berita": "https://ameera.republika.co.id/berita/t29ch4425/taylor-swift-tak-datang-ke-mtv-vmas-2025-apa-alasannya",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Hasil Survei: Transportasi Umum di Jakarta Terbaik ke-17, Hanya Kalah oleh Singapura di ASEAN",
-      "link_berita": "https://news.republika.co.id/berita/t29cfg487/hasil-survei-transportasi-umum-di-jakarta-terbaik-ke17-hanya-kalah-oleh-singapura-di-asean",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Mahasiswa Pro Palestina Minta FTTM ITB Hentikan Kerjasama dengan Perusahaan Terafiliasi Zionis",
-      "link_berita": "https://khazanah.republika.co.id/berita/t29cc9483/mahasiswa-pro-palestina-minta-fttm-itb-hentikan-kerjasama-dengan-perusahaan-terafiliasi-zionis",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Terungkap, Tentara Israel Banyak yang Bunuh Diri Depresi Akibat Perang di Gaza",
-      "link_berita": "https://khazanah.republika.co.id/berita/t29c0u320/terungkap-tentara-israel-banyak-yang-bunuh-diri-depresi-akibat-perang-di-gaza",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "BPKH Salurkan Nilai Manfaat Tahun 2025 Sebesar Rp 2,1 Triliun untuk Jamaah Haji Tunggu",
-      "link_berita": "https://sharia.republika.co.id/berita/t29bru472/bpkh-salurkan-nilai-manfaat-tahun-2025-sebesar-rp-21-triliun-untuk-jamaah-haji-tunggu",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "ASN PPPK di Pemkab Bandung Barat Dilaporkan ke Polisi, Diduga Lecehkan Ketiga Anak Tirinya",
-      "link_berita": "https://rejabar.republika.co.id/berita/t29bhy512/asn-pppk-di-pemkab-bandung-barat-dilaporkan-ke-polisi-diduga-lecehkan-ketiga-anak-tirinya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "17.733 Orang Kunjungi Gunung Bromo Saat Libur Panjang Maulid Nabi Muhammad",
-      "link_berita": "https://khazanah.republika.co.id/berita/t298h6451/17733-orang-kunjungi-gunung-bromo-saat-libur-panjang-maulid-nabi-muhammad",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Remaja Wajib Tahu! Cara Minum Tablet Tambah Darah Biar Zat Besinya Nyerap Maksimal",
-      "link_berita": "https://inforemaja.id/posts/703368/remaja-wajib-tahu-cara-minum-tablet-tambah-darah-biar-zat-besinya-nyerap-maksimal",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Bakamla RI dan Kemenhut Amankan Kayu Olahan Ilegal di Batam",
-      "link_berita": "https://pemantiknews.id/posts/703379/bakamla-ri-dan-kemenhut-amankan-kayu-olahan-ilegal-di-batam",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "RAPBD Jakarta Capai Rp95,35 Triliun, Ini 4 Catatan Fahira Idris",
-      "link_berita": "https://pemantiknews.id/posts/703385/rapbd-jakarta-capai-rp95-35-triliun-ini-4-catatan-fahira-idris",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Bagian Terbakar Halte Jaga Jakarta Tak Direnovasi, Jadi Pengingat Publik",
-      "link_berita": "https://news.republika.co.id/berita/t29bci370/bagian-terbakar-halte-jaga-jakarta-tak-direnovasi-jadi-pengingat-publik",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Peningkatan Harapan Hidup Manusia Mungkin Telah Melewati Puncaknya",
-      "link_berita": "https://impresiupdate.id/posts/703398/peningkatan-harapan-hidup-manusia-mungkin-telah-melewati-puncaknya",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Berjalan 7.000 Langkah Sehari Mengurangi Risiko Kematian Lebih 40 Persen",
-      "link_berita": "https://impresiupdate.id/posts/703404/berjalan-7-000-langkah-sehari-mengurangi-risiko-kematian-lebih-40-persen",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Prajurit Pasmar 3 Hidupkan Cahaya Maulid Nabi Muhammad SAW di Lebanon",
-      "link_berita": "https://magentatoday.id/posts/703407/prajurit-pasmar-3-hidupkan-cahaya-maulid-nabi-muhammad-saw-di-lebanon",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Pelaku Usaha di Sukabumi Diingatkan Terkait Dokumen Amdal",
-      "link_berita": "https://sukabumikini.com/posts/703423/pelaku-usaha-di-sukabumi-diingatkan-terkait-dokumen-amdal",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "Beternak Ayam Elba untuk Konsumsi Rumah Tangga: Perawatan Mudah, Telur Melimpah",
-      "link_berita": "https://fifarm.id/posts/703433/beternak-ayam-elba-untuk-konsumsi-rumah-tangga-perawatan-mudah-telur-melimpah",
-      "kategori": "Network",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 06:30:39"
-    },
-    {
-      "judul": "KPAI Ungkap Kasus Filisida Paling Banyak Dilakukan Ibu",
-      "link_berita": "https://ameera.republika.co.id/berita/t29elj425/kpai-ungkap-kasus-filisida-paling-banyak-dilakukan-ibu",
-      "kategori": "Happening",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 14:39:00"
+      "judul": "Psikolog Ungkap Gejala Depresi Ibu Rumah Tangga yang Sering Terabaikan",
+      "link_berita": "https://ameera.republika.co.id/berita/t29i94425/psikolog-ungkap-gejala-depresi-ibu-rumah-tangga-yang-sering-terabaikan",
+      "kategori": "Health",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 15:58:00"
     },
     {
       "judul": "Bank Mandiri Perkuat Komitmen ESG Lewat Livin\u2019 Planet dan Aktivasi Keberlanjutan Looping For Life",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Monday, 08 Sep 2025, 14:51:00"
     },
     {
-      "judul": "Chile Buka Peluang Impor Mobil Listrik dari Indonesia Lewat IC-CEPA",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t29g1y370/chile-buka-peluang-impor-mobil-listrik-dari-indonesia-lewat-iccepa",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 15:10:00"
+      "judul": "Purbaya Gantikan Sri Mulyani Jadi Menteri Keuangan, Ini Pesan Ekonom",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t29jbm370/purbaya-gantikan-sri-mulyani-jadi-menteri-keuangan-ini-pesan-ekonom",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Monday, 08 Sep 2025, 16:21:00"
     },
     {
       "judul": "BPKH Salurkan Nilai Manfaat Tahun 2025 Sebesar Rp 2,1 Triliun untuk Jamaah Haji Tunggu",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 08 Sep 2025, 13:38:00"
     },
     {
-      "judul": "Dipanggil ke Istana karena Reshuffle? Airlangga: Kita Tunggu Saja",
-      "link_berita": "https://news.republika.co.id/berita/t29gn2487/dipanggil-ke-istana-karena-reshuffle-airlangga-kita-tunggu-saja",
+      "judul": "Polisi Tembak Dua Pembunuh 5 Anggota Keluarrga Sahroni",
+      "link_berita": "https://news.republika.co.id/berita/t29jc1377/polisi-tembak-dua-pembunuh-5-anggota-keluarrga-sahroni",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 08 Sep 2025, 15:23:00"
+      "tanggal_terbit": "Monday, 08 Sep 2025, 16:21:00"
     }
   ],
-  "waktu_scraping": "Monday, 08 Sep 2025, 15:30:39"
+  "waktu_scraping": "Monday, 08 Sep 2025, 16:25:38"
 }
