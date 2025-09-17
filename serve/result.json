@@ -1,27 +1,47 @@
 {
   "berita_headline": [
     {
+      "judul": "Gol Telat Van Dijk Antar Liverpool Taklukkan Atletico 3-2",
+      "link_berita": "https://news.republika.co.id/berita/t2r8cq348/gol-telat-van-dijk-antar-liverpool-taklukkan-atletico-32"
+    },
+    {
+      "judul": "Perry Warjiyo Jelaskan Bank tak Respons BI yang Sudah Turunkan Suku Bunga Enam Kali",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t2qy2m484/perry-warjiyo-jelaskan-bank-tak-respons-bi-yang-sudah-turunkan-suku-bunga-enam-kali"
+    },
+    {
       "judul": "Dari Babi ke Daging Sapi, Char Siu Halal Kini Hadir untuk Muslim Hong Kong",
       "link_berita": "https://khazanah.republika.co.id/berita/t2ppzk366/dari-babi-ke-daging-sapi-char-siu-halal-kini-hadir-untuk-muslim-hong-kong"
     },
     {
+      "judul": "Erick Thohir Dilantik Menjadi Menpora, Presiden FIFA Berikan Ucapan Selamat",
+      "link_berita": "https://news.republika.co.id/berita/t2r38m7630000/erick-thohir-dilantik-menjadi-menpora-presiden-fifa-berikan-ucapan-selamat"
+    },
+    {
       "judul": "Insiden Islamofobia di Australia Meroket 150 Persen Sejak Genosida Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/t2qu0p366/insiden-islamofobia-di-australia-meroket-150-persen-sejak-genosida-gaza"
-    },
-    {
-      "judul": "Perwakilan Indonesia Mulai Menembus Gaza",
-      "link_berita": "https://tv.republika.co.id/berita/t2qn6j313/perwakilan-indonesia-mulai-menembus-gaza"
-    },
-    {
-      "judul": "KPK Isyaratkan Ada Pihak Selain Khalid Basalamah Kembalikan Uang Terkait Kasus Korupsi Kuota Haji",
-      "link_berita": "https://news.republika.co.id/berita/t2qjs8409/kpk-isyaratkan-ada-pihak-selain-khalid-basalamah-kembalikan-uang-terkait-kasus-korupsi-kuota-haji"
-    },
-    {
-      "judul": "Polisi Temukan Satu Orang yang Dilaporkan Hilang Saat Demo di Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/t2qhdu409/polisi-temukan-satu-orang-yang-dilaporkan-hilang-saat-demo-di-jakarta"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pleidoi Zara, Bahkan Terdakwa Mengaku Jadi Korban Sistem Senioritas di PPDS Undip",
+      "link_berita": "https://news.republika.co.id/berita/t2qr1o409/pleidoi-zara-bahkan-terdakwa-mengaku-jadi-korban-sistem-senioritas-di-ppds-undip"
+    },
+    {
+      "judul": "Bayern Muenchen Taklukkan Chelsea 3-1 di Liga Champions",
+      "link_berita": "https://news.republika.co.id/berita/t2r6gd9930000/bayern-muenchen-taklukkan-chelsea-31-di-liga-champions"
+    },
+    {
+      "judul": "Kabar Kementerian BUMN Dilebur ke Danantara? Mensesneg: Belum",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t2r4vq484/kabar-kementerian-bumn-dilebur-ke-danantara-mensesneg-belum"
+    },
+    {
+      "judul": "Gantikan AM Putranto, Qodari Janji KSP Lebih Aktif Sosialisasikan Program Prabowo",
+      "link_berita": "https://news.republika.co.id/berita/t2qzgj484/gantikan-am-putranto-qodari-janji-ksp-lebih-aktif-sosialisasikan-program-prabowo"
+    },
+    {
+      "judul": "Koalisi Desak Boikot Tim Nasional Israel Menjelang Piala Dunia",
+      "link_berita": "https://news.republika.co.id/berita/t2qwqc4530000/koalisi-desak-boikot-tim-nasional-israel-menjelang-piala-dunia"
+    },
     {
       "judul": "Penulis Israel: Logika Netanyahu Soal Athena dan Sparta adalah Ilusi Belaka",
       "link_berita": "https://khazanah.republika.co.id/berita/t2qk7u320/penulis-israel-logika-netanyahu-soal-athena-dan-sparta-adalah-ilusi-belaka"
@@ -61,328 +81,308 @@
     {
       "judul": "Gojek Hormati Aspirasi Mitra Driver, Layanan Jalan Seperti Biasa",
       "link_berita": "https://ekonomi.republika.co.id/berita/t2q3fk423/gojek-hormati-aspirasi-mitra-driver-layanan-jalan-seperti-biasa"
-    },
-    {
-      "judul": "Tiba di Istana, Erick Thohir Banyak Tersenyum Dicegat Awak Media",
-      "link_berita": "https://news.republika.co.id/berita/t2q34y484/tiba-di-istana-erick-thohir-banyak-tersenyum-dicegat-awak-media"
-    },
-    {
-      "judul": "BI: Ekonomi Global Melemah, Peluang Penurunan Fed Funds Rate Menguat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t2q2bo370/bi-ekonomi-global-melemah-peluang-penurunan-fed-funds-rate-menguat"
-    },
-    {
-      "judul": "Sahabat Nabi yang Menganggap Jabatan adalah Suatu Kelemahan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2pzgv430/sahabat-nabi-yang-menganggap-jabatan-adalah-suatu-kelemahan"
-    },
-    {
-      "judul": "IHSG Menguat ke 7.970, Pasar Tunggu Keputusan BI Rate Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t2pt0p370/ihsg-menguat-ke-7970-pasar-tunggu-keputusan-bi-rate-hari-ini"
-    },
-    {
-      "judul": "Ini Alasan Kementan Menggugat Perdata Tempo Rp 200 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/t2ps8k377/ini-alasan-kementan-menggugat-perdata-tempo-rp-200-miliar"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KPK Duga Wasekjen GP Ansor Ketahui Aliran Uang Kasus Kuota Haji",
+      "link_berita": "https://news.republika.co.id/berita/t2r9ts377/kpk-duga-wasekjen-gp-ansor-ketahui-aliran-uang-kasus-kuota-haji",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 23:12:48"
+    },
+    {
+      "judul": "Kane Sumbang Dua Gol dalam Kemenangan Bayern Munchen atas Chelsea di Liga Champions",
+      "link_berita": "https://news.republika.co.id/berita/t2r9oq348/kane-sumbang-dua-gol-dalam-kemenangan-bayern-munchen-atas-chelsea-di-liga-champions",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 23:09:48"
+    },
+    {
+      "judul": "Wamen Fahri Hamzah Respons Putusan MK tentang Rangkap Jabatan, Kursi Komisaris BTN Dilepas?",
+      "link_berita": "https://news.republika.co.id/berita/t2r9l4487/wamen-fahri-hamzah-respons-putusan-mk-tentang-rangkap-jabatan-kursi-komisaris-btn-dilepas",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 23:07:48"
+    },
+    {
+      "judul": "Pengajuan Perubahan Kolom Agama di Ponorogo Meningkat, 62 Warga Jadi Penghayat Kepercayaan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t2r9it483/pengajuan-perubahan-kolom-agama-di-ponorogo-meningkat-62-warga-jadi-penghayat-kepercayaan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 23:06:48"
+    },
+    {
+      "judul": "Tiga Kejanggalan Sebelum Pembunuhan Kacab Bank BRI Jakarta Versi Pengacara",
+      "link_berita": "https://news.republika.co.id/berita/t2r9g7377/tiga-kejanggalan-sebelum-pembunuhan-kacab-bank-bri-jakarta-versi-pengacara",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 23:04:48"
+    },
+    {
+      "judul": "Bea Cukai Musnahkan 24.120 Kg Bawang Selundupan Asal Malaysia",
+      "link_berita": "https://visual.republika.co.id/berita/t2qrfr375/bea-cukai-musnahkan-24120-kg-bawang-selundupan-asal-malaysia",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:59:48"
+    },
+    {
+      "judul": "Antisipasi Pencurian, Jakpro Tingkatkan Pengamanan di Lokasi Proyek LRT Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/t2r92s487/antisipasi-pencurian-jakpro-tingkatkan-pengamanan-di-lokasi-proyek-lrt-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:56:48"
+    },
+    {
+      "judul": "Israel Gelontorkan Rp822 M untuk Google Cs demi Tutupi Kelaparan dI Gaza",
+      "link_berita": "https://khazanah.republika.co.id/berita/t2r923483/israel-gelontorkan-rp822-m-untuk-google-cs-demi-tutupi-kelaparan-di-gaza",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:56:48"
+    },
+    {
+      "judul": "Juara Bertahan PSG Hajar Atalanta 4-0 pada Pekan Perdana Liga Champions",
+      "link_berita": "https://news.republika.co.id/berita/t2r916348/juara-bertahan-psg-hajar-atalanta-40-pada-pekan-perdana-liga-champions",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:55:48"
+    },
+    {
+      "judul": "Fraksi Gerindra DPR Didorong Tolak Rahayu Saraswati Mundur",
+      "link_berita": "https://news.republika.co.id/berita/t2r67n484/fraksi-gerindra-dpr-didorong-tolak-rahayu-saraswati-mundur",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:49:48"
+    },
+    {
+      "judul": "Bakal Periksa Lagi Petinggi GP Ansor terkait Kasus Kuota Haji? Ini Jawaban KPK",
+      "link_berita": "https://news.republika.co.id/berita/t2r8lv487/bakal-periksa-lagi-petinggi-gp-ansor-terkait-kasus-kuota-haji-ini-jawaban-kpk",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:46:48"
+    },
+    {
+      "judul": "DPRD Kota Bogor Salurkan 70 Ijazah Melalui Program Tebus Ijazah",
+      "link_berita": "https://news.republika.co.id/berita/t2r8j9130000/dprd-kota-bogor-salurkan-70-ijazah-melalui-program-tebus-ijazah",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:44:48"
+    },
+    {
+      "judul": "Gol Telat Van Dijk Antar Liverpool Taklukkan Atletico 3-2",
+      "link_berita": "https://news.republika.co.id/berita/t2r8cq348/gol-telat-van-dijk-antar-liverpool-taklukkan-atletico-32",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:40:48"
+    },
+    {
+      "judul": "Jadwal Samsat Keliling di 14 Lokasi Jadetabek Hari Ini",
+      "link_berita": "https://news.republika.co.id/berita/t2r7ud730000/jadwal-samsat-keliling-di-14-lokasi-jadetabek-hari-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:29:48"
+    },
+    {
+      "judul": "Peneliti: Prabowo Ingin Erick Thohir Tularkan Kesuksesan PSSI ke Olahraga Lain",
+      "link_berita": "https://news.republika.co.id/berita/t2qwj3318/peneliti-prabowo-ingin-erick-thohir-tularkan-kesuksesan-pssi-ke-olahraga-lain",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:26:48"
+    },
+    {
+      "judul": "Mengawal Program Revitalisasi Sekolah",
+      "link_berita": "https://www.republika.id/posts/59045/mengawal-program-revitalisasi-sekolah",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:20:48"
+    },
+    {
+      "judul": "Pleidoi Zara, Bahkan Terdakwa Mengaku Jadi Korban Sistem Senioritas di PPDS Undip",
+      "link_berita": "https://news.republika.co.id/berita/t2qr1o409/pleidoi-zara-bahkan-terdakwa-mengaku-jadi-korban-sistem-senioritas-di-ppds-undip",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
+    },
+    {
       "judul": "Gol Injury Time Van Dijk Bawa Liverpool Kalahkan Atletico 3-2",
       "link_berita": "https://news.republika.co.id/berita/t2r75b7830000/gol-injury-time-van-dijk-bawa-liverpool-kalahkan-atletico-32",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:14:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
     },
     {
       "judul": "Fadli Zon Sebut Peradaban Melayu Harus Lebih Eksis di Panggung Global",
       "link_berita": "https://news.republika.co.id/berita/t2qwaz348/fadli-zon-sebut-peradaban-melayu-harus-lebih-eksis-di-panggung-global",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:14:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
     },
     {
       "judul": "Ikut Livin\u2019 By Mandiri RUNFEST 2025, Tiket Jogja Marathon 2026 Menanti",
       "link_berita": "https://news.republika.co.id/berita/t2qvsz348/ikut-livin-by-mandiri-runfest-2025-tiket-jogja-marathon-2026-menanti",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:02:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
     },
     {
       "judul": "IHSG Cetak Rekor Tembus Level 8.000, BEI: Cerminan Optimisme Pasar",
-      "link_berita": "https://news.republika.co.id/berita/t2qyep484/ihsg-cetak-rekor-tembus-level-8000-bei-cerminan-optimisme-pasar",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:01:56"
+      "link_berita": "https://ekonomi.republika.co.id/berita/t2qyep484/ihsg-cetak-rekor-tembus-level-8000-bei-cerminan-optimisme-pasar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
     },
     {
       "judul": "Bayern Muenchen Taklukkan Chelsea 3-1 di Liga Champions",
       "link_berita": "https://news.republika.co.id/berita/t2r6gd9930000/bayern-muenchen-taklukkan-chelsea-31-di-liga-champions",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:59:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
     },
     {
       "judul": "Perry Warjiyo Jelaskan Bank tak Respons BI yang Sudah Turunkan Suku Bunga Enam Kali",
       "link_berita": "https://ekonomi.republika.co.id/berita/t2qy2m484/perry-warjiyo-jelaskan-bank-tak-respons-bi-yang-sudah-turunkan-suku-bunga-enam-kali",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:54:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:18:48"
     },
     {
       "judul": "Wamen PKP: Lahan Stasiun KAI Jadi Lokasi Strategis Pembangunan Rumah Murah",
       "link_berita": "https://news.republika.co.id/berita/t2r5rb930000/wamen-pkp-lahan-stasiun-kai-jadi-lokasi-strategis-pembangunan-rumah-murah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:44:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Barcelona Andalkan Rashford Gantikan Yamal Hadapi Newcastle",
       "link_berita": "https://news.republika.co.id/berita/t2r52d5730000/barcelona-andalkan-rashford-gantikan-yamal-hadapi-newcastle",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:29:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Keberatan Pengacara Kacab BRI ke Polisi, 'Kami Keras Inginkan Pasal Pembunuhan Berencana'",
       "link_berita": "https://news.republika.co.id/berita/t2qrig409/keberatan-pengacara-kacab-bri-ke-polisi-kami-keras-inginkan-pasal-pembunuhan-berencana",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:27:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Kabar Kementerian BUMN Dilebur ke Danantara? Mensesneg: Belum",
-      "link_berita": "https://news.republika.co.id/berita/t2r4vq484/kabar-kementerian-bumn-dilebur-ke-danantara-mensesneg-belum",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:25:56"
+      "link_berita": "https://ekonomi.republika.co.id/berita/t2r4vq484/kabar-kementerian-bumn-dilebur-ke-danantara-mensesneg-belum",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Wamen Fahri Hamzah Siap Patuhi Putusan MK Larangan Rangkap Jabatan",
       "link_berita": "https://news.republika.co.id/berita/t2r4d93230000/wamen-fahri-hamzah-siap-patuhi-putusan-mk-larangan-rangkap-jabatan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Dari Babi ke Daging Sapi, Char Siu Halal Kini Hadir untuk Muslim Hong Kong",
       "link_berita": "https://khazanah.republika.co.id/berita/t2ppzk366/dari-babi-ke-daging-sapi-char-siu-halal-kini-hadir-untuk-muslim-hong-kong",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Benni Setiawan: Peningkatan Layar Film Lokal Cerminkan Kualitas Produksi",
       "link_berita": "https://news.republika.co.id/berita/t2r3on7230000/benni-setiawan-peningkatan-layar-film-lokal-cerminkan-kualitas-produksi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Pembangunan Resort di Pulau Padar, Pemkab Mabar Tunggu Keputusan Pusat",
       "link_berita": "https://news.republika.co.id/berita/t2r38x2330000/pembangunan-resort-di-pulau-padar-pemkab-mabar-tunggu-keputusan-pusat",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Erick Thohir Dilantik Menjadi Menpora, Presiden FIFA Berikan Ucapan Selamat",
       "link_berita": "https://news.republika.co.id/berita/t2r38m7630000/erick-thohir-dilantik-menjadi-menpora-presiden-fifa-berikan-ucapan-selamat",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Ratusan pelari ramaikan Golo Mori Sunset Run 2025 di Labuan Bajo",
       "link_berita": "https://news.republika.co.id/berita/t2r36t2530000/ratusan-pelari-ramaikan-golo-mori-sunset-run-2025-di-labuan-bajo",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:18:48"
     },
     {
       "judul": "Jogja Cultural Wellness Festival Hadirkan Pengalaman Penyembuhan di Yogyakarta",
       "link_berita": "https://news.republika.co.id/berita/t2r35x2330000/jogja-cultural-wellness-festival-hadirkan-pengalaman-penyembuhan-di-yogyakarta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 21:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Korban Tewas di Gaza Akibat Agresi Israel Mencapai 65.000",
       "link_berita": "https://news.republika.co.id/berita/t2r3483230000/korban-tewas-di-gaza-akibat-agresi-israel-mencapai-65000",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Pemprov Kepri Targetkan 54% Koperasi Merah Putih Beroperasi Penuh 2025",
       "link_berita": "https://news.republika.co.id/berita/t2r33p2830000/pemprov-kepri-targetkan-54-koperasi-merah-putih-beroperasi-penuh-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Transformasi Pemasyarakatan Dorong Reintegrasi Sosial Narapidana",
       "link_berita": "https://news.republika.co.id/berita/t2r30u930000/transformasi-pemasyarakatan-dorong-reintegrasi-sosial-narapidana",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Jadwal Sholat Hari Ini Tanggal 18 September 2025 di Palembang: Pemandu Ibadah Harian Anda",
       "link_berita": "https://khazanah.republika.co.id/berita/t2r2qz949896213/jadwal-sholat-hari-ini-tanggal-18-september-2025-di-palembang-pemandu-ibadah-harian-anda",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Permohonan Ubah Kolom Agama di KTP Ponorogo Meningkat",
       "link_berita": "https://news.republika.co.id/berita/t2r2b43530000/permohonan-ubah-kolom-agama-di-ktp-ponorogo-meningkat",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Kemenkum Sumut Sokong Pembentukan Posbankum di Desa dan Kelurahan",
       "link_berita": "https://news.republika.co.id/berita/t2r1l85630000/kemenkum-sumut-sokong-pembentukan-posbankum-di-desa-dan-kelurahan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Jadwal Sholat Hari Ini di Yogyakarta 18 September 2025",
       "link_berita": "https://khazanah.republika.co.id/berita/t2r1cy1964554100/jadwal-sholat-hari-ini-di-yogyakarta-18-september-2025",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Wamen PKP Pastikan Pembangunan 3 Juta Rumah Tanpa Penggusuran",
       "link_berita": "https://news.republika.co.id/berita/t2r0w72330000/wamen-pkp-pastikan-pembangunan-3-juta-rumah-tanpa-penggusuran",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:18:48"
     },
     {
       "judul": "Perumnas Kembali Diberdayakan untuk Pembangunan Rumah Rakyat",
       "link_berita": "https://news.republika.co.id/berita/t2r07z5830000/perumnas-kembali-diberdayakan-untuk-pembangunan-rumah-rakyat",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Jadwal Sholat Hari Ini - 18 September 2025: Temukan Kedamaian di Jakarta Melalui Ibadah",
       "link_berita": "https://khazanah.republika.co.id/berita/t2qztz1149720044/jadwal-sholat-hari-ini-18-september-2025-temukan-kedamaian-di-jakarta-melalui-ibadah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Perumahan Sosial Jadi Harapan Baru Gen Z Dapatkan Hunian Terjangkau",
       "link_berita": "https://news.republika.co.id/berita/t2qzia8730000/perumahan-sosial-jadi-harapan-baru-gen-z-dapatkan-hunian-terjangkau",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Gantikan AM Putranto, Qodari Janji KSP Lebih Aktif Sosialisasikan Program Prabowo",
       "link_berita": "https://news.republika.co.id/berita/t2qzgj484/gantikan-am-putranto-qodari-janji-ksp-lebih-aktif-sosialisasikan-program-prabowo",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Dewan GCC Kecam Agresi Israel di Gaza sebagai Kejahatan Perang",
       "link_berita": "https://news.republika.co.id/berita/t2qyti7730000/dewan-gcc-kecam-agresi-israel-di-gaza-sebagai-kejahatan-perang",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Timnas Basket Putra Indonesia Buru Medali Emas SEA Games 2025",
       "link_berita": "https://skor.republika.co.id/posts/705293/timnas-basket-putra-indonesia-buru-medali-emas-sea-games-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Jadwal Sholat Hari Ini di Medan, 18 September 2025: Panduan Lengkap Beribadah",
       "link_berita": "https://khazanah.republika.co.id/berita/t2qyeg746716200/jadwal-sholat-hari-ini-di-medan-18-september-2025-panduan-lengkap-beribadah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Gubernur Kepri Akan Konsultasikan Evaluasi Tunjangan Rumah DPRD ke Mendagri",
       "link_berita": "https://news.republika.co.id/berita/t2qy4l9530000/gubernur-kepri-akan-konsultasikan-evaluasi-tunjangan-rumah-dprd-ke-mendagri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:17:56"
-    },
-    {
-      "judul": "BEI: Sukuk daerah sumber pendanaan baru Pemda di luar APBD",
-      "link_berita": "https://news.republika.co.id/berita/t2qxfv1330000/bei-sukuk-daerah-sumber-pendanaan-baru-pemda-di-luar-apbd",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Menyongsong Hari yang Baru: Jadwal Sholat Hari Ini Kota Depok, 18 September 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2qxfm415303632/menyongsong-hari-yang-baru-jadwal-sholat-hari-ini-kota-depok-18-september-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Koalisi Desak Boikot Tim Nasional Israel Menjelang Piala Dunia",
-      "link_berita": "https://news.republika.co.id/berita/t2qwqc4530000/koalisi-desak-boikot-tim-nasional-israel-menjelang-piala-dunia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Sekda Jabar Dorong Lulusan IPDN Jadi Pemimpin Tangguh di Tengah Tantangan",
-      "link_berita": "https://news.republika.co.id/berita/t2qw1e8830000/sekda-jabar-dorong-lulusan-ipdn-jadi-pemimpin-tangguh-di-tengah-tantangan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Erick Thohir jadi Menpora, Arief Rosyid: Prabowo Perkuat Standar Kepemimpinan",
-      "link_berita": "https://news.republika.co.id/berita/t2qvmq318/erick-thohir-jadi-menpora-arief-rosyid-prabowo-perkuat-standar-kepemimpinan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Golkar Gelar Dialog untuk Serap Aspirasi Mahasiswa",
-      "link_berita": "https://news.republika.co.id/berita/t2qvc97830000/golkar-gelar-dialog-untuk-serap-aspirasi-mahasiswa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Erick Thohir Jadi Menpora RI, Presiden FIFA Beri Selamat",
-      "link_berita": "https://skor.republika.co.id/posts/705292/erick-thohir-jadi-menpora-ri-presiden-fifa-beri-selamat",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Bandung: 18 September 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2qv92550396747/jadwal-sholat-hari-ini-di-bandung-18-september-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Erick Thohir Dilantik Jadi Menpora, Presiden FIFA Ucapkan Selamat",
-      "link_berita": "https://news.republika.co.id/berita/t2qv5i348/erick-thohir-dilantik-jadi-menpora-presiden-fifa-ucapkan-selamat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 18:17:56"
-    },
-    {
-      "judul": "Erick Thohir Dilantik Sebagai Menpora, Harapan Baru untuk Pemuda Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/t2qun95630000/erick-thohir-dilantik-sebagai-menpora-harapan-baru-untuk-pemuda-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "Insiden Islamofobia di Australia Meroket 150 Persen Sejak Genosida Gaza",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2qu0p366/insiden-islamofobia-di-australia-meroket-150-persen-sejak-genosida-gaza",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "KI Pusat dan HK gelar forum edukasi keterbukaan informasi publik",
-      "link_berita": "https://news.republika.co.id/berita/t2qtyw5830000/ki-pusat-dan-hk-gelar-forum-edukasi-keterbukaan-informasi-publik",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "Keutamaan Sholat dan Jadwal Sholat Hari Ini di Surabaya, 18 September 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2qtyf370003082/keutamaan-sholat-dan-jadwal-sholat-hari-ini-di-surabaya-18-september-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "Proyek Perumahan Sosial Diharapkan Dongkrak Ekonomi Nasional",
-      "link_berita": "https://news.republika.co.id/berita/t2qt9f2430000/proyek-perumahan-sosial-diharapkan-dongkrak-ekonomi-nasional",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "Terungkap Detik-Detik Terpilihnya Menko Polkam, Ini Cerita Djamari Chaniago",
-      "link_berita": "https://news.republika.co.id/berita/t2qqnu409/terungkap-detikdetik-terpilihnya-menko-polkam-ini-cerita-djamari-chaniago",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini di Makassar, 18 September 2025: Ketahui Waktu Ibadah yang Tepat",
-      "link_berita": "https://khazanah.republika.co.id/berita/t2qsnv1876510254/jadwal-sholat-hari-ini-di-makassar-18-september-2025-ketahui-waktu-ibadah-yang-tepat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
-    },
-    {
-      "judul": "KKP Siapkan Regulasi Permudah Izin Usaha Perikanan",
-      "link_berita": "https://news.republika.co.id/berita/t2qske5030000/kkp-siapkan-regulasi-permudah-izin-usaha-perikanan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 17:17:56"
+      "tanggal_terbit": "Wednesday, 17 Sep 2025, 19:18:48"
     },
     {
       "judul": "Film Pendek Suarakan Isu Mental Remaja di Kompetisi #InspiringIndonesia 2025",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 17 Sep 2025, 20:10:00"
     },
     {
-      "judul": "Kolaborasi Messe Frankfurt dan GIAMM Hadirkan Automechanika Jakarta Tahun Depan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t2qnm5348/kolaborasi-messe-frankfurt-dan-giamm-hadirkan-automechanika-jakarta-tahun-depan",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:13:00"
+      "judul": "IHSG Cetak Rekor Tembus Level 8.000, BEI: Cerminan Optimisme Pasar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t2qyep484/ihsg-cetak-rekor-tembus-level-8000-bei-cerminan-optimisme-pasar",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Thursday, 18 Sep 2025, 05:02:00"
     },
     {
       "judul": "BSI Nilai BI Rate 4,75 Persen Turunkan Biaya Dana, Saham Naik 2 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 17 Sep 2025, 22:25:00"
     },
     {
-      "judul": "Kabar Kementerian BUMN Dilebur ke Danantara? Mensesneg: Belum",
-      "link_berita": "https://news.republika.co.id/berita/t2r4vq484/kabar-kementerian-bumn-dilebur-ke-danantara-mensesneg-belum",
+      "judul": "KPK Duga Wasekjen GP Ansor Ketahui Aliran Uang Kasus Kuota Haji",
+      "link_berita": "https://news.republika.co.id/berita/t2r9ts377/kpk-duga-wasekjen-gp-ansor-ketahui-aliran-uang-kasus-kuota-haji",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 18 Sep 2025, 04:26:00"
+      "tanggal_terbit": "Thursday, 18 Sep 2025, 06:13:00"
     }
   ],
-  "waktu_scraping": "Thursday, 18 Sep 2025, 05:17:56"
+  "waktu_scraping": "Thursday, 18 Sep 2025, 06:18:48"
 }
