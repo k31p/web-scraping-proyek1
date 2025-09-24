@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kasus Keracunan, Kepala BGN Instruksikan Evaluasi Pola Masak Program MBG",
+      "link_berita": "https://news.republika.co.id/berita/t334dc370/kasus-keracunan-kepala-bgn-instruksikan-evaluasi-pola-masak-program-mbg"
+    },
+    {
       "judul": "Pertamina Impor BBM Murni untuk SPBU Swasta, Bakal Datang Hari Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/t330ig490/pertamina-impor-bbm-murni-untuk-spbu-swasta-bakal-datang-hari-ini"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Saat Pemimpin Muslim Temui Trump, Israel Bantai Puluhan Pengungsi di Gaza",
       "link_berita": "https://news.republika.co.id/berita/t32shv393/saat-pemimpin-muslim-temui-trump-israel-bantai-puluhan-pengungsi-di-gaza"
-    },
-    {
-      "judul": "Tak Gentar Diserang Belasan Drone, Global Sumud: Kami akan Terus Berlayar",
-      "link_berita": "https://khazanah.republika.co.id/berita/t32pee483/tak-gentar-diserang-belasan-drone-global-sumud-kami-akan-terus-berlayar"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Puskesmas Cipongkor Mencekam, Siswa Menangis Diduga Keracunan MBG, Ambulans Bolak-balik Antar Pasien",
+      "link_berita": "https://news.republika.co.id/berita/t33247377/puskesmas-cipongkor-mencekam-siswa-menangis-diduga-keracunan-mbg-ambulans-bolakbalik-antar-pasien"
+    },
     {
       "judul": "KA Tawangjaya Premium Tertemper Mobil di Cirebon, Dua Meninggal",
       "link_berita": "https://rejabar.republika.co.id/berita/t330qi512/ka-tawangjaya-premium-tertemper-mobil-di-cirebon-dua-meninggal"
@@ -77,343 +81,339 @@
     {
       "judul": "Gol Debut Alexander Isak Antar Liverpool Singkirkan Southampton",
       "link_berita": "https://news.republika.co.id/berita/t32cjn348/gol-debut-alexander-isak-antar-liverpool-singkirkan-southampton"
-    },
-    {
-      "judul": "Prabowo Anugerahkan Bintang Jasa Utama ke Bill Gates",
-      "link_berita": "https://news.republika.co.id/berita/t32c1g484/prabowo-anugerahkan-bintang-jasa-utama-ke-bill-gates"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Korea Open 2025: Ginting dan Jojo Sukses Atasi Lawan Masing-masing",
+      "link_berita": "https://skor.republika.co.id/posts/706663/korea-open-2025-ginting-dan-jojo-sukses-atasi-lawan-masing-masing",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:20:24"
+    },
+    {
+      "judul": "KPA Jateng Minta TNI-Polri Ditarik dari Program Pangan Nasional, Ini Alasannya",
+      "link_berita": "https://news.republika.co.id/berita/t335uz487/kpa-jateng-minta-tnipolri-ditarik-dari-program-pangan-nasional-ini-alasannya",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:18:24"
+    },
+    {
+      "judul": "Dinas Rahasia AS Selidiki Gangguan Eskalator dan Teleprompter saat Trump di PBB",
+      "link_berita": "https://news.republika.co.id/berita/t335nk370/dinas-rahasia-as-selidiki-gangguan-eskalator-dan-teleprompter-saat-trump-di-pbb",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:14:24"
+    },
+    {
+      "judul": "Patriot Sukuk: Lebih Adil untuk Semua",
+      "link_berita": "https://analisis.republika.co.id/berita/t335ln502/patriot-sukuk-lebih-adil-untuk-semua",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:13:24"
+    },
+    {
+      "judul": "Wisatawan Asia Pasifik Rela Sewa Rumah Liburan di Bali demi Kuliner Khas",
+      "link_berita": "https://ameera.republika.co.id/berita/t335j8425/wisatawan-asia-pasifik-rela-sewa-rumah-liburan-di-bali-demi-kuliner-khas",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:11:24"
+    },
+    {
+      "judul": "Pemerintah Targetkan RUPTL Tekan Emisi 129,5 Juta Ton CO2",
+      "link_berita": "https://esgnow.republika.co.id/berita/t335hb490/pemerintah-targetkan-ruptl-tekan-emisi-1295-juta-ton-co2",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:10:24"
+    },
+    {
+      "judul": "Menkop Sebut Kopdes Merah Putih Jadi Jurus Kejar Ketertinggalan Koperasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t33599490/menkop-sebut-kopdes-merah-putih-jadi-jurus-kejar-ketertinggalan-koperasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:05:24"
+    },
+    {
+      "judul": "Banggar DPR: Pertumbuhan Ekonomi Harus Inklusif dan Berkeadilan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t33518490/banggar-dpr-pertumbuhan-ekonomi-harus-inklusif-dan-berkeadilan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 09:00:24"
+    },
+    {
+      "judul": "Menyemai dan Mengembangkan Potensi Diri",
+      "link_berita": "https://rejogja.republika.co.id/berita/t334yk291/menyemai-dan-mengembangkan-potensi-diri",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:59:24"
+    },
+    {
+      "judul": "Begini Komentar Luhut tentang Gaya Koboi Menkeu Purbaya",
+      "link_berita": "https://news.republika.co.id/berita/t334np487/begini-komentar-luhut-tentang-gaya-koboi-menkeu-purbaya",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:52:24"
+    },
+    {
+      "judul": "Lebih dari 200 Murid, Paud Sampai SMA Cipongkor Keracunan Usai Makan MBG, Ini Kesaksian Siswa",
+      "link_berita": "https://news.republika.co.id/berita/t334iw377/lebih-dari-200-murid-paud-sampai-sma-cipongkor-keracunan-usai-makan-mbg-ini-kesaksian-siswa",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:49:24"
+    },
+    {
+      "judul": "Kolaborasi MMSGI\u2013LINE Wujudkan Pendidikan Inklusif dan Lingkungan Bersih di Bali",
+      "link_berita": "https://esgnow.republika.co.id/berita/t334gr522/kolaborasi-mmsgiline-wujudkan-pendidikan-inklusif-dan-lingkungan-bersih-di-bali",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:48:24"
+    },
+    {
+      "judul": "Kasus Keracunan, Kepala BGN Instruksikan Evaluasi Pola Masak Program MBG",
+      "link_berita": "https://news.republika.co.id/berita/t334dc370/kasus-keracunan-kepala-bgn-instruksikan-evaluasi-pola-masak-program-mbg",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:46:24"
+    },
+    {
+      "judul": "Tanah Wakaf di Indonesia Tumbuh 7 Persen Setiap Tahun",
+      "link_berita": "https://sharia.republika.co.id/berita/t334by416/tanah-wakaf-di-indonesia-tumbuh-7-persen-setiap-tahun",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:45:24"
+    },
+    {
+      "judul": "BPS Ungkap Pertumbuhan Ekonomi Lima Persen Belum Cukup untuk Kesejahteraan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t3347k490/bps-ungkap-pertumbuhan-ekonomi-lima-persen-belum-cukup-untuk-kesejahteraan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:43:24"
+    },
+    {
+      "judul": "Quiet Quitting, Istilah Baru Gagasan Lama",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t3343b423/quiet-quitting-istilah-baru-gagasan-lama",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:40:24"
+    },
+    {
+      "judul": "Revolusi Pertanian Wonokromo, Dosen AKPRIND Terapkan Irigasi Pintar Bertenaga Surya",
+      "link_berita": "https://rejogja.republika.co.id/berita/t33432291/revolusi-pertanian-wonokromo-dosen-akprind-terapkan-irigasi-pintar-bertenaga-surya",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:40:24"
+    },
+    {
+      "judul": "Rohmalia, Atlet Kriket Indonesia Masuk Guinness World Records",
+      "link_berita": "https://skor.republika.co.id/posts/706653/rohmalia-atlet-kriket-indonesia-masuk-guinness-world-records",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:40:24"
+    },
+    {
+      "judul": "Mentan Amran Bagikan Makanan untuk Ribuan Demonstran di Kementan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t3342m368/mentan-amran-bagikan-makanan-untuk-ribuan-demonstran-di-kementan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:40:24"
+    },
+    {
+      "judul": "Begini Respons Menko PM Cak Imin terkait Banyaknya Kasus Keracunan MBG",
+      "link_berita": "https://news.republika.co.id/berita/t333xr487/begini-respons-menko-pm-cak-imin-terkait-banyaknya-kasus-keracunan-mbg",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:37:24"
+    },
+    {
+      "judul": "Kementerian BUMN Diisukan Akan Jadi Badan, Keputusan Politis?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t333s1502/kementerian-bumn-diisukan-akan-jadi-badan-keputusan-politis",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:33:24"
+    },
+    {
+      "judul": "HoK Gokil Jadi Tema Update Terbaru Honor of Kings",
+      "link_berita": "https://skor.republika.co.id/posts/706649/ho-k-gokil-jadi-tema-update-terbaru-honor-of-kings",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:30:24"
+    },
+    {
       "judul": "Pemerintah Serap Rp33 Triliun dari Lelang SUN, Penawaran Capai Rp98 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t333de423/pemerintah-serap-rp33-triliun-dari-lelang-sun-penawaran-capai-rp98-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:25:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:24:24"
     },
     {
       "judul": "Belasan Korban Keracunan Massal MBG Masih Dirawat di RSUD Cililin, Begini Kondisinya",
       "link_berita": "https://rejabar.republika.co.id/berita/t33399512/belasan-korban-keracunan-massal-mbg-masih-dirawat-di-rsud-cililin-begini-kondisinya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:22:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Era Agentic AI: Lima Ancaman Keamanan yang Sering Terlewat Tetapi Wajib Diantisipasi Perusahaan",
       "link_berita": "https://ameera.republika.co.id/berita/t3334r348/era-agentic-ai-lima-ancaman-keamanan-yang-sering-terlewat-tetapi-wajib-diantisipasi-perusahaan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:19:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Cak Imin Puji Pidato Prabowo di PBB: Sudah Sehebat Bung Karno",
       "link_berita": "https://news.republika.co.id/berita/t3334a377/cak-imin-puji-pidato-prabowo-di-pbb-sudah-sehebat-bung-karno",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:19:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Mentan Amran Beri Solusi Cepat dan Jawab Aspirasi Petani Indramayu",
       "link_berita": "https://ekonomi.republika.co.id/berita/t3332k368/mentan-amran-beri-solusi-cepat-dan-jawab-aspirasi-petani-indramayu",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:18:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Bank Aladin Syariah dan CIMB Niaga Jalin Kerja Sama Layanan Kustodian",
       "link_berita": "https://sharia.republika.co.id/berita/t33300416/bank-aladin-syariah-dan-cimb-niaga-jalin-kerja-sama-layanan-kustodian",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:16:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Anggaran MBG tak Terserap Optimal, FSGI Usulkan untuk Peningkatan Kualitas Guru",
       "link_berita": "https://news.republika.co.id/berita/t332vw487/anggaran-mbg-tak-terserap-optimal-fsgi-usulkan-untuk-peningkatan-kualitas-guru",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:14:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Kasus Keracunan MBG di Jakarta Tiga Kali, Begini Tanggapan Pramono",
       "link_berita": "https://news.republika.co.id/berita/t332s4484/kasus-keracunan-mbg-di-jakarta-tiga-kali-begini-tanggapan-pramono",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:12:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Pakistan Dilanda Banjir Terburuk dalam Dekade, Jutaan Orang Mengungsi",
       "link_berita": "https://esgnow.republika.co.id/berita/t332nv370/pakistan-dilanda-banjir-terburuk-dalam-dekade-jutaan-orang-mengungsi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:09:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Suasana Mencekam Keracunan MBG di KBB, Siswa Menangis Ambulans Bolak-balik Antar Pasien ke RS",
       "link_berita": "https://rejabar.republika.co.id/berita/t332n8512/suasana-mencekam-keracunan-mbg-di-kbb-siswa-menangis-ambulans-bolakbalik-antar-pasien-ke-rs",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:09:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Ginting dan Jojo ke Babak 16 Besar Korea Open 2025",
       "link_berita": "https://news.republika.co.id/berita/t332dv348/ginting-dan-jojo-ke-babak-16-besar-korea-open-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:03:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "Puskesmas Cipongkor Mencekam, Siswa Menangis Diduga Keracunan MBG, Ambulans Bolak-balik Antar Pasien",
       "link_berita": "https://news.republika.co.id/berita/t33247377/puskesmas-cipongkor-mencekam-siswa-menangis-diduga-keracunan-mbg-ambulans-bolakbalik-antar-pasien",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:57:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 08:23:24"
     },
     {
       "judul": "7 Tempat Dilarang Shalat",
       "link_berita": "https://khazanah.republika.co.id/berita/t331pt458/7-tempat-dilarang-shalat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:49:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "JakJazz Siap Guncang Jakarta 20 Desember Setelah Vakum 5 Tahun",
       "link_berita": "https://ameera.republika.co.id/berita/t331ii425/jakjazz-siap-guncang-jakarta-20-desember-setelah-vakum-5-tahun",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:44:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Banggar DPR Usulkan Tiga Skema Alternatif Program MBG",
       "link_berita": "https://ekonomi.republika.co.id/berita/t331g1490/banggar-dpr-usulkan-tiga-skema-alternatif-program-mbg",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:43:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Dilarang Bohong kecuali dalam 3 Keadaan Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/t330yl458/dilarang-bohong-kecuali-dalam-3-keadaan-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:32:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "KA Tawangjaya Premium Tertemper Mobil di Cirebon, Dua Meninggal",
       "link_berita": "https://rejabar.republika.co.id/berita/t330qi512/ka-tawangjaya-premium-tertemper-mobil-di-cirebon-dua-meninggal",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Stop Pakai Strobo Ilegal! Pakar: Bahayakan Pengendara Lain",
       "link_berita": "https://ekonomi.republika.co.id/berita/t330mh425/stop-pakai-strobo-ilegal-pakar-bahayakan-pengendara-lain",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Pertamina Impor BBM Murni untuk SPBU Swasta, Bakal Datang Hari Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/t330ig490/pertamina-impor-bbm-murni-untuk-spbu-swasta-bakal-datang-hari-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Kenapa Ada Paksaan Program Lumbung Desa di Grobogan?",
       "link_berita": "https://oohya.republika.co.id/posts/706549/kenapa-ada-paksaan-program-lumbung-desa-di-grobogan",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Wamenkes: Mahasiswa Kesehatan Jaga Empati dan Semangat Belajar",
       "link_berita": "https://diagnosa.id/posts/706554/wamenkes-mahasiswa-kesehatan-jaga-empati-dan-semangat-belajar",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Master Rekaman Konser Nirvana yang Belum Pernah Dirilis Bakal Dilelang",
       "link_berita": "https://impresiupdate.id/posts/706561/master-rekaman-konser-nirvana-yang-belum-pernah-dirilis-bakal-dilelang",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Unair Terapkan Teknologi Nano-Karbon dari Batok Kelapa untuk Atasi Limbah Batik di Kota Batu",
       "link_berita": "https://sekitarsurabaya.com/posts/706567/unair-terapkan-teknologi-nano-karbon-dari-batok-kelapa-untuk-atasi-limbah-batik-di-kota-batu",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Janji Allah untuk Muslim-Muslimah yang Menikah",
       "link_berita": "https://khazanah.republika.co.id/berita/t330ci458/janji-allah-untuk-muslimmuslimah-yang-menikah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Kesehatan Mulut yang Buruk Bisa Meningkatkan Risiko Kanker Pankreas",
       "link_berita": "https://impresiupdate.id/posts/706568/kesehatan-mulut-yang-buruk-bisa-meningkatkan-risiko-kanker-pankreas",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "DPR Minta Pemerintah Serius Tingkatkan Layanan Kesehatan bagi Disabilitas",
       "link_berita": "https://diagnosa.id/posts/706569/dpr-minta-pemerintah-serius-tingkatkan-layanan-kesehatan-bagi-disabilitas",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Catatan Cak AT: Sejahtera 0,7",
       "link_berita": "https://ruzkaindonesia.id/posts/706591/catatan-cak-at-sejahtera-0-7",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
       "judul": "Badan Pengelola Program Pensiun Kamboja Terkesan dengan Inovasi Layanan Taspen",
       "link_berita": "https://pemantiknews.id/posts/706600/badan-pengelola-program-pensiun-kamboja-terkesan-dengan-inovasi-layanan-taspen",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:23:24"
     },
     {
-      "judul": "Relawan MER-C di Gaza: Upaya Bantuan Terus Dijalankan untuk Masyarakat Rentan",
-      "link_berita": "https://topnews62.com/posts/706605/relawan-mer-c-di-gaza-upaya-bantuan-terus-dijalankan-untuk-masyarakat-rentan",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "judul": "Wisatawan Asia Pasifik Rela Sewa Rumah Liburan di Bali demi Kuliner Khas",
+      "link_berita": "https://ameera.republika.co.id/berita/t335j8425/wisatawan-asia-pasifik-rela-sewa-rumah-liburan-di-bali-demi-kuliner-khas",
+      "kategori": "Happening",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 16:11:00"
     },
     {
-      "judul": "'Tol Gratis' Dilanjutkan, Solusi Kurangi Kemacetan Horor di Jalan TB Simatupang",
-      "link_berita": "https://pemantiknews.id/posts/706609/-tol-gratis-dilanjutkan-solusi-kurangi-kemacetan-horor-di-jalan-tb-simatupang",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "judul": "Pemerintah Targetkan RUPTL Tekan Emisi 129,5 Juta Ton CO2",
+      "link_berita": "https://esgnow.republika.co.id/berita/t335hb490/pemerintah-targetkan-ruptl-tekan-emisi-1295-juta-ton-co2",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 16:10:00"
     },
     {
-      "judul": "Hyundai Elantra N 23 Meramaikan Garasi Gran Turismo 7",
-      "link_berita": "https://motoresto.id/posts/706621/hyundai-elantra-n-23-meramaikan-garasi-gran-turismo-7",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
+      "judul": "Menkop Sebut Kopdes Merah Putih Jadi Jurus Kejar Ketertinggalan Koperasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t33599490/menkop-sebut-kopdes-merah-putih-jadi-jurus-kejar-ketertinggalan-koperasi",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 16:05:00"
     },
     {
-      "judul": "Transjakarta Klaim Tingkat Kecelakaan Armadanya Terus Menurun Sejak 2022",
-      "link_berita": "https://news.republika.co.id/berita/t33062487/transjakarta-klaim-tingkat-kecelakaan-armadanya-terus-menurun-sejak-2022",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Jangan Sia-siakan Momen Duduk di Antara Dua Sujud",
-      "link_berita": "https://khazanah.republika.co.id/berita/t3302f458/jangan-siasiakan-momen-duduk-di-antara-dua-sujud",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Kasus Keracunan Terus Terjadi, Federasi Guru Usulkan Program MBG Dimoratorium",
-      "link_berita": "https://news.republika.co.id/berita/t3301g487/kasus-keracunan-terus-terjadi-federasi-guru-usulkan-program-mbg-dimoratorium",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Menggali Potensi Zakat Sebagai Solusi Fiskal",
-      "link_berita": "https://analisis.republika.co.id/berita/t32zvv368/menggali-potensi-zakat-sebagai-solusi-fiskal",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Kenali 2 Penghalang Rezeki",
-      "link_berita": "https://khazanah.republika.co.id/berita/t32zq7458/kenali-2-penghalang-rezeki",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Kisah Salman Al Farisi yang Istikamah dalam 3 Kebaikan",
-      "link_berita": "https://iqra.republika.co.id/berita/t32zpq451/kisah-salman-al-farisi-yang-istikamah-dalam-3-kebaikan",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Kementan: Harga Ayam dan Telur Masih di Bawah Harga Acuan Konsumen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t32zlu370/kementan-harga-ayam-dan-telur-masih-di-bawah-harga-acuan-konsumen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Shalat Sebaiknya di Awal Waktu, Kecuali ...",
-      "link_berita": "https://khazanah.republika.co.id/berita/t32zkr458/shalat-sebaiknya-di-awal-waktu-kecuali",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Psikolog Tegaskan Lulusan SMA yang Ambil Gap Year Bukanlah Aib",
-      "link_berita": "https://ameera.republika.co.id/berita/t32zi3425/psikolog-tegaskan-lulusan-sma-yang-ambil-gap-year-bukanlah-aib",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 07:29:18"
-    },
-    {
-      "judul": "Momen Presiden Macron Tertahan Rombongan Trump",
-      "link_berita": "https://tv.republika.co.id/berita/t32z4f418/momen-presiden-macron-tertahan-rombongan-trump",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Insentif Motor Listrik Ditargetkan Terbit Tahun Ini, Skemanya Sama Seperti 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t32z3b370/insentif-motor-listrik-ditargetkan-terbit-tahun-ini-skemanya-sama-seperti-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Minat Emas Meningkat, BSI Tawarkan Cicilan Emas Bersertifikasi SNI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t32z0s490/minat-emas-meningkat-bsi-tawarkan-cicilan-emas-bersertifikasi-sni",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Sistem All Indonesia Permudah Kedatangan Penumpang Internasional",
-      "link_berita": "https://republika.co.id/berita//t32yzk368/sistem-all-indonesia-permudah-kedatangan-penumpang-internasional",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Pertamina Patra Niaga Pastikan Stok BBM Tiba Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t32yyd522/pertamina-patra-niaga-pastikan-stok-bbm-tiba-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "BI: Wakaf Bisa Jadi Bantalan Ekonomi Nasional",
-      "link_berita": "https://sharia.republika.co.id/berita/t32ywi416/bi-wakaf-bisa-jadi-bantalan-ekonomi-nasional",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Pertamina Patra Niaga Dorong Implementasi Energi Hijau di Green Energy Summit 2025",
-      "link_berita": "https://esgnow.republika.co.id/berita/t32yv1522/pertamina-patra-niaga-dorong-implementasi-energi-hijau-di-green-energy-summit-2025",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Wakaf Indonesia Siap Bertransformasi, Literasi Naik ke Arah Best Practice",
-      "link_berita": "https://sharia.republika.co.id/berita/t32yui423/wakaf-indonesia-siap-bertransformasi-literasi-naik-ke-arah-best-practice",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Bandung Punya Ikon Lifestyle dan Hiburan Baru di Mal 23 Paskal, Bidik Milenial hingga Wisman",
-      "link_berita": "https://rejabar.republika.co.id/berita/t32ytw512/bandung-punya-ikon-lifestyle-dan-hiburan-baru-di-mal-23-paskal-bidik-milenial-hingga-wisman",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "OpenAI Rilis Layanan ChatGPT Go di Indonesia, Biaya Langganan Rp75 Ribu per Bulan",
-      "link_berita": "https://ameera.republika.co.id/berita/t32yt2425/openai-rilis-layanan-chatgpt-go-di-indonesia-biaya-langganan-rp75-ribu-per-bulan",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 06:29:18"
-    },
-    {
-      "judul": "Era Agentic AI: Lima Ancaman Keamanan yang Sering Terlewat Tetapi Wajib Diantisipasi Perusahaan",
-      "link_berita": "https://ameera.republika.co.id/berita/t3334r348/era-agentic-ai-lima-ancaman-keamanan-yang-sering-terlewat-tetapi-wajib-diantisipasi-perusahaan",
-      "kategori": "Tekno",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 15:19:00"
-    },
-    {
-      "judul": "Pakistan Dilanda Banjir Terburuk dalam Dekade, Jutaan Orang Mengungsi",
-      "link_berita": "https://esgnow.republika.co.id/berita/t332nv370/pakistan-dilanda-banjir-terburuk-dalam-dekade-jutaan-orang-mengungsi",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 15:09:00"
-    },
-    {
-      "judul": "Pemerintah Serap Rp33 Triliun dari Lelang SUN, Penawaran Capai Rp98 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t333de423/pemerintah-serap-rp33-triliun-dari-lelang-sun-penawaran-capai-rp98-triliun",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 15:24:00"
-    },
-    {
-      "judul": "Bank Aladin Syariah dan CIMB Niaga Jalin Kerja Sama Layanan Kustodian",
-      "link_berita": "https://sharia.republika.co.id/berita/t33300416/bank-aladin-syariah-dan-cimb-niaga-jalin-kerja-sama-layanan-kustodian",
+      "judul": "Tanah Wakaf di Indonesia Tumbuh 7 Persen Setiap Tahun",
+      "link_berita": "https://sharia.republika.co.id/berita/t334by416/tanah-wakaf-di-indonesia-tumbuh-7-persen-setiap-tahun",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 15:16:00"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 15:45:00"
     },
     {
-      "judul": "Cak Imin Puji Pidato Prabowo di PBB: Sudah Sehebat Bung Karno",
-      "link_berita": "https://news.republika.co.id/berita/t3334a377/cak-imin-puji-pidato-prabowo-di-pbb-sudah-sehebat-bung-karno",
+      "judul": "KPA Jateng Minta TNI-Polri Ditarik dari Program Pangan Nasional, Ini Alasannya",
+      "link_berita": "https://news.republika.co.id/berita/t335uz487/kpa-jateng-minta-tnipolri-ditarik-dari-program-pangan-nasional-ini-alasannya",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 24 Sep 2025, 15:19:00"
+      "tanggal_terbit": "Wednesday, 24 Sep 2025, 16:18:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 24 Sep 2025, 15:29:18"
+  "waktu_scraping": "Wednesday, 24 Sep 2025, 16:23:24"
 }
