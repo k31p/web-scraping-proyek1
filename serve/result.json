@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Sejarawan: Resolusi Jihad Pernah Dihilangkan dari Sejarah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4j3yl430/sejarawan-resolusi-jihad-pernah-dihilangkan-dari-sejarah"
+    },
+    {
       "judul": "Hari Santri Nasional, UAS: Benteng Terakhir Kita Pesantren, Tolong Perhatikan",
       "link_berita": "https://khazanah.republika.co.id/berita/t4j0wj320/hari-santri-nasional-uas-benteng-terakhir-kita-pesantren-tolong-perhatikan"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Sambut Presiden Afsel, Prabowo Sampaikan Kekaguman ke Nelson Mandela",
       "link_berita": "https://news.republika.co.id/berita/t4iujt484/sambut-presiden-afsel-prabowo-sampaikan-kekaguman-ke-nelson-mandela"
-    },
-    {
-      "judul": "Benarkan Menkeu Purbaya, Pramono Akui Ada Dana Mengendap di Bank Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/t4is9t484/benarkan-menkeu-purbaya-pramono-akui-ada-dana-mengendap-di-bank-jakarta"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pramono: Keblinger Kalau Masih Ada yang Mempertanyakan Kontribusi Kiai dan Pesantren",
+      "link_berita": "https://news.republika.co.id/berita/t4j5va487/pramono-keblinger-kalau-masih-ada-yang-mempertanyakan-kontribusi-kiai-dan-pesantren"
+    },
     {
       "judul": "Usai Bantah Purbaya, Dedi Mulyadi Ancam Pecat Pejabat yang Sembunyikan Data APBD Didepositokan",
       "link_berita": "https://news.republika.co.id/berita/t4j2n9409/usai-bantah-purbaya-dedi-mulyadi-ancam-pecat-pejabat-yang-sembunyikan-data-apbd-didepositokan"
@@ -77,312 +81,308 @@
     {
       "judul": "Bahlil Pernah Umumkan Pencabutan IUP Nikel di Raja Ampat, KPK: Sampai Saat Ini tidak Ada Dokumennya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4ibl5409/bahlil-pernah-umumkan-pencabutan-iup-nikel-di-raja-ampat-kpk-sampai-saat-ini-tidak-ada-dokumennya"
-    },
-    {
-      "judul": "Dedi Mulyadi Bantah Tudingan Jabar Endapkan APBD ke Dalam Deposito, Tantang Purbaya Buka Data",
-      "link_berita": "https://news.republika.co.id/berita/t4hr5n409/dedi-mulyadi-bantah-tudingan-jabar-endapkan-apbd-ke-dalam-deposito-tantang-purbaya-buka-data"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pramono: Keblinger Kalau Masih Ada yang Mempertanyakan Kontribusi Kiai dan Pesantren",
+      "link_berita": "https://news.republika.co.id/berita/t4j5va487/pramono-keblinger-kalau-masih-ada-yang-mempertanyakan-kontribusi-kiai-dan-pesantren",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 11:14:22"
+    },
+    {
+      "judul": "Bos BI Ungkap Suku Bunga Saat Ini Terendah Sejak 2022",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4j5uw490/bos-bi-ungkap-suku-bunga-saat-ini-terendah-sejak-2022",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 11:13:22"
+    },
+    {
+      "judul": "UI Tembus 200 Besar Dunia, Prabowo: Awal dari Lompatan Lebih Besar",
+      "link_berita": "https://news.republika.co.id/berita/t4j5s9456/ui-tembus-200-besar-dunia-prabowo-awal-dari-lompatan-lebih-besar",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 11:12:22"
+    },
+    {
+      "judul": "Setahun Pemerintahan Prabowo-Gibran, Pembangunan Manusia dan Kebudayaan Catatkan Ini",
+      "link_berita": "https://news.republika.co.id/berita/t4j5js456/setahun-pemerintahan-prabowogibran-pembangunan-manusia-dan-kebudayaan-catatkan-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 11:07:22"
+    },
+    {
+      "judul": "Sedih Lihat Polisi DIpecat, Kapolda Metro:Sudah Cukup Jangan Lagi Ada Angggota yang Berbuat Negatif",
+      "link_berita": "https://news.republika.co.id/berita/t4j5h8377/sedih-lihat-polisi-dipecat-kapolda-metrosudah-cukup-jangan-lagi-ada-angggota-yang-berbuat-negatif",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 11:05:22"
+    },
+    {
+      "judul": "Satu Tahun Pemerintahan Prabowo, Partai Ummat Ingatkan Kekuatan Asing Ancam Kuasai SDA",
+      "link_berita": "https://rejogja.republika.co.id/berita/t4j5h1291/satu-tahun-pemerintahan-prabowo-partai-ummat-ingatkan-kekuatan-asing-ancam-kuasai-sda",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 11:05:22"
+    },
+    {
+      "judul": "UBSI Kampus Bekasi Dorong Mahasiswa Kuasai Teknologi XR dan Spatial Computing",
+      "link_berita": "https://news.republika.co.id/berita/t4j31x368/ubsi-kampus-bekasi-dorong-mahasiswa-kuasai-teknologi-xr-dan-spatial-computing",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:57:22"
+    },
+    {
+      "judul": "Ini Peran Aktif BSI dalam Penandatanganan Akad Massal KUR 800 Ribu Pelaku Usaha UMKM",
+      "link_berita": "https://sharia.republika.co.id/berita/t4j4y5349/ini-peran-aktif-bsi-dalam-penandatanganan-akad-massal-kur-800-ribu-pelaku-usaha-umkm",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:54:22"
+    },
+    {
+      "judul": "Polri Rilis Kasus Narkoba Menonjol Periode Januari-Oktober 2025, Mayoritas Berlokasi di Aceh",
+      "link_berita": "https://news.republika.co.id/berita/t4j4x9409/polri-rilis-kasus-narkoba-menonjol-periode-januarioktober-2025-mayoritas-berlokasi-di-aceh",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:53:22"
+    },
+    {
+      "judul": "Mahasiswa UBSI Melaju ke NUDC 2025 Tingkat Nasional, Buktikan Mutu Kampus Digital Kreatif",
+      "link_berita": "https://news.republika.co.id/berita/t4j4dd368/mahasiswa-ubsi-melaju-ke-nudc-2025-tingkat-nasional-buktikan-mutu-kampus-digital-kreatif",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:50:22"
+    },
+    {
+      "judul": "Ketua PWNU Jateng: Pesantren Perlu Berbenah, Belum Giat Dakwahkan ke Publik",
+      "link_berita": "https://rejogja.republika.co.id/berita/t4j4oi282/ketua-pwnu-jateng-pesantren-perlu-berbenah-belum-giat-dakwahkan-ke-publik",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:48:22"
+    },
+    {
+      "judul": "Kampus YARSI Bangun Ekosistem Ekonomi Hijau dan Literasi Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/t4j4in522/kampus-yarsi-bangun-ekosistem-ekonomi-hijau-dan-literasi-lingkungan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:44:22"
+    },
+    {
+      "judul": "Dari Total 80 TPU di Jakarta, 69 di Antaranya Hanya Terima Makam Tumpang",
+      "link_berita": "https://news.republika.co.id/berita/t4j4br487/dari-total-80-tpu-di-jakarta-69-di-antaranya-hanya-terima-makam-tumpang",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:40:22"
+    },
+    {
+      "judul": "Tuntas Traansfer Pengetahuan dari China, 513 SDM Indonesia Siap Operasikan Whoosh",
+      "link_berita": "https://news.republika.co.id/berita/t4j4ap377/tuntas-traansfer-pengetahuan-dari-china-513-sdm-indonesia-siap-operasikan-whoosh",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:40:22"
+    },
+    {
+      "judul": "Sarjana Sejati di Era Digital, Bukan Sekadar Gelar tapi Tanggung Jawab Sosial",
+      "link_berita": "https://news.republika.co.id/berita/t4j4am368/sarjana-sejati-di-era-digital-bukan-sekadar-gelar-tapi-tanggung-jawab-sosial",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:40:22"
+    },
+    {
+      "judul": "Artis Hollywood Peraih Oscar Sebut Israel Sebagai Nazi",
+      "link_berita": "https://news.republika.co.id/berita/t4j493451/artis-hollywood-peraih-oscar-sebut-israel-sebagai-nazi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:39:22"
+    },
+    {
+      "judul": "Jebol Plafon Kamar Mandi Sel Tahanan PN Cirebon, Empat Tahanan Kabur Usai Sidang",
+      "link_berita": "https://rejabar.republika.co.id/berita/t4j47k512/jebol-plafon-kamar-mandi-sel-tahanan-pn-cirebon-empat-tahanan-kabur-usai-sidang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:38:22"
+    },
+    {
+      "judul": "Indonesia Punya 9 Kawasan Industri Baru, Investasi Meningkat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4j47i416/indonesia-punya-9-kawasan-industri-baru-investasi-meningkat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:38:22"
+    },
+    {
+      "judul": "F-PPP Jabar Sebut Hari Santri Momentum Teguhkan Nilai dan Jati Diri Pesantren",
+      "link_berita": "https://rejabar.republika.co.id/berita/t4j400368/fppp-jabar-sebut-hari-santri-momentum-teguhkan-nilai-dan-jati-diri-pesantren",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:33:22"
+    },
+    {
+      "judul": "Sejarawan: Resolusi Jihad Pernah Dihilangkan dari Sejarah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4j3yl430/sejarawan-resolusi-jihad-pernah-dihilangkan-dari-sejarah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:32:22"
+    },
+    {
+      "judul": "CSIS: Pemerintahan Prabowo Hadapi Tiga Tantangan Utama di Tahun Pertama",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4j3s4370/csis-pemerintahan-prabowo-hadapi-tiga-tantangan-utama-di-tahun-pertama",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:28:22"
+    },
+    {
+      "judul": "Prodi TI Jadi Garda Depan Cetak Talenta Masa Depan di Tengah Revolusi Fintech",
+      "link_berita": "https://news.republika.co.id/berita/t4j3rk368/prodi-ti-jadi-garda-depan-cetak-talenta-masa-depan-di-tengah-revolusi-fintech",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:28:22"
+    },
+    {
+      "judul": "Perjalanan KRL Rangkasbitung-Tanah Abang Kembali Normal Usai Kereta Anjlok di Leuwiiranji",
+      "link_berita": "https://news.republika.co.id/berita/t4j3ow409/perjalanan-krl-rangkasbitungtanah-abang-kembali-normal-usai-kereta-anjlok-di-leuwiiranji",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:27:22"
+    },
+    {
+      "judul": "15 Siswi dan Alumni SMAN 11 Semarang Laporkan Kasus Deepfake Vulgar Chiko ke Polisi",
+      "link_berita": "https://rejogja.republika.co.id/berita/t4j3o2282/15-siswi-dan-alumni-sman-11-semarang-laporkan-kasus-deepfake-vulgar-chiko-ke-polisi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:26:22"
+    },
+    {
       "judul": "Polri Sita 197,7 Ton Narkoba Sepanjang Januari-Oktober 2025",
       "link_berita": "https://news.republika.co.id/berita/t4j3jz377/polri-sita-1977-ton-narkoba-sepanjang-januarioktober-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:24:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:24:22"
     },
     {
       "judul": "Kelakuan Minus Israel Terulang Lagi: Langgar Gencatan Senjata 80 Kali, 97 Warga Palestina Gugur",
       "link_berita": "https://khazanah.republika.co.id/berita/t4j3bb430/kelakuan-minus-israel-terulang-lagi-langgar-gencatan-senjata-80-kali-97-warga-palestina-gugur",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:18:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Kado Manis di Hari Santri, Pemkab Kuningan Siapkan Beasiswa untuk 5.000 Santri",
       "link_berita": "https://rejabar.republika.co.id/berita/t4j3a9512/kado-manis-di-hari-santri-pemkab-kuningan-siapkan-beasiswa-untuk-5000-santri",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:18:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Susan Kamelia Siap Harumkan Nama UBSI Kampus Pontianak di Kejurda Shorinji Kempo 2025",
       "link_berita": "https://news.republika.co.id/berita/t4j39x368/susan-kamelia-siap-harumkan-nama-ubsi-kampus-pontianak-di-kejurda-shorinji-kempo-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:18:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Dinyatakan Lulus, 513 SDM Indonesia Siap Operasikan dan Rawat Kereta Cepat Whoosh",
       "link_berita": "https://bisnistime.com/posts/712681/dinyatakan-lulus-513-sdm-indonesia-siap-operasikan-dan-rawat-kereta-cepat-whoosh",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:16:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Di Hari Santri 2025, Presiden Prabowo Setuju Pembentukan Ditjen Pesantren",
       "link_berita": "https://khazanah.republika.co.id/berita/t4j34c430/di-hari-santri-2025-presiden-prabowo-setuju-pembentukan-ditjen-pesantren",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:14:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Kinerja Pertahanan Dinilai Efektif Dorong Kemandirian Industri dan Stabilitas Pemerintahan",
       "link_berita": "https://news.republika.co.id/berita/t4j2qy430/kinerja-pertahanan-dinilai-efektif-dorong-kemandirian-industri-dan-stabilitas-pemerintahan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:12:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Membaca Nusantara dari Manuskrip Negarakertagama",
       "link_berita": "https://rejogja.republika.co.id/berita/t4j2z3282/membaca-nusantara-dari-manuskrip-negarakertagama",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:11:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "HIMASATA UNM akan Gelar Workshop Computer Vision 2025, Siapkan Talenta Digital Masa Depan",
       "link_berita": "https://news.republika.co.id/berita/t4j2tl368/himasata-unmakan-gelar-workshop-computer-vision-2025-siapkan-talenta-digital-masa-depan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:08:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Usai Bantah Purbaya, Dedi Mulyadi Ancam Pecat Pejabat yang Sembunyikan Data APBD Didepositokan",
       "link_berita": "https://news.republika.co.id/berita/t4j2n9409/usai-bantah-purbaya-dedi-mulyadi-ancam-pecat-pejabat-yang-sembunyikan-data-apbd-didepositokan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:04:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "KPAI Apresiasi Putusan 19 Tahun Penjara Terhadap Eks Kapolres Ngada AKBP Fajar",
       "link_berita": "https://news.republika.co.id/berita/t4j2b1409/kpai-apresiasi-putusan-19-tahun-penjara-terhadap-eks-kapolres-ngada-akbp-fajar",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:57:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "BI: Permintaan Kredit Masih Lemah di Tengah Suku Bunga Tinggi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4j1h9370/bi-permintaan-kredit-masih-lemah-di-tengah-suku-bunga-tinggi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:55:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Ingatlah, Jasa Besar Para Kiai | Dapur Redaksi",
       "link_berita": "https://tv.republika.co.id/berita/t4j263313/ingatlah-jasa-besar-para-kiai-dapur-redaksi",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:54:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Santri pun Bisa Berprestasi di Kejuaraan Bola Basket Pelajar Terbesar di Tanah Air",
       "link_berita": "https://news.republika.co.id/berita/t4j216348/santri-pun-bisa-berprestasi-di-kejuaraan-bola-basket-pelajar-terbesar-di-tanah-air",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:51:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 10:19:22"
     },
     {
       "judul": "Satu Tahun Prabowo-Gibran, Aliansi Ekonom Indonesia Sampaikan Tujuh Rekomendasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4j1yb416/satu-tahun-prabowogibran-aliansi-ekonom-indonesia-sampaikan-tujuh-rekomendasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:49:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Harga Telur di Pasar Tradisional di Bandung Masih Tinggi",
       "link_berita": "https://rejabar.republika.co.id/berita/t4j1ru512/harga-telur-di-pasar-tradisional-di-bandung-masih-tinggi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:45:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Kemenangan Diplomatik Erdogan: dari Gaza Hingga Hujan Pujian Presiden AS Donald Trump",
       "link_berita": "https://khazanah.republika.co.id/berita/t4j1mr451/kemenangan-diplomatik-erdogan-dari-gaza-hingga-hujan-pujian-presiden-as-donald-trump",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:42:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Animo Masyarakat Bandung Ikuti Lomba Lari Tinggi, Pendaftar AHY Run Membeludak",
       "link_berita": "https://rejabar.republika.co.id/berita/t4j1jc512/animo-masyarakat-bandung-ikuti-lomba-lari-tinggi-pendaftar-ahy-run-membeludak",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:40:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "SMP IT Rahmaniyah Boarding School Gelar Rahmaniyah Techno Festival 2025",
       "link_berita": "https://kampus.republika.co.id/posts/712678/smp-it-rahmaniyah-boarding-school-gelar-rahmaniyah-techno-festival-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:38:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Intelijen Iran Deteksi Agen-Agen Pro-Israel. Awasi Ketat Pergerakannya",
       "link_berita": "https://news.republika.co.id/berita/t4j1cl377/intelijen-iran-deteksi-agenagen-proisrael-awasi-ketat-pergerakannya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:36:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "bank bjb Hadirkan bjb Pay Day Vol.1 2025, Kulineran Seru & Belanja Hemat dengan DIGI bank bjb",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4j13c368/bank-bjb-hadirkan-bjb-pay-day-vol1-2025-kulineran-seru-belanja-hemat-dengan-digi-bank-bjb",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:31:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Michael Jordan Ungkap Kerinduan Bermain Basket Lagi: Berharap Bisa Minum Pil Ajaib",
       "link_berita": "https://skor.republika.co.id/posts/712687/michael-jordan-ungkap-kerinduan-bermain-basket-lagi-berharap-bisa-minum-pil-ajaib",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:30:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "LPEM UI Soroti Kondisi Ekonomi di Tahun Pertama Prabowo-Gibran",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4j0y9370/lpem-ui-soroti-kondisi-ekonomi-di-tahun-pertama-prabowogibran",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:27:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Hari Santri Nasional, UAS: Benteng Terakhir Kita Pesantren, Tolong Perhatikan",
       "link_berita": "https://khazanah.republika.co.id/berita/t4j0wj320/hari-santri-nasional-uas-benteng-terakhir-kita-pesantren-tolong-perhatikan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:26:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Peringati HUT Humas Polri Ke-74, Polda DIY Gelar Baksos Kesehatan Gratis",
       "link_berita": "https://rejogja.republika.co.id/berita/t4j0v4291/peringati-hut-humas-polri-ke74-polda-diy-gelar-baksos-kesehatan-gratis",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:26:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Bea Cukai Paparkan Capaian Penindakan Nasional dan Wilayah Aceh 2025",
       "link_berita": "https://republika.co.id/berita//t4j0s3368/bea-cukai-paparkan-capaian-penindakan-nasional-dan-wilayah-aceh-2025",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Sasar Truk Terparkir di Jalur Pantura, Pencuri Onderdil Dihadiahi Bogem Mentah",
-      "link_berita": "https://rejabar.republika.co.id/berita/t4j0nj512/sasar-truk-terparkir-di-jalur-pantura-pencuri-onderdil-dihadiahi-bogem-mentah",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Hasto Sampaikan Tiga Pesan Penting Megawati di Hari Santri 2025",
-      "link_berita": "https://news.republika.co.id/berita/t4j0es487/hasto-sampaikan-tiga-pesan-penting-megawati-di-hari-santri-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Usai Dipecat, Pastoor Beberkan Tiga Target Proyek Jangka Panjang Pengembangan Sepak Bola Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/t4j0b8348/usai-dipecat-pastoor-beberkan-tiga-target-proyek-jangka-panjang-pengembangan-sepak-bola-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "PSN PIK 2 Dicabut, MUI Desak Pengembalian Tanah Hak Warga yang Dizalimi",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4j0b5320/psn-pik-2-dicabut-mui-desak-pengembalian-tanah-hak-warga-yang-dizalimi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Festival Perak Kotagede 2025, Menghidupkan Kembali Kejayaan Kota Perak Yogyakarta",
-      "link_berita": "https://rejogja.republika.co.id/berita/t4j07o291/festival-perak-kotagede-2025-menghidupkan-kembali-kejayaan-kota-perak-yogyakarta",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Hujan Deras dan Angin Kencang Tumbangkan Pohon di Ciater, Dua Orang Tewas Tertimpa",
-      "link_berita": "https://rejabar.republika.co.id/berita/t4j04m512/hujan-deras-dan-angin-kencang-tumbangkan-pohon-di-ciater-dua-orang-tewas-tertimpa",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Sinergi Foundation Distribusikan Susu dan Makanan Hangat di Gaza Selatan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4j00i368/sinergi-foundation-distribusikan-susu-dan-makanan-hangat-di-gaza-selatan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Dedi Mulyadi Balas Menkeu Purbaya: Kalau Mau Ukur Dana Daerah Mengendap Bukan Hari Ini",
-      "link_berita": "https://news.republika.co.id/berita/t4izz8487/dedi-mulyadi-balas-menkeu-purbaya-kalau-mau-ukur-dana-daerah-mengendap-bukan-hari-ini",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Negara-Negara Muslim Ogah Terjunkan Pasukan Lawan Hamas di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/t4iztp393/negaranegara-muslim-ogah-terjunkan-pasukan-lawan-hamas-di-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "'Yokjakarta' Hadirkan Suasana Pulang Lewat Musik dan Budaya pada Remember November 2025",
-      "link_berita": "https://rejogja.republika.co.id/berita/t4izst291/yokjakarta-hadirkan-suasana-pulang-lewat-musik-dan-budaya-pada-remember-november-2025",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Kejagung Klaim Sudah Setor Rp 15 Triliun ke Negara Hasil Penanganan Korupsi 2025",
-      "link_berita": "https://news.republika.co.id/berita/t4izoc377/kejagung-klaim-sudah-setor-rp-15-triliun-ke-negara-hasil-penanganan-korupsi-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Prediksi dan Link Live Streaming Persib vs Selangor di AFC Champions League 2 2025-2026",
-      "link_berita": "https://skor.republika.co.id/posts/712679/prediksi-dan-link-live-streaming-persib-vs-selangor-di-afc-champions-league-2-2025-2026",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Pemprov Jakarta Akui Dana Rp 14,6 Triliun Masih Mengendap di Bank, Ini Alasannya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t4izjr370/pemprov-jakarta-akui-dana-rp-146-triliun-masih-mengendap-di-bank-ini-alasannya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:25:17"
-    },
-    {
-      "judul": "Amazon akan Ganti 600 Ribu Pekerja dengan Robot",
-      "link_berita": "https://news.republika.co.id/berita/t4izg4483/amazon-akan-ganti-600-ribu-pekerja-dengan-robot",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Diresmikan di GIK UGM, PwC Consulting Resmi Buka Kantor di Yogyakarta",
-      "link_berita": "https://rejogja.republika.co.id/berita/t4izcz291/diresmikan-di-gik-ugm-pwc-consulting-resmi-buka-kantor-di-yogyakarta",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Bocah SD Tewas Dibunuh di Toilet Masjid, Pemkab Majalengka Tanggung Biaya Otopsi Rp 6 Juta",
-      "link_berita": "https://rejabar.republika.co.id/berita/t4izcc512/bocah-sd-tewas-dibunuh-di-toilet-masjid-pemkab-majalengka-tanggung-biaya-otopsi-rp-6-juta",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Paradoks Penjara Israel, Yahya Sinwar, dan Keterisolasian Zionis",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4iz8q451/paradoks-penjara-israel-yahya-sinwar-dan-keterisolasian-zionis",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Dorong UMKM Naik Kelas, Disperindag Jabar Gelar WJX 2025 Hasilkan Transaksi Rp 328,6 Miliar",
-      "link_berita": "https://rejabar.republika.co.id/berita/t4iyyn512/dorong-umkm-naik-kelas-disperindag-jabar-gelar-wjx-2025-hasilkan-transaksi-rp-3286-miliar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "OJK dan LPS Mengajar Gelar Edukasi Keuangan di SMAN 3 Yogyakarta",
-      "link_berita": "https://rejogja.republika.co.id/berita/t4iyxa291/ojk-dan-lps-mengajar-gelar-edukasi-keuangan-di-sman-3-yogyakarta",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Surveyor Indonesia dan PERSAMI Perkuat Sinergi Menuju Jakarta Halal Festival 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4iywu368/surveyor-indonesia-dan-persami-perkuat-sinergi-menuju-jakarta-halal-festival-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Listrik Terangi Pelosok, Pemerataan Energi untuk Semua",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t4iygr368/listrik-terangi-pelosok-pemerataan-energi-untuk-semua",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Percepat Penurunan Emisi, Produsen Mortar Buat Sistem Inventarisasi Gas Rumah Kaca",
-      "link_berita": "https://esgnow.republika.co.id/berita/t4iygh483/percepat-penurunan-emisi-produsen-mortar-buat-sistem-inventarisasi-gas-rumah-kaca",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Menkum Setuju Karya Jurnalistik Harus Dilindungi dari Gempuran AI untuk Menyelamatkan Demokrasi",
-      "link_berita": "https://news.republika.co.id/berita/t4iyg9487/menkum-setuju-karya-jurnalistik-harus-dilindungi-dari-gempuran-ai-untuk-menyelamatkan-demokrasi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
-    },
-    {
-      "judul": "Terima Kunjungan Presiden Afsel, Prabowo Kagum dengan Perjuangan Nelson Mandela",
-      "link_berita": "https://tv.republika.co.id/berita/t4iyfo313/terima-kunjungan-presiden-afsel-prabowo-kagum-dengan-perjuangan-nelson-mandela",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 08:25:17"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 09:19:22"
     },
     {
       "judul": "Tiga Manfaat Ajaib Membacakan Buku untuk Masa Emas Perkembangan Anak",
@@ -391,29 +391,29 @@
       "tanggal_terbit": "Wednesday, 22 Oct 2025, 15:31:00"
     },
     {
-      "judul": "Percepat Penurunan Emisi, Produsen Mortar Buat Sistem Inventarisasi Gas Rumah Kaca",
-      "link_berita": "https://esgnow.republika.co.id/berita/t4iygh483/percepat-penurunan-emisi-produsen-mortar-buat-sistem-inventarisasi-gas-rumah-kaca",
-      "kategori": "Tata Kelola",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 15:33:00"
+      "judul": "Kampus YARSI Bangun Ekosistem Ekonomi Hijau dan Literasi Lingkungan",
+      "link_berita": "https://esgnow.republika.co.id/berita/t4j4in522/kampus-yarsi-bangun-ekosistem-ekonomi-hijau-dan-literasi-lingkungan",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 17:44:00"
     },
     {
-      "judul": "BI: Permintaan Kredit Masih Lemah di Tengah Suku Bunga Tinggi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t4j1h9370/bi-permintaan-kredit-masih-lemah-di-tengah-suku-bunga-tinggi",
+      "judul": "Bos BI Ungkap Suku Bunga Saat Ini Terendah Sejak 2022",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4j5uw490/bos-bi-ungkap-suku-bunga-saat-ini-terendah-sejak-2022",
       "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 16:55:00"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 18:13:00"
     },
     {
-      "judul": "CIMB Niaga Syariah Mulai Tampilkan Wajah Baru Jelang Spin-Off 2026",
-      "link_berita": "https://sharia.republika.co.id/berita/t4ixj8490/cimb-niaga-syariah-mulai-tampilkan-wajah-baru-jelang-spinoff-2026",
+      "judul": "Ini Peran Aktif BSI dalam Penandatanganan Akad Massal KUR 800 Ribu Pelaku Usaha UMKM",
+      "link_berita": "https://sharia.republika.co.id/berita/t4j4y5349/ini-peran-aktif-bsi-dalam-penandatanganan-akad-massal-kur-800-ribu-pelaku-usaha-umkm",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 15:13:00"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 17:54:00"
     },
     {
-      "judul": "Polri Sita 197,7 Ton Narkoba Sepanjang Januari-Oktober 2025",
-      "link_berita": "https://news.republika.co.id/berita/t4j3jz377/polri-sita-1977-ton-narkoba-sepanjang-januarioktober-2025",
+      "judul": "Pramono: Keblinger Kalau Masih Ada yang Mempertanyakan Kontribusi Kiai dan Pesantren",
+      "link_berita": "https://news.republika.co.id/berita/t4j5va487/pramono-keblinger-kalau-masih-ada-yang-mempertanyakan-kontribusi-kiai-dan-pesantren",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 22 Oct 2025, 17:23:00"
+      "tanggal_terbit": "Wednesday, 22 Oct 2025, 18:13:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 22 Oct 2025, 17:25:17"
+  "waktu_scraping": "Wednesday, 22 Oct 2025, 18:19:22"
 }
