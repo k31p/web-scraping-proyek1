@@ -23,6 +23,14 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "BBM BP 92 Sudah Tersedia di SPBU bp Jabodetabek, Jabar, dan Jatim",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4zpnb423/bbm-bp-92-sudah-tersedia-di-spbu-bp-jabodetabek-jabar-dan-jatim"
+    },
+    {
+      "judul": "Polisi Ungkap Awal Pengembangan Kasus Sebelum Tangkap Onad",
+      "link_berita": "https://news.republika.co.id/berita/t4zper409/polisi-ungkap-awal-pengembangan-kasus-sebelum-tangkap-onad"
+    },
+    {
       "judul": "Temukan Ganja, Polisi Ringkus Onad dan Istri di Ciputat",
       "link_berita": "https://news.republika.co.id/berita/t4zmsc484/temukan-ganja-polisi-ringkus-onad-dan-istri-di-ciputat"
     },
@@ -73,347 +81,339 @@
     {
       "judul": "Hampir 700 Anak Keracunan MBG, Pemkab Gunungkidul Siapkan Rp100 Juta untuk Biaya Perawatan",
       "link_berita": "https://rejogja.republika.co.id/berita/t4y0a7282/hampir-700-anak-keracunan-mbg-pemkab-gunungkidul-siapkan-rp100-juta-untuk-biaya-perawatan"
-    },
-    {
-      "judul": "Menag: Saya Percaya Tuhan yang Lebih Feminin daripada Tuhan yang Maskulin",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4xwy6483/menag-saya-percaya-tuhan-yang-lebih-feminin-daripada-tuhan-yang-maskulin"
-    },
-    {
-      "judul": "Basuki Tegaskan Pembangunan IKN Terus Maju, Jadi Ibu Kota Politik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t4xvd8490/basuki-tegaskan-pembangunan-ikn-terus-maju-jadi-ibu-kota-politik"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Gen Z Approved! Light+ by Wardah: Halal dan Sesuai Kebutuhan",
+      "link_berita": "https://ameera.republika.co.id/berita/t4zrgc425/gen-z-approved-light-by-wardah-halal-dan-sesuai-kebutuhan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:22:06"
+    },
+    {
+      "judul": "Menko AHY Jajaki Kerja Sama Energi Terbarukan dengan Finlandia",
+      "link_berita": "https://esgnow.republika.co.id/berita/t4zrf6416/menko-ahy-jajaki-kerja-sama-energi-terbarukan-dengan-finlandia",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:21:06"
+    },
+    {
+      "judul": "Danantara Buka Suara Soal WNA Jadi Direksi BUMN, Lebih Profesional?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4zr8l502/danantara-buka-suara-soal-wna-jadi-direksi-bumn-lebih-profesional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:17:06"
+    },
+    {
+      "judul": "Inisiasi 'Bijak Jajan Cinta Bumi', Garudafood Ajak Generasi Muda di Sukoharjo Peduli Jajanan Aman",
+      "link_berita": "https://rejogja.republika.co.id/berita/t4zolw291/inisiasi-bijak-jajan-cinta-bumi-garudafood-ajak-generasi-muda-di-sukoharjo-peduli-jajanan-aman",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:12:06"
+    },
+    {
+      "judul": "Hadapi Musim Hujan, Sepuluh Kecamatan di Cirebon Rawan Bencana",
+      "link_berita": "https://rejabar.republika.co.id/berita/t4zqze512/hadapi-musim-hujan-sepuluh-kecamatan-di-cirebon-rawan-bencana",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:12:06"
+    },
+    {
+      "judul": "Buka Rakernas Yakesma, Menko PM: Zakat Harus Jadi Instrumen Transformasi Sosial",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4zqyu320/buka-rakernas-yakesma-menko-pm-zakat-harus-jadi-instrumen-transformasi-sosial",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:11:06"
+    },
+    {
+      "judul": "Bahu-Membahu Lawan Scam demi Lindungi Konsumen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4zqxz423/bahumembahu-lawan-scam-demi-lindungi-konsumen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:11:06"
+    },
+    {
+      "judul": "Anggota Exco PSSI Khairul Anwar Bantah Isu Persetujuan Exco Tentang Pelatih Timnas: Tidak Benar!",
+      "link_berita": "https://news.republika.co.id/berita/t4zqur348/anggota-exco-pssi-khairul-anwar-bantah-isu-persetujuan-exco-tentang-pelatih-timnas-tidak-benar",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:09:06"
+    },
+    {
+      "judul": "Warga di Majalengka jadi Korban Maling Bermodus Gembos Ban, Uang Rp 100 Juta dari Bank Melayang",
+      "link_berita": "https://rejabar.republika.co.id/berita/t4zqpw512/warga-di-majalengka-jadi-korban-maling-bermodus-gembos-ban-uang-rp-100-juta-dari-bank-melayang",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:06:06"
+    },
+    {
+      "judul": "Menhan Sjafrie Beri Update Soal Rencana Pembelian Jet Tempur J-10 Chengdu",
+      "link_berita": "https://news.republika.co.id/berita/t4zqnk409/menhan-sjafrie-beri-update-soal-rencana-pembelian-jet-tempur-j10-chengdu",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:04:06"
+    },
+    {
+      "judul": "Dari Regulasi ke Aksi: Kiprah OJK Mengawal Transformasi Keuangan Syariah",
+      "link_berita": "https://sharia.republika.co.id/berita/t4zqdq416/dari-regulasi-ke-aksi-kiprah-ojk-mengawal-transformasi-keuangan-syariah",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:01:06"
+    },
+    {
+      "judul": "Pertamina NRE Pangkas Emisi 14.994 Ton CO2e, Lampaui Target Tahunan",
+      "link_berita": "https://esgnow.republika.co.id/berita/t4zq8i423/pertamina-nre-pangkas-emisi-14994-ton-co2e-lampaui-target-tahunan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 10:00:06"
+    },
+    {
+      "judul": "Imam Al Ghazali Ungkap Tanda Allah Sedang Mengingat Kita",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4zqcx430/imam-al-ghazali-ungkap-tanda-allah-sedangmengingat-kita",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:58:06"
+    },
+    {
+      "judul": "Saat Ulama Tergelincir",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4zpz5483/saat-ulama-tergelincir",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:50:06"
+    },
+    {
+      "judul": "Apakah Kalimat Kalimat Doa Ini Hanya Diperuntukkan bagi Nabi Saja?",
+      "link_berita": "https://iqra.republika.co.id/berita/t4zkfq430/apakah-kalimat-kalimat-doa-ini-hanya-diperuntukkan-bagi-nabi-saja",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:48:06"
+    },
+    {
+      "judul": "Ilmuwan Bangun \u2018Mesin Waktu\u2019 di Amazon untuk Simulasikan Iklim Masa Depan",
+      "link_berita": "https://esgnow.republika.co.id/berita/t4zps3416/ilmuwan-bangun-mesin-waktu-di-amazon-untuk-simulasikan-iklim-masa-depan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:46:06"
+    },
+    {
+      "judul": "BBM BP 92 Sudah Tersedia di SPBU bp Jabodetabek, Jabar, dan Jatim",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4zpnb423/bbm-bp-92-sudah-tersedia-di-spbu-bp-jabodetabek-jabar-dan-jatim",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:43:06"
+    },
+    {
+      "judul": "Ada 4 Golongan Manusia, Jejak Kebaikan atau Keburukan yang akan Kita Tinggalkan Setelah Mati?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4zpl9320/ada-4-golongan-manusia-jejak-kebaikan-atau-keburukan-yang-akan-kita-tinggalkan-setelah-mati",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:41:06"
+    },
+    {
+      "judul": "Bertemu PM Selandia Baru, Prabowo Ingin Kirim Mahasiswa Kedokteran",
+      "link_berita": "https://news.republika.co.id/berita/t4zpkt484/bertemu-pm-selandia-baru-prabowo-ingin-kirim-mahasiswa-kedokteran",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:41:06"
+    },
+    {
+      "judul": "Kemendikdasmen Apresiasi Dukungan Pemda Terkait Pelaksanaan TKA di Berbagai Wilayah",
+      "link_berita": "https://news.republika.co.id/berita/t4zphu472/kemendikdasmen-apresiasi-dukungan-pemda-terkait-pelaksanaan-tka-di-berbagai-wilayah",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:39:06"
+    },
+    {
+      "judul": "Viral Mobil Dinas Pemkab Bandung Barat Diduga Isi BBM Bersubsidi",
+      "link_berita": "https://rejabar.republika.co.id/berita/t4zphd512/viral-mobil-dinas-pemkab-bandung-barat-diduga-isi-bbm-bersubsidi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:39:06"
+    },
+    {
+      "judul": "Kendalikan Penyakitnya, Dwi Terapkan Pola Hidup Sehat",
+      "link_berita": "https://pemantiknews.id/posts/715101/kendalikan-penyakitnya-dwi-terapkan-pola-hidup-sehat",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:39:06"
+    },
+    {
+      "judul": "Catatan Cak AT: Dua Unsur Tua, Dua Harapan Baru",
+      "link_berita": "https://ruzkaindonesia.id/posts/715102/catatan-cak-at-dua-unsur-tua-dua-harapan-baru",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:38:06"
+    },
+    {
+      "judul": "Mentan Amran Memupus Mimpi Ekonom Pro-Mafia Pangan",
+      "link_berita": "https://pemantiknews.id/posts/715105/mentan-amran-memupus-mimpi-ekonom-pro-mafia-pangan",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:38:06"
+    },
+    {
+      "judul": "Kisah Thalut dan Jalut: Iman yang Mengalahkan Raksasa",
+      "link_berita": "https://topnews62.com/posts/715106/kisah-thalut-dan-jalut-iman-yang-mengalahkan-raksasa",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:38:06"
+    },
+    {
+      "judul": "Ibu Asal Medan Ini Tenang Berobat Jantung Berkat Program JKN",
+      "link_berita": "https://pemantiknews.id/posts/715109/ibu-asal-medan-ini-tenang-berobat-jantung-berkat-program-jkn",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:38:06"
+    },
+    {
+      "judul": "Polisi Ungkap Awal Pengembangan Kasus Sebelum Tangkap Onad",
+      "link_berita": "https://news.republika.co.id/berita/t4zper409/polisi-ungkap-awal-pengembangan-kasus-sebelum-tangkap-onad",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:38:06"
+    },
+    {
+      "judul": "Isu Bangkitnya Khilafah Kembali Muncul di Batola Kalsel, Begini Sikap Kemenag",
+      "link_berita": "https://khazanah.republika.co.id/berita/t4zp89483/isu-bangkitnya-khilafah-kembali-muncul-di-batola-kalsel-begini-sikap-kemenag",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:34:06"
+    },
+    {
+      "judul": "Antusiasme Siswa Ikuti Gladi TKA 2025 karena Rasakan Banyak Manfaat",
+      "link_berita": "https://news.republika.co.id/berita/t4zp13472/antusiasme-siswa-ikuti-gladi-tka-2025-karena-rasakan-banyak-manfaat",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:29:06"
+    },
+    {
+      "judul": "Dua PNS Diperiksa Terkait Dugaan Korupsi di Pemkot Bandung, Kejari Buka Peluang Periksa Pejabat",
+      "link_berita": "https://rejabar.republika.co.id/berita/t4zp08512/dua-pns-diperiksa-terkait-dugaan-korupsi-di-pemkot-bandung-kejari-buka-peluang-periksa-pejabat",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:29:06"
+    },
+    {
+      "judul": "Ibu dan Kakak Onad Sambangi Polres Metro Jakbar",
+      "link_berita": "https://ameera.republika.co.id/berita/t4zoy8328/ibu-dan-kakak-onad-sambangi-polres-metro-jakbar",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:28:06"
+    },
+    {
       "judul": "Brasil Klaim Sukses Tekan Deforestasi di Amazon",
       "link_berita": "https://esgnow.republika.co.id/berita/t4zorh416/brasil-klaim-sukses-tekan-deforestasi-di-amazon",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:23:42"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Ahli Gizi Ungkap Efektivitas dan Tantangan Program Makanan Bergizi Gratis",
       "link_berita": "https://ameera.republika.co.id/berita/t4zoln370/ahli-gizi-ungkap-efektivitas-dan-tantangan-program-makanan-bergizi-gratis",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:20:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Bisnis Masa Depan: Green Economy Ciptakan Green Job",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4zok5484/bisnis-masa-depan-green-economy-ciptakan-green-job",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:19:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "BNPB Fokuskan Pompanisasi di Pesisir Semarang untuk Percepat Surutnya Banjir",
       "link_berita": "https://rejogja.republika.co.id/berita/t4zo8h370/bnpb-fokuskan-pompanisasi-di-pesisir-semarang-untuk-percepat-surutnya-banjir",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:12:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Israel Terus Langgar Gencatan Senjata",
       "link_berita": "https://news.republika.co.id/berita/t4zo3w393/israel-terus-langgar-gencatan-senjata",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:09:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "PGN Perkuat Fundamental Bisnis dan Kelola Dinamika Bisnis di Triwulan III 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4znz2472/pgn-perkuat-fundamental-bisnis-dan-kelola-dinamika-bisnis-di-triwulan-iii-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:06:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Bupati Gunungkidul Murka, Ultimatum Dapur MBG Usai Hampir 700 Anak Keracunan: Ini Nyawa Banyak Orang",
       "link_berita": "https://rejogja.republika.co.id/berita/t4znve282/bupati-gunungkidul-murka-ultimatum-dapur-mbg-usai-hampir-700-anak-keracunan-ini-nyawa-banyak-orang",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:04:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Erspo Hadirkan Babak Baru Sport dan Fashion di Jakarta Fashion Week 2026",
       "link_berita": "https://skor.republika.co.id/posts/715103/erspo-hadirkan-babak-baru-sport-dan-fashion-di-jakarta-fashion-week-2026",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 09:00:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Pesan Pelestarian Lingkungan Dibalik Tradisi Merti Desa di Lembah Gunung Sindoro-Sumbing",
       "link_berita": "https://visual.republika.co.id/berita/t4zjct375/pesan-pelestarian-lingkungan-dibalik-tradisi-merti-desa-di-lembah-gunung-sindorosumbing",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:59:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Di Masa Gencatan Senjata, AMAL dan BMM Percepat Pembangunan Sumur Wakaf Ketiga di Gaza Utara",
       "link_berita": "https://khazanah.republika.co.id/berita/t4znlv472/di-masa-gencatan-senjata-amal-dan-bmm-percepat-pembangunan-sumur-wakaf-ketiga-di-gaza-utara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:58:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Onad dan Istri Ditangkap Polisi Diduga karena Pakai Narkoba, Polisi Temukan Ganja dan Ekstasi di TKP",
       "link_berita": "https://rejabar.republika.co.id/berita/t4znle282/onad-dan-istri-ditangkap-polisi-diduga-karena-pakai-narkoba-polisi-temukan-ganja-dan-ekstasi-di-tkp",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:58:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Pengakuan Mengejutkan Eks Direktur Mossad: Israel Bisa Sabotase Perangkat Apa Pun di Semua Negara",
       "link_berita": "https://khazanah.republika.co.id/berita/t4znj6320/pengakuan-mengejutkan-eks-direktur-mossad-israel-bisa-sabotase-perangkat-apa-pun-di-semua-negara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:57:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "KTT APEC 2025 Dibuka di Korea Selatan, Bahas Perdagangan Bebas dan Ekonomi Digital",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4znfn370/ktt-apec-2025-dibuka-di-korea-selatan-bahas-perdagangan-bebas-dan-ekonomi-digital",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:54:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 09:24:06"
     },
     {
       "judul": "Tertidur Hingga Lewat Sholat Jumat Apakah Berdosa? Begini Penjelasan Ulama",
       "link_berita": "https://khazanah.republika.co.id/berita/t4zne0430/tertidur-hingga-lewat-sholat-jumat-apakah-berdosa-begini-penjelasan-ulama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:53:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:06"
     },
     {
       "judul": "SPBU BP Beli 100 Ribu Barel BBM dari Pertamina, Stok RON 92 Kembali Tersedia",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4zn7d370/spbu-bp-beli-100-ribu-barel-bbm-dari-pertamina-stok-ron-92-kembali-tersedia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:49:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:06"
     },
     {
       "judul": "Topping Off Data Center, NeutraDC Nxera Batam Siap Dorong Ekosistem AI",
       "link_berita": "https://ekonomi.republika.co.id/berita/t4zmvf318/topping-off-data-center-neutradc-nxera-batam-siap-dorong-ekosistem-ai",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:47:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:06"
     },
     {
       "judul": "Kriteria Manusia yang Menjadi Hamba Allah",
       "link_berita": "https://khazanah.republika.co.id/berita/t4zk82430/kriteria-manusia-yang-menjadi-hamba-allah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:42:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:06"
     },
     {
       "judul": "The Magical Borobudur: Saat Candi Menyapa Mentari Berpulang",
       "link_berita": "https://rejogja.republika.co.id/berita/t4zmuj451/the-magical-borobudur-saat-candi-menyapa-mentari-berpulang",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:42:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:06"
     },
     {
       "judul": "Israel Langgar Gencatan Senjata, Kantor PM Inggris Didemo: Ini Bukan Perdamaian Bagi Rakyat Gaza",
       "link_berita": "https://khazanah.republika.co.id/berita/t4zmsv483/israel-langgar-gencatan-senjata-kantor-pm-inggris-didemo-ini-bukan-perdamaian-bagi-rakyat-gaza",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:41:32"
+      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:06"
     },
     {
-      "judul": "Temukan Ganja, Polisi Ringkus Onad dan Istri di Ciputat",
-      "link_berita": "https://news.republika.co.id/berita/t4zmsc484/temukan-ganja-polisi-ringkus-onad-dan-istri-di-ciputat",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:40:32"
+      "judul": "Gen Z Approved! Light+ by Wardah: Halal dan Sesuai Kebutuhan",
+      "link_berita": "https://ameera.republika.co.id/berita/t4zrgc425/gen-z-approved-light-by-wardah-halal-dan-sesuai-kebutuhan",
+      "kategori": "Happening",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 17:21:00"
     },
     {
-      "judul": "Ulama Mesir Ungkap Surga Tempat Nabi Adam Pernah Tinggal",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zk2p430/ulama-mesir-ungkap-surga-tempat-nabi-adam-pernah-tinggal",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:38:32"
+      "judul": "Menko AHY Jajaki Kerja Sama Energi Terbarukan dengan Finlandia",
+      "link_berita": "https://esgnow.republika.co.id/berita/t4zrf6416/menko-ahy-jajaki-kerja-sama-energi-terbarukan-dengan-finlandia",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 17:21:00"
     },
     {
-      "judul": "Mau Jadi Mahasiswa Global? Ikuti 5 Strategi Ampuh ala Universitas Nusa Mandiri!",
-      "link_berita": "https://news.republika.co.id/berita/t4zlu3368/mau-jadi-mahasiswa-global-ikuti-5-strategi-ampuh-ala-universitas-nusa-mandiri",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:37:32"
+      "judul": "Danantara Buka Suara Soal WNA Jadi Direksi BUMN, Lebih Profesional?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t4zr8l502/danantara-buka-suara-soal-wna-jadi-direksi-bumn-lebih-profesional",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 17:17:00"
     },
     {
-      "judul": "Pramono Sebut Tanggul Kemang Village Roboh Pemicu Banjir Parah di Kemang",
-      "link_berita": "https://news.republika.co.id/berita/t4zmlv484/pramono-sebut-tanggul-kemang-village-roboh-pemicu-banjir-parah-di-kemang",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:37:32"
+      "judul": "Dari Regulasi ke Aksi: Kiprah OJK Mengawal Transformasi Keuangan Syariah",
+      "link_berita": "https://sharia.republika.co.id/berita/t4zqdq416/dari-regulasi-ke-aksi-kiprah-ojk-mengawal-transformasi-keuangan-syariah",
+      "kategori": "Keuangan Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 17:00:00"
     },
     {
-      "judul": "Lewat Buku Terbarunya, GKR Hemas Refleksikan Dua Dekade Perjuangan DPD RI dan Otonomi Daerah",
-      "link_berita": "https://rejogja.republika.co.id/berita/t4zmgq291/lewat-buku-terbarunya-gkr-hemas-refleksikan-dua-dekade-perjuangan-dpd-ri-dan-otonomi-daerah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:34:32"
-    },
-    {
-      "judul": "Pasukannya Bantai 2.000 Lebih Warga El-Fasher Sudan, Komandan RSF Minta Maaf: Kami Terpaksa",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zmdw320/pasukannya-bantai-2000-lebih-warga-elfasher-sudan-komandan-rsf-minta-maaf-kami-terpaksa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:32:32"
-    },
-    {
-      "judul": "Kolaborasi SMK Purnama dan Universitas Nusa Mandiri Cetak Guru Cerdas di Era AI",
-      "link_berita": "https://news.republika.co.id/berita/t4zkxa368/kolaborasi-smk-purnama-dan-universitas-nusa-mandiri-cetak-guru-cerdas-di-era-ai",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:31:32"
-    },
-    {
-      "judul": "Kuliah vs Konten, Dosen UBSI Bahas Tantangan Mahasiswa di Era Kreator Digital",
-      "link_berita": "https://news.republika.co.id/berita/t4zlai368/kuliah-vs-konten-dosen-ubsi-bahas-tantangan-mahasiswa-di-era-kreator-digital",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Ada Amunisi Baru Ganda Putra Pelatnas PBSI",
-      "link_berita": "https://skor.republika.co.id/posts/715097/ada-amunisi-baru-ganda-putra-pelatnas-pbsi",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Kuliah Gratis? Bisa! Beasiswa Jalur Undangan Cyber University Buka Peluang!",
-      "link_berita": "https://news.republika.co.id/berita/t4zlpu472/kuliah-gratis-bisa-beasiswa-jalur-undangan-cyber-university-buka-peluang",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Staf Universitas Widyatama Tewas Loncat dari Lantai 6 Gedung Kampus",
-      "link_berita": "https://rejabar.republika.co.id/berita/t4zlp4282/staf-universitas-widyatama-tewas-loncat-dari-lantai-6-gedung-kampus",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Komnas Haji Komentari Biaya Haji 2026 yang Turun Rp 2 Juta",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4ziyv430/komnas-haji-komentari-biaya-haji-2026-yang-turun-rp-2-juta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Rahasia Sukses Mahasiswa dari Timur Indonesia di Era Digital",
-      "link_berita": "https://news.republika.co.id/berita/t4zlb1472/rahasia-sukses-mahasiswa-dari-timur-indonesia-di-era-digital",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Ribuan Warga Sudan di Darfur Terancam Nyawanya",
-      "link_berita": "https://news.republika.co.id/berita/t4zl8d393/ribuan-warga-sudan-di-darfur-terancam-nyawanya",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Cegah Keracunan, Tim Sidokkes Polresta Banda Aceh Lakukan Rapid Test Menu MBG",
-      "link_berita": "https://visual.republika.co.id/berita/t4zitn375/cegah-keracunan-tim-sidokkes-polresta-banda-aceh-lakukan-rapid-test-menu-mbg",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Mahasiswa UBSI Magang ke Spanyol: Bukti Siap Bersaing di Kancah Global",
-      "link_berita": "https://news.republika.co.id/berita/t4zku9472/mahasiswa-ubsi-magang-ke-spanyol-bukti-siap-bersaing-di-kancah-global",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Geert Wilders Diprediksi Tersungkur dalam Pemilu, Rakyat Belanda tak Lagi Tertarik Islamofobia",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zkte483/geert-wilders-diprediksi-tersungkur-dalam-pemilu-rakyat-belanda-tak-lagi-tertarik-islamofobia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 08:24:32"
-    },
-    {
-      "judul": "Gedung Putih Incar Indonesia Normalisasi Hubungan dengan Israel",
-      "link_berita": "https://news.republika.co.id/berita/t4zkdt393/gedung-putih-incar-indonesia-normalisasi-hubungan-dengan-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Bantuan Beras dan Minyakita Mulai Disalurkan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t4zkae416/bantuan-beras-dan-minyakita-mulai-disalurkan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Khotbah Hijau: Prof Tholabi Ajak Umat Meneladani Rasulullah dalam Menjaga Alam",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zka1451/khotbah-hijau-prof-tholabi-ajak-umat-meneladani-rasulullah-dalam-menjaga-alam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Heboh WN China Menambang Emas Secara Ilegal di Sekotong, Ini Temuan Bareskrim di Lapangan",
-      "link_berita": "https://news.republika.co.id/berita/t4zk0v409/heboh-wn-china-menambang-emas-secara-ilegal-di-sekotong-ini-temuan-bareskrim-di-lapangan",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Al-Jam'u dan al-Farqu Dua Jenis Keadaan Orang yang Telah Sampai kepada Allah",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zjvi430/aljamu-dan-alfarqu-dua-jenis-keadaan-orang-yang-telah-sampai-kepada-allah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Kelas Ibu Hamil Rumah Zakat: Edukasi untuk Mewujudkan Kehamilan Sehat dan Aman",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zjn1472/kelas-ibu-hamil-rumah-zakat-edukasi-untuk-mewujudkan-kehamilan-sehat-dan-aman",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Stunting dan TBC Masih Menjadi Persoalan Serius, Gubernur Jateng Terus Gencarkan Program Speling",
-      "link_berita": "https://news.republika.co.id/berita/t4zjmu291/stunting-dan-tbc-masih-menjadi-persoalan-serius-gubernur-jateng-terus-gencarkan-program-speling",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Ultimatum Hamas, Israel akan Serang Target-Target Vital Beberapa Hari Kedepan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zjm9320/ultimatum-hamas-israel-akan-serang-targettarget-vital-beberapa-hari-kedepan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "7.500 Pelari di PLN Electric Run 2025, Dukung Energi Bersih untuk Masa Depan",
-      "link_berita": "https://skor.republika.co.id/posts/715070/7-500-pelari-di-pln-electric-run-2025-dukung-energi-bersih-untuk-masa-depan",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Rumus Alokasi Jamaah Haji Per Provinsi Menurut Kemenhaj",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zjb9483/rumus-alokasi-jamaah-haji-per-provinsi-menurut-kemenhaj",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Kemenhaj Terapkan Alokasi Kuota Haji 2026 Per Provinsi, Berikut Rinciannya",
-      "link_berita": "https://khazanah.republika.co.id/berita/t4zj8z430/kemenhaj-terapkan-alokasi-kuota-haji-2026-per-provinsi-berikut-rinciannya",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Penjelasan Kepala Kejari Soal Kasus yang Menyeret Wakil Wali Kota Bandung Erwin",
-      "link_berita": "https://news.republika.co.id/berita/t4zj7o409/penjelasan-kepala-kejari-soal-kasus-yang-menyeret-wakil-wali-kota-bandung-erwin",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "IBL Raih Youtube Most Viewed Sports Channel Awards 2025",
-      "link_berita": "https://skor.republika.co.id/posts/715069/ibl-raih-youtube-most-viewed-sports-channel-awards-2025",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "KKP Siapkan Pendamping Halal untuk UMKM Perikanan",
-      "link_berita": "https://sharia.republika.co.id/berita/t4zixp416/kkp-siapkan-pendamping-halal-untuk-umkm-perikanan",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 07:24:32"
-    },
-    {
-      "judul": "Ahli Gizi Ungkap Efektivitas dan Tantangan Program Makanan Bergizi Gratis",
-      "link_berita": "https://ameera.republika.co.id/berita/t4zoln370/ahli-gizi-ungkap-efektivitas-dan-tantangan-program-makanan-bergizi-gratis",
-      "kategori": "Health",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 16:20:00"
-    },
-    {
-      "judul": "Brasil Klaim Sukses Tekan Deforestasi di Amazon",
-      "link_berita": "https://esgnow.republika.co.id/berita/t4zorh416/brasil-klaim-sukses-tekan-deforestasi-di-amazon",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 16:23:00"
-    },
-    {
-      "judul": "Bisnis Masa Depan: Green Economy Ciptakan Green Job",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t4zok5484/bisnis-masa-depan-green-economy-ciptakan-green-job",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 16:19:00"
-    },
-    {
-      "judul": "KKP Siapkan Pendamping Halal untuk UMKM Perikanan",
-      "link_berita": "https://sharia.republika.co.id/berita/t4zixp416/kkp-siapkan-pendamping-halal-untuk-umkm-perikanan",
-      "kategori": "Industri Halal Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 14:17:00"
-    },
-    {
-      "judul": "Israel Terus Langgar Gencatan Senjata",
-      "link_berita": "https://news.republika.co.id/berita/t4zo3w393/israel-terus-langgar-gencatan-senjata",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Friday, 31 Oct 2025, 16:09:00"
+      "judul": "Anggota Exco PSSI Khairul Anwar Bantah Isu Persetujuan Exco Tentang Pelatih Timnas: Tidak Benar!",
+      "link_berita": "https://news.republika.co.id/berita/t4zqur348/anggota-exco-pssi-khairul-anwar-bantah-isu-persetujuan-exco-tentang-pelatih-timnas-tidak-benar",
+      "kategori": "Sport",
+      "tanggal_terbit": "Friday, 31 Oct 2025, 17:08:00"
     }
   ],
-  "waktu_scraping": "Friday, 31 Oct 2025, 16:24:32"
+  "waktu_scraping": "Friday, 31 Oct 2025, 17:24:06"
 }
