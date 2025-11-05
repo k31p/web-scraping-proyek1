@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Barcelona Tertahan, Inter Milan Tekuk Tim Debutan di Matchday 4 Liga Champions 2025-2026",
+      "link_berita": "https://news.republika.co.id/berita/t59yi537061063226001/barcelona-tertahan-inter-milan-tekuk-tim-debutan-di-matchday-4-liga-champions-20252026"
+    },
+    {
+      "judul": "BMKG Prakirakan Hujan Ringan di Jakarta pada Kamis Siang",
+      "link_berita": "https://news.republika.co.id/berita/t59kmh5930000/bmkg-prakirakan-hujan-ringan-di-jakarta-pada-kamis-siang"
+    },
+    {
       "judul": "Kemenhaj Siapkan Sistem Terintegrasi dengan Nusuk untuk Lindungi Jamaah Umrah Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/t59ckv366/kemenhaj-siapkan-sistem-terintegrasi-dengan-nusuk-untuk-lindungi-jamaah-umrah-indonesia"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "KPK Sebut Bawahan Berhutang Sampai Gadai Barang Demi 'Japrem' Gubernur Riau",
       "link_berita": "https://news.republika.co.id/berita/t59d30393/kpk-sebut-bawahan-berhutang-sampai-gadai-barang-demi-japrem-gubernur-riau"
-    },
-    {
-      "judul": "Viral Guru Tampar Siswa di Subang, Ini Kata Dedi Mulyadi",
-      "link_berita": "https://rejabar.republika.co.id/berita/t59anr512/viral-guru-tampar-siswa-di-subang-ini-kata-dedi-mulyadi"
-    },
-    {
-      "judul": "Lima Pelaku Pengeroyokan di Sibolga Ditangkap, Bukan Pengurus Masjid",
-      "link_berita": "https://news.republika.co.id/berita/t599fx393/lima-pelaku-pengeroyokan-di-sibolga-ditangkap-bukan-pengurus-masjid"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "KPK Tetapkan Gubernur Riau sebagai Tersangka Kasus Pemerasan",
+      "link_berita": "https://news.republika.co.id/berita/t59xtr8130000/kpk-tetapkan-gubernur-riau-sebagai-tersangka-kasus-pemerasan"
+    },
+    {
+      "judul": "KPK Duga Gubernur Riau Sembunyi di Kafe Saat OTT",
+      "link_berita": "https://news.republika.co.id/berita/t59m0i3330000/kpk-duga-gubernur-riau-sembunyi-di-kafe-saat-ott"
+    },
     {
       "judul": "Polda Jateng Tetapkan 6 Tersangka Sepanjang Demo Pemakzulan Bupati Pati",
       "link_berita": "https://rejogja.republika.co.id/berita/t59j5u282/polda-jateng-tetapkan-6-tersangka-sepanjang-demo-pemakzulan-bupati-pati"
@@ -73,52 +81,98 @@
     {
       "judul": "Pertumbuhan Ekonomi 5,04 Persen, Ekonom Soroti Perlambatan Daya Beli",
       "link_berita": "https://ekonomi.republika.co.id/berita/t58smo423/pertumbuhan-ekonomi-504-persen-ekonom-soroti-perlambatan-daya-beli"
-    },
-    {
-      "judul": "Dokter Bongkar Aritmia 'Pembunuh Sunyi' Penyebab Kematian Mendadak Usia Muda",
-      "link_berita": "https://ameera.republika.co.id/berita/t58s7v425/dokter-bongkar-aritmia-pembunuh-sunyi-penyebab-kematian-mendadak-usia-muda"
-    },
-    {
-      "judul": "Kemenperin Panggil Multistrada, Bahas Alasan PHK Massal di Pabrik Michelin Cikarang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t58qb0423/kemenperin-panggil-multistrada-bahas-alasan-phk-massal-di-pabrik-michelin-cikarang"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "PT KAI Ubah Jadwal Perjalanan Kereta per 1 Desember 2025",
+      "link_berita": "https://news.republika.co.id/berita/t5a0eh484/pt-kai-ubah-jadwal-perjalanan-kereta-per-1-desember-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 23:11:02"
+    },
+    {
+      "judul": "Kemenhaj RI Siapkan Integrasi Sistem untuk Kebijakan Umrah Mandiri",
+      "link_berita": "https://khazanah.republika.co.id/berita/t59zh4430/kemenhaj-ri-siapkan-integrasi-sistem-untuk-kebijakan-umrah-mandiri",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:51:02"
+    },
+    {
+      "judul": "KPK Sita 9.000 Pound Sterling dan 3.000 Dolar AS dari Gubernur Riau",
+      "link_berita": "https://news.republika.co.id/berita/t59zbn3030000/kpk-sita-9000-pound-sterling-dan-3000-dolar-as-dari-gubernur-riau",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:48:02"
+    },
+    {
+      "judul": "Sisa Anggaran BTT Garut 2025 Tersisa Rp7,5 Miliar Jelang Akhir Tahun",
+      "link_berita": "https://news.republika.co.id/berita/t59z9z9030000/sisa-anggaran-btt-garut-2025-tersisa-rp75-miliar-jelang-akhir-tahun",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:47:02"
+    },
+    {
+      "judul": "Berikan Mahasiswa Akses Pendidikan Global, LSPR Institute Jalin Kerja Sama dengan Kampus Inggris",
+      "link_berita": "https://news.republika.co.id/berita/t59z5m291/berikan-mahasiswa-akses-pendidikan-global-lspr-institute-jalin-kerja-sama-dengan-kampus-inggris",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:44:02"
+    },
+    {
+      "judul": "Bersenggama di Depan Umum, Pasangan Israel Picu Kemarahan Warga Thailand, Polisi Bertindak",
+      "link_berita": "https://khazanah.republika.co.id/berita/t59yvl483/bersenggama-di-depan-umum-pasangan-israel-picu-kemarahan-warga-thailand-polisi-bertindak",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:38:02"
+    },
+    {
+      "judul": "Arema Jamu Persija dan Borneo Tantang Semen Padang di Super League",
+      "link_berita": "https://news.republika.co.id/berita/t59yic3430000/arema-jamu-persija-dan-borneo-tantang-semen-padang-di-super-league",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:30:02"
+    },
+    {
+      "judul": "Barcelona Tertahan, Inter Milan Tekuk Tim Debutan di Matchday 4 Liga Champions 2025-2026",
+      "link_berita": "https://news.republika.co.id/berita/t59yi537061063226001/barcelona-tertahan-inter-milan-tekuk-tim-debutan-di-matchday-4-liga-champions-20252026",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:30:02"
+    },
+    {
+      "judul": "Perkuat Kerukunan di Bulan Toleransi, Kemenag Gelar 18 Agenda dalam Rangkaian The Wonder of Harmony",
+      "link_berita": "https://khazanah.republika.co.id/berita/t59y97483/perkuat-kerukunan-di-bulan-toleransi-kemenag-gelar-18-agenda-dalam-rangkaian-the-wonder-of-harmony",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:25:02"
+    },
+    {
       "judul": "KPK Tetapkan Gubernur Riau sebagai Tersangka Kasus Pemerasan",
       "link_berita": "https://news.republika.co.id/berita/t59xtr8130000/kpk-tetapkan-gubernur-riau-sebagai-tersangka-kasus-pemerasan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:15:02"
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:21:02"
     },
     {
       "judul": "Jadi Provinsi Terbaik, Kuota Haji NTB Bertambah Seribu Orang",
       "link_berita": "https://khazanah.republika.co.id/berita/t59xrv483/jadi-provinsi-terbaik-kuota-haji-ntb-bertambah-seribu-orang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:14:02"
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:21:02"
     },
     {
       "judul": "KPK Ungkap Gubernur Riau Gunakan Uang Pemerasan untuk Bepergian ke Luar Negeri",
       "link_berita": "https://news.republika.co.id/berita/t59x4o5630000/kpk-ungkap-gubernur-riau-gunakan-uang-pemerasan-untuk-bepergian-ke-luar-negeri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:00:02"
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:21:02"
     },
     {
       "judul": "Antusiasme Warga Saksikan Fenomena Supermoon di Langit Jakarta",
       "link_berita": "https://visual.republika.co.id/berita/t59f3x375/antusiasme-warga-saksikan-fenomena-supermoon-di-langit-jakarta",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:00:02"
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 22:21:02"
     },
     {
       "judul": "Borneo FC Masih Tak Terkalahkan di Puncak Klasemen Super League",
       "link_berita": "https://news.republika.co.id/berita/t59wfb8230000/borneo-fc-masih-tak-terkalahkan-di-puncak-klasemen-super-league",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 21:45:02"
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 21:21:02"
     },
     {
       "judul": "Disdikpora Cianjur Pastikan Ruang Kelas Aman di Tengah Cuaca Ekstrem",
       "link_berita": "https://news.republika.co.id/berita/t59vro030000/disdikpora-cianjur-pastikan-ruang-kelas-aman-di-tengah-cuaca-ekstrem",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 21:31:02"
+      "tanggal_terbit": "Wednesday, 05 Nov 2025, 21:21:02"
     },
     {
       "judul": "Polisi Selidiki Temuan Motor Misterius di Jembatan Cisokan",
@@ -331,60 +385,6 @@
       "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
     },
     {
-      "judul": "Kemenhaj Siapkan Sistem Terintegrasi dengan Nusuk untuk Lindungi Jamaah Umrah Indonesia",
-      "link_berita": "https://khazanah.republika.co.id/berita/t59ckv366/kemenhaj-siapkan-sistem-terintegrasi-dengan-nusuk-untuk-lindungi-jamaah-umrah-indonesia",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Ronaldo Isyaratkan Pensiun dalam Waktu Dekat: Saya akan Punya Lebih Banyak Waktu untuk Keluarga",
-      "link_berita": "https://news.republika.co.id/berita/t59ess348/ronaldo-isyaratkan-pensiun-dalam-waktu-dekat-saya-akan-punya-lebih-banyak-waktu-untuk-keluarga",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Apa Itu Kebahagiaan Sejati?",
-      "link_berita": "https://khazanah.republika.co.id/berita/t59e4e430/apa-itu-kebahagiaan-sejati",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Orang Kafir Bertaubat, Apakah Diterima?",
-      "link_berita": "https://khazanah.republika.co.id/berita/t59dzo430/orang-kafir-bertaubat-apakah-diterima",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Berkah bagi Hamba yang Rutin Berdoa",
-      "link_berita": "https://khazanah.republika.co.id/berita/t59dtm430/berkah-bagi-hamba-yang-rutin-berdoa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Klinik Holistik BPKAD Banten Dukung SMKN 3 Tangerang dalam Penyusunan RBA BLUD",
-      "link_berita": "https://news.republika.co.id/berita/t59dqq368/klinik-holistik-bpkad-banten-dukung-smkn-3-tangerang-dalam-penyusunan-rba-blud",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Wapres Gibran Tinjau Pelaksanaan MBG dan Cek Harga Pangan di Manokwari",
-      "link_berita": "https://visual.republika.co.id/berita/t59bss375/wapres-gibran-tinjau-pelaksanaan-mbg-dan-cek-harga-pangan-di-manokwari",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Ketua DPD: Semua Mantan Presiden RI yang Telah Wafat Layak Diberi Gelar Pahlawan",
-      "link_berita": "https://news.republika.co.id/berita/t59dhc368/ketua-dpd-semua-mantan-presiden-ri-yang-telah-wafat-layak-diberi-gelar-pahlawan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
-      "judul": "Polisi Siaga Ditengah Ancaman Bencana di Cimahi dan Bandung Barat",
-      "link_berita": "https://rejabar.republika.co.id/berita/t59ddm512/polisi-siaga-ditengah-ancaman-bencana-di-cimahi-dan-bandung-barat",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Nov 2025, 15:21:02"
-    },
-    {
       "judul": "Ariel Noah Jadi Dilan! Dipilih Langsung Sama Pidi Baiq untuk Film Terbaru",
       "link_berita": "https://ameera.republika.co.id/berita/t59gid425/ariel-noah-jadi-dilan-dipilih-langsung-sama-pidi-baiq-untuk-film-terbaru",
       "kategori": "Happening",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 05 Nov 2025, 20:35:00"
     },
     {
-      "judul": "KPK Tetapkan Gubernur Riau sebagai Tersangka Kasus Pemerasan",
-      "link_berita": "https://news.republika.co.id/berita/t59xtr8130000/kpk-tetapkan-gubernur-riau-sebagai-tersangka-kasus-pemerasan",
-      "kategori": "Nasional",
-      "tanggal_terbit": "Thursday, 06 Nov 2025, 05:15:00"
+      "judul": "PT KAI Ubah Jadwal Perjalanan Kereta per 1 Desember 2025",
+      "link_berita": "https://news.republika.co.id/berita/t5a0eh484/pt-kai-ubah-jadwal-perjalanan-kereta-per-1-desember-2025",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 06 Nov 2025, 06:11:00"
     }
   ],
-  "waktu_scraping": "Thursday, 06 Nov 2025, 05:21:02"
+  "waktu_scraping": "Thursday, 06 Nov 2025, 06:21:02"
 }
