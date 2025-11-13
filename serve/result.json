@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Viral Gus Elham Cium Anak-Anak, Menteri PPPA Singgung Bahaya Child Grooming",
+      "link_berita": "https://news.republika.co.id/berita/t5n8qs487/viral-gus-elham-cium-anakanak-menteri-pppa-singgung-bahaya-child-grooming"
+    },
+    {
       "judul": "BRIN Siap Uji Validitas Ilmiah Bahan Bakar Alternatif Bobibos",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5n5bg370/brin-siap-uji-validitas-ilmiah-bahan-bakar-alternatif-bobibos"
     },
@@ -13,15 +17,15 @@
       "link_berita": "https://khazanah.republika.co.id/berita/t5myn2458/hidup-sejalan-dengan-alquran"
     },
     {
-      "judul": "Pesan Khusus Presiden Iran untuk Arab Saudi soal Haji",
+      "judul": "Pesan Khusus Presiden Iran untuk Arab Saudi Soal Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/t5mvjb430/pesan-khusus-presiden-iran-untuk-arab-saudi-soal-haji"
-    },
-    {
-      "judul": "Menangis Hingga tak Sadarkan Diri usai Menyimak Pembacaan Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mkxd458/menangis-hingga-tak-sadarkan-diri-usai-menyimak-pembacaan-alquran"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Cina Kurangi PR, Batasi Waktu Layar, dan Tambah Waktu Main demi Kesehatan Mental Siswa",
+      "link_berita": "https://ameera.republika.co.id/berita/t5n7xp328/cina-kurangi-pr-batasi-waktu-layar-dan-tambah-waktu-main-demi-kesehatan-mental-siswa"
+    },
     {
       "judul": "Penyeberangan Zikim Menuju Gaza Dibuka",
       "link_berita": "https://news.republika.co.id/berita/t5n5uo393/penyeberangan-zikim-menuju-gaza-dibuka"
@@ -29,6 +33,10 @@
     {
       "judul": "Haji 2026, Indonesia Dapat Kuota 221 Ribu Jamaah",
       "link_berita": "https://tv.republika.co.id/berita/t5n313313/haji-2026-indonesia-dapat-kuota-221-ribu-jamaah"
+    },
+    {
+      "judul": "Dibantu Dasco, Prabowo Pulihkan Nama Baik Dua Guru di Luwu Utara",
+      "link_berita": "https://news.republika.co.id/berita/t5my35484/dibantu-dasco-prabowo-pulihkan-nama-baik-dua-guru-di-luwu-utara"
     },
     {
       "judul": "Kronologi Lengkap Pembunuhan Istri Pegawai Pajak, Semua Berawal dari Judol",
@@ -73,322 +81,314 @@
     {
       "judul": "Jika B50 Lolos Uji, Pemerintah Siap Setop Impor Solar",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5lnp3416/jika-b50-lolos-uji-pemerintah-siap-setop-impor-solar"
-    },
-    {
-      "judul": "Dedi Mulyadi Siap Kerja Sama Produksi Massal Bobibos, Bahan Bakar Alternatif dari Jerami",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5lncc370/dedi-mulyadi-siap-kerja-sama-produksi-massal-bobibos-bahan-bakar-alternatif-dari-jerami"
-    },
-    {
-      "judul": "Empat Wakil Pelatnas PBSI Cipayung Batal Tampil di Australian Open 2025",
-      "link_berita": "https://news.republika.co.id/berita/t5ll1f348/empat-wakil-pelatnas-pbsi-cipayung-batal-tampil-di-australian-open-2025"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Tiga Karyawan Transjakarta Korban Dugaan Pelecehan Masih Trauma Lihat Atasannya",
+      "link_berita": "https://news.republika.co.id/berita/t5nae7487/tiga-karyawan-transjakarta-korban-dugaan-pelecehan-masih-trauma-lihat-atasannya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:16:05"
+    },
+    {
+      "judul": "Euro 2028 akan Dimulai di Cardiff, Final Digelar di Wembley",
+      "link_berita": "https://news.republika.co.id/berita/t5na9y348/euro-2028-akan-dimulai-di-cardiff-final-digelar-di-wembley",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:13:05"
+    },
+    {
+      "judul": "Bea Cukai Gencarkan Operasi Pasar dan Gempur Rokok Ilegal di Bojonegoro dan Mojokerto",
+      "link_berita": "https://republika.co.id/berita//t5na95368/bea-cukai-gencarkan-operasi-pasar-dan-gempur-rokok-ilegal-di-bojonegoro-dan-mojokerto",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:13:05"
+    },
+    {
+      "judul": "Harga Emas Antam Naik Rp29.000, Nyaris Rp2,4 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5n9yh370/harga-emas-antam-naik-rp29000-nyaris-rp24-juta-per-gram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:06:05"
+    },
+    {
+      "judul": "Calon Jamaah Haji Mataram Jalani Pemeriksaan Kesehatan di 11 Puskesmas",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5n9xk366/calon-jamaah-haji-mataram-jalani-pemeriksaan-kesehatan-di-11-puskesmas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:06:05"
+    },
+    {
+      "judul": "Hukuman Dipecat dan Penjara Dibatalkan Prabowo, Dua Guru SMAN 1 Luwu Utara Berkaca-kaca",
+      "link_berita": "https://news.republika.co.id/berita/t5n9vc484/hukuman-dipecat-dan-penjara-dibatalkan-prabowo-dua-guru-sman-1-luwu-utara-berkacakaca",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:04:05"
+    },
+    {
+      "judul": "Tenis Target Pertahankan Juara Umum di SEA Games 2025, Berharap Kejutan di Ganda utra",
+      "link_berita": "https://news.republika.co.id/berita/t5n9u6348/tenis-target-pertahankan-juara-umum-di-sea-games-2025-berharap-kejutan-di-ganda-utra",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 03:04:05"
+    },
+    {
+      "judul": "Kisah Katseye: Mimpi Masa Kecil, Sorotan Lampu Grammy, Hingga Ancaman Kematian Online",
+      "link_berita": "https://ameera.republika.co.id/berita/t5n9gz425/kisah-katseye-mimpi-masa-kecil-sorotan-lampu-grammy-hingga-ancaman-kematian-online",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:56:05"
+    },
+    {
+      "judul": "Janice Tjen Masuk Nominasi Best WTA 250 Moment",
+      "link_berita": "https://skor.republika.co.id/posts/718372/janice-tjen-masuk-nominasi-best-wta-250-moment",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:40:05"
+    },
+    {
+      "judul": "Viral Gus Elham Cium Anak-Anak, Menteri PPPA Singgung Bahaya Child Grooming",
+      "link_berita": "https://news.republika.co.id/berita/t5n8qs487/viral-gus-elham-cium-anakanak-menteri-pppa-singgung-bahaya-child-grooming",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:40:05"
+    },
+    {
+      "judul": "Cina Kurangi PR, Batasi Waktu Layar, dan Tambah Waktu Main demi Kesehatan Mental Siswa",
+      "link_berita": "https://ameera.republika.co.id/berita/t5n7xp328/cina-kurangi-pr-batasi-waktu-layar-dan-tambah-waktu-main-demi-kesehatan-mental-siswa",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:23:05"
+    },
+    {
+      "judul": "Pembatalan Pembangunan Masjid Jami Al Quddus di Margonda Depok Dipertanyakan, Ada Apa?",
+      "link_berita": "https://news.republika.co.id/berita/t5n7lr377/pembatalan-pembangunan-masjid-jami-al-quddus-di-margonda-depok-dipertanyakan-ada-apa",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:17:05"
+    },
+    {
+      "judul": "James Van Der Beek Lelang Memoribilia Dawson\u2019s Creek untuk Biaya Pengobatan Kanker",
+      "link_berita": "https://ameera.republika.co.id/berita/t5n6gt328/james-van-der-beek-lelang-memoribilia-dawsons-creek-untuk-biaya-pengobatan-kanker",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:17:05"
+    },
+    {
+      "judul": "BRIN Dukung Inovasi Bobibos untuk Wujudkan Kemandirian Energi Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5n6s6370/brin-dukung-inovasi-bobibos-untuk-wujudkan-kemandirian-energi-nasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:17:05"
+    },
+    {
+      "judul": "Jadwal Kualifikasi Piala Dunia 2026 Zona Eropa: Portugal dan Spanyol di Ambang Lolos Langsung",
+      "link_berita": "https://news.republika.co.id/berita/t5n6s2348/jadwal-kualifikasi-piala-dunia-2026-zona-eropa-portugal-dan-spanyol-di-ambang-lolos-langsung",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:17:05"
+    },
+    {
       "judul": "Pascaledakan SMAN 72, Kemenag Perkuat Pendidikan Moderasi Beragama di Sekolah",
       "link_berita": "https://khazanah.republika.co.id/berita/t5n6dp366/pascaledakan-sman-72-kemenag-perkuat-pendidikan-moderasi-beragama-di-sekolah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:48:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 02:17:05"
     },
     {
       "judul": "Teaser Pertama \u201cThe Devil Wears Prada 2\u201d Dirilis",
       "link_berita": "https://ameera.republika.co.id/berita/t5n62q328/teaser-pertama-the-devil-wears-prada-2-dirilis",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:41:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Penyeberangan Zikim Menuju Gaza Dibuka",
       "link_berita": "https://news.republika.co.id/berita/t5n5uo393/penyeberangan-zikim-menuju-gaza-dibuka",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:37:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Ekonomi Jatim Triwulan III 2025 Tumbuh Tertinggi se-Jawa, Khofifah: Bukti Soliditas Semua Pihak",
       "link_berita": "https://news.republika.co.id/berita/t5n38r291/ekonomi-jatim-triwulan-iii-2025-tumbuh-tertinggi-sejawa-khofifah-bukti-soliditas-semua-pihak",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:29:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Reza Rahadian Komentari Persaingan Film Pangku dan Keadilan di Bioskop",
       "link_berita": "https://ameera.republika.co.id/berita/t5n5h5328/reza-rahadian-komentari-persaingan-film-pangku-dan-keadilan-di-bioskop",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:29:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Tiga Karyawan Transjakarta Korban Dugaan Pelecehan Seksual Bakal Lapor Polisi",
       "link_berita": "https://news.republika.co.id/berita/t5n5d1487/tiga-karyawan-transjakarta-korban-dugaan-pelecehan-seksual-bakal-lapor-polisi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:26:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "BRIN Siap Uji Validitas Ilmiah Bahan Bakar Alternatif Bobibos",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5n5bg370/brin-siap-uji-validitas-ilmiah-bahan-bakar-alternatif-bobibos",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:25:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Bocoran: Trump Sempat Berjam-jam \u2018Ditemani\u2019 Korban Perdangan Seks Epstein",
       "link_berita": "https://news.republika.co.id/berita/t5n59v393/bocoran-trump-sempat-berjamjam-ditemani-korban-perdangan-seks-epstein",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:24:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Gibran: Sekolah Harus Bebas Bullying",
       "link_berita": "https://tv.republika.co.id/berita/t5n4g3313/gibran-sekolah-harus-bebas-bullying",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:06:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "HUT ke-52 ITDC, Gaungkan Semangat \u2018Innovation for the Nation\u2019, Tebar Kepedulian di 3 Kawasan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5n4aa368/hut-ke52-itdc-gaungkan-semangat-innovation-for-the-nation-tebar-kepedulian-di-3-kawasan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:03:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Pelaku Peledakan SMAN 72 Jakarta Masih Berusia Anak, KPAI Dorong Polisi Lakukan Keadilan Restoratif",
       "link_berita": "https://news.republika.co.id/berita/t5n3qd487/pelaku-peledakan-sman-72-jakarta-masih-berusia-anak-kpai-dorong-polisi-lakukan-keadilan-restoratif",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:51:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Trah Sultan HB II Ungkap Peristiwa Penyerangan Inggris ke Keraton 1812 sebagai Kejahatan Kemanusiaan",
       "link_berita": "https://rejogja.republika.co.id/berita/t5n3p3291/trah-sultan-hb-ii-ungkap-peristiwa-penyerangan-inggris-ke-keraton-1812-sebagai-kejahatan-kemanusiaan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 01:17:05"
     },
     {
       "judul": "Inilah Tips Naik Motor Jarak Jauh Agar Tetap Nyaman dan Aman",
       "link_berita": "https://motoresto.id/posts/718224/inilah-tips-naik-motor-jarak-jauh-agar-tetap-nyaman-dan-aman",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Kunjungi UGM, Dubes Mongolia Serahkan Dua Proposal Kerja Sama",
       "link_berita": "https://magentatoday.id/posts/718170/kunjungi-ugm-dubes-mongolia-serahkan-dua-proposal-kerja-sama",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Penjualan Kendaraan Listrik Global Tumbuh 23 Persen di Oktober",
       "link_berita": "https://mobillistriknews.com/posts/718305/penjualan-kendaraan-listrik-global-tumbuh-23-persen-di-oktober",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Toyota Bangun Pabrik Baterai di AS, Segini Investasinya",
       "link_berita": "https://mobillistriknews.com/posts/718315/toyota-bangun-pabrik-baterai-di-as-segini-investasinya",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Mengenal Bobibos, Bahan Bakar Inovatif Buatan Anak Bangsa dari Limbah Jerami",
       "link_berita": "https://magentatoday.id/posts/718138/mengenal-bobibos-bahan-bakar-inovatif-buatan-anak-bangsa-dari-limbah-jerami",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Pengusaha Lokal Khawatir Banjir Produk Impor dan Dibukanya Keran Investasi",
       "link_berita": "https://sekitarkaltim.id/posts/718280/pengusaha-lokal-khawatir-banjir-produk-impor-dan-dibukanya-keran-investasi",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Pegadaian Kelola 129 Ton Emas, Dorong Ekosistem Bullion Nasional Lebih Inklusif",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5n329370/pegadaian-kelola-129-ton-emas-dorong-ekosistem-bullion-nasional-lebih-inklusif",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Haji 2026, Indonesia Dapat Kuota 221 Ribu Jamaah",
       "link_berita": "https://tv.republika.co.id/berita/t5n313313/haji-2026-indonesia-dapat-kuota-221-ribu-jamaah",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Liam Gallagher Setop Minum Alkohol demi Tampil Prima di Konser Oasis",
       "link_berita": "https://ameera.republika.co.id/berita/t5n0u2425/liam-gallagher-setop-minum-alkohol-demi-tampil-prima-di-konser-oasis",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "Lenis Kogoya: Papua Bangkit, Bersatu, dan Membangun dari Dalam",
       "link_berita": "https://news.republika.co.id/berita/t5n0si484/lenis-kogoya-papua-bangkit-bersatu-dan-membangun-dari-dalam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:50:59"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 00:17:05"
     },
     {
       "judul": "BPKH Hormati Proses Hukum KPK, Tegaskan Komitmen Pengelolaan Dana Haji yang Aman",
       "link_berita": "https://khazanah.republika.co.id/berita/t5mznu368/bpkh-hormati-proses-hukum-kpk-tegaskan-komitmen-pengelolaan-dana-haji-yang-aman",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Game Corner: Deretan Hero yang Efektif untuk Counter Obsidia",
       "link_berita": "https://skor.republika.co.id/posts/718337/game-corner-deretan-hero-yang-efektif-untuk-counter-obsidia",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Hidup Sejalan dengan Alquran",
       "link_berita": "https://khazanah.republika.co.id/berita/t5myn2458/hidup-sejalan-dengan-alquran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Semangat Corporation Gelar Program TJSL, UMKM Lokal Jadi Mitra Pemberdayaan Ekonomi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5mzc7370/semangat-corporation-gelar-program-tjsl-umkm-lokal-jadi-mitra-pemberdayaan-ekonomi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Jangan Khawatirkan Rezeki",
       "link_berita": "https://khazanah.republika.co.id/berita/t5myym458/jangan-khawatirkan-rezeki",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Trump Kirim Surat Minta Presiden Israel Ampuni Netanyahu Terkait Kasus Korupsi yang Menjeratnya",
       "link_berita": "https://news.republika.co.id/berita/t5mz1o377/trump-kirim-surat-minta-presiden-israel-ampuni-netanyahu-terkait-kasus-korupsi-yang-menjeratnya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Implikasi Iman Dalam Kehidupan",
       "link_berita": "https://khazanah.republika.co.id/berita/t5my77458/implikasi-iman-dalam-kehidupan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "Dibantu Dasco, Prabowo Pulihkan Nama Baik Dua Guru di Luwu Utara",
       "link_berita": "https://news.republika.co.id/berita/t5my35484/dibantu-dasco-prabowo-pulihkan-nama-baik-dua-guru-di-luwu-utara",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 23:17:05"
     },
     {
       "judul": "The Fed Diperkirakan Pangkas Suku Bunga Lagi pada Desember",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5mxx0502/the-fed-diperkirakan-pangkas-suku-bunga-lagi-pada-desember",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:17:05"
     },
     {
       "judul": "Mengapa Rasulullah Berdoa 3 Hal Ini pada Pagi Hari?",
       "link_berita": "https://iqra.republika.co.id/berita/t5mxqx458/mengapa-rasulullah-berdoa-3-hal-ini-pada-pagi-hari",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:17:05"
     },
     {
       "judul": "Pembunuhan Satu Keluarga di Indramayu, Sepupu: Nyawa Dibayar Nyawa",
       "link_berita": "https://news.republika.co.id/berita/t5mxp9377/pembunuhan-satu-keluarga-di-indramayu-sepupu-nyawa-dibayar-nyawa",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:17:05"
     },
     {
       "judul": "Kronologi Lengkap Pembunuhan Istri Pegawai Pajak, Semua Berawal dari Judol",
       "link_berita": "https://news.republika.co.id/berita/t5mwsz377/kronologi-lengkap-pembunuhan-istri-pegawai-pajak-semua-berawal-dari-judol",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:17:05"
     },
     {
-      "judul": "Pesan Khusus Presiden Iran untuk Arab Saudi soal Haji",
+      "judul": "Pesan Khusus Presiden Iran untuk Arab Saudi Soal Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/t5mvjb430/pesan-khusus-presiden-iran-untuk-arab-saudi-soal-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 21:50:59"
+      "tanggal_terbit": "Wednesday, 12 Nov 2025, 22:17:05"
     },
     {
-      "judul": "Punya Catatan Impresif, Portugal Lebih Diunggulkan Saat Hadapi Irlandia",
-      "link_berita": "https://skor.republika.co.id/posts/718335/punya-catatan-impresif-portugal-lebih-diunggulkan-saat-hadapi-irlandia",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 21:50:59"
-    },
-    {
-      "judul": "Kasus Penyakit Kronis Naik 11 Persen, Prudential Syariah Tekankan Pentingnya Perlindungan Sejak Dini",
-      "link_berita": "https://sharia.republika.co.id/berita/t5lwzy370/kasus-penyakit-kronis-naik-11-persen-prudential-syariah-tekankan-pentingnya-perlindungan-sejak-dini",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 21:50:59"
-    },
-    {
-      "judul": "Inilah Jadwal Sholat Hari Ini di Palembang, 13 November 2025",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5ms34769640387/inilah-jadwal-sholat-hari-ini-di-palembang-13-november-2025",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 20:50:59"
-    },
-    {
-      "judul": "Menyambut Berkah: Jadwal Sholat Hari Ini 13 November 2025 di Yogyakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mqox531341400/menyambut-berkah-jadwal-sholat-hari-ini-13-november-2025-di-yogyakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 19:50:59"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini untuk Lokasi Jakarta, 13 November 2025: Informasi dan Hikmah",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mp5z673131846/jadwal-sholat-hari-ini-untuk-lokasi-jakarta-13-november-2025-informasi-dan-hikmah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 19:50:59"
-    },
-    {
-      "judul": "Khusyu' dalam Ibadah: Jadwal Sholat Hari Ini 13 November 2025 di Medan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mnqe128623209/khusyu-dalam-ibadah-jadwal-sholat-hari-ini-13-november-2025-di-medan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "Menangis Hingga tak Sadarkan Diri usai Menyimak Pembacaan Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mkxd458/menangis-hingga-tak-sadarkan-diri-usai-menyimak-pembacaan-alquran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "Jadwal Sholat Hari Ini Tanggal 13 November 2025 di Depok",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mmrb158490794/jadwal-sholat-hari-ini-tanggal-13-november-2025-di-depok",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "PWI dan Penasihat Khusus Presiden Bahas Penguatan Bela Negara",
-      "link_berita": "https://news.republika.co.id/berita/t5mm9p2930000/pwi-dan-penasihat-khusus-presiden-bahas-penguatan-bela-negara",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "Mimika Hibahkan Sarpras Kesehatan Senilai Rp15 Miliar ke RSMM Timika",
-      "link_berita": "https://news.republika.co.id/berita/t5mm8o8930000/mimika-hibahkan-sarpras-kesehatan-senilai-rp15-miliar-ke-rsmm-timika",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "Banjarmasin permudah layanan administrasi isbat nikah",
-      "link_berita": "https://news.republika.co.id/berita/t5mm838330000/banjarmasin-permudah-layanan-administrasi-isbat-nikah",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "Ini 3 Golongan Penghuni Surga",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5mkm7458/ini-3-golongan-penghuni-surga",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 18:50:59"
-    },
-    {
-      "judul": "Wihaji Dorong Kampung KB Tingkatkan Kualitas Hidup Masyarakat",
-      "link_berita": "https://news.republika.co.id/berita/t5mllw9930000/wihaji-dorong-kampung-kb-tingkatkan-kualitas-hidup-masyarakat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 17:50:59"
-    },
-    {
-      "judul": "Pemkab Natuna Siapkan 13,89 Ton Beras untuk Warga Kurang Mampu",
-      "link_berita": "https://news.republika.co.id/berita/t5mllc5330000/pemkab-natuna-siapkan-1389-ton-beras-untuk-warga-kurang-mampu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 17:50:59"
-    },
-    {
-      "judul": "Polrestabes Surabaya Luncurkan Patroli 'Houfbereau Bersinar' untuk Keamanan Kota",
-      "link_berita": "https://news.republika.co.id/berita/t5mlki6530000/polrestabes-surabaya-luncurkan-patroli-houfbereau-bersinar-untuk-keamanan-kota",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 12 Nov 2025, 17:50:59"
-    },
-    {
-      "judul": "Teaser Pertama \u201cThe Devil Wears Prada 2\u201d Dirilis",
-      "link_berita": "https://ameera.republika.co.id/berita/t5n62q328/teaser-pertama-the-devil-wears-prada-2-dirilis",
+      "judul": "Kisah Katseye: Mimpi Masa Kecil, Sorotan Lampu Grammy, Hingga Ancaman Kematian Online",
+      "link_berita": "https://ameera.republika.co.id/berita/t5n9gz425/kisah-katseye-mimpi-masa-kecil-sorotan-lampu-grammy-hingga-ancaman-kematian-online",
       "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 08:42:00"
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 09:55:00"
     },
     {
       "judul": "PLTM Sion Ubah Deru Sungai Simongo Jadi Cahaya 15 Ribu Rumah",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 12 Nov 2025, 21:42:00"
     },
     {
-      "judul": "BRIN Siap Uji Validitas Ilmiah Bahan Bakar Alternatif Bobibos",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5n5bg370/brin-siap-uji-validitas-ilmiah-bahan-bakar-alternatif-bobibos",
-      "kategori": "Energi",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 08:26:00"
+      "judul": "Harga Emas Antam Naik Rp29.000, Nyaris Rp2,4 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5n9yh370/harga-emas-antam-naik-rp29000-nyaris-rp24-juta-per-gram",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 10:06:00"
     },
     {
       "judul": "Kasus Penyakit Kronis Naik 11 Persen, Prudential Syariah Tekankan Pentingnya Perlindungan Sejak Dini",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 13 Nov 2025, 04:22:00"
     },
     {
-      "judul": "Penyeberangan Zikim Menuju Gaza Dibuka",
-      "link_berita": "https://news.republika.co.id/berita/t5n5uo393/penyeberangan-zikim-menuju-gaza-dibuka",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Thursday, 13 Nov 2025, 08:37:00"
+      "judul": "Tiga Karyawan Transjakarta Korban Dugaan Pelecehan Masih Trauma Lihat Atasannya",
+      "link_berita": "https://news.republika.co.id/berita/t5nae7487/tiga-karyawan-transjakarta-korban-dugaan-pelecehan-masih-trauma-lihat-atasannya",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 13 Nov 2025, 10:15:00"
     }
   ],
-  "waktu_scraping": "Thursday, 13 Nov 2025, 08:50:59"
+  "waktu_scraping": "Thursday, 13 Nov 2025, 10:17:05"
 }
