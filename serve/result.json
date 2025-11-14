@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Saudi Kering, Masjidil Haram dan Masjid Nabawi Gelar Sholat Istisqa",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5pguv483/saudi-kering-masjidil-haram-dan-masjid-nabawi-gelar-sholat-istisqa"
+    },
+    {
       "judul": "Yang Muda yang Melawan Lupa",
       "link_berita": "https://news.republika.co.id/berita/t5pfw2393/yang-muda-yang-melawan-lupa"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Polda Metro Cecar Roy Suryo dengan 134 Pertanyaan Terkait Ijazah Jokowi",
       "link_berita": "https://news.republika.co.id/berita/t5p82i377/polda-metro-cecar-roy-suryo-dengan-134-pertanyaan-terkait-ijazah-jokowi"
-    },
-    {
-      "judul": "Dedi Mulyadi Targetkan 2027, Semua Gerbang Tol di Jabar Berarsitektur Khas Jabar",
-      "link_berita": "https://rejabar.republika.co.id/berita/t5p51j512/dedi-mulyadi-targetkan-2027-semua-gerbang-tol-di-jabar-berarsitektur-khas-jabar"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Indra Sjafri Matangkan Timnas U-22 Lewat Dua Uji Coba Kontra Mali",
+      "link_berita": "https://news.republika.co.id/berita/t5phkx348/indra-sjafri-matangkan-timnas-u22-lewat-dua-uji-coba-kontra-mali"
+    },
+    {
+      "judul": "Sepekan Ledakan di Masjid Sekolah SMAN 72, Ini Sejumlah Hal yang Belum Terungkap",
+      "link_berita": "https://news.republika.co.id/berita/t5pf6l475/sepekan-ledakan-di-masjid-sekolah-sman-72-ini-sejumlah-hal-yang-belum-terungkap"
+    },
     {
       "judul": "14 WN China Ditangkap Ketahuan Ikut Nguli di Pembangunan Mal di Kelapa Gading",
       "link_berita": "https://news.republika.co.id/berita/t5pcry377/14-wn-china-ditangkap-ketahuan-ikut-nguli-di-pembangunan-mal-di-kelapa-gading"
@@ -73,316 +81,308 @@
     {
       "judul": "Menko Yusril Perkirakan Penerima Amnesti dan Abolisi Lebih Banyak",
       "link_berita": "https://news.republika.co.id/berita/t5o954484/menko-yusril-perkirakan-penerima-amnesti-dan-abolisi-lebih-banyak"
-    },
-    {
-      "judul": "Ngonten Mesra Sama Anak SMP Termasuk Child Grooming? Ini Kata Psikolog",
-      "link_berita": "https://ameera.republika.co.id/berita/t5o5vk425/ngonten-mesra-sama-anak-smp-termasuk-child-grooming-ini-kata-psikolog"
-    },
-    {
-      "judul": "Begini Cara Nikita Mirzani Bisa Melakukan Siaran Live dari Balik Jeruji",
-      "link_berita": "https://news.republika.co.id/berita/t5o2wy377/begini-cara-nikita-mirzani-bisa-melakukan-siaran-live-dari-balik-jeruji"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "RUPTL Baru PLN Targetkan 52,9 GW Energi Terbarukan",
+      "link_berita": "https://esgnow.republika.co.id/berita/t5pe0m416/ruptl-baru-pln-targetkan-529-gw-energi-terbarukan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:30:00"
+    },
+    {
+      "judul": "Sesalkan Helmy Yahya dan Mardigu Batal Jadi Komisaris BJB, Dedi Mulyadi: Tanya ke OJK",
+      "link_berita": "https://rejabar.republika.co.id/berita/t5pjlu512/sesalkan-helmy-yahya-dan-mardigubatal-jadi-komisaris-bjb-dedi-mulyadi-tanya-ke-ojk",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:29:54"
+    },
+    {
+      "judul": "Kereta Cepat Whoosh Sampai Banyuwangi, Operator Bus Bakal Buntung? Ini Kata CEO redBus",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5pjjn475/kereta-cepat-whoosh-sampai-banyuwangi-operator-bus-bakal-buntung-ini-kata-ceo-redbus",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:28:27"
+    },
+    {
+      "judul": "Sorot Kasus Deepfake Vulgar Semarang, Wamen Komdigi: Etika Digital Jadi Kunci",
+      "link_berita": "https://rejogja.republika.co.id/berita/t5pjij282/sorot-kasus-deepfake-vulgar-semarang-wamen-komdigi-etika-digital-jadi-kunci",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:27:27"
+    },
+    {
+      "judul": "Bea Cukai Gagalkan Penyelundupan 30 Ton Bawang Bombai di Pontianak",
+      "link_berita": "https://republika.co.id/berita//t5pjfp472/bea-cukai-gagalkan-penyelundupan-30-ton-bawang-bombai-di-pontianak",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:26:27"
+    },
+    {
+      "judul": "Setop Keraguan! Ini Keunggulan Kuliah di Kampus Swasta yang Bikin Kamu Jadi Jagoan di Dunia Kerja",
+      "link_berita": "https://news.republika.co.id/berita/t5pj6w472/setop-keraguan-ini-keunggulan-kuliah-di-kampus-swasta-yang-bikin-kamu-jadi-jagoan-di-dunia-kerja",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:20:27"
+    },
+    {
+      "judul": "Conchita Caroline Prediksi Tiga Tim yang Akan Menjadi Juara FFWS Global Finals 2025",
+      "link_berita": "https://skor.republika.co.id/posts/718869/conchita-caroline-prediksi-tiga-tim-yang-akan-menjadi-juara-ffws-global-finals-2025",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:20:27"
+    },
+    {
+      "judul": "Patra Jasa Raih Ini di Ajang Jakarta Investment Award 2025",
+      "link_berita": "https://republika.co.id/berita//t5pj1v456/patra-jasa-raih-ini-di-ajang-jakarta-investment-award-2025",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:17:27"
+    },
+    {
+      "judul": "Rusia Lancarkan Serangan Besar-Besaran ke Ukraina",
+      "link_berita": "https://news.republika.co.id/berita/t5pixw393/rusia-lancarkan-serangan-besarbesaran-ke-ukraina",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:15:27"
+    },
+    {
+      "judul": "Mahasiswa dan Dosen UBSI Ciptakan AI Pintar yang Bisa Bedakan Pare Segar dan Busuk",
+      "link_berita": "https://news.republika.co.id/berita/t5piu6472/mahasiswa-dan-dosen-ubsi-ciptakan-ai-pintar-yang-bisa-bedakan-pare-segar-dan-busuk",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:13:27"
+    },
+    {
+      "judul": "CEO Aplikasi Pesan Tiket Bus, redBus, Klaim Pasar RI Amat Potensial, Tumbuh 50 Persen di 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5piph475/ceo-aplikasi-pesan-tiket-bus-redbus-klaim-pasar-ri-amat-potensial-tumbuh-50-persen-di-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:10:27"
+    },
+    {
+      "judul": "Komunitas Intelijen AS Khawatir Rencana Penjualan Jet F-35 ke Arab Saudi",
+      "link_berita": "https://news.republika.co.id/berita/t5pils409/komunitas-intelijen-as-khawatir-rencana-penjualan-jet-f35-ke-arab-saudi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:08:27"
+    },
+    {
+      "judul": "Mahasiswi UNM Ciptakan Sun Studio, Solusi Branding Cerdas Bagi UMKM Digital",
+      "link_berita": "https://news.republika.co.id/berita/t5piiy472/mahasiswi-unm-ciptakan-sun-studio-solusi-branding-cerdas-bagi-umkm-digital",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:06:27"
+    },
+    {
+      "judul": "RI-Yordania Buat Komite Pertukaran Informasi Seputar Gaza",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5pi82483/riyordania-buat-komite-pertukaran-informasi-seputar-gaza",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 08:00:27"
+    },
+    {
+      "judul": "Pemerintah Percepat Pembangunan 14.882 Rumah Layak Huni di Papua",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5pi7n522/pemerintah-percepat-pembangunan-14882-rumah-layak-huni-di-papua",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:59:27"
+    },
+    {
+      "judul": "UNM Tanamkan Skill AI dan Jaringan Lewat CREABEST 2025",
+      "link_berita": "https://news.republika.co.id/berita/t5pi5x472/unm-tanamkan-skill-ai-dan-jaringan-lewat-creabest-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:58:27"
+    },
+    {
+      "judul": "UBSI Kampus Pontianak, Kampus Pertama di Kalimantan yang Terapkan AI di Prosesi Wisuda",
+      "link_berita": "https://news.republika.co.id/berita/t5phse472/ubsi-kampus-pontianak-kampus-pertama-di-kalimantan-yang-terapkan-ai-di-prosesi-wisuda",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:50:27"
+    },
+    {
+      "judul": "Indra Sjafri Matangkan Timnas U-22 Lewat Dua Uji Coba Kontra Mali",
+      "link_berita": "https://news.republika.co.id/berita/t5phkx348/indra-sjafri-matangkan-timnas-u22-lewat-dua-uji-coba-kontra-mali",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:46:27"
+    },
+    {
+      "judul": "Jejak Keilmuan Imam Hasan Al-Bashri, Ulama yang Lantang Kritik Penguasa",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5phfl483/jejak-keilmuan-imam-hasan-albashri-ulama-yang-lantang-kritik-penguasa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:42:27"
+    },
+    {
+      "judul": "Cyber University Gelar Sosialisasi Pencegahan Cyberbullying, DPR Ingatkan Kampus Agar tidak Abai",
+      "link_berita": "https://news.republika.co.id/berita/t5phem472/cyber-university-gelar-sosialisasi-pencegahan-cyberbullying-dpr-ingatkan-kampus-agar-tidak-abai",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:42:27"
+    },
+    {
+      "judul": "Legislator PSI Iwan Koswara Sebut Penurunan TKD di 2026 tak Boleh Ganggu Standar Pelayanan Minimal",
+      "link_berita": "https://rejabar.republika.co.id/berita/t5ph1t472/legislator-psi-iwan-koswara-sebut-penurunan-tkd-di-2026-tak-boleh-ganggu-standar-pelayanan-minimal",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:34:27"
+    },
+    {
+      "judul": "Sepekan Ledakan di Masjid SMAN 72, Pelaku Korban Bullying atau Bukan?",
+      "link_berita": "https://news.republika.co.id/berita/t5pgvt475/sepekan-ledakan-di-masjid-sman-72-pelaku-korban-bullying-atau-bukan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:31:27"
+    },
+    {
+      "judul": "Saudi Kering, Masjidil Haram dan Masjid Nabawi Gelar Sholat Istisqa",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5pguv483/saudi-kering-masjidil-haram-dan-masjid-nabawi-gelar-sholat-istisqa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
+    },
+    {
+      "judul": "Berantas Impor Pakaian Bekas, Mendag Tegaskan Fokus Tindak Importir",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5p9ty416/berantas-impor-pakaian-bekas-mendag-tegaskan-fokus-tindak-importir",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
+    },
+    {
+      "judul": "Berkat JKN, Sang Pahlawan tanpa Tanda Jasa Bisa Berobat tanpa Kendala",
+      "link_berita": "https://news.republika.co.id/berita/t5pgsz472/berkat-jkn-sang-pahlawan-tanpa-tanda-jasa-bisa-berobat-tanpa-kendala",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
+    },
+    {
       "judul": "Peta Jalan Strategis Timnas Indonesia Menuju Piala Dunia 2030, Tembus 80 Besar Dunia",
       "link_berita": "https://skor.republika.co.id/posts/718849/peta-jalan-strategis-timnas-indonesia-menuju-piala-dunia-2030-tembus-80-besar-dunia",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:19:52"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Hadiri Stand Up Against Bullying di SMAN 3 Jakarta, Ini Pesan Menpora Erick",
       "link_berita": "https://news.republika.co.id/berita/t5pgc1348/hadiri-stand-up-against-bullying-di-sman-3-jakarta-ini-pesan-menpora-erick",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:18:52"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Billie Eilish Sebut Elon Musk Pengecut Menyedihkan di Tengah Kritik Kekayaan Miliarder",
       "link_berita": "https://ameera.republika.co.id/berita/t5pfz1425/billie-eilish-sebut-elon-musk-pengecut-menyedihkan-di-tengah-kritik-kekayaan-miliarder",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:11:52"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Yang Muda yang Melawan Lupa",
       "link_berita": "https://news.republika.co.id/berita/t5pfw2393/yang-muda-yang-melawan-lupa",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:09:52"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Dedi Mulyadi Kenang Almarhum Yusuf Saadudin Sebagai Sosok Luar Biasa",
       "link_berita": "https://rejabar.republika.co.id/berita/t5pfui512/dedi-mulyadi-kenang-almarhum-yusuf-saadudin-sebagai-sosok-luar-biasa",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:08:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Kasasi Zarof Ricar, Terpidana Kasus Suap Terhadap Hakim Ditolak MA",
       "link_berita": "https://news.republika.co.id/berita/t5pfpn409/kasasi-zarof-ricar-terpidana-kasus-suap-terhadap-hakim-ditolak-ma",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:05:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Dengan 10 Lubang Biopori, Wirobrajan Tunjukkan Pengelolaan Sampah Mandiri Berbasis RT",
       "link_berita": "https://rejogja.republika.co.id/berita/t5pfj0291/dengan-10-lubang-biopori-wirobrajan-tunjukkan-pengelolaan-sampah-mandiri-berbasis-rt",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 07:01:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 07:30:27"
     },
     {
       "judul": "Indonesia-Kanada Perkuat Kemitraan Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/t5p90v416/indonesiakanada-perkuat-kemitraan-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:59:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Pengamat: Amran Jadi Inspirasi Santri Lewat Kebijakan Bersih dan Tegas",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5pf6x349/pengamat-amran-jadi-inspirasi-santri-lewat-kebijakan-bersih-dan-tegas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:54:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Sepekan Ledakan di Masjid Sekolah SMAN 72, Ini Sejumlah Hal yang Belum Terungkap",
       "link_berita": "https://news.republika.co.id/berita/t5pf6l475/sepekan-ledakan-di-masjid-sekolah-sman-72-ini-sejumlah-hal-yang-belum-terungkap",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:53:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Gelar Ratusan Proyek di WJIS 2025, Dedi Mulyadi Pastikan Kelancaran Investasi di Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/t5pf0l512/gelar-ratusan-proyek-di-wjis-2025-dedi-mulyadi-pastikan-kelancaran-investasi-di-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:50:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Danantara: PSO Whoosh Kemungkinan Dialokasikan untuk Utang Infrastruktur",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5perd370/danantara-pso-whoosh-kemungkinan-dialokasikan-untuk-utang-infrastruktur",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:44:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Pelatih Portugal Nilai Kartu Merah Ronaldo Terlalu Keras",
       "link_berita": "https://news.republika.co.id/berita/t5pej1348/pelatih-portugal-nilai-kartu-merah-ronaldo-terlalu-keras",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:39:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Avtur Berbasis Jelantah Jadi Andalan Indonesia Tekan Emisi Aviasi",
       "link_berita": "https://esgnow.republika.co.id/berita/t5npmi416/avtur-berbasis-jelantah-jadi-andalan-indonesia-tekan-emisi-aviasi",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:32:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Helmy Yahya dan Bossman Mardigu Batal Jadi Komisaris BJB, Gubernur Dedi Menyesalkan",
       "link_berita": "https://news.republika.co.id/berita/t5pe46377/helmy-yahya-dan-bossman-mardigu-batal-jadi-komisaris-bjb-gubernur-dedi-menyesalkan",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Respons Rizky Ridho Usai Golnya Masuk Nominasi FIFA Puskas Award 2025",
       "link_berita": "https://skor.republika.co.id/posts/718809/respons-rizky-ridho-usai-golnya-masuk-nominasi-fifa-puskas-award-2025",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:29:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Pedri Ungkap Satu Penyesalan Terbesar Saat Gabung Barcelona: Gagal Setim dengan Andres Iniesta",
       "link_berita": "https://news.republika.co.id/berita/t5pe16348/pedri-ungkap-satu-penyesalan-terbesar-saat-gabung-barcelona-gagal-setim-dengan-andres-iniesta",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:29:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Pecah! Lagu Hindia Hingga Reality Club Nyelam ke Sisi Gelap Cinta Angga Yunanda di Film Dopamin",
       "link_berita": "https://ameera.republika.co.id/berita/t5pdw0425/pecah-lagu-hindia-hingga-reality-club-nyelam-ke-sisi-gelap-cinta-angga-yunanda-di-film-dopamin",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:26:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "DPD RI Dorong Sinergi Lokal-Global, Perkuat NTB sebagai Etalase Pariwisata dan Energi Bersih",
       "link_berita": "https://news.republika.co.id/berita/t5pdos368/dpd-ri-dorong-sinergi-lokalglobal-perkuat-ntb-sebagai-etalase-pariwisata-dan-energi-bersih",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Bukti Dugaan Keterlibatan UEA di Perang Sudan Diungkap, Ini Motifnya Kata Pakar",
       "link_berita": "https://news.republika.co.id/berita/t5pdob377/bukti-dugaan-keterlibatan-uea-di-perang-sudan-diungkap-ini-motifnya-kata-pakar",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Demokrasi Hijau dan RUU Perubahan Iklim, Jalan Transformasi Berkelanjutan Indonesia",
       "link_berita": "https://analisis.republika.co.id/berita/t5pdar368/demokrasi-hijau-dan-ruu-perubahan-iklim-jalan-transformasi-berkelanjutan-indonesia",
       "kategori": "Kolom",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Harga Emas dan Perak Melemah, Kemendag Turunkan HPE Konsentrat Tembaga",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5pd6u370/harga-emas-dan-perak-melemah-kemendag-turunkan-hpe-konsentrat-tembaga",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Indonesia Berhasil Jual Emisi Setara 12 Juta Ton ke Norwegia",
       "link_berita": "https://news.republika.co.id/berita/t5pd1d484/indonesia-berhasil-jual-emisi-setara-12-juta-ton-ke-norwegia",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Sinergi di Balik Gelaran Sport Tourism Bintan Marathon 2025",
       "link_berita": "https://republika.co.id/berita//t5pctl368/sinergi-di-balik-gelaran-sport-tourism-bintan-marathon-2025",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "14 WN China Ditangkap Ketahuan Ikut Nguli di Pembangunan Mal di Kelapa Gading",
       "link_berita": "https://news.republika.co.id/berita/t5pcry377/14-wn-china-ditangkap-ketahuan-ikut-nguli-di-pembangunan-mal-di-kelapa-gading",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
-    },
-    {
-      "judul": "UIN Ar-Raniry Segera Dirikan Pusat Studi Pesantren",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5pcrg483/uin-arraniry-segera-dirikan-pusat-studi-pesantren",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
-    },
-    {
-      "judul": "10 Tim dengan Pemasukan Terbanyak dari Penjualan Pemain Tahun 2025, Chelsea Teratas",
-      "link_berita": "https://skor.republika.co.id/posts/718797/10-tim-dengan-pemasukan-terbanyak-dari-penjualan-pemain-tahun-2025-chelsea-teratas",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
-    },
-    {
-      "judul": "Menag: Madrasah Jadi The Rising Star",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5pcbl483/menag-madrasah-jadi-the-rising-star",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 06:21:53"
-    },
-    {
-      "judul": "Muslimah Temukan Rasa Aman lewat Kelas Bela Diri di New York",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5pc81366/muslimah-temukan-rasa-aman-lewat-kelas-bela-diri-di-new-york",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "Perbaikan Jalan di Cirebon Timur Sebabkan Kemacetan",
-      "link_berita": "https://rejabar.republika.co.id/berita/t5pc5n512/perbaikan-jalan-di-cirebon-timur-sebabkan-kemacetan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "42 Inovator Ramaikan Bumi Berseru Fest 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5pbys368/42-inovator-ramaikan-bumi-berseru-fest-2025",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "Mendag: Minyakita Akan Disalurkan Lewat Bulog dan ID FOOD untuk Perkuat Kontrol",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5pbbt370/mendag-minyakita-akan-disalurkan-lewat-bulog-dan-id-food-untuk-perkuat-kontrol",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "Pertamina Patra Niaga Sumbagsel Pastikan Ketahanan Stok dan Kelancaran Distribusi BBM di Bengkulu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5pbbj522/pertamina-patra-niaga-sumbagsel-pastikan-ketahanan-stok-dan-kelancaran-distribusi-bbm-di-bengkulu",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "Takziah ke Rumah Duka Yusuf Saadudin, Wakil Ketua DPRD Jabar MQ Iswara: Sosok Berintegritas",
-      "link_berita": "https://rejabar.republika.co.id/berita/t5padn512/takziah-ke-rumah-duka-yusuf-saadudin-wakil-ketua-dprd-jabar-mq-iswara-sosok-berintegritas",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "BPBD: 85 Kejadian Bencana di Jabar Selama Dua Pekan",
-      "link_berita": "https://rejabar.republika.co.id/berita/t5p9vj512/bpbd-85-kejadian-bencana-di-jabar-selama-dua-pekan",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "JILF 2025 Hadir, Sastra Jadi Jalan yang Meneguhkan Kemanusiaan",
-      "link_berita": "https://ameera.republika.co.id/berita/t5p9km368/jilf-2025-hadir-sastra-jadi-jalan-yang-meneguhkan-kemanusiaan",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 05:21:53"
-    },
-    {
-      "judul": "IHSG Menguat Setelah Government Shutdown AS Berakhir, Sentimen Global Membaik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5p9hd370/ihsg-menguat-setelah-government-shutdown-as-berakhir-sentimen-global-membaik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "SpongeBob Balik ke Bioskop! Film Keenam Dijadwalkan Rilis Desember",
-      "link_berita": "https://ameera.republika.co.id/berita/t5p92i425/spongebob-balik-ke-bioskop-film-keenam-dijadwalkan-rilis-desember",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Institut SEBI Wisuda 171 Sarjana",
-      "link_berita": "https://sharia.republika.co.id/berita/t5p8l5483/institut-sebi-wisuda-171-sarjana",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Sjafrie Ungkap TNI Kirim Pasukan Perdamaian ke Gaza Tunggu Inisiatif Trump",
-      "link_berita": "https://news.republika.co.id/berita/t5p8hz484/sjafrie-ungkap-tni-kirim-pasukan-perdamaian-ke-gaza-tunggu-inisiatif-trump",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Polda Metro Cecar Roy Suryo dengan 134 Pertanyaan Terkait Ijazah Jokowi",
-      "link_berita": "https://news.republika.co.id/berita/t5p82i377/polda-metro-cecar-roy-suryo-dengan-134-pertanyaan-terkait-ijazah-jokowi",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Peran Guru BK Cegah Bullying di Sekolah Dinilai Belum Optimal",
-      "link_berita": "https://ameera.republika.co.id/berita/t5p7zu425/peran-guru-bk-cegah-bullying-di-sekolah-dinilai-belum-optimal",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Kemenperin Finalisasi Usulan Insentif Otomotif untuk Paket Fiskal 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5p7zc370/kemenperin-finalisasi-usulan-insentif-otomotif-untuk-paket-fiskal-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Bea Cukai Musnahkan Barang Hasil Penindakan di Yogyakarta dan Magelang, Nilainya Rp 2,5 Miliar",
-      "link_berita": "https://republika.co.id/berita//t5p7ix368/bea-cukai-musnahkan-barang-hasil-penindakan-di-yogyakarta-dan-magelang-nilainya-rp-25-miliar%c2%a0",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Kemendiktisaintek Sebut Hanya 1-2 Persen Hasil Riset Perguruan Tinggi Jadi Produk Komersial",
-      "link_berita": "https://news.republika.co.id/berita/t5p6ul487/kemendiktisaintek-sebut-hanya-12-persen-hasil-riset-perguruan-tinggi-jadi-produk-komersial",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 04:21:53"
-    },
-    {
-      "judul": "Restorasi Museum Istana Pasha di Tengah Reruntuhan Gaza",
-      "link_berita": "https://visual.republika.co.id/berita/t5p6p3375/restorasi-museum-istana-pasha-di-tengah-reruntuhan-gaza",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 03:21:53"
-    },
-    {
-      "judul": "Ketum Persis: Ketegasan Kejagung Bisa Kembalikan Harapan Rakyat",
-      "link_berita": "https://news.republika.co.id/berita/t5p6nv318/ketum-persis-ketegasan-kejagung-bisa-kembalikan-harapan-rakyat",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 03:21:53"
-    },
-    {
-      "judul": "Genjot Hilirisasi Riset, Kemendiktisaintek: Biar Penelitian tak Cuma Tersimpan di Kampus",
-      "link_berita": "https://news.republika.co.id/berita/t5p6la487/genjot-hilirisasi-riset-kemendiktisaintek-biar-penelitian-tak-cuma-tersimpan-di-kampus",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 03:21:53"
-    },
-    {
-      "judul": "Parlemen Eropa Setujui Target Iklim Baru: Pengurangan Emisi 90 Persen pada 2040",
-      "link_berita": "https://esgnow.republika.co.id/berita/t5p6hc370/parlemen-eropa-setujui-target-iklim-baru-pengurangan-emisi-90-persen-pada-2040",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 03:21:53"
-    },
-    {
-      "judul": "Organisasi HAM Inggris Ungkap Dugaan Penyiksaan Seksual Sistematis di Penjara Israel",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5p6gf366/organisasi-ham-inggris-ungkap-dugaan-penyiksaan-seksual-sistematis-di-penjara-israel",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 03:21:53"
+      "tanggal_terbit": "Friday, 14 Nov 2025, 06:30:27"
     },
     {
       "judul": "Billie Eilish Sebut Elon Musk Pengecut Menyedihkan di Tengah Kritik Kekayaan Miliarder",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Friday, 14 Nov 2025, 14:11:00"
     },
     {
-      "judul": "Indonesia-Kanada Perkuat Kemitraan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/t5p90v416/indonesiakanada-perkuat-kemitraan-iklim",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 14:00:00"
+      "judul": "RUPTL Baru PLN Targetkan 52,9 GW Energi Terbarukan",
+      "link_berita": "https://esgnow.republika.co.id/berita/t5pe0m416/ruptl-baru-pln-targetkan-529-gw-energi-terbarukan",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 15:30:00"
     },
     {
-      "judul": "Pengamat: Amran Jadi Inspirasi Santri Lewat Kebijakan Bersih dan Tegas",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5pf6x349/pengamat-amran-jadi-inspirasi-santri-lewat-kebijakan-bersih-dan-tegas",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 13:54:00"
+      "judul": "Kereta Cepat Whoosh Sampai Banyuwangi, Operator Bus Bakal Buntung? Ini Kata CEO redBus",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5pjjn475/kereta-cepat-whoosh-sampai-banyuwangi-operator-bus-bakal-buntung-ini-kata-ceo-redbus",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 15:28:00"
     },
     {
       "judul": "Institut SEBI Wisuda 171 Sarjana",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 14 Nov 2025, 11:31:00"
     },
     {
-      "judul": "Hadiri Stand Up Against Bullying di SMAN 3 Jakarta, Ini Pesan Menpora Erick",
-      "link_berita": "https://news.republika.co.id/berita/t5pgc1348/hadiri-stand-up-against-bullying-di-sman-3-jakarta-ini-pesan-menpora-erick",
-      "kategori": "Sport",
-      "tanggal_terbit": "Friday, 14 Nov 2025, 14:19:00"
+      "judul": "Setop Keraguan! Ini Keunggulan Kuliah di Kampus Swasta yang Bikin Kamu Jadi Jagoan di Dunia Kerja",
+      "link_berita": "https://news.republika.co.id/berita/t5pj6w472/setop-keraguan-ini-keunggulan-kuliah-di-kampus-swasta-yang-bikin-kamu-jadi-jagoan-di-dunia-kerja",
+      "kategori": "Pendidikan",
+      "tanggal_terbit": "Friday, 14 Nov 2025, 15:20:00"
     }
   ],
-  "waktu_scraping": "Friday, 14 Nov 2025, 14:21:53"
+  "waktu_scraping": "Friday, 14 Nov 2025, 15:30:27"
 }
