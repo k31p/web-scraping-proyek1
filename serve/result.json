@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Changan Resmi Hadir di Indonesia: Gandeng Indomobil, Luncurkan Dua Model di GJAW",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5z8hk348/changan-resmi-hadir-di-indonesia-gandeng-indomobil-luncurkan-dua-model-di-gjaw"
+    },
+    {
       "judul": "Tepi Barat Memanas, Batalyon Jenin melawan",
       "link_berita": "https://news.republika.co.id/berita/t5z5m5393/tepi-barat-memanas-batalyon-jenin-melawan"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Gunung Semeru Erupsi, Awan Panas Meluncur Hingga 7 Km dari Puncak",
       "link_berita": "https://news.republika.co.id/berita/t5z0rg366/gunung-semeru-erupsi-awan-panas-meluncur-hingga-7-km-dari-puncak"
-    },
-    {
-      "judul": "MK Batalkan Skema HGU Jangka Panjang IKN, Menko Airlangga: Pembangunan Tetap Berjalan",
-      "link_berita": "https://news.republika.co.id/berita/t5z094409/mk-batalkan-skema-hgu-jangka-panjang-ikn-menko-airlangga-pembangunan-tetap-berjalan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Arab Saudi-AS Sepakati Kerja Sama Besar di Bidang AI dan Nuklir",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5zagp366/arab-saudias-sepakati-kerja-sama-besar-di-bidang-ai-dan-nuklir"
+    },
+    {
+      "judul": "Gunung Semeru Erupsi, Tinggi Kolom Abu Capai 2.000 Meter",
+      "link_berita": "https://visual.republika.co.id/berita/t5z8n9375/gunung-semeru-erupsi-tinggi-kolom-abu-capai-2000-meter"
+    },
     {
       "judul": "Gunung Semeru \u2018Awas\u2019, Ratusan Warga Mengungsi",
       "link_berita": "https://news.republika.co.id/berita/t5z6hb393/gunung-semeru-awas-ratusan-warga-mengungsi"
@@ -73,322 +81,314 @@
     {
       "judul": "Lemigas Sambut Bobibos, Ingatkan Prosedur Teknis dan Regulasi yang Wajib Dipatuhi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5yd9x416/lemigas-sambut-bobibos-ingatkan-prosedur-teknis-dan-regulasi-yang-wajib-dipatuhi"
-    },
-    {
-      "judul": "Pemukim Yahudi Terobos Masjid Al-Aqsa Bawa 'Sesajen' Kambing dan 3 Merpati untuk Dikorbankan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5yd0k320/pemukim-yahudi-terobos-masjid-alaqsa-bawa-sesajen-kambing-dan-3-merpati-untuk-dikorbankan"
-    },
-    {
-      "judul": "Polri Ikut Siapkan Pasukan Perdamaian ke Gaza di Tengah Resolusi PBB yang Tuai Polemik",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5y9ol483/polri-ikut-siapkan-pasukan-perdamaian-ke-gaza-di-tengah-resolusi-pbb-yang-tuai-polemik"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Begini Cara BPPT Lebak Bulus Lakukan Budidaya Tanaman Anggrek",
+      "link_berita": "https://visual.republika.co.id/berita/t5z99m375/begini-cara-bppt-lebak-bulus-lakukan-budidaya-tanaman-anggrek",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 15:15:04"
+    },
+    {
+      "judul": "Dari SSA Kudus Merajut Mimpi ke Pentas Piala Dunia Putri",
+      "link_berita": "https://news.republika.co.id/berita/t5zbkv348/dari-ssa-kudus-merajut-mimpi-ke-pentas-piala-dunia-putri",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 15:12:04"
+    },
+    {
+      "judul": "Dokter Ungkap Gaya Hidup 'Mager' Pemicu Gangguan Kesuburan",
+      "link_berita": "https://ameera.republika.co.id/berita/t5zbh6425/dokter-ungkap-gaya-hidup-mager-pemicu-gangguan-kesuburan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 15:10:04"
+    },
+    {
+      "judul": "Changan Tawarkan Teknologi Baru dan Fokus pada Nilai Konsumen di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5zb33348/changan-tawarkan-teknologi-baru-dan-fokus-pada-nilai-konsumen-di-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 15:02:04"
+    },
+    {
+      "judul": "Status Gunung Semeru Naik Jadi Awas, 300 Warga Mengungsi",
+      "link_berita": "https://rejogja.republika.co.id/berita/t5zazn282/status-gunung-semeru-naik-jadi-awas-300-warga-mengungsi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 15:00:04"
+    },
+    {
+      "judul": "Polda Jateng Selidiki Misteri Kematian Dosen Untag Semarang di Kamar Kos",
+      "link_berita": "https://rejogja.republika.co.id/berita/t5zanf282/polda-jateng-selidiki-misteri-kematian-dosen-untag-semarang-di-kamar-kos",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:52:04"
+    },
+    {
+      "judul": "Arab Saudi-AS Sepakati Kerja Sama Besar di Bidang AI dan Nuklir",
+      "link_berita": "https://khazanah.republika.co.id/berita/t5zagp366/arab-saudias-sepakati-kerja-sama-besar-di-bidang-ai-dan-nuklir",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:48:04"
+    },
+    {
+      "judul": "Penyanyi D4vd Dilaporkan Jadi Tersangka atas Kematian Remaja yang Ditemukan di Tesla",
+      "link_berita": "https://ameera.republika.co.id/berita/t5zafh425/penyanyi-d4vd-dilaporkan-jadi-tersangka-atas-kematian-remaja-yang-ditemukan-di-tesla",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:48:04"
+    },
+    {
+      "judul": "Ini Tips Menetapkan Batasan Bagi Anak Sulung Menurut Psikolog",
+      "link_berita": "https://ameera.republika.co.id/berita/t5z9y1425/ini-tips-menetapkan-batasan-bagi-anak-sulung-menurut-psikolog",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:37:04"
+    },
+    {
+      "judul": "Persebaya vs Arema FC: Pelatih Singo Edan Siapkan Mental dan Sesumbar Menang di GBT",
+      "link_berita": "https://skor.republika.co.id/posts/720931/persebaya-vs-arema-fc-pelatih-singo-edan-siapkan-mental-dan-sesumbar-menang-di-gbt",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:30:04"
+    },
+    {
+      "judul": "Biokul Padel Tourney 2025 Siap Digelar, Peserta Membludak hingga Lebih dari 300 Tim",
+      "link_berita": "https://skor.republika.co.id/posts/720930/biokul-padel-tourney-2025-siap-digelar-peserta-membludak-hingga-lebih-dari-300-tim",
+      "kategori": "Network",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:30:04"
+    },
+    {
+      "judul": "BNI Luncurkan ESG Advisory Playbook Pertama di Indonesia, Percepat Transformasi Hijau Industri Sawit",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5z9jt368/bni-luncurkan-esg-advisory-playbook-pertama-di-indonesia-percepat-transformasi-hijau-industri-sawit",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:29:04"
+    },
+    {
       "judul": "Gunung Semeru Erupsi, Tinggi Kolom Abu Capai 2.000 Meter",
       "link_berita": "https://visual.republika.co.id/berita/t5z8n9375/gunung-semeru-erupsi-tinggi-kolom-abu-capai-2000-meter",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:09:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:25:04"
     },
     {
       "judul": "Changan Resmi Hadir di Indonesia: Gandeng Indomobil, Luncurkan Dua Model di GJAW",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5z8hk348/changan-resmi-hadir-di-indonesia-gandeng-indomobil-luncurkan-dua-model-di-gjaw",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:06:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:25:04"
     },
     {
       "judul": "Gandeng KAI, Bank Mandiri Luncurkan Layanan QRIS Tap di Transportasi Publik",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5z8hi490/gandeng-kai-bank-mandiri-luncurkan-layanan-qris-tap-di-transportasi-publik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:06:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:25:04"
     },
     {
       "judul": "Helmy Yahya Bikin Sekolah AI, Pelatihan Hugency Academy Ubah Konten Jadi Hyper-Realistic",
       "link_berita": "https://ameera.republika.co.id/berita/t5z8f2425/helmy-yahya-bikin-sekolah-ai-pelatihan-hugency-academy-ubah-konten-jadi-hyperrealistic",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:04:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 14:25:04"
     },
     {
       "judul": "Menhut Uji Coba Bahan Bakar Bioetanol Berbasis Aren",
       "link_berita": "https://esgnow.republika.co.id/berita/t5z7ll490/menhut-uji-coba-bahan-bakar-bioetanol-berbasis-aren",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:46:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Cimahi Masuk 4 Kota Terbaik Realisasi Belanja 2025, Ini Besarannya",
       "link_berita": "https://rejabar.republika.co.id/berita/t5z6wg512/cimahi-masuk-4-kota-terbaik-realisasi-belanja-2025-ini-besarannya",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:31:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Danantara: Mayoritas Dividen Hanya Berasal dari Delapan BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5z4s8370/danantara-mayoritas-dividen-hanya-berasal-dari-delapan-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:30:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Anjuran untuk Memberi Hadiah",
       "link_berita": "https://khazanah.republika.co.id/berita/t5z4uf458/anjuran-untuk-memberi-hadiah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:30:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Paguyuban Lender dan Dana Syariah Akhirnya Capai Kesepakatan, Ini Hasilnya",
       "link_berita": "https://sharia.republika.co.id/berita/t5z6pe490/paguyuban-lender-dan-dana-syariah-akhirnya-capai-kesepakatan-ini-hasilnya",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:27:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Perkuat Literasi Investasi, Sucor AM Gandeng Indra Priawan Djokosoetono",
       "link_berita": "https://ameera.republika.co.id/berita/t5z286370/perkuat-literasi-investasi-sucor-am-gandeng-indra-priawan-djokosoetono",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:27:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Pertamina Patra Niaga Luncurkan Brightspace Perkuat Ekosistem Retail Non BBM",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5z6js522/pertamina-patra-niaga-luncurkan-brightspace-perkuat-ekosistem-retail-non-bbm",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:24:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Gunung Semeru \u2018Awas\u2019, Ratusan Warga Mengungsi",
       "link_berita": "https://news.republika.co.id/berita/t5z6hb393/gunung-semeru-awas-ratusan-warga-mengungsi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Jika Mamdani Berambisi Penjarakan Netanyahu, Pendahulunya Justru Menjilat Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/t5z6dh320/jika-mamdani-berambisi-penjarakan-netanyahu-pendahulunya-justru-menjilat-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Viral Patung Bung Karno Miring di Alun-alun Indramayu, Lucky Hakim: Kita Benerin Dulu",
       "link_berita": "https://rejabar.republika.co.id/berita/t5z667512/viral-patung-bung-karno-miring-di-alunalun-indramayu-lucky-hakim-kita-benerin-dulu",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Bangunan Liar Buat Fungsi Ekologis Sungai di Kota Cimahi Menyusut",
       "link_berita": "https://rejabar.republika.co.id/berita/t5z5va512/bangunan-liar-buat-fungsi-ekologis-sungai-di-kota-cimahi-menyusut",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "9 Keistimewaan Aisyah, Istri Nabi",
       "link_berita": "https://khazanah.republika.co.id/berita/t5z574458/9-keistimewaan-aisyah-istri-nabi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Tepi Barat Memanas, Batalyon Jenin melawan",
       "link_berita": "https://news.republika.co.id/berita/t5z5m5393/tepi-barat-memanas-batalyon-jenin-melawan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Cerita Sopian di Bandung Nganggur 9 Bulan, Cemas tak Dapat Kerja Gara-Gara Usia 36 Tahun",
       "link_berita": "https://rejabar.republika.co.id/berita/t5z5li512/cerita-sopian-di-bandung-nganggur-9-bulan-cemas-tak-dapat-kerja-garagara-usia-36-tahun",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Anjuran Menyegerakan Menikah Tatkala Siap Lahir-Batin",
       "link_berita": "https://khazanah.republika.co.id/berita/t5z4ie458/anjuran-menyegerakan-menikah-tatkala-siap-lahirbatin",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Intip Deretan Pesawat yang Tampil di Dubai Air Show 2025",
       "link_berita": "https://visual.republika.co.id/berita/t5z1it375/intip-deretan-pesawat-yang-tampil-di-dubai-air-show-2025",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Israel Ingin Spesifikasi Jet F-35 untuk Arab Saudi Dikurangi, Trump Menolak",
       "link_berita": "https://news.republika.co.id/berita/t5z58o409/israel-ingin-spesifikasi-jet-f35-untuk-arab-saudi-dikurangi-trump-menolak",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 13:25:04"
     },
     {
       "judul": "Kuota Haji Tahun 2026 di Bandung Barat Turun Drastis",
       "link_berita": "https://rejabar.republika.co.id/berita/t5z532512/kuota-haji-tahun-2026-di-bandung-barat-turun-drastis",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Rasulullah pun Ditegur karena tak Ucapkan 'Insya Allah'",
       "link_berita": "https://khazanah.republika.co.id/berita/t5z1i2458/rasulullah-pun-ditegur-karena-tak-ucapkan-insya-allah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Presiden Prabowo Resmikan Lima Infrastruktur Transportasi Senilai Rp 2 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t5z4kw370/presiden-prabowo-resmikan-lima-infrastruktur-transportasi-senilai-rp-2-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Arsip Ijazah Jokowi Bukan Dimusnahkan, Ini Faktanya Menurut KPU RI",
       "link_berita": "https://news.republika.co.id/berita/t5z4k4409/arsip-ijazah-jokowi-bukan-dimusnahkan-ini-faktanya-menurut-kpu-ri",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Selain Jembatan Kabanaran, Prabowo Resmikan Empat Infrastruktur Nasional dari Yogyakarta",
       "link_berita": "https://rejogja.republika.co.id/berita/t5z1xa291/selain-jembatan-kabanaran-prabowo-resmikanempat-infrastruktur-nasional-dari-yogyakarta",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Forum Economics 360 Rumuskan Strategi Jabar Kejar Target Pertumbuhan 8 Persen",
       "link_berita": "https://rejabar.republika.co.id/berita/t5z4fn512/forum-economics-360-rumuskan-strategi-jabar-kejar-target-pertumbuhan-8-persen",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "PVMBG Ungkap Penyebab Fenomena Bau Gas dan Lantai Teras yang Panas di Cugenang Cianjur",
       "link_berita": "https://news.republika.co.id/berita/t5z4bf409/pvmbg-ungkap-penyebab-fenomena-bau-gas-dan-lantai-teras-yang-panas-di-cugenang-cianjur",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Kementerian HAM: Terjadi Pengungsian Massal di Papua",
       "link_berita": "https://news.republika.co.id/berita/t5z49y393/kementerian-ham-terjadi-pengungsian-massal-di-papua",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Gunung Semeru Erupsi Luncurkan Awan Panas Sejauh 7 Kilometer",
       "link_berita": "https://rejogja.republika.co.id/berita/t5z45e282/gunung-semeru-erupsi-luncurkan-awan-panas-sejauh-7-kilometer",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Ayat-Ayat Alquran tentang Amanah",
       "link_berita": "https://khazanah.republika.co.id/berita/t5z1au458/ayatayat-alquran-tentang-amanah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Hasil Panen Petani Jagung di Nganjuk Anjlok Akibat Cuaca Buruk",
       "link_berita": "https://visual.republika.co.id/berita/t5yydu375/hasil-panen-petani-jagung-di-nganjuk-anjlok-akibat-cuaca-buruk",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "KAI Temukan 11.670 Barang Tertinggal Senilai Rp12,88 Miliar",
       "link_berita": "https://kreta.id/posts/720798/kai-temukan-11-670-barang-tertinggal-senilai-rp1288-miliar",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "IIF Dorong Infrastruktur Hijau dengan Obligasi Berkelanjutan",
       "link_berita": "https://esgnow.republika.co.id/berita/t5z3uw416/iif-dorong-infrastruktur-hijau-dengan-obligasi-berkelanjutan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "BEM Undip Marah, Namanya Dicatut di Pengesahan UU KUHAP, Beri 3x24 Jam DPR Untuk Minta Maaf",
       "link_berita": "https://news.republika.co.id/berita/t5z3tv377/bem-undip-marah-namanya-dicatut-di-pengesahan-uu-kuhap-beri-3x24-jam-dpr-untuk-minta-maaf",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Jihad Islam Palestina: Resolusi DK PBB Usulan AS Langgar Kesepakatan Awal",
       "link_berita": "https://news.republika.co.id/berita/t5z3oj409/jihad-islam-palestina-resolusi-dk-pbb-usulan-as-langgar-kesepakatan-awal",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Masuki Hari Kelima, 26 Korban Hilang Longsor Banjarnegara Belum Ditemukan",
       "link_berita": "https://rejogja.republika.co.id/berita/t5z3nk370/masuki-hari-kelima-26-korban-hilang-longsor-banjarnegara-belum-ditemukan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
       "judul": "Di Munas IKAPI, Mendikdasmen Sarankan Buku Mudah Dibaca dan Murah",
       "link_berita": "https://news.republika.co.id/berita/t5z3n6393/di-munas-ikapi-mendikdasmen-sarankan-buku-mudah-dibaca-dan-murah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:25:04"
     },
     {
-      "judul": "Maruarar Ungkap Potensi Pasar Sekunder Rumah Subsidi Luar Biasa, Bisa Jadi Sumber Penghidupan Baru",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5z3ip490/maruarar-ungkap-potensi-pasar-sekunder-rumah-subsidi-luar-biasa-bisa-jadi-sumber-penghidupan-baru",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Kebutuhan akan Sujud",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5z12w458/kebutuhan-akan-sujud",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Dirut Garudafood Bagikan Pengalaman Kepemimpinan-Transformasi Bisnis Kepada Mahasiswa ITB",
-      "link_berita": "https://rejabar.republika.co.id/berita/t5z0nz291/dirut-garudafood-bagikan-pengalaman-kepemimpinantransformasi-bisnis-kepada-mahasiswa-itb",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Ivar Jenner Pastikan Hengkang dari FC Utrecht Musim Depan",
-      "link_berita": "https://skor.republika.co.id/posts/720835/ivar-jenner-pastikan-hengkang-dari-fc-utrecht-musim-depan",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Melihat Proses Pengolahan Sampah Organik di Kudus",
-      "link_berita": "https://visual.republika.co.id/berita/t5yy9d375/melihat-proses-pengolahan-sampah-organik-di-kudus",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Kemenag Matangkan Pembentukan Dirjen Pesantren",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5yzy0430/kemenag-matangkan-pembentukan-dirjen-pesantren",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Ini Alasan Mengapa Kepala Patung Bung Karno di Alun-Alun Indramayu Miring Menurut Bupati Lucky",
-      "link_berita": "https://news.republika.co.id/berita/t5z2lh377/ini-alasan-mengapa-kepala-patung-bung-karno-di-alunalun-indramayu-miring-menurut-bupati-lucky",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Tim Reformasi Polri Bahas Kasus 'Ijazah Palsu'",
-      "link_berita": "https://news.republika.co.id/berita/t5z2ge393/tim-reformasi-polri-bahas-kasus-ijazah-palsu",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Rasulullah Melarang Suami Pukul Istri",
-      "link_berita": "https://khazanah.republika.co.id/berita/t5z0vt458/rasulullah-melarang-suami-pukul-istri",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 12:23:05"
-    },
-    {
-      "judul": "Gelar Bursa Kerja, Strategi Tekan Angka Pengangguran di Kota Bandung",
-      "link_berita": "https://tv.republika.co.id/berita/t5z2bs313/gelar-bursa-kerja-strategi-tekan-angka-pengangguran-di-kota-bandung",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 11:23:05"
-    },
-    {
-      "judul": "Prediksi dan Link Live Streaming Persija vs Persik di Super League 2025-2026",
-      "link_berita": "https://skor.republika.co.id/posts/720832/prediksi-dan-link-live-streaming-persija-vs-persik-di-super-league-2025-2026",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 11:23:05"
-    },
-    {
-      "judul": "Rumah 'Diintip' Lagi, Jungkook BTS Jadi Korban Berulang Sasaeng",
-      "link_berita": "https://ameera.republika.co.id/berita/t5z271425/rumah-diintip-lagi-jungkook-bts-jadi-korban-berulang-sasaeng",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 11:23:05"
-    },
-    {
-      "judul": "Helmy Yahya Bikin Sekolah AI, Pelatihan Hugency Academy Ubah Konten Jadi Hyper-Realistic",
-      "link_berita": "https://ameera.republika.co.id/berita/t5z8f2425/helmy-yahya-bikin-sekolah-ai-pelatihan-hugency-academy-ubah-konten-jadi-hyperrealistic",
-      "kategori": "Tekno",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 21:04:00"
+      "judul": "Dokter Ungkap Gaya Hidup 'Mager' Pemicu Gangguan Kesuburan",
+      "link_berita": "https://ameera.republika.co.id/berita/t5zbh6425/dokter-ungkap-gaya-hidup-mager-pemicu-gangguan-kesuburan",
+      "kategori": "Health",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 22:10:00"
     },
     {
       "judul": "Menhut Uji Coba Bahan Bakar Bioetanol Berbasis Aren",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 19 Nov 2025, 20:46:00"
     },
     {
-      "judul": "Changan Resmi Hadir di Indonesia: Gandeng Indomobil, Luncurkan Dua Model di GJAW",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t5z8hk348/changan-resmi-hadir-di-indonesia-gandeng-indomobil-luncurkan-dua-model-di-gjaw",
+      "judul": "Changan Tawarkan Teknologi Baru dan Fokus pada Nilai Konsumen di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t5zb33348/changan-tawarkan-teknologi-baru-dan-fokus-pada-nilai-konsumen-di-indonesia",
       "kategori": "Otomotif",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 21:05:00"
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 22:01:00"
     },
     {
       "judul": "Paguyuban Lender dan Dana Syariah Akhirnya Capai Kesepakatan, Ini Hasilnya",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 19 Nov 2025, 20:27:00"
     },
     {
-      "judul": "Gunung Semeru \u2018Awas\u2019, Ratusan Warga Mengungsi",
-      "link_berita": "https://news.republika.co.id/berita/t5z6hb393/gunung-semeru-awas-ratusan-warga-mengungsi",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 19 Nov 2025, 20:22:00"
+      "judul": "Dari SSA Kudus Merajut Mimpi ke Pentas Piala Dunia Putri",
+      "link_berita": "https://news.republika.co.id/berita/t5zbkv348/dari-ssa-kudus-merajut-mimpi-ke-pentas-piala-dunia-putri",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 19 Nov 2025, 22:12:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 19 Nov 2025, 21:23:05"
+  "waktu_scraping": "Wednesday, 19 Nov 2025, 22:25:04"
 }
