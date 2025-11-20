@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "KUHAP Baru Atur Restorative Justice, Ini Sembilan Jenis Tindak Pidana yang Dikecualikan",
+      "link_berita": "https://news.republika.co.id/berita/t60zyw409/kuhap-baru-atur-restorative-justice-ini-sembilan-jenis-tindak-pidana-yang-dikecualikan"
+    },
+    {
+      "judul": "Eks Dirjen Pajak Dicegah Terkait Kasus Pengampunan Pajak, Imigrasi: Permintaan Kejagung",
+      "link_berita": "https://news.republika.co.id/berita/t60zj1487/eks-dirjen-pajak-dicegah-terkait-kasus-pengampunan-pajak-imigrasi-permintaan-kejagung"
+    },
+    {
       "judul": "MUI Akui Algoritma dan AI Kini Tantang Otoritas Ulama",
       "link_berita": "https://khazanah.republika.co.id/berita/t60wha366/mui-akui-algoritma-dan-ai-kini-tantang-otoritas-ulama"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Gebrakan Baru Purbaya, Anggaran Rp3,5 Triliun tak Terserap Bakal Dialihkan ke Program Lain",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60uc7490/gebrakan-baru-purbaya-anggaran-rp35-triliun-tak-terserap-bakal-dialihkan-ke-program-lain"
-    },
-    {
-      "judul": "Gangguan Teratasi, MRT Rute Lebak Bulus-Bundaran HI Kembali Beroperasi Normal",
-      "link_berita": "https://news.republika.co.id/berita/t60rvd409/gangguan-teratasi-mrt-rute-lebak-bulusbundaran-hi-kembali-beroperasi-normal"
-    },
-    {
-      "judul": "Israel Lakukan Nyaris 400 Pelanggaran Gencatan Senjata di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/t60p2v393/israel-lakukan-nyaris-400-pelanggaran-gencatan-senjata-di-gaza"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Gunung Semeru Erupsi, 129 Pendaki di Ranu Kumbolo Dievakuasi",
+      "link_berita": "https://rejogja.republika.co.id/berita/t611cn282/gunung-semeru-erupsi-129-pendaki-di-ranu-kumbolo-dievakuasi"
+    },
+    {
+      "judul": "Pelaku Begal di Tambora Viral, Ditangkap Saat Bersembunyi di Rumah Kekasih",
+      "link_berita": "https://news.republika.co.id/berita/t60z02409/pelaku-begal-di-tambora-viral-ditangkap-saat-bersembunyi-di-rumah-kekasih"
+    },
     {
       "judul": "Kemenaker Bocorkan Formulasi Upah Minimum 2025",
       "link_berita": "https://news.republika.co.id/berita/t60wjh393/kemenaker-bocorkan-formulasi-upah-minimum-2025"
@@ -73,322 +81,314 @@
     {
       "judul": "Harga Emas UBS dan Galeri24 di Pegadaian Kamis Ini Kompak Naik",
       "link_berita": "https://ekonomi.republika.co.id/berita/t604zh423/harga-emas-ubs-dan-galeri24-di-pegadaian-kamis-ini-kompak-naik"
-    },
-    {
-      "judul": "Prabowo Larang Pengerahan Anak Sekolah untuk Menyambutnya Saat Kunjungan Kerja",
-      "link_berita": "https://tv.republika.co.id/berita/t604bl313/prabowo-larang-pengerahan-anak-sekolah-untuk-menyambutnya-saat-kunjungan-kerja"
-    },
-    {
-      "judul": "Gempa Bumi Guncang Kabupaten Bandung Sebanyak 9 Kali Magnitudo Tertinggi 3,4",
-      "link_berita": "https://rejabar.republika.co.id/berita/t601nz512/gempa-bumi-guncang-kabupaten-bandung-sebanyak-9-kali-magnitudo-tertinggi-34"
     }
   ],
   "berita_lainnya": [
     {
-      "judul": "Eks Dirjen Pajak Dicegah terkait Kasus Pengampunan Pajak, Imigrasi: Permintaan Kejagung",
+      "judul": "Catatkan Pertumbuhan 11 Persen, ATB Marie Raih Tiga Besar Penjualan pada Berbagai Jaringan Ritel",
+      "link_berita": "https://ameera.republika.co.id/berita/t60wfu291/catatkan-pertumbuhan-11-persen-atb-marie-raih-tiga-besar-penjualan-pada-berbagai-jaringan-ritel",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:31:08"
+    },
+    {
+      "judul": "Festival SenengMinton Hadir di Semarang, Cari Bibit Pebulu Tangkis Sejak Dini",
+      "link_berita": "https://skor.republika.co.id/posts/721341/festival-seneng-minton-hadir-di-semarang-cari-bibit-pebulu-tangkis-sejak-dini",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:30:08"
+    },
+    {
+      "judul": "Ilmuwan Nuklir Iran Diam-Diam Kunjungi Rusia, Pelajari Teknologi Laser untuk Senjata Nuklir",
+      "link_berita": "https://news.republika.co.id/berita/t611cr409/ilmuwan-nuklir-iran-diamdiam-kunjungi-rusia-pelajari-teknologi-laser-untuk-senjata-nuklir",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:27:08"
+    },
+    {
+      "judul": "Gunung Semeru Erupsi, 129 Pendaki di Ranu Kumbolo Dievakuasi",
+      "link_berita": "https://rejogja.republika.co.id/berita/t611cn282/gunung-semeru-erupsi-129-pendaki-di-ranu-kumbolo-dievakuasi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:27:08"
+    },
+    {
+      "judul": "Bocoran Calon Pelatih Baru Timnas Indonesia, Masih Terikat di Klub dan Tim Nasional Lain",
+      "link_berita": "https://skor.republika.co.id/posts/721330/bocoran-calon-pelatih-baru-timnas-indonesia-masih-terikat-di-klub-dan-tim-nasional-lain",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:10:08"
+    },
+    {
+      "judul": "Dugaan Pidana Kematian Dosen Untag Diselidiki, AKBP Basuki Jadi Saksi Kunci",
+      "link_berita": "https://news.republika.co.id/berita/t61057487/dugaan-pidana-kematian-dosen-untag-diselidiki-akbp-basuki-jadi-saksi-kunci",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:01:08"
+    },
+    {
+      "judul": "Drawing IESF MLBB, Indonesia Gabung Grup yang Relatif Mudah",
+      "link_berita": "https://skor.republika.co.id/posts/721325/drawing-iesf-mlbb-indonesia-gabung-grup-yang-relatif-mudah",
+      "kategori": "Network",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 13:00:08"
+    },
+    {
+      "judul": "KUHAP Baru Atur Restorative Justice, Ini Sembilan Jenis Tindak Pidana yang Dikecualikan",
+      "link_berita": "https://news.republika.co.id/berita/t60zyw409/kuhap-baru-atur-restorative-justice-ini-sembilan-jenis-tindak-pidana-yang-dikecualikan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:57:08"
+    },
+    {
+      "judul": "Musim Dingin Mengancam Gaza, Solidaritas tak Boleh Membeku",
+      "link_berita": "https://analisis.republika.co.id/berita/t60zpz483/musim-dingin-mengancam-gaza-solidaritas-tak-boleh-membeku",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:51:08"
+    },
+    {
+      "judul": "Eks Dirjen Pajak Dicegah Terkait Kasus Pengampunan Pajak, Imigrasi: Permintaan Kejagung",
       "link_berita": "https://news.republika.co.id/berita/t60zj1487/eks-dirjen-pajak-dicegah-terkait-kasus-pengampunan-pajak-imigrasi-permintaan-kejagung",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:47:25"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:47:08"
     },
     {
       "judul": "Pelaku Begal di Tambora Viral, Ditangkap Saat Bersembunyi di Rumah Kekasih",
       "link_berita": "https://news.republika.co.id/berita/t60z02409/pelaku-begal-di-tambora-viral-ditangkap-saat-bersembunyi-di-rumah-kekasih",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:35:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:36:08"
     },
     {
       "judul": "Pemerintah Jajaki Pembentukan Bank Koperasi Baru untuk Perkuat Pembiayaan Desa",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60yu3490/pemerintah-jajaki-pembentukan-bank-koperasi-baru-untuk-perkuat-pembiayaan-desa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Purbaya Sebut Kehadiran Wamenkeu di RDG BI Perkuat Sinergi Fiskal\u2013Moneter",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60yg8490/purbaya-sebut-kehadiran-wamenkeu-di-rdg-bi-perkuat-sinergi-fiskalmoneter",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:23:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Ekosistem Keuangan Syariah Dinilai Atasi Maraknya Pinjaman Ribawi",
       "link_berita": "https://khazanah.republika.co.id/berita/t60yg5483/ekosistem-keuangan-syariah-dinilai-atasi-maraknya-pinjaman-ribawi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:23:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Munas XI MUI Dorong Penguatan Kemandirian Politik, Ekonomi, dan Budaya",
       "link_berita": "https://khazanah.republika.co.id/berita/t60y8x366/munas-xi-mui-dorong-penguatan-kemandirian-politik-ekonomi-dan-budaya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:19:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Rusia Jajaki Kerja Sama dengan PT PAL untuk Produksi Kapal Listrik",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60y5q490/rusia-jajaki-kerja-sama-dengan-pt-pal-untuk-produksi-kapal-listrik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:17:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Senada dengan Hamas, Fatah Nilai Resolusi DK PBB tak Jelas: Tak Bahas Penyatuan Tepi Barat dan Gaza",
       "link_berita": "https://news.republika.co.id/berita/t60y07409/senada-dengan-hamas-fatah-nilai-resolusi-dk-pbb-tak-jelas-tak-bahas-penyatuan-tepi-barat-dan-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:14:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Pakar Kecantikan: Tren Perawatan Tahun 2026 Bergerak ke Arah Treatment Regeneratif",
       "link_berita": "https://rejogja.republika.co.id/berita/t60voq291/pakar-kecantikan-tren-perawatan-tahun-2026-bergerak-ke-arah-treatment-regeneratif",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:11:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Airlangga Ungkap 7 Proyek Waste to Energy Mulai Dibangun Tahun Depan",
       "link_berita": "https://esgnow.republika.co.id/berita/t60xvm490/airlangga-ungkap-7-proyek-waste-to-energy-mulai-dibangun-tahun-depan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:11:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "DPR Harap tak Ada Raja Kembar di Keraton Surakarta",
       "link_berita": "https://rejogja.republika.co.id/berita/t60xve282/dpr-harap-tak-ada-raja-kembar-di-keraton-surakarta",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:11:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "PLN Siapkan Tujuh Lokasi Waste to Energy untuk Proyek Percontohan, Ini Daftarnya",
       "link_berita": "https://esgnow.republika.co.id/berita/t60xj0490/pln-siapkan-tujuh-lokasi-waste-to-energy-untuk-proyek-percontohan-ini-daftarnya",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:03:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Youtuber Sebut Ibu Nabi Adam Siti Annisa, Ini Sanggahan Ketua Komisi Fatwa MUI Jatim",
       "link_berita": "https://khazanah.republika.co.id/berita/t60xgv483/youtuber-sebut-ibu-nabi-adam-siti-annisa-ini-sanggahan-ketua-komisi-fatwa-mui-jatim",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:02:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:32:08"
     },
     {
       "judul": "Dalam Semalam Bandung Diguncang 9 Kali Gempa",
       "link_berita": "https://rejogja.republika.co.id/berita/t60xg8282/dalam-semalam-bandung-diguncang-9-kali-gempa",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 12:02:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "MUI Akui Algoritma dan AI Kini Tantang Otoritas Ulama",
       "link_berita": "https://khazanah.republika.co.id/berita/t60wha366/mui-akui-algoritma-dan-ai-kini-tantang-otoritas-ulama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:54:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Purbaya Klaim Penempatan Dana Pemerintah di Bank Berdampak Positif, Suku Bunga Mulai Turun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60wy3490/purbaya-klaim-penempatan-dana-pemerintah-di-bank-berdampak-positif-suku-bunga-mulai-turun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:51:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Menpora Erick Apresiasi Sinergi Lintas Sektor Sukseskan MotoGP Mandalika 2025",
       "link_berita": "https://news.republika.co.id/berita/t60wvg348/menpora-erick-apresiasi-sinergi-lintas-sektor-sukseskan-motogp-mandalika-2025",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:49:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "FPHJ Dukung Dedi Mulyadi yang Melarang Alih Fungsi Lahan di Kawasan Hutan",
       "link_berita": "https://rejabar.republika.co.id/berita/t60wpl512/fphj-dukung-dedi-mulyadi-yang-melarang-alih-fungsi-lahan-di-kawasan-hutan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Bakal Terapkan Bea Keluar Emas, Purbaya Incar Penerimaan Naik Hingga Rp6 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60wom490/bakal-terapkan-bea-keluar-emas-purbaya-incar-penerimaan-naik-hingga-rp6-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Korban Meninggal Longsor Banjarnegara Bertambah Jadi 3 Orang, 25 Orang Masih Hilang",
       "link_berita": "https://rejogja.republika.co.id/berita/t60wnr282/korban-meninggal-longsor-banjarnegara-bertambah-jadi-3-orang-25-orang-masih-hilang",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Kemenaker Bocorkan Formulasi Upah Minimum 2025",
       "link_berita": "https://news.republika.co.id/berita/t60wjh393/kemenaker-bocorkan-formulasi-upah-minimum-2025",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "PSSI Umumkan Nova Arianto Sebagai Pelatih Timnas Indonesia U-20, Ini Alasan Penunjukannya",
       "link_berita": "https://news.republika.co.id/berita/t60wdl348/pssi-umumkan-nova-arianto-sebagai-pelatih-timnas-indonesia-u20-ini-alasan-penunjukannya",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Coway Indonesia Teruskan Program CSR 'Journey to Purity' lewat Donasi ke Yayasan dan Masjid",
       "link_berita": "https://esgnow.republika.co.id/berita/t60u5l291/coway-indonesia-teruskan-program-csr-journey-to-purity-lewat-donasi-ke-yayasan-dan-masjid",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Mendag Jamin Program MBG tak Pengaruhi Lonjakan Harga Barang Pokok",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60w60490/mendag-jamin-program-mbg-tak-pengaruhi-lonjakan-harga-barang-pokok",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Tebalnya Material Longsor di Cilacap Persulit Pencarian Korban yang Tertimbun",
       "link_berita": "https://rejogja.republika.co.id/berita/t60w20282/tebalnya-material-longsor-di-cilacap-persulit-pencarian-korban-yang-tertimbun",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Para Akademisi Desak Polri Taati MK, Mundur dari Rangkap Jabatan atau Pensiun",
       "link_berita": "https://news.republika.co.id/berita/t60vqj393/para-akademisi-desak-polri-taati-mk-mundur-dari-rangkap-jabatan-atau-pensiun",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Perusahaan Rusia Minati Investasi Pulp dan Kertas di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60vpt490/perusahaan-rusia-minati-investasi-pulp-dan-kertas-di-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Langgar Gencatan, Israel Perluas Pencaplokan Gaza",
       "link_berita": "https://news.republika.co.id/berita/t60v3f393/langgar-gencatan-israel-perluas-pencaplokan-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Dilarang Beroperasi di Jogja, Maxride Blak-blakan Soal Regulasi dan Tuduhan tak Kantongi Izin",
       "link_berita": "https://rejogja.republika.co.id/berita/t60uz6291/dilarang-beroperasi-di-jogja-maxride-blakblakan-soal-regulasi-dan-tuduhan-tak-kantongi-izin",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Wamenkeu Ungkap Realisasi Penerimaan Pajak Turun 3,8 Persen, Kinerja PPh Anjlok",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60uwq490/wamenkeu-ungkap-realisasi-penerimaan-pajak-turun-38-persen-kinerja-pph-anjlok",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Vaksin HPV NusaGard untuk Cegah Kanker Serviks, Dapat Sertifikat Halal dari BPJPH",
       "link_berita": "https://rejabar.republika.co.id/berita/t60uvt512/vaksin-hpv-nusagard-untuk-cegah-kanker-serviks-dapat-sertifikat-halal-dari-bpjph",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "AFC Ingatkan Sepak Bola Malaysia Bisa Dibekukan FIFA",
       "link_berita": "https://news.republika.co.id/berita/t60upf409/afc-ingatkan-sepak-bola-malaysia-bisa-dibekukan-fifa",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 11:32:08"
     },
     {
       "judul": "Pihak Keluarga Melawan dan Meminta Autopsi, Isi Sederet Kejanggalan Kematian Dosen Untag",
       "link_berita": "https://news.republika.co.id/berita/t60uo0487/pihak-keluarga-melawan-dan-meminta-autopsi-isi-sederet-kejanggalan-kematian-dosen-untag",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Resmi, PSSI Seleksi 5 Nama untuk Jadi Pelatih Baru Timnas Indonesia",
       "link_berita": "https://skor.republika.co.id/posts/721285/resmi-pssi-seleksi-5-nama-untuk-jadi-pelatih-baru-timnas-indonesia",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Kemenhub Resmikan Trans Manado, Ini Rute dan Fasilitasnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60udu416/kemenhub-resmikan-trans-manado-ini-rute-dan-fasilitasnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Gebrakan Baru Purbaya, Anggaran Rp3,5 Triliun tak Terserap Bakal Dialihkan ke Program Lain",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60uc7490/gebrakan-baru-purbaya-anggaran-rp35-triliun-tak-terserap-bakal-dialihkan-ke-program-lain",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "DPR Dorong Bobibos Jadi Alternatif Energi Baru, Tunggu Hasil Uji Kelayakan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60u7t370/dpr-dorong-bobibos-jadi-alternatif-energi-baru-tunggu-hasil-uji-kelayakan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Dokter Soroti Lonjakan Gangguan Kecemasan dan Depresi pada Remaja",
       "link_berita": "https://ameera.republika.co.id/berita/t60u03425/dokter-soroti-lonjakan-gangguan-kecemasan-dan-depresi-pada-remaja",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Purbaya Heran BTN Minta Tambahan Dana, Surat Permohonan Belum Masuk",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60tyb490/purbaya-heran-btn-minta-tambahan-dana-surat-permohonan-belum-masuk",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Jelang Tutup Tahun, Serapan Anggaran Makan Bergizi Gratis Baru 58 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/t60tou490/jelang-tutup-tahun-serapan-anggaran-makan-bergizi-gratis-baru-58-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
       "judul": "Kejati Jabar Terima Berkas Kasus Pencemaran Nama Baik RK oleh Lisa Mariana",
       "link_berita": "https://rejabar.republika.co.id/berita/t60tkl512/kejati-jabar-terima-berkas-kasus-pencemaran-nama-baik-rk-oleh-lisa-mariana",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:32:08"
     },
     {
-      "judul": "Pakar ITB Dukung Transfer Teknologi Proyek Pemetaan Nasional",
-      "link_berita": "https://news.republika.co.id/berita/t60tit484/pakar-itb-dukung-transfer-teknologi-proyek-pemetaan-nasional",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
-    },
-    {
-      "judul": "Investasi Hilirisasi Tembus Rp 431,4 Triliun, Pemerintah Tegaskan Larangan Ekspor Bahan Mentah",
-      "link_berita": "https://rejogja.republika.co.id/berita/t60t9j291/investasi-hilirisasi-tembus-rp-4314-triliun-pemerintah-tegaskan-larangan-ekspor-bahan-mentah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
-    },
-    {
-      "judul": "UNICEF: 50 Persen Anak Indonesia Terpapar Konten Dewasa, DPR Minta Sistem Perlindungan Diperketat",
-      "link_berita": "https://republika.co.id/berita//t60t1o349/unicef-50-persen-anak-indonesia-terpapar-konten-dewasa-dpr-minta-sistem-perlindungan-diperketat",
-      "kategori": "Dpr Ri",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
-    },
-    {
-      "judul": "Kumpulkan Puluhan Pakar Tafsir, Kemenag Gelar Ijtimak Ulama Tafsir Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/t60sut483/kumpulkan-puluhan-pakar-tafsir-kemenag-gelar-ijtimak-ulama-tafsir-alquran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
-    },
-    {
-      "judul": "Warga Jabar Banyak yang jadi Korban TPPO, Dedi Mulyadi akan Buat Aturan Khusus",
-      "link_berita": "https://rejabar.republika.co.id/berita/t60ssm512/warga-jabar-banyak-yang-jadi-korban-tppo-dedi-mulyadi-akan-buat-aturan-khusus",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
-    },
-    {
-      "judul": "Stok BBM Nasional Aman 18 Hari, Pemerintah Pastikan Pasokan Tetap Terjaga",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t60srk370/stok-bbm-nasional-aman-18-hari-pemerintah-pastikan-pasokan-tetap-terjaga",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 10:47:56"
-    },
-    {
-      "judul": "DPK Bank Mega Syariah Tumbuh 16,9 Persen di Tengah Tren Penurunan Suku Bunga",
-      "link_berita": "https://sharia.republika.co.id/berita/t60skc349/dpk-bank-mega-syariah-tumbuh-169-persen-di-tengah-tren-penurunan-suku-bunga",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 09:47:56"
-    },
-    {
-      "judul": "Artis Korea Kim Woo-bin dan Shin Min-ah akan Menikah 10 Desember",
-      "link_berita": "https://ameera.republika.co.id/berita/t60sd0425/artis-korea-kim-woobin-dan-shin-minah-akan-menikah-10-desember",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 09:47:56"
-    },
-    {
-      "judul": "Akankah Pelanggan Dapat Kompensasi Akibat Gangguan Kelistrikan? Ini Jawaban MRT Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/t60sbz409/akankah-pelanggan-dapat-kompensasi-akibat-gangguan-kelistrikan-ini-jawaban-mrt-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 09:47:56"
-    },
-    {
-      "judul": "Dokter Soroti Lonjakan Gangguan Kecemasan dan Depresi pada Remaja",
-      "link_berita": "https://ameera.republika.co.id/berita/t60u03425/dokter-soroti-lonjakan-gangguan-kecemasan-dan-depresi-pada-remaja",
-      "kategori": "Health",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 17:48:00"
+      "judul": "Catatkan Pertumbuhan 11 Persen, ATB Marie Raih Tiga Besar Penjualan pada Berbagai Jaringan Ritel",
+      "link_berita": "https://ameera.republika.co.id/berita/t60wfu291/catatkan-pertumbuhan-11-persen-atb-marie-raih-tiga-besar-penjualan-pada-berbagai-jaringan-ritel",
+      "kategori": "Happening",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 20:31:00"
     },
     {
       "judul": "Airlangga Ungkap 7 Proyek Waste to Energy Mulai Dibangun Tahun Depan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 20 Nov 2025, 17:17:00"
     },
     {
-      "judul": "Eks Dirjen Pajak Dicegah terkait Kasus Pengampunan Pajak, Imigrasi: Permintaan Kejagung",
-      "link_berita": "https://news.republika.co.id/berita/t60zj1487/eks-dirjen-pajak-dicegah-terkait-kasus-pengampunan-pajak-imigrasi-permintaan-kejagung",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 20 Nov 2025, 19:47:00"
+      "judul": "Ilmuwan Nuklir Iran Diam-Diam Kunjungi Rusia, Pelajari Teknologi Laser untuk Senjata Nuklir",
+      "link_berita": "https://news.republika.co.id/berita/t611cr409/ilmuwan-nuklir-iran-diamdiam-kunjungi-rusia-pelajari-teknologi-laser-untuk-senjata-nuklir",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 20 Nov 2025, 20:26:00"
     }
   ],
-  "waktu_scraping": "Thursday, 20 Nov 2025, 19:47:56"
+  "waktu_scraping": "Thursday, 20 Nov 2025, 20:32:08"
 }
