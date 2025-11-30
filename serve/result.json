@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Salurkan Logistik dan Bantuan ke Aceh, BNPB Tempuh Jalur Laut",
+      "link_berita": "https://news.republika.co.id/berita/t6j96n458/salurkan-logistik-dan-bantuan-ke-aceh-bnpb-tempuh-jalur-laut"
+    },
+    {
       "judul": "Jumlah WNI Korban Tewas di Kebakaran Hong Kong Bertambah Jadi 9 Orang",
       "link_berita": "https://news.republika.co.id/berita/t6j5gr502/jumlah-wni-korban-tewas-di-kebakaran-hong-kong-bertambah-jadi-9-orang"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Bantuan Obat dari Malaysia Tiba di Aceh",
       "link_berita": "https://news.republika.co.id/berita/t6iyfq328/bantuan-obat-dari-malaysia-tiba-di-aceh"
-    },
-    {
-      "judul": "KRI RS TNI Berangkat dari Jakarta ke Sumatera Respons Bencana",
-      "link_berita": "https://news.republika.co.id/berita/t6ivsd328/kri-rs-tni-berangkat-dari-jakarta-ke-sumatera-respons-bencana"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kementrans Tangani 5 Kawasan Transmigrasi Terdampak Bencana di Aceh",
+      "link_berita": "https://news.republika.co.id/berita/t6j9xs458/kementrans-tangani-5-kawasan-transmigrasi-terdampak-bencana-di-aceh"
+    },
     {
       "judul": "Rais Aam Ambil Alih Kepemimpinan PBNU di Tengah 'Manuver' Gus Yahya",
       "link_berita": "https://news.republika.co.id/berita/t6j65x409/rais-aam-ambil-alih-kepemimpinan-pbnu-di-tengah-manuver-gus-yahya"
@@ -77,343 +81,339 @@
     {
       "judul": "Tiga Personel TNI AD Hilang di Padang Panjang, Dua Ditemukan Sudah Gugur",
       "link_berita": "https://news.republika.co.id/berita/t6hlao484/tiga-personel-tni-ad-hilang-di-padang-panjang-dua-ditemukan-sudah-gugur"
-    },
-    {
-      "judul": "Ketum PKB Prihatin Konflik Saling Pecat di PBNU",
-      "link_berita": "https://news.republika.co.id/berita/t6hfkw484/ketum-pkb-prihatin-konflik-saling-pecat-di-pbnu"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Said Abdullah Sampaikan Ungkapan Batin Warga Nahdliyin Sikapi Konflik PBNU",
+      "link_berita": "https://khazanah.republika.co.id/berita/t6jbgl320/said-abdullah-sampaikan-ungkapan-batin-warga-nahdliyin-sikapi-konflik-pbnu",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Hijrah ke Thailand, Terungkap Klub Baru Rivan Nurmulki",
+      "link_berita": "https://news.republika.co.id/berita/t6jb90409/hijrah-ke-thailand-terungkap-klub-baru-rivan-nurmulki",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "AMITRA dan BPKH Jalin Kerja Sama untuk Perkuat Layanan Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/t6jb4r368/amitra-dan-bpkh-jalin-kerja-sama-untuk-perkuat-layanan-haji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Menteri UMKM: Substitusi Pedagang Thrifting Dilakukan Bertahap",
+      "link_berita": "https://news.republika.co.id/berita/t6jb24458/menteri-umkm-substitusi-pedagang-thrifting-dilakukan-bertahap",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Pembiayaan untuk Koperasi Syariah Hanya Rp4,5 triliun Dalam 5 Tahun",
+      "link_berita": "https://sharia.republika.co.id/berita/t6jb1a502/pembiayaan-untuk-koperasi-syariah-hanya-rp45-triliun-dalam-5-tahun",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "\u200eLayanan HIV yang Adaptif dan Inklusif Bisa Tingkatkan Kesehatan Publik",
+      "link_berita": "https://ameera.republika.co.id/berita/t6jarv522/layanan-hiv-yang-adaptif-dan-inklusif-bisa-tingkatkan-kesehatan-publik",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Pakar: Indonesia Perlu Regulasi 'Paspor' Baterai EV",
+      "link_berita": "https://esgnow.republika.co.id/berita/t6jall458/pakar-indonesia-perlu-regulasi-paspor-baterai-ev",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "32 Orang Meninggal Akibat Banjir dan Longsor Sibolga, 65 Lainnya Masih dalam Pencarian",
+      "link_berita": "https://visual.republika.co.id/berita/t6j9lu375/32-orang-meninggal-akibat-banjir-dan-longsor-sibolga-65-lainnya-masih-dalam-pencarian",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "UNICEF: 9.300 Balita di Gaza Didiagnosis Alami Malnutrisi Akut Parah",
+      "link_berita": "https://news.republika.co.id/berita/t6ja19409/unicef-9300-balita-di-gaza-didiagnosis-alami-malnutrisi-akut-parah",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Kementrans Tangani 5 Kawasan Transmigrasi Terdampak Bencana di Aceh",
+      "link_berita": "https://news.republika.co.id/berita/t6j9xs458/kementrans-tangani-5-kawasan-transmigrasi-terdampak-bencana-di-aceh",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Bagaimana Seharusnya Sistem Kelola Baterai EV Bekas? Begini Saran Pakar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t6j9ud502/bagaimana-seharusnya-sistem-kelola-baterai-ev-bekas-begini-saran-pakar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Aksi Donor Darah untuk Korban Bencana Alam di Sumatera",
+      "link_berita": "https://visual.republika.co.id/berita/t6j9c6375/aksi-donor-darah-untuk-korban-bencana-alam-di-sumatera",
+      "kategori": "Visual",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
+      "judul": "Salurkan Logistik dan Bantuan ke Aceh, BNPB Tempuh Jalur Laut",
+      "link_berita": "https://news.republika.co.id/berita/t6j96n458/salurkan-logistik-dan-bantuan-ke-aceh-bnpb-tempuh-jalur-laut",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
+    },
+    {
       "judul": "Alasan M4 Jadi Senjata Favorit Para Pemain PUBG Mobile",
       "link_berita": "https://skor.republika.co.id/posts/725231/alasan-m4-jadi-senjata-favorit-para-pemain-pubg-mobile",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Belum Punya Kantor, Kanwil Kemenhaj di Majalengka 'Pinjam' Aset Kemenag",
       "link_berita": "https://rejabar.republika.co.id/berita/t6j86g458/belum-punya-kantor-kanwil-kemenhaj-di-majalengka-pinjam-aset-kemenag",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Mahasiswa Filipina Puji Atmosfer Belajar UBSI yang Ramah dan Modern",
       "link_berita": "https://news.republika.co.id/berita/t6j7gj368/mahasiswa-filipina-puji-atmosfer-belajar-ubsi-yang-ramah-dan-modern",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Banjir Bandang di Sumatera, Pentingnya Ekosistem Hulu dan DAS Sebagai Nadi Keseimbangan Iklim",
       "link_berita": "https://esgnow.republika.co.id/berita/t6j80l522/banjir-bandang-di-sumatera-pentingnya-ekosistem-hulu-dan-das-sebagai-nadi-keseimbangan-iklim",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "IS2P Latih Jurnalis Telaah Laporan Keberlanjutan",
       "link_berita": "https://esgnow.republika.co.id/berita/t6j7rp416/is2p-latih-jurnalis-telaah-laporan-keberlanjutan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Danantara Dinilai Bisa Jadi Motor Pembiayaan Industri Halal Nasional",
       "link_berita": "https://sharia.republika.co.id/berita/t6j7rn423/danantara-dinilai-bisa-jadi-motor-pembiayaan-industri-halal-nasional",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Puji Kualitas Chelsea, Mikel Arteta Tak Mau Arsenal Kecolongan",
       "link_berita": "https://skor.republika.co.id/posts/725225/puji-kualitas-chelsea-mikel-arteta-tak-mau-arsenal-kecolongan",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Bea Keluar Batu Bara Bisa Danai Program 100 GW Energi Surya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t6j7gn423/bea-keluar-batu-bara-bisa-danai-program-100-gw-energi-surya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Mahasiswa UNP Filipina Ceritakan Pengalaman Seru Selama Belajar di UBSI",
       "link_berita": "https://news.republika.co.id/berita/t6j7ax368/mahasiswa-unp-filipina-ceritakan-pengalaman-seru-selama-belajar-di-ubsi",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Banjir Sumatra, ICMI Ingatkan Pentingnya Mitigasi Risiko Bencana Berbasis Data Ilmiah",
       "link_berita": "https://news.republika.co.id/berita/t6j70v368/banjir-sumatra-icmi-ingatkan-pentingnya-mitigasi-risiko-bencana-berbasis-data-ilmiah",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Parlemen UE Dukung Resolusi Batas Usia Pakai Media Sosial, Mulai 16 Tahun",
       "link_berita": "https://news.republika.co.id/berita/t6h22h7315000/parlemen-ue-dukung-resolusi-batas-usia-pakai-media-sosial-mulai-16-tahun",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Menhan: Tidak Perlu Rapat tapi Gerak Cepat Distribusi Bantuan",
       "link_berita": "https://tv.republika.co.id/berita/t6j676313/menhan-tidak-perlu-rapat-tapi-gerak-cepat-distribusi-bantuan",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Rais Aam Ambil Alih Kepemimpinan PBNU di Tengah 'Manuver' Gus Yahya",
       "link_berita": "https://news.republika.co.id/berita/t6j65x409/rais-aam-ambil-alih-kepemimpinan-pbnu-di-tengah-manuver-gus-yahya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Wamenlu: Koordinasi Pengiriman Pasukan Perdamaian Gaza Masih Berlanjut",
       "link_berita": "https://news.republika.co.id/berita/t6j5v1502/wamenlu-koordinasi-pengiriman-pasukan-perdamaian-gaza-masih-berlanjut",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Jumlah WNI Korban Tewas di Kebakaran Hong Kong Bertambah Jadi 9 Orang",
       "link_berita": "https://news.republika.co.id/berita/t6j5gr502/jumlah-wni-korban-tewas-di-kebakaran-hong-kong-bertambah-jadi-9-orang",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Kemensos Salurkan Logistik Senilai Rp12,1 M untuk Korban Banjir di Sumatra",
       "link_berita": "https://news.republika.co.id/berita/t6j4cl458/kemensos-salurkan-logistik-senilai-rp121-m-untuk-korban-banjir-di-sumatra",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Washington Tekan Zelenskyy Segera Capai Kesepakatan Akhiri Perang dengan Rusia",
       "link_berita": "https://news.republika.co.id/berita/t6j477409/washington-tekan-zelenskyy-segera-capai-kesepakatan-akhiri-perang-dengan-rusia",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Megawati Hangestri Masuk Skuad Timnas Voli Putri untuk SEA Games 2025",
       "link_berita": "https://news.republika.co.id/berita/t6j3y6409/megawati-hangestri-masuk-skuad-timnas-voli-putri-untuk-sea-games-2025",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Danantara Masih Wait and See Soal Rencana Merger GoTo-Grab",
       "link_berita": "https://ekonomi.republika.co.id/berita/t6j3ge423/danantara-masih-wait-and-see-soal-rencana-merger-gotograb",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "KAI Salurkan Bantuan untuk Korban Bencana di Sumatra",
       "link_berita": "https://esgnow.republika.co.id/berita/t6j3ff458/kai-salurkan-bantuan-untuk-korban-bencana-di-sumatra",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Kejagung Cabut Status Pencegahan ke Luar Negeri Terhadap Bos Djarum Terkait Kasus Pajak",
       "link_berita": "https://news.republika.co.id/berita/t6j386409/kejagung-cabut-status-pencegahan-ke-luar-negeri-terhadap-bos-djarum-terkait-kasus-pajak",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Menjaga Lingkungan Itu Bagian dari Menjaga Agama",
       "link_berita": "https://khazanah.republika.co.id/berita/t6j2zs458/menjaga-lingkungan-itu-bagian-dari-menjaga-agama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Pertamina Patra Niaga All Out Pulihkan Distribusi Energi, Pastikan Dukungan Penanggulangan Bencana",
       "link_berita": "https://esgnow.republika.co.id/berita/t6j2t5522/pertamina-patra-niaga-all-out-pulihkan-distribusi-energi-pastikan-dukungan-penanggulangan-bencana",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Titiek Soeharto dan Didit Prabowo Tinjau Langsung Pengungsian Korban Banjir Aceh",
       "link_berita": "https://news.republika.co.id/berita/t6j2om522/titiek-soeharto-dan-didit-prabowo-tinjau-langsung-pengungsian-korban-banjir-aceh",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "The Death Toll from the Disaster in Aceh, North Sumatra and West Sumatra Reached 303 Lives",
       "link_berita": "https://en.republika.co.id/berita/t6izd6415/the-death-toll-from-the-disaster-in-aceh-north-sumatra-and-west-sumatra-reached-303-lives",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Helikopter BNPB Antar Bantuan ke Warga Terisolasi di Sihaporas",
       "link_berita": "https://news.republika.co.id/berita/t6j0pz348/helikopter-bnpb-antar-bantuan-ke-warga-terisolasi-di-sihaporas",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Antrean Haji Nasional Menjadi 26,4 Tahun",
       "link_berita": "https://khazanah.republika.co.id/berita/t6izp0430/antrean-haji-nasional-menjadi-264-tahun",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Islam Ajarkan Manusia Mencintai Lingkungan Termasuk Makhluk Hidup dan Mati",
       "link_berita": "https://iqra.republika.co.id/berita/t6izjc430/islam-ajarkan-manusia-mencintai-lingkungan-termasuk-makhluk-hidup-dan-mati",
       "kategori": "Iqra",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Prediksi dan Link Live Streaming Chelsea vs Arsenal di Liga Inggris 2025-2026",
       "link_berita": "https://skor.republika.co.id/posts/725151/prediksi-dan-link-live-streaming-chelsea-vs-arsenal-di-liga-inggris-2025-2026",
       "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "BNPB: Latest Data 166 Deaths Due to Disaster in North Sumatra",
       "link_berita": "https://en.republika.co.id/berita/t6iz6r415/bnpb-latest-data-166-deaths-due-to-disaster-in-north-sumatra",
       "kategori": "En",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Anggota DPRA Desak Pemerintah Tetapkan Status Bencana Nasional di Aceh",
       "link_berita": "https://news.republika.co.id/berita/t6iz5y348/anggota-dpra-desak-pemerintah-tetapkan-status-bencana-nasional-di-aceh",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "BNPB Kirim Bantuan via Udara ke Aceh",
       "link_berita": "https://tv.republika.co.id/berita/t6iyme313/bnpb-kirim-bantuan-via-udara-ke-aceh",
       "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Bantuan Obat dari Malaysia Tiba di Aceh",
       "link_berita": "https://news.republika.co.id/berita/t6iyfq328/bantuan-obat-dari-malaysia-tiba-di-aceh",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Dukung Transformasi Digital Bisnis, Oxygen.id Hadirkan Talkxygen di Serang dan Pekanbaru",
       "link_berita": "https://ekonomi.republika.co.id/berita/t6iy88368/dukung-transformasi-digital-bisnisoxygenid-hadirkan-talkxygen-di-serang-dan-pekanbaru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Presiden Putin Sampaikan Duka Cita atas Banjir Sumatera",
       "link_berita": "https://news.republika.co.id/berita/t6iy7h328/presiden-putin-sampaikan-duka-cita-atas-banjir-sumatera",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "Musofa, Badak Jawa Hasil Translokasi, Wafat Akibat Penyakit Kronis Bawaan",
       "link_berita": "https://esgnow.republika.co.id/berita/t6iy24423/musofa-badak-jawa-hasil-translokasi-wafat-akibat-penyakit-kronis-bawaan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
       "judul": "IHSG Menguat ke Level 8.508, Kapitalisasi Pasar Naik Jadi Rp 15.626 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t6ix72423/ihsg-menguat-ke-level-8508-kapitalisasi-pasar-naik-jadi-rp-15626-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:22:35"
     },
     {
-      "judul": "Purbaya Pede Pertumbuhan Ekonomi 2026 Bakal Tembus 6 Persen",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t6ix5l328/purbaya-pede-pertumbuhan-ekonomi-2026-bakal-tembus-6-persen",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
+      "judul": "\u200eLayanan HIV yang Adaptif dan Inklusif Bisa Tingkatkan Kesehatan Publik",
+      "link_berita": "https://ameera.republika.co.id/berita/t6jarv522/layanan-hiv-yang-adaptif-dan-inklusif-bisa-tingkatkan-kesehatan-publik",
+      "kategori": "Health",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 17:07:00"
     },
     {
-      "judul": "Perusahaan Didorong Ubah Tantangan Menjadi Peluang Lewat ESG Initiative Awards 2025",
-      "link_berita": "https://esgnow.republika.co.id/berita/t6iwsx423/perusahaan-didorong-ubah-tantangan-menjadi-peluang-lewat-esg-initiative-awards-2025",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Menhan Minta Distribusi Logistik untuk Korban Banjir di Sumatera Dipercepat",
-      "link_berita": "https://tv.republika.co.id/berita/t6iwfk313/menhan-minta-distribusi-logistik-untuk-korban-banjir-di-sumatera-dipercepat",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Pemerintah Percepat Penanganan Tiga Ruas Tol Terdampak di Sumatra",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t6ivx9423/pemerintah-percepat-penanganan-tiga-ruas-tol-terdampak-di-sumatra",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "KRI RS TNI Berangkat dari Jakarta ke Sumatera Respons Bencana",
-      "link_berita": "https://news.republika.co.id/berita/t6ivsd328/kri-rs-tni-berangkat-dari-jakarta-ke-sumatera-respons-bencana",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "JMTV Kembali Hadirkan Turnamen Padel Bertajuk THe juaRA 3",
-      "link_berita": "https://skor.republika.co.id/posts/725130/jmtv-kembali-hadirkan-turnamen-padel-bertajuk-t-he-jua-ra-3",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Rebut Puncak Klasemen La Liga, Barcelona Buat Catatan Gol Beruntun",
-      "link_berita": "https://skor.republika.co.id/posts/725129/rebut-puncak-klasemen-la-liga-barcelona-buat-catatan-gol-beruntun",
-      "kategori": "Network",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "KJRI Siapkan Tim Pemulangan WNI Korban Kebakaran Hong Kong",
-      "link_berita": "https://news.republika.co.id/berita/t6iveu328/kjri-siapkan-tim-pemulangan-wni-korban-kebakaran-hong-kong",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Dompet Dhuafa Fokuskan Respons Darurat di Sumatra",
-      "link_berita": "https://news.republika.co.id/berita/t6isn1430/dompet-dhuafa-fokuskan-respons-darurat-di-sumatra",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Waskita Lepas Saham Tol Cimanggis\u2013Cibitung Rp 3,28 Triliun untuk Perkuat Keuangan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t6iurd423/waskita-lepas-saham-tol-cimanggiscibitung-rp-328-triliun-untuk-perkuat-keuangan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "BNPB Akui Masih Sulitnya Mengakses Titik Bencana di Sumut",
-      "link_berita": "https://news.republika.co.id/berita/t6iudf328/bnpb-akui-masih-sulitnya-mengakses-titik-bencana-di-sumut",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Data Korban Meninggal Bencana di Aceh, Sumut, dan Sumbar Terus Bertambah",
-      "link_berita": "https://tv.republika.co.id/berita/t6iu4g313/data-korban-meninggal-bencana-di-aceh-sumut-dan-sumbar-terus-bertambah",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Trump Ancam Gunakan Kekuatan Militer Jika Maduro tidak Mundur",
-      "link_berita": "https://news.republika.co.id/berita/t6iu2w328/trump-ancam-gunakan-kekuatan-militer-jika-maduro-tidak-mundur",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 09:21:46"
-    },
-    {
-      "judul": "Ji Chang Wook Sampaikan Belasungkawa Korban Bencana Sumatra",
-      "link_berita": "https://ameera.republika.co.id/berita/t6iqvc423/ji-chang-wook-sampaikan-belasungkawa-korban-bencana-sumatra",
-      "kategori": "Happening",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 10:00:00"
-    },
-    {
-      "judul": "Banjir Bandang di Sumatera, Pentingnya Ekosistem Hulu dan DAS Sebagai Nadi Keseimbangan Iklim",
-      "link_berita": "https://esgnow.republika.co.id/berita/t6j80l522/banjir-bandang-di-sumatera-pentingnya-ekosistem-hulu-dan-das-sebagai-nadi-keseimbangan-iklim",
+      "judul": "Pakar: Indonesia Perlu Regulasi 'Paspor' Baterai EV",
+      "link_berita": "https://esgnow.republika.co.id/berita/t6jall458/pakar-indonesia-perlu-regulasi-paspor-baterai-ev",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 16:07:00"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 17:03:00"
     },
     {
-      "judul": "Bea Keluar Batu Bara Bisa Danai Program 100 GW Energi Surya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t6j7gn423/bea-keluar-batu-bara-bisa-danai-program-100-gw-energi-surya",
-      "kategori": "Energi",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 15:55:00"
+      "judul": "Bagaimana Seharusnya Sistem Kelola Baterai EV Bekas? Begini Saran Pakar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t6j9ud502/bagaimana-seharusnya-sistem-kelola-baterai-ev-bekas-begini-saran-pakar",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 16:47:00"
     },
     {
-      "judul": "Danantara Dinilai Bisa Jadi Motor Pembiayaan Industri Halal Nasional",
-      "link_berita": "https://sharia.republika.co.id/berita/t6j7rn423/danantara-dinilai-bisa-jadi-motor-pembiayaan-industri-halal-nasional",
+      "judul": "Pembiayaan untuk Koperasi Syariah Hanya Rp4,5 triliun Dalam 5 Tahun",
+      "link_berita": "https://sharia.republika.co.id/berita/t6jb1a502/pembiayaan-untuk-koperasi-syariah-hanya-rp45-triliun-dalam-5-tahun",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 16:02:00"
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 17:12:00"
     },
     {
-      "judul": "Mahasiswa Filipina Puji Atmosfer Belajar UBSI yang Ramah dan Modern",
-      "link_berita": "https://news.republika.co.id/berita/t6j7gj368/mahasiswa-filipina-puji-atmosfer-belajar-ubsi-yang-ramah-dan-modern",
-      "kategori": "Bina Sarana Informatika",
-      "tanggal_terbit": "Sunday, 30 Nov 2025, 16:08:00"
+      "judul": "Hijrah ke Thailand, Terungkap Klub Baru Rivan Nurmulki",
+      "link_berita": "https://news.republika.co.id/berita/t6jb90409/hijrah-ke-thailand-terungkap-klub-baru-rivan-nurmulki",
+      "kategori": "Sport",
+      "tanggal_terbit": "Sunday, 30 Nov 2025, 17:17:00"
     }
   ],
-  "waktu_scraping": "Sunday, 30 Nov 2025, 16:21:46"
+  "waktu_scraping": "Sunday, 30 Nov 2025, 17:22:35"
 }
