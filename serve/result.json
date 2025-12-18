@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "KPK Gelar OTT di Banten, Lima Orang Ditangkap",
+      "link_berita": "https://news.republika.co.id/berita/t7g2iq409/kpk-gelar-ott-di-banten-lima-orang-ditangkap"
+    },
+    {
+      "judul": "TPA Cipeucang Masih Ditutup untuk Penataan, Ditargetkan Kembali Beroperasi Akhir Desember",
+      "link_berita": "https://visual.republika.co.id/berita/t7fz7d375/tpa-cipeucang-masih-ditutup-untuk-penataan-ditargetkan-kembali-beroperasi-akhir-desember"
+    },
+    {
       "judul": "Jadwal Hari Kesembilan SEA Games 2025: Indonesia Butuh Delapan Emas untuk Penuhi Target",
       "link_berita": "https://news.republika.co.id/berita/t7fy8y348/jadwal-hari-kesembilan-sea-games-2025-indonesia-butuh-delapan-emas-untuk-penuhi-target"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Laporan Majalah Inggris, Pakistan Tembak Jatuh 4 Jet Rafale India",
       "link_berita": "https://news.republika.co.id/berita/t7ft0s484/laporan-majalah-inggris-pakistan-tembak-jatuh-4-jet-rafale-india"
-    },
-    {
-      "judul": "Jubir Otorita IKN: Bapak Basuki Hadimuljono Minta Maaf",
-      "link_berita": "https://news.republika.co.id/berita/t7fr5g484/jubir-otorita-ikn-bapak-basuki-hadimuljono-minta-maaf"
-    },
-    {
-      "judul": "Raih Sembilan Medali Emas, Tim Atletik Indonesia Lampaui Target SEA Games 2025",
-      "link_berita": "https://news.republika.co.id/berita/t7fp3i291/raih-sembilan-medali-emas-tim-atletik-indonesia-lampaui-target-sea-games-2025"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Harga Cabai Rawit Meroket Tembus Rp 95.000 per Kg, di Cirebon Capai Rp 100 Ribu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7g2f5423/harga-cabai-rawit-meroket-tembus-rp-95000-per-kgdi-cirebon-capai-rp-100-ribu"
+    },
+    {
+      "judul": "Potensi Medali SEA Games Hari Ini: Panahan, Perahu Naga, dan Gulat Potensi Sumbang Emas",
+      "link_berita": "https://news.republika.co.id/berita/t7fyo9348/potensi-medali-sea-games-hari-ini-panahan-perahu-naga-dan-gulat-potensi-sumbang-emas"
+    },
     {
       "judul": "Arah Kebijakan Moneter BI 2026, Perluas Likuiditas dan Jaga Stabilitas Rupiah",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7fxn4423/arah-kebijakan-moneter-bi-2026-perluas-likuiditas-dan-jaga-stabilitas-rupiah"
@@ -73,316 +81,308 @@
     {
       "judul": "Anies Dikukuhkan Menjadi Anggota Pertama Ormas Gerakan Rakyat",
       "link_berita": "https://news.republika.co.id/berita/t7ev6z377/anies-dikukuhkan-menjadi-anggota-pertama-ormas-gerakan-rakyat"
-    },
-    {
-      "judul": "Resbob Pembuat Konten Hina Suku Sunda Dijerat Pasal UU ITE, Ancaman Hingga 10 Tahun Penjara",
-      "link_berita": "https://news.republika.co.id/berita/t7esva409/resbob-pembuat-konten-hina-suku-sunda-dijerat-pasal-uu-ite-ancaman-hingga-10-tahun-penjara"
-    },
-    {
-      "judul": "WN China Serang Anggota TNI di Ketapang, Wagub Kalbar: Tak Bisa Ditoleransi",
-      "link_berita": "https://news.republika.co.id/berita/t7eqov377/wn-china-serang-anggota-tni-di-ketapang-wagub-kalbar-tak-bisa-ditoleransi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Hadir Langsung, Dirut dan Direksi Bank Mandiri Pastikan Kesiapan Bantuan Bencana untuk Sumatra",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7g3wz472/hadir-langsung-dirut-dan-direksi-bank-mandiri-pastikan-kesiapan-bantuan-bencana-untuk-sumatra",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 03:19:39"
+    },
+    {
+      "judul": "Banyak Guru Agama Belum Lancar Baca Alquran, Menag Siapkan Solusi",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7g3fv430/banyak-guru-agama-belum-lancar-baca-alquran-menag-siapkan-solusi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 03:17:39"
+    },
+    {
+      "judul": "Harga Emas Antam Kamis Ini Naik Rp 17.000 Jadi Rp 2,487 Juta per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7g3bf423/harga-emas-antam-kamis-ini-naik-rp-17000-jadi-rp-2487-juta-per-gram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 03:14:39"
+    },
+    {
+      "judul": "Komitmen Sejahterakan Driver, GoTo Luncurkan Platform Bursa Kerja Khusus Mitra dan Keluarga",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7fpc5291/komitmen-sejahterakan-driver-goto-luncurkan-platform-bursa-kerja-khusus-mitra-dan-keluarga",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 03:10:39"
+    },
+    {
+      "judul": "Infografis Perbuatan Dosa yang Dilaknat",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7g30r430/infografis-perbuatan-dosa-yang-dilaknat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 03:00:39"
+    },
+    {
+      "judul": "Akses Gambir Terdampak Demo, KAI Izinkan Penumpang Naik dari Stasiun Jatinegara",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7g2xn423/akses-gambir-terdampak-demo-kai-izinkan-penumpang-naik-dari-stasiun-jatinegara",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:58:39"
+    },
+    {
+      "judul": "Kadin dan YSKA Berkolaborasi Salurkan Bantuan ke Korban Banjir Sumatera",
+      "link_berita": "https://esgnow.republika.co.id/berita/t7g2n0349/kadin-dan-yska-berkolaborasi-salurkan-bantuan-ke-korban-banjir-sumatera",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:52:39"
+    },
+    {
+      "judul": "KPK Gelar OTT di Banten, Lima Orang Ditangkap",
+      "link_berita": "https://news.republika.co.id/berita/t7g2iq409/kpk-gelar-ott-di-banten-lima-orang-ditangkap",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:49:39"
+    },
+    {
+      "judul": "Harga Cabai Rawit Meroket Tembus Rp 95.000 per Kg, di Cirebon Capai Rp 100 Ribu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7g2f5423/harga-cabai-rawit-meroket-tembus-rp-95000-per-kgdi-cirebon-capai-rp-100-ribu",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:47:39"
+    },
+    {
+      "judul": "Enam Raperda Baru Masuk Agenda Legislasi DIY Tahun 2026",
+      "link_berita": "https://rejogja.republika.co.id/berita/t7ew39291/enam-raperda-baru-masuk-agenda-legislasi-diy-tahun-2026",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:29:39"
+    },
+    {
+      "judul": "Mobile Masjid Layani Warga Terdampak Galodo Agam",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7g16p472/mobile-masjid-layani-warga-terdampak-galodo-agam",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:23:39"
+    },
+    {
+      "judul": "Waketum MPP ICMI, Priyo Budi Santoso Pantau Langsung Korban Bencana Sumatra di Sumbar",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7g0t6472/waketum-mpp-icmi-priyo-budi-santoso-pantau-langsung-korban-bencana-sumatra-di-sumbar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:23:39"
+    },
+    {
+      "judul": "Prabowo Pushes Palm Oil Expansion in Papua Despite Public Critics Over Sumatra Disasters",
+      "link_berita": "https://en.republika.co.id/berita/t7g0hg502/prabowo-pushes-palm-oil-expansion-in-papua-despite-public-critics-over-sumatra-disasters",
+      "kategori": "En",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 03:23:39"
+    },
+    {
+      "judul": "Dampak Tergesa-gesa dalam Berdoa",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7fvar430/dampak-tergesagesa-dalam-berdoa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:23:39"
+    },
+    {
+      "judul": "Raperda Perfilman Masuk Agenda Pembahasan Legislasi DPRD DIY Tahun 2026",
+      "link_berita": "https://rejogja.republika.co.id/berita/t7emaj291/raperda-perfilman-masuk-agenda-pembahasan-legislasi-dprd-diy-tahun-2026",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 02:23:39"
+    },
+    {
       "judul": "Kalahkan Tim Divisi 3 di Copa del Rey, Xabi Alonso Puas Real Madrid Capai Tujuan",
       "link_berita": "https://skor.republika.co.id/posts/733130/kalahkan-tim-divisi-3-di-copa-del-rey-xabi-alonso-puas-real-madrid-capai-tujuan",
       "kategori": "Network",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:49:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "BI Nilai Rupiah Relatif Stabil Jelang Akhir Tahun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7fzdo423/bi-nilai-rupiah-relatif-stabil-jelang-akhir-tahun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:49:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "TPA Cipeucang Masih Ditutup untuk Penataan, Ditargetkan Kembali Beroperasi Akhir Desember",
       "link_berita": "https://visual.republika.co.id/berita/t7fz7d375/tpa-cipeucang-masih-ditutup-untuk-penataan-ditargetkan-kembali-beroperasi-akhir-desember",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:37:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "BI Prediksi Bencana di Sumatera Tekan Pertumbuhan Ekonomi 0,017 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7fyt4423/bi-prediksi-bencana-di-sumatera-tekan-pertumbuhan-ekonomi-0017-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:28:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "Potensi Medali SEA Games Hari Ini: Panahan, Perahu Naga, dan Gulat Potensi Sumbang Emas",
       "link_berita": "https://news.republika.co.id/berita/t7fyo9348/potensi-medali-sea-games-hari-ini-panahan-perahu-naga-dan-gulat-potensi-sumbang-emas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:26:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "Jadwal Hari Kesembilan SEA Games 2025: Indonesia Butuh Delapan Emas untuk Penuhi Target",
       "link_berita": "https://news.republika.co.id/berita/t7fy8y348/jadwal-hari-kesembilan-sea-games-2025-indonesia-butuh-delapan-emas-untuk-penuhi-target",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:16:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "Perkuat Layanan, Bank bjb Teken MoU dengan Kemenko Kumham Imipas",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7fxsl472/perkuat-layanan-bank-bjb-teken-mou-dengan-kemenko-kumham-imipas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:07:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "Arah Kebijakan Moneter BI 2026, Perluas Likuiditas dan Jaga Stabilitas Rupiah",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7fxn4423/arah-kebijakan-moneter-bi-2026-perluas-likuiditas-dan-jaga-stabilitas-rupiah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:03:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "Jimly Dorong Perkap Nomor 10 Tahun 2025 Digugat ke MA",
       "link_berita": "https://news.republika.co.id/berita/t7fxlc484/jimly-dorong-perkap-nomor-10-tahun-2025-digugat-ke-ma",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:02:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 01:23:39"
     },
     {
       "judul": "Tiga Laporan Strategis DPRD DIY Jadi Arah Pembenahan Kebijakan Daerah",
       "link_berita": "https://rejogja.republika.co.id/berita/t7elym291/tiga-laporan-strategis-dprd-diy-jadi-arah-pembenahan-kebijakan-daerah",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Kurangi Emisi 7.000 Ton Karbon, OT Group Andalkan PLTS Atap",
       "link_berita": "https://esgnow.republika.co.id/berita/t7fwlg423/kurangi-emisi-7000-ton-karbon-ot-group-andalkan-plts-atap",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Garuda Indonesia Jamin Kepastian Armada dan Jadwal Penerbangan Haji 2026",
       "link_berita": "https://khazanah.republika.co.id/berita/t7fw21423/garuda-indonesia-jamin-kepastian-armada-dan-jadwal-penerbangan-haji-2026",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Cara Sikat Gigi yang Benar: Durasi Dua Menit, Cukup Dua Kali Sehari",
       "link_berita": "https://ameera.republika.co.id/berita/t7fw0r425/cara-sikat-gigi-yang-benar-durasi-dua-menit-cukup-dua-kali-sehari",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Makin Terbuka, Alasan AS Serang Venezuela Adalah Minyak",
       "link_berita": "https://news.republika.co.id/berita/t7fvxj393/makin-terbuka-alasan-as-serang-venezuela-adalah-minyak",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Tiga Perumpamaan Kehidupan Orang-Orang Mukmin di Surga",
       "link_berita": "https://khazanah.republika.co.id/berita/t7fsvb430/tiga-perumpamaan-kehidupan-orangorang-mukmin-di-surga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Pelajar Indonesia Raih Prestasi di Yale Model United Nations Korea 2025",
       "link_berita": "https://news.republika.co.id/berita/t7fv2f328/pelajar-indonesia-raih-prestasi-di-yale-model-united-nations-korea-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Komentari Suksesi Serentak PDIP Jatim, Pengamat: Bukti Mesin Partai Tetap Solid",
       "link_berita": "https://news.republika.co.id/berita/t7futo320/komentari-suksesi-serentak-pdip-jatim-pengamat-bukti-mesin-partai-tetap-solid",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Polda Metro Bakal Gelar Perkara Laporan Ijazah Palsu Jokowi",
       "link_berita": "https://news.republika.co.id/berita/t7fuqo484/polda-metro-bakal-gelar-perkara-laporan-ijazah-palsu-jokowi",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Kabulkan Permohonan Armand Maulana Cs, MK: Pidana Jadi Jalur Akhir Penyelesaian Sengketa Hak Cipta",
       "link_berita": "https://news.republika.co.id/berita/t7fte4409/kabulkan-permohonan-armand-maulana-cs-mk-pidana-jadi-jalur-akhir-penyelesaian-sengketa-hak-cipta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Miliano Jonathans dan Dean James Menang, Justun Hubner Absen di Piala Belanda",
       "link_berita": "https://skor.republika.co.id/posts/733115/miliano-jonathans-dan-dean-james-menang-justun-hubner-absen-di-piala-belanda",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 00:23:39"
     },
     {
       "judul": "Sistem AHWA Sebagai Sarana Mengembalikan Marwah NU",
       "link_berita": "https://khazanah.republika.co.id/berita/t7fudu320/sistem-ahwa-sebagai-sarana-mengembalikan-marwah-nu",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Mentan Amran Beli 40 ton Cabai Bantu Petani Aceh, Kirim via Hercules ke Jakarta",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7fu5o472/mentan-amran-beli-40-ton-cabai-bantu-petani-aceh-kirim-via-hercules-ke-jakarta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Survei: Kemampuan Baca Alquran Guru Agama Masih Rendah",
       "link_berita": "https://khazanah.republika.co.id/berita/t7ftxj430/survei-kemampuan-baca-alquran-guru-agama-masih-rendah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "SEA Games 2025: Jadwal Atlet Indonesia yang Berpotensi Raih Medali Emas Hari Ini",
       "link_berita": "https://skor.republika.co.id/posts/733112/sea-games-2025-jadwal-atlet-indonesia-yang-berpotensi-raih-medali-emas-hari-ini",
       "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Saat Malaikat Mencabut Nyawa Orang Kafir yang Memusuhi Nabi",
       "link_berita": "https://khazanah.republika.co.id/berita/t7fsjb430/saat-malaikat-mencabut-nyawa-orang-kafir-yang-memusuhi-nabi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Lima Wakil Indonesia Kembali Berjuang pada Hari Kedua BWF World Tour Finals 2025",
       "link_berita": "https://news.republika.co.id/berita/t7fsti348/lima-wakil-indonesia-kembali-berjuang-pada-hari-kedua-bwf-world-tour-finals-2025",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Laporan Majalah Inggris, Pakistan Tembak Jatuh 4 Jet Rafale India",
       "link_berita": "https://news.republika.co.id/berita/t7ft0s484/laporan-majalah-inggris-pakistan-tembak-jatuh-4-jet-rafale-india",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "MK Jawab Kebingungan Armand Maulana Cs Atas Frasa \u2018Imbalan yang Wajar\u2019 di UU Hak Cipta",
       "link_berita": "https://ameera.republika.co.id/berita/t7fsy3409/mk-jawab-kebingungan-armand-maulana-cs-atas-frasa-imbalan-yang-wajar-di-uu-hak-cipta",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Pencak Silat Penuhi Target Empat Emas di SEA Games 2025, Menpora Dorong Tampil di Asian Games",
       "link_berita": "https://news.republika.co.id/berita/t7fsl2348/pencak-silat-penuhi-target-empat-emas-di-sea-games-2025-menpora-dorong-tampil-di-asian-games",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Polisi Buru Gangster yang Viral Serang Sejumlah Pemuda di Kalideres",
       "link_berita": "https://news.republika.co.id/berita/t7fsgt409/polisi-buru-gangster-yang-viral-serang-sejumlah-pemuda-di-kalideres",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Nasihat Ulama Jika Kita Mendapat Tetangga yang Buruk",
       "link_berita": "https://khazanah.republika.co.id/berita/t7fs7k430/nasihat-ulama-jika-kita-mendapat-tetangga-yang-buruk",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Real dan Atletico Madrid Sama-Sama Lolos ke 16 Besar Copa Del Rey, Mbappe Dekati Rekor Ronaldo",
       "link_berita": "https://news.republika.co.id/berita/t7fs0h348/real-dan-atletico-madrid-samasama-lolos-ke-16-besar-copa-del-rey-mbappe-dekati-rekor-ronaldo",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "Waspada, 3 Gunung Berapi di Indonesia Berstatus Siaga",
       "link_berita": "https://news.republika.co.id/berita/t7esrz368/waspada-3-gunung-berapi-di-indonesia-berstatus-siaga",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 23:23:39"
     },
     {
       "judul": "BRIN Suplai Data Citra Satelit Percepat Penanganan Bencana di Sumatera",
       "link_berita": "https://news.republika.co.id/berita/t7frjj484/brin-suplai-data-citra-satelit-percepat-penanganan-bencana-di-sumatera",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:23:39"
     },
     {
       "judul": "Doa Nabi Muhammad Terhadap Delapan Perkara dan Penjelasannya",
       "link_berita": "https://iqra.republika.co.id/berita/t7freo430/doa-nabi-muhammad-terhadap-delapan-perkara-dan-penjelasannya",
       "kategori": "Iqra",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Bupati Bogor: Pemekaran Bogor Barat Masuki Tahap Serius",
-      "link_berita": "https://news.republika.co.id/berita/t7fr7a10030000/bupati-bogor-pemekaran-bogor-barat-masuki-tahap-serius",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Juara Piala Interkontinental 2025, Lemari Piala PSG Diisi Trofi Keenam dalam Semusim",
-      "link_berita": "https://news.republika.co.id/berita/t7fr6t348/juara-piala-interkontinental-2025-lemari-piala-psg-diisi-trofi-keenam-dalam-semusim",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Jubir Otorita IKN: Bapak Basuki Hadimuljono Minta Maaf",
-      "link_berita": "https://news.republika.co.id/berita/t7fr5g484/jubir-otorita-ikn-bapak-basuki-hadimuljono-minta-maaf",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "5 Fakta Final Piala Interkontinental 2025, PSG Ikuti Jejak Barcelona usai Tekuk Flamengo",
-      "link_berita": "https://skor.republika.co.id/posts/733108/5-fakta-final-piala-interkontinental-psg-ikuti-jejak-barcelona-usai-tekuk-flamengo",
-      "kategori": "Network",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Masyarakat Sebaiknya Netral dan Melihat Fakta Persidangan Nadiem Makarim",
-      "link_berita": "https://news.republika.co.id/berita/t7fqyf318/masyarakat-sebaiknya-netral-dan-melihat-fakta-persidangan-nadiem-makarim",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Manchester City ke Semifinal Piala Liga Inggris Usai Jinakkan Brentford",
-      "link_berita": "https://news.republika.co.id/berita/t7fqtq348/manchester-city-ke-semifinal-piala-liga-inggris-usai-jinakkan-brentford",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Forkom SSB Bali Batalkan Aksi Setelah Bertemu Gubernur Koster",
-      "link_berita": "https://news.republika.co.id/berita/t7fqih2830000/forkom-ssb-bali-batalkan-aksi-setelah-bertemu-gubernur-koster",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "DKI Segera Tetapkan UMP 2026, Pramono: Kami Jadi Juri yang Adil",
-      "link_berita": "https://news.republika.co.id/berita/t7fqgj484/dki-segera-tetapkan-ump-2026-pramono-kami-jadi-juri-yang-adil",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:52:59"
-    },
-    {
-      "judul": "Raih Sembilan Medali Emas, Tim Atletik Indonesia Lampaui Target SEA Games 2025",
-      "link_berita": "https://news.republika.co.id/berita/t7fp3i291/raih-sembilan-medali-emas-tim-atletik-indonesia-lampaui-target-sea-games-2025",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 21:52:59"
-    },
-    {
-      "judul": "Anwar Ibrahim Dorong Reformasi dengan Libatkan Tokoh Muda di Kabinet",
-      "link_berita": "https://news.republika.co.id/berita/t7fkih5430000/anwar-ibrahim-dorong-reformasi-dengan-libatkan-tokoh-muda-di-kabinet",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 19:52:59"
-    },
-    {
-      "judul": "Presiden Prabowo Pimpin Rapat Terbatas di Sumatera Barat",
-      "link_berita": "https://news.republika.co.id/berita/t7fki04030000/presiden-prabowo-pimpin-rapat-terbatas-di-sumatera-barat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 19:52:59"
-    },
-    {
-      "judul": "Wamendagri Dorong Prioritas PBG untuk Infrastruktur Makan Bergizi Gratis",
-      "link_berita": "https://news.republika.co.id/berita/t7fkgj8230000/wamendagri-dorong-prioritas-pbg-untuk-infrastruktur-makan-bergizi-gratis",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 19:52:59"
-    },
-    {
-      "judul": "KKP Perkuat Pengakuan Hak Masyarakat Hukum Adat di Ruang Laut",
-      "link_berita": "https://news.republika.co.id/berita/t7fkfm7830000/kkp-perkuat-pengakuan-hak-masyarakat-hukum-adat-di-ruang-laut",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 19:52:59"
-    },
-    {
-      "judul": "Menteri Trenggono Pastikan Kebijakan Perlindungan Kesejahteraan Nelayan",
-      "link_berita": "https://news.republika.co.id/berita/t7fkdj3530000/menteri-trenggono-pastikan-kebijakan-perlindungan-kesejahteraan-nelayan",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 19:52:59"
-    },
-    {
-      "judul": "Wabup Manggarai Barat Dorong Koperasi Desa Dukung Program Makan Bergizi",
-      "link_berita": "https://news.republika.co.id/berita/t7fjlo2730000/wabup-manggarai-barat-dorong-koperasi-desa-dukung-program-makan-bergizi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 17 Dec 2025, 19:52:59"
+      "tanggal_terbit": "Wednesday, 17 Dec 2025, 22:23:39"
     },
     {
       "judul": "Cara Sikat Gigi yang Benar: Durasi Dua Menit, Cukup Dua Kali Sehari",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Thursday, 18 Dec 2025, 07:29:00"
     },
     {
-      "judul": "Kurangi Emisi 7.000 Ton Karbon, OT Group Andalkan PLTS Atap",
-      "link_berita": "https://esgnow.republika.co.id/berita/t7fwlg423/kurangi-emisi-7000-ton-karbon-ot-group-andalkan-plts-atap",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 07:41:00"
+      "judul": "Kadin dan YSKA Berkolaborasi Salurkan Bantuan ke Korban Banjir Sumatera",
+      "link_berita": "https://esgnow.republika.co.id/berita/t7g2n0349/kadin-dan-yska-berkolaborasi-salurkan-bantuan-ke-korban-banjir-sumatera",
+      "kategori": "Csr Esg Now",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 09:52:00"
     },
     {
-      "judul": "BI Nilai Rupiah Relatif Stabil Jelang Akhir Tahun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7fzdo423/bi-nilai-rupiah-relatif-stabil-jelang-akhir-tahun",
+      "judul": "Hadir Langsung, Dirut dan Direksi Bank Mandiri Pastikan Kesiapan Bantuan Bencana untuk Sumatra",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7g3wz472/hadir-langsung-dirut-dan-direksi-bank-mandiri-pastikan-kesiapan-bantuan-bencana-untuk-sumatra",
       "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 08:50:00"
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 10:19:00"
     },
     {
       "judul": "Fatwa Syariah Perjelas Landasan ETF Emas, BRI-MI Siapkan Produk Perdana",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 17 Dec 2025, 15:09:00"
     },
     {
-      "judul": "Potensi Medali SEA Games Hari Ini: Panahan, Perahu Naga, dan Gulat Potensi Sumbang Emas",
-      "link_berita": "https://news.republika.co.id/berita/t7fyo9348/potensi-medali-sea-games-hari-ini-panahan-perahu-naga-dan-gulat-potensi-sumbang-emas",
-      "kategori": "Sport",
-      "tanggal_terbit": "Thursday, 18 Dec 2025, 08:26:00"
+      "judul": "KPK Gelar OTT di Banten, Lima Orang Ditangkap",
+      "link_berita": "https://news.republika.co.id/berita/t7g2iq409/kpk-gelar-ott-di-banten-lima-orang-ditangkap",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 18 Dec 2025, 09:49:00"
     }
   ],
-  "waktu_scraping": "Thursday, 18 Dec 2025, 08:52:59"
+  "waktu_scraping": "Thursday, 18 Dec 2025, 10:23:39"
 }
