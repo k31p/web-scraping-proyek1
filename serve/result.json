@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Maarten Paes Respons Isu Dirinya akan Gabung Persib",
+      "link_berita": "https://news.republika.co.id/berita/t7vemm409/maarten-paes-respons-isu-dirinya-akan-gabung-persib"
+    },
+    {
+      "judul": "KPK Setop Kasus Pertambangan Nikel di Konawe Utara, Kejagung Ambil Alih?",
+      "link_berita": "https://news.republika.co.id/berita/t7vcv9487/kpk-setop-kasus-pertambangan-nikel-di-konawe-utara-kejagung-ambil-alih"
+    },
+    {
       "judul": "Buruh Tolak UMP Jakarta 2026 dan Ancam Gugat ke PTUN, Begini Respons Pemprov",
       "link_berita": "https://news.republika.co.id/berita/t7v9wq487/buruh-tolak-ump-jakarta-2026-dan-ancam-gugat-ke-ptun-begini-respons-pemprov"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Insiden Bendera GAM, Wagub Aceh Ajak Semua Pihak Jaga Kekompakan dan Jauhkan Arogansi",
       "link_berita": "https://news.republika.co.id/berita/t7v83k487/insiden-bendera-gam-wagub-aceh-ajak-semua-pihak-jaga-kekompakan-dan-jauhkan-arogansi"
-    },
-    {
-      "judul": "BSI Jadi BUMN, INDEF Nilai Momentum Ekonomi Syariah Nasional",
-      "link_berita": "https://sharia.republika.co.id/berita/t7v5i6370/bsi-jadi-bumn-indef-nilai-momentum-ekonomi-syariah-nasional"
-    },
-    {
-      "judul": "Lima Hal yang Harus Diketahui tentang Bulan Rajab",
-      "link_berita": "https://khazanah.republika.co.id/berita/t7v4rr430/lima-hal-yang-harus-diketahui-tentang-bulan-rajab"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "KPK Buka Peluang Sidik Kembali Kasus Korupsi Izin Tambang Nikel di Sultra Jika Ada Bukti Baru",
+      "link_berita": "https://news.republika.co.id/berita/t7vfc3409/kpk-buka-peluang-sidik-kembali-kasus-korupsi-izin-tambang-nikel-di-sultra-jika-ada-bukti-baru"
+    },
+    {
+      "judul": "Kemhan Jelaskan Siapa Ayu Aulia yang Sosoknya Jadi Kontroversi",
+      "link_berita": "https://news.republika.co.id/berita/t7vcie409/kemhan-jelaskan-siapa-ayu-aulia-yang-sosoknya-jadi-kontroversi"
+    },
     {
       "judul": "Tiket Planetarium Ludes Terus! Wajib Tahu Cara Pesannya",
       "link_berita": "https://ameera.republika.co.id/berita/t7vaz0502/tiket-planetarium-ludes-terus-wajib-tahu-cara-pesannya"
@@ -73,316 +81,308 @@
     {
       "judul": "Pemkot Tangsel Tetapkan Status Daerah Darurat Sampah hingga 5 Januari",
       "link_berita": "https://news.republika.co.id/berita/t7txne487/pemkot-tangsel-tetapkan-status-daerah-darurat-sampah-hingga-5-januari"
-    },
-    {
-      "judul": "Ini Kronologis Ricuh TNI dengan Warga Pembawa Bendera GAM di Aceh",
-      "link_berita": "https://news.republika.co.id/berita/t7tvhm393/ini-kronologis-ricuh-tni-dengan-warga-pembawa-bendera-gam-di-aceh"
-    },
-    {
-      "judul": "Wapres Gibran Hadiri Perayaan Natal Bersama Umat Kristiani di Salatiga",
-      "link_berita": "https://visual.republika.co.id/berita/t7tren375/wapres-gibran-hadiri-perayaan-natal-bersama-umat-kristiani-di-salatiga"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Todak Gaming Resmi Umumkan Pamit dari Skena Esports",
+      "link_berita": "https://skor.republika.co.id/posts/735433/todak-gaming-resmi-umumkan-pamit-dari-skena-esports",
+      "kategori": "Network",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 10:20:08"
+    },
+    {
+      "judul": "Di Akhir Hayat Hidupnya, Ustaz Jazir Tetap Memikirkan Masjid, Sesama, dan Bantuan Sumatera",
+      "link_berita": "https://rejogja.republika.co.id/berita/t7vgp3282/di-akhir-hayat-hidupnya-ustaz-jazir-tetap-memikirkan-masjid-sesama-dan-bantuan-sumatera",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 10:20:08"
+    },
+    {
+      "judul": "Bagaimana Islam Memandang Seni?",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7vfno458/bagaimana-islam-memandang-seni",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 10:19:08"
+    },
+    {
+      "judul": "LBH Kecam Tindakan Represif Tentara Terhadap Aksi Warga Aceh Tuntut Status Bencana Nasional",
+      "link_berita": "https://news.republika.co.id/berita/t7vglr409/lbh-kecam-tindakan-represif-tentara-terhadap-aksi-warga-aceh-tuntut-status-bencana-nasional",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 10:18:08"
+    },
+    {
+      "judul": "Diskon Transportasi Akhir Tahun Dongkrak Mobilitas, Penumpang Kereta Capai 1,09 Juta Orang",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7vglk416/diskon-transportasi-akhir-tahun-dongkrak-mobilitas-penumpang-kereta-capai-109-juta-orang",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 10:18:08"
+    },
+    {
+      "judul": "Gempa Bumi Terjadi pada Zaman Nabi",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7vf5g458/gempa-bumi-terjadi-pada-zaman-nabi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:59:08"
+    },
+    {
+      "judul": "Akses Transportasi Aceh Tamiang Kembali Terbuka Usai Banjir",
+      "link_berita": "https://esgnow.republika.co.id/berita/t7vffp522/akses-transportasi-aceh-tamiang-kembali-terbuka-usai-banjir",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:52:08"
+    },
+    {
+      "judul": "UMP Jadi Batas Minimum, Pemerintah Dorong Upah Berbasis Produktivitas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7vfcf416/ump-jadi-batas-minimum-pemerintah-dorong-upah-berbasis-produktivitas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:51:08"
+    },
+    {
+      "judul": "KPK Buka Peluang Sidik Kembali Kasus Korupsi Izin Tambang Nikel di Sultra Jika Ada Bukti Baru",
+      "link_berita": "https://news.republika.co.id/berita/t7vfc3409/kpk-buka-peluang-sidik-kembali-kasus-korupsi-izin-tambang-nikel-di-sultra-jika-ada-bukti-baru",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:50:08"
+    },
+    {
+      "judul": "Takut Hanya kepada Allah",
+      "link_berita": "https://khazanah.republika.co.id/berita/t7vf0g458/takut-hanya-kepada-allah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:43:08"
+    },
+    {
+      "judul": "Libur Nataru, Asuransi Jasindo Ingatkan Antisipasi Kerugian Aset Properti dan Kendaraan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7veqt416/libur-nataru-asuransi-jasindo-ingatkan-antisipasi-kerugian-aset-properti-dan-kendaraan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:38:08"
+    },
+    {
+      "judul": "Maarten Paes Respons Isu Dirinya akan Gabung Persib",
+      "link_berita": "https://news.republika.co.id/berita/t7vemm409/maarten-paes-respons-isu-dirinya-akan-gabung-persib",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:35:08"
+    },
+    {
+      "judul": "Alasan KPK Setop Kasus Korupsi Izin Tambang Nikel dengan Kerugian Rp2,7 T: Tak Ditemukan Cukup Bukti",
+      "link_berita": "https://news.republika.co.id/berita/t7veg8409/alasan-kpk-setop-kasus-korupsi-izin-tambang-nikel-dengan-kerugian-rp27-t-tak-ditemukan-cukup-bukti",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:31:08"
+    },
+    {
+      "judul": "Hadapi Lonjakan Penumpang Nataru, KAI Commuter Tambah 34 Perjalanan Yogyakarta-Palur",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7ve9e502/hadapi-lonjakan-penumpang-nataru-kai-commuter-tambah-34-perjalanan-yogyakartapalur",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:27:08"
+    },
+    {
       "judul": "Ringankan Beban Nasabah Terdampak Bencana Sumatra, Bank Mandiri Berikan Relaksasi Kredit",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7vddv472/ringankan-beban-nasabah-terdampak-bencana-sumatra-bank-mandiri-berikan-relaksasi-kredit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 09:08:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:26:08"
     },
     {
       "judul": "Telkom Akses Bangun 1,25 Juta Port Jaringan Selama 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7vddr416/telkom-akses-bangun-125-juta-port-jaringan-selama-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 09:08:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:26:08"
     },
     {
       "judul": "Hutama Karya Kerahkan 36 Alat Berat Buka Jalan Padang\u2013Bukittinggi",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7vd8h370/hutama-karya-kerahkan-36-alat-berat-buka-jalan-padangbukittinggi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 09:05:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:26:08"
     },
     {
       "judul": "Libur Nataru Berpotensi Hasilkan 59 Ribu Ton Sampah, Jangan Buang Sembarangan Ya!",
       "link_berita": "https://esgnow.republika.co.id/berita/t7vd2c502/libur-nataru-berpotensi-hasilkan-59-ribu-ton-sampah-jangan-buang-sembarangan-ya",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 09:01:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:26:08"
     },
     {
       "judul": "KPK Setop Kasus Pertambangan Nikel di Konawe Utara, Kejagung Ambil Alih?",
       "link_berita": "https://news.republika.co.id/berita/t7vcv9487/kpk-setop-kasus-pertambangan-nikel-di-konawe-utara-kejagung-ambil-alih",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:57:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 09:26:08"
     },
     {
       "judul": "Pertemuan Rais Aam dan Ketum PBNU di Lirboyo, Eks Menag: Inilah Cara NU Selesaikan Perbedaan",
       "link_berita": "https://khazanah.republika.co.id/berita/t7va4e430/pertemuan-rais-aam-dan-ketum-pbnu-di-lirboyo-eks-menag-inilah-cara-nu-selesaikan-perbedaan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:55:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Kemhan Jelaskan Siapa Ayu Aulia yang Sosoknya Jadi Kontroversi",
       "link_berita": "https://news.republika.co.id/berita/t7vcie409/kemhan-jelaskan-siapa-ayu-aulia-yang-sosoknya-jadi-kontroversi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:49:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Anggota DPR Asal Aceh Yakin Prabowo akan Tetapkan Status Bencana Nasional",
       "link_berita": "https://news.republika.co.id/berita/t7vc6q409/anggota-dpr-asal-aceh-yakin-prabowo-akan-tetapkan-status-bencana-nasional",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:42:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Cuan Parah! Beli Emas pada Januari Rp1,4 Juta, Sekarang Sudah Rp2,5 Juta",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7vc3n502/cuan-parah-beli-emas-pada-januari-rp14-juta-sekarang-sudah-rp25-juta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:40:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Dikabarkan Bakal Gabung Persib, Segini Gaji Maarten Paes dan Joey Pelupessy",
       "link_berita": "https://skor.republika.co.id/posts/735416/dikabarkan-bakal-gabung-persib-segini-gaji-maarten-paes-dan-joey-pelupessy",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Tiket Planetarium Ludes Terus! Wajib Tahu Cara Pesannya",
       "link_berita": "https://ameera.republika.co.id/berita/t7vaz0502/tiket-planetarium-ludes-terus-wajib-tahu-cara-pesannya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Banjir Susulan yang Terjang Pidie Jaya, Bireuen, dan Bener Meriah Diklaim Sudah Surut",
       "link_berita": "https://news.republika.co.id/berita/t7vayx487/banjir-susulan-yang-terjang-pidie-jaya-bireuen-dan-bener-meriah-diklaim-sudah-surut",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 08:26:08"
     },
     {
       "judul": "Eks Menag Minta NU Kembalikan Konsesi Tambang agar Mandiri dan Independen",
       "link_berita": "https://khazanah.republika.co.id/berita/t7v9zx430/eks-menag-minta-nu-kembalikan-konsesi-tambang-agar-mandiri-dan-independen",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Buruh Tolak UMP Jakarta 2026 dan Ancam Gugat ke PTUN, Begini Respons Pemprov",
       "link_berita": "https://news.republika.co.id/berita/t7v9wq487/buruh-tolak-ump-jakarta-2026-dan-ancam-gugat-ke-ptun-begini-respons-pemprov",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Pelita Air Perkuat Layanan Penerbangan Selama Nataru 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7v9kw370/pelita-air-perkuat-layanan-penerbangan-selama-nataru-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Daftar Lengkap 145 Kampus Swasta Terbaik di Indonesia Versi uniRank 2025",
       "link_berita": "https://news.republika.co.id/berita/t7v8ip368/daftar-lengkap-145-kampus-swasta-terbaik-di-indonesia-versi-unirank-2025",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "BBMKG Peringatkan Gelombang Tinggi hingga 4 Meter di Perairan Bali",
       "link_berita": "https://news.republika.co.id/berita/t7v9h3370/bbmkg-peringatkan-gelombang-tinggi-hingga-4-meter-di-perairan-bali",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Kepala BNN Jateng: Vape Harus Diwaspadai Jadi Media Penyalahgunaan Narkoba",
       "link_berita": "https://news.republika.co.id/berita/t7v9f3487/kepala-bnn-jateng-vape-harus-diwaspadai-jadi-media-penyalahgunaan-narkoba",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Sulit Tidur? Waspada, Bisa Jadi Sinyal Gangguan Kesehatan Mental",
       "link_berita": "https://ameera.republika.co.id/berita/t7v9cp425/sulit-tidur-waspada-bisa-jadi-sinyal-gangguan-kesehatan-mental",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "BSI dan BSN Dinilai Bisa Dorong Sektor Perumahan Syariah",
       "link_berita": "https://sharia.republika.co.id/berita/t7v9bk416/bsi-dan-bsn-dinilai-bisa-dorong-sektor-perumahan-syariah",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Inilah Daftar Kampus Swasta di Indonesia Peringkat 50 Terbaik Versi uniRank 2025",
       "link_berita": "https://news.republika.co.id/berita/t7v92q472/inilah-daftar-kampus-swasta-di-indonesia-peringkat-50-terbaik-versi-unirank-2025",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "UNM Perkuat Pendidikan Siber, Dekan FTI: Kampus Jadi Inkubator Talenta Pertahanan Digital",
       "link_berita": "https://news.republika.co.id/berita/t7v8b6368/unm-perkuat-pendidikan-siber-dekan-fti-kampus-jadi-inkubator-talenta-pertahanan-digital",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Indonesia Jadi Surga Pekerja Remote Dunia, Lulusan Pariwisata Siap-Siap Panen Cuan Dolar!",
       "link_berita": "https://news.republika.co.id/berita/t7v8pf472/indonesia-jadi-surga-pekerja-remote-dunia-lulusan-pariwisata-siapsiap-panen-cuan-dolar",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Sekolah Libur, MBG Tetap Jalan untuk Ibu Hamil dan Balita",
       "link_berita": "https://news.republika.co.id/berita/t7v8m1425/sekolah-libur-mbg-tetap-jalan-untuk-ibu-hamil-dan-balita",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Mitos vs Fakta: Benarkah Sarjana Masih Relevan di Era Digital? Cek Data Gaji Rata-Rata Sarjana 2025",
       "link_berita": "https://news.republika.co.id/berita/t7v89u472/mitos-vs-fakta-benarkah-sarjana-masih-relevan-di-era-digital-cek-data-gaji-ratarata-sarjana-2025",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Insiden Bendera GAM, Wagub Aceh Ajak Semua Pihak Jaga Kekompakan dan Jauhkan Arogansi",
       "link_berita": "https://news.republika.co.id/berita/t7v83k487/insiden-bendera-gam-wagub-aceh-ajak-semua-pihak-jaga-kekompakan-dan-jauhkan-arogansi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "UNM Hadirkan Kurikulum Siap Terjun ke Industri, Sarjana tak akan Sulit Kerja",
       "link_berita": "https://news.republika.co.id/berita/t7v83a368/unm-hadirkan-kurikulum-siap-terjun-ke-industri-sarjana-tak-akan-sulit-kerja",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Persib Resmi di Pot 1, Ini Jadwal Drawing AFC Champions League 2 2025-2026",
       "link_berita": "https://skor.republika.co.id/posts/735402/persib-resmi-di-pot-1-ini-jadwal-drawing-afc-champions-league-2-2025-2026",
       "kategori": "Network",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Menteri LH Minta Pengelola Rest Area Kelola Sampah",
       "link_berita": "https://esgnow.republika.co.id/berita/t7v7r4416/menteri-lh-minta-pengelola-rest-area-kelola-sampah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Polda Kalsel Minta Maaf Prajuritnya Terlibat Pembunuhan Mahasiswa Universitas Lambung Mangkurat",
       "link_berita": "https://news.republika.co.id/berita/t7v4tw409/polda-kalsel-minta-maaf-prajuritnya-terlibat-pembunuhan-mahasiswa-universitas-lambung-mangkurat",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Suriah Mulai Tukar Mata Uang Baru per 1 Januari 2026",
       "link_berita": "https://news.republika.co.id/berita/t7v6g0366/suriah-mulai-tukar-mata-uang-baru-per-1-januari-2026",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "BGN: Program MBG Tahun 2026 Dimulai Serempak pada 8 Januari",
       "link_berita": "https://news.republika.co.id/berita/t7v7ju487/bgn-program-mbg-tahun-2026-dimulai-serempak-pada-8-januari",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Umrah di Bulan Rajab, Benarkah Lebih Utama? Ini Penjelasan Ulama",
       "link_berita": "https://khazanah.republika.co.id/berita/t7v4vj430/umrah-di-bulan-rajab-benarkah-lebih-utama-ini-penjelasan-ulama",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "KAI: 3,1 Juta Tiket Kereta Terjual untuk Periode Nataru",
       "link_berita": "https://ekonomi.republika.co.id/berita/t7v7fn425/kai-31-juta-tiket-kereta-terjual-untuk-periode-nataru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Saudi Diam-Diam Mudahkan Akses Minuman Keras",
       "link_berita": "https://news.republika.co.id/berita/t7v7bs393/saudi-diamdiam-mudahkan-akses-minuman-keras",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 07:26:08"
     },
     {
       "judul": "Jadi Bank BUMN, BSI Didorong Genjot Pembiayaan Industri Halal",
       "link_berita": "https://sharia.republika.co.id/berita/t7v75j416/jadi-bank-bumn-bsi-didorong-genjot-pembiayaan-industri-halal",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Mendagri Perintahkan Pemda Siapkan Data Korban Banjir Sumatera untuk Pembangunan Hunian Baru",
-      "link_berita": "https://news.republika.co.id/berita/t7v6uq487/mendagri-perintahkan-pemda-siapkan-data-korban-banjir-sumatera-untuk-pembangunan-hunian-baru",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Bambang Soesatyo Apresiasi Terobosan Mentan Amran Tahun 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v6mt368/bambang-soesatyo-apresiasi-terobosan-mentan-amran-tahun-2025",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Wamen ESDM: Bukittinggi\u2013Payakumbuh Rawan Antrian BBM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v6l7522/wamen-esdm-bukittinggipayakumbuh-rawan-antrian-bbm",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Pertamina Amankan 1 Juta Barel Minyak dari Aljazair, Tutup Kinerja Hulu 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v6hg522/pertamina-amankan-1-juta-barel-minyak-dari-aljazair-tutup-kinerja-hulu-2025",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "PLN Ingatkan Warga Ancaman Cuaca Ekstrem, Siagakan 69 Ribu Personel Sambut Nataru",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v6ds522/pln-ingatkan-warga-ancaman-cuaca-ekstrem-siagakan-69-ribu-personel-sambut-nataru",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Pertamina Patra Niaga Hadirkan Pengalaman Menarik di SPBU Selama Mudik Nataru",
-      "link_berita": "https://ameera.republika.co.id/berita/t7v6ab522/pertamina-patra-niaga-hadirkan-pengalaman-menarik-di-spbu-selama-mudik-nataru",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Berdalih Bela Umat Kristiani, Trump Perintahkan Pengeboman \u2018ISIS\u2019 di Nigeria",
-      "link_berita": "https://news.republika.co.id/berita/t7v5xu393/berdalih-bela-umat-kristiani-trump-perintahkan-pengeboman-isis-di-nigeria",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "LTS Medan 2026 Memperebutkan Piala Danyon Parako 463 Pasgat Sudah Dimulai",
-      "link_berita": "https://skor.republika.co.id/posts/735395/lts-medan-2026-memperebutkan-piala-danyon-parako-463-pasgat-sudah-dimulai",
-      "kategori": "Network",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "BSI Jadi BUMN, INDEF Nilai Momentum Ekonomi Syariah Nasional",
-      "link_berita": "https://sharia.republika.co.id/berita/t7v5i6370/bsi-jadi-bumn-indef-nilai-momentum-ekonomi-syariah-nasional",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Selamat Jalan Mohammad Bakri, Aktor Palestina Pemberani di Balik Dokumenter Jenin, Jenin",
-      "link_berita": "https://ameera.republika.co.id/berita/t7v5fg425/selamat-jalan-mohammad-bakri-aktor-palestina-pemberani-di-balik-dokumenter-jenin-jenin",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Marbella Place Anyer Resmi Dikelola Jayakarta Hotel Group",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v5eb370/marbella-place-anyer-resmi-dikelola-jayakarta-hotel-group",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Andra 'Dewa 19' dan Ari Yami Amanahkan Hasil Lelang untuk Bencana Sumatera ke Sinergi Foundation",
-      "link_berita": "https://khazanah.republika.co.id/berita/t7v59o368/andra-dewa-19-dan-ari-yami-amanahkan-hasil-lelang-untuk-bencana-sumatera-ke-sinergi-foundation",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "UMK Bali 2026 Ditetapkan, Badung Tertinggi Capai Rp 3,79 Juta",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v58o370/umk-bali-2026-ditetapkan-badung-tertinggi-capai-rp-379-juta",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
-    },
-    {
-      "judul": "Bapanas Pastikan Stok Telur Aman hingga Lebaran 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7v536370/bapanas-pastikan-stok-telur-aman-hingga-lebaran-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:32"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 06:26:08"
     },
     {
       "judul": "Tiket Planetarium Ludes Terus! Wajib Tahu Cara Pesannya",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Friday, 26 Dec 2025, 15:16:00"
     },
     {
-      "judul": "Libur Nataru Berpotensi Hasilkan 59 Ribu Ton Sampah, Jangan Buang Sembarangan Ya!",
-      "link_berita": "https://esgnow.republika.co.id/berita/t7vd2c502/libur-nataru-berpotensi-hasilkan-59-ribu-ton-sampah-jangan-buang-sembarangan-ya",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 16:01:00"
+      "judul": "Akses Transportasi Aceh Tamiang Kembali Terbuka Usai Banjir",
+      "link_berita": "https://esgnow.republika.co.id/berita/t7vffp522/akses-transportasi-aceh-tamiang-kembali-terbuka-usai-banjir",
+      "kategori": "Csr Esg Now",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 16:52:00"
     },
     {
-      "judul": "Ringankan Beban Nasabah Terdampak Bencana Sumatra, Bank Mandiri Berikan Relaksasi Kredit",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t7vddv472/ringankan-beban-nasabah-terdampak-bencana-sumatra-bank-mandiri-berikan-relaksasi-kredit",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 16:08:00"
+      "judul": "Diskon Transportasi Akhir Tahun Dongkrak Mobilitas, Penumpang Kereta Capai 1,09 Juta Orang",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t7vglk416/diskon-transportasi-akhir-tahun-dongkrak-mobilitas-penumpang-kereta-capai-109-juta-orang",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Friday, 26 Dec 2025, 17:17:00"
     },
     {
       "judul": "BSI dan BSN Dinilai Bisa Dorong Sektor Perumahan Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 26 Dec 2025, 14:40:00"
     },
     {
-      "judul": "KPK Setop Kasus Pertambangan Nikel di Konawe Utara, Kejagung Ambil Alih?",
-      "link_berita": "https://news.republika.co.id/berita/t7vcv9487/kpk-setop-kasus-pertambangan-nikel-di-konawe-utara-kejagung-ambil-alih",
+      "judul": "LBH Kecam Tindakan Represif Tentara Terhadap Aksi Warga Aceh Tuntut Status Bencana Nasional",
+      "link_berita": "https://news.republika.co.id/berita/t7vglr409/lbh-kecam-tindakan-represif-tentara-terhadap-aksi-warga-aceh-tuntut-status-bencana-nasional",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 26 Dec 2025, 15:57:00"
+      "tanggal_terbit": "Friday, 26 Dec 2025, 17:17:00"
     }
   ],
-  "waktu_scraping": "Friday, 26 Dec 2025, 16:26:32"
+  "waktu_scraping": "Friday, 26 Dec 2025, 17:26:08"
 }
