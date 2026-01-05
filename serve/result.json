@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Aturan Baru, Dompet Digital Masuk Pendataan Keuangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dsge416/aturan-baru-dompet-digital-masuk-pendataan-keuangan"
+    },
+    {
       "judul": "Emas Jadi Penyumbang Inflasi Tahunan Terbesar pada 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8drzd416/emas-jadi-penyumbang-inflasi-tahunan-terbesar-pada-2025"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Keutamaan Bulan Rajab Dimuliakan Allah dan Waktu Pertama Kali Perintah Sholat",
       "link_berita": "https://khazanah.republika.co.id/berita/t8dmmz430/keutamaan-bulan-rajab-dimuliakan-allah-dan-waktu-pertama-kali-perintah-sholat"
-    },
-    {
-      "judul": "Rupiah dalam Tekanan Imbas Penangkapan Maduro oleh AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8dk04490/rupiah-dalam-tekanan-imbas-penangkapan-maduro-oleh-as"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "KUHP dan KUHAP Baru Gantikan Warisan Belanda 63 Tahun Lalu",
+      "link_berita": "https://news.republika.co.id/berita/t8dw0k484/kuhp-dan-kuhap-baru-gantikan-warisan-belanda-63-tahun-lalu"
+    },
+    {
+      "judul": "Matcha Jepang Terancam, Produk Tiruan Cina Bermunculan",
+      "link_berita": "https://ameera.republika.co.id/berita/t8dvsi328/matcha-jepang-terancam-produk-tiruan-cina-bermunculan"
+    },
     {
       "judul": "Didakwa Lakukan Korupsi Pengadaan Chromebook, Nadiem Langsung Ajukan Keberatan",
       "link_berita": "https://news.republika.co.id/berita/t8dt85377/didakwa-lakukan-korupsi-pengadaan-chromebook-nadiem-langsung-ajukan-keberatan"
@@ -73,322 +81,314 @@
     {
       "judul": "Petugas Kebersihan RSUD Majalaya Bandung Tewas Dianiaya Atasan",
       "link_berita": "https://news.republika.co.id/berita/t8d6nw377/petugas-kebersihan-rsud-majalaya-bandung-tewas-dianiaya-atasan"
-    },
-    {
-      "judul": "Operasi Militer AS di Venezuela Tewaskan 80 Orang",
-      "link_berita": "https://news.republika.co.id/berita/t8d1t8430000/operasi-militer-as-di-venezuela-tewaskan-80-orang"
-    },
-    {
-      "judul": "Arus Balik Wisatawan Nataru Mulai Terlihat di Bandara Ngurah Rai",
-      "link_berita": "https://news.republika.co.id/berita/t8cs398430000/arus-balik-wisatawan-nataru-mulai-terlihat-di-bandara-ngurah-rai"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pemerintah Diminta Antisipasi Inflasi Pangan Jelang Ramadhan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dtvc416/pemerintah-diminta-antisipasi-inflasi-pangan-jelang-ramadhan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:30:25"
+    },
+    {
+      "judul": "Kudeta AS di Venezuela: Ancaman atau Peluang bagi Sektor Batubara Indonesia?",
+      "link_berita": "https://news.republika.co.id/berita/t8dwzz475/kudeta-as-di-venezuela-ancaman-atau-peluang-bagi-sektor-batubara-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:28:25"
+    },
+    {
+      "judul": "Pembatasan Ekspresi Bisa Tekan Kepercayaan Investor",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dwgy423/pembatasan-ekspresi-bisa-tekan-kepercayaan-investor",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:17:25"
+    },
+    {
+      "judul": "KUHP dan KUHAP Baru Gantikan Warisan Belanda 63 Tahun Lalu",
+      "link_berita": "https://news.republika.co.id/berita/t8dw0k484/kuhp-dan-kuhap-baru-gantikan-warisan-belanda-63-tahun-lalu",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:07:25"
+    },
+    {
+      "judul": "Matcha Jepang Terancam, Produk Tiruan Cina Bermunculan",
+      "link_berita": "https://ameera.republika.co.id/berita/t8dvsi328/matcha-jepang-terancam-produk-tiruan-cina-bermunculan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:02:25"
+    },
+    {
+      "judul": "Aturan Baru, Dompet Digital Masuk Pendataan Keuangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dsge416/aturan-baru-dompet-digital-masuk-pendataan-keuangan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:00:25"
+    },
+    {
+      "judul": "BPS: Nilai Tukar Petani Meningkat pada Desember 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dt8v416/bps-nilai-tukar-petani-meningkat-pada-desember-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:00:25"
+    },
+    {
+      "judul": "Tingkah Polah Pelajar di Hari Pertama Sekolah Usai Libur Panjang Akhir Tahun",
+      "link_berita": "https://visual.republika.co.id/berita/t8drfd375/tingkah-polah-pelajar-di-hari-pertama-sekolah-usai-libur-panjang-akhir-tahun",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 09:00:25"
+    },
+    {
+      "judul": "Buruh Tolak Revisi UMSK 2026 yang Ditetapkan Dedi Mulyadi, Ancam Aksi hingga Mogok Kerja",
+      "link_berita": "https://news.republika.co.id/berita/t8dvkz487/buruh-tolak-revisi-umsk-2026-yang-ditetapkan-dedi-mulyadi-ancam-aksi-hingga-mogok-kerja",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:58:25"
+    },
+    {
+      "judul": "Transparansi Berbuah Apresiasi, bank bjb Raih Anugerah Keterbukaan Informasi Publik 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dvi4472/transparansi-berbuah-apresiasi-bank-bjb-raih-anugerah-keterbukaan-informasi-publik-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:56:25"
+    },
+    {
+      "judul": "Gelombang Dingin Landa Utara Saudi, Embun Beku Selimuti Wilayah Tabuk",
+      "link_berita": "https://khazanah.republika.co.id/berita/t8dv6i430/gelombang-dingin-landa-utara-saudi-embun-beku-selimuti-wilayah-tabuk",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:49:25"
+    },
+    {
+      "judul": "Bank Syariah Diproyeksikan Bakal Beroperasi di Rusia pada 2026",
+      "link_berita": "https://sharia.republika.co.id/berita/t8dv6a490/bank-syariah-diproyeksikan-bakal-beroperasi-di-rusia-pada-2026",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:49:25"
+    },
+    {
+      "judul": "Bank bjb dan TNI AL Lanjutkan Kolaborasi Penguatan Layanan Keuangan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dv32472/bank-bjb-dan-tni-al-lanjutkan-kolaborasi-penguatan-layanan-keuangan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:47:25"
+    },
+    {
+      "judul": "Masyarakat Diminta Waspada Penularan Super Flu",
+      "link_berita": "https://ameera.republika.co.id/berita/t8dv1h328/masyarakat-diminta-waspada-penularan-super-flu",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:46:25"
+    },
+    {
+      "judul": "Jumlah Kunjungan Wisman Hampir Capai 14 Juta hingga November 2025",
+      "link_berita": "https://news.republika.co.id/berita/t8duzc484/jumlah-kunjungan-wisman-hampir-capai-14-juta-hingga-november-2025",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:45:25"
+    },
+    {
+      "judul": "1,2 Juta Agen BRILink Putar Ekonomi Desa, Transaksi Tembus Rp 1.592 Triliun",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8duri423/12-juta-agen-brilink-putar-ekonomi-desa-transaksi-tembus-rp-1592-triliun",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:40:25"
+    },
+    {
       "judul": "Jaksa Sebut Nadiem Sudah Tahu Laptop Chromebook Bermasalah",
       "link_berita": "https://news.republika.co.id/berita/t8duho487/jaksa-sebut-nadiem-sudah-tahu-laptop-chromebook-bermasalah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:34:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Michael B Jordan Ternyata Jalani Terapi Usai Black Panther",
       "link_berita": "https://ameera.republika.co.id/berita/t8duef328/michael-b-jordan-ternyata-jalani-terapi-usai-black-panther",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:32:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Prajurit TNI AD Jalan Tiga Hari Angkut Genset PLN di Aceh Barat",
       "link_berita": "https://news.republika.co.id/berita/t8duaa484/prajurit-tni-ad-jalan-tiga-hari-angkut-genset-pln-di-aceh-barat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:30:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Inflasi Aceh, Sumut, dan Sumbar Melonjak Imbas Bencana",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8dsa8416/inflasi-aceh-sumut-dan-sumbar-melonjak-imbas-bencana",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:29:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Banjir Bandang Terjang Kepulauan Sitaro Sulut, Enam Orang Meninggal Dunia",
       "link_berita": "https://visual.republika.co.id/berita/t8drlu375/banjir-bandang-terjang-kepulauan-sitaro-sulut-enam-orang-meninggal-dunia",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:29:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "IHSG Menguat di Awal Pekan, Modal Asing Rp 1,3 Triliun Buka Peluang Rekor Baru",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8du6f423/ihsg-menguat-di-awal-pekan-modal-asing-rp-13-triliun-buka-peluang-rekor-baru",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:27:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Senator Bernie Sanders: AS tak Berhak Mengatur Venezuela, Trump Ingin Bangkitkan Doktrin Monroe",
       "link_berita": "https://news.republika.co.id/berita/t8dtx2377/senator-bernie-sanders-as-tak-berhak-mengatur-venezuela-trump-ingin-bangkitkan-doktrin-monroe",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:22:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Mantan Polisi Pembunuh Kekasihnya Didakwa Pasal Pembunuhan Berencana",
       "link_berita": "https://news.republika.co.id/berita/t8dto5487/mantan-polisi-pembunuh-kekasihnya-didakwa-pasal-pembunuhan-berencana",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:16:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Tangan Diborgol dan Memakai Rompi Tahanan, Nadiem Makarim Jalani Sidang Perdana",
       "link_berita": "https://tv.republika.co.id/berita/t8dtny313/tangan-diborgol-dan-memakai-rompi-tahanan-nadiem-makarim-jalani-sidang-perdana",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:16:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Respons Serangan Amerika, Kim Jong Un Luncurkan Dua Rudal Balistik Sekaligus",
       "link_berita": "https://news.republika.co.id/berita/t8dtkv451/respons-serangan-amerika-kim-jong-un-luncurkan-dua-rudal-balistik-sekaligus",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:14:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Pengaduan Melonjak, Pigai: Kepercayaan ke Kementerian HAM Meningkat",
       "link_berita": "https://news.republika.co.id/berita/t8dtjj484/pengaduan-melonjak-pigai-kepercayaan-ke-kementerian-ham-meningkat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:13:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Rekening Bank di Atas Rp 15 Miliar Masuk Pengawasan Pajak",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8dtbo423/rekening-bank-di-atas-rp-15-miliar-masuk-pengawasan-pajak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:09:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Wali Kota Bandung Umumkan Risiko Darurat Sampah Mulai 12 Januari",
       "link_berita": "https://rejabar.republika.co.id/berita/t8dtbl487/wali-kota-bandung-umumkan-risiko-darurat-sampah-mulai-12-januari",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:09:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Didakwa Lakukan Korupsi Pengadaan Chromebook, Nadiem Langsung Ajukan Keberatan",
       "link_berita": "https://news.republika.co.id/berita/t8dt85377/didakwa-lakukan-korupsi-pengadaan-chromebook-nadiem-langsung-ajukan-keberatan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 08:07:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 08:36:25"
     },
     {
       "judul": "Emas Jadi Penyumbang Inflasi Tahunan Terbesar pada 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8drzd416/emas-jadi-penyumbang-inflasi-tahunan-terbesar-pada-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:59:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Libur Nataru Usai, Lalu Lintas Jakarta Kembali Macet di Sejumlah Titik Jalan",
       "link_berita": "https://visual.republika.co.id/berita/t8dqz4375/libur-nataru-usai-lalu-lintas-jakarta-kembali-macet-di-sejumlah-titik-jalan",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:59:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Inflasi di Sumut, Sumbar, dan Aceh Meroket, Dipicu Kenaikan Harga Pangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8dsu0490/inflasi-di-sumut-sumbar-dan-aceh-meroket-dipicu-kenaikan-harga-pangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:58:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Rektor UPI Ingatkan Masih Maraknya Bullying di Dunia Pendidikan",
       "link_berita": "https://news.republika.co.id/berita/t8dsr9371/rektor-upi-ingatkan-masih-maraknya-bullying-di-dunia-pendidikan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:57:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Warisan Ternyata tak Langsung Bebas dari Pajak Selama Belum Dibagi, Ini Aturannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8dslj349/warisan-ternyata-tak-langsung-bebas-dari-pajak-selama-belum-dibagi-ini-aturannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:53:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Praktisi Migas Sebut Ketegangan AS-Venezuela tak Guncang Harga Minyak Dunia, Ini Alasannya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8ds75490/praktisi-migas-sebut-ketegangan-asvenezuela-tak-guncang-harga-minyak-dunia-ini-alasannya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:44:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Polis Asuransi di Atas Rp 4 Miliar Masuk Laporan Pajak",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8ds1f423/polis-asuransi-di-atas-rp-4-miliar-masuk-laporan-pajak",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:41:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Kemenhaj Diusulkan Bentuk Tim Khusus Atasi Persoalan Haji Khusus",
       "link_berita": "https://khazanah.republika.co.id/berita/t8dryl430/kemenhaj-diusulkan-bentuk-tim-khusus-atasi-persoalan-haji-khusus",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:39:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Jejak Tapak Diduga Harimau di Gunungkidul, BKSDA Minta Warga Waspada",
       "link_berita": "https://rejogja.republika.co.id/berita/t8dryi282/jejak-tapak-diduga-harimau-di-gunungkidul-bksda-minta-warga-waspada",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:39:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Baznas Ingin Pastikan Siswa di Lokasi Bencana Nyaman Belajar",
       "link_berita": "https://news.republika.co.id/berita/t8drx8484/baznas-ingin-pastikan-siswa-di-lokasi-bencana-nyaman-belajar",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Produk Lokal Berjaya di Harbolnas 2025, Penjualan Capai Rp16,6 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8dlso416/produk-lokal-berjaya-di-harbolnas-2025-penjualan-capai-rp166-triliun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Harapan yang Terbit dari Balik Lumpur Sekolah",
       "link_berita": "https://news.republika.co.id/berita/t8drde451/harapan-yang-terbit-dari-balik-lumpur-sekolah",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Ada Mossad di Balik Kerusuhan di Iran?",
       "link_berita": "https://news.republika.co.id/berita/t8drd1393/ada-mossad-di-balik-kerusuhan-di-iran",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Ibu 19 Tahun di Jember Mutilasi Bayi, Kementerian PPPA Soroti Dampak Perkawinan Anak",
       "link_berita": "https://ameera.republika.co.id/berita/t8drak425/ibu-19-tahun-di-jember-mutilasi-bayi-kementerian-pppa-soroti-dampak-perkawinan-anak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Bangkitkan Optimisme Siswa Belajar Jadi Kunci Pulihkan Sumatera",
       "link_berita": "https://news.republika.co.id/berita/t8dr1n451/bangkitkan-optimisme-siswa-belajar-jadi-kunci-pulihkan-sumatera",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Nadiem Makarim Jalani Sidang Perdana, Didakwa Rugikan Negara Rp2,18 T",
       "link_berita": "https://visual.republika.co.id/berita/t8dqr1375/nadiem-makarim-jalani-sidang-perdana-didakwa-rugikan-negara-rp218-t",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Daftar Tujuh Isi KUHP dan KUHAP yang Dianggap Kontroversi di Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/t8dqma484/daftar-tujuh-isi-kuhp-dan-kuhap-yang-dianggap-kontroversi-di-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Menenun Literasi Reproduksi di Jantung Pesantren",
       "link_berita": "https://khazanah.republika.co.id/berita/t8dqkc451/menenun-literasi-reproduksi-di-jantung-pesantren",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 07:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 07:36:25"
     },
     {
       "judul": "Pemprov Papua Barat Tegaskan Perluasan Kebun Sawit Wajib Izin Masyarakat Adat",
       "link_berita": "https://esgnow.republika.co.id/berita/t8dkm7416/pemprov-papua-barat-tegaskan-perluasan-kebun-sawit-wajib-izin-masyarakat-adat",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 06:36:25"
     },
     {
       "judul": "Pemkot Semarang Sahkan Raperda Fasilitasi Pengembangan Pesantren",
       "link_berita": "https://khazanah.republika.co.id/berita/t8dq0f451/pemkot-semarang-sahkan-raperda-fasilitasi-pengembangan-pesantren",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 06:36:25"
     },
     {
-      "judul": "Dul Jaelani Ubah Rasa Tertindas Jadi Energi Musik Rock",
-      "link_berita": "https://ameera.republika.co.id/berita/t8dpzw425/dul-jaelani-ubah-rasa-tertindas-jadi-energi-musik-rock",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Majelis Tetapkan Sidang Nadiem Pakai KUHAP Baru karena Untungkan Terdakwa",
-      "link_berita": "https://news.republika.co.id/berita/t8dpxe487/majelis-tetapkan-sidang-nadiem-pakai-kuhap-baru-karena-untungkan-terdakwa",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Motif Pembunuhan Anak Politikus PKS Terungkap, Pelaku Ingin Mencuri Usai Rugi Besar Main Kripto,",
-      "link_berita": "https://news.republika.co.id/berita/t8dptr377/motif-pembunuhan-anak-politikus-pks-terungkap-pelaku-ingin-mencuri-usai-rugi-besar-main-kripto",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "32 Tentara Kuba Gugur Saat Jaga Maduro dari Penculikan oleh AS",
-      "link_berita": "https://news.republika.co.id/berita/t8dpnm393/32-tentara-kuba-gugur-saat-jaga-maduro-dari-penculikan-oleh-as",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Prudential dan Mercy Corps Latih Ribuan UMKM Kelola Keuangan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8dl67416/prudential-dan-mercy-corps-latih-ribuan-umkm-kelola-keuangan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Timothee Chalamet Menang Aktor Terbaik di Critics Choice Awards 2026",
-      "link_berita": "https://ameera.republika.co.id/berita/t8dpd9425/timothee-chalamet-menang-aktor-terbaik-di-critics-choice-awards-2026",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Tetesan Darah ASN Kemenag untuk Korban Bencana Sumatera",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8dpcu451/tetesan-darah-asn-kemenag-untuk-korban-bencana-sumatera",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Benarkah Aktivitas Memasak Bisa Bantu Menyembuhkan Batin?",
-      "link_berita": "https://ameera.republika.co.id/berita/t8donm425/benarkah-aktivitas-memasak-bisa-bantu-menyembuhkan-batin",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Belanja Pakai Kripto di Atas Rp800 Juta Kini Masuk Pantauan Pajak",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8dobo490/belanja-pakai-kripto-di-atas-rp800-juta-kini-masuk-pantauan-pajak",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 06:38:39"
-    },
-    {
-      "judul": "Bernardo Tavares tak Janjikan Juara Bersama Persebaya, tapi Bekerja Keras di Lapangan",
-      "link_berita": "https://news.republika.co.id/berita/t8dnp5348/bernardo-tavares-tak-janjikan-juara-bersama-persebaya-tapi-bekerja-keras-di-lapangan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "Desember 2025, Israel 27 Kali Menyerbu Masjid Al-Aqsa dan 92 Kali Larang Azan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8dn8t430/desember-2025-israel-27-kali-menyerbu-masjid-alaqsa-dan-92-kali-larang-azan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "Cedera Menghantui Man City Usai Ditahan Imbang Chelsea, Guardiola Terancam Andalkan Akademi",
-      "link_berita": "https://news.republika.co.id/berita/t8dn5t348/cedera-menghantui-man-city-usai-ditahan-imbang-chelsea-guardiola-terancam-andalkan-akademi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "Tanggal Ramadhan dan Idul Fitri 2026 untuk Pakistan Diumumkan",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8dn2q430/tanggal-ramadhan-dan-idul-fitri-2026-untuk-pakistan-diumumkan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "UIN Datokarama Palu: Memahat Keikhlasan di Balik Capaian Akreditasi Unggul",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8dn0w451/uin-datokarama-palu-memahat-keikhlasan-di-balik-capaian-akreditasi-unggul",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "Daftar Film Bercerita tentang Kudeta dan Intervensi AS, Ada Argo Hingga Angel Has Fallen",
-      "link_berita": "https://ameera.republika.co.id/berita/t8dmun425/daftar-film-bercerita-tentang-kudeta-dan-intervensi-as-ada-argo-hingga-angel-has-fallen",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "Keutamaan Bulan Rajab Dimuliakan Allah dan Waktu Pertama Kali Perintah Sholat",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8dmmz430/keutamaan-bulan-rajab-dimuliakan-allah-dan-waktu-pertama-kali-perintah-sholat",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 05:38:39"
-    },
-    {
-      "judul": "Michael B Jordan Ternyata Jalani Terapi Usai Black Panther",
-      "link_berita": "https://ameera.republika.co.id/berita/t8duef328/michael-b-jordan-ternyata-jalani-terapi-usai-black-panther",
+      "judul": "Matcha Jepang Terancam, Produk Tiruan Cina Bermunculan",
+      "link_berita": "https://ameera.republika.co.id/berita/t8dvsi328/matcha-jepang-terancam-produk-tiruan-cina-bermunculan",
       "kategori": "Happening",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 15:32:00"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 16:02:00"
     },
     {
       "judul": "Pemprov Papua Barat Tegaskan Perluasan Kebun Sawit Wajib Izin Masyarakat Adat",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Monday, 05 Jan 2026, 14:00:00"
     },
     {
-      "judul": "Inflasi Aceh, Sumut, dan Sumbar Melonjak Imbas Bencana",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8dsa8416/inflasi-aceh-sumut-dan-sumbar-melonjak-imbas-bencana",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 15:30:00"
+      "judul": "Pemerintah Diminta Antisipasi Inflasi Pangan Jelang Ramadhan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8dtvc416/pemerintah-diminta-antisipasi-inflasi-pangan-jelang-ramadhan",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 16:30:00"
     },
     {
-      "judul": "Segmen Haji Muda Jadi Mesin Pertumbuhan BSI",
-      "link_berita": "https://sharia.republika.co.id/berita/t8bz4g423/segmen-haji-muda-jadi-mesin-pertumbuhan-bsi",
+      "judul": "Bank Syariah Diproyeksikan Bakal Beroperasi di Rusia pada 2026",
+      "link_berita": "https://sharia.republika.co.id/berita/t8dv6a490/bank-syariah-diproyeksikan-bakal-beroperasi-di-rusia-pada-2026",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 04 Jan 2026, 15:19:00"
+      "tanggal_terbit": "Monday, 05 Jan 2026, 15:49:00"
     },
     {
-      "judul": "Jaksa Sebut Nadiem Sudah Tahu Laptop Chromebook Bermasalah",
-      "link_berita": "https://news.republika.co.id/berita/t8duho487/jaksa-sebut-nadiem-sudah-tahu-laptop-chromebook-bermasalah",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 05 Jan 2026, 15:34:00"
+      "judul": "Kudeta AS di Venezuela: Ancaman atau Peluang bagi Sektor Batubara Indonesia?",
+      "link_berita": "https://news.republika.co.id/berita/t8dwzz475/kudeta-as-di-venezuela-ancaman-atau-peluang-bagi-sektor-batubara-indonesia",
+      "kategori": "News Analysis",
+      "tanggal_terbit": "Monday, 05 Jan 2026, 16:28:00"
     }
   ],
-  "waktu_scraping": "Monday, 05 Jan 2026, 15:38:39"
+  "waktu_scraping": "Monday, 05 Jan 2026, 16:36:25"
 }
