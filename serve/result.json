@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "BMKG Prakirakan Hujan di Jakarta dan Kepulauan Seribu Sepanjang Hari",
+      "link_berita": "https://news.republika.co.id/berita/t8kadd4030000/bmkg-prakirakan-hujan-di-jakarta-dan-kepulauan-seribu-sepanjang-hari"
+    },
+    {
+      "judul": "KPK Dalami Aliran Uang Kasus Korupsi Bupati Bekasi",
+      "link_berita": "https://news.republika.co.id/berita/t8k4oc1530000/kpk-dalami-aliran-uang-kasus-korupsi-bupati-bekasi"
+    },
+    {
       "judul": "Naskah Khutbah Jumat: Pergantian Waktu Manifestasi Peringatan Allah SWT",
       "link_berita": "https://iqra.republika.co.id/berita/t8jhmq366/naskah-khutbah-jumat-pergantian-waktu-manifestasi-peringatan-allah-swt"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Komika Pandji Dilaporkan Organisasi Kepemudaan NU dan Muhammadiyah",
       "link_berita": "https://news.republika.co.id/berita/t8jxqc409/komika-pandji-dilaporkan-organisasi-kepemudaan-nu-dan-muhammadiyah"
-    },
-    {
-      "judul": "Snack Diduga Jadi Sumber Keracunan Massal Mahasiswa UNISA, Salah Satu Isinya Risol Mayo",
-      "link_berita": "https://rejogja.republika.co.id/berita/t8jtz4282/snack-diduga-jadi-sumber-keracunan-massal-mahasiswa-unisa-salah-satu-isinya-risol-mayo"
-    },
-    {
-      "judul": "Jaksa Minta Izin ke Hakim, Sita Tanah dan Bangunan Milik Nadiem di Dharmawangsa",
-      "link_berita": "https://news.republika.co.id/berita/t8jqw4377/jaksa-minta-izin-ke-hakim-sita-tanah-dan-bangunan-milik-nadiem-di-dharmawangsa"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pemerintah Wajibkan Campuran Etanol dalam Bensin Paling Lambat 2028",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8k8973230000/pemerintah-wajibkan-campuran-etanol-dalam-bensin-paling-lambat-2028"
+    },
+    {
+      "judul": "China Tegaskan Dukungan untuk PBB Meski AS Mundur dari Organisasi Internasional",
+      "link_berita": "https://news.republika.co.id/berita/t8k3zi5030000/china-tegaskan-dukungan-untuk-pbb-meski-as-mundur-dari-organisasi-internasional"
+    },
     {
       "judul": "Meski Keluhkan Parkir Liar dan Macet, Wisatawan Puas dengan Libur Nataru di Yogya",
       "link_berita": "https://rejogja.republika.co.id/berita/t8k1nd282/meski-keluhkan-parkir-liar-dan-macet-wisatawan-puas-dengan-libur-nataru-di-yogya"
@@ -73,316 +81,308 @@
     {
       "judul": "Habiskan Rp100 M, Bandara Kertajati Sepi, Warga Datang untuk Live TikTok Sambil Gelar Tikar",
       "link_berita": "https://rejabar.republika.co.id/berita/t8jdqw282/habiskan-rp100-m-bandara-kertajati-sepi-warga-datang-untuk-live-tiktok-sambil-gelar-tikar"
-    },
-    {
-      "judul": "Defisit APBN 2025 Bengkak ke Rp 695,1 Triliun, Pemerintah Pilih Tambah Stimulus",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8jbxz423/defisit-apbn-2025-bengkak-ke-rp-6951-triliun-pemerintah-pilih-tambah-stimulus"
-    },
-    {
-      "judul": "Bahlil Umumkan Lifting Migas Tercapai Pertama Kali dalam 10 Tahun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8j9gs423/bahlil-umumkan-lifting-migas-tercapai-pertama-kali-dalam-10-tahun"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Menkeu Buka Peluang Tambah Batas Defisit APBD 2026 Jika Hal Ini Terpenuhi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8kj4j370/menkeu-buka-peluang-tambah-batas-defisit-apbd-2026-jika-hal-ini-terpenuhi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 23:12:12"
+    },
+    {
+      "judul": "843 Jiwa Mengungsi di Bangunan Sekolah Akibat Banjir yang Melanda Halmahera Barat",
+      "link_berita": "https://visual.republika.co.id/berita/t8k2hz375/843-jiwa-mengungsi-di-bangunan-sekolah-akibat-banjir-yang-melanda-halmahera-barat",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 23:00:12"
+    },
+    {
+      "judul": "Trump: Saya tidak Butuh Hukum internasional",
+      "link_berita": "https://khazanah.republika.co.id/berita/t8ki6u483/trump-saya-tidak-butuh-hukum-internasional",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 22:52:12"
+    },
+    {
       "judul": "Sulawesi Barat Tingkatkan Penemuan Kasus TBC pada 2026",
       "link_berita": "https://news.republika.co.id/berita/t8kgh95230000/sulawesi-barat-tingkatkan-penemuan-kasus-tbc-pada-2026",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 22:15:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 22:21:12"
     },
     {
       "judul": "Polda Banten Perkuat Swasembada Pangan lewat Panen Raya Jagung",
       "link_berita": "https://news.republika.co.id/berita/t8kbn0830000/polda-banten-perkuat-swasembada-pangan-lewat-panen-raya-jagung",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 20:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 20:21:12"
     },
     {
       "judul": "Tangerang Optimalkan Produksi Beras dengan Memanfaatkan Lahan Tersedia",
       "link_berita": "https://news.republika.co.id/berita/t8kaxm10030000/tangerang-optimalkan-produksi-beras-dengan-memanfaatkan-lahan-tersedia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 20:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 20:21:12"
     },
     {
       "judul": "BMKG Prakirakan Hujan di Jakarta dan Kepulauan Seribu Sepanjang Hari",
       "link_berita": "https://news.republika.co.id/berita/t8kadd4030000/bmkg-prakirakan-hujan-di-jakarta-dan-kepulauan-seribu-sepanjang-hari",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 20:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 20:21:12"
     },
     {
       "judul": "Bulog Diminta Proaktif Serap Jagung Produksi Polri untuk Ketahanan Pangan",
       "link_berita": "https://news.republika.co.id/berita/t8k8uk4330000/bulog-diminta-proaktif-serap-jagung-produksi-polri-untuk-ketahanan-pangan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:21:12"
     },
     {
       "judul": "Barcelona Segera Rekrut Joao Cancelo dari Al Hilal",
       "link_berita": "https://news.republika.co.id/berita/t8k89i2030000/barcelona-segera-rekrut-joao-cancelo-dari-al-hilal",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:21:12"
     },
     {
       "judul": "Pemerintah Wajibkan Campuran Etanol dalam Bensin Paling Lambat 2028",
-      "link_berita": "https://news.republika.co.id/berita/t8k8973230000/pemerintah-wajibkan-campuran-etanol-dalam-bensin-paling-lambat-2028",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:25:09"
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8k8973230000/pemerintah-wajibkan-campuran-etanol-dalam-bensin-paling-lambat-2028",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:21:12"
     },
     {
       "judul": "Kemenkop Dukung Pemulihan Pasca Bencana di Sumatera",
       "link_berita": "https://news.republika.co.id/berita/t8k86z3630000/kemenkop-dukung-pemulihan-pasca-bencana-di-sumatera",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:21:12"
     },
     {
       "judul": "Aceh Bangun 104 Rumah Permanen untuk Korban Bencana",
       "link_berita": "https://news.republika.co.id/berita/t8k7gd6430000/aceh-bangun-104-rumah-permanen-untuk-korban-bencana",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 19:21:12"
     },
     {
       "judul": "Titiek Soeharto Dorong Ekspor Beras dan Jagung Usai Swasembada",
       "link_berita": "https://news.republika.co.id/berita/t8k6rg6730000/titiek-soeharto-dorong-ekspor-beras-dan-jagung-usai-swasembada",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:21:12"
     },
     {
       "judul": "KPK Imbau Anggota DPRD Bekasi Nyumarno Penuhi Panggilan",
       "link_berita": "https://news.republika.co.id/berita/t8k62g7630000/kpk-imbau-anggota-dprd-bekasi-nyumarno-penuhi-panggilan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:21:12"
     },
     {
       "judul": "Indonesia dan Turki Gelar Pertemuan '2+2' Perdana di Ankara",
       "link_berita": "https://news.republika.co.id/berita/t8k5db8430000/indonesia-dan-turki-gelar-pertemuan-22-perdana-di-ankara",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:21:12"
     },
     {
       "judul": "KPK Dalami Aliran Uang Kasus Korupsi Bupati Bekasi",
       "link_berita": "https://news.republika.co.id/berita/t8k4oc1530000/kpk-dalami-aliran-uang-kasus-korupsi-bupati-bekasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 18:21:12"
     },
     {
       "judul": "China Tegaskan Dukungan untuk PBB Meski AS Mundur dari Organisasi Internasional",
       "link_berita": "https://news.republika.co.id/berita/t8k3zi5030000/china-tegaskan-dukungan-untuk-pbb-meski-as-mundur-dari-organisasi-internasional",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "Bulog Catat Rekor Penyerapan Gabah Tertinggi Sepanjang Sejarah di 2025",
       "link_berita": "https://news.republika.co.id/berita/t8k3ac9830000/bulog-catat-rekor-penyerapan-gabah-tertinggi-sepanjang-sejarah-di-2025",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "Bauran Energi Terbarukan Ketenagalistrikan Lampaui Target RUKN",
       "link_berita": "https://news.republika.co.id/berita/t8k2la2030000/bauran-energi-terbarukan-ketenagalistrikan-lampaui-target-rukn",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "Naskah Khutbah Jumat: Pergantian Waktu Manifestasi Peringatan Allah SWT",
       "link_berita": "https://iqra.republika.co.id/berita/t8jhmq366/naskah-khutbah-jumat-pergantian-waktu-manifestasi-peringatan-allah-swt",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "INDEF: Program Makan Bergizi Gratis Tidak Perburuk Posisi Fiskal",
       "link_berita": "https://news.republika.co.id/berita/t8k1wb3930000/indef-program-makan-bergizi-gratis-tidak-perburuk-posisi-fiskal",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "Sampah Menumpuk Tak Kunjung Teratasi, Mahasiswa Gelar Aksi Buang Sampah di Kantor Walkot Tangsel",
       "link_berita": "https://visual.republika.co.id/berita/t8jt0f375/sampah-menumpuk-tak-kunjung-teratasi-mahasiswa-gelar-aksi-buang-sampah-di-kantor-walkot-tangsel",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "Meski Keluhkan Parkir Liar dan Macet, Wisatawan Puas dengan Libur Nataru di Yogya",
       "link_berita": "https://rejogja.republika.co.id/berita/t8k1nd282/meski-keluhkan-parkir-liar-dan-macet-wisatawan-puas-dengan-libur-nataru-di-yogya",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 17:21:12"
     },
     {
       "judul": "4,7 Juta Kendaraan di Jateng Menunggak PKB pada 2025, Pendapatan Rp2,4 T Hilang",
       "link_berita": "https://rejogja.republika.co.id/berita/t8k181282/47-juta-kendaraan-di-jateng-menunggak-pkb-pada-2025-pendapatan-rp24-t-hilang",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Pendaki Hilang di Gunung Slamet tak Ditemukan Setelah 9 Hari Pencarian, Operasi SAR Dihentikan",
       "link_berita": "https://rejogja.republika.co.id/berita/t8jzm7282/pendaki-hilang-di-gunung-slamet-tak-ditemukan-setelah-9-hari-pencarian-operasi-sar-dihentikan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Buru Gelar IBL 2026, Pelita Jaya Ingin Jadi Klub dengan Tradisi Juara di Kompetisi Basket Tertinggi",
       "link_berita": "https://news.republika.co.id/berita/t8jzts348/buru-gelar-ibl-2026-pelita-jaya-ingin-jadi-klub-dengan-tradisi-juara-di-kompetisi-basket-tertinggi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Partai Penguasa Somaliland Angkat Bicara Soal Pengakuan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/t8jzp4320/partai-penguasa-somaliland-angkat-bicara-soal-pengakuan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Kepala BKN Dorong Pemda Bisa Berlakukan WFA untuk ASN",
       "link_berita": "https://rejogja.republika.co.id/berita/t8jz6j282/kepala-bkn-dorong-pemda-bisa-berlakukan-wfa-untuk-asn",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Tahun Baru, Generasi Muda Dinilai Kian Tegas Tentukan Standar Hunian Ideal",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8jyxe483/tahun-baru-generasi-muda-dinilai-kian-tegas-tentukan-standar-hunian-ideal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Menkeu Purbaya Pastikan Alokasi Bonus Atlet SEA Games dari APBN",
       "link_berita": "https://news.republika.co.id/berita/t8jyx5348/menkeu-purbaya-pastikan-alokasi-bonus-atlet-sea-games-dari-apbn",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 16:21:12"
     },
     {
       "judul": "Apresiasi Peraih Medali SEA Games 2025, Presiden: Saudara Jaga Kehormatan Bangsa Indonesia",
       "link_berita": "https://news.republika.co.id/berita/t8jyew348/apresiasi-peraih-medali-sea-games-2025-presiden-saudara-jaga-kehormatan-bangsa-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Putri KW dan Sabar/Reza Menang, Lima Wakil Indonesia Sempurna ke Perempat Final Malaysia Open",
       "link_berita": "https://news.republika.co.id/berita/t8jy4x348/putri-kw-dan-sabarreza-menang-lima-wakil-indonesia-sempurna-ke-perempat-final-malaysia-open",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Suriah Kembali Bergejolak Perang Saudara, Israel Semakin Berani Caplok Wilayahnya",
       "link_berita": "https://khazanah.republika.co.id/berita/t8jxve320/suriah-kembali-bergejolak-perang-saudara-israel-semakin-berani-caplok-wilayahnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Komika Pandji Dilaporkan Organisasi Kepemudaan NU dan Muhammadiyah",
       "link_berita": "https://news.republika.co.id/berita/t8jxqc409/komika-pandji-dilaporkan-organisasi-kepemudaan-nu-dan-muhammadiyah",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Kejati NTB Tahan Dua Tersangka Korupsi Pengadaan Lahan Sirkuit MXGP",
       "link_berita": "https://visual.republika.co.id/berita/t8jt58375/kejati-ntb-tahan-dua-tersangka-korupsi-pengadaan-lahan-sirkuit-mxgp",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "BPKP Hitung Kerugian Negara Kasus Korupsi IUP Nikel Konawe Utara",
       "link_berita": "https://news.republika.co.id/berita/t8jxez409/bpkp-hitung-kerugian-negara-kasus-korupsi-iup-nikel-konawe-utara",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Arah Percakapan Publik dan Tanggung Jawab Negara Atas Masa Depan Ekosistem Digital",
       "link_berita": "https://analisis.republika.co.id/berita/t8jx79320/arah-percakapan-publik-dan-tanggung-jawab-negara-atas-masa-depan-ekosistem-digital",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "INALUM Perkuat Industri Aluminium Terpadu di Usia 50 Tahun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8jx1k522/inalum-perkuat-industri-aluminium-terpadu-di-usia-50-tahun",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Tersangka Kasus Ijazah, Eggy Sudjana Temui Jokowi di Solo",
       "link_berita": "https://news.republika.co.id/berita/t8jwwk409/tersangka-kasus-ijazah-eggy-sudjana-temui-jokowi-di-solo",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Madrasah Pembangunan UIN Jakarta Teguhkan Jalan Inklusif di Usianya ke-52 Tahun",
       "link_berita": "https://khazanah.republika.co.id/berita/t8jwqp320/madrasah-pembangunan-uin-jakarta-teguhkan-jalan-inklusif-di-usianya-ke52-tahun",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Kekosongan Regulasi AI di Indonesia, Warga Negara dalam Posisi Rentan",
       "link_berita": "https://news.republika.co.id/berita/t8jwow484/kekosongan-regulasi-ai-di-indonesia-warga-negara-dalam-posisi-rentan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Baku Tembak Sengit SDF Kurdi dengan Tentara Suriah, 4 Tanya Jawab Ini Menjelaskan Kondisinya",
       "link_berita": "https://khazanah.republika.co.id/berita/t8jw52320/baku-tembak-sengit-sdf-kurdi-dengan-tentara-suriah-4-tanya-jawab-ini-menjelaskan-kondisinya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Daya Beli Kendaraan Bermotor Melemah, Penerimaan Pajak Merosot",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8jw2j502/daya-beli-kendaraan-bermotor-melemah-penerimaan-pajak-merosot",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Kabar TNI Terlibat Tangani Terorisme, Begini Respons Jubir Presiden",
       "link_berita": "https://news.republika.co.id/berita/t8jvz8484/kabar-tni-terlibat-tangani-terorisme-begini-respons-jubir-presiden",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 15:21:12"
     },
     {
       "judul": "Kapolresta Yogya Pastikan Peneror Guru Besar UGM Bukan Anggota Polisi",
       "link_berita": "https://rejogja.republika.co.id/berita/t8jv02282/kapolresta-yogya-pastikan-peneror-guru-besar-ugm-bukan-anggota-polisi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:21:12"
     },
     {
       "judul": "Penerimaan Pajak 2025 Hanya 87,6 Persen Dari Target, Saat Belanja Pajak Naik",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8jvdd502/penerimaan-pajak-2025-hanya-876-persen-dari-target-saat-belanja-pajak-naik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:21:12"
     },
     {
       "judul": "Hasil Panen Raya Jagung di Wilayah Jawa Barat Capai 300 Ton",
       "link_berita": "https://visual.republika.co.id/berita/t8jswu375/hasil-panen-raya-jagung-di-wilayah-jawa-barat-capai-300-ton",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:21:12"
     },
     {
       "judul": "Bilal bin Rabah, Teguh dalam Islam",
       "link_berita": "https://khazanah.republika.co.id/berita/t8jt6t458/bilal-bin-rabah-teguh-dalam-islam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:21:12"
     },
     {
       "judul": "YIS Salurkan Bantuan ke Aceh Kurangi Beban Warga Terdampak Bencana,",
       "link_berita": "https://news.republika.co.id/berita/t8juqq484/yis-salurkan-bantuan-ke-aceh-kurangi-beban-warga-terdampak-bencana",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:21:12"
     },
     {
       "judul": "Munas Pemuda Hidayatullah Soroti Peran Strategis Generasi Muda Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/t8juap458/munas-pemuda-hidayatullah-soroti-peran-strategis-generasi-muda-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
-    },
-    {
-      "judul": "Kepala BKN Minta Pemda Sediakan Beasiswa untuk ASN",
-      "link_berita": "https://rejogja.republika.co.id/berita/t8juab282/kepala-bkn-minta-pemda-sediakan-beasiswa-untuk-asn",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
-    },
-    {
-      "judul": "Takhayul, Khurafat dan Tathayyur Mesti Dijauhi",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8jszp458/takhayul-khurafat-dan-tathayyur-mesti-dijauhi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
-    },
-    {
-      "judul": "Snack Diduga Jadi Sumber Keracunan Massal Mahasiswa UNISA, Salah Satu Isinya Risol Mayo",
-      "link_berita": "https://rejogja.republika.co.id/berita/t8jtz4282/snack-diduga-jadi-sumber-keracunan-massal-mahasiswa-unisa-salah-satu-isinya-risol-mayo",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:25:09"
+      "tanggal_terbit": "Thursday, 08 Jan 2026, 14:21:12"
     },
     {
       "judul": "Istri Mandiri Bukan Berarti Enggak Butuh Andil Suami",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 08 Jan 2026, 21:00:00"
     },
     {
-      "judul": "Tahun Baru, Generasi Muda Dinilai Kian Tegas Tentukan Standar Hunian Ideal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8jyxe483/tahun-baru-generasi-muda-dinilai-kian-tegas-tentukan-standar-hunian-ideal",
+      "judul": "Menkeu Buka Peluang Tambah Batas Defisit APBD 2026 Jika Hal Ini Terpenuhi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8kj4j370/menkeu-buka-peluang-tambah-batas-defisit-apbd-2026-jika-hal-ini-terpenuhi",
       "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 08 Jan 2026, 22:56:00"
+      "tanggal_terbit": "Friday, 09 Jan 2026, 06:12:00"
     },
     {
       "judul": "Bank Aladin Syariah Nilai Digitalisasi Kunci Tingkatkan Inklusi",
@@ -415,5 +415,5 @@
       "tanggal_terbit": "Friday, 09 Jan 2026, 05:15:00"
     }
   ],
-  "waktu_scraping": "Friday, 09 Jan 2026, 05:25:09"
+  "waktu_scraping": "Friday, 09 Jan 2026, 06:21:12"
 }
