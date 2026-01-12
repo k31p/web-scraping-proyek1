@@ -23,6 +23,10 @@
   ],
   "berita_unggulan": [
     {
+      "judul": "Hujan Seharian di Jakarta, Enam RT dan Empat Ruas Jalan Terendam Banjir, Berikut Rinciannya",
+      "link_berita": "https://news.republika.co.id/berita/t8qqj6483/hujan-seharian-di-jakarta-enam-rt-dan-empat-ruas-jalan-terendam-banjir-berikut-rinciannya"
+    },
+    {
       "judul": "Pasukan Basij Redakan Kerusuhan di Teheran",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qnmd483/pasukan-basij-redakan-kerusuhan-di-teheran"
     },
@@ -77,343 +81,339 @@
     {
       "judul": "Truk Tertabrak Kereta di Perlintasan Kebon Jeruk, Jakarta Barat",
       "link_berita": "https://news.republika.co.id/berita/t8pna81530000/truk-tertabrak-kereta-di-perlintasan-kebon-jeruk-jakarta-barat"
-    },
-    {
-      "judul": "Analisis Forensik Linguistik atas Kebebasan Berekspresi dalam Konten Pandji Pragiwaksono",
-      "link_berita": "https://analisis.republika.co.id/berita/t8pjl7291/analisis-forensik-linguistik-atas-kebebasan-berekspresi-dalam-konten-pandji-pragiwaksono"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Lima Kebiasaan Harian yang Diam-Diam Memicu Hipertensi",
+      "link_berita": "https://ameera.republika.co.id/berita/t8qsws425/lima-kebiasaan-harian-yang-diamdiam-memicu-hipertensi",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:29:17"
+    },
+    {
+      "judul": "Manajemen Persib Sayangkan Adanya Pesan Kematian untuk Tom Haye",
+      "link_berita": "https://news.republika.co.id/berita/t8qsue348/manajemen-persib-sayangkan-adanya-pesan-kematian-untuk-tom-haye",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:28:17"
+    },
+    {
+      "judul": "Mengenal Reza Pahlavi, Putera Mahkota Shah Terakhir yang Memprovokasi Kerusuhan di Iran",
+      "link_berita": "https://khazanah.republika.co.id/berita/t8qsth483/mengenal-reza-pahlavi-putera-mahkota-shah-terakhir-yang-memprovokasi-kerusuhan-di-iran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:27:17"
+    },
+    {
+      "judul": "Investasi dan Lapangan Kerja Jadi Kunci Dongkrak Pertumbuhan Ekonomi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8qst8416/investasi-dan-lapangan-kerja-jadi-kunci-dongkrak-pertumbuhan-ekonomi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:27:17"
+    },
+    {
+      "judul": "Terungkap: Israel Rencanakan Kembali Serang Gaza pada Maret",
+      "link_berita": "https://news.republika.co.id/berita/t8qsrn393/terungkap-israel-rencanakan-kembali-serang-gaza-pada-maret",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:26:17"
+    },
+    {
+      "judul": "Ular King Kobra Melingkar di Kolong Meja, Warga Lapor Damkar",
+      "link_berita": "https://rejabar.republika.co.id/berita/t8qsp2487/ular-king-kobra-melingkar-di-kolong-meja-warga-lapor-damkar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:24:17"
+    },
+    {
+      "judul": "Perkuat UMKM, BSI Ekspansi Lapak Syariah ke Pasar Tradisional",
+      "link_berita": "https://sharia.republika.co.id/berita/t8qsks370/perkuat-umkm-bsi-ekspansi-lapak-syariah-ke-pasar-tradisional",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:22:17"
+    },
+    {
+      "judul": "Harga Emas Melonjak 67 Persen Sepanjang 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8qs4v370/harga-emas-melonjak-67-persen-sepanjang-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:12:17"
+    },
+    {
+      "judul": "Nadiem Kecewa dengan Putusan Hakim, Sampaikan Pesan dari Google",
+      "link_berita": "https://news.republika.co.id/berita/t8qs15377/nadiem-kecewa-dengan-putusan-hakim-sampaikan-pesan-dari-google",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:10:17"
+    },
+    {
+      "judul": "Tips Menjaga Daya Tahan Tubuh Saat Pancaroba Agar Terhindar dari Super Flu",
+      "link_berita": "https://ameera.republika.co.id/berita/t8qrza425/tips-menjaga-daya-tahan-tubuh-saat-pancaroba-agar-terhindar-dari-super-flu",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:09:17"
+    },
+    {
+      "judul": "Wilayah Terdampak di Jakarta Terus Bertambah, 28 RT dan 46 Ruas Jalan Kebanjiran",
+      "link_berita": "https://news.republika.co.id/berita/t8qryu487/wilayah-terdampak-di-jakarta-terus-bertambah-28-rt-dan-46-ruas-jalan-kebanjiran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:09:17"
+    },
+    {
+      "judul": "Hampir Setahun tak Cair, Eks Buruh Sritex Tagih Pesangon dan THR",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8qrxv416/hampir-setahun-tak-cair-eks-buruh-sritex-tagih-pesangon-dan-thr",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:08:17"
+    },
+    {
+      "judul": "Laga Kedua Jadi Pelajaran Berharga, Bandung bjb Tandamata Siapkan Perbaikan",
+      "link_berita": "https://news.republika.co.id/berita/t8qrnc368/laga-kedua-jadi-pelajaran-berharga-bandung-bjb-tandamata-siapkan-perbaikan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 08:02:17"
+    },
+    {
+      "judul": "Perbanyak Jumlah Dokter, Prabowo: Negara akan Biayai Kampus Kedokteran",
+      "link_berita": "https://news.republika.co.id/berita/t8qrgp377/perbanyak-jumlah-dokter-prabowo-negara-akan-biayai-kampus-kedokteran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:58:17"
+    },
+    {
+      "judul": "Pembongkaran Tiang Monorel Diklaim Kurangi 18 Persen Kemacetan di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/t8qr8i487/pembongkaran-tiang-monorel-diklaim-kurangi-18-persen-kemacetan-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:53:17"
+    },
+    {
+      "judul": "Iklim Menghangat, Resor Ski di Jepang Berguguran",
+      "link_berita": "https://esgnow.republika.co.id/berita/t8qr6y416/iklim-menghangat-resor-ski-di-jepang-berguguran",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:52:17"
+    },
+    {
+      "judul": "Hujan Seharian di Jakarta, Enam RT dan Empat Ruas Jalan Terendam Banjir, Berikut Rinciannya",
+      "link_berita": "https://news.republika.co.id/berita/t8qqj6483/hujan-seharian-di-jakarta-enam-rt-dan-empat-ruas-jalan-terendam-banjir-berikut-rinciannya",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:38:17"
+    },
+    {
+      "judul": "4 Tahun Cyber University Jadi Pelopor Fintech dalam Mencetak Generasi Pemimpin Perubahan Digital",
+      "link_berita": "https://news.republika.co.id/berita/t8qqdo472/4-tahun-cyber-university-jadi-pelopor-fintech-dalam-mencetak-generasi-pemimpin-perubahan-digital",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:37:17"
+    },
+    {
       "judul": "Pelajar Aceh Tamiang Belajar di Tenda Darurat Pascabencana Banjir",
       "link_berita": "https://visual.republika.co.id/berita/t8qnfg375/pelajar-aceh-tamiang-belajar-di-tenda-darurat-pascabencana-banjir",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:30:01"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:37:17"
     },
     {
       "judul": "BI Ungkap Penjualan Eceran Meningkat pada November 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8qq2e416/bi-ungkap-penjualan-eceran-meningkat-pada-november-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:27:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:37:17"
     },
     {
       "judul": "Di Antara Mesin Pabrik dan Mimpi Mahasiswa, UBSI Kampus Cikarang Pilih Menempa tak Sekadar Mengajar",
       "link_berita": "https://news.republika.co.id/berita/t8qpzm472/di-antara-mesin-pabrik-dan-mimpi-mahasiswa-ubsi-kampus-cikarang-pilih-menempa-tak-sekadar-mengajar",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:26:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:37:17"
     },
     {
       "judul": "Lulus tak Hanya Raih Gelar Sarjana, UBSI Tempa Mahasiswa Siap Tempur di Arena Karier",
       "link_berita": "https://news.republika.co.id/berita/t8qpit472/lulus-tak-hanya-raih-gelar-sarjana-ubsi-tempa-mahasiswa-siap-tempur-di-arena-karier",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:15:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:37:17"
     },
     {
       "judul": "Dika, Pembunuh Kakek di Bandung Ditangkap",
       "link_berita": "https://tv.republika.co.id/berita/t8qp6n418/dika-pembunuh-kakek-di-bandung-ditangkap",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:08:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 07:37:17"
     },
     {
       "judul": "Universitas Nusa Mandiri Jajaki Kerja Sama Karier Global dengan TP Indonesia",
       "link_berita": "https://news.republika.co.id/berita/t8qp24472/universitas-nusa-mandiri-jajaki-kerja-sama-karier-global-dengan-tp-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:05:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Film One Battle After Another Berjaya di Golden Globes 2026",
       "link_berita": "https://ameera.republika.co.id/berita/t8qp1o425/film-one-battle-after-another-berjaya-di-golden-globes-2026",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:05:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Hujan Sejak Pagi, 22 RT dan 33 Ruas Jalan di Jakarta Terendam Banjir",
       "link_berita": "https://news.republika.co.id/berita/t8qot7502/hujan-sejak-pagi-22-rt-dan-33-ruas-jalan-di-jakarta-terendam-banjir",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:00:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Trump Pertimbangkan Opsi Soal Intervensi Situasi Iran",
       "link_berita": "https://news.republika.co.id/berita/t8qos9393/trump-pertimbangkan-opsi-soal-intervensi-situasi-iran",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 07:00:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Kanada Luncurkan Program Pendanaan untuk Pengusaha Perempuan RI",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8qnge423/kanada-luncurkan-program-pendanaan-untuk-pengusaha-perempuan-ri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:58:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "UNM Cetak Talenta IT Siap Kerja Lewat Program IEP 3+1",
       "link_berita": "https://news.republika.co.id/berita/t8qopc472/unm-cetak-talenta-it-siap-kerja-lewat-program-iep-31",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:58:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "KPK Periksa Wakil Katib Syuriah PWNU Jakarta dalam Kasus Korupsi Kuota Haji",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qoha430/kpk-periksa-wakil-katib-syuriah-pwnu-jakarta-dalam-kasus-korupsi-kuota-haji",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:53:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Kelas Karyawan UNM Jadi Solusi Buat Mahasiswa yang Sambil Kerja",
       "link_berita": "https://news.republika.co.id/berita/t8qo9p472/kelas-karyawan-unm-jadi-solusi-buat-mahasiswa-yang-sambil-kerja",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:48:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Rakernas Perdana, Asosiasi Ma'had Aly Perkuat Kolaborasi Antarpesantren",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qo1b483/rakernas-perdana-asosiasi-mahad-aly-perkuat-kolaborasi-antarpesantren",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:43:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Puluhan Ruas Jalan di Jakarta Kebanjiran, Pramono: Satu Jam Pasti Surut",
       "link_berita": "https://news.republika.co.id/berita/t8qntt377/puluhan-ruas-jalan-di-jakarta-kebanjiran-pramono-satu-jam-pasti-surut",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:39:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "BNI Dukung Danantara Serahkan 600 Hunian Layak Pascabencana di Aceh Tamiang",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8qntc472/bni-dukung-danantara-serahkan-600-hunian-layak-pascabencana-di-aceh-tamiang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:39:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Pasukan Basij Redakan Kerusuhan di Teheran",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qnmd483/pasukan-basij-redakan-kerusuhan-di-teheran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:34:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "HSBC Proyeksikan IHSG Tembus 9.700 pada 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8qn1q423/hsbc-proyeksikan-ihsg-tembus-9700-pada-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:34:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Menlu Araghchi Beberkan Bukti Keterliban Agen Mossad dalam Kekerasan Mematikan di Iran",
       "link_berita": "https://news.republika.co.id/berita/t8qnl8377/menlu-araghchi-beberkan-bukti-keterliban-agen-mossad-dalam-kekerasan-mematikan-di-iran",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:34:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Keutamaan Dzikir Menurut Al-Habib Abdullah bin Alawi Al-Haddad",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qngy430/keutamaandzikirmenurutalhabib-abdullah-bin-alawi-alhaddad",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:31:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Sukses Buat Kejutan, Bandung bjb Tandamata Kuras Livin 3-0",
       "link_berita": "https://news.republika.co.id/berita/t8qncp472/sukses-buat-kejutan-bandung-bjb-tandamata-kuras-livin-30",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Diguyur Hujan Deras, Sejumlah Wilayah di Jakarta Terendam Banjir",
       "link_berita": "https://visual.republika.co.id/berita/t8qn1k375/diguyur-hujan-deras-sejumlah-wilayah-di-jakarta-terendam-banjir",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Investasi Tembus 2,4 Triliun Dolar AS, Bukti Transisi Energi tak Lagi Bisa Dihentikan",
       "link_berita": "https://esgnow.republika.co.id/berita/t8qmke423/investasi-tembus-24-triliun-dolar-as-bukti-transisi-energi-tak-lagi-bisa-dihentikan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Bandung bjb Tandamata Siapkan Kejutan di Pertandingan Perdana Proliga 2026",
       "link_berita": "https://news.republika.co.id/berita/t8qmu8472/bandung-bjb-tandamata-siapkan-kejutan-di-pertandingan-perdana-proliga-2026",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Pakar Soroti Denda Satgas PKH ke Korporasi Bisa Triliunan",
       "link_berita": "https://news.republika.co.id/berita/t8qmyn484/pakar-soroti-denda-satgas-pkh-ke-korporasi-bisa-triliunan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Daftar Lengkap Pemenang Golden Globes 2026",
       "link_berita": "https://ameera.republika.co.id/berita/t8qmkw425/daftar-lengkap-pemenang-golden-globes-2026",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Distribusikan Bantuan Lewat PMI, Istiqlal Pulihkan Masjid Terdampak Bencana di Aceh Tamiang",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qmf5483/distribusikan-bantuan-lewat-pmi-istiqlal-pulihkan-masjid-terdampak-bencana-di-aceh-tamiang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Gagal Nonton Persib Vs Persija di GBLA, 10 Bobotoh Malah Dapat Doorprize Umroh dari Kapolres Cimahi",
       "link_berita": "https://rejabar.republika.co.id/berita/t8qmdx282/gagal-nonton-persib-vs-persija-di-gbla-10-bobotoh-malah-dapat-doorprize-umroh-dari-kapolres-cimahi",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Defisit Fiskal 2,9 Persen Masih dalam Batas Wajar",
       "link_berita": "https://ekonomi.republika.co.id/berita/t8qmdj423/defisit-fiskal-29-persen-masih-dalam-batas-wajar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 06:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 06:37:17"
     },
     {
       "judul": "Senyum, Makanan Bergizi, dan Impian di Sekolah Rakyat Banjarbaru",
       "link_berita": "https://news.republika.co.id/berita/t8qjh5451/senyum-makanan-bergizi-dan-impian-di-sekolah-rakyat-banjarbaru",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 05:37:17"
     },
     {
       "judul": "Pezeshkian: AS dan Israel Bawa Teroris dari Luar Negeri untuk Membakar Masjid dan Pasar di Iran",
       "link_berita": "https://khazanah.republika.co.id/berita/t8qm18483/pezeshkian-as-dan-israel-bawa-teroris-dari-luar-negeri-untuk-membakar-masjid-dan-pasar-di-iran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 05:37:17"
     },
     {
       "judul": "Usai 'Menculik' Maduro, Kini Donald Trump Mengeklaim Jadi Presiden Sementara Venezuela",
       "link_berita": "https://news.republika.co.id/berita/t8qm17377/usai-menculik-maduro-kini-donald-trump-mengeklaim-jadi-presiden-sementara-venezuela",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 05:37:17"
     },
     {
-      "judul": "Broken Strings, Kisah Kelam Aurelie Moeremans Jadi Korban Grooming di Usia 15 Tahun",
-      "link_berita": "https://ameera.republika.co.id/berita/t8qlsn425/broken-strings-kisah-kelam-aurelie-moeremans-jadi-korban-grooming-di-usia-15-tahun",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
+      "judul": "Lima Kebiasaan Harian yang Diam-Diam Memicu Hipertensi",
+      "link_berita": "https://ameera.republika.co.id/berita/t8qsws425/lima-kebiasaan-harian-yang-diamdiam-memicu-hipertensi",
+      "kategori": "Health",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 15:29:00"
     },
     {
-      "judul": "Israel Bunuh Pelan-Pelan Anak-Anak Gaza",
-      "link_berita": "https://news.republika.co.id/berita/t8qlpb393/israel-bunuh-pelanpelan-anakanak-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
+      "judul": "Iklim Menghangat, Resor Ski di Jepang Berguguran",
+      "link_berita": "https://esgnow.republika.co.id/berita/t8qr6y416/iklim-menghangat-resor-ski-di-jepang-berguguran",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 14:52:00"
     },
     {
-      "judul": "Memahami Tiga Tingkatan Zuhud, Jalan Spiritual Bertahap Menurut Imam Al Ghazali",
-      "link_berita": "https://khazanah.republika.co.id/berita/t8qlkr430/memahami-tiga-tingkatan-zuhud-jalan-spiritual-bertahap-menurut-imam-al-ghazali",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "LPEI Soroti Pergeseran Tren Pembayaran Perdagangan Internasional",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8qkz4423/lpei-soroti-pergeseran-tren-pembayaran-perdagangan-internasional",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "Bella Hadid dan Pedro Pascal Pimpin Acara Amal Solidaritas Palestina",
-      "link_berita": "https://ameera.republika.co.id/berita/t8qksx425/bella-hadid-dan-pedro-pascal-pimpin-acara-amal-solidaritas-palestina",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "Pemilik Maktour Sempat Dicekal Bersama Yaqut Tapi tak Berstatus Tersangka, Ini Kata KPK",
-      "link_berita": "https://news.republika.co.id/berita/t8qjp0409/pemilik-maktour-sempat-dicekal-bersama-yaqut-tapi-tak-berstatus-tersangka-ini-kata-kpk",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "Korupsi Kuota Haji",
-      "link_berita": "https://analisis.republika.co.id/berita/t8qjlf415/korupsi-kuota-haji",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "KCIC: Whoosh Angkut 6,2 Juta Penumpang pada 2025, Naik 200 Ribu dari 2024",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8qjcx423/kcic-whoosh-angkut-62-juta-penumpang-pada-2025-naik-200-ribu-dari-2024",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "Wamenhaj: Petugas Haji Fokus Layani Jamaah, Bukan Nebeng Naik Haji",
-      "link_berita": "https://tv.republika.co.id/berita/t8qjct313/wamenhaj-petugas-haji-fokus-layani-jamaah-bukan-nebeng-naik-haji",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 05:30:37"
-    },
-    {
-      "judul": "Pakar Hukum UI: Dakwaan Jaksa ke Nadiem Pasti Berdasar, Bukan Asal Tuduh",
-      "link_berita": "https://news.republika.co.id/berita/t8qj9l318/pakar-hukum-ui-dakwaan-jaksa-ke-nadiem-pasti-berdasar-bukan-asal-tuduh",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Dari Indonesia untuk Anak-Anak Palestina",
-      "link_berita": "https://tv.republika.co.id/berita/yt-t8qgh3166872215/dari-indonesia-untuk-anakanak-palestina",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Jelaskan Alasan Yaqut Jadi Tersangka, KPK Ungkit Cerita Jokowi ke Pangeran MBS",
-      "link_berita": "https://news.republika.co.id/berita/t8qj12409/jelaskan-alasan-yaqut-jadi-tersangka-kpk-ungkit-cerita-jokowi-ke-pangeran-mbs",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Fakta Mobil BMW Putih yang Viral karena Pengemudinya Merokok Menurut Data Kemenhan",
-      "link_berita": "https://news.republika.co.id/berita/t8qird409/fakta-mobil-bmw-putih-yang-viral-karena-pengemudinya-merokok-menurut-data-kemenhan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Adopsi KUHAP Baru, KPK Tak Lagi Pamerkan Koruptor saat Konpers",
-      "link_berita": "https://tv.republika.co.id/berita/t8qilb418/adopsi-kuhap-baru-kpk-tak-lagi-pamerkan-koruptor-saat-konpers",
-      "kategori": "Video",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Jakarta Diguyur Hujan Sejak Pagi, Puluhan Ruas Jalan Terendam Banjir",
-      "link_berita": "https://news.republika.co.id/berita/t8qibl409/jakarta-diguyur-hujan-sejak-pagi-puluhan-ruas-jalan-terendam-banjir",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Hukum Internasional Diuji: Kedaulatan dan Masa Depan Tatanan Global dalam Kasus Venezuela",
-      "link_berita": "https://analisis.republika.co.id/berita/t8qi27472/hukum-internasional-diuji-kedaulatan-dan-masa-depan-tatanan-global-dalam-kasus-venezuela",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "PAAI Minta Pemerintah Tinjau Ulang Kebijakan Pajak Agen Asuransi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8qhm0416/paai-minta-pemerintah-tinjau-ulangkebijakan-pajak-agen-asuransi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Korupsi dalam Perpajakan: Reposisi Etika Negara di Era Penegakan Hukum",
-      "link_berita": "https://analisis.republika.co.id/berita/t8qh3z472/korupsi-dalam-perpajakan-reposisi-etika-negara-di-era-penegakan-hukum",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 04:30:37"
-    },
-    {
-      "judul": "Film One Battle After Another Berjaya di Golden Globes 2026",
-      "link_berita": "https://ameera.republika.co.id/berita/t8qp1o425/film-one-battle-after-another-berjaya-di-golden-globes-2026",
-      "kategori": "Happening",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 14:05:00"
-    },
-    {
-      "judul": "Investasi Tembus 2,4 Triliun Dolar AS, Bukti Transisi Energi tak Lagi Bisa Dihentikan",
-      "link_berita": "https://esgnow.republika.co.id/berita/t8qmke423/investasi-tembus-24-triliun-dolar-as-bukti-transisi-energi-tak-lagi-bisa-dihentikan",
-      "kategori": "Tata Kelola",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 13:20:00"
-    },
-    {
-      "judul": "BI Ungkap Penjualan Eceran Meningkat pada November 2025",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t8qq2e416/bi-ungkap-penjualan-eceran-meningkat-pada-november-2025",
+      "judul": "Investasi dan Lapangan Kerja Jadi Kunci Dongkrak Pertumbuhan Ekonomi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t8qst8416/investasi-dan-lapangan-kerja-jadi-kunci-dongkrak-pertumbuhan-ekonomi",
       "kategori": "Finansial",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 14:27:00"
+      "tanggal_terbit": "Monday, 12 Jan 2026, 15:27:00"
     },
     {
-      "judul": "BPJPH Perkuat Sinergi dengan Kemenkes dan BPOM Jelang Wajib Halal 2026",
-      "link_berita": "https://sharia.republika.co.id/berita/t8q9py423/bpjph-perkuat-sinergi-dengan-kemenkes-dan-bpom-jelang-wajib-halal-2026",
-      "kategori": "Industri Halal Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 08:34:00"
+      "judul": "Perkuat UMKM, BSI Ekspansi Lapak Syariah ke Pasar Tradisional",
+      "link_berita": "https://sharia.republika.co.id/berita/t8qsks370/perkuat-umkm-bsi-ekspansi-lapak-syariah-ke-pasar-tradisional",
+      "kategori": "Keuangan Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 15:22:00"
     },
     {
-      "judul": "Di Antara Mesin Pabrik dan Mimpi Mahasiswa, UBSI Kampus Cikarang Pilih Menempa tak Sekadar Mengajar",
-      "link_berita": "https://news.republika.co.id/berita/t8qpzm472/di-antara-mesin-pabrik-dan-mimpi-mahasiswa-ubsi-kampus-cikarang-pilih-menempa-tak-sekadar-mengajar",
-      "kategori": "Bina Sarana Informatika",
-      "tanggal_terbit": "Monday, 12 Jan 2026, 14:26:00"
+      "judul": "Manajemen Persib Sayangkan Adanya Pesan Kematian untuk Tom Haye",
+      "link_berita": "https://news.republika.co.id/berita/t8qsue348/manajemen-persib-sayangkan-adanya-pesan-kematian-untuk-tom-haye",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 12 Jan 2026, 15:27:00"
     }
   ],
-  "waktu_scraping": "Monday, 12 Jan 2026, 14:30:37"
+  "waktu_scraping": "Monday, 12 Jan 2026, 15:37:17"
 }
