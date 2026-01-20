@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Tim SAR Temukan Titik Jatuh Pesawat ATR",
+      "link_berita": "https://news.republika.co.id/berita/t95g7i377/tim-sar-temukan-titik-jatuh-pesawat-atr"
+    },
+    {
+      "judul": "Pramono Sebut Stasiun MRT Harmoni Jadi TOD Sangat Strategis",
+      "link_berita": "https://news.republika.co.id/berita/t95fec484/pramono-sebut-stasiun-mrt-harmoni-jadi-tod-sangat-strategis"
+    },
+    {
       "judul": "Niat Puasa Syaban dan Keutamaannya",
       "link_berita": "https://khazanah.republika.co.id/berita/t95cue430/niat-puasa-syaban-dan-keutamaannya"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Indonesia Masters 2026 Resmi Dimulai, 17 Wakil Merah Putih Tampil di Istora Hari Ini",
       "link_berita": "https://news.republika.co.id/berita/t956jw348/indonesia-masters-2026-resmi-dimulai-17-wakil-merah-putih-tampil-di-istora-hari-ini"
-    },
-    {
-      "judul": "Mampu Memediasi Konflik Lain, 'Dewan Perdamaian Trump' Bisa Saingi PBB",
-      "link_berita": "https://khazanah.republika.co.id/berita/t953q9483/mampu-memediasi-konflik-lain-dewan-perdamaian-trump-bisa-saingi-pbb"
-    },
-    {
-      "judul": "PM Hungaria: Pemimpin Eropa Siapkan Skenario Perang Dunia Ketiga",
-      "link_berita": "https://news.republika.co.id/berita/t9514m393/pm-hungaria-pemimpin-eropa-siapkan-skenario-perang-dunia-ketiga"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Petenis Andalan RI Janice Tjen Tekuk Unggulan untuk Melaju ke Babak Kedua Australian Open",
+      "link_berita": "https://news.republika.co.id/berita/t95i2s377/petenis-andalan-ri-janice-tjen-tekuk-unggulan-untuk-melaju-ke-babak-kedua-australian-open"
+    },
+    {
+      "judul": "Survei: 66,2 Responden Nilai Bencana di Sumatera Akibat Penggundulan Hutan",
+      "link_berita": "https://news.republika.co.id/berita/t95gsq484/survei-662-responden-nilai-bencana-di-sumatera-akibat-penggundulan-hutan"
+    },
     {
       "judul": "Tiba di KPK Usai Kena OTT, Kekayaan Bupati Pati Sudewo Capai Rp31,5 Miliar",
       "link_berita": "https://news.republika.co.id/berita/t95b9i348/tiba-di-kpk-usai-kena-ott-kekayaan-bupati-pati-sudewo-capai-rp315-miliar"
@@ -73,322 +81,314 @@
     {
       "judul": "Ini Alasan LPS Tunda Umumkan Tingkat Bunga Penjaminan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t947gy423/ini-alasan-lps-tunda-umumkan-tingkat-bunga-penjaminan"
-    },
-    {
-      "judul": "Membaca Apa yang Terjadi di Iran dengan Akal Jernih, Bukan Nafsu dan Kebencian",
-      "link_berita": "https://khazanah.republika.co.id/berita/t947qw320/membaca-apa-yang-terjadi-di-iran-dengan-akal-jernih-bukan-nafsu-dan-kebencian"
-    },
-    {
-      "judul": "Menkeu Optimistis Rupiah Menguat, Arus Asing Jadi Penopang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t943di423/menkeu-optimistis-rupiah-menguat-arus-asing-jadi-penopang"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "BGN: Sepanjang 2025 Ada 19.188 SPPG Layani 55,1 Juta Penerima MBG",
+      "link_berita": "https://news.republika.co.id/berita/t95jhr370/bgn-sepanjang-2025-ada-19188-sppg-layani-551-juta-penerima-mbg",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:30:01"
+    },
+    {
+      "judul": "438 Pos Bantuan Hukum di DIY Diresmikan, Akses Keadilan Tak Harus Sampai Pengadilan",
+      "link_berita": "https://rejogja.republika.co.id/berita/t95jfb282/438-pos-bantuan-hukum-di-diy-diresmikan-akses-keadilan-tak-harus-sampai-pengadilan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:28:01"
+    },
+    {
+      "judul": "Sebut Denmark Lemah, Trump Ungkap Alasan AS Harus Segera Caplok Greenland",
+      "link_berita": "https://news.republika.co.id/berita/t95jfa451/sebut-denmark-lemah-trump-ungkap-alasan-as-harus-segera-caplok-greenland",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:28:01"
+    },
+    {
+      "judul": "Mobil Kawanan Pencuri di Bandung Kecelakaan Saat Hendak Kabur, Satu Pelaku Tewas",
+      "link_berita": "https://news.republika.co.id/berita/t95jar377/mobil-kawanan-pencuri-di-bandung-kecelakaan-saat-hendak-kabur-satu-pelaku-tewas",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:26:01"
+    },
+    {
+      "judul": "'Saatnya Bergerak Menyelamatkan Dunia dari Kegilaan Trump Sebelum Terlambat'",
+      "link_berita": "https://khazanah.republika.co.id/berita/t95j86320/saatnya-bergerak-menyelamatkan-dunia-dari-kegilaan-trump-sebelum-terlambat",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:24:01"
+    },
+    {
+      "judul": "Polisi Dalami Dugaan Kekerasan Seksual Musisi Piche Kota",
+      "link_berita": "https://ameera.republika.co.id/berita/t95j6n425/polisi-dalami-dugaan-kekerasan-seksual-musisi-piche-kota",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:23:01"
+    },
+    {
+      "judul": "Pemprov Jakarta Siapkan Dua Rute Baru Transjabodetabek, Blok M-Soetta dan Cawang-Jababeka",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t95ip3416/pemprov-jakarta-siapkan-dua-rute-baru-transjabodetabek-blok-msoetta-dan-cawangjababeka",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:13:01"
+    },
+    {
+      "judul": "Analis Nilai Pergantian Deputi Gubernur BI tak Ganggu Pasar Saham",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t95ion423/analis-nilai-pergantian-deputi-gubernur-bi-tak-ganggu-pasar-saham",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:12:01"
+    },
+    {
+      "judul": "Artha Graha Peduli Bersihkan Masjid, Vihara, dan Sekolah Pascabencana di Aceh Tamiang",
+      "link_berita": "https://khazanah.republika.co.id/berita/t95ig9368/artha-graha-peduli-bersihkan-masjid-vihara-dan-sekolah-pascabencana-di-aceh-tamiang",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:07:01"
+    },
+    {
+      "judul": "Prancis Tolak Undangan Board of Peace, Endus Niat Trump Gantikan PBB",
+      "link_berita": "https://news.republika.co.id/berita/t95i8d393/prancis-tolak-undangan-board-of-peace-endus-niat-trump-gantikan-pbb",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:03:01"
+    },
+    {
+      "judul": "Menag Jelaskan Sikap Prabowo soal Pembukaan Universitas Al Azhar Cabang Indonesia",
+      "link_berita": "https://khazanah.republika.co.id/berita/t95i3l430/menag-jelaskan-sikap-prabowo-soal-pembukaan-universitas-al-azhar-cabang-indonesia",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 07:00:01"
+    },
+    {
+      "judul": "Petenis Andalan RI Janice Tjen Tekuk Unggulan untuk Melaju ke Babak Kedua Australian Open",
+      "link_berita": "https://news.republika.co.id/berita/t95i2s377/petenis-andalan-ri-janice-tjen-tekuk-unggulan-untuk-melaju-ke-babak-kedua-australian-open",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:59:01"
+    },
+    {
+      "judul": "Ini Alasan Minum Air Lemon Nggak Cukup Buat Nurunin Berat Badan",
+      "link_berita": "https://ameera.republika.co.id/berita/t95i21425/ini-alasan-minum-air-lemon-nggak-cukup-buat-nurunin-berat-badan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:59:01"
+    },
+    {
+      "judul": "Bupati Pati Sudewo Ditangkap KPK, Gerindra: Masalah Pribadi",
+      "link_berita": "https://news.republika.co.id/berita/t95i07409/bupati-pati-sudewo-ditangkap-kpk-gerindra-masalah-pribadi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:58:01"
+    },
+    {
+      "judul": "Hindari Siswa SMP Ugal-ugalan Naik Motor, Bus Karyawan Tabrak Mushola di Bandung Barat",
+      "link_berita": "https://rejabar.republika.co.id/berita/t95hxz282/hindari-siswa-smp-ugalugalan-naik-motor-bus-karyawan-tabrak-mushola-di-bandung-barat",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:56:01"
+    },
+    {
+      "judul": "Berani Lawan Arus Uni Eropa, Presiden Bulgaria Mengundurkan Diri",
+      "link_berita": "https://news.republika.co.id/berita/t95hw0451/berani-lawan-arus-uni-eropa-presiden-bulgaria-mengundurkan-diri",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:55:01"
+    },
+    {
+      "judul": "KPK Sebut Sudewo Patok Harga Tertentu untuk Jabatan di Pemerintah Desa di Pati",
+      "link_berita": "https://news.republika.co.id/berita/t95htt409/kpk-sebut-sudewo-patok-harga-tertentu-untuk-jabatan-di-pemerintah-desa-di-pati",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:54:01"
+    },
+    {
+      "judul": "KPK Sita Uang Miliaran Rupiah dalam OTT Bupati Pati Sudewo",
+      "link_berita": "https://news.republika.co.id/berita/t95ho9409/kpk-sita-uang-miliaran-rupiah-dalam-ott-bupati-pati-sudewo",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:51:01"
+    },
+    {
+      "judul": "Aneka Julukan Bagi Sya'ban",
+      "link_berita": "https://khazanah.republika.co.id/berita/t95hjt483/aneka-julukan-bagi-syaban",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:48:01"
+    },
+    {
+      "judul": "Dolar AS Terus Melemah, Sentimen 'Sell America' Kembali Menguat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t95hig370/dolar-as-terus-melemah-sentimen-sell-america-kembali-menguat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:47:01"
+    },
+    {
+      "judul": "Aktris Korea Han Ji-min Bintangi Drakor Komedi Romantis 'The Practical Guide to Love'",
+      "link_berita": "https://ameera.republika.co.id/berita/t95hfb425/aktris-korea-han-jimin-bintangi-drakor-komedi-romantis-the-practical-guide-to-love",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:45:01"
+    },
+    {
+      "judul": "Dampak Banjir, KAI Batalkan Sejumlah KA di Daop 5 Purwokerto",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t95hdi423/dampak-banjir-kai-batalkan-sejumlah-ka-di-daop-5-purwokerto",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:44:01"
+    },
+    {
       "judul": "Jangan Tunda, Ini Pentingnya Membayar Utang Puasa Ramadhan Beserta Niatnya",
       "link_berita": "https://khazanah.republika.co.id/berita/t95h63483/jangan-tunda-ini-pentingnya-membayar-utang-puasa-ramadhan-beserta-niatnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:39:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:40:01"
     },
     {
       "judul": "Bupati Pati Sudewo Ditangkap KPK, Camat dan Kades Ikut DIciduk",
       "link_berita": "https://news.republika.co.id/berita/t95h1y377/bupati-pati-sudewo-ditangkap-kpk-camat-dan-kades-ikut-diciduk",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:37:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:37:01"
     },
     {
       "judul": "Survei: 66,2 Responden Nilai Bencana di Sumatera Akibat Penggundulan Hutan",
       "link_berita": "https://news.republika.co.id/berita/t95gsq484/survei-662-responden-nilai-bencana-di-sumatera-akibat-penggundulan-hutan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:31:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Tradisi Warga Makkah Menghidupkan Malam Nisfu Sya'ban",
       "link_berita": "https://khazanah.republika.co.id/berita/t95gpt483/tradisi-warga-makkah-menghidupkan-malam-nisfu-syaban",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:30:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Badai Geomagnetik G4 Landa Bumi, BMKG Pastikan Indonesia Relatif Aman",
       "link_berita": "https://esgnow.republika.co.id/berita/t95glp370/badai-geomagnetik-g4-landa-bumi-bmkg-pastikan-indonesia-relatif-aman",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:27:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Hati-Hati! Pasien Diabetes Rentan Terjebak Produk Herbal Palsu",
       "link_berita": "https://ameera.republika.co.id/berita/t95gd4425/hatihati-pasien-diabetes-rentan-terjebak-produk-herbal-palsu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:22:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Hadiah Nobel yang Buat Trump Mau Caplok Greenland dan Tatanan Dunia yang Dirusak",
       "link_berita": "https://news.republika.co.id/berita/t95gav409/hadiah-nobel-yang-buat-trump-mau-caplok-greenland-dan-tatanan-dunia-yang-dirusak",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:21:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Dari Mesir, Menag Nasaruddin Berpesan tentang Ekoteologi Hingga Peran Agama di Era AI",
       "link_berita": "https://khazanah.republika.co.id/berita/t95gam483/dari-mesir-menag-nasaruddin-berpesan-tentang-ekoteologi-hingga-peran-agama-di-era-ai",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:20:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Tim SAR Temukan Titik Jatuh Pesawat ATR",
       "link_berita": "https://news.republika.co.id/berita/t95g7i377/tim-sar-temukan-titik-jatuh-pesawat-atr",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:19:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Celios Nilai WEF Davos Momentum Strategis Tarik Investasi Hijau ke RI",
       "link_berita": "https://esgnow.republika.co.id/berita/t95g29423/celios-nilai-wef-davos-momentum-strategis-tarik-investasi-hijau-ke-ri",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:15:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Semua Pengurus NU yang Terlibat Korupsi Kuota Haji Diminta untuk Dipecat",
       "link_berita": "https://khazanah.republika.co.id/berita/t95fxm483/semua-pengurus-nu-yang-terlibat-korupsi-kuota-haji-diminta-untuk-dipecat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:13:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:32:01"
     },
     {
       "judul": "Pramono Sebut Stasiun MRT Harmoni Jadi TOD Sangat Strategis",
       "link_berita": "https://news.republika.co.id/berita/t95fec484/pramono-sebut-stasiun-mrt-harmoni-jadi-tod-sangat-strategis",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 06:01:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
-      "judul": "Benarkah Rontok 100 Helai Rambut Per Hari Masih Normal?",
+      "judul": "Benarkah Rontok 100 Helai Rambut per Hari Masih Normal?",
       "link_berita": "https://ameera.republika.co.id/berita/t95fai425/benarkah-rontok-100-helai-rambut-per-hari-masih-normal",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:59:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "DKI Batasi Penggunaan Gawai di Sekolah, Fokus Belajar Meningkat",
       "link_berita": "https://news.republika.co.id/berita/t95f6y370/dki-batasi-penggunaan-gawai-di-sekolah-fokus-belajar-meningkat",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:57:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Honda Brio Satya Kini Hadir dengan Transmisi CVT",
       "link_berita": "https://ekonomi.republika.co.id/berita/t95erl370/honda-brio-satya-kini-hadir-dengan-transmisi-cvt",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:47:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Jennifer Lopez Dituding Bersikap Kasar, Kreator Glambot Ungkap Kejadian Sebenarnya",
       "link_berita": "https://ameera.republika.co.id/berita/t95enp425/jennifer-lopez-dituding-bersikap-kasar-kreator-glambot-ungkap-kejadian-sebenarnya",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:45:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Program Magister Ilmu Komputer UNM Jadi Program Magister Informatika, Lebih Siap Hadapi Era AI",
       "link_berita": "https://news.republika.co.id/berita/t95dma368/program-magister-ilmu-komputer-unm-jadi-program-magister-informatika-lebih-siap-hadapi-era-ai",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:44:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Jerman Bangkitkan 'Raksasa Tidur', Siapkan Militer Terkuat Sejak Perang Dunia II",
       "link_berita": "https://news.republika.co.id/berita/t95e3l451/jerman-bangkitkan-raksasa-tidur-siapkan-militer-terkuat-sejak-perang-dunia-ii",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Siap Masuk Dunia Perbankan? UNM Gandeng Bank Mandiri Taspen",
       "link_berita": "https://news.republika.co.id/berita/t95dkt368/siap-masuk-dunia-perbankan-unm-gandeng-bank-mandiri-taspen",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Rupiah Nyaris Rp 17.000, Isu Pergantian Pejabat BI Disorot",
       "link_berita": "https://ekonomi.republika.co.id/berita/t95e2m370/rupiah-nyaris-rp-17000-isu-pergantian-pejabat-bi-disorot",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Tiba di KPK Usai Terjaring OTT, Bupati Sudewo Bungkam saat Ditanya Wartawan",
       "link_berita": "https://visual.republika.co.id/berita/t95c2s375/tiba-di-kpk-usai-terjaring-ott-bupati-sudewo-bungkam-saat-ditanya-wartawan",
       "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Perubahan Iklim Geser Siklus Hidup Musiman Satwa Liar Dunia",
       "link_berita": "https://esgnow.republika.co.id/berita/t95dwb423/perubahan-iklim-geser-siklus-hidup-musiman-satwa-liar-dunia",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Bulog, Penting Berkaca Diri!",
       "link_berita": "https://analisis.republika.co.id/berita/t95do3472/bulog-penting-berkaca-diri",
       "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Calon Akuntan Auto Dilirik HRD! Ini 5 Langkah Anti Gagal Lolos Sertifikasi Zahir",
       "link_berita": "https://news.republika.co.id/berita/t95dk7368/calon-akuntan-auto-dilirik-hrd-ini-5-langkah-anti-gagal-lolos-sertifikasi-zahir",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "OJK Terbitkan Aturan Gugatan Perlindungan Konsumen Sektor Jasa Keuangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t95dfp423/ojk-terbitkan-aturan-gugatan-perlindungan-konsumen-sektor-jasa-keuangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Tak Perlu Berjuang Sendiri, Yuk Kenalan dengan SITUBA Pendamping Pasien TBC",
       "link_berita": "https://news.republika.co.id/berita/t95d6r368/tak-perlu-berjuang-sendiri-yuk-kenalan-dengan-situba-pendamping-pasien-tbc",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Niat Puasa Syaban dan Keutamaannya",
       "link_berita": "https://khazanah.republika.co.id/berita/t95cue430/niat-puasa-syaban-dan-keutamaannya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
       "judul": "Pangkas Produksi Batu Bara dan Nikel, ESDM Tetap Naikkan Target PNBP",
       "link_berita": "https://ekonomi.republika.co.id/berita/t95crc490/pangkas-produksi-batu-bara-dan-nikel-esdm-tetap-naikkan-target-pnbp",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 05:32:01"
     },
     {
-      "judul": "Ketika Ruang Kelas Tak Lagi Berdinding",
-      "link_berita": "https://news.republika.co.id/berita/t95cps368/ketika-ruang-kelas-tak-lagi-berdinding",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Desainer Legendaris Italia Valentino Meninggal Dunia",
-      "link_berita": "https://ameera.republika.co.id/berita/t95cp5425/desainer-legendaris-italia-valentino-meninggal-dunia",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Sebut 'Kambing tak Berguna' Kim Jong Un Dadakan Pecat Wakil Perdana Menteri",
-      "link_berita": "https://news.republika.co.id/berita/t95ck3451/sebut-kambing-tak-berguna-kim-jong-un-dadakan-pecat-wakil-perdana-menteri",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "DJP Kalbar Kupas Tuntas Tantangan Akuntansi Digital, Mahasiswa UBSI Siap Terjun ke Dunia Kerja",
-      "link_berita": "https://news.republika.co.id/berita/t95c9s368/djp-kalbar-kupas-tuntas-tantangan-akuntansi-digital-mahasiswa-ubsi-siap-terjun-ke-dunia-kerja",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "PPPA Daarul Quran Gencarkan Program Sahabat Tuli Mengaji",
-      "link_berita": "https://khazanah.republika.co.id/berita/t95c2m368/pppa-daarul-quran-gencarkan-program-sahabat-tuli-mengaji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Polda Kepri Kini Pakai Mobil Listrik untuk Patroli Dialogis",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t95bl3348/polda-kepri-kini-pakai-mobil-listrik-untuk-patroli-dialogis",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Indahnya Penampakan Aurora Borealis di Langit Jerman",
-      "link_berita": "https://visual.republika.co.id/berita/t95bje375/indahnya-penampakan-aurora-borealis-di-langit-jerman",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Polemik Mata Air di Kuningan, Data di Atas Meja Vs Fakta di Lapangan",
-      "link_berita": "https://news.republika.co.id/berita/t95baq487/polemik-mata-air-di-kuningan-data-di-atas-meja-vs-fakta-di-lapangan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Tiba di KPK Usai Kena OTT, Kekayaan Bupati Pati Sudewo Capai Rp31,5 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/t95b9i348/tiba-di-kpk-usai-kena-ott-kekayaan-bupati-pati-sudewo-capai-rp315-miliar",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "Chivu Waspadai Kekuatan Arsenal, Sebut The Gunners Salah Satu Tim Terbaik Eropa",
-      "link_berita": "https://news.republika.co.id/berita/t95ajx348/chivu-waspadai-kekuatan-arsenal-sebut-the-gunners-salah-satu-tim-terbaik-eropa",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 04:41:20"
-    },
-    {
-      "judul": "DKI Segera Buka Rute Transjabodetabek ke Bandara Soekarno Hatta dan Jababeka",
-      "link_berita": "https://news.republika.co.id/berita/t959z2348/dki-segera-buka-rute-transjabodetabek-ke-bandara-soekarno-hatta-dan-jababeka",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Kena OTT KPK, Kekayaan Wali Kota Madiun Mencapai Rp16,9 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/t959y8377/kena-ott-kpk-kekayaan-wali-kota-madiun-mencapai-rp169-miliar",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "KPK: OTT Bupati Pati Sudewo Menyangkut Jual Beli Jabatan, dari Kaur Sampai Sekdes",
-      "link_berita": "https://news.republika.co.id/berita/t959hq377/kpk-ott-bupati-pati-sudewo-menyangkut-jual-beli-jabatan-dari-kaur-sampai-sekdes",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "'Warning' Dua OTT",
-      "link_berita": "https://analisis.republika.co.id/berita/t9593t415/warning-dua-ott",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Hari Ketiga Operasi SAR, Barang Milik Korban Pesawat ATR Ditemukan di Bulusaraung",
-      "link_berita": "https://news.republika.co.id/berita/t958pk370/hari-ketiga-operasi-sar-barang-milik-korban-pesawat-atr-ditemukan-di-bulusaraung",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Mengungkap Rahasia Ayat Kursi yang Membuat Hati Tenang dan Iman Tegak",
-      "link_berita": "https://iqra.republika.co.id/berita/t9583i451/mengungkap-rahasia-ayat-kursi-yang-membuat-hati-tenang-dan-iman-tegak",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Rupiah Melemah Lagi, Makin Dekat Level Rp17 Ribu per Dolar AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t957za490/rupiah-melemah-lagi-makin-dekat-level-rp17-ribu-per-dolar-as",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Jose Mourinho Tepis Spekulasi Balik ke Real Madrid",
-      "link_berita": "https://news.republika.co.id/berita/t957cd348/jose-mourinho-tepis-spekulasi-balik-ke-real-madrid",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Enam Jam Diperiksa Kejagung terkait Kasus Petral, Sudirman Said Sebut Nama Riza Chalid",
-      "link_berita": "https://news.republika.co.id/berita/t957to487/enam-jam-diperiksa-kejagung-terkait-kasus-petral-sudirman-said-sebut-nama-riza-chalid",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "IHSG Dibuka Menguat, Pasar Waspadai Potensi Koreksi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t957t2490/ihsg-dibuka-menguat-pasar-waspadai-potensi-koreksi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "Masih Terus Menguat, Harga Emas Naik Lagi Hari Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t957nt490/masih-terus-menguat-harga-emas-naik-lagi-hari-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 03:41:20"
-    },
-    {
-      "judul": "SPPG Mustikasari Bekasi Bantah Video Viral Menunya Hanya Ubi dan Pisang",
-      "link_berita": "https://news.republika.co.id/berita/t957hw368/sppg-mustikasari-bekasi-bantah-video-viral-menunya-hanya-ubi-dan-pisang",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 02:41:20"
-    },
-    {
-      "judul": "Hati-Hati! Pasien Diabetes Rentan Terjebak Produk Herbal Palsu",
-      "link_berita": "https://ameera.republika.co.id/berita/t95gd4425/hatihati-pasien-diabetes-rentan-terjebak-produk-herbal-palsu",
-      "kategori": "Health",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 13:22:00"
+      "judul": "Polisi Dalami Dugaan Kekerasan Seksual Musisi Piche Kota",
+      "link_berita": "https://ameera.republika.co.id/berita/t95j6n425/polisi-dalami-dugaan-kekerasan-seksual-musisi-piche-kota",
+      "kategori": "Happening",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 14:23:00"
     },
     {
       "judul": "Badai Geomagnetik G4 Landa Bumi, BMKG Pastikan Indonesia Relatif Aman",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Tuesday, 20 Jan 2026, 13:27:00"
     },
     {
-      "judul": "Honda Brio Satya Kini Hadir dengan Transmisi CVT",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t95erl370/honda-brio-satya-kini-hadir-dengan-transmisi-cvt",
-      "kategori": "Otomotif",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 12:47:00"
+      "judul": "Pemprov Jakarta Siapkan Dua Rute Baru Transjabodetabek, Blok M-Soetta dan Cawang-Jababeka",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t95ip3416/pemprov-jakarta-siapkan-dua-rute-baru-transjabodetabek-blok-msoetta-dan-cawangjababeka",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 14:12:00"
     },
     {
       "judul": "KKP Siap Jadi Katalisator Produk Halal Perikanan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 16 Jan 2026, 09:10:00"
     },
     {
-      "judul": "Bupati Pati Sudewo Ditangkap KPK, Camat dan Kades Ikut DIciduk",
-      "link_berita": "https://news.republika.co.id/berita/t95h1y377/bupati-pati-sudewo-ditangkap-kpk-camat-dan-kades-ikut-diciduk",
+      "judul": "BGN: Sepanjang 2025 Ada 19.188 SPPG Layani 55,1 Juta Penerima MBG",
+      "link_berita": "https://news.republika.co.id/berita/t95jhr370/bgn-sepanjang-2025-ada-19188-sppg-layani-551-juta-penerima-mbg",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 20 Jan 2026, 13:37:00"
+      "tanggal_terbit": "Tuesday, 20 Jan 2026, 14:29:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 20 Jan 2026, 13:41:20"
+  "waktu_scraping": "Tuesday, 20 Jan 2026, 14:32:01"
 }
