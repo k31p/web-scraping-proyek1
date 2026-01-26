@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Perahu Karet Jadi Penyelamat Nyawa Ibu yang Hendak Melahirkan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t9gfvw451/perahu-karet-jadi-penyelamat-nyawa-ibu-yang-hendak-melahirkan"
+    },
+    {
       "judul": "Pencarian Korban Longsor Bandung Barat Hari Ketiga, Tim Sar Gabungan Fokuskan di Sektor Ini",
       "link_berita": "https://news.republika.co.id/berita/t9gciy487/pencarian-korban-longsor-bandung-barat-hari-ketiga-tim-sar-gabungan-fokuskan-di-sektor-ini"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Media Israel: UEA-Yordania-Inggris akan Bantu AS-Israel Serang Iran",
       "link_berita": "https://news.republika.co.id/berita/t9g522393/media-israel-ueayordaniainggris-akan-bantu-asisrael-serang-iran"
-    },
-    {
-      "judul": "Alih Fungsi Lahan Bukan Penyebab Utama Longsor Bandung Barat Menurut Ahli Geologi",
-      "link_berita": "https://news.republika.co.id/berita/t9g2aq409/alih-fungsi-lahan-bukan-penyebab-utama-longsor-bandung-barat-menurut-ahli-geologi"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Lirih dari Longsor Bandung Barat: Ibu-Anak Ditemukan Berpelukan, Ayah Ikut Langsung Mencari Putrinya",
+      "link_berita": "https://news.republika.co.id/berita/t9gh6d487/lirih-dari-longsor-bandung-barat-ibuanak-ditemukan-berpelukan-ayah-ikut-langsung-mencari-putrinya"
+    },
+    {
+      "judul": "Badan Geologi Ingatkan Potensi Longsor Susulan di Pasirlangu Cisarua",
+      "link_berita": "https://esgnow.republika.co.id/berita/t9gemc416/badan-geologi-ingatkan-potensi-longsor-susulan-di-pasirlangu-cisarua"
+    },
     {
       "judul": "IHSG Kembali Dekati 9.000 di tengah Wait and See Pertemuan The Fed",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9gb3v423/ihsg-kembali-dekati-9000-di-tengah-wait-and-seepertemuan-the-fed"
@@ -73,347 +81,339 @@
     {
       "judul": "Kisah Umm Muhammad, Berjuang Rawat 36 Yatim Piatu di Puing-Puing Gaza",
       "link_berita": "https://news.republika.co.id/berita/t9f3bm393/kisah-umm-muhammad-berjuang-rawat-36-yatim-piatu-di-puingpuing-gaza"
-    },
-    {
-      "judul": "Komandan IRGC Ingatkan AS: Kami Lebih Siap dari Sebelumnya, Jari Sudah Berada di Pelatuk",
-      "link_berita": "https://news.republika.co.id/berita/t9ez1i409/komandan-irgc-ingatkan-as-kami-lebih-siap-dari-sebelumnya-jari-sudah-berada-di-pelatuk"
-    },
-    {
-      "judul": "Jajanan Es Gabus Dinyatakan Aman dan Bebas Busa Kasur",
-      "link_berita": "https://ameera.republika.co.id/berita/t9exaw425/jajanan-es-gabus-dinyatakan-aman-dan-bebas-busa-kasur"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Mustafa Kemal Atat\u00fcrk dan Mitos Azab Instan: Catatan dari Sebuah Kunjungan",
+      "link_berita": "https://analisis.republika.co.id/berita/t9gf9i451/mustafa-kemal-atatrk-dan-mitos-azab-instan-catatan-dari-sebuah-kunjungan",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 05:15:40"
+    },
+    {
+      "judul": "Lucky Widja Element akan Dimakamkan di TPU Jeruk Purut",
+      "link_berita": "https://ameera.republika.co.id/berita/t9gh79328/lucky-widja-element-akan-dimakamkan-di-tpu-jeruk-purut",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 05:13:40"
+    },
+    {
+      "judul": "Lirih dari Longsor Bandung Barat: Ibu-Anak Ditemukan Berpelukan, Ayah Ikut Langsung Mencari Putrinya",
+      "link_berita": "https://news.republika.co.id/berita/t9gh6d487/lirih-dari-longsor-bandung-barat-ibuanak-ditemukan-berpelukan-ayah-ikut-langsung-mencari-putrinya",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 05:13:40"
+    },
+    {
+      "judul": "Ketika Nelayan Diterjang Cuaca Ekstrem",
+      "link_berita": "https://analisis.republika.co.id/berita/t9g8i7393/ketika-nelayan-diterjang-cuaca-ekstrem",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 05:02:40"
+    },
+    {
+      "judul": "Produk Asuransi Jiwa Syariah Sertakan Skema Wakaf",
+      "link_berita": "https://sharia.republika.co.id/berita/t9gg8s416/produk-asuransi-jiwa-syariah-sertakan-skema-wakaf",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:53:40"
+    },
+    {
+      "judul": "LIVE Banjir Jakarta Hingga Nasib Guru Honorer",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8i1282723825/live-banjir-jakarta-hingga-nasib-guru-honorer",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Menlu Ungkap Alasan Indonesia Gabung Dewan Perdamaian",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8h1557817763/menlu-ungkap-alasan-indonesia-gabung-dewan-perdamaian",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Perjuangan Tim SAR Makan Berdiri di Tengah Badai",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8g1778546459/perjuangan-tim-sar-makan-berdiri-di-tengah-badai",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Pentingnya Persiapan Mental Bagi Petugas Haji",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8f290854012/pentingnya-persiapan-mental-bagi-petugas-haji",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Prajurit TNI Bekali Petugas Haji Tactical Floor Game",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8d25557197/prajurit-tni-bekali-petugas-haji-tactical-floor-game",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Guci Tegal Banjir Bandang Wisata Pemandian Air Panas Hancur",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8c2067316069/guci-tegal-banjir-bandang-wisata-pemandian-air-panas-hancur",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Longsor di Kabupaten Bandung Barat Telan Korban Jiwa",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8b1546246114/longsor-di-kabupaten-bandung-barat-telan-korban-jiwa",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Alwi Farhan Melaju ke Semifinal Indonesia Masters 2026",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8b411361323/alwi-farhan-melaju-ke-semifinal-indonesia-masters-2026",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Manajamen Waktu Kunci Pergerakan Jamaah di Armuzna",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg8921670165/manajamen-waktu-kunci-pergerakan-jamaah-di-armuzna",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Usaha Jahit Rumahan Afghanistan yang Mendunia",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg87522808685/usaha-jahit-rumahan-afghanistan-yang-mendunia",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Tampil Dominan Alwi Taklukkan Panitchaphon Teeraratsakul di Final Indonesia Master 2026",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg821000809568/tampil-dominan-alwi-taklukkan-panitchaphon-teeraratsakul-di-final-indonesia-master-2026",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Usai Indonesia Masters Alwi Bidik Thailand Masters",
+      "link_berita": "https://tv.republika.co.id/berita/yt-t9gg811125489801/usai-indonesia-masters-alwi-bidik-thailand-masters",
+      "kategori": "Video",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:52:40"
+    },
+    {
+      "judul": "Perahu Karet Jadi Penyelamat Nyawa Ibu yang Hendak Melahirkan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t9gfvw451/perahu-karet-jadi-penyelamat-nyawa-ibu-yang-hendak-melahirkan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:45:40"
+    },
+    {
+      "judul": "Sampah dan Minim Imajinasi Pemerintah Kota",
+      "link_berita": "https://analisis.republika.co.id/berita/t9gfid451/sampah-dan-minim-imajinasi-pemerintah-kota",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:37:40"
+    },
+    {
+      "judul": "Hampir 500 Ribu Penumpang Gunakan KA Brantas Sepanjang 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9gfic416/hampir-500-ribu-penumpang-gunakan-ka-brantas-sepanjang-2025",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:37:40"
+    },
+    {
+      "judul": "Kemendikdasmen Terbitkan Surat Edaran Pelaksanaan Upacara Bendera di Sekolah",
+      "link_berita": "https://news.republika.co.id/berita/t9gfbr472/kemendikdasmen-terbitkan-surat-edaran-pelaksanaan-upacara-bendera-di-sekolah",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:34:40"
+    },
+    {
+      "judul": "Badan Geologi Ingatkan Potensi Longsor Susulan di Pasirlangu Cisarua",
+      "link_berita": "https://esgnow.republika.co.id/berita/t9gemc416/badan-geologi-ingatkan-potensi-longsor-susulan-di-pasirlangu-cisarua",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:34:40"
+    },
+    {
       "judul": "Kementan: Indah Megahwati Korupsi Rp 27 Miliar, Terbukti dari Pengakuan dan Audit Inspektorat",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9gebv472/kementan-indah-megahwati-korupsi-rp-27-miliar-terbukti-dari-pengakuan-dan-audit-inspektorat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 04:11:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 04:34:40"
     },
     {
       "judul": "Polisi Periksa Sopir dan Asisten Lula Lahfah Sebagai Saksi",
       "link_berita": "https://ameera.republika.co.id/berita/t9gdrr328/polisi-periksa-sopir-dan-asisten-lula-lahfah-sebagai-saksi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:59:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "Kabar Puluhan Marinir Jadi Korban Longsong di Cisarua, TNI AL Masih Cari Info",
       "link_berita": "https://news.republika.co.id/berita/t9gdge484/kabar-puluhan-marinir-jadi-korban-longsong-di-cisarua-tni-al-masih-cari-info",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:52:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "Menyentuh Istri, Apakah Membatalkan Wudhu?",
       "link_berita": "https://khazanah.republika.co.id/berita/t9g9i4458/menyentuh-istri-apakah-membatalkan-wudhu",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:39:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "Pencarian Korban Longsor Bandung Barat Hari Ketiga, Tim Sar Gabungan Fokuskan di Sektor Ini",
       "link_berita": "https://news.republika.co.id/berita/t9gciy487/pencarian-korban-longsor-bandung-barat-hari-ketiga-tim-sar-gabungan-fokuskan-di-sektor-ini",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:32:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "Sovereign Halal Fund (SHAF): Genealogi Dana Halal Non-Fiskal",
       "link_berita": "https://analisis.republika.co.id/berita/t9gbwp393/sovereign-halal-fund-shaf-genealogi-dana-halal-nonfiskal",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:19:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "Ketika Abu Bakar Melarang Tawaf dalam Keadaan Telanjang",
       "link_berita": "https://khazanah.republika.co.id/berita/t9g94a458/ketika-abu-bakar-melarang-tawaf-dalam-keadaan-telanjang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "KPK Panggil Pemilik Maktour Fuad Hasan Masyhur Terkait Kasus Yaqut",
       "link_berita": "https://news.republika.co.id/berita/t9gbq8409/kpk-panggil-pemilik-maktour-fuad-hasan-masyhur-terkait-kasus-yaqut",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "IHSG Kembali Dekati 9.000 di tengah Wait and See Pertemuan The Fed",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9gb3v423/ihsg-kembali-dekati-9000-di-tengah-wait-and-seepertemuan-the-fed",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 03:34:40"
     },
     {
       "judul": "Pakar Ingatkan Penertiban Kawasan Hutan Harus Selaras Kepastian Hukum",
       "link_berita": "https://news.republika.co.id/berita/t9gb7v484/pakar-ingatkan-penertiban-kawasan-hutan-harus-selaras-kepastian-hukum",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Indonesia dalam Pusaran Dewan Perdamaian Trump",
       "link_berita": "https://analisis.republika.co.id/berita/t9g89g393/indonesia-dalam-pusaran-dewan-perdamaian-trump",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "KAI: Stasiun Manggarai Simpul Utama Transportasi Jabodetabek",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9gaue423/kai-stasiun-manggarai-simpul-utama-transportasi-jabodetabek",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 03:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Ketika Khalifah Dikira Gila",
       "link_berita": "https://khazanah.republika.co.id/berita/t9g8kw458/ketika-khalifah-dikira-gila",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Lingkaran Setan Izin Muadalah",
       "link_berita": "https://analisis.republika.co.id/berita/t9ga6n415/lingkaran-setan-izin-muadalah",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "UNRWA: Jalur Gaza Jadi Tempat Paling Berbahaya Bagi Jurnalis",
       "link_berita": "https://news.republika.co.id/berita/t9ga5v458/unrwa-jalur-gaza-jadi-tempat-paling-berbahaya-bagi-jurnalis",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Viral Nasabah Bisnis Kehilangan Dana Miliaran Rupiah, BCA Minta Waspadai Modus Penipuan Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9g9zg409/viral-nasabah-bisnis-kehilangan-dana-miliaran-rupiah-bca-minta-waspadai-modus-penipuan-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "WNI Jadi Tentara Asing, Yusril: Status Kewarganegaraannya tak Otomatis Hilang",
       "link_berita": "https://news.republika.co.id/berita/t9g9ru484/wni-jadi-tentara-asing-yusril-status-kewarganegaraannya-tak-otomatis-hilang",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Polisi Iran Tangkap 200 Pelaku Kerusuhan di Berbagai Kota",
       "link_berita": "https://news.republika.co.id/berita/t9g9ks409/polisi-iran-tangkap-200-pelaku-kerusuhan-di-berbagai-kota",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Zakat, Wakaf, dan Wajah Keadilan Sosial Kita",
       "link_berita": "https://analisis.republika.co.id/berita/t9g9fg371/zakat-wakaf-dan-wajah-keadilan-sosial-kita",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "5 Syarat Jika Ingin Jadi Sahabat Umar bin Khattab",
       "link_berita": "https://khazanah.republika.co.id/berita/t9g8fb458/5-syarat-jika-ingin-jadi-sahabat-umar-bin-khattab",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Kisah Khalifah Umar dan Burung",
       "link_berita": "https://khazanah.republika.co.id/berita/t9g80f458/kisah-khalifah-umar-dan-burung",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 02:34:40"
     },
     {
       "judul": "Ibnu Taimiyah: Antara Polarisasi Mazhab dan Etika Menilai Ulama",
       "link_berita": "https://analisis.republika.co.id/berita/t9g82n393/ibnu-taimiyah-antara-polarisasi-mazhab-dan-etika-menilai-ulama",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 01:34:40"
     },
     {
       "judul": "\u2018\u2019Teka-Teki\u2019\u2019 Produksi Beras 2026",
       "link_berita": "https://analisis.republika.co.id/berita/t9g7rg472/tekateki-produksi-beras-2026",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 01:34:40"
     },
     {
       "judul": "Saat Negara Menguatkan Guru, Pendidikan Menemukan Harapannya",
       "link_berita": "https://analisis.republika.co.id/berita/t9g7qq458/saat-negara-menguatkan-guru-pendidikan-menemukan-harapannya",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 02:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 01:34:40"
     },
     {
       "judul": "Longsor di Cisarua, 23 Prajurit Marinir TNI AL Jadi Korban?",
       "link_berita": "https://news.republika.co.id/berita/t9g737484/longsor-di-cisarua-23-prajurit-marinir-tni-al-jadi-korban",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 01:34:40"
     },
     {
       "judul": "Dompet Dhuafa Jawa Tengah Kerahkan Tim Sisir Area Terdampak Banjir Bandang Pemalang",
       "link_berita": "https://khazanah.republika.co.id/berita/t9g5y9472/dompet-dhuafa-jawa-tengah-kerahkan-tim-sisir-area-terdampak-banjir-bandang-pemalang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 01:34:40"
     },
     {
       "judul": "JPO Ancol-JIS Mulai Dibangun, Ditargetkan Rampung Mei",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9g5kk416/jpo-ancoljis-mulai-dibangun-ditargetkan-rampung-mei",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 00:34:40"
     },
     {
       "judul": "PKPA Peradi, Ujian Terapkan Zero KKN",
       "link_berita": "https://news.republika.co.id/berita/t9g5gq484/pkpa-peradi-ujian-terapkan-zero-kkn",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 00:34:40"
     },
     {
-      "judul": "Wapres Gibran Temui Warga Korban Bencana Longsor Cisarua",
-      "link_berita": "https://visual.republika.co.id/berita/t9filp375/wapres-gibran-temui-warga-korban-bencana-longsor-cisarua",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
-    },
-    {
-      "judul": "Media Israel: UEA-Yordania-Inggris akan Bantu AS-Israel Serang Iran",
-      "link_berita": "https://news.republika.co.id/berita/t9g522393/media-israel-ueayordaniainggris-akan-bantu-asisrael-serang-iran",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
-    },
-    {
-      "judul": "Pakai Mesin TF35000, Kontrak 48 Jet KAAN Indonesia Rp 251 Triliun",
-      "link_berita": "https://news.republika.co.id/berita/t9g4xt484/pakai-mesin-tf35000-kontrak-48-jet-kaan-indonesia-rp-251-triliun",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 01:17:52"
-    },
-    {
-      "judul": "OJK: Pertumbuhan Kredit Perbankan Diproyeksikan Tetap Stabil di 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9g4ia423/ojk-pertumbuhan-kredit-perbankan-diproyeksikan-tetap-stabil-di-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "AHY Tinjau Hunian Modular dan Salurkan Bantuan di Aceh Tamiang",
-      "link_berita": "https://news.republika.co.id/berita/t9g4fp416/ahy-tinjau-hunian-modular-dan-salurkan-bantuan-di-aceh-tamiang",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "Bukan Sekadar Tren, Kendaraan Listrik Terbukti Berdampak Positif bagi Kesehatan",
-      "link_berita": "https://esgnow.republika.co.id/berita/t9g445423/bukan-sekadar-tren-kendaraan-listrik-terbukti-berdampak-positif-bagi-kesehatan",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "BMKG Prakirakan Hujan Lebat Guyur Lokasi Longsor Bandung Barat Sepekan ke Depan",
-      "link_berita": "https://news.republika.co.id/berita/t9g41m409/bmkg-prakirakan-hujan-lebat-guyur-lokasi-longsor-bandung-barat-sepekan-ke-depan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "Cuaca Ekstrem di Jalur Penyeberangan, Ini Pesan ASDP",
-      "link_berita": "https://esgnow.republika.co.id/berita/t9g3xo423/cuaca-ekstrem-di-jalur-penyeberangan-ini-pesan-asdp",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "Alih Fungsi Lahan Bukan Penyebab Utama Longsor Bandung Barat Menurut Ahli Geologi",
-      "link_berita": "https://news.republika.co.id/berita/t9g2aq409/alih-fungsi-lahan-bukan-penyebab-utama-longsor-bandung-barat-menurut-ahli-geologi",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "Putra Luhut, Letkol Inf Paulus Panjaitan Jabat Danbrigif 18/Trisula",
-      "link_berita": "https://news.republika.co.id/berita/t9g28g484/putra-luhut-letkol-inf-paulus-panjaitan-jabat-danbrigif-18trisula",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 00:17:52"
-    },
-    {
-      "judul": "Billy Mambrasar Kunjungi Kontrakan Mahasiswa Papua di Aceh",
-      "link_berita": "https://news.republika.co.id/berita/t9g1cp484/billy-mambrasar-kunjungi-kontrakan-mahasiswa-papua-di-aceh",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 23:17:52"
-    },
-    {
-      "judul": "Tidak Berputus Asa atas Terlambatnya Pemberian Allah",
-      "link_berita": "https://iqra.republika.co.id/berita/t9g155430/tidak-berputus-asa-atas-terlambatnya-pemberian-allah",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 23:17:52"
-    },
-    {
-      "judul": "Melihat Aktivitas Penyintas Banjir Aceh Tamiang di Huntara Danantara",
-      "link_berita": "https://visual.republika.co.id/berita/t9fi9d375/melihat-aktivitas-penyintas-banjir-aceh-tamiang-di-huntara-danantara",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 23:17:52"
-    },
-    {
-      "judul": "Putra Presiden Iran Serukan Pemadaman Internet Diakhiri",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9fzoh430/putra-presiden-iran-serukan-pemadaman-internet-diakhiri",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 23:17:52"
-    },
-    {
-      "judul": "Penalti Pellegrini Selamatkan AS Roma dari Kekalahan Kontra AC Milan",
-      "link_berita": "https://news.republika.co.id/berita/t9fyie8230000/penalti-pellegrini-selamatkan-as-roma-dari-kekalahan-kontra-ac-milan",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 22:17:52"
-    },
-    {
-      "judul": "Simulasi Taktis TFG Persiapkan Petugas Haji di Asrama Haji Pondok Gede",
-      "link_berita": "https://news.republika.co.id/berita/t9fxt94030000/simulasi-taktis-tfg-persiapkan-petugas-haji-di-asrama-haji-pondok-gede",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 22:17:52"
-    },
-    {
-      "judul": "JK: 75 Persen Masjid di Indonesia Harus Diperbaiki Sound System-nya Agar Syahdu",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9fxhg430/jk-75-persen-masjid-di-indonesia-harus-diperbaiki-sound-systemnya-agar-syahdu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 22:17:52"
-    },
-    {
-      "judul": "Vokalis Element Lucky Widja Meninggal Dunia",
-      "link_berita": "https://news.republika.co.id/berita/t9fvq8930000/vokalis-element-lucky-widja-meninggal-dunia",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 21:17:52"
-    },
-    {
-      "judul": "Presiden Prabowo Pimpin Rapat Strategis di Hambalang Usai Lawatan Luar Negeri",
-      "link_berita": "https://news.republika.co.id/berita/t9fv1e7030000/presiden-prabowo-pimpin-rapat-strategis-di-hambalang-usai-lawatan-luar-negeri",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 21:17:52"
-    },
-    {
-      "judul": "Juventus Tundukkan Napoli 3-0 di Allianz Stadium",
-      "link_berita": "https://news.republika.co.id/berita/t9ftng8830000/juventus-tundukkan-napoli-30-di-allianz-stadium",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 20:17:52"
-    },
-    {
-      "judul": "Di Tengah Gaduh Rencana Ruislag, BIJB Kertajati Justru Siap Berangkatkan Jamaah Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9fdb1483/di-tengah-gaduh-rencana-ruislag-bijb-kertajati-justru-siap-berangkatkan-jamaah-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 20:17:52"
-    },
-    {
-      "judul": "Arsenal Tumbang 2-3 dari Manchester United di Emirates",
-      "link_berita": "https://news.republika.co.id/berita/t9fsyg130000/arsenal-tumbang-23-dari-manchester-united-di-emirates",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 20:17:52"
-    },
-    {
-      "judul": "Polisi Periksa Sopir dan Asisten Lula Lahfah Sebagai Saksi",
-      "link_berita": "https://ameera.republika.co.id/berita/t9gdrr328/polisi-periksa-sopir-dan-asisten-lula-lahfah-sebagai-saksi",
+      "judul": "Lucky Widja Element akan Dimakamkan di TPU Jeruk Purut",
+      "link_berita": "https://ameera.republika.co.id/berita/t9gh79328/lucky-widja-element-akan-dimakamkan-di-tpu-jeruk-purut",
       "kategori": "Happening",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 10:59:00"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 12:13:00"
     },
     {
-      "judul": "Bukan Sekadar Tren, Kendaraan Listrik Terbukti Berdampak Positif bagi Kesehatan",
-      "link_berita": "https://esgnow.republika.co.id/berita/t9g445423/bukan-sekadar-tren-kendaraan-listrik-terbukti-berdampak-positif-bagi-kesehatan",
+      "judul": "Badan Geologi Ingatkan Potensi Longsor Susulan di Pasirlangu Cisarua",
+      "link_berita": "https://esgnow.republika.co.id/berita/t9gemc416/badan-geologi-ingatkan-potensi-longsor-susulan-di-pasirlangu-cisarua",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 07:31:00"
+      "tanggal_terbit": "Monday, 26 Jan 2026, 11:18:00"
     },
     {
-      "judul": "Kementan: Indah Megahwati Korupsi Rp 27 Miliar, Terbukti dari Pengakuan dan Audit Inspektorat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9gebv472/kementan-indah-megahwati-korupsi-rp-27-miliar-terbukti-dari-pengakuan-dan-audit-inspektorat",
-      "kategori": "Pertanian",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 11:11:00"
+      "judul": "Hampir 500 Ribu Penumpang Gunakan KA Brantas Sepanjang 2025",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9gfic416/hampir-500-ribu-penumpang-gunakan-ka-brantas-sepanjang-2025",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 11:37:00"
     },
     {
-      "judul": "Kemenag Tegaskan Wajib Halal Produk Strategis Berlaku 17 Oktober 2026",
-      "link_berita": "https://sharia.republika.co.id/berita/t9ebo0370/kemenag-tegaskan-wajib-halal-produk-strategis-berlaku-17-oktober-2026",
-      "kategori": "Industri Halal Ekonomi Syariah",
-      "tanggal_terbit": "Sunday, 25 Jan 2026, 08:19:00"
+      "judul": "Produk Asuransi Jiwa Syariah Sertakan Skema Wakaf",
+      "link_berita": "https://sharia.republika.co.id/berita/t9gg8s416/produk-asuransi-jiwa-syariah-sertakan-skema-wakaf",
+      "kategori": "Keuangan Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 11:53:00"
     },
     {
-      "judul": "Kabar Puluhan Marinir Jadi Korban Longsong di Cisarua, TNI AL Masih Cari Info",
-      "link_berita": "https://news.republika.co.id/berita/t9gdge484/kabar-puluhan-marinir-jadi-korban-longsong-di-cisarua-tni-al-masih-cari-info",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 26 Jan 2026, 10:53:00"
+      "judul": "Mustafa Kemal Atat\u00fcrk dan Mitos Azab Instan: Catatan dari Sebuah Kunjungan",
+      "link_berita": "https://analisis.republika.co.id/berita/t9gf9i451/mustafa-kemal-atatrk-dan-mitos-azab-instan-catatan-dari-sebuah-kunjungan",
+      "kategori": "Kalam",
+      "tanggal_terbit": "Monday, 26 Jan 2026, 12:16:00"
     }
   ],
-  "waktu_scraping": "Monday, 26 Jan 2026, 11:17:52"
+  "waktu_scraping": "Monday, 26 Jan 2026, 12:34:40"
 }
