@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "MRT Mulai Lakukan Kajian Pembangunan Jalur Kembangan-Balaraja",
+      "link_berita": "https://news.republika.co.id/berita/t9xgbh487/mrt-mulai-lakukan-kajian-pembangunan-jalur-kembanganbalaraja"
+    },
+    {
       "judul": "Siswa SD Diduga Bunuh Diri karena tak Mampu Beli Buku, Kenali Tanda Depresi pada Anak",
       "link_berita": "https://ameera.republika.co.id/berita/t9xd9e425/siswa-sd-diduga-bunuh-diri-karena-tak-mampu-beli-buku-kenali-tanda-depresi-pada-anak"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Jaga Stabilitas Pasar, BREN Lakukan Buyback Saham Rp 2 Triliun",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9x784370/jaga-stabilitas-pasar-bren-lakukan-buyback-saham-rp-2-triliun"
-    },
-    {
-      "judul": "'Sa Mau Minta Uang Beli Buku', Begini Kesaksian Soal Berpulangnya Bocah YBR di Ngada",
-      "link_berita": "https://news.republika.co.id/berita/t9x40v393/sa-mau-minta-uang-beli-buku-begini-kesaksian-soal-berpulangnya-bocah-ybr-di-ngada"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Menkes: Mulai 2027 Anak Laki-laki Usia 11 Tahun Dapat Vaksin HPV",
+      "link_berita": "https://ameera.republika.co.id/berita/t9xft8370/menkes-mulai-2027-anak-lakilaki-usia-11-tahun-dapat-vaksin-hpv"
+    },
+    {
+      "judul": "Dua Hari Buka, Israel Tutup Lagi Perbatasan Rafah",
+      "link_berita": "https://news.republika.co.id/berita/t9xczt393/dua-hari-buka-israel-tutup-lagi-perbatasan-rafah"
+    },
     {
       "judul": "OTT di Banjarmasin, KPK Ciduk Pegawai Pajak",
       "link_berita": "https://news.republika.co.id/berita/t9xcup377/ott-di-banjarmasin-kpk-ciduk-pegawai-pajak"
@@ -73,334 +81,326 @@
     {
       "judul": "Eks Petinggi Majelis China Divonis Seumur Hidup karena Suap",
       "link_berita": "https://news.republika.co.id/berita/t9wd047630000/eks-petinggi-majelis-china-divonis-seumur-hidup-karena-suap"
-    },
-    {
-      "judul": "Pemerintah Integrasikan Kebijakan Sampah Darat dan Laut dalam Satu Perpres Baru",
-      "link_berita": "https://esgnow.republika.co.id/berita/t9w21v451/pemerintah-integrasikan-kebijakan-sampah-darat-dan-laut-dalam-satu-perpres-baru"
-    },
-    {
-      "judul": "MUI Sampaikan Sejumlah Masukan ke Prabowo soal BoP",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9vxzm430/mui-sampaikan-sejumlah-masukan-ke-prabowo-soal-bop"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "KKP: Stok Ikan Aman untuk Ramadhan hingga Lebaran",
+      "link_berita": "https://khazanah.republika.co.id/berita/t9xhzx430/kkp-stok-ikan-aman-untuk-ramadhan-hingga-lebaran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:50:21"
+    },
+    {
+      "judul": "Soal Polemik Guru Madrasah, Dosen UIN Bandung: Jaga Martabat Guru Madrasah",
+      "link_berita": "https://news.republika.co.id/berita/t9xhrv472/soal-polemik-guru-madrasah-dosen-uin-bandung-jaga-martabat-guru-madrasah",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:45:46"
+    },
+    {
+      "judul": "Awal Tahun 2026, Toko Service HP di Yogyakarta Kebanjiran Pelanggan",
+      "link_berita": "https://rejogja.republika.co.id/berita/t9xf38291/awal-tahun-2026-toko-service-hp-di-yogyakarta-kebanjiran-pelanggan",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:39:46"
+    },
+    {
+      "judul": "Perceraian di Kota Bandung Tembus 7.119 Kasus, Didominasi Masalah Ekonomi dan Pertengkaran",
+      "link_berita": "https://rejabar.republika.co.id/berita/t9xhd1282/perceraian-di-kota-bandung-tembus-7119-kasus-didominasi-masalah-ekonomi-dan-pertengkaran",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:36:46"
+    },
+    {
+      "judul": "Gubernur: Gorontalo Siap Jadi Embarkasi Haji Penuh",
+      "link_berita": "https://khazanah.republika.co.id/berita/t9xh9i458/gubernur-gorontalo-siap-jadi-embarkasi-haji-penuh",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:34:46"
+    },
+    {
+      "judul": "Diancam Drone Israel di Garis Biru Lebanon, UNIFIL Akhirnya Ambil Tindakan",
+      "link_berita": "https://khazanah.republika.co.id/berita/t9xgr3483/diancam-drone-israel-di-garis-biru-lebanon-unifil-akhirnya-ambil-tindakan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:23:46"
+    },
+    {
+      "judul": "Baru 35 Tahun, Takato Ishida Jadi Gubernur Termuda di Jepang",
+      "link_berita": "https://ameera.republika.co.id/berita/t9xglw425/baru-35-tahun-takato-ishida-jadi-gubernur-termuda-di-jepang",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:20:46"
+    },
+    {
+      "judul": "Purbaya: Penerimaan Pajak Januari 2026 Tumbuh 30 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9xgj7423/purbaya-penerimaan-pajak-januari-2026-tumbuh-30-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:18:46"
+    },
+    {
+      "judul": "Arab Saudi Investasi 2 Miliar Dolar AS Bangun PLTS di Turki",
+      "link_berita": "https://esgnow.republika.co.id/berita/t9xggl490/arab-saudi-investasi-2-miliar-dolar-as-bangun-plts-di-turki",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:16:46"
+    },
+    {
+      "judul": "Prabowo Perbanyak Personel Polisi Hutan Jaga Taman Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9xgfv416/prabowo-perbanyak-personel-polisi-hutan-jaga-taman-nasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:16:46"
+    },
+    {
+      "judul": "MRT Mulai Lakukan Kajian Pembangunan Jalur Kembangan-Balaraja",
+      "link_berita": "https://news.republika.co.id/berita/t9xgbh487/mrt-mulai-lakukan-kajian-pembangunan-jalur-kembanganbalaraja",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:13:46"
+    },
+    {
+      "judul": "Bank Indonesia Bakal Dapat Tugas Baru di Revisi UU P2SK, Misbakhun Jamin tak Ganggu Independensi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9xfvb490/bank-indonesia-bakal-dapat-tugas-baru-di-revisi-uu-p2sk-misbakhun-jamin-tak-ganggu-independensi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:04:46"
+    },
+    {
+      "judul": "Ketika Purbaya Semprot Ekonom Citigroup di Acara Forum Bisnis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9xft8377/ketika-purbaya-semprot-ekonom-citigroup-di-acara-forum-bisnis",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:02:46"
+    },
+    {
+      "judul": "Menkes: Mulai 2027 Anak Laki-laki Usia 11 Tahun Dapat Vaksin HPV",
+      "link_berita": "https://ameera.republika.co.id/berita/t9xft8370/menkes-mulai-2027-anak-lakilaki-usia-11-tahun-dapat-vaksin-hpv",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:02:46"
+    },
+    {
+      "judul": "Striker Muda Timnas Indonesia Mauro Zijlstra Merapat ke Persija",
+      "link_berita": "https://news.republika.co.id/berita/t9xfrh348/striker-muda-timnas-indonesia-mauro-zijlstra-merapat-ke-persija",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:01:46"
+    },
+    {
+      "judul": "Eks Pelapor Khusus PBB: Indonesia Harus Siap Mundur dari BoP",
+      "link_berita": "https://news.republika.co.id/berita/t9xfqt393/eks-pelapor-khusus-pbb-indonesia-harus-siap-mundur-dari-bop",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 09:01:46"
+    },
+    {
+      "judul": "Danantara Blak-Blakan Ungkap Nasib Krakatau Steel, Masih Bisa Diselamatkan?",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9xf9f490/danantara-blakblakan-ungkap-nasib-krakatau-steel-masih-bisa-diselamatkan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
+    },
+    {
+      "judul": "Penasihat Khamenei Tegaskan Posisi Iran Soal Program Nuklir dan Pembicaraan dengan AS",
+      "link_berita": "https://news.republika.co.id/berita/t9xf8a451/penasihat-khamenei-tegaskan-posisi-iran-soal-program-nuklir-dan-pembicaraan-dengan-as",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
+    },
+    {
       "judul": "Beda Kasus dengan di Banjarmasin, KPK Ternyata Juga Gelar OTT di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/t9xf6m487/beda-kasus-dengan-di-banjarmasin-kpk-ternyata-juga-gelar-ott-di-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:49:34"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
     },
     {
       "judul": "Kemenekraf Jalin Kolaborasi dengan Kota Cinema Mall Perbanyak Bioskop Daerah",
       "link_berita": "https://ameera.republika.co.id/berita/t9xevd425/kemenekraf-jalin-kolaborasi-dengan-kota-cinema-mall-perbanyak-bioskop-daerah",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:42:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
     },
     {
       "judul": "CATL Serius Bangun Ekosistem Baterai Terintegrasi di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xc58430/catl-serius-bangun-ekosistem-baterai-terintegrasi-di-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:40:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
     },
     {
       "judul": "Dukung Kelancaran Penyaluran Manfaat Pensiun, TASPEN Ajak Peserta Autentikasi Awal Bulan",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xeqe472/dukung-kelancaran-penyaluran-manfaat-pensiun-taspen-ajak-peserta-autentikasi-awal-bulan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:39:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
     },
     {
       "judul": "Stasiun Yogyakarta Bersolek Sambut Imlek 2026, Nuansa Chinese New Year Sambut Penumpang",
       "link_berita": "https://rejogja.republika.co.id/berita/t9xe28291/stasiun-yogyakarta-bersolek-sambut-imlek-2026-nuansa-chinese-new-year-sambut-penumpang",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:24:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:50:46"
     },
     {
       "judul": "Transaksi BRImo Tembus Rp 7.057 Triliun Sepanjang 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xczz423/transaksi-brimo-tembus-rp-7057-triliun-sepanjang-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:19:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Prabowo Soroti Masalah Sampah, KDM Curhat Imbauannya Jarang Didengar Bupati dan Walkot di Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/t9xdph282/prabowo-soroti-masalah-sampah-kdm-curhat-imbauannya-jarang-didengar-bupati-dan-walkot-di-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:17:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Ada di dalam BoP, Mampukah RI Menekan AS Berpihak kepada Kemerdekaan Palestina?",
       "link_berita": "https://khazanah.republika.co.id/berita/t9xdlw483/ada-di-dalam-bop-mampukah-ri-menekan-as-berpihak-kepada-kemerdekaan-palestina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:15:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "GoPay Kini Layani Pembelian Tiket Transjakarta",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xcqa423/gopay-kini-layani-pembelian-tiket-transjakarta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:09:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Siswa SD Diduga Bunuh Diri karena tak Mampu Beli Buku, Kenali Tanda Depresi pada Anak",
       "link_berita": "https://ameera.republika.co.id/berita/t9xd9e425/siswa-sd-diduga-bunuh-diri-karena-tak-mampu-beli-buku-kenali-tanda-depresi-pada-anak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:07:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Zakat Fitrah 2026 di Kuningan Resmi Ditetapkan Rp 35 Ribu Per Jiwa",
       "link_berita": "https://khazanah.republika.co.id/berita/t9xd6z430/zakat-fitrah-2026-di-kuningan-resmi-ditetapkan-rp-35-ribu-per-jiwa",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:06:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Dua Hari Buka, Israel Tutup Lagi Perbatasan Rafah",
       "link_berita": "https://news.republika.co.id/berita/t9xczt393/dua-hari-buka-israel-tutup-lagi-perbatasan-rafah",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:01:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Menteri PU Targetkan 1.200 Huntara Rampung Sebelum Ramadhan 1447 H",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xczj370/menteri-pu-targetkan-1200-huntara-rampung-sebelum-ramadhan-1447-h",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 08:01:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "OTT di Banjarmasin, KPK Ciduk Pegawai Pajak",
       "link_berita": "https://news.republika.co.id/berita/t9xcup377/ott-di-banjarmasin-kpk-ciduk-pegawai-pajak",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:58:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Pemkot Bandung Setop Operasional Insinerator Sampah di Seluruh TPS",
       "link_berita": "https://esgnow.republika.co.id/berita/t9xcs0416/pemkot-bandung-setop-operasional-insinerator-sampah-di-seluruh-tps",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:57:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "BSI Umumkan Pemenang Nabung Haji Berhadiah Umroh",
       "link_berita": "https://sharia.republika.co.id/berita/t9xcfz423/bsi-umumkan-pemenang-nabung-haji-berhadiah-umroh",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Terungkap Janji Presiden Prabowo kepada Ulama: Pasukan Perdamaian tak akan Serang Hamas",
       "link_berita": "https://khazanah.republika.co.id/berita/t9xcfk483/terungkap-janji-presiden-prabowo-kepada-ulama-pasukan-perdamaian-tak-akan-serang-hamas",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Baru 4 Juta Perempuan di Indonesia Skrining Kanker",
       "link_berita": "https://ameera.republika.co.id/berita/t9xcbw425/baru-4-juta-perempuan-di-indonesia-skrining-kanker",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "BEI Klaim Ada Perkembangan Positif Usai Pertemuan dengan MSCI",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xcbc370/bei-klaim-ada-perkembangan-positif-usai-pertemuan-dengan-msci",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Pertamina Gagalkan Pencurian 10 Ton Minyak Mentah di Sumsel",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xc3t423/pertamina-gagalkan-pencurian-10-ton-minyak-mentah-di-sumsel",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Timnas Futsal Indonesia Siap Habis-habisan Lawan Jepang demi Tiket Final Piala Asia Futsal",
       "link_berita": "https://news.republika.co.id/berita/t9xc3b348/timnas-futsal-indonesia-siap-habishabisan-lawan-jepang-demi-tiket-final-piala-asia-futsal",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Curhat ke DPR, Bos Krakatau Steel Dorong Perlindungan Industri Baja Lokal",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9x80n416/curhat-ke-dpr-bos-krakatau-steel-dorong-perlindungan-industri-baja-lokal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "KPK Gelar OTT di Kantor Pelayanan Pajak Banjarmasin",
       "link_berita": "https://news.republika.co.id/berita/t9xbgc409/kpk-gelar-ott-di-kantor-pelayanan-pajak-banjarmasin",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Asap Kuning Pekat Buat 56 Warga Sakit, KLH Ambil Langkah Hukum Terhadap PT Vopak",
       "link_berita": "https://news.republika.co.id/berita/t9xbde377/asap-kuning-pekat-buat-56-warga-sakit-klh-ambil-langkah-hukum-terhadap-pt-vopak",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Bertemu Prabowo dan Bahas Dewan Perdamaian, MUI Ungkap Cita-Cita Presiden",
       "link_berita": "https://khazanah.republika.co.id/berita/t9xb4q430/bertemu-prabowo-dan-bahas-dewan-perdamaian-mui-ungkap-citacita-presiden",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Hashim: Prabowo Perintahkan Penegakan Tegas UU Sampah",
       "link_berita": "https://esgnow.republika.co.id/berita/t9xb16423/hashim-prabowo-perintahkan-penegakan-tegas-uu-sampah",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:50:46"
     },
     {
       "judul": "Pemerintah Larang Impor Pakaian Bekas, Ini Alasan dan Dampaknya",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xb2c370/pemerintah-larang-impor-pakaian-bekas-ini-alasan-dan-dampaknya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 07:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:50:46"
     },
     {
       "judul": "Middleman Perberasan",
       "link_berita": "https://analisis.republika.co.id/berita/t9xayu472/middleman-perberasan",
       "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:50:46"
     },
     {
       "judul": "AEI Nilai Free Float 15 Persen Sejalan Reformasi Pasar Modal",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xajm423/aei-nilai-free-float-15-persen-sejalan-reformasi-pasar-modal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:50:46"
     },
     {
       "judul": "Misbakhun Bantah Isu Bakal Jadi Ketua OJK",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9xa8w423/misbakhun-bantah-isu-bakal-jadi-ketua-ojk",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:50:46"
     },
     {
       "judul": "150 Hafiz Lantunkan Alquran di Reruntuhan Masjid di Gaza",
       "link_berita": "https://tv.republika.co.id/berita/yt-t9xa421369798261/150-hafiz-lantunkan-alquran-di-reruntuhan-masjid-di-gaza",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:50:46"
     },
     {
       "judul": "Ini Jurus Danantara Bentengi Industri Baja dari Serbuan Impor",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9x7ea416/ini-jurus-danantara-bentengi-industri-baja-dari-serbuan-impor",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:50:46"
     },
     {
-      "judul": "UBSI dan Pemkot Bekasi Kawal Beasiswa Mahasiswa Tak Mampu Agar Tepat Sasaran",
-      "link_berita": "https://news.republika.co.id/berita/t9x9ff368/ubsi-dan-pemkot-bekasi-kawal-beasiswa-mahasiswa-tak-mampu-agar-tepat-sasaran",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "AS Disebut 'Bunuh Diri Politik', Pakar Inggris Ungkap Rahasia Ketangguhan Militer Iran",
-      "link_berita": "https://news.republika.co.id/berita/t9x9iq451/as-disebut-bunuh-diri-politik-pakar-inggris-ungkap-rahasia-ketangguhan-militer-iran",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "Beasiswa UBSI Kampus Karawang Jadi Solusi Lulusan SMA Hadapi Biaya Kuliah yang Terus Naik",
-      "link_berita": "https://news.republika.co.id/berita/t9x9er368/beasiswa-ubsi-kampus-karawang-jadi-solusi-lulusan-sma-hadapi-biaya-kuliah-yang-terus-naik",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "OJK\u2013BEI Canangkan Reformasi Pasar Modal Lewat Kenaikan Free Float",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9x92q370/ojkbei-canangkan-reformasi-pasar-modal-lewat-kenaikan-free-float",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "Belum Lulus Sudah Kerja? Kampus UNM Buktikan Bisa!",
-      "link_berita": "https://news.republika.co.id/berita/t9x8zs368/belum-lulus-sudah-kerja-kampus-unm-buktikan-bisa",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "KPK Sebut Info Warganet Soal RK Pergi ke Luar Negeri Bersama Aura Kasih akan Dicek Tim Penyidik",
-      "link_berita": "https://news.republika.co.id/berita/t9x8ng409/kpk-sebut-info-warganet-soal-rk-pergi-ke-luar-negeri-bersama-aura-kasih-akan-dicek-tim-penyidik",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "Dunia Memanas, Siapkah Cara Pikir Kita?",
-      "link_berita": "https://news.republika.co.id/berita/t9x8hm368/dunia-memanas-siapkah-cara-pikir-kita",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 06:49:57"
-    },
-    {
-      "judul": "Ditanya Akankah Panggil Aura Kasih di Kasus RK? Ini Jawaban KPK",
-      "link_berita": "https://news.republika.co.id/berita/t9x871409/ditanya-akankah-panggil-aura-kasih-di-kasus-rk-ini-jawaban-kpk",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "IPK Tinggi Tak Menjamin Kerja, Soft Skills Jadi Kunci",
-      "link_berita": "https://news.republika.co.id/berita/t9x834368/ipk-tinggi-tak-menjamin-kerja-soft-skills-jadi-kunci",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "Diancam Serangan Kapal Induk Amerika, Iran Tanda Tangan Kerja Sama Rp23 Triliun",
-      "link_berita": "https://news.republika.co.id/berita/t9x7z7451/diancam-serangan-kapal-induk-amerika-iran-tanda-tangan-kerja-sama-rp23-triliun",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "Tanggapi Rencana OJK, AEI Usul Free Float Naik Step by Step",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9x7x1370/tanggapi-rencana-ojk-aei-usul-free-float-naik-step-by-step",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "Gus Muhaimin Lantik DPW PKB se-Indonesia, PKB Jabar Tegaskan Siap Layani Masyarakat",
-      "link_berita": "https://rejabar.republika.co.id/berita/t9x7sw368/gus-muhaimin-lantik-dpw-pkb-seindonesia-pkb-jabar-tegaskan-siap-layani-masyarakat",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "IHSG Anjlok dan Trading Halt, Krisis Kepercayaan Guncang Pasar Modal Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/t9x7jw368/ihsg-anjlok-dan-trading-halt-krisis-kepercayaan-guncang-pasar-modal-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "Mendag: Neraca Perdagangan Besi dan Baja Surplus 18,44 Miliar Dolar AS",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9x7cs370/mendag-neraca-perdagangan-besi-dan-baja-surplus-1844-miliar-dolar-as",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "Jaga Stabilitas Pasar, BREN Lakukan Buyback Saham Rp 2 Triliun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9x784370/jaga-stabilitas-pasar-bren-lakukan-buyback-saham-rp-2-triliun",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "Tajir Sejati, Antara Aliran Sungai dan Aliran Rezeki",
-      "link_berita": "https://analisis.republika.co.id/berita/t9x5w5393/tajir-sejati-antara-aliran-sungai-dan-aliran-rezeki",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 05:49:57"
-    },
-    {
-      "judul": "MUI Ungkap Hasil Pertemuan dengan Prabowo Terkait BoP",
-      "link_berita": "https://tv.republika.co.id/berita/yt-t9x5dt1471281905/mui-ungkap-hasil-pertemuan-dengan-prabowo-terkait-bop",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 04:49:57"
-    },
-    {
-      "judul": "Pulang dari Makkah Warga Palestina Kehilangan Rumah",
-      "link_berita": "https://tv.republika.co.id/berita/yt-t9x5dq1389755920/pulang-dari-makkah-warga-palestina-kehilangan-rumah",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 04:49:57"
-    },
-    {
-      "judul": "Kemenekraf Jalin Kolaborasi dengan Kota Cinema Mall Perbanyak Bioskop Daerah",
-      "link_berita": "https://ameera.republika.co.id/berita/t9xevd425/kemenekraf-jalin-kolaborasi-dengan-kota-cinema-mall-perbanyak-bioskop-daerah",
+      "judul": "Baru 35 Tahun, Takato Ishida Jadi Gubernur Termuda di Jepang",
+      "link_berita": "https://ameera.republika.co.id/berita/t9xglw425/baru-35-tahun-takato-ishida-jadi-gubernur-termuda-di-jepang",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 15:42:00"
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 16:20:00"
     },
     {
-      "judul": "Pemkot Bandung Setop Operasional Insinerator Sampah di Seluruh TPS",
-      "link_berita": "https://esgnow.republika.co.id/berita/t9xcs0416/pemkot-bandung-setop-operasional-insinerator-sampah-di-seluruh-tps",
-      "kategori": "Tata Kelola",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 14:57:00"
+      "judul": "Arab Saudi Investasi 2 Miliar Dolar AS Bangun PLTS di Turki",
+      "link_berita": "https://esgnow.republika.co.id/berita/t9xggl490/arab-saudi-investasi-2-miliar-dolar-as-bangun-plts-di-turki",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 16:17:00"
     },
     {
-      "judul": "CATL Serius Bangun Ekosistem Baterai Terintegrasi di Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9xc58430/catl-serius-bangun-ekosistem-baterai-terintegrasi-di-indonesia",
-      "kategori": "Energi",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 15:41:00"
+      "judul": "Purbaya: Penerimaan Pajak Januari 2026 Tumbuh 30 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9xgj7423/purbaya-penerimaan-pajak-januari-2026-tumbuh-30-persen",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 16:18:00"
     },
     {
       "judul": "BSI Umumkan Pemenang Nabung Haji Berhadiah Umroh",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 04 Feb 2026, 14:50:00"
     },
     {
-      "judul": "Beda Kasus dengan di Banjarmasin, KPK Ternyata Juga Gelar OTT di Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/t9xf6m487/beda-kasus-dengan-di-banjarmasin-kpk-ternyata-juga-gelar-ott-di-jakarta",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 04 Feb 2026, 15:49:00"
+      "judul": "Soal Polemik Guru Madrasah, Dosen UIN Bandung: Jaga Martabat Guru Madrasah",
+      "link_berita": "https://news.republika.co.id/berita/t9xhrv472/soal-polemik-guru-madrasah-dosen-uin-bandung-jaga-martabat-guru-madrasah",
+      "kategori": "Pendidikan",
+      "tanggal_terbit": "Wednesday, 04 Feb 2026, 16:45:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 04 Feb 2026, 15:49:57"
+  "waktu_scraping": "Wednesday, 04 Feb 2026, 16:50:46"
 }
