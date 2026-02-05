@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Kemiskinan Indonesia Terus Menurun, BPS Catat 23,36 Juta Penduduk Miskin",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9z2u9370/kemiskinan-indonesia-terus-menurun-bps-catat-2336-juta-penduduk-miskin"
+    },
+    {
       "judul": "Cerita Pasien PBI BPJS Diputus Tiba-Tiba: Kesakitan karena tak Bisa Cuci Darah dan Kini Hanya Pasrah",
       "link_berita": "https://news.republika.co.id/berita/t9z1ml487/cerita-pasien-pbi-bpjs-diputus-tibatiba-kesakitan-karena-tak-bisa-cuci-darah-dan-kini-hanya-pasrah"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Puluhan Calhaj Asal Bandung Barat Pilih Menunda Keberangkatan, Ini Penyebabnya Menurut Kemenhaj",
       "link_berita": "https://khazanah.republika.co.id/berita/t9ys4l483/puluhan-calhaj-asal-bandung-barat-pilih-menunda-keberangkatan-ini-penyebabnya-menurut-kemenhaj"
-    },
-    {
-      "judul": "Sejumlah Tokoh Diundang Prabowo, Menlu: Saya tidak Melihat Pro dan Kontra",
-      "link_berita": "https://news.republika.co.id/berita/t9yq5l484/sejumlah-tokoh-diundang-prabowo-menlu-saya-tidak-melihat-pro-dan-kontra"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pengunjung Kecewa, Datang Jauh-Jauh Pas Sampai Kebun Binatang Bandung Sudah Disegel",
+      "link_berita": "https://news.republika.co.id/berita/t9z28r377/pengunjung-kecewa-datang-jauhjauh-pas-sampai-kebun-binatang-bandung-sudah-disegel"
+    },
+    {
+      "judul": "Tertinggi di 2025, Pertumbuhan Ekonomi Kuartal IV Capai 5,39 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9yzqb370/tertinggi-di-2025-pertumbuhan-ekonomi-kuartal-iv-capai-539-persen"
+    },
     {
       "judul": "Pasien Cuci Darah di Indonesia Tembus 130 Ribu, Kemenkes Ajak Masyarakat Rutin Cek Ginjal",
       "link_berita": "https://ameera.republika.co.id/berita/t9yypq425/pasien-cuci-darah-di-indonesia-tembus-130-ribu-kemenkes-ajak-masyarakat-rutin-cek-ginjal"
@@ -73,322 +81,314 @@
     {
       "judul": "Tiga Ambulans di Semarang Kena Tipu, Diorder Dept Collector Pinjol untuk Tagih Utang",
       "link_berita": "https://rejogja.republika.co.id/berita/t9xs5y282/tiga-ambulans-di-semarang-kena-tipu-diorder-dept-collector-pinjol-untuk-tagih-utang"
-    },
-    {
-      "judul": "KPK Sita 3 Kg Emas dari OTT di Banjarmasin, Kasus Terkait Kegiatan Importasi",
-      "link_berita": "https://news.republika.co.id/berita/t9xt3n409/kpk-sita-3-kg-emas-dari-ott-di-banjarmasin-kasus-terkait-kegiatan-importasi"
-    },
-    {
-      "judul": "Begini Kesimpulan Sementara Penyelidikan Polisi di Kasus Bocah SD NTT Bunuh Diri",
-      "link_berita": "https://news.republika.co.id/berita/t9xrjz409/begini-kesimpulan-sementara-penyelidikan-polisi-di-kasus-bocah-sd-ntt-bunuh-diri"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Dana Desa Triwidadi Dipangkas Rp 1,6 M, Komisi A DPRD DIY Dorong Optimalisasi BTT untuk Mitigasi",
+      "link_berita": "https://rejogja.republika.co.id/berita/t9z548291/dana-desa-triwidadi-dipangkas-rp-16-m-komisi-a-dprd-diy-dorong-optimalisasi-btt-untuk-mitigasi",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 07:07:07"
+    },
+    {
+      "judul": "Trump vs Xi vs Putin: Panggilan Telepon Panas yang Bisa Ubah Dunia, ini Inti Pembicaraan Mereka",
+      "link_berita": "https://news.republika.co.id/berita/t9z52g451/trump-vs-xi-vs-putin-panggilan-telepon-panas-yang-bisa-ubah-dunia-ini-inti-pembicaraan-mereka",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 07:06:07"
+    },
+    {
+      "judul": "Menperin: Ekspor Jadi Penopang Industri Otomotif di Tengah Melemahnya Pasar Domestik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9z4ov370/menperin-ekspor-jadi-penopang-industri-otomotif-di-tengah-melemahnya-pasar-domestik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:58:07"
+    },
+    {
+      "judul": "Manajemen PSS Sleman Laporkan Oknum Suporter yang Nyalakan APAR Saat Laga Vs Barito Putera",
+      "link_berita": "https://rejogja.republika.co.id/berita/t9z4ol291/manajemen-pss-sleman-laporkan-oknum-suporteryang-nyalakan-apar-saat-laga-vs-barito-putera",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:58:07"
+    },
+    {
+      "judul": "Tak Takut Ancaman AS, Iran Bangun Pangkalan Rudal Bawah Tanah Baru",
+      "link_berita": "https://news.republika.co.id/berita/t9z4k7377/tak-takut-ancaman-as-iran-bangun-pangkalan-rudal-bawah-tanah-baru",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:55:07"
+    },
+    {
+      "judul": "BPS Ungkap Andil Makan Bergizi Gratis pada Pertumbuhan Ekonomi Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9z4fg370/bps-ungkap-andil-makan-bergizi-gratis-pada-pertumbuhan-ekonomi-nasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:52:07"
+    },
+    {
+      "judul": "Dua Alasan KPK Belum Tahan Eks Menag Yaqut, Pemeriksaan Saksi Belum Tuntas dan Audit BPK",
+      "link_berita": "https://news.republika.co.id/berita/t9z4ct409/dua-alasan-kpk-belum-tahan-eks-menag-yaqut-pemeriksaan-saksi-belum-tuntas-dan-audit-bpk",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:51:07"
+    },
+    {
+      "judul": "Transjabodetabek Rute Blok M-Soetta Segera Dibuka, Tarifnya Rp3.500",
+      "link_berita": "https://news.republika.co.id/berita/t9z44r409/transjabodetabek-rute-blok-msoetta-segera-dibuka-tarifnya-rp3500",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:46:07"
+    },
+    {
+      "judul": "Tips Agar Jamaah Terhindar Penipuan Travel Umrah Nakal",
+      "link_berita": "https://khazanah.republika.co.id/berita/t9z42z430/tips-agar-jamaah-terhindar-penipuan-travel-umrah-nakal",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:45:07"
+    },
+    {
+      "judul": "Psikiater Jelaskan Alasan Mengapa Ada Anak SD yang Punya Pemikiran Bunuh Diri",
+      "link_berita": "https://rejogja.republika.co.id/berita/t9z41t282/psikiater-jelaskan-alasan-mengapa-ada-anak-sd-yang-punya-pemikiran-bunuh-diri",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:44:07"
+    },
+    {
+      "judul": "Dana Desa di DIY Turun hingga 75 Persen, DPRD DIY Wanti-wanti Dampak ke Pelayanan Publik",
+      "link_berita": "https://rejogja.republika.co.id/berita/t9z3zb291/dana-desa-di-diy-turun-hingga-75-persen-dprd-diy-wantiwanti-dampak-ke-pelayanan-publik",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:43:07"
+    },
+    {
+      "judul": "Tito Karnavian Pastikan 50 Persen Wilayah Terdampak Bencana Sumatera Pulih dari Krisis",
+      "link_berita": "https://news.republika.co.id/berita/t9z3cr451/tito-karnavian-pastikan-50-persen-wilayah-terdampak-bencana-sumatera-pulih-dari-krisis",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:42:07"
+    },
+    {
+      "judul": "Bos X dan Telegram Kompak Kritisi Rencana Larangan Medsos Bagi Anak di Spanyol",
+      "link_berita": "https://ameera.republika.co.id/berita/t9z3x2425/bos-x-dan-telegram-kompak-kritisi-rencana-larangan-medsos-bagi-anak-di-spanyol",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:41:07"
+    },
+    {
+      "judul": "Mensesneg Ungkap Prabowo Taruh Perhatian Lebih Masalah Sampah",
+      "link_berita": "https://news.republika.co.id/berita/t9z3my484/mensesneg-ungkap-prabowo-taruh-perhatian-lebih-masalah-sampah",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:35:07"
+    },
+    {
+      "judul": "Roblox Terapkan Klasifikasi Usia IGRS untuk Pengguna di Indonesia",
+      "link_berita": "https://ameera.republika.co.id/berita/t9z3kx425/roblox-terapkan-klasifikasi-usia-igrs-untuk-pengguna-di-indonesia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:34:07"
+    },
+    {
+      "judul": "Indonesia Jadi Raksasa Ekonomi Baru, PDB Syariah Kian Mendesak",
+      "link_berita": "https://analisis.republika.co.id/berita/t9z38l502/indonesia-jadi-raksasa-ekonomi-baru-pdb-syariah-kian-mendesak",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:27:07"
+    },
+    {
+      "judul": "Mendag Dorong Produksi 'Second Brand' Minyak Goreng untuk Dampingi Minyakita Jelang Ramadhan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9z2s0451/mendag-dorong-produksi-second-brand-minyak-goreng-untuk-dampingi-minyakita-jelang-ramadhan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:21:07"
+    },
+    {
+      "judul": "Pramono Targetkan Armada Transjakarta 10 Ribu Bus pada 2029",
+      "link_berita": "https://news.republika.co.id/berita/t9z2y1484/pramono-targetkan-armada-transjakarta-10-ribu-bus-pada-2029",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:20:07"
+    },
+    {
+      "judul": "Kemiskinan Indonesia Terus Menurun, BPS Catat 23,36 Juta Penduduk Miskin",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9z2u9370/kemiskinan-indonesia-terus-menurun-bps-catat-2336-juta-penduduk-miskin",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:18:07"
+    },
+    {
+      "judul": "Buntut Insiden APAR, PSS Sleman Dihukum Main Tanpa Penonton Selama Empat Laga Kandang",
+      "link_berita": "https://rejogja.republika.co.id/berita/t9z2q7291/buntut-insiden-apar-pss-sleman-dihukum-main-tanpa-penonton-selama-empat-laga-kandang",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:16:07"
+    },
+    {
+      "judul": "Skandal Baru Epstein: Dari Perdagangan Seks Hingga Terhubung dengan Mossad Israel",
+      "link_berita": "https://news.republika.co.id/berita/t9z2hr451/skandal-baru-epstein-dari-perdagangan-seks-hingga-terhubung-dengan-mossad-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:11:07"
+    },
+    {
+      "judul": "Kemensos Nonaktifkan 33 Ribu Peserta PBI Kesehatan di Ponorogo",
+      "link_berita": "https://news.republika.co.id/berita/t9z1ri487/kemensos-nonaktifkan-33-ribu-peserta-pbi-kesehatan-di-ponorogo",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:11:07"
+    },
+    {
+      "judul": "Timbunan Sampah di Cirebon Capai 1.200 Ton Per Hari, Pengangkutan Terbatas",
+      "link_berita": "https://rejabar.republika.co.id/berita/t9z28x487/timbunan-sampah-di-cirebon-capai-1200-ton-per-hari-pengangkutan-terbatas",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:11:07"
+    },
+    {
+      "judul": "Pengunjung Kecewa, Datang Jauh-Jauh Pas Sampai Kebun Binatang Bandung Sudah Disegel",
+      "link_berita": "https://news.republika.co.id/berita/t9z28r377/pengunjung-kecewa-datang-jauhjauh-pas-sampai-kebun-binatang-bandung-sudah-disegel",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:11:07"
+    },
+    {
       "judul": "Cerita Pasien PBI BPJS Diputus Tiba-Tiba: Kesakitan karena tak Bisa Cuci Darah dan Kini Hanya Pasrah",
       "link_berita": "https://news.republika.co.id/berita/t9z1ml487/cerita-pasien-pbi-bpjs-diputus-tibatiba-kesakitan-karena-tak-bisa-cuci-darah-dan-kini-hanya-pasrah",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:52:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:11:07"
     },
     {
       "judul": "Waspada, Rupiah Berpeluang Sentuh Rp 17.000 per Dolar AS Pekan Ini",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9z168370/waspada-rupiah-berpeluang-sentuh-rp-17000-per-dolar-as-pekan-ini",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:42:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 06:11:07"
     },
     {
       "judul": "Mantan Menlu Ungkap Bahasan Board of Peace dengan Presiden Prabowo",
       "link_berita": "https://tv.republika.co.id/berita/yt-t9yzx2707985411/mantan-menlu-ungkap-bahasan-board-of-peace-dengan-presiden-prabowo",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:15:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Tertinggi di 2025, Pertumbuhan Ekonomi Kuartal IV Capai 5,39 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9yzqb370/tertinggi-di-2025-pertumbuhan-ekonomi-kuartal-iv-capai-539-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Transisi Telur Bebas Sangkar Dinilai Penting Dukung Keberlanjutan Lingkungan",
       "link_berita": "https://esgnow.republika.co.id/berita/t9yzof522/transisi-telur-bebas-sangkar-dinilai-penting-dukung-keberlanjutan-lingkungan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:10:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Sharaa Merapat ke Washington, Perusahaan Minyak Raksasa AS Chevron Dapat Konsesi Migas Suriah",
       "link_berita": "https://news.republika.co.id/berita/t9yzi1377/sharaa-merapat-ke-washington-perusahaan-minyak-raksasa-as-chevron-dapat-konsesi-migas-suriah",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:06:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "J Trust Bank Dukung Pengembangan Golf Wanita Lewat Indonesia Women\u2019s Open 2026",
       "link_berita": "https://ameera.republika.co.id/berita/t9yzgd522/j-trust-bank-dukung-pengembangan-golf-wanita-lewat-indonesia-womens-open-2026",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:05:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Perilaku Nasabah Berubah, SMBC Indonesia Sesuaikan Pendekatan ke Nasabah Ritel",
       "link_berita": "https://ameera.republika.co.id/berita/t9yzbf522/perilaku-nasabah-berubah-smbc-indonesia-sesuaikan-pendekatan-ke-nasabah-ritel",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:02:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Danantara Dorong Hilirisasi Baja untuk Bangkitkan Industri Nasional",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9yywv370/danantara-dorong-hilirisasi-baja-untuk-bangkitkan-industri-nasional",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Pasien Cuci Darah di Indonesia Tembus 130 Ribu, Kemenkes Ajak Masyarakat Rutin Cek Ginjal",
       "link_berita": "https://ameera.republika.co.id/berita/t9yypq425/pasien-cuci-darah-di-indonesia-tembus-130-ribu-kemenkes-ajak-masyarakat-rutin-cek-ginjal",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "Santri dari Timur Menuntut Ilmu untuk Masa Depan",
       "link_berita": "https://tv.republika.co.id/berita/yt-t9yyj21462144135/santri-dari-timur-menuntut-ilmu-untuk-masa-depan",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 05:11:07"
     },
     {
       "judul": "BPS: Ekonomi Indonesia Tumbuh 5,11 Persen Sepanjang 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9yxyc370/bps-ekonomi-indonesia-tumbuh-511-persen-sepanjang-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "5 Tahun Perjalanan Inovasi dan Transformasi Digital BPJS Kesehatan",
       "link_berita": "https://news.republika.co.id/berita/t9yxod368/5-tahun-perjalanan-inovasi-dan-transformasi-digital-bpjs-kesehatan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "DKI Siapkan 20 Bus untuk Rute Transjabodetabek Blok M\u2013Soekarno-Hatta",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9yx6d370/dki-siapkan-20-bus-untuk-rute-transjabodetabek-blok-msoekarnohatta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Bos Pertamina Jelaskan Alasan Penggabungan Patra Niaga, KPI, dan PIS",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9ywy5370/bos-pertamina-jelaskan-alasan-penggabungan-patra-niaga-kpi-dan-pis",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Lagi-Lagi Pejabat Pajak Ditangkap KPK, Ditjen Pajak Angkat Bicara",
       "link_berita": "https://news.republika.co.id/berita/t9ywy2377/lagilagi-pejabat-pajak-ditangkap-kpk-ditjen-pajak-angkat-bicara",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Trump vs Khamenei, Siapa yang Akan Kalah? ini Bocoran 3 Opsi Militer Amerika",
       "link_berita": "https://news.republika.co.id/berita/t9ywju451/trump-vs-khamenei-siapa-yang-akan-kalah-ini-bocoran-3-opsi-militer-amerika",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Pemerintah Dorong Waste-to-Energy, Sistem Penanganan Limbah Jadi Faktor Kunci",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9ywh9522/pemerintah-dorong-wastetoenergy-sistem-penanganan-limbah-jadi-faktor-kunci",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Enok Jatuh ke Sungai Usai Kamar Mandi Jebol Terseret Arus, Korban Ditemukan Tewas di Jembatan BBS",
       "link_berita": "https://news.republika.co.id/berita/t9yw7v377/enok-jatuh-ke-sungai-usai-kamar-mandi-jebol-terseret-arus-korban-ditemukan-tewas-di-jembatan-bbs",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Perjalanan Hidup Jeffrey Epstein, Predator Seksual yang Punya 'Sejuta Rahasia'",
       "link_berita": "https://khazanah.republika.co.id/berita/t9yw29483/perjalanan-hidup-jeffrey-epstein-predator-seksual-yang-punya-sejuta-rahasia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "Album BTS Arirang Tembus 3 Juta Presave di Spotify, Segera Susul Rekor Taylor Swift?",
       "link_berita": "https://ameera.republika.co.id/berita/t9yvza425/album-bts-arirang-tembus-3-juta-presave-di-spotify-segera-susul-rekor-taylor-swift",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 04:11:07"
     },
     {
       "judul": "BRIN Ungkap Besarnya Nilai Tambah Proyek Baterai EV Garapan MIND ID",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9yvf6522/brin-ungkap-besarnya-nilai-tambah-proyek-baterai-ev-garapan-mind-id",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:11:07"
     },
     {
       "judul": "Kebun Binatang Bandung Disegel Pemerintah",
       "link_berita": "https://news.republika.co.id/berita/t9yvc1377/kebun-binatang-bandung-disegel-pemerintah",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:11:07"
     },
     {
       "judul": "Jalan Timnas Futsal Indonesia Menuju Empat Besar, Wajib Tumbangkan Jepang untuk ke Final",
       "link_berita": "https://news.republika.co.id/berita/t9yusn348/jalan-timnas-futsal-indonesia-menuju-empat-besar-wajib-tumbangkan-jepang-untuk-ke-final",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:11:07"
     },
     {
       "judul": "IHSG Dibuka Naik, Sentimen PDB dan MSCI Jadi Perhatian Investor",
       "link_berita": "https://ekonomi.republika.co.id/berita/t9yuc0370/ihsg-dibuka-naik-sentimen-pdb-dan-msci-jadi-perhatian-investor",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:11:07"
     },
     {
       "judul": "Baru Dua Hari Pendaftaran Dibuka, Hampir 70 Orang Daftar Seleksi Deputi Kemenpora",
       "link_berita": "https://news.republika.co.id/berita/t9yuc0348/baru-dua-hari-pendaftaran-dibuka-hampir-70-orang-daftar-seleksi-deputi-kemenpora",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 03:11:07"
     },
     {
-      "judul": "Jadi Anggota tidak Tetap Board of Peace, Seskab Teddy: RI Belum Bayar Iuran Rp16,8 Triliun",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9ytrk483/jadi-anggota-tidak-tetap-board-of-peace-seskab-teddy-ri-belum-bayar-iuran-rp168-triliun",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
-    },
-    {
-      "judul": "Dino Patti Djalal Presiden Prabowo Pilih Jalur Realistis",
-      "link_berita": "https://tv.republika.co.id/berita/yt-t9yto1815747457/dino-patti-djalal-presiden-prabowo-pilih-jalur-realistis",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
-    },
-    {
-      "judul": "Epstein di Pusaran Rencana Gila Migrasi Yahudi Rusia ke Israel: Redefinisi Siapa Yahudi",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9ytnh320/epstein-di-pusaran-rencana-gila-migrasi-yahudi-rusia-ke-israel-redefinisi-siapa-yahudi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
-    },
-    {
-      "judul": "Program Kota Emas 2026 Dimulai di Surakarta, Dorong UMKM Naik Kelas",
-      "link_berita": "https://news.republika.co.id/berita/t9ytc6484/program-kota-emas-2026-dimulai-di-surakarta-dorong-umkm-naik-kelas",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
-    },
-    {
-      "judul": "Besok Pagi, AS-Iran Dijadwalkan Bertemu di Oman, Sepakat tak Jadi Perang?",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9yt6a483/besok-pagi-asiran-dijadwalkan-bertemu-di-oman-sepakat-tak-jadi-perang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
-    },
-    {
-      "judul": "Tol Solo-Yogya dan Yogya Bawen Dibuka Saat Lebaran 2026, Klaten ke Yogya Hanya 20 Menit",
-      "link_berita": "https://rejogja.republika.co.id/berita/t9yq4k282/tol-soloyogya-dan-yogya-bawen-dibuka-saat-lebaran-2026-klaten-ke-yogya-hanya-20-menit",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 02:58:05"
-    },
-    {
-      "judul": "Puluhan Calhaj Asal Bandung Barat Pilih Menunda Keberangkatan, Ini Penyebabnya Menurut Kemenhaj",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9ys4l483/puluhan-calhaj-asal-bandung-barat-pilih-menunda-keberangkatan-ini-penyebabnya-menurut-kemenhaj",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Izin YMT Dicabut, Pemerintah Ambil Alih Aset dan Satwa di Kebun Binatang Bandung",
-      "link_berita": "https://rejabar.republika.co.id/berita/t9yrzd368/izin-ymt-dicabut-pemerintah-ambil-alih-aset-dan-satwa-di-kebun-binatang-bandung",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Liciknya Netanyahu",
-      "link_berita": "https://analisis.republika.co.id/berita/t9yrsc415/liciknya-netanyahu",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Sulit Jadi P3K, Kemenag Usul Insentif Guru Madrasah Honorer Naik Jadi Rp400 Ribu",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9yrpd483/sulit-jadi-p3k-kemenag-usul-insentif-guru-madrasah-honorer-naik-jadi-rp400-ribu",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Kematian Bocah SD Jadi Sorotan, Begini Angka Putus Sekolah di NTT",
-      "link_berita": "https://news.republika.co.id/berita/t9yqxb393/kematian-bocah-sd-jadi-sorotan-begini-angka-putus-sekolah-di-ntt",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Baznas Tetapkan Zakat Fitrah 2026 Rp50 Ribu per Jiwa",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9yqvs370/baznas-tetapkan-zakat-fitrah-2026-rp50-ribu-per-jiwa",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Anak SD di NTT Bunuh Diri, Menkes BGS: Ada 10 Juta Anak Berisiko Terkena Penyakit Mental",
-      "link_berita": "https://rejogja.republika.co.id/berita/t9yqlq282/anak-sd-di-ntt-bunuh-diri-menkes-bgs-ada-10-juta-anak-berisiko-terkena-penyakit-mental",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Organisasi Lobi Yahudi AIPAC Mulai Gerah dan Serang Politisi Moderat Partai Demokrat AS",
-      "link_berita": "https://news.republika.co.id/berita/t9yqgz451/organisasi-lobi-yahudi-aipac-mulai-gerah-dan-serang-politisi-moderat-partai-demokrat-as",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Polisi Periksa Dua Orang Pembuka Acara 'Mens Rea' Pandji Pragiwaksono",
-      "link_berita": "https://news.republika.co.id/berita/t9yqec377/polisi-periksa-dua-orang-pembuka-acara-mens-rea-pandji-pragiwaksono",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Cucu Imam Khomeini Akhirnya Muncul: Simak Pesannya Jika Perang Iran-AS Pecah",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9yqbp483/cucu-imam-khomeini-akhirnya-muncul-simak-pesannya-jika-perang-iranas-pecah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Spanyol Siap Larang Anak di Bawah 16 Tahun Main Medsos",
-      "link_berita": "https://ameera.republika.co.id/berita/t9yqbo425/spanyol-siap-larang-anak-di-bawah-16-tahun-main-medsos",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "KPK Sita Uang Rp 1 Miliar Usai OTT Pejabat Pajak di Banjarmasin",
-      "link_berita": "https://news.republika.co.id/berita/t9yq9f487/kpk-sita-uang-rp-1-miliar-usai-ott-pejabat-pajak-di-banjarmasin",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Sejumlah Tokoh Diundang Prabowo, Menlu: Saya tidak Melihat Pro dan Kontra",
-      "link_berita": "https://news.republika.co.id/berita/t9yq5l484/sejumlah-tokoh-diundang-prabowo-menlu-saya-tidak-melihat-pro-dan-kontra",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Lombok Timur Dapat Tambahan 16 Kuota Haji pada 2026",
-      "link_berita": "https://khazanah.republika.co.id/berita/t9yppc366/lombok-timur-dapat-tambahan-16-kuota-haji-pada-2026",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Mafia Pupuk Subsidi di Jateng Ditangkap, Beli Rp90 Ribu Dijual Rp190 ke Petani",
-      "link_berita": "https://rejogja.republika.co.id/berita/t9yplw282/mafia-pupuk-subsidi-di-jateng-ditangkap-beli-rp90-ribu-dijual-rp190-ke-petani",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Momen Warga Palestina Kembali ke Gaza",
-      "link_berita": "https://tv.republika.co.id/berita/yt-t9ypi2512960364/momen-warga-palestina-kembali-ke-gaza",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 01:58:05"
-    },
-    {
-      "judul": "Banser Tangerang Minta Bahar Bin Smith Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/t9ypd3377/banser-tangerang-minta-bahar-bin-smith-ditangkap",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 00:58:05"
-    },
-    {
-      "judul": "Dino Anggap Prabowo Ajak RI Gabung Board of Peace Pendekatan Realistis",
-      "link_berita": "https://news.republika.co.id/berita/t9yozp484/dino-anggap-prabowo-ajak-ri-gabung-board-of-peace-pendekatan-realistis",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 00:58:05"
-    },
-    {
-      "judul": "J Trust Bank Dukung Pengembangan Golf Wanita Lewat Indonesia Women\u2019s Open 2026",
-      "link_berita": "https://ameera.republika.co.id/berita/t9yzgd522/j-trust-bank-dukung-pengembangan-golf-wanita-lewat-indonesia-womens-open-2026",
-      "kategori": "Health",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 12:05:00"
+      "judul": "Bos X dan Telegram Kompak Kritisi Rencana Larangan Medsos Bagi Anak di Spanyol",
+      "link_berita": "https://ameera.republika.co.id/berita/t9z3x2425/bos-x-dan-telegram-kompak-kritisi-rencana-larangan-medsos-bagi-anak-di-spanyol",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 13:41:00"
     },
     {
       "judul": "Transisi Telur Bebas Sangkar Dinilai Penting Dukung Keberlanjutan Lingkungan",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 05 Feb 2026, 12:09:00"
     },
     {
-      "judul": "Waspada, Rupiah Berpeluang Sentuh Rp 17.000 per Dolar AS Pekan Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/t9z168370/waspada-rupiah-berpeluang-sentuh-rp-17000-per-dolar-as-pekan-ini",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 12:42:00"
+      "judul": "Menperin: Ekspor Jadi Penopang Industri Otomotif di Tengah Melemahnya Pasar Domestik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/t9z4ov370/menperin-ekspor-jadi-penopang-industri-otomotif-di-tengah-melemahnya-pasar-domestik",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 13:58:00"
     },
     {
       "judul": "Indonesia Resmi Jadi Hub Ekonomi Islam Asia-Pasifik Melalui Peluncuran B57+",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 04 Feb 2026, 22:35:00"
     },
     {
-      "judul": "Cerita Pasien PBI BPJS Diputus Tiba-Tiba: Kesakitan karena tak Bisa Cuci Darah dan Kini Hanya Pasrah",
-      "link_berita": "https://news.republika.co.id/berita/t9z1ml487/cerita-pasien-pbi-bpjs-diputus-tibatiba-kesakitan-karena-tak-bisa-cuci-darah-dan-kini-hanya-pasrah",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 05 Feb 2026, 12:51:00"
+      "judul": "Trump vs Xi vs Putin: Panggilan Telepon Panas yang Bisa Ubah Dunia, ini Inti Pembicaraan Mereka",
+      "link_berita": "https://news.republika.co.id/berita/t9z52g451/trump-vs-xi-vs-putin-panggilan-telepon-panas-yang-bisa-ubah-dunia-ini-inti-pembicaraan-mereka",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Thursday, 05 Feb 2026, 14:06:00"
     }
   ],
-  "waktu_scraping": "Thursday, 05 Feb 2026, 12:58:05"
+  "waktu_scraping": "Thursday, 05 Feb 2026, 14:11:07"
 }
