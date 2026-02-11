@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Menhaj Minta Calhaj Siapkan Dua Hal Ini Menjelang Berangkat Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/taa276483/menhaj-minta-calhaj-siapkan-dua-hal-ini-menjelang-berangkat-haji"
+    },
+    {
+      "judul": "Ketua Komisi III DPR Tolak Hukuman Mati Ayah Bunuh Pelaku Pelecehan Anaknya, Ini Alasannya",
+      "link_berita": "https://news.republika.co.id/berita/ta9zov487/ketua-komisi-iii-dpr-tolak-hukuman-mati-ayah-bunuh-pelaku-pelecehan-anaknya-ini-alasannya"
+    },
+    {
       "judul": "IHSG dan Rupiah Kompak Menguat pada Perdagangan Rabu",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9wf6484/ihsg-dan-rupiah-kompak-menguat-pada-perdagangan-rabu"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Como Singkirkan Napoli di Coppa Italia, tapi Fabregas Minta Pemain Segera Fokus Laga Berikutnya",
       "link_berita": "https://news.republika.co.id/berita/ta9phg348/como-singkirkan-napoli-di-coppa-italia-tapi-fabregas-minta-pemain-segera-fokus-laga-berikutnya"
-    },
-    {
-      "judul": "Tottenham Kembali Telan Kekalahan, Kali Ini Dipermalukan Newcastle 1-2",
-      "link_berita": "https://news.republika.co.id/berita/ta9mv1348/tottenham-kembali-telan-kekalahan-kali-ini-dipermalukan-newcastle-12"
-    },
-    {
-      "judul": "Tawakal dalam Urusan Rezeki",
-      "link_berita": "https://khazanah.republika.co.id/berita/ta9l5v430/tawakal-dalam-urusan-rezeki"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Transaksi Emas Digital Melejit, Pengawasan Harus Ketat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/taa1wp416/transaksi-emas-digital-melejit-pengawasan-harus-ketat"
+    },
+    {
+      "judul": "Pendapat Pakar Syariah soal Hukum Membeli Emas Online",
+      "link_berita": "https://khazanah.republika.co.id/berita/ta9yxy430/pendapat-pakar-syariah-soal-hukum-membeli-emas-online"
+    },
     {
       "judul": "Temuan Baru Ungkap Epstein Bukan Tewas Bunuh Diri, Tetapi Dieksekusi Dalam Sel Isolasinya",
       "link_berita": "https://khazanah.republika.co.id/berita/ta9w9c320/temuan-baru-ungkap-epstein-bukan-tewas-bunuh-diri-tetapi-dieksekusi-dalam-sel-isolasinya"
@@ -73,347 +81,339 @@
     {
       "judul": "Ini Alasan Saudi Kepincut Kembangkan Jet Tempur KAAN",
       "link_berita": "https://news.republika.co.id/berita/ta8vlv393/ini-alasan-saudi-kepincut-kembangkan-jet-tempur-kaan"
-    },
-    {
-      "judul": "Penjelasan tentang Qadha Puasa Ramadhan dan Membayar Fidyah",
-      "link_berita": "https://khazanah.republika.co.id/berita/ta8s2k458/penjelasan-tentang-qadha-puasa-ramadhan-dan-membayar-fidyah"
-    },
-    {
-      "judul": "Tiga Amalan Baik untuk Sehari-hari",
-      "link_berita": "https://khazanah.republika.co.id/berita/ta8rwg458/tiga-amalan-baik-untuk-seharihari"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "BSI: Metodologi Rating Syariah Belum Spesifik, Prospek Emas Tetap Positif",
+      "link_berita": "https://sharia.republika.co.id/berita/taa3fg423/bsi-metodologi-rating-syariah-belum-spesifik-prospek-emas-tetap-positif",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 05:04:30"
+    },
+    {
+      "judul": "Joe Gomez Diragukan, Liverpool Krisis Bek Kanan Saat Hadapi Sunderland",
+      "link_berita": "https://news.republika.co.id/berita/taa35u348/joe-gomez-diragukan-liverpool-krisis-bek-kanan-saat-hadapi-sunderland",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:58:30"
+    },
+    {
+      "judul": "Perkuat Sinergi Pelaku Usaha, IFA 2026 Hadirkan Konsep Kebaruan yang Lebih Spektakuler",
+      "link_berita": "https://ekonomi.republika.co.id/berita/taa2zj472/perkuat-sinergi-pelaku-usaha-ifa-2026-hadirkan-konsep-kebaruan-yang-lebih-spektakuler",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:54:30"
+    },
+    {
+      "judul": "Menhaj Minta Calhaj Siapkan Dua Hal Ini Menjelang Berangkat Haji",
+      "link_berita": "https://khazanah.republika.co.id/berita/taa276483/menhaj-minta-calhaj-siapkan-dua-hal-ini-menjelang-berangkat-haji",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:37:30"
+    },
+    {
+      "judul": "Transaksi Emas Digital Melejit, Pengawasan Harus Ketat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/taa1wp416/transaksi-emas-digital-melejit-pengawasan-harus-ketat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:31:30"
+    },
+    {
+      "judul": "PGEO Siapkan Pasokan Green Hydrogen Ulubelu untuk Dukung Green Terminal Tanjung Sekong",
+      "link_berita": "https://esgnow.republika.co.id/berita/taa17s522/pgeo-siapkan-pasokan-green-hydrogen-ulubelu-untuk-dukung-green-terminal-tanjung-sekong",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:16:30"
+    },
+    {
+      "judul": "Terminal LPG Tanjung Sekong Pertamina Akan Jadi Green Terminal",
+      "link_berita": "https://ekonomi.republika.co.id/berita/taa0q6522/terminal-lpg-tanjung-sekong-pertamina-akan-jadi-green-terminal",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:06:30"
+    },
+    {
+      "judul": "Ketua Komisi III DPR Tolak Hukuman Mati Ayah Bunuh Pelaku Pelecehan Anaknya, Ini Alasannya",
+      "link_berita": "https://news.republika.co.id/berita/ta9zov487/ketua-komisi-iii-dpr-tolak-hukuman-mati-ayah-bunuh-pelaku-pelecehan-anaknya-ini-alasannya",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:05:30"
+    },
+    {
+      "judul": "BMU Resmikan Beasiswa Sumber Daya Unggul dan Luncurkan Program Wakaf Serta Ramadhan 2026",
+      "link_berita": "https://news.republika.co.id/berita/ta9zic472/bmu-resmikan-beasiswa-sumber-daya-unggul-dan-luncurkan-program-wakaf-serta-ramadhan-2026",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:05:30"
+    },
+    {
+      "judul": "Strategi Perbaikan Kualitas Layanan BPJS Ketenagakerjaan Berbasis SDM dan Sistem",
+      "link_berita": "https://news.republika.co.id/berita/ta9z7v430/strategi-perbaikan-kualitas-layanan-bpjs-ketenagakerjaan-berbasis-sdm-dan-sistem",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:05:30"
+    },
+    {
+      "judul": "Suka Edit Video Anak Ngedance Pakai Al? Ini Risiko yang Perlu Diketahui Orang Tua",
+      "link_berita": "https://ameera.republika.co.id/berita/ta9xmz425/suka-edit-video-anak-ngedance-pakai-al-ini-risiko-yang-perlu-diketahui-orang-tua",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 04:05:30"
+    },
+    {
+      "judul": "Kanwil Kementerian Hukum Gorontalo Sosialisasikan Layanan Administrasi Hukum Umum",
+      "link_berita": "https://news.republika.co.id/berita/ta9yzx472/kanwil-kementerian-hukum-gorontalo-sosialisasikan-layanan-administrasi-hukum-umum",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Pendapat Pakar Syariah soal Hukum Membeli Emas Online",
+      "link_berita": "https://khazanah.republika.co.id/berita/ta9yxy430/pendapat-pakar-syariah-soal-hukum-membeli-emas-online",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Sambut Ramadhan, GoPay Luncurkan Fitur \u2018QRIS buat Jualan\u2019",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ta9yp7416/sambut-ramadhan-gopay-luncurkan-fitur-qris-buat-jualan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Mengenal Hidden Hunger: Anak Kurang Zat Gizi Mikro Penting",
+      "link_berita": "https://ameera.republika.co.id/berita/ta9xzk484/mengenal-hidden-hunger-anak-kurang-zat-gizi-mikro-penting",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "19 Ribu Warganya Terdepak dari JKN PBI Pusat, Begini Langkah Wali Kota Cimahi",
+      "link_berita": "https://rejabar.republika.co.id/berita/ta9xyc487/19-ribu-warganya-terdepak-dari-jkn-pbi-pusat-begini-langkah-wali-kota-cimahi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Studi: Minum 2 Cangkir Kopi Bisa Lindungi Otak dari Demensia",
+      "link_berita": "https://ameera.republika.co.id/berita/ta9xf6425/studi-minum-2-cangkir-kopi-bisa-lindungi-otak-dari-demensia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Datang, Lihat, dan Pulang dengan Mobil Mitsubishi: Ini Alasan Booth MMKSI Wajib Dikunjungi di IIMS",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ta1c7b348/datang-lihat-dan-pulang-dengan-mobil-mitsubishi-ini-alasan-booth-mmksi-wajib-dikunjungi-di-iims",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Rabu Pagi, Harga Emas Antam Turun Rp 7.000",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ta9x3u423/rabu-pagi-harga-emas-antam-turun-rp-7000",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "84 Ribu Peserta PBI JK di Indramayu Dinonaktifkan",
+      "link_berita": "https://rejabar.republika.co.id/berita/ta9x0p487/84-ribu-peserta-pbi-jk-di-indramayu-dinonaktifkan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Air Kali Perumahan BSD Berubah Putih dan Berbau",
+      "link_berita": "https://tv.republika.co.id/berita/yt-ta9wz11276536698/air-kali-perumahan-bsd-berubah-putih-dan-berbau",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
+      "judul": "Wall Street Melemah, Data Ritel AS dan Isu AI Tekan Bursa Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/ta9wyk423/wall-street-melemah-data-ritel-as-dan-isu-ai-tekan-bursa-global",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
+    },
+    {
       "judul": "Dukung Pemulihan Pascabencana, Mirae Asset Sekuritas Bantu Pengungsi di Aceh Tamiang",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta8qn4472/dukung-pemulihan-pascabencana-mirae-asset-sekuritas-bantu-pengungsi-di-aceh-tamiang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:41:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 03:05:30"
     },
     {
       "judul": "IHSG dan Rupiah Kompak Menguat pada Perdagangan Rabu",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9wf6484/ihsg-dan-rupiah-kompak-menguat-pada-perdagangan-rabu",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:33:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "Temuan Baru Ungkap Epstein Bukan Tewas Bunuh Diri, Tetapi Dieksekusi Dalam Sel Isolasinya",
       "link_berita": "https://khazanah.republika.co.id/berita/ta9w9c320/temuan-baru-ungkap-epstein-bukan-tewas-bunuh-diri-tetapi-dieksekusi-dalam-sel-isolasinya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:30:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "Pemda Didorong Realisasikan Program Majukan Koperasi Merah Putih",
       "link_berita": "https://news.republika.co.id/berita/ta9uv1484/pemda-didorong-realisasikan-program-majukan-koperasi-merah-putih",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:59:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "Moody\u2019s Turunkan Outlook Lima Bank, OJK Sebut tak Ada Dampak Signifikan",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9udi423/moodys-turunkan-outlook-lima-bank-ojk-sebut-tak-ada-dampak-signifikan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:50:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "PBSI Dukung Format Baru Indonesia Open Berdurasi 11 Hari",
       "link_berita": "https://news.republika.co.id/berita/ta9u8l348/pbsi-dukung-format-baru-indonesia-open-berdurasi-11-hari",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:46:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "BCA Syariah Catat Kinerja Moncer 2025, Giro dan Emas Melambung",
       "link_berita": "https://sharia.republika.co.id/berita/ta9tn0423/bca-syariah-catat-kinerja-moncer-2025-giro-dan-emas-melambung",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "Ini Yang Spesial dari Xforce dan Destinator Edisi Khusus Perayaan 55 Tahun Mitsubishi di Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta1k1p348/ini-yang-spesial-dari-xforce-dan-destinator-edisi-khusus-perayaan-55-tahun-mitsubishi-di-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 02:05:30"
     },
     {
       "judul": "Carrick Apresiasi Semangat Pemain MU Walau Gagal Menang di Markas West Ham",
       "link_berita": "https://news.republika.co.id/berita/ta9trl348/carrick-apresiasi-semangat-pemain-mu-walau-gagal-menang-di-markas-west-ham",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Teddy Jelaskan Isi Percakapan Prabowo dan 5 Pengusaha Besar Sampai Larut Malam",
       "link_berita": "https://news.republika.co.id/berita/ta9tom484/teddy-jelaskan-isi-percakapan-prabowo-dan-5-pengusaha-besar-sampai-larut-malam",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Gajah Sumatera Mati Ditembak di Riau, Pemerintah Cari Jaringan Pemburu Liar",
       "link_berita": "https://tv.republika.co.id/berita/yt-ta9ti11143787823/gajah-sumatera-mati-ditembak-di-riau-pemerintah-cari-jaringan-pemburu-liar",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Respons Pernyataan Purbaya, Trenggono Tegaskan Dana Kapal dari Inggris Bukan APBN",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9teh423/respons-pernyataan-purbaya-trenggono-tegaskan-dana-kapal-dari-inggris-bukan-apbn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Aksi Digital Berbuah 60 Ribu Pohon, Lereng Muria Kian Hijau",
       "link_berita": "https://esgnow.republika.co.id/berita/ta9sud423/aksi-digital-berbuah-60-ribu-pohon-lereng-muria-kian-hijau",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Jelang Lebaran 2026, Kereta Luar Biasa KAI Inspeksi Lintas Jalur Selatan",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9s3h423/jelang-lebaran-2026-kereta-luar-biasa-kai-inspeksi-lintas-jalur-selatan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Bertaruh Nyawa di Lautan, Seribu Nelayan Indramayu Kini Dapat Perlindungan BPJS Ketenagakerjaan",
       "link_berita": "https://rejabar.republika.co.id/berita/ta9s3i282/bertaruh-nyawa-di-lautan-seribu-nelayan-indramayu-kini-dapat-perlindungan-bpjs-ketenagakerjaan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Uji Biodiesel B50 Diperluas ke Tambang hingga Pembangkit",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9rqg416/uji-biodiesel-b50-diperluas-ke-tambang-hingga-pembangkit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Hashim Djojohadikusumo Tegaskan Kapal Pertamina Wajib Dibangun di Dalam Negeri",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9r5c423/hashim-djojohadikusumo-tegaskan-kapal-pertamina-wajib-dibangun-di-dalam-negeri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 01:05:30"
     },
     {
       "judul": "Tekanan Pasar Mereda, BSI Nilai Dampak Revisi Outlook RI tak Berkepanjangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9qxx416/tekanan-pasar-mereda-bsi-nilai-dampak-revisi-outlook-ri-tak-berkepanjangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Gen Z Dongkrak Transaksi Tabungan Emas Digital Pegadaian hingga 14 Juta Transaksi",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9qpz423/gen-z-dongkrak-transaksi-tabungan-emas-digital-pegadaian-hingga-14-juta-transaksi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Sungai Cisadane Tercemar Pestisida, DLH Tangerang: Warga Jangan Mandi, Cuci Dulu",
       "link_berita": "https://news.republika.co.id/berita/ta9q85409/sungai-cisadane-tercemar-pestisida-dlh-tangerang-warga-jangan-mandi-cuci-dulu",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Janice Tjen Dijegal Pemain Nomor Dua Dunia Swiatek pada Babak Kedua Qatar Open",
       "link_berita": "https://news.republika.co.id/berita/ta9q7i348/janice-tjen-dijegal-pemain-nomor-dua-dunia-swiatek-pada-babak-kedua-qatar-open",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Hector Souto Masih Sesali Kekalahan Timnas Futsal Indonesia pada Laga Final Piala Asia",
       "link_berita": "https://news.republika.co.id/berita/ta9pzn348/hector-souto-masih-sesali-kekalahan-timnas-futsal-indonesia-pada-laga-final-piala-asia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "TNI Dilaporkan akan Masuk Gaza, Ini Harapan Ketua PBNU",
       "link_berita": "https://khazanah.republika.co.id/berita/ta9p12430/tni-dilaporkan-akan-masuk-gaza-ini-harapan-ketua-pbnu",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Como Singkirkan Napoli di Coppa Italia, tapi Fabregas Minta Pemain Segera Fokus Laga Berikutnya",
       "link_berita": "https://news.republika.co.id/berita/ta9phg348/como-singkirkan-napoli-di-coppa-italia-tapi-fabregas-minta-pemain-segera-fokus-laga-berikutnya",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Kasat Reskrim Polresta Manado Jadi Korban Tabrak Lari Saat Bubarkan Aksi Tawuran",
       "link_berita": "https://news.republika.co.id/berita/ta9pg8409/kasat-reskrim-polresta-manado-jadi-korban-tabrak-lari-saat-bubarkan-aksi-tawuran",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Istiqamah Adalah Karamah Terbesar",
       "link_berita": "https://khazanah.republika.co.id/berita/ta9okj430/istiqamah-adalah-karamah-terbesar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Prancis Kutuk Upaya Israel Perluas Penjajahan di Tepi Barat, Dinilai Hambat Upaya Solusi Dua Negara",
       "link_berita": "https://news.republika.co.id/berita/ta9obi348/prancis-kutuk-upaya-israel-perluas-penjajahan-di-tepi-barat-dinilai-hambat-upaya-solusi-dua-negara",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 00:05:30"
     },
     {
       "judul": "Harga Khusus Jetour T2 Masih Berlaku di IIMS 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/ta9nrq348/harga-khusus-jetour-t2-masih-berlaku-di-iims-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:05:30"
     },
     {
-      "judul": "Sumut Berpeluang Jadi Tuan Rumah Piala AFF U-17 dan U-19",
-      "link_berita": "https://news.republika.co.id/berita/ta9n7i348/sumut-berpeluang-jadi-tuan-rumah-piala-aff-u17-dan-u19",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:42:04"
+      "judul": "Suka Edit Video Anak Ngedance Pakai Al? Ini Risiko yang Perlu Diketahui Orang Tua",
+      "link_berita": "https://ameera.republika.co.id/berita/ta9xmz425/suka-edit-video-anak-ngedance-pakai-al-ini-risiko-yang-perlu-diketahui-orang-tua",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 10:37:00"
     },
     {
-      "judul": "Tottenham Kembali Telan Kekalahan, Kali Ini Dipermalukan Newcastle 1-2",
-      "link_berita": "https://news.republika.co.id/berita/ta9mv1348/tottenham-kembali-telan-kekalahan-kali-ini-dipermalukan-newcastle-12",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 22:42:04"
-    },
-    {
-      "judul": "Gol Telat Benjamin Sesko Selamatkan Manchester United dari Kekalahan di Markas West Ham",
-      "link_berita": "https://news.republika.co.id/berita/ta9lva9030000/gol-telat-benjamin-sesko-selamatkan-manchester-united-dari-kekalahan-di-markas-west-ham",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 22:42:04"
-    },
-    {
-      "judul": "Bournemouth Tumbangkan Everton 2-1 dan Naik ke Peringkat Sembilan",
-      "link_berita": "https://news.republika.co.id/berita/ta9l69730000/bournemouth-tumbangkan-everton-21-dan-naik-ke-peringkat-sembilan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 22:42:04"
-    },
-    {
-      "judul": "Tawakal dalam Urusan Rezeki",
-      "link_berita": "https://khazanah.republika.co.id/berita/ta9l5v430/tawakal-dalam-urusan-rezeki",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 22:42:04"
-    },
-    {
-      "judul": "Chelsea Gagal Pertahankan Keunggulan, Ditahan Imbang Leeds United 2-2",
-      "link_berita": "https://news.republika.co.id/berita/ta9khc7130000/chelsea-gagal-pertahankan-keunggulan-ditahan-imbang-leeds-united-22",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 22:42:04"
-    },
-    {
-      "judul": "UMKM Indonesia Hadapi Tantangan Regulasi Tembus Pasar Kanada",
-      "link_berita": "https://news.republika.co.id/berita/ta9jsn7130000/umkm-indonesia-hadapi-tantangan-regulasi-tembus-pasar-kanada",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 21:42:04"
-    },
-    {
-      "judul": "Imigrasi Parepare Perkuat Koordinasi Pengawasan Warga Asing",
-      "link_berita": "https://news.republika.co.id/berita/ta9j394730000/imigrasi-parepare-perkuat-koordinasi-pengawasan-warga-asing",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 21:42:04"
-    },
-    {
-      "judul": "Kemenhub Periksa Kelaikan Transportasi Jelang Mudik Lebaran 2026",
-      "link_berita": "https://news.republika.co.id/berita/ta9iex3630000/kemenhub-periksa-kelaikan-transportasi-jelang-mudik-lebaran-2026",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 21:42:04"
-    },
-    {
-      "judul": "BPJS PBI 1,6 Juta Warga Jateng Dinonaktifkan, Reaktivasi tak Bisa Instan",
-      "link_berita": "https://rejogja.republika.co.id/berita/ta9afz282/bpjs-pbi-16-juta-warga-jateng-dinonaktifkan-reaktivasi-tak-bisa-instan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 21:42:04"
-    },
-    {
-      "judul": "Pilates Lansia Setelah Sholat, Masjid di Inggris Jadi Pusat Aktivitas Jamaah",
-      "link_berita": "https://khazanah.republika.co.id/berita/ta8z3f366/pilates-lansia-setelah-sholat-masjid-di-inggris-jadi-pusat-aktivitas-jamaah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 21:42:04"
-    },
-    {
-      "judul": "Persib Bandung Tantang Ratchaburi di Leg Pertama ACL II",
-      "link_berita": "https://news.republika.co.id/berita/ta9hpe3630000/persib-bandung-tantang-ratchaburi-di-leg-pertama-acl-ii",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 21:42:04"
-    },
-    {
-      "judul": "Ombudsman Gorontalo Buka Pelayanan Terpadu di Bone Bolango",
-      "link_berita": "https://news.republika.co.id/berita/ta9gba5130000/ombudsman-gorontalo-buka-pelayanan-terpadu-di-bone-bolango",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 20:42:04"
-    },
-    {
-      "judul": "Pemicu Bencana Tanah Bergerak di Tegal Terungkap, BPBD Jelaskan Penyebabnya",
-      "link_berita": "https://rejogja.republika.co.id/berita/ta99uh282/pemicu-bencana-tanah-bergerak-di-tegal-terungkap-bpbd-jelaskan-penyebabnya",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 20:42:04"
-    },
-    {
-      "judul": "Kejati Bengkulu Tetapkan Tersangka Korupsi PLTA Musi Senilai Rp15 Miliar",
-      "link_berita": "https://news.republika.co.id/berita/ta9exs9530000/kejati-bengkulu-tetapkan-tersangka-korupsi-plta-musi-senilai-rp15-miliar",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 20:42:04"
-    },
-    {
-      "judul": "Iran Kritik AS Sebagai Pemimpin Perdamaian di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/ta9djc230000/iran-kritik-as-sebagai-pemimpin-perdamaian-di-gaza",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 19:42:04"
-    },
-    {
-      "judul": "Penonaktifan PBI JKN Mendadak, BPJS Akui tak Sempat Identifikasi Pasien Katastropik",
-      "link_berita": "https://rejogja.republika.co.id/berita/ta99iv282/penonaktifan-pbi-jkn-mendadak-bpjs-akui-tak-sempat-identifikasi-pasien-katastropik",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 19:42:04"
-    },
-    {
-      "judul": "Prabowo Subianto Siap Copot Pejabat 'Telur Busuk' di Birokrasi dan Swasta",
-      "link_berita": "https://news.republika.co.id/berita/ta9ar810030000/prabowo-subianto-siap-copot-pejabat-telur-busuk-di-birokrasi-dan-swasta",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 18:42:04"
-    },
-    {
-      "judul": "Pemerintah Perkuat Sinergi dengan Swasta untuk Pertumbuhan Ekonomi",
-      "link_berita": "https://news.republika.co.id/berita/ta9aa89630000/pemerintah-perkuat-sinergi-dengan-swasta-untuk-pertumbuhan-ekonomi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 18:42:04"
-    },
-    {
-      "judul": "PLN Babel Kerahkan 1.000 Personel untuk Amankan Pasokan Listrik Selama Ramadhan",
-      "link_berita": "https://news.republika.co.id/berita/ta9a9s730000/pln-babel-kerahkan-1000-personel-untuk-amankan-pasokan-listrik-selama-ramadhan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 18:42:04"
-    },
-    {
-      "judul": "Airlangga Hartarto Kembali Pimpin Wushu Indonesia, Fokus Olimpiade 2032",
-      "link_berita": "https://news.republika.co.id/berita/ta9a835330000/airlangga-hartarto-kembali-pimpin-wushu-indonesia-fokus-olimpiade-2032",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 18:42:04"
-    },
-    {
-      "judul": "Gedung Baru MUI Akan Dibangun di Lahan Eks Kedutaan Inggris",
-      "link_berita": "https://khazanah.republika.co.id/berita/ta9a7n4130000/gedung-baru-mui-akan-dibangun-di-lahan-eks-kedutaan-inggris",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 18:42:04"
-    },
-    {
-      "judul": "Less is More: Prinsip Skincare yang Diwujudkan dalam Moisturizer Gel Terbaru",
-      "link_berita": "https://ameera.republika.co.id/berita/ta925p451/less-is-more-prinsip-skincare-yang-diwujudkan-dalam-moisturizer-gel-terbaru",
-      "kategori": "Health",
-      "tanggal_terbit": "Tuesday, 10 Feb 2026, 23:55:00"
-    },
-    {
-      "judul": "Aksi Digital Berbuah 60 Ribu Pohon, Lereng Muria Kian Hijau",
-      "link_berita": "https://esgnow.republika.co.id/berita/ta9sud423/aksi-digital-berbuah-60-ribu-pohon-lereng-muria-kian-hijau",
+      "judul": "PGEO Siapkan Pasokan Green Hydrogen Ulubelu untuk Dukung Green Terminal Tanjung Sekong",
+      "link_berita": "https://esgnow.republika.co.id/berita/taa17s522/pgeo-siapkan-pasokan-green-hydrogen-ulubelu-untuk-dukung-green-terminal-tanjung-sekong",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 08:20:00"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 11:16:00"
     },
     {
-      "judul": "Dukung Pemulihan Pascabencana, Mirae Asset Sekuritas Bantu Pengungsi di Aceh Tamiang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/ta8qn4472/dukung-pemulihan-pascabencana-mirae-asset-sekuritas-bantu-pengungsi-di-aceh-tamiang",
+      "judul": "Perkuat Sinergi Pelaku Usaha, IFA 2026 Hadirkan Konsep Kebaruan yang Lebih Spektakuler",
+      "link_berita": "https://ekonomi.republika.co.id/berita/taa2zj472/perkuat-sinergi-pelaku-usaha-ifa-2026-hadirkan-konsep-kebaruan-yang-lebih-spektakuler",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 09:40:00"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 11:54:00"
     },
     {
-      "judul": "BCA Syariah Catat Kinerja Moncer 2025, Giro dan Emas Melambung",
-      "link_berita": "https://sharia.republika.co.id/berita/ta9tn0423/bca-syariah-catat-kinerja-moncer-2025-giro-dan-emas-melambung",
+      "judul": "BSI: Metodologi Rating Syariah Belum Spesifik, Prospek Emas Tetap Positif",
+      "link_berita": "https://sharia.republika.co.id/berita/taa3fg423/bsi-metodologi-rating-syariah-belum-spesifik-prospek-emas-tetap-positif",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 08:40:00"
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 12:04:00"
     },
     {
-      "judul": "Pemda Didorong Realisasikan Program Majukan Koperasi Merah Putih",
-      "link_berita": "https://news.republika.co.id/berita/ta9uv1484/pemda-didorong-realisasikan-program-majukan-koperasi-merah-putih",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Wednesday, 11 Feb 2026, 08:59:00"
+      "judul": "Joe Gomez Diragukan, Liverpool Krisis Bek Kanan Saat Hadapi Sunderland",
+      "link_berita": "https://news.republika.co.id/berita/taa35u348/joe-gomez-diragukan-liverpool-krisis-bek-kanan-saat-hadapi-sunderland",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 11 Feb 2026, 11:58:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 11 Feb 2026, 09:42:04"
+  "waktu_scraping": "Wednesday, 11 Feb 2026, 12:05:30"
 }
