@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "KRI Hampala-880 Tangkap Dua Kapal Pengangkut Nikel di Teluk Weda",
+      "link_berita": "https://news.republika.co.id/berita/tac0uu484/kri-hampala880-tangkap-dua-kapal-pengangkut-nikel-di-teluk-weda"
+    },
+    {
+      "judul": "Biaya Turun Hingga Kampung Haji di Makkah, Ini 4 Program Strategis Kemenhaj",
+      "link_berita": "https://khazanah.republika.co.id/berita/tabydw366/biaya-turun-hingga-kampung-haji-di-makkah-ini-4-program-strategis-kemenhaj"
+    },
+    {
       "judul": "Makin Parah, Kematian Ikan Dewa \u2018Jelmaan Prajurit Siliwangi\u2019 Sudah Capai 800 Ekor",
       "link_berita": "https://rejabar.republika.co.id/berita/tabw66487/makin-parah-kematian-ikan-dewa-jelmaan-prajurit-siliwangi-sudah-capai-800-ekor"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Pramono Klaim Bus Transjabodetabek Blok M-Soetta Sudah Dapat Izin Kemenhub",
       "link_berita": "https://news.republika.co.id/berita/tabqww484/pramono-klaim-bus-transjabodetabek-blok-msoetta-sudah-dapat-izin-kemenhub"
-    },
-    {
-      "judul": "IHSG Masih Menguat, Simak Rekomendasi Sahamnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabo68423/ihsg-masih-menguat-simak-rekomendasi-sahamnya"
-    },
-    {
-      "judul": "Produk Impor Kuasai 90 Persen Lokapasar, Masalah Lama Belum Tuntas?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabm57423/produk-impor-kuasai-90-persen-lokapasar-masalah-lama-belum-tuntas"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "KSAD Tunggu Mabes TNI Sikapi OPM Tembaki Pesawat Smart Air",
+      "link_berita": "https://news.republika.co.id/berita/tac1st484/ksad-tunggu-mabes-tni-sikapi-opm-tembaki-pesawat-smart-air"
+    },
+    {
+      "judul": "Harga Daging Sapi Diprediksi Naik 15 Persen Jelang Ramadhan 2026",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tabz50423/harga-daging-sapi-diprediksi-naik-15-persen-jelang-ramadhan-2026"
+    },
     {
       "judul": "Rupiah Berpotensi Menguat Seiring Data Ekonomi AS Melemah",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabvps423/rupiah-berpotensi-menguat-seiring-data-ekonomi-as-melemah"
@@ -73,322 +81,314 @@
     {
       "judul": "Jelang Ramadhan, Raja Saudi Datangkan Bantuan Seratus Ton Kurma untuk RI",
       "link_berita": "https://khazanah.republika.co.id/berita/taaoy6483/jelang-ramadhan-raja-saudi-datangkan-bantuan-seratus-ton-kurma-untuk-ri"
-    },
-    {
-      "judul": "Harta yang tak Pernah Habis",
-      "link_berita": "https://khazanah.republika.co.id/berita/taak6p458/harta-yang-tak-pernah-habis"
-    },
-    {
-      "judul": "Badan Geologi Ungkap 11 Indikasi Sinkhole Tipe Situjuah di Sumbar",
-      "link_berita": "https://republika.co.id/berita//taaknf370/badan-geologi-ungkap-11-indikasi-sinkhole-tipe-situjuah-di-sumbar"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Malaysia Jejaki Sistem Diyat Islam Untuk Kompensasi Kecelakaan Lalu Lintas",
+      "link_berita": "https://khazanah.republika.co.id/berita/tac3p0430/malaysia-jejaki-sistem-diyat-islam-untuk-kompensasi-kecelakaan-lalu-lintas",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 07:05:25"
+    },
+    {
+      "judul": "Tiga Alasan Kenapa RUU Ekonomi Syariah Harus Segera Diundangkan",
+      "link_berita": "https://sharia.republika.co.id/berita/tac3kw416/tiga-alasan-kenapa-ruu-ekonomi-syariah-harus-segera-diundangkan",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 07:03:20"
+    },
+    {
+      "judul": "Zakat, Basis Muzaki, dan Reorientasi Kebijakan Nasional",
+      "link_berita": "https://analisis.republika.co.id/berita/tabxyw393/zakat-basis-muzaki-dan-reorientasi-kebijakan-nasional",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:58:20"
+    },
+    {
+      "judul": "AFTECH Luncurkan Chatpindar untuk Perkuat Fondasi Ekonomi Digital",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tac2y7370/aftech-luncurkan-chatpindar-untuk-perkuat-fondasi-ekonomi-digital",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:49:20"
+    },
+    {
+      "judul": "Arab Saudi Persiapkan 18.691 Masjid Menjelang Ramadhan 1447 H",
+      "link_berita": "https://khazanah.republika.co.id/berita/tac2w8430/arab-saudi-persiapkan-18691-masjid-menjelang-ramadhan-1447-h",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:48:20"
+    },
+    {
+      "judul": "Wamenkeu Tegaskan Kredit Ultra Mikro untuk Bantu Masyarakat, Bukan Komersial",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tac2n5416/wamenkeu-tegaskan-kredit-ultra-mikro-untuk-bantu-masyarakat-bukan-komersial",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:42:20"
+    },
+    {
+      "judul": "Menag Tegaskan Gedung Baru MUI di Bundaran HI tak Terkait BoP",
+      "link_berita": "https://khazanah.republika.co.id/berita/tac2mh430/menag-tegaskan-gedung-baru-mui-di-bundaran-hi-tak-terkait-bop",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:42:20"
+    },
+    {
+      "judul": "KSAD Tunggu Mabes TNI Sikapi OPM Tembaki Pesawat Smart Air",
+      "link_berita": "https://news.republika.co.id/berita/tac1st484/ksad-tunggu-mabes-tni-sikapi-opm-tembaki-pesawat-smart-air",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:24:20"
+    },
+    {
+      "judul": "KRI Hampala-880 Tangkap Dua Kapal Pengangkut Nikel di Teluk Weda",
+      "link_berita": "https://news.republika.co.id/berita/tac0uu484/kri-hampala880-tangkap-dua-kapal-pengangkut-nikel-di-teluk-weda",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Usulan Gentengisasi Dinilai Berpotensi Bebani Biaya Rumah, Industri Lokal Bisa Tumbuh",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tac0sc370/usulan-gentengisasi-dinilai-berpotensi-bebani-biaya-rumah-industri-lokal-bisa-tumbuh",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Ikan Terdampar di Sungai Cisadane Warga Masih Tebar Jala",
+      "link_berita": "https://tv.republika.co.id/berita/yt-tac0o2672823093/ikan-terdampar-di-sungai-cisadane-warga-masih-tebar-jala",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Jaksa Agung Tegur BPA, Ungkap Banyak Aset-Aset Sitaan \u2018Ditilap\u2019 Para Jaksa",
+      "link_berita": "https://news.republika.co.id/berita/tac0d8377/jaksa-agung-tegur-bpa-ungkap-banyak-asetaset-sitaan-ditilap-para-jaksa",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Pentagon Rencanakan Pengerahan Kapal Induk Kedua ke Timur Tengah",
+      "link_berita": "https://news.republika.co.id/berita/tac09s409/pentagon-rencanakan-pengerahan-kapal-induk-kedua-ke-timur-tengah",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Rocket 2026 Dimulai: Ciptakan Pengusaha dan Lapangan Kerja",
+      "link_berita": "https://news.republika.co.id/berita/tabzw9484/rocket-2026-dimulai-ciptakan-pengusaha-dan-lapangan-kerja",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Masjid Nusantara Launching Jelajah Masjid Nusantara Season 7, Tayang Ramadhan di Jawapos TV",
+      "link_berita": "https://khazanah.republika.co.id/berita/tabzth472/masjid-nusantara-launching-jelajah-masjid-nusantara-season-7-tayang-ramadhan-di-jawapos-tv",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 06:06:20"
+    },
+    {
+      "judul": "Harga Daging Sapi Diprediksi Naik 15 Persen Jelang Ramadhan 2026",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tabz50423/harga-daging-sapi-diprediksi-naik-15-persen-jelang-ramadhan-2026",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
+    },
+    {
+      "judul": "Nggak Buang Air Besar Setiap Hari? Jangan Panik, Ini Alasannya Menurut Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/tabz90425/nggak-buang-air-besar-setiap-hari-jangan-panik-ini-alasannya-menurut-dokter",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
+    },
+    {
+      "judul": "RSIJ Group Gelar Tarhib Ramadan: Momentum Penyucian Hati",
+      "link_berita": "https://news.republika.co.id/berita/tabz81484/rsij-group-gelar-tarhib-ramadan-momentum-penyucian-hati",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
+    },
+    {
+      "judul": "Banjir Produk Impor, Ini Tanggapan Asosiasi E-Commerce",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tabysv423/banjir-produk-impor-ini-tanggapan-asosiasi-ecommerce",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
+    },
+    {
+      "judul": "Biaya Turun Hingga Kampung Haji di Makkah, Ini 4 Program Strategis Kemenhaj",
+      "link_berita": "https://khazanah.republika.co.id/berita/tabydw366/biaya-turun-hingga-kampung-haji-di-makkah-ini-4-program-strategis-kemenhaj",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
+    },
+    {
+      "judul": "Kang DS Pimpin Penyaluran Bantuan APKASI untuk Warga Situbondo",
+      "link_berita": "https://news.republika.co.id/berita/tabycr472/kang-ds-pimpin-penyaluran-bantuan-apkasi-untuk-warga-situbondo",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
+    },
+    {
       "judul": "Di Taaruf DSN MUI, Kiai Cholil Ungkap 3 Prinsip Penguatan Ekosistem Ekonomi Syariah",
       "link_berita": "https://news.republika.co.id/berita/tabxkp320/di-taaruf-dsn-mui-kiai-cholil-ungkap-3-prinsip-penguatan-ekosistem-ekonomi-syariah",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:52:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
     },
     {
       "judul": "Menakar Analogi Hudaibiyah dan Istana Fir\u2019aun dalam Politik Global",
       "link_berita": "https://analisis.republika.co.id/berita/tabxef393/menakar-analogi-hudaibiyah-dan-istana-firaun-dalam-politik-global",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:49:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
     },
     {
       "judul": "Kasus Pelecehan Seksual, Mohan Hazian Akui Langgar Batas Profesional dan Pribadi",
       "link_berita": "https://ameera.republika.co.id/berita/tabxd8425/kasus-pelecehan-seksual-mohan-hazian-akui-langgar-batas-profesional-dan-pribadi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:48:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
     },
     {
       "judul": "BRIN Turun Tangan Selidiki Pencemaran Sungai Cisadane",
       "link_berita": "https://esgnow.republika.co.id/berita/tabx92416/brin-turun-tangan-selidiki-pencemaran-sungai-cisadane",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:45:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
     },
     {
       "judul": "Rumah Ibadah Dinilai Sebagai Pusat Fungsi Sosial dan Perkuat Kerukunan",
       "link_berita": "https://khazanah.republika.co.id/berita/tabwer430/rumah-ibadah-dinilai-sebagai-pusat-fungsi-sosial-dan-perkuat-kerukunan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:40:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
     },
     {
       "judul": "Rayakan Lima Tahun Perjalanan, Grand Dafam Braga Bandung Usung High Five-Synergy of Service",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabwzo472/rayakan-lima-tahun-perjalanan-grand-dafam-braga-bandung-usung-high-fivesynergy-of-service",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:40:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 05:06:20"
     },
     {
       "judul": "Sambut Imlek, Pos Indonesia Terbitkan Perangko Tahun Kuda",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabwqb416/sambut-imlek-pos-indonesia-terbitkan-perangko-tahun-kuda",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:34:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Pariwisata Bukan Bidang Tunggal, Perkuat dengan Aspek Komunikasi Hingga Kreativitas",
       "link_berita": "https://news.republika.co.id/berita/tabwp7320/pariwisata-bukan-bidang-tunggal-perkuat-dengan-aspek-komunikasi-hingga-kreativitas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:33:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Makin Parah, Kematian Ikan Dewa \u2018Jelmaan Prajurit Siliwangi\u2019 Sudah Capai 800 Ekor",
       "link_berita": "https://rejabar.republika.co.id/berita/tabw66487/makin-parah-kematian-ikan-dewa-jelmaan-prajurit-siliwangi-sudah-capai-800-ekor",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:22:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Rupiah Berpotensi Menguat Seiring Data Ekonomi AS Melemah",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabvps423/rupiah-berpotensi-menguat-seiring-data-ekonomi-as-melemah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:12:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "9 Orang Tewas Usai Tenggak Vodka BigBoss Campur Minuman Energi di Subang",
       "link_berita": "https://rejabar.republika.co.id/berita/tabvgq487/9-orang-tewas-usai-tenggak-vodka-bigboss-campur-minuman-energi-di-subang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:07:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Moody\u2019s Turunkan Outlook Indonesia, Bank Mandiri Siapkan Langkah Antisipatif",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabv5z423/moodys-turunkan-outlook-indonesia-bank-mandiri-siapkan-langkah-antisipatif",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Daop 3 Bersiap Hadapi Angkutan Lebaran, Puncak Arus Mudik Diperkirakan 18 Maret",
       "link_berita": "https://rejabar.republika.co.id/berita/tabv1i487/daop-3-bersiap-hadapi-angkutan-lebaran-puncak-arus-mudik-diperkirakan-18-maret",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Aksi Berani Aktivis Prancis Sisir Kurma Israel dari Supermarket Jelang Ramadhan, Ini Alasan Mereka",
       "link_berita": "https://khazanah.republika.co.id/berita/tabv01320/aksi-berani-aktivis-prancis-sisir-kurma-israel-dari-supermarket-jelang-ramadhan-ini-alasan-mereka",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Jasa Raharja dan INACA Dorong Literasi Keselamatan Penerbangan Nasional",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabuns416/jasa-raharja-dan-inaca-dorong-literasi-keselamatan-penerbangan-nasional",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Dalam Semalam, 14 Bencana Terjadi di Majalengka",
       "link_berita": "https://rejabar.republika.co.id/berita/tabumo487/dalam-semalam-14-bencana-terjadi-di-majalengka",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Tren 'Mudik Terbalik' di China, Saat Anak Muda Ogah Mudik dan Pilih Boyong Orang Tua",
       "link_berita": "https://ameera.republika.co.id/berita/tabui6425/tren-mudik-terbalik-di-china-saat-anak-muda-ogah-mudik-dan-pilih-boyong-orang-tua",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Ekosistem Ekonomi Syariah Butuh Political Will Eksekutif dan Legislatif",
       "link_berita": "https://sharia.republika.co.id/berita/tabubi423/ekosistem-ekonomi-syariah-butuh-political-will-eksekutif-dan-legislatif",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Resmi Ditetapkan, Ini Jadwal One Way dan Ganjil-Genap Mudik Lebaran 2026",
       "link_berita": "https://news.republika.co.id/berita/tabu27416/resmi-ditetapkan-ini-jadwal-one-way-dan-ganjilgenap-mudik-lebaran-2026",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:06:20"
     },
     {
       "judul": "Italia Pastikan tak Akan Gabung BoP Bentukan Trump",
       "link_berita": "https://news.republika.co.id/berita/tabu19484/italia-pastikan-tak-akan-gabung-bop-bentukan-trump",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 04:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Konten Indonesia Saingi Drama Korea di Platform Streaming",
       "link_berita": "https://ameera.republika.co.id/berita/tabtk4425/konten-indonesia-saingi-drama-korea-di-platform-streaming",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Studi: Obesitas Naikkan Risiko Infeksi Hingga 70 Persen",
       "link_berita": "https://ameera.republika.co.id/berita/tabsyq425/studi-obesitas-naikkan-risiko-infeksi-hingga-70-persen",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Pastikan ke AS, Prabowo Hadiri KTT BoP dan Teken Tarif Resiprokal",
       "link_berita": "https://news.republika.co.id/berita/tabsnj484/pastikan-ke-as-prabowo-hadiri-ktt-bop-dan-teken-tarif-resiprokal",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Dinkes Ungkap Dampak Kesehatan Paparan Limbah Kimia di Sungai Cisadane",
       "link_berita": "https://rejabar.republika.co.id/berita/tabsj9282/dinkes-ungkap-dampak-kesehatan-paparan-limbah-kimia-di-sungai-cisadane",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Akselerasi Ekonomi Lewat Bansos, Bank Mandiri Jangkau Lebih dari 7,45 Juta Penerima Sepanjang 2025",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabsfm472/akselerasi-ekonomi-lewat-bansos-bank-mandiri-jangkau-lebih-dari-745-juta-penerima-sepanjang-2025",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Bangun 1.000 KNMP pada 2026, KKP Prioritaskan 200 Titik di Papua",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabrpt423/bangun-1000-knmp-pada-2026-kkp-prioritaskan-200-titik-di-papua",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Polrestro Tangerang Tangguhkan Penahanan Bahar bin Smith",
       "link_berita": "https://news.republika.co.id/berita/tabrnu484/polrestro-tangerang-tangguhkan-penahanan-bahar-bin-smith",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Harga Emas Antam hingga Pegadaian Kamis Pagi Stagnan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tabric423/harga-emas-antam-hingga-pegadaian-kamis-pagi-stagnan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 03:06:20"
     },
     {
       "judul": "Pramono Klaim Bus Transjabodetabek Blok M-Soetta Sudah Dapat Izin Kemenhub",
       "link_berita": "https://news.republika.co.id/berita/tabqww484/pramono-klaim-bus-transjabodetabek-blok-msoetta-sudah-dapat-izin-kemenhub",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:06:20"
     },
     {
-      "judul": "BTPN Syariah Konsisten Berdayakan Segmen Ultra Mikro, Laba Bersih Tumbuh di 2025",
-      "link_berita": "https://sharia.republika.co.id/berita/tabqo1415/btpn-syariah-konsisten-berdayakan-segmen-ultra-mikro-laba-bersih-tumbuh-di-2025",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Boikot Kurma Israel",
-      "link_berita": "https://analisis.republika.co.id/berita/tabq8g415/boikot-kurma-israel",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Abu Ubaidah: Setiap Agresi yang Menargetkan Iran Berarti Serangan kepada Semua Umat Islam",
-      "link_berita": "https://khazanah.republika.co.id/berita/tabpxk483/abu-ubaidah-setiap-agresi-yang-menargetkan-iran-berarti-serangan-kepada-semua-umat-islam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Apakah Trump akan Berani Memadurokan Ali Khamenei?",
-      "link_berita": "https://analisis.republika.co.id/berita/tabpt7458/apakah-trump-akan-berani-memadurokan-ali-khamenei",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Seberapa Parah Kerusakan di Babakan Madang Sentul Setelah Diterjang Banjir Bandang? 131 Rumah Rusak",
-      "link_berita": "https://rejabar.republika.co.id/berita/tabpf1282/seberapa-parah-kerusakan-di-babakan-madang-sentul-setelah-diterjang-banjir-bandang-131-rumah-rusak",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Iran Ungkap Target Serangan yang Menyasar Markas AS Jika Diajak Berperang",
-      "link_berita": "https://khazanah.republika.co.id/berita/tabowv483/iran-ungkap-target-serangan-yang-menyasar-markas-as-jika-diajak-berperang",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Jejelogy Belum Pastikan Tampil di Reli Dakar 2027, tapi Ingin Capaian Lebih Baik Jika Ambil Bagian",
-      "link_berita": "https://news.republika.co.id/berita/tabol8348/jejelogy-belum-pastikan-tampil-di-reli-dakar-2027-tapi-ingin-capaian-lebih-baik-jika-ambil-bagian",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "Jetour T2 Tawarkan Dua Opsi Personalisasi di IIMS 2026, Bisa Eskplorasi Fitur Mobil",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabo9x348/jetour-t2-tawarkan-dua-opsi-personalisasi-di-iims-2026-bisa-eskplorasi-fitur-mobil",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 02:00:53"
-    },
-    {
-      "judul": "IHSG Masih Menguat, Simak Rekomendasi Sahamnya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabo68423/ihsg-masih-menguat-simak-rekomendasi-sahamnya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Israel Resmi Gabung Board of Peace",
-      "link_berita": "https://tv.republika.co.id/berita/yt-tabo61120564904/israel-resmi-gabung-board-of-peace",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Revitalisasi Rampung, PAG Pastikan Tangki LNG Arun Siap Beroperasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabo27522/revitalisasi-rampung-pag-pastikan-tangki-lng-arun-siap-beroperasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "PGN Siap Optimasi BioCNG, Perkuat Layanan Beyond Pipeline dan Energi Ramah Lingkungan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabny6522/pgn-siap-optimasi-biocng-perkuat-layanan-beyond-pipeline-dan-energi-ramah-lingkungan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Ketua BTN PSSI Tegaskan Belum Ada Surat Soal Timnas Batal Berlaga di Asian Games",
-      "link_berita": "https://news.republika.co.id/berita/tabnog348/ketua-btn-pssi-tegaskan-belum-ada-surat-soal-timnas-batal-berlaga-di-asian-games",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Pemerintah Batasi Operasional Angkutan Barang Saat Lebaran 2026, Ini Ruas Jalannya",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabnnm423/pemerintah-batasi-operasional-angkutan-barang-saat-lebaran-2026-ini-ruas-jalannya",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Mengapa Semua Orang Mengira Arkeolog Itu Ahli Dinosaurus?",
-      "link_berita": "https://retizen.republika.co.id/posts/742589/mengapa-semua-orang-mengira-arkeolog-itu-ahli-dinosaurus",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "BMKG Ungkap Penyebab Potensi Hujan Turun di Berbagai Wilayah",
-      "link_berita": "https://news.republika.co.id/berita/tabhmt409/bmkg-ungkap-penyebab-potensi-hujan-turun-di-berbagai-wilayah",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Wedharan Sabdo di Senja Kekuasaan",
-      "link_berita": "https://retizen.republika.co.id/posts/742606/wedharan-sabdo-di-senja-kekuasaan",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Iyyaka Na'budu Wa Iyyaka Nasta'in",
-      "link_berita": "https://retizen.republika.co.id/posts/742620/iyyaka-nabudu-wa-iyyaka-nastain",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Tottenham Pecat Pelatih Thomas Frank, Arteta: Pelatih dan Pria yang Luar Biasa",
-      "link_berita": "https://news.republika.co.id/berita/tabmso348/tottenham-pecat-pelatih-thomas-frank-arteta-pelatih-dan-pria-yang-luar-biasa",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Menjaga Jejak Pengabdian: Anjangsana Pemkab Banjarnegara di Usia ke-445",
-      "link_berita": "https://retizen.republika.co.id/posts/742608/menjaga-jejak-pengabdian-anjangsana-pemkab-banjarnegara-di-usia-ke-445",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Umrah Mandiri, Antara Gugatan dan Keniscayaan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tabm6d430/umrah-mandiri-antara-gugatan-dan-keniscayaan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 01:00:53"
-    },
-    {
-      "judul": "Kasus Pelecehan Seksual, Mohan Hazian Akui Langgar Batas Profesional dan Pribadi",
-      "link_berita": "https://ameera.republika.co.id/berita/tabxd8425/kasus-pelecehan-seksual-mohan-hazian-akui-langgar-batas-profesional-dan-pribadi",
-      "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 11:48:00"
+      "judul": "Nggak Buang Air Besar Setiap Hari? Jangan Panik, Ini Alasannya Menurut Dokter",
+      "link_berita": "https://ameera.republika.co.id/berita/tabz90425/nggak-buang-air-besar-setiap-hari-jangan-panik-ini-alasannya-menurut-dokter",
+      "kategori": "Health",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 12:29:00"
     },
     {
       "judul": "BRIN Turun Tangan Selidiki Pencemaran Sungai Cisadane",
@@ -397,23 +397,23 @@
       "tanggal_terbit": "Thursday, 12 Feb 2026, 11:46:00"
     },
     {
-      "judul": "Rayakan Lima Tahun Perjalanan, Grand Dafam Braga Bandung Usung High Five-Synergy of Service",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tabwzo472/rayakan-lima-tahun-perjalanan-grand-dafam-braga-bandung-usung-high-fivesynergy-of-service",
+      "judul": "AFTECH Luncurkan Chatpindar untuk Perkuat Fondasi Ekonomi Digital",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tac2y7370/aftech-luncurkan-chatpindar-untuk-perkuat-fondasi-ekonomi-digital",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 11:40:00"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 13:49:00"
     },
     {
-      "judul": "Ekosistem Ekonomi Syariah Butuh Political Will Eksekutif dan Legislatif",
-      "link_berita": "https://sharia.republika.co.id/berita/tabubi423/ekosistem-ekonomi-syariah-butuh-political-will-eksekutif-dan-legislatif",
+      "judul": "Tiga Alasan Kenapa RUU Ekonomi Syariah Harus Segera Diundangkan",
+      "link_berita": "https://sharia.republika.co.id/berita/tac3kw416/tiga-alasan-kenapa-ruu-ekonomi-syariah-harus-segera-diundangkan",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 10:42:00"
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 14:02:00"
     },
     {
-      "judul": "Di Taaruf DSN MUI, Kiai Cholil Ungkap 3 Prinsip Penguatan Ekosistem Ekonomi Syariah",
-      "link_berita": "https://news.republika.co.id/berita/tabxkp320/di-taaruf-dsn-mui-kiai-cholil-ungkap-3-prinsip-penguatan-ekosistem-ekonomi-syariah",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 12 Feb 2026, 11:53:00"
+      "judul": "Zakat, Basis Muzaki, dan Reorientasi Kebijakan Nasional",
+      "link_berita": "https://analisis.republika.co.id/berita/tabxyw393/zakat-basis-muzaki-dan-reorientasi-kebijakan-nasional",
+      "kategori": "Wacana",
+      "tanggal_terbit": "Thursday, 12 Feb 2026, 13:58:00"
     }
   ],
-  "waktu_scraping": "Thursday, 12 Feb 2026, 12:00:53"
+  "waktu_scraping": "Thursday, 12 Feb 2026, 14:06:20"
 }
