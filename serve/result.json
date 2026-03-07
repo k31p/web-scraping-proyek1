@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Menjelajahi Niujie, Kawasan Muslim Tertua di Beijing Saat Ramadhan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbick3366/menjelajahi-niujie-kawasan-muslim-tertua-di-beijing-saat-ramadhan"
+    },
+    {
+      "judul": "Ogah Tunduk Perintah Trump, Faksi Iran Gempur Halliburton Milik AS, Gudang Bahan Kimia Terbakar",
+      "link_berita": "https://news.republika.co.id/berita/tbibmm377/ogah-tunduk-perintah-trump-faksi-iran-gempur-halliburton-milik-as-gudang-bahan-kimia-terbakar"
+    },
+    {
       "judul": "Peringatan Intelijen Iran: Israel Rencanakan Operasi 'Bendera Palsu' Serang Al-Aqsa dengan Drone",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi8m2483/peringatan-intelijen-iran-israel-rencanakan-operasi-bendera-palsu-serang-alaqsa-dengan-drone"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Nuzulul Quran 17 Ramadhan: Bagaimana Proses Turunnya Alquran?",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi2kp366/nuzulul-quran-17-ramadhan-bagaimana-proses-turunnya-alquran"
-    },
-    {
-      "judul": "Rusia Banjir Orderan Minyak dan Gas di Tengah Perang Iran vs Israel",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tbhgxn502/rusia-banjir-orderan-minyak-dan-gas-di-tengah-perang-iran-vs-israel"
-    },
-    {
-      "judul": "Infografis 3 Tahap Turunnya Alquran Saat Nuzulul Quran",
-      "link_berita": "https://visual.republika.co.id/berita/tau9ja366/infografis-3-tahap-turunnya-alquran-saat-nuzulul-quran"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Makna Iqra di Balik Peristiwa Nuzulul Qur'an, Mengapa Rasulullah yang Ummi Diperintahkan Membaca?",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbifcc483/makna-iqra-di-balik-peristiwa-nuzulul-quran-mengapa-rasulullah-yang-ummi-diperintahkan-membaca"
+    },
+    {
+      "judul": "Turun dari Helikopter, Tentara IDF Disergap; Putra Menteri Israel Terluka Parah di Lebanon Selatan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbibke483/turun-dari-helikopter-tentara-idf-disergap-putra-menteri-israel-terluka-parah-di-lebanon-selatan"
+    },
     {
       "judul": "LRT Velodrome\u2013Manggarai Ditargetkan Beroperasi Agustus 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbhdv1416/lrt-velodromemanggarai-ditargetkan-beroperasi-agustus-2026"
@@ -73,322 +81,314 @@
     {
       "judul": "Kemenhaj dan KJRI Jeddah Beri Pendampingan Jamaah Umrah di Saudi",
       "link_berita": "https://khazanah.republika.co.id/berita/tbh8u4430/kemenhaj-dan-kjri-jeddah-beri-pendampingan-jamaah-umrah-di-saudi"
-    },
-    {
-      "judul": "Rakyat Panic Buying Gara-Gara Bahlil Bilang Stok BBM Hanya 20 Hari, DPR Minta Klarifikasi",
-      "link_berita": "https://rejogja.republika.co.id/berita/tbh5pf282/rakyat-panic-buying-garagara-bahlil-bilang-stok-bbm-hanya-20-hari-dpr-minta-klarifikasi"
-    },
-    {
-      "judul": "Nuzulul Qur'an, Mukjizat Terbesar Rasulullah SAW yang tak Terbantahkan Hingga Detik Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/tbh4ed320/nuzulul-quran-mukjizat-terbesar-rasulullah-saw-yang-tak-terbantahkan-hingga-detik-ini"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Tornado Raksasa Terjang AS: Rumah-Rumah Beterbangan, Empat Nyawa Melayang dalam Hitungan Menit",
+      "link_berita": "https://news.republika.co.id/berita/tbigqf483/tornado-raksasa-terjang-as-rumahrumah-beterbangan-empat-nyawa-melayang-dalam-hitungan-menit",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Teknologi Injeksi Presisi Dorong Efektivitas Skinbooster",
+      "link_berita": "https://ameera.republika.co.id/berita/tbigju522/teknologi-injeksi-presisi-dorong-efektivitas-skinbooster",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Perang Iran dan Kebutuhan Mitigasi Energi Indonesia",
+      "link_berita": "https://analisis.republika.co.id/berita/tbig7t393/perang-iran-dan-kebutuhan-mitigasi-energi-indonesia",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Ramadan Madani, Maknai Harmoni: PNM Tebar Kebaikan untuk Anak Yatim dan Dhuafa",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbig1h368/ramadan-madani-maknai-harmoni-pnm-tebar-kebaikan-untuk-anak-yatim-dan-dhuafa",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Iran Bersuara di PBB: Kami akan Terus Membela Diri Hingga Tindakan Barbar Ini Berhenti",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbifxa483/iran-bersuara-di-pbb-kami-akan-terus-membela-diri-hingga-tindakan-barbar-ini-berhenti",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Respons Perang Iran, JK: Indonesia Harus Punya Sikap, Berpihak kepada Negara yang Diserang",
+      "link_berita": "https://news.republika.co.id/berita/tbifej377/respons-perang-iran-jk-indonesia-harus-punya-sikap-berpihak-kepada-negara-yang-diserang",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Makna Iqra di Balik Peristiwa Nuzulul Qur'an, Mengapa Rasulullah yang Ummi Diperintahkan Membaca?",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbifcc483/makna-iqra-di-balik-peristiwa-nuzulul-quran-mengapa-rasulullah-yang-ummi-diperintahkan-membaca",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "KBRI Warsawa Promosikan Produk Alas Kaki UMKM RI di Pameran Internasional POLSHOES 2026",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbiewy416/kbri-warsawa-promosikan-produk-alas-kaki-umkm-ri-di-pameran-internasional-polshoes-2026",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Menu MBG Ramadhan Dinilai Kurang Seimbang, Peneliti BRIN Sarankan Tambah Telur",
+      "link_berita": "https://news.republika.co.id/berita/tbidht366/menu-mbg-ramadhan-dinilai-kurang-seimbang-peneliti-brin-sarankan-tambah-telur",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "HUT ke-65, Kostrad Perkuat Komitmen Profesionalisme dan Kesiapsiagaan Prajurit",
+      "link_berita": "https://news.republika.co.id/berita/tbieii368/hut-ke65-kostrad-perkuat-komitmen-profesionalisme-dan-kesiapsiagaan-prajurit",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Menjelajahi Niujie, Kawasan Muslim Tertua di Beijing Saat Ramadhan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbick3366/menjelajahi-niujie-kawasan-muslim-tertua-di-beijing-saat-ramadhan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Sustainability Bond Tahap II bank bjb Disambut Positif, Perkuat Pembiayaan Berkelanjutan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbie7q368/sustainability-bond-tahap-ii-bank-bjb-disambut-positif-perkuat-pembiayaan-berkelanjutan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Nabung Sekaligus Berlari, bank bjb Siapkan Tiket Semarang Mountain Race untuk Nasabah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbidlz368/nabung-sekaligus-berlari-bank-bjb-siapkan-tiket-semarang-mountain-race-untuk-nasabah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Purbaya: Jangan Takut Outlook Negatif Fitch, Fondasi Ekonomi RI Masih Kuat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbidcw416/purbaya-jangan-takut-outlook-negatif-fitch-fondasi-ekonomi-ri-masih-kuat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Tolak Intervensi Amerika, China Bela Kedaulatan Iran",
+      "link_berita": "https://news.republika.co.id/berita/tbid48377/tolak-intervensi-amerika-china-bela-kedaulatan-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Harga Emas Antam Hari Ini Melonjak, Cek Daftar Lengkap per Gram",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbicxu416/harga-emas-antam-hari-ini-melonjak-cek-daftar-lengkap-per-gram",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Jadi Pusat Penerbangan Dunia, Bandara Dubai Rugi Rp15 Miliar Per Menit Akibat Perang",
+      "link_berita": "https://news.republika.co.id/berita/tbicx6483/jadi-pusat-penerbangan-dunia-bandara-dubai-rugi-rp15-miliar-per-menit-akibat-perang",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Telegram Panglima, TNI Posisi Siaga 1",
+      "link_berita": "https://news.republika.co.id/berita/tbicmg484/telegram-panglima-tni-posisi-siaga-1",
+      "kategori": "News",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Mencari Lailatul Qadar di Tengah Kegelisahan Zaman",
+      "link_berita": "https://analisis.republika.co.id/berita/tbic6t451/mencari-lailatul-qadar-di-tengah-kegelisahan-zaman",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
+      "judul": "Sanad Keilmuan Islam dan Etika Literasi Digital: Merawat Verifikasi Pengetahuan Keagamaan",
+      "link_berita": "https://analisis.republika.co.id/berita/tbibty451/sanad-keilmuan-islam-dan-etika-literasi-digital-merawat-verifikasi-pengetahuan-keagamaan",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
+    },
+    {
       "judul": "Ogah Tunduk Perintah Trump, Faksi Iran Gempur Halliburton Milik AS, Gudang Bahan Kimia Terbakar",
       "link_berita": "https://news.republika.co.id/berita/tbibmm377/ogah-tunduk-perintah-trump-faksi-iran-gempur-halliburton-milik-as-gudang-bahan-kimia-terbakar",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Kabar Gembira Buat Guru Madrasah, Kemenag: TPG Cair Sebelum Lebaran",
       "link_berita": "https://khazanah.republika.co.id/berita/tbibl4320/kabar-gembira-buat-guru-madrasah-kemenag-tpg-cair-sebelum-lebaran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
-      "judul": "Turun dari Helikopter, Tentara IDF Disergap; Putera Menteri Israel Terluka Parah di Lebanon Selatan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tbibke483/turun-dari-helikopter-tentara-idf-disergap-putera-menteri-israel-terluka-parah-di-lebanon-selatan",
+      "judul": "Turun dari Helikopter, Tentara IDF Disergap; Putra Menteri Israel Terluka Parah di Lebanon Selatan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tbibke483/turun-dari-helikopter-tentara-idf-disergap-putra-menteri-israel-terluka-parah-di-lebanon-selatan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "BHR Cair, Mitra Ojol: Terimakasih Pemerintah dan Gojek",
       "link_berita": "https://republika.co.id/berita//tbibf2456/bhr-cair-mitra-ojol-terimakasih-pemerintah-dan-gojek",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Empat Bulan Pascabanjir, Pengungsi Nagan Raya Masih Berbuka Puasa tanpa Listrik",
       "link_berita": "https://khazanah.republika.co.id/berita/tbiak9366/empat-bulan-pascabanjir-pengungsi-nagan-raya-masih-berbuka-puasa-tanpa-listrik",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Iran Bukan Venezuela, Ini Mengapa Keinginan Trump Tunjuk Pengganti Khamenei Dinilai Cuma Angan-Angan",
       "link_berita": "https://news.republika.co.id/berita/tbi9vh377/iran-bukan-venezuela-ini-mengapa-keinginan-trump-tunjuk-pengganti-khamenei-dinilai-cuma-anganangan",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Pekerja Protes THR Dipajaki, Purbaya: Protes ke Bosnya, ASN Saja yang Pajaknya Ditanggung",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbi9id483/pekerja-protes-thr-dipajaki-purbaya-protes-ke-bosnya-asn-saja-yang-pajaknya-ditanggung",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Tebar Kebaikan, 1.250 Paket Ifthar Ramadan Disalurkan untuk Warga Hodaidah di Yaman",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi97b368/tebar-kebaikan-1250-paket-ifthar-ramadan-disalurkan-untuk-warga-hodaidah-di-yaman",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Rumah Zakat Raih Youth Choice Award (Ramadan Edition) 2026, Terbaik Kategori Lembaga Penyalur Zakat",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi8v4368/rumah-zakat-raih-youth-choice-award-ramadan-edition-2026-terbaik-kategori-lembaga-penyalur-zakat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Peringatan Intelijen Iran: Israel Rencanakan Operasi 'Bendera Palsu' Serang Al-Aqsa dengan Drone",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi8m2483/peringatan-intelijen-iran-israel-rencanakan-operasi-bendera-palsu-serang-alaqsa-dengan-drone",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "LRT Velodrome\u2013Manggarai Ditargetkan Beroperasi Agustus 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbhdv1416/lrt-velodromemanggarai-ditargetkan-beroperasi-agustus-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Di Tengah Perintah Serang Iran, Dokumen Esptein Sebut Trump Dituduh Lecehkan Anak 13-15 Tahun",
       "link_berita": "https://news.republika.co.id/berita/tbi7kx377/di-tengah-perintah-serang-iran-dokumen-esptein-sebut-trump-dituduh-lecehkan-anak-1315-tahun",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Tahapan Spiritual Puasa Ramadhan",
       "link_berita": "https://analisis.republika.co.id/berita/tbi7jz483/tahapan-spiritual-puasa-ramadhan",
       "kategori": "Kolom",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Cara Menhub Antisipasi Penumpukan Arus Mudik di Merak-Bakauheni pada Lebaran 2026",
       "link_berita": "https://news.republika.co.id/berita/tbi7bt483/cara-menhub-antisipasi-penumpukan-arus-mudik-di-merakbakauheni-pada-lebaran-2026",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Rupiah Lanjutkan Tren Pelemahan, Ini Penyebabnya",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbhdkp416/rupiah-lanjutkan-tren-pelemahan-ini-penyebabnya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Jaksa Kalah, Delpedro Divonis Bebas, Yusril: Perkara Sudah Final, Pemerintah Menghormati",
       "link_berita": "https://news.republika.co.id/berita/tbi6ge377/jaksa-kalah-delpedro-divonis-bebas-yusril-perkara-sudah-final-pemerintah-menghormati",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Ribuan Penerbangan Dibatalkan, Ratusan Ribu Turis Terdampar di Timur Tengah",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi6ff483/ribuan-penerbangan-dibatalkan-ratusan-ribu-turis-terdampar-di-timur-tengah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Rektor Perbanas Puji Ekspor Beras 2.280 Ton ke Arab Saudi, Bukti Swasembada Berkelanjutan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbi62j368/rektor-perbanas-puji-ekspor-beras-2280-ton-ke-arab-saudi-bukti-swasembada-berkelanjutan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Banyak Aduan Masuk ke Medsos, Menteri PU Resmikan Portal \u2018Halo Pak Dodi\u2019",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbhawe416/banyak-aduan-masuk-ke-medsos-menteri-pu-resmikan-portal-halo-pak-dodi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Dari Tawuran ke Lintasan Lari, Remaja Tangsel Ramaikan Fun Night Run",
       "link_berita": "https://visual.republika.co.id/berita/tbhtqk375/dari-tawuran-ke-lintasan-lari-remaja-tangsel-ramaikan-fun-night-run",
       "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Hangatnya Ramadan, Adaro-AlamTri Berbagi Kebahagiaan Bersama 1.000 Anak Yatim",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbi4bw368/hangatnya-ramadan-adaroalamtri-berbagi-kebahagiaan-bersama-1000-anak-yatim",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Jelang Haji 2026, DPR Minta Pemerintah Antisipasi Gangguan Penerbangan Akibat Konflik Timur Tengah",
       "link_berita": "https://khazanah.republika.co.id/berita/tbhzzt366/jelang-haji-2026-dpr-minta-pemerintah-antisipasi-gangguan-penerbangan-akibat-konflik-timur-tengah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Raymond/Joaquin tak Mau Terbeban Status Satu-satunya Wakil Indonesia di Semifinal All England",
       "link_berita": "https://news.republika.co.id/berita/tbi2ut348/raymondjoaquin-tak-mau-terbeban-status-satusatunya-wakil-indonesia-di-semifinal-all-england",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Nuzulul Quran 17 Ramadhan: Bagaimana Proses Turunnya Alquran?",
       "link_berita": "https://khazanah.republika.co.id/berita/tbi2kp366/nuzulul-quran-17-ramadhan-bagaimana-proses-turunnya-alquran",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Bahlil Ingin Kebut Konversi Motor Bensin Jadi Motor Listrik, Ini Rekam Jejak Programnya",
       "link_berita": "https://esgnow.republika.co.id/berita/tbi2q6490/bahlil-ingin-kebut-konversi-motor-bensin-jadi-motor-listrik-ini-rekam-jejak-programnya",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Kesibukan Pekerja Produksi Kue Kering di Bandung Jelang Lebaran",
       "link_berita": "https://visual.republika.co.id/berita/tbhtno375/kesibukan-pekerja-produksi-kue-kering-di-bandung-jelang-lebaran",
       "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Transisi Energi Indonesia Terhambat Insentif, Ini Tiga Rekomendasi SUSTAIN",
       "link_berita": "https://esgnow.republika.co.id/berita/tbhaid416/transisi-energi-indonesia-terhambat-insentif-ini-tiga-rekomendasi-sustain",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Polri Dalami Kasus Nabilah O\u2019Brien dalam Dugaan Pelanggaran UU ITE",
       "link_berita": "https://news.republika.co.id/berita/tbi1vc4630000/polri-dalami-kasus-nabilah-obrien-dalam-dugaan-pelanggaran-uu-ite",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Rano Karno: Jakarta sebagai Rumah Keberagaman yang Inklusif",
       "link_berita": "https://news.republika.co.id/berita/tbi16a9130000/rano-karno-jakarta-sebagai-rumah-keberagaman-yang-inklusif",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
       "judul": "Polres Situbondo Gelar Lomba Lari Malam Ramadhan untuk Tekan Balap Liar",
       "link_berita": "https://news.republika.co.id/berita/tbi0hc9430000/polres-situbondo-gelar-lomba-lari-malam-ramadhan-untuk-tekan-balap-liar",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 04:23:16"
     },
     {
-      "judul": "BNPB: Cuaca Ekstrem Rusak Rumah di Sejumlah Wilayah Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/tbhzs9030000/bnpb-cuaca-ekstrem-rusak-rumah-di-sejumlah-wilayah-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Ngabuburit di Atas Kota, Menikmati Senja Jakarta dari Sky Garden Thamrin Nine",
-      "link_berita": "https://visual.republika.co.id/berita/tbhtg6375/ngabuburit-di-atas-kota-menikmati-senja-jakarta-dari-sky-garden-thamrin-nine",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "BNPB Ingatkan Potensi Kebakaran Hutan di Beberapa Wilayah",
-      "link_berita": "https://news.republika.co.id/berita/tbhz39630000/bnpb-ingatkan-potensi-kebakaran-hutan-di-beberapa-wilayah",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Polres Cilegon Perketat Pengawasan Surat Muatan Jelang Mudik Lebaran",
-      "link_berita": "https://news.republika.co.id/berita/tbhyfa6730000/polres-cilegon-perketat-pengawasan-surat-muatan-jelang-mudik-lebaran",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Laporan Media AS: Intelijen Rusia Jadi Alasan Rudal dan Drone Iran Begitu Akurat Menghantam Target",
-      "link_berita": "https://news.republika.co.id/berita/tbhy89409/laporan-media-as-intelijen-rusia-jadi-alasan-rudal-dan-drone-iran-begitu-akurat-menghantam-target",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Polisi Dalami Motif Istri Muda Habisi Suami di Tangerang",
-      "link_berita": "https://news.republika.co.id/berita/tbhxpd4530000/polisi-dalami-motif-istri-muda-habisi-suami-di-tangerang",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Rusia Banjir Orderan Minyak dan Gas di Tengah Perang Iran vs Israel",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tbhgxn502/rusia-banjir-orderan-minyak-dan-gas-di-tengah-perang-iran-vs-israel",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Yayasan Arkom Luncurkan Buku Pemulihan Komunitas di Palu dan Donggala",
-      "link_berita": "https://news.republika.co.id/berita/tbhx111030000/yayasan-arkom-luncurkan-buku-pemulihan-komunitas-di-palu-dan-donggala",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Pejuang Mushola dan Artha Graha Peduli Bersihkan Mushola di Depok",
-      "link_berita": "https://visual.republika.co.id/berita/tbhtaj375/pejuang-mushola-dan-artha-graha-peduli-bersihkan-mushola-di-depok",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Megalit 1.000 Tahun di Dongi-Dongi Diduga Dirusak Penambang Ilegal",
-      "link_berita": "https://news.republika.co.id/berita/tbhwbh5130000/megalit-1000-tahun-di-dongidongi-diduga-dirusak-penambang-ilegal",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Komnas HAM Desak Polda Sulteng Usut Tambang Ilegal di Dongi-Dongi",
-      "link_berita": "https://news.republika.co.id/berita/tbhvma5830000/komnas-ham-desak-polda-sulteng-usut-tambang-ilegal-di-dongidongi",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Menkeu Rencana Tambah Dana Rp100 Triliun ke Perbankan",
-      "link_berita": "https://news.republika.co.id/berita/tbhuxc3830000/menkeu-rencana-tambah-dana-rp100-triliun-ke-perbankan",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Satu Jalur Air yang Dapat Mengguncang Ekonomi Dunia",
-      "link_berita": "https://news.republika.co.id/berita/tbfiju318/satu-jalur-air-yang-dapat-mengguncang-ekonomi-dunia",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Infografis 3 Tahap Turunnya Alquran Saat Nuzulul Quran",
-      "link_berita": "https://visual.republika.co.id/berita/tau9ja366/infografis-3-tahap-turunnya-alquran-saat-nuzulul-quran",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Harga BBM Bersubsidi Bisa Naik Jika Harga Minyak Dunia Terus Melonjak",
-      "link_berita": "https://news.republika.co.id/berita/tbhu8u1430000/harga-bbm-bersubsidi-bisa-naik-jika-harga-minyak-dunia-terus-melonjak",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Jadwal Imsakiyah Hari Ini, 7 Maret 2026 di Jakarta: Semangat Bangun Sahur untuk Keberkahan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tbhu871059134319/jadwal-imsakiyah-hari-ini-7-maret-2026-di-jakarta-semangat-bangun-sahur-untuk-keberkahan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Vale Indonesia Pastikan Produksi Nikel Matte Sorowako Tetap Sesuai Proyeksi",
-      "link_berita": "https://news.republika.co.id/berita/tbhtjb5530000/vale-indonesia-pastikan-produksi-nikel-matte-sorowako-tetap-sesuai-proyeksi",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Jadwal Imsakiyah Hari Ini, 7 Maret 2026, Bandung: Waktu Tepat Memulai Hari dengan Keberkahan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tbhtfz186032648/jadwal-imsakiyah-hari-ini-7-maret-2026-bandung-waktu-tepat-memulai-hari-dengan-keberkahan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Jadwal Imsakiyah Hari Ini, 7 Maret 2026: Semangat Beribadah Pagi di Yogyakarta",
-      "link_berita": "https://khazanah.republika.co.id/berita/tbhsuh1040510375/jadwal-imsakiyah-hari-ini-7-maret-2026-semangat-beribadah-pagi-di-yogyakarta",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Balawista Lebak Selamatkan Tiga Anak Tenggelam di Pantai Muara Binuangeun",
-      "link_berita": "https://news.republika.co.id/berita/tbhsuc5630000/balawista-lebak-selamatkan-tiga-anak-tenggelam-di-pantai-muara-binuangeun",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 02:20:05"
-    },
-    {
-      "judul": "Kiat Kelola THR Secara Bijak di Tengah Ketidakpastian",
-      "link_berita": "https://ameera.republika.co.id/berita/tbhced328/kiat-kelola-thr-secara-bijak-di-tengah-ketidakpastian",
-      "kategori": "Happening",
-      "tanggal_terbit": "Friday, 06 Mar 2026, 20:35:00"
+      "judul": "Teknologi Injeksi Presisi Dorong Efektivitas Skinbooster",
+      "link_berita": "https://ameera.republika.co.id/berita/tbigju522/teknologi-injeksi-presisi-dorong-efektivitas-skinbooster",
+      "kategori": "Health",
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 11:02:00"
     },
     {
       "judul": "Bahlil Ingin Kebut Konversi Motor Bensin Jadi Motor Listrik, Ini Rekam Jejak Programnya",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Saturday, 07 Mar 2026, 06:03:00"
     },
     {
-      "judul": "Pekerja Protes THR Dipajaki, Purbaya: Protes ke Bosnya, ASN Saja yang Pajaknya Ditanggung",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tbi9id483/pekerja-protes-thr-dipajaki-purbaya-protes-ke-bosnya-asn-saja-yang-pajaknya-ditanggung",
+      "judul": "Ramadan Madani, Maknai Harmoni: PNM Tebar Kebaikan untuk Anak Yatim dan Dhuafa",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbig1h368/ramadan-madani-maknai-harmoni-pnm-tebar-kebaikan-untuk-anak-yatim-dan-dhuafa",
       "kategori": "Finansial",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 08:30:00"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 10:51:00"
     },
     {
       "judul": "Nanobank Syariah Luncurkan Gerakan Generasi Syariah, Bidik Literasi Keuangan Anak Muda",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 06 Mar 2026, 17:47:00"
     },
     {
-      "judul": "Ogah Tunduk Perintah Trump, Faksi Iran Gempur Halliburton Milik AS, Gudang Bahan Kimia Terbakar",
-      "link_berita": "https://news.republika.co.id/berita/tbibmm377/ogah-tunduk-perintah-trump-faksi-iran-gempur-halliburton-milik-as-gudang-bahan-kimia-terbakar",
+      "judul": "Tornado Raksasa Terjang AS: Rumah-Rumah Beterbangan, Empat Nyawa Melayang dalam Hitungan Menit",
+      "link_berita": "https://news.republika.co.id/berita/tbigqf483/tornado-raksasa-terjang-as-rumahrumah-beterbangan-empat-nyawa-melayang-dalam-hitungan-menit",
       "kategori": "Internasional",
-      "tanggal_terbit": "Saturday, 07 Mar 2026, 09:15:00"
+      "tanggal_terbit": "Saturday, 07 Mar 2026, 11:06:00"
     }
   ],
-  "waktu_scraping": "Saturday, 07 Mar 2026, 09:20:05"
+  "waktu_scraping": "Saturday, 07 Mar 2026, 11:23:16"
 }
