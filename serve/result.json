@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Jejak Mojtaba Khamenei, dari Ilmu Agama ke Palagan Perang Hingga Kini Pemimpin Tertinggi Iran",
+      "link_berita": "https://news.republika.co.id/berita/tbmad9377/jejak-mojtaba-khamenei-dari-ilmu-agama-ke-palagan-perang-hingga-kini-pemimpin-tertinggi-iran"
+    },
+    {
       "judul": "Bubur India di Masjid Djami\u2019 Pekojan Semarang, Sajian Berbuka yang Bertahan Lebih dari Satu Abad",
       "link_berita": "https://khazanah.republika.co.id/berita/tbm83u366/bubur-india-di-masjid-djami-pekojan-semarang-sajian-berbuka-yang-bertahan-lebih-dari-satu-abad"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Harga Minyak Melesat, Trump: Hanya Secuil untuk Sebuah Perdamaian Dunia",
       "link_berita": "https://ekonomi.republika.co.id/berita/tblzvi502/harga-minyak-melesat-trump-hanya-secuil-untuk-sebuah-perdamaian-dunia"
-    },
-    {
-      "judul": "Panglima Filipina Sebut Indonesia Sudah Beli Rudal Brahmos dari India",
-      "link_berita": "https://news.republika.co.id/berita/tblx6a484/panglima-filipina-sebut-indonesia-sudah-beli-rudal-brahmos-dari-india"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Kebohongan Trump Terbongkar, Viral Video Rudal Tomahawk AS Hantam Sekolah Putri Iran",
+      "link_berita": "https://news.republika.co.id/berita/tbm9se393/kebohongan-trump-terbongkar-viral-video-rudal-tomahawk-as-hantam-sekolah-putri-iran"
+    },
+    {
+      "judul": "Bikin Rupiah Sentuh Rp17 Ribu dan IHSG Merosot, Analis: Perang Bisa Sampai 6 Bulan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbm7td502/bikin-rupiah-sentuh-rp17-ribu-dan-ihsg-merosot-analis-perang-bisa-sampai-6-bulan"
+    },
     {
       "judul": "BMKG Ungkap Faktor Penyebab Hujan Ekstrem di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/tbm3ta409/bmkg-ungkap-faktor-penyebab-hujan-ekstrem-di-jakarta"
@@ -73,334 +81,326 @@
     {
       "judul": "Iran Klaim Mampu Perang Intensif Enam Bulan di Tengah Konflik dengan AS-Israel",
       "link_berita": "https://news.republika.co.id/berita/tbl4ef370/iran-klaim-mampu-perang-intensif-enam-bulan-di-tengah-konflik-dengan-asisrael"
-    },
-    {
-      "judul": "Rusia Pastikan Ada di Pihak Iran, Isyaratkan akan Beri Bantuan Militer Jika Diminta",
-      "link_berita": "https://news.republika.co.id/berita/tbl2in487/rusia-pastikan-ada-di-pihak-iran-isyaratkan-akan-beri-bantuan-militer-jika-diminta"
-    },
-    {
-      "judul": "Banjir Genangi Underpass Mampang, Akses Jalan Ditutup Sementara",
-      "link_berita": "https://visual.republika.co.id/berita/tbkzb5375/banjir-genangi-underpass-mampang-akses-jalan-ditutup-sementara"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pemerintah Dorong Konsultan Lokal Tangani Proyek Strategis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbm8ju416/pemerintah-dorong-konsultan-lokal-tangani-proyek-strategis",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 06:00:00"
+    },
+    {
+      "judul": "Longsor TPST Bantargebang Tewaskan 4 Orang, Pemerintah Siapkan Penegakan Hukum",
+      "link_berita": "https://esgnow.republika.co.id/berita/tbmadz416/longsor-tpst-bantargebang-tewaskan-4-orang-pemerintah-siapkan-penegakan-hukum",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:50:11"
+    },
+    {
+      "judul": "Literasi Alquran dan Masa Depan Peradaban",
+      "link_berita": "https://analisis.republika.co.id/berita/tbmav8320/literasi-alquran-dan-masa-depan-peradaban",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:50:11"
+    },
+    {
+      "judul": "Gekrafs Luncurkan Asta Karya, Buka Akses Pembiayaan Hingga Upah Layak Pekerja Kreatif",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbm9j7416/gekrafs-luncurkan-asta-karya-buka-akses-pembiayaan-hingga-upah-layak-pekerja-kreatif",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:44:11"
+    },
+    {
+      "judul": "Pembatasan Truk Saat Mudik Lebaran Dinilai Keniscayaan, Cegah \u201cHorror Traffic\u201d",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbm8p0349/pembatasan-truk-saat-mudik-lebaran-dinilai-keniscayaan-cegah-horror-traffic",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:44:11"
+    },
+    {
+      "judul": "Setuju Jaksa Banding, Pakar: Hakim Harus Paham Esensi Kerugian Perekonomian Negara",
+      "link_berita": "https://news.republika.co.id/berita/tbmadl318/setuju-jaksa-banding-pakar-hakim-harus-paham-esensi-kerugian-perekonomian-negara",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:39:11"
+    },
+    {
+      "judul": "Jejak Mojtaba Khamenei, dari Ilmu Agama ke Palagan Perang Hingga Kini Pemimpin Tertinggi Iran",
+      "link_berita": "https://news.republika.co.id/berita/tbmad9377/jejak-mojtaba-khamenei-dari-ilmu-agama-ke-palagan-perang-hingga-kini-pemimpin-tertinggi-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:39:11"
+    },
+    {
+      "judul": "TelkomMetra Tata Portofolio Bisnis, AdMedika Group Masuk Kancah Regional di Bawah Fullerton Health",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbmabh472/telkommetra-tata-portofolio-bisnis-admedika-group-masuk-kancah-regional-di-bawah-fullerton-health",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:38:11"
+    },
+    {
+      "judul": "Tak Beroperasi Saat Libur Lebaran, Sopir Angkot Puncak Dapat Kompensasi Rp800 Ribu",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbm9vs370/tak-beroperasi-saat-libur-lebaran-sopir-angkot-puncak-dapat-kompensasi-rp800-ribu",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:28:11"
+    },
+    {
+      "judul": "Kebohongan Trump Terbongkar, Viral Video Rudal Tomahawk AS Hantam Sekolah Putri Iran",
+      "link_berita": "https://news.republika.co.id/berita/tbm9se393/kebohongan-trump-terbongkar-viral-video-rudal-tomahawk-as-hantam-sekolah-putri-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:26:11"
+    },
+    {
+      "judul": "Longsor di TPST Bantargebang, Lima Orang Tertimbun Masih Dicari",
+      "link_berita": "https://news.republika.co.id/berita/tbm8to484/longsor-di-tpst-bantargebang-lima-orang-tertimbun-masih-dicari",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:06:11"
+    },
+    {
       "judul": "Semarak Ramadhan, Anak Disabilitas Netra Giat Tadarus Alquran Braille",
       "link_berita": "https://khazanah.republika.co.id/berita/tbm873458/semarak-ramadhan-anak-disabilitas-netra-giat-tadarus-alquran-braille",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:51:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
       "judul": "Bubur India di Masjid Djami\u2019 Pekojan Semarang, Sajian Berbuka yang Bertahan Lebih dari Satu Abad",
       "link_berita": "https://khazanah.republika.co.id/berita/tbm83u366/bubur-india-di-masjid-djami-pekojan-semarang-sajian-berbuka-yang-bertahan-lebih-dari-satu-abad",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:49:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
       "judul": "Program CSR Ramadan, Adapundi Sasar Anak-Anak Disabilitas Ganda",
       "link_berita": "https://news.republika.co.id/berita/tbm82a484/program-csr-ramadan-adapundi-sasar-anakanak-disabilitas-ganda",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:48:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
       "judul": "Bikin Rupiah Sentuh Rp17 Ribu dan IHSG Merosot, Analis: Perang Bisa Sampai 6 Bulan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbm7td502/bikin-rupiah-sentuh-rp17-ribu-dan-ihsg-merosot-analis-perang-bisa-sampai-6-bulan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:43:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
-      "judul": "Momen Artis Kanada Balikin Piala Film Toronto Setelah Pidatonya tentang Palestina Dipotong",
-      "link_berita": "https://ameera.republika.co.id/berita/tbm7t6425/momen-artis-kanada-balikin-piala-film-toronto-setelah-pidatonya-tentang-palestina-dipotong",
+      "judul": "Artis Kanada Balikin Penghargaan Setelah Pidatonya tentang Palestina Dipotong",
+      "link_berita": "https://ameera.republika.co.id/berita/tbm7t6425/artis-kanada-balikin-penghargaan-setelah-pidatonya-tentang-palestina-dipotong",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:43:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
       "judul": "Hormuz Menjadi Cermin Transisi Global",
       "link_berita": "https://news.republika.co.id/berita/tbjive318/hormuz-menjadi-cermin-transisi-global",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:42:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
       "judul": "Optimistis Sidang Praperadilan, Gus Yaqut: Kebenaran Temukan Jalannya",
       "link_berita": "https://news.republika.co.id/berita/tbm7ek484/optimistis-sidang-praperadilan-gus-yaqut-kebenaran-temukan-jalannya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 04:34:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 05:00:11"
     },
     {
       "judul": "Lonjakan Harga Minyak Bisa Dorong Defisit APBN Mendekati 4 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbm2zm423/lonjakan-harga-minyak-bisa-dorong-defisit-apbn-mendekati-4-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 03:00:11"
     },
     {
       "judul": "BMKG Ungkap Faktor Penyebab Hujan Ekstrem di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/tbm3ta409/bmkg-ungkap-faktor-penyebab-hujan-ekstrem-di-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 03:00:11"
     },
     {
       "judul": "Agar THR tak Sekadar Habis untuk Lebaran, Ini Cara Mengelolanya",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbm21f423/agar-thr-tak-sekadar-habis-untuk-lebaran-ini-cara-mengelolanya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 03:00:11"
     },
     {
       "judul": "Hilirisasi Jadi Kunci Kemaslahatan Umat",
       "link_berita": "https://republika.co.id/page/shorts/yt-tbm3021241199987/hilirisasi-jadi-kunci-kemaslahatan-umat",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 03:00:11"
     },
     {
       "judul": "Koops TNI Papua Gelar Bakti Sosial di Kampung Iwaka, Mimika",
       "link_berita": "https://news.republika.co.id/berita/tbm213484/koops-tni-papua-gelar-bakti-sosial-di-kampung-iwaka-mimika",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 03:00:11"
     },
     {
       "judul": "Penunjukan Mojtaba Khamenei Tamparan Keras untuk Trump",
       "link_berita": "https://news.republika.co.id/berita/tbm1xr393/penunjukan-mojtaba-khamenei-tamparan-keras-untuk-trump",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 03:00:11"
     },
     {
       "judul": "Komik La Valise d\u2019Eliane, Mengulik Kisah Pionir Basket Putri Dunia",
       "link_berita": "https://ameera.republika.co.id/berita/tbm1ma425/komik-la-valise-deliane-mengulik-kisah-pionir-basket-putri-dunia",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "IHSG Merosot 5,35 Persen ke Posisi 7.179,69",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbm1hf423/ihsg-merosot-535-persen-ke-posisi-717969",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 02:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "Musim Mas Perkuat Pemberdayaan Perempuan Demi Keberlanjutan Operasional dan Komunitas",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbgtsd368/musim-mas-perkuat-pemberdayaan-perempuan-demi-keberlanjutan-operasional-dan-komunitas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 01:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "Wamentan Sudaryono: Pemerintah Siapkan Benih Gratis untuk Dukung Swasembada Jagung",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbm0lx472/wamentan-sudaryono-pemerintah-siapkan-benih-gratis-untuk-dukung-swasembada-jagung",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 01:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "Harga Minyak Melesat, Trump: Hanya Secuil untuk Sebuah Perdamaian Dunia",
       "link_berita": "https://ekonomi.republika.co.id/berita/tblzvi502/harga-minyak-melesat-trump-hanya-secuil-untuk-sebuah-perdamaian-dunia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 01:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "Petani Kentang di Dieng Terdampak Cuaca Ekstrem, Hasil Panen Berkurang HIngga 50 Persen",
       "link_berita": "https://visual.republika.co.id/berita/tblaja375/petani-kentang-di-dieng-terdampak-cuaca-ekstrem-hasil-panen-berkurang-hingga-50-persen",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 01:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "TPST Bantargebang Bekasi Longsor, Masih Banyak Truk dan Warung yang Tertimbun Sampah",
       "link_berita": "https://rejabar.republika.co.id/berita/tblzl6282/tpst-bantargebang-bekasi-longsor-masih-banyak-truk-dan-warung-yang-tertimbun-sampah",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 01:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 02:00:11"
     },
     {
       "judul": "Politikus Inggris Ungkap Dampak Misil Iran ke AS dan Israel",
       "link_berita": "https://republika.co.id/page/shorts/yt-tblyu21598643078/politikus-inggris-ungkap-dampak-misil-iran-ke-as-dan-israel",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 01:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 01:00:11"
     },
     {
       "judul": "Minyak Dunia Melonjak, Harga BBM Pertamina, Shell, bp, dan Vivo Masih Stabil",
       "link_berita": "https://ekonomi.republika.co.id/berita/tblykw423/minyak-dunia-melonjak-harga-bbm-pertamina-shell-bp-dan-vivo-masih-stabil",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 00:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 01:00:11"
     },
     {
       "judul": "KAI Daop 1 Jakarta: Okupansi Tiket Lebaran Capai 58 Persen",
       "link_berita": "https://news.republika.co.id/berita/tblyei484/kai-daop-1-jakarta-okupansi-tiket-lebaran-capai-58-persen",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 00:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 01:00:11"
     },
     {
       "judul": "Rusia Tetap Bantu Info Intelijen untuk Iran Meski Utusan Trump Beri Peringatan",
       "link_berita": "https://news.republika.co.id/berita/tblnpn409/rusia-tetap-bantu-info-intelijen-untuk-iran-meski-utusan-trump-beri-peringatan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 00:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 01:00:11"
     },
     {
       "judul": "Panglima Filipina Sebut Indonesia Sudah Beli Rudal Brahmos dari India",
       "link_berita": "https://news.republika.co.id/berita/tblx6a484/panglima-filipina-sebut-indonesia-sudah-beli-rudal-brahmos-dari-india",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 00:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 01:00:11"
     },
     {
       "judul": "Panglima Perintahkan TNI Siaga 1, Begini Penjelasan Kemenhan",
       "link_berita": "https://news.republika.co.id/berita/tblvzu484/panglima-perintahkan-tni-siaga-1-begini-penjelasan-kemenhan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 00:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Satu Tentara AS Tewas Akibat Serangan Iran di Saudi",
       "link_berita": "https://news.republika.co.id/berita/tblvm4393/satu-tentara-as-tewas-akibat-serangan-iran-di-saudi",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Tarif Ekspor Nol Persen ke AS Dibuka, Industri Nasional Diminta Perkuat Daya Saing",
       "link_berita": "https://ekonomi.republika.co.id/berita/tbltnv423/tarif-ekspor-nol-persen-ke-as-dibuka-industri-nasional-diminta-perkuat-daya-saing",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Laporan: Iran Revisi Strategi Perang, Aset Ekonomi AS Segera Jadi Target Serangan",
       "link_berita": "https://news.republika.co.id/berita/tbljnc409/laporan-iran-revisi-strategi-perang-aset-ekonomi-as-segera-jadi-target-serangan",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Harga Minyak Dunia Tembus 111 Dolar AS per Barel, Tertinggi Sejak 2022",
       "link_berita": "https://ekonomi.republika.co.id/berita/tblutf502/harga-minyak-dunia-tembus-111-dolar-as-per-barel-tertinggi-sejak-2022",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Proyek Hunian MBR di Cikarang Mulai Dibangun, Target 3 Juta Rumah",
       "link_berita": "https://visual.republika.co.id/berita/tblagm375/proyek-hunian-mbr-di-cikarang-mulai-dibangun-target-3-juta-rumah",
       "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Dokter: Gejala Campak Diawali Flu Biasa Diikuti Panas Tinggi",
       "link_berita": "https://ameera.republika.co.id/berita/tbluh0328/dokter-gejala-campak-diawali-flu-biasa-diikuti-panas-tinggi",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "16 RT dan 2 Ruas Jalan Masih Tergenang Banjir Senin Pagi, Ini Daftarnya",
       "link_berita": "https://news.republika.co.id/berita/tblu9j502/16-rt-dan-2-ruas-jalan-masih-tergenang-banjir-senin-pagi-ini-daftarnya",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Liga Arab Desak Iran Hentikan Serangan ke Negara-Negara Arab",
       "link_berita": "https://khazanah.republika.co.id/berita/tbltes430/liga-arab-desak-iran-hentikan-serangan-ke-negaranegara-arab",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Apa Itu Eco Enzyme? Cairan Serbaguna dari Sampah Organik yang Ramah Lingkungan",
       "link_berita": "https://esgnow.republika.co.id/berita/tbltj0423/apa-itu-eco-enzyme-cairan-serbaguna-dari-sampah-organik-yang-ramah-lingkungan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 00:00:11"
     },
     {
       "judul": "Zelenskyy Pastikan Kirim Tim ke Arab Lawan Serangan Drone Iran",
       "link_berita": "https://news.republika.co.id/berita/tblt6r484/zelenskyy-pastikan-kirim-tim-ke-arab-lawan-serangan-drone-iran",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:00:11"
     },
     {
       "judul": "Lebih dari 230 Juta Orang per Pekan Pakai ChatGPT Tanya Soal Kesehatan",
       "link_berita": "https://ameera.republika.co.id/berita/tblt6k425/lebih-dari-230-juta-orang-per-pekan-pakai-chatgpt-tanya-soal-kesehatan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:00:11"
     },
     {
       "judul": "Danantara Mulai Rancang Hunian Terjangkau bagi MBR di Cikarang",
       "link_berita": "https://ekonomi.republika.co.id/berita/tblt5x423/danantara-mulai-rancang-hunian-terjangkau-bagi-mbr-di-cikarang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:54:55"
+      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:00:11"
     },
     {
       "judul": "Madinah Kian Ramah Pejalan Kaki dan Pesepeda",
       "link_berita": "https://khazanah.republika.co.id/berita/tblsye458/madinah-kian-ramah-pejalan-kaki-dan-pesepeda",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
+      "tanggal_terbit": "Sunday, 08 Mar 2026, 23:00:11"
     },
     {
-      "judul": "Sikap Garda Revolusi Usai Dipilihnya Ayatollah Mojtaba Khamenei Sebagai Pemimpin Tertinggi Iran",
-      "link_berita": "https://khazanah.republika.co.id/berita/tblsfn430/sikap-garda-revolusi-usai-dipilihnya-ayatollah-mojtaba-khamenei-sebagai-pemimpin-tertinggi-iran",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Longsor Gunungan Sampah di Bantargebang: Empat Dilaporkan Meninggal, Masih Ada yang Tertimbun",
-      "link_berita": "https://news.republika.co.id/berita/tblkup409/longsor-gunungan-sampah-di-bantargebang-empat-dilaporkan-meninggal-masih-ada-yang-tertimbun",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Kemenhan UEA Rilis Video, Helikopter Apache Jatuhkan Sejumlah Drone Shahed",
-      "link_berita": "https://news.republika.co.id/berita/tbls1h484/kemenhan-uea-rilis-video-helikopter-apache-jatuhkan-sejumlah-drone-shahed",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Iran Tetap Bersatu di Bawah Pemimpin Baru, Mojtaba Khamenei",
-      "link_berita": "https://news.republika.co.id/berita/tblrwm458/iran-tetap-bersatu-di-bawah-pemimpin-baru-mojtaba-khamenei",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Ramai Desakan agar Indonesia keluar dari BoP, Pakar: Pemerintah Perlu Siapkan Exit Plan",
-      "link_berita": "https://news.republika.co.id/berita/tbkckp458/ramai-desakan-agar-indonesia-keluar-dari-bop-pakar-pemerintah-perlu-siapkan-exit-plan",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Fahri Hamzah Dorong Maluk Sumbawa Barat Jadi Model Tambang Berkelanjutan",
-      "link_berita": "https://news.republika.co.id/berita/tblr797730000/fahri-hamzah-dorong-maluk-sumbawa-barat-jadi-model-tambang-berkelanjutan",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Timnas Indonesia Umumkan 41 Pemain Skuad Sementara FIFA Series 2026, Ini Daftarnya",
-      "link_berita": "https://news.republika.co.id/berita/tblqi810030000/timnas-indonesia-umumkan-41-pemain-skuad-sementara-fifa-series-2026-ini-daftarnya",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 22:54:55"
-    },
-    {
-      "judul": "Empat Orang Tewas Tertimbun Longsoran Sampah di Bantargebang",
-      "link_berita": "https://news.republika.co.id/berita/tblpt99730000/empat-orang-tewas-tertimbun-longsoran-sampah-di-bantargebang",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 21:54:55"
-    },
-    {
-      "judul": "Jalan Nasional Trans Sulawesi di Donggala Siap Sambut Pemudik",
-      "link_berita": "https://visual.republika.co.id/berita/tblae4375/jalan-nasional-trans-sulawesi-di-donggala-siap-sambut-pemudik",
-      "kategori": "Visual",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 21:54:55"
-    },
-    {
-      "judul": "Maklumat Lengkap Majelis Ahli Atas Terpilihnya Mojtaba Khamenei Sebagai Pemimpin Tertinggi Iran",
-      "link_berita": "https://news.republika.co.id/berita/tblosi409/maklumat-lengkap-majelis-ahli-atas-terpilihnya-mojtaba-khamenei-sebagai-pemimpin-tertinggi-iran",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 21:54:55"
-    },
-    {
-      "judul": "BREAKING NEWS: Mojtaba Khamenei Resmi Ditunjuk Sebagai Pemimpin Tertinggi Iran",
-      "link_berita": "https://news.republika.co.id/berita/tblng3393/breaking-news-mojtaba-khamenei-resmi-ditunjuk-sebagai-pemimpin-tertinggi-iran",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 08 Mar 2026, 20:54:55"
-    },
-    {
-      "judul": "Momen Artis Kanada Balikin Piala Film Toronto Setelah Pidatonya tentang Palestina Dipotong",
-      "link_berita": "https://ameera.republika.co.id/berita/tbm7t6425/momen-artis-kanada-balikin-piala-film-toronto-setelah-pidatonya-tentang-palestina-dipotong",
+      "judul": "Artis Kanada Balikin Penghargaan Setelah Pidatonya tentang Palestina Dipotong",
+      "link_berita": "https://ameera.republika.co.id/berita/tbm7t6425/artis-kanada-balikin-penghargaan-setelah-pidatonya-tentang-palestina-dipotong",
       "kategori": "Happening",
       "tanggal_terbit": "Monday, 09 Mar 2026, 11:43:00"
     },
     {
-      "judul": "Apa Itu Eco Enzyme? Cairan Serbaguna dari Sampah Organik yang Ramah Lingkungan",
-      "link_berita": "https://esgnow.republika.co.id/berita/tbltj0423/apa-itu-eco-enzyme-cairan-serbaguna-dari-sampah-organik-yang-ramah-lingkungan",
+      "judul": "Longsor TPST Bantargebang Tewaskan 4 Orang, Pemerintah Siapkan Penegakan Hukum",
+      "link_berita": "https://esgnow.republika.co.id/berita/tbmadz416/longsor-tpst-bantargebang-tewaskan-4-orang-pemerintah-siapkan-penegakan-hukum",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 06:50:00"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 12:50:00"
     },
     {
-      "judul": "Bikin Rupiah Sentuh Rp17 Ribu dan IHSG Merosot, Analis: Perang Bisa Sampai 6 Bulan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tbm7td502/bikin-rupiah-sentuh-rp17-ribu-dan-ihsg-merosot-analis-perang-bisa-sampai-6-bulan",
+      "judul": "Pemerintah Dorong Konsultan Lokal Tangani Proyek Strategis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tbm8ju416/pemerintah-dorong-konsultan-lokal-tangani-proyek-strategis",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 11:44:00"
+      "tanggal_terbit": "Monday, 09 Mar 2026, 13:00:00"
     },
     {
       "judul": "Minat Investasi Emas Meningkat, BSI Kelola 22,5 Ton Emas Lewat Bullion Bank",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 08 Mar 2026, 16:29:00"
     },
     {
-      "judul": "Program CSR Ramadan, Adapundi Sasar Anak-Anak Disabilitas Ganda",
-      "link_berita": "https://news.republika.co.id/berita/tbm82a484/program-csr-ramadan-adapundi-sasar-anakanak-disabilitas-ganda",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Monday, 09 Mar 2026, 11:49:00"
+      "judul": "Literasi Alquran dan Masa Depan Peradaban",
+      "link_berita": "https://analisis.republika.co.id/berita/tbmav8320/literasi-alquran-dan-masa-depan-peradaban",
+      "kategori": "Kalam",
+      "tanggal_terbit": "Monday, 09 Mar 2026, 12:49:00"
     }
   ],
-  "waktu_scraping": "Monday, 09 Mar 2026, 11:54:55"
+  "waktu_scraping": "Monday, 09 Mar 2026, 13:00:11"
 }
