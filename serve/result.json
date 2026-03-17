@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Mensesneg: Pemerintah Kaji Efisiensi ASN Imbas Perang",
+      "link_berita": "https://news.republika.co.id/berita/tc1g7d484/mensesneg-pemerintah-kaji-efisiensi-asn-imbas-perang"
+    },
+    {
       "judul": "Ekonomi RI Tumbuh di Kuartal I 2026, Rupiah Tertekan Gejolak Global",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1e4v423/ekonomi-ri-tumbuh-di-kuartal-i-2026-rupiah-tertekan-gejolak-global"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "LPSK Putuskan Lindungi Korban, Saksi, dan Keluarga Korban Penyiraman Air Aktivis KontraS",
       "link_berita": "https://news.republika.co.id/berita/tc18mf487/lpsk-putuskan-lindungi-korban-saksi-dan-keluarga-korban-penyiraman-air-aktivis-kontras"
-    },
-    {
-      "judul": "Israel Larang Muslim Sholat di Masjid Al-Aqsa, Ini Ancaman Nyata dalam QS Al-Baqarah Ayat 114",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc15wl483/israel-larang-muslim-sholat-di-masjid-alaqsa-ini-ancaman-nyata-dalam-qs-albaqarah-ayat-114"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Eropa Kompak Tolak Seruan Trump Kerahkan Angkatan Laut ke Selat Hormuz",
+      "link_berita": "https://news.republika.co.id/berita/tc1gud409/eropa-kompak-tolak-seruan-trump-kerahkan-angkatan-laut-ke-selat-hormuz"
+    },
+    {
+      "judul": "Bonus ASEAN Para Games ke-13 Cair, Menpora: Komitmen Pemerintah Hargai Perjuangan Atlet Secara Adil",
+      "link_berita": "https://news.republika.co.id/berita/tc1ff6348/bonus-asean-para-games-ke13-cair-menpora-komitmen-pemerintah-hargai-perjuangan-atlet-secara-adil"
+    },
     {
       "judul": "Penutupan Masjid Al Aqsa Pelanggaran Serius Hukum Internasional",
       "link_berita": "https://khazanah.republika.co.id/berita/tc1czz430/penutupan-masjid-al-aqsa-pelanggaran-serius-hukum-internasional"
@@ -73,347 +81,339 @@
     {
       "judul": "Batagor Yunus Jadi Oleh-oleh Favorit Pemudik yang Melintas Bandung",
       "link_berita": "https://ameera.republika.co.id/berita/tc00vs366/batagor-yunus-jadi-oleholeh-favorit-pemudik-yang-melintas-bandung"
-    },
-    {
-      "judul": "Tok! MK Nilai UU tentang Uang Pensiun Lembaga Tinggi Negara Inkonstitusional, Termasuk Anggota DPR",
-      "link_berita": "https://news.republika.co.id/berita/tc02dr409/tok-mk-nilai-uu-tentang-uang-pensiun-lembaga-tinggi-negara-inkonstitusional-termasuk-anggota-dpr"
-    },
-    {
-      "judul": "Infografis Berencana Mudik? Perhatikan Adab Bepergian Jauh Beserta Doanya",
-      "link_berita": "https://visual.republika.co.id/berita/tbyyoc366/infografis-berencana-mudik-perhatikan-adab-bepergian-jauh-beserta-doanya"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "GoSend Kolaborasi Hadirkan Sarung Edisi Ramadhan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1gsc423/gosend-kolaborasi-hadirkan-sarung-edisi-ramadhan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:29:14"
+    },
+    {
+      "judul": "Kemlu RI: Pengiriman Pasukan TNI ke Gaza Ditunda",
+      "link_berita": "https://news.republika.co.id/berita/tc1ju7409/kemlu-ri-pengiriman-pasukan-tni-ke-gaza-ditunda",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:27:14"
+    },
+    {
+      "judul": "Gibran Tinjau Kesiapan Arus Musik Nyepi dan Lebaran di JMTC Bekasi",
+      "link_berita": "https://news.republika.co.id/berita/tc1jo9484/gibran-tinjau-kesiapan-arus-musik-nyepi-dan-lebaran-di-jmtc-bekasi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:24:14"
+    },
+    {
+      "judul": "Rangkaian Kegiatan Sosial dan Keagamaan Warnai Sudut Kota Jakarta Sepanjang Ramadan",
+      "link_berita": "https://ameera.republika.co.id/berita/tc1izt522/rangkaian-kegiatan-sosial-dan-keagamaan-warnai-sudut-kota-jakarta-sepanjang-ramadan",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:09:14"
+    },
+    {
+      "judul": "Kapolri Resmikan Jembatan Merah Putih Presisi di Riau, Perkuat Akses Pendidikan dan Ekonomi",
+      "link_berita": "https://news.republika.co.id/berita/tc1iul522/kapolri-resmikan-jembatan-merah-putih-presisi-di-riau-perkuat-akses-pendidikan-dan-ekonomi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:06:14"
+    },
+    {
+      "judul": "Kerja Sama RI\u2013Jepang Buka Jalan Energi Hijau, Ekonom: Momentum Perkuat Ketahanan Energi Nasional",
+      "link_berita": "https://esgnow.republika.co.id/berita/tc1ipb522/kerja-sama-rijepang-buka-jalan-energi-hijau-ekonom-momentum-perkuat-ketahanan-energi-nasional",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:03:14"
+    },
+    {
+      "judul": "Bank Aladin Syariah Sediakan Layanan Keuangan di Jaringan Alfa Group",
+      "link_berita": "https://sharia.republika.co.id/berita/tc1im0416/bank-aladin-syariah-sediakan-layanan-keuangan-di-jaringan-alfa-group",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 11:01:14"
+    },
+    {
+      "judul": "BI: Perbankan RI Kuat Hadapi Gejolak Global, Kredit Melambat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1hjs423/bi-perbankan-ri-kuat-hadapi-gejolak-global-kredit-melambat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:59:14"
+    },
+    {
+      "judul": "Usai Tahan Yaqut dan Gus Alex, KPK akan Periksa Lagi Pihak Travel Haji",
+      "link_berita": "https://news.republika.co.id/berita/tc1igb409/usai-tahan-yaqut-dan-gus-alex-kpk-akan-periksa-lagi-pihak-travel-haji",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:58:14"
+    },
+    {
+      "judul": "BNI Berangkatkan 7.000 Pemudik dalam Program Mudik Gratis BUMN 2026",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1i5f472/bni-berangkatkan-7000-pemudik-dalam-program-mudik-gratis-bumn-2026",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:51:14"
+    },
+    {
+      "judul": "PTP Nonpetikemas Gelar Portpress 2026 \u201cKompetisi Karya Jurnalistik\u201d, Eksplorasi Peran Pelabuhan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1hqu472/ptp-nonpetikemas-gelar-portpress-2026-kompetisi-karya-jurnalistik-eksplorasi-peran-pelabuhan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Bank Jakarta Sediakan 20 Bus untuk Mudik Gratis Pemprov DKI",
+      "link_berita": "https://republika.co.id/berita//tc1h8a416/bank-jakarta-sediakan-20-bus-untuk-mudik-gratis-pemprov-dki",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Mudik Nyaman Bersama BUMN, PNM Fasilitasi Ratusan Peserta Mudik tanpa Cemas Ongkos",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1h3f472/mudik-nyaman-bersama-bumn-pnm-fasilitasi-ratusan-peserta-mudik-tanpa-cemas-ongkos",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Jadwal Buka Puasa Hari Ini 17 Maret 2026 di Jakarta: Waktu yang Dinanti Dalam Keberkahan Ramadhan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tc1h17581388402/jadwal-buka-puasa-hari-ini-17-maret-2026-di-jakarta-waktu-yang-dinanti-dalam-keberkahan-ramadhan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Eropa Kompak Tolak Seruan Trump Kerahkan Angkatan Laut ke Selat Hormuz",
+      "link_berita": "https://news.republika.co.id/berita/tc1gud409/eropa-kompak-tolak-seruan-trump-kerahkan-angkatan-laut-ke-selat-hormuz",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Ini Alasan Mudik 2026 Jadi Kunci Pertumbuhan Ekonomi di Daerah",
+      "link_berita": "https://news.republika.co.id/berita/tc1gr6451/ini-alasan-mudik-2026-jadi-kunci-pertumbuhan-ekonomi-di-daerah",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "TASPEN Perkuat Layanan Peserta Melalui Kolaborasi Stimulasi Pertumbuhan Penerima Pensiun di Aceh",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1gp0472/taspen-perkuat-layanan-peserta-melalui-kolaborasi-stimulasi-pertumbuhan-penerima-pensiun-di-aceh",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Israel Klaim Bunuh Ali Larijani, Anehnya Kepala Keamanan Iran Itu Justru Buat Kicauan di X",
+      "link_berita": "https://news.republika.co.id/berita/tc1go7377/israel-klaim-bunuh-ali-larijani-anehnya-kepala-keamanan-iran-itu-justru-buat-kicauan-di-x",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Uang Palsu Rp 12 Miliar Nyaris Beredar di Cirebon Jelang Lebaran, Polisi Tangkap Pelaku",
+      "link_berita": "https://rejabar.republika.co.id/berita/tc1gnk282/uang-palsu-rp-12-miliar-nyaris-beredar-di-cirebon-jelang-lebaran-polisi-tangkap-pelaku",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Stok Avtur Nasional Terkendali, Bahlil Imbau Hemat BBM",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1fy3423/stok-avtur-nasional-terkendali-bahlil-imbau-hemat-bbm",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Bonus Medali ASEAN Para Games Ditransfer Langsung, Menpora Jamin Transparansi dan Tepat Sasaran",
+      "link_berita": "https://news.republika.co.id/berita/tc1gj8348/bonus-medali-asean-para-games-ditransfer-langsung-menpora-jamin-transparansi-dan-tepat-sasaran",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:45:14"
+    },
+    {
+      "judul": "Jadwal Buka Puasa Hari Ini: 17 Maret 2026 di Bandung yang Wajib Diketahui",
+      "link_berita": "https://khazanah.republika.co.id/berita/tc1gh71538560566/jadwal-buka-puasa-hari-ini-17-maret-2026-di-bandung-yang-wajib-diketahui",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
+    },
+    {
+      "judul": "Pemkot Jakarta Bagikan 3.000 Paket Sembako Murah, Petugas PPSU Sampai Sujud Syukur",
+      "link_berita": "https://news.republika.co.id/berita/tc1gc3451/pemkot-jakarta-bagikan-3000-paket-sembako-murah-petugas-ppsu-sampai-sujud-syukur",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
+    },
+    {
+      "judul": "Jadwal Buka Puasa Hari Ini: 17 Maret 2026 di Yogyakarta, Jangan Lewatkan Momen Berbuka!",
+      "link_berita": "https://khazanah.republika.co.id/berita/tc1g8x1703389411/jadwal-buka-puasa-hari-ini-17-maret-2026-di-yogyakarta-jangan-lewatkan-momen-berbuka",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
+    },
+    {
+      "judul": "Mensesneg: Pemerintah Kaji Efisiensi ASN Imbas Perang",
+      "link_berita": "https://news.republika.co.id/berita/tc1g7d484/mensesneg-pemerintah-kaji-efisiensi-asn-imbas-perang",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
+    },
+    {
+      "judul": "Jadwal Buka Puasa Hari Ini 17 Maret 2026 di Semarang: Persiapkan Diri untuk Meraih Keberkahan Ramadhan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tc1g5l1609984808/jadwal-buka-puasa-hari-ini-17-maret-2026-di-semarang-persiapkan-diri-untuk-meraih-keberkahan-ramadhan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
+    },
+    {
       "judul": "Jadwal Buka Puasa Hari Ini: 17 Maret 2026 di Surabaya, Nikmati Momen Berharga Menjelang Maghrib",
       "link_berita": "https://khazanah.republika.co.id/berita/tc1ftx880916125/jadwal-buka-puasa-hari-ini-17-maret-2026-di-surabaya-nikmati-momen-berharga-menjelang-maghrib",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 10:01:10"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Kuota Mudik Gratis 2026 Ludes dalam 2 Jam, Pemprov Jakarta Tambah Ratusan Bus Dadakan",
       "link_berita": "https://news.republika.co.id/berita/tc1fps451/kuota-mudik-gratis-2026-ludes-dalam-2-jam-pemprov-jakarta-tambah-ratusan-bus-dadakan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:58:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Kemendagri Dorong Pemda Buat Instrumen Pengukuran untuk Turunkan Angka Pengangguran",
       "link_berita": "https://news.republika.co.id/berita/tc1fpa483/kemendagri-dorong-pemda-buat-instrumen-pengukuran-untuk-turunkan-angka-pengangguran",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:58:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Bonus ASEAN Para Games ke-13 Cair, Menpora: Komitmen Pemerintah Hargai Perjuangan Atlet Secara Adil",
       "link_berita": "https://news.republika.co.id/berita/tc1ff6348/bonus-asean-para-games-ke13-cair-menpora-komitmen-pemerintah-hargai-perjuangan-atlet-secara-adil",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:52:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Rahasia Drone Shahed Iran yang Bikin Sistem Pertahanan AS-Israel Kelabakan",
       "link_berita": "https://news.republika.co.id/berita/tc1fbs451/rahasia-drone-shahed-iran-yang-bikin-sistem-pertahanan-asisrael-kelabakan",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:50:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Lebaran di Tengah Badai Dunia",
       "link_berita": "https://rejogja.republika.co.id/berita/tc1fb8291/lebaran-di-tengah-badai-dunia",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:50:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Masih Ada Lumpur di Aceh Tamiang, BNPP Luncurkan Ekskavator dan Dump Truck",
       "link_berita": "https://news.republika.co.id/berita/tc1f4m483/masih-ada-lumpur-di-aceh-tamiang-bnpp-luncurkan-ekskavator-dan-dump-truck",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:46:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Farabi El Fouz Ingatkan Warga Waspadai Potensi Cuaca Ekstrem Saat Lebaran",
       "link_berita": "https://rejabar.republika.co.id/berita/tc1f3d472/farabi-el-fouz-ingatkan-warga-waspadai-potensi-cuaca-ekstrem-saat-lebaran",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Jelang Lebaran, Omzet Perajin Batik di Cirebon Melonjak",
       "link_berita": "https://visual.republika.co.id/berita/tc1eu7375/jelang-lebaran-omzet-perajin-batik-di-cirebon-melonjak",
       "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:40:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Temui Dubes Palestina, Yayasan AMS Bahas Distribusi Bantuan di Tengah Kondisi yang Sulit",
       "link_berita": "https://khazanah.republika.co.id/berita/tc1e91483/temui-dubes-palestina-yayasan-ams-bahas-distribusi-bantuan-di-tengah-kondisi-yang-sulit",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:27:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Ekonomi RI Tumbuh di Kuartal I 2026, Rupiah Tertekan Gejolak Global",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1e4v423/ekonomi-ri-tumbuh-di-kuartal-i-2026-rupiah-tertekan-gejolak-global",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:24:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Bikin Program Diet Pakai AI, Waspada Risiko Kurang Gizi Mengintai",
       "link_berita": "https://ameera.republika.co.id/berita/tc1dr5425/bikin-program-diet-pakai-ai-waspada-risiko-kurang-gizi-mengintai",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:16:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:45:14"
     },
     {
       "judul": "Penutupan Masjid Al Aqsa Pelanggaran Serius Hukum Internasional",
       "link_berita": "https://khazanah.republika.co.id/berita/tc1czz430/penutupan-masjid-al-aqsa-pelanggaran-serius-hukum-internasional",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Mudik Nyaman Bersama BUMN dan Danantara 2026: TelkomGroup Lepas Ribuan Pemudik",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1cuz472/mudik-nyaman-bersama-bumn-dan-danantara-2026-telkomgroup-lepas-ribuan-pemudik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "InJourney Siagakan 37 Bandara 24 Jam, Siap Layani 9 Juta Pemudik Lebaran 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1cgf349/injourney-siagakan-37-bandara-24-jam-siap-layani-9-juta-pemudik-lebaran-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Iran Tutup Selat Hormuz: Produksi Minyak Negara-Negara Arab Anjlok Hingga 7 Juta Barel Per Hari",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1ccy409/iran-tutup-selat-hormuz-produksi-minyak-negaranegara-arab-anjlok-hingga-7-juta-barel-per-hari",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Muhammadiyah Teguhkan Ikhtiar Peradaban Umat Islam melalui Kalender Hijriah Global Tunggal",
       "link_berita": "https://news.republika.co.id/berita/tc1c6m291/muhammadiyah-teguhkan-ikhtiar-peradaban-umat-islam-melalui-kalender-hijriah-global-tunggal",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Pertamina Patra Niaga Bergerak Lebih Fleksibel dengan Inovasi Block Mode",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1c1j472/pertamina-patra-niaga-bergerak-lebih-fleksibel-dengan-inovasi-block-mode",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Mensesneg Ungkap Presiden Minta Nakes Ditempatkan di 4.000 Puskesmas",
       "link_berita": "https://news.republika.co.id/berita/tc1bv0484/mensesneg-ungkap-presiden-minta-nakes-ditempatkan-di-4000-puskesmas",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 09:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Kapal Pertamina Tertahan di Selat Hormuz, Bahlil Minta Waktu Negosiasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1b8t423/kapal-pertamina-tertahan-di-selat-hormuz-bahlil-minta-waktu-negosiasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Ngaku Cucu Menteri, Yayasan Potong Anggaran SPPG Jadi Rp 6.500, BGN Marah Tutup Dapur",
       "link_berita": "https://news.republika.co.id/berita/tc1bbp377/ngaku-cucu-menteri-yayasan-potong-anggaran-sppg-jadi-rp-6500-bgn-marah-tutup-dapur",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Transaksi Ramadhan Meningkat, UMKM Manfaatkan TikTok untuk Ekspansi Pasar",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc1b8x370/transaksi-ramadhan-meningkat-umkm-manfaatkan-tiktok-untuk-ekspansi-pasar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:45:14"
     },
     {
       "judul": "Korlantas Polri Terapkan One Way Sepenggal di Tol Trans Jawa",
       "link_berita": "https://news.republika.co.id/berita/tc1ams484/korlantas-polri-terapkan-one-way-sepenggal-di-tol-trans-jawa",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:45:14"
     },
     {
       "judul": "Setelah Gus Yaqut, KPK Tahan Gus Alex di Perkara Kuota Haji",
       "link_berita": "https://news.republika.co.id/berita/tc1ajh393/setelah-gus-yaqut-kpk-tahan-gus-alex-di-perkara-kuota-haji",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:45:14"
     },
     {
-      "judul": "Anomali Lelang KPK, Ponsel OPPO Rp 73 Ribu Laris RP 59 Juta, Siapa Pembelinya?",
-      "link_berita": "https://news.republika.co.id/berita/tc1ahk377/anomali-lelang-kpk-ponsel-oppo-rp-73-ribu-laris-rp-59-juta-siapa-pembelinya",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "judul": "Rangkaian Kegiatan Sosial dan Keagamaan Warnai Sudut Kota Jakarta Sepanjang Ramadan",
+      "link_berita": "https://ameera.republika.co.id/berita/tc1izt522/rangkaian-kegiatan-sosial-dan-keagamaan-warnai-sudut-kota-jakarta-sepanjang-ramadan",
+      "kategori": "Happening",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 18:09:00"
     },
     {
-      "judul": "Suku Bunga BI Tetap 4,75 Persen, Rupiah Menguat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc1ag3423/suku-bunga-bi-tetap-475-persen-rupiah-menguat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "judul": "Kerja Sama RI\u2013Jepang Buka Jalan Energi Hijau, Ekonom: Momentum Perkuat Ketahanan Energi Nasional",
+      "link_berita": "https://esgnow.republika.co.id/berita/tc1ipb522/kerja-sama-rijepang-buka-jalan-energi-hijau-ekonom-momentum-perkuat-ketahanan-energi-nasional",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 18:03:00"
     },
     {
-      "judul": "LLDikti Wilayah V Perkuat Komitmen Peningkatan Kualifikasi Dosen PTS",
-      "link_berita": "https://rejogja.republika.co.id/berita/tc1a5b291/lldikti-wilayah-v-perkuat-komitmen-peningkatan-kualifikasi-dosen-pts",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
+      "judul": "GoSend Kolaborasi Hadirkan Sarung Edisi Ramadhan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc1gsc423/gosend-kolaborasi-hadirkan-sarung-edisi-ramadhan",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 18:29:00"
     },
     {
-      "judul": "Kang DS: Aksi Sosial Viking Majalaya Jadi Inspirasi Bagi Komunitas",
-      "link_berita": "https://rejabar.republika.co.id/berita/tc1a52472/kang-ds-aksi-sosial-viking-majalaya-jadi-inspirasi-bagi-komunitas",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Dituduh Pura-Pura Senang Saat Kalah di Oscar, Teyana Taylor Beri Jawaban Menohok",
-      "link_berita": "https://ameera.republika.co.id/berita/tc1a4i425/dituduh-purapura-senang-saat-kalah-di-oscar-teyana-taylor-beri-jawaban-menohok",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Persiapan One Way, Petugas Lakukan Sterilisasi Siang Ini di Tol Cipali",
-      "link_berita": "https://rejabar.republika.co.id/berita/tc19w6282/persiapan-one-way-petugas-lakukan-sterilisasi-siang-ini-di-tol-cipali",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Arus Mudik Meningkat, One Way Mulai Diberlakukan Sore Ini, Km 70 Sampai Km 263",
-      "link_berita": "https://news.republika.co.id/berita/tc19m2377/arus-mudik-meningkat-one-way-mulai-diberlakukan-sore-ini-km-70-sampai-km-263",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "157 Perusahaan di Jawa Barat Dilaporkan Terkait THR",
-      "link_berita": "https://rejabar.republika.co.id/berita/tc19k5282/157-perusahaan-di-jawa-barat-dilaporkan-terkait-thr",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Hingga Sepekan ke Depan, Sistem Ganjil Genap tak Berlaku di Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/tc19bd393/hingga-sepekan-ke-depan-sistem-ganjil-genap-tak-berlaku-di-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Mudik Gratis BUMN 2026 Resmi Dimulai, 116 Ribu Pemudik Diberangkatkan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc196x423/mudik-gratis-bumn-2026-resmi-dimulai-116-ribu-pemudik-diberangkatkan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Sekutu Iran Bombardir Kedubes AS di Irak dengan Roket dan Drone",
-      "link_berita": "https://news.republika.co.id/berita/tc196j377/sekutu-iran-bombardir-kedubes-as-di-irak-dengan-roket-dan-drone",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Tol Fungsional Yogya-Solo Segmen Purwomartani Resmi Dibuka, Ribuan Mobil Pemudik Langsung Melintas",
-      "link_berita": "https://rejogja.republika.co.id/berita/tc18xy291/tol-fungsional-yogyasolo-segmen-purwomartani-resmi-dibuka-ribuan-mobil-pemudik-langsung-melintas",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 08:01:13"
-    },
-    {
-      "judul": "Pertama Kali, Plaza Balai Kota Bandung Bakal Gelar Shalat Idul Fitri",
-      "link_berita": "https://rejabar.republika.co.id/berita/tc18sz472/pertama-kali-plaza-balai-kota-bandung-bakal-gelar-shalat-idul-fitri",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "LPSK Putuskan Lindungi Korban, Saksi, dan Keluarga Korban Penyiraman Air Aktivis KontraS",
-      "link_berita": "https://news.republika.co.id/berita/tc18mf487/lpsk-putuskan-lindungi-korban-saksi-dan-keluarga-korban-penyiraman-air-aktivis-kontras",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Trump Fokus Perang Lawan Iran, Kunjungan ke China Ditunda Sebulan",
-      "link_berita": "https://news.republika.co.id/berita/tc18jw430/trump-fokus-perang-lawan-iran-kunjungan-ke-china-ditunda-sebulan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Aparat Bongkar Peredaran 6,5 Juta Batang Rokok Ilegal di Banyuwangi",
-      "link_berita": "https://republika.co.id/berita//tc18ed472/aparat-bongkar-peredaran-65-juta-batang-rokok-ilegal-di-banyuwangi",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Polri Prioritaskan Pengamanan Masjid dan Sholat Id Jelang Idul Fitri",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc1879423/polri-prioritaskan-pengamanan-masjid-dan-sholat-id-jelang-idul-fitri",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Kecam Penutupan Masjid Al Aqsa Saat Ramadhan, PBNU: Provokasi Berat terhadap Umat Islam",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc173u458/kecam-penutupan-masjid-al-aqsa-saat-ramadhan-pbnu-provokasi-berat-terhadap-umat-islam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "SMA Labschool Kebayoran Raih Dua Penghargaan NTU Model United Nations 2026",
-      "link_berita": "https://news.republika.co.id/berita/tc16xz291/sma-labschool-kebayoran-raih-dua-penghargaan-ntu-model-united-nations-2026",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Muhammadiyah: Penutupan Masjid Al Aqsa Lukai Perasaan Umat Islam dan Langgar HAM",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc16u9458/muhammadiyah-penutupan-masjid-al-aqsa-lukai-perasaan-umat-islam-dan-langgar-ham",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Militer Iran ke Trump: Akhir Pertempuran Bukan Ditentukan di Media Sosial, Tapi Medan Perang",
-      "link_berita": "https://news.republika.co.id/berita/tc16p6377/militer-iran-ke-trump-akhir-pertempuran-bukan-ditentukan-di-media-sosial-tapi-medan-perang",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Lebaran Tenang, Tarif Listrik Kuartal II 2026 tidak Naik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc16mf423/lebaran-tenang-tarif-listrik-kuartal-ii-2026-tidak-naik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "5 Trik 'Sulap' Rumah Jadi Mewah dan Nyaman Saat Lebaran",
-      "link_berita": "https://ameera.republika.co.id/berita/tc16ky425/5-trik-sulap-rumah-jadi-mewah-dan-nyaman-saat-lebaran",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Adam Alis Ingatkan Persib Bandung tidak Over Confidence",
-      "link_berita": "https://news.republika.co.id/berita/tc16hk348/adam-alis-ingatkan-persib-bandung-tidak-over-confidence",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Travel Ungkap Antusiasme Jamaah Umrah Tetap Tinggi di Tengah Perang di Timur Tengah",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc16d4483/travel-ungkap-antusiasme-jamaah-umrah-tetap-tinggi-di-tengah-perang-di-timur-tengah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 07:01:13"
-    },
-    {
-      "judul": "Israel Larang Muslim Sholat di Masjid Al-Aqsa, Ini Ancaman Nyata dalam QS Al-Baqarah Ayat 114",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc15wl483/israel-larang-muslim-sholat-di-masjid-alaqsa-ini-ancaman-nyata-dalam-qs-albaqarah-ayat-114",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 06:01:13"
-    },
-    {
-      "judul": "Bikin Program Diet Pakai AI, Waspada Risiko Kurang Gizi Mengintai",
-      "link_berita": "https://ameera.republika.co.id/berita/tc1dr5425/bikin-program-diet-pakai-ai-waspada-risiko-kurang-gizi-mengintai",
-      "kategori": "Tekno",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 16:16:00"
-    },
-    {
-      "judul": "Pendekatan Kesehatan Dukung Pemulihan Warga Aceh Tamiang Pascabanjir",
-      "link_berita": "https://esgnow.republika.co.id/berita/tbzx4j522/pendekatan-kesehatan-dukung-pemulihan-warga-aceh-tamiang-pascabanjir",
-      "kategori": "Csr Esg Now",
-      "tanggal_terbit": "Monday, 16 Mar 2026, 21:19:00"
-    },
-    {
-      "judul": "Ekonomi RI Tumbuh di Kuartal I 2026, Rupiah Tertekan Gejolak Global",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc1e4v423/ekonomi-ri-tumbuh-di-kuartal-i-2026-rupiah-tertekan-gejolak-global",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 16:24:00"
-    },
-    {
-      "judul": "Prudential Syariah Gelar Festival 1000 Berkah, Bantu Komunitas Lady Ojol",
-      "link_berita": "https://sharia.republika.co.id/berita/tbzri2370/prudential-syariah-gelar-festival-1000-berkah-bantu-komunitas-lady-ojol",
+      "judul": "Bank Aladin Syariah Sediakan Layanan Keuangan di Jaringan Alfa Group",
+      "link_berita": "https://sharia.republika.co.id/berita/tc1im0416/bank-aladin-syariah-sediakan-layanan-keuangan-di-jaringan-alfa-group",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 16 Mar 2026, 19:18:00"
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 18:01:00"
     },
     {
-      "judul": "Kuota Mudik Gratis 2026 Ludes dalam 2 Jam, Pemprov Jakarta Tambah Ratusan Bus Dadakan",
-      "link_berita": "https://news.republika.co.id/berita/tc1fps451/kuota-mudik-gratis-2026-ludes-dalam-2-jam-pemprov-jakarta-tambah-ratusan-bus-dadakan",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 17 Mar 2026, 16:58:00"
+      "judul": "Kemlu RI: Pengiriman Pasukan TNI ke Gaza Ditunda",
+      "link_berita": "https://news.republika.co.id/berita/tc1ju7409/kemlu-ri-pengiriman-pasukan-tni-ke-gaza-ditunda",
+      "kategori": "Internasional",
+      "tanggal_terbit": "Tuesday, 17 Mar 2026, 18:27:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 17 Mar 2026, 17:01:13"
+  "waktu_scraping": "Tuesday, 17 Mar 2026, 18:45:14"
 }
