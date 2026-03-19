@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Doa Akhir Ramadhan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tc560x430/doa-akhir-ramadhan"
+    },
+    {
       "judul": "Prabowo Terima Kunjungan Megawati yang Didampingi Puan di Istana",
       "link_berita": "https://news.republika.co.id/berita/tc535q484/prabowo-terima-kunjungan-megawati-yang-didampingi-puan-di-istana"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Jalur Nagreg Padat pada Kamis Siang, Sempat Diurai dengan One Way",
       "link_berita": "https://rejabar.republika.co.id/berita/tc4x15348/jalur-nagreg-padat-pada-kamis-siang-sempat-diurai-dengan-one-way"
-    },
-    {
-      "judul": "Ribuan Muslim di Nagan Raya Aceh Rayakan Idul Fitri Kamis Ini",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc4u1o483/ribuan-muslim-di-nagan-raya-aceh-rayakan-idul-fitri-kamis-ini"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Puncak Arus Mudik Nagreg Hari Ini, 98 Ribu Kendaraan Sudah Melintas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc55s6423/puncak-arus-mudik-nagreg-hari-ini-98-ribu-kendaraan-sudah-melintas"
+    },
     {
       "judul": "Polisi Berlakukan One Way Sepenggal di Jalur Nagreg Hari Ini",
       "link_berita": "https://news.republika.co.id/berita/tc53h7416/polisi-berlakukan-one-way-sepenggal-di-jalur-nagreg-hari-ini"
@@ -77,312 +81,308 @@
     {
       "judul": "RESMI: Arab Saudi Umumkan 1 Syawal 1447 Hijriyah Jatuh pada Jumat, 20 Maret 2026",
       "link_berita": "https://khazanah.republika.co.id/berita/tc44qh409/resmi-arab-saudi-umumkan-1-syawal-1447-hijriyah-jatuh-pada-jumat-20-maret-2026"
-    },
-    {
-      "judul": "Ratusan Ribu Wisatawan Diprediksi Padati Candi Prambanan, Kapasitas Parkir Ditambah Dua Kali Lipat",
-      "link_berita": "https://rejogja.republika.co.id/berita/tc3y2k282/ratusan-ribu-wisatawan-diprediksi-padati-candi-prambanan-kapasitas-parkir-ditambah-dua-kali-lipat"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Wagub Rano Si Doel: Tradisi Andilan Kebo Perkuat Gotong Royong Warga Betawi",
+      "link_berita": "https://news.republika.co.id/berita/tc4w7o451/wagub-rano-si-doel-tradisi-andilan-kebo-perkuat-gotong-royong-warga-betawi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:45:01"
+    },
+    {
+      "judul": "One Way Nasional Masih Berlaku, Korlantas Evaluasi Arus Mudik Tol Trans Jawa",
+      "link_berita": "https://news.republika.co.id/berita/tc56ma416/one-way-nasional-masih-berlaku-korlantas-evaluasi-arus-mudik-tol-trans-jawa",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:33:39"
+    },
+    {
+      "judul": "AHY Pastikan Tol Trans Jawa dalam Kondisi Prima untuk Mudik 2026",
+      "link_berita": "https://news.republika.co.id/berita/tc562b416/ahy-pastikan-tol-trans-jawa-dalam-kondisi-prima-untuk-mudik-2026",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:20:39"
+    },
+    {
+      "judul": "Doa Akhir Ramadhan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tc560x430/doa-akhir-ramadhan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:19:39"
+    },
+    {
+      "judul": "Puncak Arus Mudik Nagreg Hari Ini, 98 Ribu Kendaraan Sudah Melintas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc55s6423/puncak-arus-mudik-nagreg-hari-ini-98-ribu-kendaraan-sudah-melintas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:14:39"
+    },
+    {
+      "judul": "Pertamina Patra Niaga Siagakan Motorist Pertamina Delivery Service",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc55j6522/pertamina-patra-niaga-siagakan-motorist-pertamina-delivery-service",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:08:39"
+    },
+    {
+      "judul": "Pembangunan Jembatan Rampung, Warga Gayo Lues tak Lagi Terisolasi",
+      "link_berita": "https://news.republika.co.id/berita/tc55hf416/pembangunan-jembatan-rampung-warga-gayo-lues-tak-lagi-terisolasi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:07:39"
+    },
+    {
+      "judul": "Korsel Siap Ekspor 16 Jet Tempur Boramae ke Indonesia",
+      "link_berita": "https://news.republika.co.id/berita/tc55eg484/korsel-siap-ekspor-16-jet-tempur-boramae-ke-indonesia",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 10:06:39"
+    },
+    {
+      "judul": "Aksi Peduli di Malam Hari, BAGI KCP BKR Bandung dan AGP Perkuat Kepedulian Sosial",
+      "link_berita": "https://rejabar.republika.co.id/berita/tc551l456/aksi-peduli-di-malam-hari-bagi-kcp-bkr-bandung-dan-agp-perkuat-kepedulian-sosial",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:58:39"
+    },
+    {
       "judul": "Lebaran, Kesucian, dan Tanggung Jawab Ekologis",
       "link_berita": "https://analisis.republika.co.id/berita/tc3wzc318/lebaran-kesucian-dan-tanggung-jawab-ekologis",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:35:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:45:39"
     },
     {
       "judul": "Kementerian PU Siagakan 24 Jam Infrastruktur dan Layanan untuk Arus Mudik 2026",
       "link_berita": "https://news.republika.co.id/berita/tc4voq451/kementerian-pu-siagakan-24-jam-infrastruktur-dan-layanan-untuk-arus-mudik-2026",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:33:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:45:39"
     },
     {
       "judul": "Bank Mandiri Perkuat Layanan Digital Hadapi Lonjakan Transaksi Lebaran",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc52q0423/bank-mandiri-perkuat-layanan-digital-hadapi-lonjakan-transaksi-lebaran",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:30:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:45:39"
     },
     {
       "judul": "Pimpinan BGN Apresiasi Inovasi Kang DS, Gertaman Siap Pasok MBG",
       "link_berita": "https://rejabar.republika.co.id/berita/tc53js472/pimpinan-bgn-apresiasi-inovasi-kang-ds-gertaman-siap-pasok-mbg",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:25:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:45:39"
     },
     {
       "judul": "Polisi Berlakukan One Way Sepenggal di Jalur Nagreg Hari Ini",
       "link_berita": "https://news.republika.co.id/berita/tc53h7416/polisi-berlakukan-one-way-sepenggal-di-jalur-nagreg-hari-ini",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:24:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:45:39"
     },
     {
       "judul": "Prabowo Terima Kunjungan Megawati yang Didampingi Puan di Istana",
       "link_berita": "https://news.republika.co.id/berita/tc535q484/prabowo-terima-kunjungan-megawati-yang-didampingi-puan-di-istana",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:17:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:45:39"
     },
     {
       "judul": "Menunggu Resolusi OKI Mengecam Serangan AS-Israel",
       "link_berita": "https://analisis.republika.co.id/berita/tc52pj393/menunggu-resolusi-oki-mengecam-serangan-asisrael",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:07:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "Konflik Timur Tengah Picu Kenaikan Harga Energi, Dampaknya Mulai Terasa di RI",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc51l8423/konflik-timur-tengah-picu-kenaikan-harga-energi-dampaknya-mulai-terasa-di-ri",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 09:00:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "RI Perlu Perkuat Diplomasi Minimalkan Dampak EUDR",
       "link_berita": "https://news.republika.co.id/berita/tc51hf484/ri-perlu-perkuat-diplomasi-minimalkan-dampak-eudr",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "Difabel Dapat Akses Mudik Aman Lewat Program Gratis BSI",
       "link_berita": "https://sharia.republika.co.id/berita/tc515m423/difabel-dapat-akses-mudik-aman-lewat-program-gratis-bsi",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "Dampak Konflik Timur Tengah: Pentingnya Diversifikasi Investasi untuk Stabilitas Keuangan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc513f416/dampak-konflik-timur-tengah-pentingnya-diversifikasi-investasi-untuk-stabilitas-keuangan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "Dishub DKI Terapkan Rekayasa Lalu Lintas saat Jakarta Bedug Kolosal Malam Idul Fitri",
       "link_berita": "https://news.republika.co.id/berita/tc4w18451/dishub-dki-terapkan-rekayasa-lalu-lintas-saat-jakarta-bedug-kolosal-malam-idul-fitri",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "Puncak Arus Mudik, Kementerian ESDM dan PLN Cek Operasional SPKLU Layani Pemudik EV",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc50nu472/puncak-arus-mudik-kementerian-esdm-dan-pln-cek-operasional-spklu-layani-pemudik-ev",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 08:45:39"
     },
     {
       "judul": "Penyiraman Air Keras, Koalisi: Adili Pelaku Kasus Andrie ke Peradilan Umum",
       "link_berita": "https://news.republika.co.id/berita/tc50aa318/penyiraman-air-keras-koalisi-adili-pelaku-kasus-andrie-ke-peradilan-umum",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Warga Bisa Titip Kendaraan di Polsek dan Polres Selama Mudik Lebaran",
       "link_berita": "https://ekonomi.republika.co.id/berita/tc4z96423/warga-bisa-titip-kendaraan-di-polsek-dan-polres-selama-mudik-lebaran",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "KBRI Riyadh tak Gelar Sholat Idul Fitri Tahun Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/tc4zxw430/kbri-riyadh-tak-gelar-sholat-idul-fitri-tahun-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "AHY: Mudik Bukan Sekadar Perjalanan Fisik, Tapi Perjalanan Hati Menuju Kampung Halaman",
       "link_berita": "https://news.republika.co.id/berita/tc4u6d451/ahy-mudik-bukan-sekadar-perjalanan-fisik-tapi-perjalanan-hati-menuju-kampung-halaman",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Puncak Arus Mudik Nagreg Diprediksi Terjadi Malam Ini",
       "link_berita": "https://news.republika.co.id/berita/tc4zis416/puncak-arus-mudik-nagreg-diprediksi-terjadi-malam-ini",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Pemilik Djarum Michael Bambang Hartono Meninggal di Singapura",
       "link_berita": "https://news.republika.co.id/berita/tc4zaa484/pemilik-djarum-michael-bambang-hartono-meninggal-di-singapura",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Di Balik Investasi 65 Miliar Dolar AS, Industri Nikel Indonesia Hadapi Sorotan Lingkungan",
       "link_berita": "https://esgnow.republika.co.id/berita/tc4yv8423/di-balik-investasi-65-miliar-dolar-as-industri-nikel-indonesia-hadapi-sorotan-lingkungan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Kementerian HAM Minta TNI-Polri tidak Buat Bingung Publik Soal Pengusutan Penyiraman Andrie Yunus",
       "link_berita": "https://news.republika.co.id/berita/tc4yru348/kementerian-ham-minta-tnipolri-tidak-buat-bingung-publik-soal-pengusutan-penyiraman-andrie-yunus",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Hadapi Peak Season Libur Lebaran, InJourney Kedepankan Customer Experience",
       "link_berita": "https://news.republika.co.id/berita/tc40eb318/hadapi-peak-season-libur-lebaran-injourney-kedepankan-customer-experience",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Stadion GBK dan Madya Siap Sambut FIFA Series 2026, Indonesia Pastikan Jadi Tuan Rumah yang Baik",
       "link_berita": "https://news.republika.co.id/berita/tc4yh1348/stadion-gbk-dan-madya-siap-sambut-fifa-series-2026-indonesia-pastikan-jadi-tuan-rumah-yang-baik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Pengamanan Mudik Lebaran Diperkuat hingga Sholat Id, Ini Strategi Polri",
       "link_berita": "https://khazanah.republika.co.id/berita/tc4y6g423/pengamanan-mudik-lebaran-diperkuat-hingga-sholat-id-ini-strategi-polri",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Azerbaijan Kirim 82 Ton Bantuan Kemanusiaan ke Iran",
       "link_berita": "https://news.republika.co.id/berita/tc4xvw348/azerbaijan-kirim-82-ton-bantuan-kemanusiaan-ke-iran",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Thai Tourism Jajaki Promosi di Jersey West Ham United",
       "link_berita": "https://news.republika.co.id/berita/tc4xu5475/thai-tourism-jajaki-promosi-di-jersey-west-ham-united",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Kamis, Warga Jember dan Situbondo di Jatim Sudah Sholat Id",
       "link_berita": "https://khazanah.republika.co.id/berita/tc4xmu484/kamis-warga-jember-dan-situbondo-di-jatim-sudah-sholat-id",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 07:45:39"
     },
     {
       "judul": "Jalur Nagreg Padat pada Kamis Siang, Sempat Diurai dengan One Way",
       "link_berita": "https://rejabar.republika.co.id/berita/tc4x15348/jalur-nagreg-padat-pada-kamis-siang-sempat-diurai-dengan-one-way",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "PUI: Idul Fitri Momentum Penting Rekonsiliasi Bangsa",
       "link_berita": "https://rejabar.republika.co.id/berita/tc4wez282/pui-idul-fitri-momentum-penting-rekonsiliasi-bangsa",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Rahasia Mudik Lancar Tanpa Penumpukan di Pelabuhan",
       "link_berita": "https://republika.co.id/page/shorts/yt-tc4ws81133764304/rahasia-mudik-lancar-tanpa-penumpukan-di-pelabuhan",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Siapa Firaun yang Mengejar Nabi Musa",
       "link_berita": "https://republika.co.id/page/shorts/yt-tc4ws6495000360/siapa-firaun-yang-mengejar-nabi-musa",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Pemerintah Beri Bonus Atlet ASEAN Para Games 2026",
       "link_berita": "https://republika.co.id/page/shorts/yt-tc4ws51612777834/pemerintah-beri-bonus-atlet-asean-para-games-2026",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Global Sumud Flotilla akan Berlayar Lagi Menembus Gaza",
       "link_berita": "https://republika.co.id/page/shorts/yt-tc4ws21967514582/global-sumud-flotilla-akan-berlayar-lagi-menembus-gaza",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Strategi Mitigasi Iklim yang Keliru Bisa Ancam Jutaan Nyawa di Negara Berkembang",
       "link_berita": "https://esgnow.republika.co.id/berita/tc4ur4416/strategi-mitigasi-iklim-yang-keliru-bisa-ancam-jutaan-nyawa-di-negara-berkembang",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Selang Air Maswar dan Cara Sederhana Menjemput Idul Fitri",
       "link_berita": "https://news.republika.co.id/berita/tc4twz451/selang-air-maswar-dan-cara-sederhana-menjemput-idul-fitri",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Menkeu Purbaya Blusukan ke Teras Malioboro & Pasar Beringharjo, Borong Batik Rp10 Juta tak Ditawar",
       "link_berita": "https://rejogja.republika.co.id/berita/tc4wa4282/menkeu-purbaya-blusukan-ke-teras-malioboro-pasar-beringharjo-borong-batik-rp10-juta-tak-ditawar",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "53 Ruas Jalan Sleman Telah Ditangani, Siap Digunakan untuk Jalur Mudik",
       "link_berita": "https://rejogja.republika.co.id/berita/tc4vwn282/53-ruas-jalan-sleman-telah-ditangani-siap-digunakan-untuk-jalur-mudik",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Prediksi Menegangkan Sidang Isbat Tahun Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/tc4vdz451/prediksi-menegangkan-sidang-isbat-tahun-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 06:45:39"
     },
     {
       "judul": "Penyeberangan Ketapang\u2013Gilimanuk Ditutup Sementara Saat Nyepi",
       "link_berita": "https://news.republika.co.id/berita/tc4u33348/penyeberangan-ketapanggilimanuk-ditutup-sementara-saat-nyepi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:45:39"
     },
     {
       "judul": "Ribuan Muslim di Nagan Raya Aceh Rayakan Idul Fitri Kamis Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/tc4u1o483/ribuan-muslim-di-nagan-raya-aceh-rayakan-idul-fitri-kamis-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:45:39"
     },
     {
       "judul": "Meski Gugur di Liga Champions, Kemenangan Atas Atletico Jadi Modal Tottenham Bangkit di Liga Inggris",
       "link_berita": "https://news.republika.co.id/berita/tc4tx3348/meski-gugur-di-liga-champions-kemenangan-atas-atletico-jadi-modal-tottenham-bangkit-di-liga-inggris",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
-    },
-    {
-      "judul": "KAI Daop 1 Jakarta Catat 480 Ribu Tiket Mudik Terjual, Tanggal Favorit Hampir Habis",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc4tjq451/kai-daop-1-jakarta-catat-480-ribu-tiket-mudik-terjual-tanggal-favorit-hampir-habis",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
-    },
-    {
-      "judul": "Lebih dari 100 Ribu Pemudik Ikuti Program Mudik Gratis BUMN 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc4t8r370/lebih-dari-100-ribu-pemudik-ikuti-program-mudik-gratis-bumn-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
-    },
-    {
-      "judul": "Lebaran dan Permintaan Fleet Dorong Penjualan Suzuki Naik 64 Persen pada Februari 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc4t23348/lebaran-dan-permintaan-fleet-dorong-penjualan-suzuki-naik-64-persen-pada-februari-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
-    },
-    {
-      "judul": "Bulog Salurkan Bantuan Pangan ke 1,26 Juta Warga Lampung Jelang Lebaran 2026",
-      "link_berita": "https://news.republika.co.id/berita/tc4spb451/bulog-salurkan-bantuan-pangan-ke-126-juta-warga-lampung-jelang-lebaran-2026",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:50:57"
-    },
-    {
-      "judul": "Hilal tak Tampak, Qatar Tetapkan Idul Fitri 20 Maret 2026",
-      "link_berita": "https://khazanah.republika.co.id/berita/tc4rsf366/hilal-tak-tampak-qatar-tetapkan-idul-fitri-20-maret-2026",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 04:50:57"
-    },
-    {
-      "judul": "Ketika Amanah Kekuasaan Dikhianati",
-      "link_berita": "https://analisis.republika.co.id/berita/tc4m7v393/ketika-amanah-kekuasaan-dikhianati",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 04:50:57"
-    },
-    {
-      "judul": "Harry Kane: Bayern tak Takut Siapa Pun, Siap Hadapi Real Madrid di Perempat Final Liga Champions",
-      "link_berita": "https://news.republika.co.id/berita/tc4rh6348/harry-kane-bayern-tak-takut-siapa-pun-siap-hadapi-real-madrid-di-perempat-final-liga-champions",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 04:50:57"
-    },
-    {
-      "judul": "Donasi Energi Bersih IWIP Dorong Ekonomi Pulau Terpencil",
-      "link_berita": "https://esgnow.republika.co.id/berita/tc4r4t370/donasi-energi-bersih-iwip-dorong-ekonomi-pulau-terpencil",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 04:50:57"
-    },
-    {
-      "judul": "Mungkinkah Negara Teluk Gabung Israel Menyerang Iran?",
-      "link_berita": "https://news.republika.co.id/berita/tc4pvh393/mungkinkah-negara-teluk-gabung-israel-menyerang-iran",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 04:50:57"
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 05:45:39"
     },
     {
       "judul": "Bukan Livestream Biasa, Intip Inovasi Mobile Ramadhan dari Coocaa",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 19 Mar 2026, 14:45:00"
     },
     {
-      "judul": "Bank Mandiri Perkuat Layanan Digital Hadapi Lonjakan Transaksi Lebaran",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tc52q0423/bank-mandiri-perkuat-layanan-digital-hadapi-lonjakan-transaksi-lebaran",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 16:31:00"
+      "judul": "Puncak Arus Mudik Nagreg Hari Ini, 98 Ribu Kendaraan Sudah Melintas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tc55s6423/puncak-arus-mudik-nagreg-hari-ini-98-ribu-kendaraan-sudah-melintas",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 17:14:00"
     },
     {
       "judul": "Difabel Dapat Akses Mudik Aman Lewat Program Gratis BSI",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 19 Mar 2026, 15:34:00"
     },
     {
-      "judul": "Lebaran, Kesucian, dan Tanggung Jawab Ekologis",
-      "link_berita": "https://analisis.republika.co.id/berita/tc3wzc318/lebaran-kesucian-dan-tanggung-jawab-ekologis",
-      "kategori": "Wacana",
-      "tanggal_terbit": "Thursday, 19 Mar 2026, 16:36:00"
+      "judul": "Wagub Rano Si Doel: Tradisi Andilan Kebo Perkuat Gotong Royong Warga Betawi",
+      "link_berita": "https://news.republika.co.id/berita/tc4w7o451/wagub-rano-si-doel-tradisi-andilan-kebo-perkuat-gotong-royong-warga-betawi",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 19 Mar 2026, 17:45:00"
     }
   ],
-  "waktu_scraping": "Thursday, 19 Mar 2026, 16:50:57"
+  "waktu_scraping": "Thursday, 19 Mar 2026, 17:45:39"
 }
