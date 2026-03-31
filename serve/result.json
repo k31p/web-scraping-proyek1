@@ -1,8 +1,16 @@
 {
   "berita_headline": [
     {
+      "judul": "Iran: Kapal Tanker Malaysia Gratis Bayar Tol Selat Hormuz",
+      "link_berita": "https://news.republika.co.id/berita/tcrgcb409/iran-kapal-tanker-malaysia-gratis-bayar-tol-selat-hormuz"
+    },
+    {
       "judul": "Pemerintah Tahan Kenaikan Harga BBM, Ini Dampaknya untuk APBN",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrcvh490/pemerintah-tahan-kenaikan-harga-bbm-ini-dampaknya-untuk-apbn"
+    },
+    {
+      "judul": "PM Spanyol Jadi Kepala Negara Pertama Kutuk Pembunuhan TNI di Lebanon",
+      "link_berita": "https://news.republika.co.id/berita/tcrbub393/pm-spanyol-jadi-kepala-negara-pertama-kutuk-pembunuhan-tni-di-lebanon"
     },
     {
       "judul": "Harga Plastik Meroket, Pelaku Industri Buka Suara",
@@ -11,17 +19,13 @@
     {
       "judul": "Istana Pastikan Harga BBM Subsidi dan Nonsubsidi tidak Naik",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcr6vn490/istana-pastikan-harga-bbm-subsidi-dan-nonsubsidi-tidak-naik"
-    },
-    {
-      "judul": "Tiga TNI Gugur, Ketua PBNU: Keluar dari BoP Pilihan Terbaik",
-      "link_berita": "https://khazanah.republika.co.id/berita/tcr65x393/tiga-tni-gugur-ketua-pbnu-keluar-dari-bop-pilihan-terbaik"
-    },
-    {
-      "judul": "Trump Dilaporkan Menimbang Segera Akhiri Perang tanpa Operasi Membuka Selat Hormuz",
-      "link_berita": "https://news.republika.co.id/berita/tcr5ur409/trump-dilaporkan-menimbang-segera-akhiri-perang-tanpa-operasi-membuka-selat-hormuz"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Tentara Zionis Bertumbangan di Tangan Pejuang Hizbullah, Israel Babak Belur? Ini Kata Pakar Militer",
+      "link_berita": "https://khazanah.republika.co.id/berita/tcrhmw320/tentara-zionis-bertumbangan-di-tangan-pejuang-hizbullah-israel-babak-belur-ini-kata-pakar-militer"
+    },
     {
       "judul": "Identitas Para Prajurit TNI Anggota UNIFIL yang Gugur di Lebanon",
       "link_berita": "https://news.republika.co.id/berita/tcrd78409/identitas-para-prajurit-tni-anggota-unifil-yang-gugur-di-lebanon"
@@ -77,312 +81,308 @@
     {
       "judul": "Mayoritas Warga Yahudi Amerika Tolak Perang AS di Iran",
       "link_berita": "https://khazanah.republika.co.id/berita/tcqhmz483/mayoritas-warga-yahudi-amerika-tolak-perang-as-di-iran"
-    },
-    {
-      "judul": "Justin Hubner Optimistis Era John Herdman Bawa Prestasi Timnas Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/tcqeea4130000/justin-hubner-optimistis-era-john-herdman-bawa-prestasi-timnas-indonesia"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Ketua MPR Usul Pemerintah Tarik Pasukan Perdamaian TNI dari Lebanon",
+      "link_berita": "https://news.republika.co.id/berita/tcri5c484/ketua-mpr-usul-pemerintah-tarik-pasukan-perdamaian-tni-dari-lebanon",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:48:47"
+    },
+    {
+      "judul": "BCA Buka Program Genera-Z Berbakti 2026, Mahasiswa Diajak Kembangkan Desa Wisata",
+      "link_berita": "https://news.republika.co.id/berita/tcrhxv349/bca-buka-program-generaz-berbakti-2026-mahasiswa-diajak-kembangkan-desa-wisata",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:44:47"
+    },
+    {
+      "judul": "Viral Perempuan Bikin Gaduh di Restoran Kawasan Wisata Lembang, Begini Klarifikasi Pemiliknya",
+      "link_berita": "https://rejabar.republika.co.id/berita/tcrhtz282/viral-perempuan-bikin-gaduh-di-restoran-kawasan-wisata-lembang-begini-klarifikasi-pemiliknya",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:41:47"
+    },
+    {
+      "judul": "Tentara Zionis Bertumbangan di Tangan Pejuang Hizbullah, Israel Babak Belur? Ini Kata Pakar Militer",
+      "link_berita": "https://khazanah.republika.co.id/berita/tcrhmw320/tentara-zionis-bertumbangan-di-tangan-pejuang-hizbullah-israel-babak-belur-ini-kata-pakar-militer",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:37:47"
+    },
+    {
+      "judul": "Tatanan Amerika di Persimpangan",
+      "link_berita": "https://analisis.republika.co.id/berita/tcrhmb393/tatanan-amerika-di-persimpangan",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:37:47"
+    },
+    {
+      "judul": "Kemenhut Gandeng Jepang Kembangkan Ekonomi Karbon dan Mangrove",
+      "link_berita": "https://esgnow.republika.co.id/berita/tcrhgq416/kemenhut-gandeng-jepang-kembangkan-ekonomi-karbon-dan-mangrove",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:35:47"
+    },
+    {
+      "judul": "Gattuso Waspadai Bosnia yang Dilatih Pemain Poker dan Penyerang Gaek Edin Dzeko",
+      "link_berita": "https://news.republika.co.id/berita/tcrh7b348/gattuso-waspadai-bosnia-yang-dilatih-pemain-poker-dan-penyerang-gaek-edin-dzeko",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:28:47"
+    },
+    {
+      "judul": "Kabar Baik bagi Pengendara, Pemerintah Pastikan Harga BBM Tidak Naik",
+      "link_berita": "https://visual.republika.co.id/berita/tcrgo3375/kabar-baik-bagi-pengendara-pemerintah-pastikan-harga-bbm-tidak-naik",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:16:47"
+    },
+    {
+      "judul": "Ini Kata Kejaksaan Soal Kasus Amsal Sitepu yang Tak Sesuai RAB",
+      "link_berita": "https://republika.co.id/page/shorts/yt-tcrgl11653040673/ini-kata-kejaksaan-soal-kasus-amsal-sitepu-yang-tak-sesuai-rab",
+      "kategori": "Video",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:14:47"
+    },
+    {
+      "judul": "Iran: Kapal Tanker Malaysia Gratis Bayar Tol Selat Hormuz",
+      "link_berita": "https://news.republika.co.id/berita/tcrgcb409/iran-kapal-tanker-malaysia-gratis-bayar-tol-selat-hormuz",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:09:47"
+    },
+    {
+      "judul": "Audi Indonesia Hadirkan Sedan Sport Kompak New Audi S3 di Pasar Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tcrgau348/audi-indonesia-hadirkan-sedan-sport-kompak-new-audi-s3-di-pasar-nasional",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:08:47"
+    },
+    {
+      "judul": "KDM: 90 Persen Masalah di Kebun Binatang Bandung Terselesaikan",
+      "link_berita": "https://rejabar.republika.co.id/berita/tcrga2282/kdm-90-persen-masalah-di-kebun-binatang-bandung-terselesaikan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 11:08:47"
+    },
+    {
       "judul": "Adidaya Institute Dorong MBG Jadi Platform Ekonomi Pangan Terintegrasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrf87416/adidaya-institute-dorong-mbg-jadi-platform-ekonomi-pangan-terintegrasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:47:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:54:47"
     },
     {
       "judul": "Prajurit TNI Gugur di Lebanon, DPR Desak Evaluasi Total Penugasan Tentara dalam Misi Perdamaian",
       "link_berita": "https://news.republika.co.id/berita/tcrf3y348/prajurit-tni-gugur-di-lebanon-dpr-desak-evaluasi-total-penugasan-tentara-dalam-misi-perdamaian",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:43:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:54:47"
     },
     {
       "judul": "Dukung UMKM Naik Kelas, HMNS to Humans dan Rumah Zakat Salurkan 72 Paket Keluarga Berdaya",
       "link_berita": "https://khazanah.republika.co.id/berita/tcrf2a472/dukung-umkm-naik-kelas-hmns-to-humans-dan-rumah-zakat-salurkan-72-paket-keluarga-berdaya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:42:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:54:47"
     },
     {
       "judul": "Siap-Siap Merapat, Call for Proposal untuk Mahasiswa Kembangkan Desa Wisata Dibuka",
       "link_berita": "https://news.republika.co.id/berita/tcrezj483/siapsiap-merapat-call-for-proposal-untuk-mahasiswa-kembangkan-desa-wisata-dibuka",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:40:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:54:47"
     },
     {
       "judul": "Bos Agrinas Pangan Ungkap Strategi Impor Pikap Kopdes Merah Putih, Ini Asal Negaranya",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrebi490/bos-agrinas-pangan-ungkap-strategi-impor-pikap-kopdes-merah-putih-ini-asal-negaranya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:26:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:54:47"
     },
     {
       "judul": "Komisi VI DPR RI Apresiasi Kinerja ANTAM, Dorong Penguatan Tata Kelola Emas",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrdu5522/komisi-vi-dpr-ri-apresiasi-kinerja-antam-dorong-penguatan-tata-kelola-emas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:16:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Pemandangan Indah Pelangi Menghiasi Masjid AlAqsa",
       "link_berita": "https://republika.co.id/page/shorts/yt-tcrdt11147339487/pemandangan-indah-pelangi-menghiasi-masjid-alaqsa",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:15:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Penuhi Permintaan Logam Mulia, ANTAM Jalankan Berbagai Strategi",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrdpx522/penuhi-permintaan-logam-mulia-antam-jalankan-berbagai-strategi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:13:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Dasco: Tak Perlu Panik, Harga BBM Tidak Naik",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrdbw416/dasco-tak-perlu-panik-harga-bbm-tidak-naik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:05:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Identitas Para Prajurit TNI Anggota UNIFIL yang Gugur di Lebanon",
       "link_berita": "https://news.republika.co.id/berita/tcrd78409/identitas-para-prajurit-tni-anggota-unifil-yang-gugur-di-lebanon",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 10:02:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Pemerintah Tahan Kenaikan Harga BBM, Ini Dampaknya untuk APBN",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrcvh490/pemerintah-tahan-kenaikan-harga-bbm-ini-dampaknya-untuk-apbn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Harga Minyak Dunia Melonjak, Kenaikan BBM Non-Subsidi Dinilai Tak Terhindarkan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrcrp522/harga-minyak-dunia-melonjak-kenaikan-bbm-nonsubsidi-dinilai-tak-terhindarkan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Tiga Prajurit TNI Gugur di Lebanon, MUI Minta Pemerintah RI Keluar dari BoP",
       "link_berita": "https://khazanah.republika.co.id/berita/tcrcq6409/tiga-prajurit-tni-gugur-di-lebanon-mui-minta-pemerintah-ri-keluar-dari-bop",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Umat Diminta Sholat Ghaib untuk Prajurit TNI yang Gugur Diserang Israel, MUI: Semoga Syahid",
       "link_berita": "https://khazanah.republika.co.id/berita/tcrchd483/umat-diminta-sholat-ghaib-untuk-prajurit-tni-yang-gugur-diserang-israel-mui-semoga-syahid",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "AI Kini Bisa Membantu Temukan Lokasi Usaha yang Menguntungkan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrcc8416/ai-kini-bisa-membantu-temukan-lokasi-usaha-yang-menguntungkan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Harga Kedelai Tembus Rp 10.600 Per Kilogram, Pengrajin Tahu di Bandung Naikan Harga",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrbww423/harga-kedelai-tembus-rp-10600-per-kilogram-pengrajin-tahu-di-bandung-naikan-harga",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "BNPP Fokuskan Anggaran 2026 untuk Dua Program Utama",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrbxi416/bnpp-fokuskan-anggaran-2026-untuk-dua-program-utama",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Ratusan Pengguna Ikuti Blind Box Ramadan Lemomo, Hadiah Motor Jadi Daya Tarik",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrbyc472/ratusan-pengguna-ikuti-blind-box-ramadan-lemomo-hadiah-motor-jadi-daya-tarik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "PM Spanyol Jadi Kepala Negara Pertama Kutuk Pembunuhan TNI di Lebanon",
       "link_berita": "https://news.republika.co.id/berita/tcrbub393/pm-spanyol-jadi-kepala-negara-pertama-kutuk-pembunuhan-tni-di-lebanon",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Ringkasan Laporan Penyelenggaraan Pemerintahan Daerah Provinsi Jawa Barat Tahun Anggaran 2025",
       "link_berita": "https://republika.co.id/berita//tcrbjm325/ringkasan-laporan-penyelenggaraan-pemerintahan-daerah-provinsi-jawa-barat-tahun-anggaran-2025",
       "kategori": "Native",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Bukan Sekadar Larangan, Ini Alasan Negara Membatasi Medsos Anak di Bawah 16 Tahun",
       "link_berita": "https://news.republika.co.id/berita/tcr8ym451/bukan-sekadar-larangan-ini-alasan-negara-membatasi-medsos-anak-di-bawah-16-tahun",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 09:54:47"
     },
     {
       "judul": "Hal yang Perlu Diketahui dari Trailer Serial 'Harry Potter'",
       "link_berita": "https://ameera.republika.co.id/berita/tcrbcg425/hal-yang-perlu-diketahui-dari-trailer-serial-harry-potter",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Indonesia tak Lagi Impor Solar, Zulhas: Berkat Hilirisasi Sawit",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrb9s416/indonesia-tak-lagi-impor-solar-zulhas-berkat-hilirisasi-sawit",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Kehadiran Seskab di Bazar Simbol Keseriusan Pemerintah Layani Masyarakat",
       "link_berita": "https://news.republika.co.id/berita/tcrb8u472/kehadiran-seskab-di-bazar-simbol-keseriusan-pemerintah-layani-masyarakat",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Gejala Awal Campak Kerap tak Disadari",
       "link_berita": "https://ameera.republika.co.id/berita/tcrb7c328/gejala-awal-campak-kerap-tak-disadari",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Prajurit TNI Gugur Menlu Kecam Serangan Israel",
       "link_berita": "https://republika.co.id/page/shorts/yt-tcrb111727953398/prajurit-tni-gugur-menlu-kecam-serangan-israel",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Isu Kenaikan Harga dan Pembatasan BBM, Kementerian ESDM: Mohon Bersabar",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcra5v423/isu-kenaikan-harga-dan-pembatasan-bbm-kementerian-esdm-mohon-bersabar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Harga Plastik Meroket, Pelaku Industri Buka Suara",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcrakr490/harga-plastik-meroket-pelaku-industri-buka-suara",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "PAPDI Tegaskan Campak Bukan Penyakit Baru",
       "link_berita": "https://ameera.republika.co.id/berita/tcrad0328/papdi-tegaskan-campak-bukan-penyakit-baru",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "BPH Migas Respons Beredarnya SK Pembatasan Pembelian Solar dan Pertalite",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcr98x423/bph-migas-respons-beredarnya-sk-pembatasan-pembelian-solar-dan-pertalite",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Arus Balik Lebaran 2026, KAI Catat Penumpang Hampir Tembus 5 Juta",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcr95e490/arus-balik-lebaran-2026-kai-catat-penumpang-hampir-tembus-5-juta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Laba Bank Muamalat Naik 47,5 Persen, Pembiayaan Ritel Kian Diminati",
       "link_berita": "https://sharia.republika.co.id/berita/tcr8q6423/laba-bank-muamalat-naik-475-persen-pembiayaan-ritel-kian-diminati",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 08:54:47"
     },
     {
       "judul": "Kejagung Diminta Tarik Jaksa Kasus Amsal Sitepu",
       "link_berita": "https://republika.co.id/page/shorts/yt-tcr8911149563084/kejagung-diminta-tarik-jaksa-kasus-amsal-sitepu",
       "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:54:47"
     },
     {
       "judul": "Geopolitik dalam Kata: Bagaimana Dunia Menggambarkan Ancaman Selat Hormuz",
       "link_berita": "https://news.republika.co.id/berita/tcr7ll451/geopolitik-dalam-kata-bagaimana-dunia-menggambarkan-ancaman-selat-hormuz",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:54:47"
     },
     {
       "judul": "Wamensos Tekankan Tiga Aspek Penting untuk Pemberian Gelar Pahlawan Nasional Sultan HB II",
       "link_berita": "https://rejogja.republika.co.id/berita/tcr279291/wamensos-tekankan-tiga-aspek-penting-untuk-pemberian-gelar-pahlawan-nasional-sultan-hb-ii",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:54:47"
     },
     {
       "judul": "Muhammadiyah Berduka atas Gugurnya Prajurit TNI di Lebanon, Kutuk Serangan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/tcr7ad458/muhammadiyah-berduka-atas-gugurnya-prajurit-tni-di-lebanon-kutuk-serangan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:54:47"
     },
     {
       "judul": "Tuntut Hak-Hak yang Belum Dipenuhi, Pekerja Evergreen Gelar Aksi di Depan Perusahaan",
       "link_berita": "https://rejogja.republika.co.id/berita/tcr792291/tuntut-hakhak-yang-belum-dipenuhi-pekerja-evergreen-gelar-aksi-di-depan-perusahaan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:54:47"
     },
     {
       "judul": "Istana Pastikan Harga BBM Subsidi dan Nonsubsidi tidak Naik",
       "link_berita": "https://ekonomi.republika.co.id/berita/tcr6vn490/istana-pastikan-harga-bbm-subsidi-dan-nonsubsidi-tidak-naik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "TNI Gugur di Lebanon, PP Persis: Insya Allah Syahid dalam Misi Perdamaian",
-      "link_berita": "https://khazanah.republika.co.id/berita/tcr6tn366/tni-gugur-di-lebanon-pp-persis-insya-allah-syahid-dalam-misi-perdamaian",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Kasus Penyiraman Air Keras Andrie Yunus Dilimpahkan Sepenuhnya ke TNI",
-      "link_berita": "https://news.republika.co.id/berita/tcr6ma393/kasus-penyiraman-air-keras-andrie-yunus-dilimpahkan-sepenuhnya-ke-tni",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "DPRD Kota Bandung Kawal Kelengkapan Administrasi Cagar Budaya Cikadut",
-      "link_berita": "https://rejabar.republika.co.id/berita/tcr6h1368/dprd-kota-bandung-kawal-kelengkapan-administrasi-cagar-budaya-cikadut",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Lima Kapal Wisata Asing Disegel di Teluk Jakarta, Diduga Disewakan Secara Ilegal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tcr68h416/lima-kapal-wisata-asing-disegel-di-teluk-jakarta-diduga-disewakan-secara-ilegal",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Tiga TNI Gugur, Ketua PBNU: Keluar dari BoP Pilihan Terbaik",
-      "link_berita": "https://khazanah.republika.co.id/berita/tcr65x393/tiga-tni-gugur-ketua-pbnu-keluar-dari-bop-pilihan-terbaik",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Di Tengah Dinamika Global, Pertamina Patra Niaga Andalkan Armada Logistik Laut",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tcr65n368/di-tengah-dinamika-global-pertamina-patra-niaga-andalkan-armada-logistik-laut",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Menkop Jelaskan Nasib Impor Truk dan Pikap dari India untuk Kopdes Merah Putih",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tcr64q490/menkop-jelaskan-nasib-impor-truk-dan-pikap-dari-india-untuk-kopdes-merah-putih",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Perang Iran, Siapa Bertahan, Siapa Menyerah? Ini Penjelasan Editorial Dunia",
-      "link_berita": "https://news.republika.co.id/berita/tcr63p451/perang-iran-siapa-bertahan-siapa-menyerah-ini-penjelasan-editorial-dunia",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "Ketua DPRD Jateng Dukung ASN Lari dan Bersepeda ke Kantor: Bagus untuk Kesehatan",
-      "link_berita": "https://rejogja.republika.co.id/berita/tcr61z282/ketua-dprd-jateng-dukung-asn-lari-dan-bersepeda-ke-kantor-bagus-untuk-kesehatan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:57:01"
-    },
-    {
-      "judul": "IMF: Perang Timur Tengah Dorong Inflasi Global dan Perlambat Ekonomi Dunia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tcr60v370/imf-perang-timur-tengah-dorong-inflasi-global-dan-perlambat-ekonomi-dunia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 06:57:01"
-    },
-    {
-      "judul": "Trump Dilaporkan Menimbang Segera Akhiri Perang tanpa Operasi Membuka Selat Hormuz",
-      "link_berita": "https://news.republika.co.id/berita/tcr5ur409/trump-dilaporkan-menimbang-segera-akhiri-perang-tanpa-operasi-membuka-selat-hormuz",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 06:57:01"
-    },
-    {
-      "judul": "Masjid Al Aqsa Ditutup, Yordania Sebut Pelanggaran Kebebasan Beragama",
-      "link_berita": "https://khazanah.republika.co.id/berita/tcr5mf366/masjid-al-aqsa-ditutup-yordania-sebut-pelanggaran-kebebasan-beragama",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 06:57:01"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 07:54:47"
     },
     {
       "judul": "Hal yang Perlu Diketahui dari Trailer Serial 'Harry Potter'",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Tuesday, 31 Mar 2026, 16:21:00"
     },
     {
-      "judul": "Menteri LH Targetkan Kepala Daerah Selesaikan Masalah Sampah pada 2029",
-      "link_berita": "https://esgnow.republika.co.id/berita/tcpldu416/menteri-lh-targetkan-kepala-daerah-selesaikan-masalah-sampah-pada-2029",
+      "judul": "Kemenhut Gandeng Jepang Kembangkan Ekonomi Karbon dan Mangrove",
+      "link_berita": "https://esgnow.republika.co.id/berita/tcrhgq416/kemenhut-gandeng-jepang-kembangkan-ekonomi-karbon-dan-mangrove",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Monday, 30 Mar 2026, 18:40:00"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 18:36:00"
     },
     {
-      "judul": "Adidaya Institute Dorong MBG Jadi Platform Ekonomi Pangan Terintegrasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tcrf87416/adidaya-institute-dorong-mbg-jadi-platform-ekonomi-pangan-terintegrasi",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 17:46:00"
+      "judul": "Audi Indonesia Hadirkan Sedan Sport Kompak New Audi S3 di Pasar Nasional",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tcrgau348/audi-indonesia-hadirkan-sedan-sport-kompak-new-audi-s3-di-pasar-nasional",
+      "kategori": "Otomotif",
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 18:08:00"
     },
     {
       "judul": "Laba Bank Muamalat Naik 47,5 Persen, Pembiayaan Ritel Kian Diminati",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 31 Mar 2026, 15:25:00"
     },
     {
-      "judul": "Prajurit TNI Gugur di Lebanon, DPR Desak Evaluasi Total Penugasan Tentara dalam Misi Perdamaian",
-      "link_berita": "https://news.republika.co.id/berita/tcrf3y348/prajurit-tni-gugur-di-lebanon-dpr-desak-evaluasi-total-penugasan-tentara-dalam-misi-perdamaian",
+      "judul": "Ketua MPR Usul Pemerintah Tarik Pasukan Perdamaian TNI dari Lebanon",
+      "link_berita": "https://news.republika.co.id/berita/tcri5c484/ketua-mpr-usul-pemerintah-tarik-pasukan-perdamaian-tni-dari-lebanon",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 31 Mar 2026, 17:43:00"
+      "tanggal_terbit": "Tuesday, 31 Mar 2026, 18:48:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 31 Mar 2026, 17:57:01"
+  "waktu_scraping": "Tuesday, 31 Mar 2026, 18:54:47"
 }
