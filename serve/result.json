@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "KH Ma\u2019ruf Amin: Hijrah Finansial Bukan Sekadar Tren tapi Keharusan",
+      "link_berita": "https://sharia.republika.co.id/berita/td9vs6490/kh-maruf-amin-hijrah-finansial-bukan-sekadar-tren-tapi-keharusan"
+    },
+    {
+      "judul": "Komisi VIII Pertanyakan Wacana War Ticket Haji, Pemburunya Nanti Orang-Orang Kaya",
+      "link_berita": "https://khazanah.republika.co.id/berita/td9u4l483/komisi-viii-pertanyakan-wacana-war-ticket-haji-pemburunya-nanti-orangorang-kaya"
+    },
+    {
       "judul": "RSHS Nonaktifkan dan SP1 Perawat Imbas Kasus Bayi Hampir Tertukar",
       "link_berita": "https://rejabar.republika.co.id/berita/td9pxh487/rshs-nonaktifkan-dan-sp1-perawat-imbas-kasus-bayi-hampir-tertukar"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Dari Hormuz Sampai Cimahi, Perang Bikin Susah Pedagang Bubur Kacang Ijo",
       "link_berita": "https://rejabar.republika.co.id/berita/td9mqm393/dari-hormuz-sampai-cimahi-perang-bikin-susah-pedagang-bubur-kacang-ijo"
-    },
-    {
-      "judul": "5 Pertanyaan tentang Fakta Mengejutkan di Balik Strategi Iran Jebak Amerika",
-      "link_berita": "https://news.republika.co.id/berita/td9kuk451/5-pertanyaan-tentang-fakta-mengejutkan-di-balik-strategi-iran-jebak-amerika"
-    },
-    {
-      "judul": "Menhan Pakistan: Israel adalah Penjahat dan Kutukan Bagi Kemanusiaan",
-      "link_berita": "https://news.republika.co.id/berita/td9hfj409/menhan-pakistan-israel-adalah-penjahat-dan-kutukan-bagi-kemanusiaan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pegawai Kemenag WFH Setiap Jumat, Bisakah Warga Mengurus Buku Nikah?",
+      "link_berita": "https://khazanah.republika.co.id/berita/td9wmp483/pegawai-kemenag-wfh-setiap-jumat-bisakah-warga-mengurus-buku-nikah"
+    },
+    {
+      "judul": "Kantor Media Gaza Bantah Klaim BoP yang Sebut 602 Truk Bantuan Masuk",
+      "link_berita": "https://news.republika.co.id/berita/td9u9k409/kantor-media-gaza-bantah-klaim-bop-yang-sebut-602-truk-bantuan-masuk"
+    },
     {
       "judul": "Ini yang Harus Disiapkan Calon Jamaah Haji dengan Penyakit Penyerta",
       "link_berita": "https://khazanah.republika.co.id/berita/td9qvj366/ini-yang-harus-disiapkan-calon-jamaah-haji-dengan-penyakit-penyerta"
@@ -73,347 +81,339 @@
     {
       "judul": "Arab Saudi Luncurkan Diskon untuk Jamaah Haji Lewat Kartu Nusuk",
       "link_berita": "https://khazanah.republika.co.id/berita/td8cdz366/arab-saudi-luncurkan-diskon-untuk-jamaah-haji-lewat-kartu-nusuk"
-    },
-    {
-      "judul": "BPOM Sita Gas N2O Ilegal yang Dijual Online",
-      "link_berita": "https://visual.republika.co.id/berita/td89we375/bpom-sita-gas-n2o-ilegal-yang-dijual-online"
-    },
-    {
-      "judul": "Meniru Zuhudnya Rasulullah",
-      "link_berita": "https://khazanah.republika.co.id/berita/td87lz458/meniru-zuhudnya-rasulullah"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Rekayasa Tindak Lanjut Laporan Warga di JAKI, Petugas Dishub Disanksi",
+      "link_berita": "https://news.republika.co.id/berita/td9ydf409/rekayasa-tindak-lanjut-laporan-warga-di-jaki-petugas-dishub-disanksi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:55:47"
+    },
+    {
+      "judul": "Atasi Polusi Udara Jakarta, Menteri LH Dorong Relokasi Kawasan Industri",
+      "link_berita": "https://esgnow.republika.co.id/berita/td9y5o490/atasi-polusi-udara-jakarta-menteri-lh-dorong-relokasi-kawasan-industri",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:51:47"
+    },
+    {
+      "judul": "Pemkot Bandung Berlakukan WFH Pertama, Layanan Publik Tetap Jalan",
+      "link_berita": "https://rejabar.republika.co.id/berita/td9xy7282/pemkot-bandung-berlakukan-wfh-pertama-layanan-publik-tetap-jalan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:46:47"
+    },
+    {
+      "judul": "Satgas PKH Setorkan Hasil Kerja Rp 11,42 Triliun ke Kas Negara",
+      "link_berita": "https://news.republika.co.id/berita/td9xr3487/satgas-pkh-setorkan-hasil-kerja-rp-1142-triliun-ke-kas-negara",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:42:47"
+    },
+    {
+      "judul": "BTN Sebut Permintaan Rumah Tetap Tinggi di Tengah Tekanan Ekonomi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/td9ub4416/btn-sebut-permintaan-rumah-tetap-tinggi-di-tengah-tekanan-ekonomi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:39:47"
+    },
+    {
+      "judul": "Kepala BGN: WFH tidak Berlaku Bagi Kepala SPPG, Ahli Gizi, dan Akuntan",
+      "link_berita": "https://news.republika.co.id/berita/td9xbg487/kepala-bgn-wfh-tidak-berlaku-bagi-kepala-sppg-ahli-gizi-dan-akuntan",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:32:47"
+    },
+    {
+      "judul": "Respons Keputusan KPPU, Adapundi Pastikan Layanan Berjalan Normal",
+      "link_berita": "https://ekonomi.republika.co.id/berita/td9xaa484/respons-keputusan-kppu-adapundi-pastikan-layanan-berjalan-normal",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:32:47"
+    },
+    {
+      "judul": "Bea Cukai Langsa Musnahkan Rokok Ilegal Senilai Rp 1,29 Miliar",
+      "link_berita": "https://republika.co.id/berita//td9x0v368/bea-cukai-langsa-musnahkan-rokok-ilegal-senilai-rp-129-miliar",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:26:47"
+    },
+    {
+      "judul": "Investasi Kripto Butuh Pemahaman Mendalam, Jangan Hanya FOMO",
+      "link_berita": "https://ekonomi.republika.co.id/berita/td9wq1416/investasi-kripto-butuh-pemahaman-mendalam-jangan-hanya-fomo",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:21:47"
+    },
+    {
+      "judul": "Cameron Diaz Senang Bisa Reuni Akting dengan Keanu Reeves",
+      "link_berita": "https://ameera.republika.co.id/berita/td9wot425/cameron-diaz-senang-bisa-reuni-akting-dengan-keanu-reeves",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:19:47"
+    },
+    {
+      "judul": "Pegawai Kemenag WFH Setiap Jumat, Bisakah Warga Mengurus Buku Nikah?",
+      "link_berita": "https://khazanah.republika.co.id/berita/td9wmp483/pegawai-kemenag-wfh-setiap-jumat-bisakah-warga-mengurus-buku-nikah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:18:47"
+    },
+    {
+      "judul": "Membaca Taklimat Presiden dari Dalam Rumah Kita Sendiri",
+      "link_berita": "https://news.republika.co.id/berita/td9uxk318/membaca-taklimat-presiden-dari-dalam-rumah-kita-sendiri",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:16:47"
+    },
+    {
+      "judul": "Berani Langgar Aturan WFH? Mensos Gus Ipul Siapkan Sanksi Tegas",
+      "link_berita": "https://news.republika.co.id/berita/td9ue2451/berani-langgar-aturan-wfh-mensos-gus-ipul-siapkan-sanksi-tegas",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 10:11:47"
+    },
+    {
+      "judul": "KH Ma\u2019ruf Amin: Hijrah Finansial Bukan Sekadar Tren tapi Keharusan",
+      "link_berita": "https://sharia.republika.co.id/berita/td9vs6490/kh-maruf-amin-hijrah-finansial-bukan-sekadar-tren-tapi-keharusan",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:59:47"
+    },
+    {
+      "judul": "Wacana \u2018War Tiket\u2019 Haji Tuai Kritik, Menag ke-22 LHS: Apa Bedanya Negara dengan Event Organizer?",
+      "link_berita": "https://khazanah.republika.co.id/berita/td9vn9451/wacana-war-tiket-haji-tuai-kritik-menag-ke22-lhs-apa-bedanya-negara-dengan-event-organizer",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Silaturahim ke Wamenag RI, Ketua Majelis Az-Zikra Komitmen Lanjutan Perjuangan Ustaz Arifin Ilham",
+      "link_berita": "https://news.republika.co.id/berita/td9t1u291/silaturahim-ke-wamenag-ri-ketua-majelis-azzikra-komitmen-lanjutan-perjuangan-ustaz-arifin-ilham",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Transformasi Berkelanjutan Nyata, PLN Group Sabet 46 PROPER Emas dan Hijau 2025 KLH",
+      "link_berita": "https://esgnow.republika.co.id/berita/td9v88368/transformasi-berkelanjutan-nyata-pln-group-sabet-46-proper-emas-dan-hijau-2025-klh",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Mojtaba Khamenei: Kemenangan Iran Mencengangkan Dunia",
+      "link_berita": "https://news.republika.co.id/berita/td9v0f393/mojtaba-khamenei-kemenangan-iran-mencengangkan-dunia",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Tempat Parkir yang Makan Badan Jalan di Lebak Bulus Ternyata Binaan Dishub",
+      "link_berita": "https://news.republika.co.id/berita/td9uyj487/tempat-parkir-yang-makan-badan-jalan-di-lebak-bulus-ternyata-binaan-dishub",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Langkah Gesit Diajeng Wurinikasih, dari Bangku Kuliah UNM Menuju Industri",
+      "link_berita": "https://news.republika.co.id/berita/td9tj6368/langkah-gesit-diajeng-wurinikasih-dari-bangku-kuliah-unm-menuju-industri",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Koops TNI Habema Gelar Bakti Sosial di Distrik Gome",
+      "link_berita": "https://news.republika.co.id/berita/td9utx484/koops-tni-habema-gelar-bakti-sosial-di-distrik-gome",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "BTN\u2013KAI akan Garap Lima Menara Hunian TOD, Ini Kawasan Stasiun di Jakarta yang Diincar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/td9uqy490/btnkai-akan-garap-lima-menara-hunian-tod-ini-kawasan-stasiun-di-jakarta-yang-diincar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Nissan Andalkan e-POWER sebagai Jembatan Menuju Era Mobil Listrik di Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/td9ull349/nissan-andalkan-epower-sebagai-jembatan-menuju-era-mobil-listrik-di-indonesia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Polisi Limpahkan Kasus Dugaan Penipuan Rp 2 Miliar oleh Pengusaha Elpiji Ke Kejati Jabar",
+      "link_berita": "https://rejabar.republika.co.id/berita/td9ukf487/polisi-limpahkan-kasus-dugaan-penipuan-rp-2-miliar-oleh-pengusaha-elpiji-ke-kejati-jabar",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Bayi Nyaris Tertukar di RSHS, Farabi El Fouz Soroti Kelalaian yang Bisa Dicegah",
+      "link_berita": "https://rejabar.republika.co.id/berita/td9ujf368/bayi-nyaris-tertukar-di-rshs-farabi-el-fouz-soroti-kelalaian-yang-bisa-dicegah",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Uang Rp11,42 triliun Hasil Satgas Penertiban Kawasan Hutan PKH",
+      "link_berita": "https://republika.co.id/page/shorts/yt-td9ue2186579954/uang-rp1142-triliun-hasil-satgas-penertiban-kawasan-hutan-pkh",
+      "kategori": "Video",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Meta Akhirnya Tunduk, Pemerintah Batasi Akses Medsos Anak",
+      "link_berita": "https://news.republika.co.id/berita/td9udp451/meta-akhirnya-tunduk-pemerintah-batasi-akses-medsos-anak",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 09:58:47"
+    },
+    {
+      "judul": "Anggota Polisi Jateng Dipatsus Usai Ketahuan Rekam Polwan di Kamar Mandi",
+      "link_berita": "https://news.republika.co.id/berita/td9ub2377/anggota-polisi-jateng-dipatsus-usai-ketahuan-rekam-polwan-di-kamar-mandi",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
+    },
+    {
+      "judul": "Sinergi Kepemimpinan, Pendidikan, dan Inovasi: Jejak Nuryani Mawar Putri dari Kampus Digital Bisnis",
+      "link_berita": "https://news.republika.co.id/berita/td9th7368/sinergi-kepemimpinan-pendidikan-dan-inovasi-jejak-nuryani-mawar-putri-dari-kampus-digital-bisnis",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
+    },
+    {
+      "judul": "Kantor Media Gaza Bantah Klaim BoP yang Sebut 602 Truk Bantuan Masuk",
+      "link_berita": "https://news.republika.co.id/berita/td9u9k409/kantor-media-gaza-bantah-klaim-bop-yang-sebut-602-truk-bantuan-masuk",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
+    },
+    {
+      "judul": "Komisi VIII Pertanyakan Wacana War Ticket Haji, Pemburunya Nanti Orang-Orang Kaya",
+      "link_berita": "https://khazanah.republika.co.id/berita/td9u4l483/komisi-viii-pertanyakan-wacana-war-ticket-haji-pemburunya-nanti-orangorang-kaya",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
+    },
+    {
+      "judul": "Pembayaran Uang Denda Rp.11,4 Triliun Sangat Berguna untuk Rakyat",
+      "link_berita": "https://news.republika.co.id/berita/td9tws318/pembayaran-uang-denda-rp114-triliun-sangat-berguna-untuk-rakyat",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
+    },
+    {
+      "judul": "Erlan Bachtiar: Nahkoda Transformasi Digital dan Manifestasi Kampus Digital Bisnis",
+      "link_berita": "https://news.republika.co.id/berita/td9tgh368/erlan-bachtiar-nahkoda-transformasi-digital-dan-manifestasi-kampus-digital-bisnis",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
+    },
+    {
       "judul": "Lahan Makin Terbatas di Perkotaan, BTN Bakal Genjot Pembiayaan Hunian Vertikal",
       "link_berita": "https://ekonomi.republika.co.id/berita/td9tm2490/lahan-makin-terbatas-di-perkotaan-btn-bakal-genjot-pembiayaan-hunian-vertikal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 09:12:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Preman Tanah Abang Pecahkan Mangkok Tukang Bakso karena tak Diberi Jatah Akhirnya Ditangkap",
       "link_berita": "https://news.republika.co.id/berita/td9tja377/preman-tanah-abang-pecahkan-mangkok-tukang-bakso-karena-tak-diberi-jatah-akhirnya-ditangkap",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 09:11:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Terminal Cicaheum Jadi Depo BRT, Armada Bus Mulai Dialihkan ke Leuwipanjang",
       "link_berita": "https://rejabar.republika.co.id/berita/td9tip282/terminal-cicaheum-jadi-depo-brt-armada-bus-mulai-dialihkan-ke-leuwipanjang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 09:10:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Program Pengembangan Karir Mahasiswa Jadi Kunci Sukses di Dunia Kerja",
       "link_berita": "https://news.republika.co.id/berita/td9t7b368/program-pengembangan-karir-mahasiswa-jadi-kunci-sukses-di-dunia-kerja",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 09:04:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Wacana War Ticket Haji Ala Kemenhaj, Ketum PBNU: Belum Jelas, Belum Layak Diperdebatkan",
       "link_berita": "https://khazanah.republika.co.id/berita/td9szf483/wacana-war-ticket-haji-ala-kemenhaj-ketum-pbnu-belum-jelas-belum-layak-diperdebatkan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:59:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Kloter Pertama Jamaah Haji Jateng akan Diberangkatkan 22 April 2026",
       "link_berita": "https://khazanah.republika.co.id/berita/td9spq366/kloter-pertama-jamaah-haji-jateng-akan-diberangkatkan-22-april-2026",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:53:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Masih Bingung Pilih Jurusan? Coba Intip Kisaran Gaji Lulusan Prodi Digital Ini",
       "link_berita": "https://news.republika.co.id/berita/td9spk368/masih-bingung-pilih-jurusan-coba-intip-kisaran-gaji-lulusan-prodi-digital-ini",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:53:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Skor PISA Indonesia Rendah, Kemendikdasmen Gandeng Mitra Kolaborasi Tingkatkan Literasi dan Numerasi",
       "link_berita": "https://rejogja.republika.co.id/berita/td9sof291/skor-pisa-indonesia-rendah-kemendikdasmen-gandeng-mitra-kolaborasi-tingkatkan-literasi-dan-numerasi",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:52:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Bahlil Ungkap Uji Coba Biodiesel B50 Capai 70 Persen, Siap Diterapkan 1 Juli 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/td9smh490/bahlil-ungkap-uji-coba-biodiesel-b50-capai-70-persen-siap-diterapkan-1-juli-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:51:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Penyesuaian Harga BBM Non-Subsidi, Bahlil Sebut Masih Terus Dikaji",
       "link_berita": "https://ekonomi.republika.co.id/berita/td9si0522/penyesuaian-harga-bbm-nonsubsidi-bahlil-sebut-masih-terus-dikaji",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:48:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Pasutri Bertengkar di Jembatan, Suami Terjatuh ke Sungai Citarum dan Hanyut Terbawa Arus",
       "link_berita": "https://rejabar.republika.co.id/berita/td9sgz282/pasutri-bertengkar-di-jembatan-suami-terjatuh-ke-sungai-citarum-dan-hanyut-terbawa-arus",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:48:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Ajang Bergengsi Pelajar, BSI Flash 2026 Tampilkan Kreativitas, Sportivitas, dan Teknologi",
       "link_berita": "https://news.republika.co.id/berita/td9s63368/ajang-bergengsi-pelajar-bsi-flash-2026-tampilkan-kreativitas-sportivitas-dan-teknologi",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:41:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Laut Jawa Menghangat, Cuaca Ekstrem di DIY Rusak Rumah dan Tumbangkan Pohon",
       "link_berita": "https://rejogja.republika.co.id/berita/td9ry4282/laut-jawa-menghangat-cuaca-ekstrem-di-diy-rusak-rumah-dan-tumbangkan-pohon",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:37:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Listrik di Jakarta Padam Hingga MRT Terganggu, Pramono Ingatkan PLN: Jangan Sampai Terulang",
       "link_berita": "https://news.republika.co.id/berita/td9rrt409/listrik-di-jakarta-padam-hingga-mrt-terganggu-pramono-ingatkan-pln-jangan-sampai-terulang",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:33:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Arif Kamarudin Menyapu Ikan SapuSapu Teaser",
       "link_berita": "https://republika.co.id/page/shorts/yt-td9rm12017577190/arif-kamarudin-menyapu-ikan-sapusapu-teaser",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:29:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 08:58:47"
     },
     {
       "judul": "Ini yang Harus Disiapkan Calon Jamaah Haji dengan Penyakit Penyerta",
       "link_berita": "https://khazanah.republika.co.id/berita/td9qvj366/ini-yang-harus-disiapkan-calon-jamaah-haji-dengan-penyakit-penyerta",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:24:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 07:58:47"
     },
     {
       "judul": "Iwan Koswara Sebut Optimalisasi PAD Jabar untuk Lindungi Keberlanjutan PPPK",
       "link_berita": "https://rejabar.republika.co.id/berita/td9rdk368/iwan-koswara-sebut-optimalisasi-pad-jabar-untuk-lindungi-keberlanjutan-pppk",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:24:45"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 07:58:47"
     },
     {
-      "judul": "BP BUMN Umumkan Pelaksanaan WFH Satu Hari untuk BUMN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9r8p490/bp-bumn-umumkan-pelaksanaan-wfh-satu-hari-untuk-bumn",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:21:45"
-    },
-    {
-      "judul": "Work From Home Jumat, Bea Cukai Jamin Pelayanan Publik Tetap Optimal",
-      "link_berita": "https://republika.co.id/berita//td9r10368/work-from-home-jumat-bea-cukai-jamin-pelayanan-publik-tetap-optimal",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:17:45"
-    },
-    {
-      "judul": "Perkuat Layanan, BPJS Ketenagakerjaan Buka Rekrutmen Karyawan",
-      "link_berita": "https://republika.co.id/berita//td9qsx430/perkuat-layanan-bpjs-ketenagakerjaan%c2%a0buka-rekrutmen-karyawan",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "RSHS Nonaktifkan dan SP1 Perawat Imbas Kasus Bayi Hampir Tertukar",
-      "link_berita": "https://rejabar.republika.co.id/berita/td9pxh487/rshs-nonaktifkan-dan-sp1-perawat-imbas-kasus-bayi-hampir-tertukar",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Belajar dari Polemik Wakaf ASN",
-      "link_berita": "https://analisis.republika.co.id/berita/td9qnu368/belajar-dari-polemik-wakaf-asn",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Sepinya Pemkot Cimahi Usai 75 Persen Pegawainya WFH",
-      "link_berita": "https://republika.co.id/page/shorts/yt-td9q812029541125/sepinya-pemkot-cimahi-usai-75-persen-pegawainya-wfh",
-      "kategori": "Video",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Masa Kritis BBM Terlewati, Pemerintah Perkuat Cadangan Energi Nasional",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9q26370/masa-kritis-bbm-terlewati-pemerintah-perkuat-cadangan-energi-nasional",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Basral Graito Perbesar Peluang Lolos Fase Kualifikasi Olimpiade Los Angeles",
-      "link_berita": "https://news.republika.co.id/berita/td9psz409/basral-graito-perbesar-peluang-lolos-fase-kualifikasi-olimpiade-los-angeles",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Periksa Bos Rokok Madura, Haji Her, Ini Penjelasan KPK",
-      "link_berita": "https://news.republika.co.id/berita/td9prf377/periksa-bos-rokok-madura-haji-her-ini-penjelasan-kpk",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Coachella 2026 Dibuka dengan Headliner Sabrina Carpenter dan Justin Bieber",
-      "link_berita": "https://ameera.republika.co.id/berita/td9pom425/coachella-2026-dibuka-dengan-headliner-sabrina-carpenter-dan-justin-bieber",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Berbagi Ilmu di Binus, Direktur BCA: Pendidikan Bermutu Syarat Mutlak Indonesia Emas 2045",
-      "link_berita": "https://news.republika.co.id/berita/td9pn7349/berbagi-ilmu-di-binus-direktur-bca-pendidikan-bermutu-syarat-mutlak-indonesia-emas-2045",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Coachella 2026 Dibuka dengan Headliner Sabrina Carpenter dan Justin Bieber",
-      "link_berita": "https://ameera.republika.co.id/berita/td9pmq425/coachella-2026-dibuka-dengan-headliner-sabrina-carpenter-dan-justin-bieber",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 08:14:45"
-    },
-    {
-      "judul": "Viral Bayi Nyaris Tertukar di RSHS Bandung, KDM Merespons",
-      "link_berita": "https://rejabar.republika.co.id/berita/td9p48487/viral-bayi-nyaris-tertukar-di-rshs-bandung-kdm-merespons",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Implementasi Biodiesel B50, Kapasitas Produksi Harus Diperkuat",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9p28484/implementasi-biodiesel-b50-kapasitas-produksi-harus-diperkuat",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Cukup 10 Menit, Israel Lakukan Pembunuhan Massal Terburuk di Lebanon Sejak 1990",
-      "link_berita": "https://news.republika.co.id/berita/td9oko377/cukup-10-menit-israel-lakukan-pembunuhan-massal-terburuk-di-lebanon-sejak-1990",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Rencana Kerja 2026, Lima Strategi Pertamina di Tengah Dinamika Geopolitik Global",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9og2522/rencana-kerja-2026-lima-strategi-pertamina-di-tengah-dinamika-geopolitik-global",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Fakta Ini Ditutup-tutupi: Kapal Perang Israel Dihajar Rudal Hizbullah, Malah Berdusta Kapal Inggris",
-      "link_berita": "https://khazanah.republika.co.id/berita/td9oey320/fakta-ini-ditutuptutupi-kapal-perang-israel-dihajar-rudal-hizbullah-malah-berdusta-kapal-inggris",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "KCIC Kecam Penumpang Tahan Pintu Whoosh, Picu Keterlambatan Perjalanan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9o9h370/kcic-kecam-penumpang-tahan-pintu-whoosh-picu-keterlambatan-perjalanan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Pemerintah Kebut Proyek PSEL di Kalimantan Timur",
-      "link_berita": "https://esgnow.republika.co.id/berita/td9o8g522/pemerintah-kebut-proyek-psel-di-kalimantan-timur",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Usai Bebas Bersyarat, Doni Salmanan Minta Maaf, Mengaku Khilaf",
-      "link_berita": "https://news.republika.co.id/berita/td9ni1377/usai-bebas-bersyarat-doni-salmanan-minta-maaf-mengaku-khilaf",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Kebijakan WFH ASN Diterapkan, Pemerintah Pastikan Layanan Publik Tetap Optimal",
-      "link_berita": "https://visual.republika.co.id/berita/td9n6z375/kebijakan-wfh-asn-diterapkan-pemerintah-pastikan-layanan-publik-tetap-optimal",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Antara Mazhab dan Sektarianisme",
-      "link_berita": "https://analisis.republika.co.id/berita/td9n04415/antara-mazhab-dan-sektarianisme",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 07:14:45"
-    },
-    {
-      "judul": "Meski Ada Momen Ramadhan dan Idul Fitri, Indeks Keyakinan Konsumen Maret 2026 Turun",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9kr1416/meski-ada-momen-ramadhan-dan-idul-fitri-indeks-keyakinan-konsumen-maret-2026-turun",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Dari Hormuz Sampai Cimahi, Perang Bikin Susah Pedagang Bubur Kacang Ijo",
-      "link_berita": "https://rejabar.republika.co.id/berita/td9mqm393/dari-hormuz-sampai-cimahi-perang-bikin-susah-pedagang-bubur-kacang-ijo",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Maju Caketum Hipmi, Jona Dorong Pengusaha Muda Jadi Motor Asta Cita",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9mf5416/maju-caketum-hipmi-jona-dorong-pengusaha-muda-jadi-motor-asta-cita",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Public Expose 2026: Rumah Zakat Tegaskan \u201cImpact in Action\u201d Sebagai Komitmen Dampak Nyata",
-      "link_berita": "https://khazanah.republika.co.id/berita/td9mf2472/public-expose-2026-rumah-zakat-tegaskan-impact-in-action-sebagai-komitmen-dampak-nyata",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Meta Akhirnya Patuhi PP Tunas Batas Usia Pengguna FB dan IG",
-      "link_berita": "https://republika.co.id/page/shorts/yt-td9m22210587477/meta-akhirnya-patuhi-pp-tunas-batas-usia-pengguna-fb-dan-ig",
-      "kategori": "Video",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Pemkot Bandung Terapkan WFH, Gowes Bareng Hingga Dorong Produktivitas",
-      "link_berita": "https://rejabar.republika.co.id/berita/td9lr0472/pemkot-bandung-terapkan-wfh-gowes-bareng-hingga-dorong-produktivitas",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Arief Kamarudin Sang 'Pelindung' Ciliwung dari Invasi Sapu-Sapu | UNLOCK",
-      "link_berita": "https://tv.republika.co.id/berita/yt-td9ld11731709305/arief-kamarudin-sang-pelindung-ciliwung-dari-invasi-sapusapu-unlock",
-      "kategori": "Video",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Surabaya Jadi Motor Industri, Pameran Energi Dorong Pertumbuhan Ekonomi Regional",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9l2b370/surabaya-jadi-motor-industri-pameran-energi-dorong-pertumbuhan-ekonomi-regional",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "5 Pertanyaan tentang Fakta Mengejutkan di Balik Strategi Iran Jebak Amerika",
-      "link_berita": "https://news.republika.co.id/berita/td9kuk451/5-pertanyaan-tentang-fakta-mengejutkan-di-balik-strategi-iran-jebak-amerika",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "SIS Group Perluas Jaringan, Buka Kampus Baru di Jakarta Timur",
-      "link_berita": "https://news.republika.co.id/berita/td9ker416/sis-group-perluas-jaringan-buka-kampus-baru-di-jakarta-timur",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Dua Kali Jadi Tersangka, Riza Chalid Belum Berhasil Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/td9k6d484/dua-kali-jadi-tersangka-riza-chalid-belum-berhasil-ditangkap",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 06:14:45"
-    },
-    {
-      "judul": "Coachella 2026 Dibuka dengan Headliner Sabrina Carpenter dan Justin Bieber",
-      "link_berita": "https://ameera.republika.co.id/berita/td9pom425/coachella-2026-dibuka-dengan-headliner-sabrina-carpenter-dan-justin-bieber",
+      "judul": "Cameron Diaz Senang Bisa Reuni Akting dengan Keanu Reeves",
+      "link_berita": "https://ameera.republika.co.id/berita/td9wot425/cameron-diaz-senang-bisa-reuni-akting-dengan-keanu-reeves",
       "kategori": "Happening",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 14:48:00"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 17:19:00"
     },
     {
-      "judul": "Pemerintah Kebut Proyek PSEL di Kalimantan Timur",
-      "link_berita": "https://esgnow.republika.co.id/berita/td9o8g522/pemerintah-kebut-proyek-psel-di-kalimantan-timur",
+      "judul": "Atasi Polusi Udara Jakarta, Menteri LH Dorong Relokasi Kawasan Industri",
+      "link_berita": "https://esgnow.republika.co.id/berita/td9y5o490/atasi-polusi-udara-jakarta-menteri-lh-dorong-relokasi-kawasan-industri",
       "kategori": "Lingkungan",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 14:17:00"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 17:51:00"
     },
     {
-      "judul": "Lahan Makin Terbatas di Perkotaan, BTN Bakal Genjot Pembiayaan Hunian Vertikal",
-      "link_berita": "https://ekonomi.republika.co.id/berita/td9tm2490/lahan-makin-terbatas-di-perkotaan-btn-bakal-genjot-pembiayaan-hunian-vertikal",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 16:13:00"
+      "judul": "BTN Sebut Permintaan Rumah Tetap Tinggi di Tengah Tekanan Ekonomi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/td9ub4416/btn-sebut-permintaan-rumah-tetap-tinggi-di-tengah-tekanan-ekonomi",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 17:40:00"
     },
     {
-      "judul": "Pertamina Dorong 1.346 Sertifikasi UMKM Kantongi Label Halal",
-      "link_berita": "https://sharia.republika.co.id/berita/td6hdz522/pertamina-dorong-1346-sertifikasi-umkm-kantongi-label-halal",
-      "kategori": "Industri Halal Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 08 Apr 2026, 20:56:00"
+      "judul": "KH Ma\u2019ruf Amin: Hijrah Finansial Bukan Sekadar Tren tapi Keharusan",
+      "link_berita": "https://sharia.republika.co.id/berita/td9vs6490/kh-maruf-amin-hijrah-finansial-bukan-sekadar-tren-tapi-keharusan",
+      "kategori": "Keuangan Ekonomi Syariah",
+      "tanggal_terbit": "Friday, 10 Apr 2026, 17:00:00"
     },
     {
-      "judul": "Preman Tanah Abang Pecahkan Mangkok Tukang Bakso karena tak Diberi Jatah Akhirnya Ditangkap",
-      "link_berita": "https://news.republika.co.id/berita/td9tja377/preman-tanah-abang-pecahkan-mangkok-tukang-bakso-karena-tak-diberi-jatah-akhirnya-ditangkap",
+      "judul": "Rekayasa Tindak Lanjut Laporan Warga di JAKI, Petugas Dishub Disanksi",
+      "link_berita": "https://news.republika.co.id/berita/td9ydf409/rekayasa-tindak-lanjut-laporan-warga-di-jaki-petugas-dishub-disanksi",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Friday, 10 Apr 2026, 16:11:00"
+      "tanggal_terbit": "Friday, 10 Apr 2026, 17:56:00"
     }
   ],
-  "waktu_scraping": "Friday, 10 Apr 2026, 16:14:45"
+  "waktu_scraping": "Friday, 10 Apr 2026, 17:58:47"
 }
