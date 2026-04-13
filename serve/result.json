@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Timnas Indonesia U-17 Bungkam Timor Leste 4-0, Puncaki Grup A Piala AFF U-17 Bersama Vietnam",
+      "link_berita": "https://news.republika.co.id/berita/tdfs3e348/timnas-indonesia-u17-bungkam-timor-leste-40-puncaki-grup-a-piala-aff-u17-bersama-vietnam"
+    },
+    {
       "judul": "Pengadaan Laptop Hingga Kaus Kaki Disorot Publik, Kepala BGN: Tidak Sebanyak yang Disebutkan",
       "link_berita": "https://news.republika.co.id/berita/tdfo5z409/pengadaan-laptop-hingga-kaus-kaki-disorot-publik-kepala-bgn-tidak-sebanyak-yang-disebutkan"
     },
@@ -15,13 +19,13 @@
     {
       "judul": "Ibu Bayi yang Hampir Tertukar di RSHS Bandung Somasi Rumah Sakit",
       "link_berita": "https://rejabar.republika.co.id/berita/tdficb282/ibu-bayi-yang-hampir-tertukar-di-rshs-bandung-somasi-rumah-sakit"
-    },
-    {
-      "judul": "Jelang Keberangkatan Calon Jamaah Haji DIY, Tiga Skenario Disiapkan Antisipasi Konflik Timur Tengah",
-      "link_berita": "https://rejogja.republika.co.id/berita/tdffqo291/jelang-keberangkatan-calon-jamaah-haji-diy-tiga-skenario-disiapkan-antisipasi-konflik-timur-tengah"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Liburan Murah ke Purwakarta Cuma Rp 8.000, Ini Rute dan Tipsnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tdfq2j423/liburan-murah-ke-purwakarta-cuma-rp-8000-ini-rute-dan-tipsnya"
+    },
     {
       "judul": "Babak I, Timnas Indonesia U-17 Unggul 4-0 atas Timor Leste di Piala AFF U-17",
       "link_berita": "https://news.republika.co.id/berita/tdfper348/babak-i-timnas-indonesia-u17-unggul-40-atas-timor-leste-di-piala-aff-u17"
@@ -77,312 +81,308 @@
     {
       "judul": "Produsen Tahu-Tempe Putar Otak Siasati Naiknya Harga Kedelai dan Plastik",
       "link_berita": "https://rejogja.republika.co.id/berita/tde6a9282/produsen-tahutempe-putar-otak-siasati-naiknya-harga-kedelai-dan-plastik"
-    },
-    {
-      "judul": "Cerita Pedagang Bubur Kacang Ijo Madura di Cimahi Menderita karena Harga Plastik Mahal",
-      "link_berita": "https://rejabar.republika.co.id/berita/tddxwg282/cerita-pedagang-bubur-kacang-ijo-madura-di-cimahi-menderita-karena-harga-plastik-mahal"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Jona Kantongi Dukungan Hipmi Banten Jelang Munas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tdfthf416/jona-kantongi-dukungan-hipmi-banten-jelang-munas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:56:21"
+    },
+    {
+      "judul": "SPSL Latih SDM, Dorong Efisiensi Proses Bisnis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tdfspg416/spsl-latih-sdm-dorong-efisiensi-proses-bisnis",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:39:21"
+    },
+    {
+      "judul": "Liburan Murah ke Purwakarta Cuma Rp 8.000, Ini Rute dan Tipsnya",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tdfq2j423/liburan-murah-ke-purwakarta-cuma-rp-8000-ini-rute-dan-tipsnya",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:36:21"
+    },
+    {
+      "judul": "Timnas Indonesia U-17 Bungkam Timor Leste 4-0, Puncaki Grup A Piala AFF U-17 Bersama Vietnam",
+      "link_berita": "https://news.republika.co.id/berita/tdfs3e348/timnas-indonesia-u17-bungkam-timor-leste-40-puncaki-grup-a-piala-aff-u17-bersama-vietnam",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:26:21"
+    },
+    {
+      "judul": "15 Tahun Mengabdi, MK Gelar Purnabakti Anwar Usman",
+      "link_berita": "https://visual.republika.co.id/berita/tdfs0k375/15-tahun-mengabdi-mk-gelar-purnabakti-anwar-usman",
+      "kategori": "Visual",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:24:21"
+    },
+    {
+      "judul": "Bos Krakatau Steel Kembali Pimpin IISIA, Targetkan Baja RI Tembus Pasar Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tdfrj5416/bos-krakatau-steel-kembali-pimpin-iisia-targetkan-baja-ri-tembus-pasar-global",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:17:21"
+    },
+    {
+      "judul": "Benyamin: UMKM Kunci Penguatan Ekonomi Kerakyatan di Tangerang Selatan",
+      "link_berita": "https://news.republika.co.id/berita/tdf7m7451/benyamin-umkm-kunci-penguatan-ekonomi-kerakyatan-di-tangerang-selatan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 14:17:21"
+    },
+    {
       "judul": "KKP Gandeng E-Commerce untuk Tingkatkan Literasi Digital Pengelola KNMP",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfpmp430/kkp-gandeng-ecommerce-untuk-tingkatkan-literasi-digital-pengelola-knmp",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:39:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Netanyahu Sebut Gencatan Senjata dengan Iran Bisa Kolaps dalam Waktu Dekat",
       "link_berita": "https://news.republika.co.id/berita/tdfpu7409/netanyahu-sebut-gencatan-senjata-dengan-iran-bisa-kolaps-dalam-waktu-dekat",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:37:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Dorong Ekonomi Nasional, Pertamina EP Regional Jawa Perkuat Kolaborasi Mitra",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfppo423/dorong-ekonomi-nasional-pertamina-ep-regional-jawa-perkuat-kolaborasi-mitra",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:34:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Babak I, Timnas Indonesia U-17 Unggul 4-0 atas Timor Leste di Piala AFF U-17",
       "link_berita": "https://news.republika.co.id/berita/tdfper348/babak-i-timnas-indonesia-u17-unggul-40-atas-timor-leste-di-piala-aff-u17",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:28:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "BTN Resmikan Loan Factory Berbasis Sistem Terpusat",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfp0a423/btn-resmikan-loan-factory-berbasis-sistem-terpusat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:19:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "IRGC: Blokade Maritim AS Ilegal dan Setara dengan Pembajakan",
       "link_berita": "https://news.republika.co.id/berita/tdfogo409/irgc-blokade-maritim-as-ilegal-dan-setara-dengan-pembajakan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:16:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Kapuk Putih di Rumah Sang Guru Bangsa",
       "link_berita": "https://news.republika.co.id/berita/tdfooa318/kapuk-putih-di-rumah-sang-guru-bangsa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:12:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "BCA Gandeng Yohanes Surya Ajak Anak Aceh Cinta Matematika",
       "link_berita": "https://esgnow.republika.co.id/berita/tdfnxg502/bca-gandeng-yohanes-surya-ajak-anak-aceh-cinta-matematika",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:08:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Pengadaan Laptop Hingga Kaus Kaki Disorot Publik, Kepala BGN: Tidak Sebanyak yang Disebutkan",
       "link_berita": "https://news.republika.co.id/berita/tdfo5z409/pengadaan-laptop-hingga-kaus-kaki-disorot-publik-kepala-bgn-tidak-sebanyak-yang-disebutkan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 13:01:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Tantangan Global, Poltracking: Kepercayaan Publik ke Prabowo-Gibran Tetap Tinggi",
       "link_berita": "https://news.republika.co.id/berita/tdfo17484/tantangan-global-poltracking-kepercayaan-publik-ke-prabowogibran-tetap-tinggi",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:58:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Wacana War Tiket Haji, Antara Harapan dan Kegelisahan Calon Jamaah",
       "link_berita": "https://khazanah.republika.co.id/berita/tdfnus430/wacana-war-tiket-haji-antara-harapan-dan-kegelisahan-calon-jamaah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:54:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 13:17:21"
     },
     {
       "judul": "Freeport Lanjutkan Produksi Bertahap, Target Perbaikan Produksi Pada 2027",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfnd3522/freeport-lanjutkan-produksi-bertahap-target-perbaikan-produksi-pada-2027",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Hilirisasi Aluminium Dipercepat, Inalum Kebut Proyek Hilirisasi dan Refinery Hingga 2029",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfn3s522/hilirisasi-aluminium-dipercepat-inalum-kebut-proyek-hilirisasi-dan-refinery-hingga-2029",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Jejak Tokoh Muslimah dari Medan Perang hingga Pusat Ilmu Pengetahuan",
       "link_berita": "https://khazanah.republika.co.id/berita/tdfn3m430/jejak-tokoh-muslimah-dari-medan-perang-hingga-pusat-ilmu-pengetahuan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Penjualan Barang Mewah di Timur Tengah Terjun Bebas Gara-gara Perang di Iran",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfmsv502/penjualan-barang-mewah-di-timur-tengah-terjun-bebas-garagara-perang-di-iran",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Perpisahan Jadi Hakim MK, Anwar Usman Kelelahan Hingga Tumbang",
       "link_berita": "https://news.republika.co.id/berita/tdfmre484/perpisahan-jadi-hakim-mk-anwar-usman-kelelahan-hingga-tumbang",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Penguatan SDM Jadi Fokus Organisasi Keagamaan Hadapi Tantangan Global",
       "link_berita": "https://khazanah.republika.co.id/berita/tdfmfq522/penguatan-sdm-jadi-fokus-organisasi-keagamaan-hadapi-tantangan-global",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 12:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "IHSG Menguat 6,14 Persen, Ini Rekomendasi Saham Sepekan ke Depan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdflhs423/ihsg-menguat-614-persen-ini-rekomendasi-saham-sepekan-ke-depan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Tiga Wasiat Rasulullah Penuh Keutamaan Untuk Umatnya",
       "link_berita": "https://khazanah.republika.co.id/berita/tdfktg430/tiga-wasiat-rasulullah-penuh-keutamaan-untuk-umatnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Pemkot Bandung Gandeng Lembaga Konservasi Cek Kesehatan Satwa Bandung Zoo",
       "link_berita": "https://rejabar.republika.co.id/berita/tdflap282/pemkot-bandung-gandeng-lembaga-konservasi-cek-kesehatan-satwa-bandung-zoo",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Petunjuk Nabi Muhammad Untuk Umat agar Disayang Allah SWT",
       "link_berita": "https://khazanah.republika.co.id/berita/tdfkn2430/petunjuk-nabi-muhammad-untuk-umat-agar-disayang-allah-swt",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Bulog Jamin Harga Beras Stabil Meski Biaya Kemasan Plastik Naik",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfl3k522/bulog-jamin-harga-beras-stabil-meski-biaya-kemasan-plastik-naik",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Menlu Fidan: Turki Sasaran Perang Israel Selanjutnya",
       "link_berita": "https://news.republika.co.id/berita/tdfl14393/menlu-fidan-turki-sasaran-perang-israel-selanjutnya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Bulog Dapat Subsidi Bunga 2 Persen, Perkuat Upaya Serap Gabah 4 Juta Ton",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfl0j522/bulog-dapat-subsidi-bunga-2-persen-perkuat-upaya-serap-gabah-4-juta-ton",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "PLN Siap Eksekusi 21 Proyek PLTS pada Semester I 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfky4522/pln-siap-eksekusi-21-proyek-plts-pada-semester-i-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Tak Sekadar Transisi, PLN Kejar Kemandirian Energi",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfkvs522/tak-sekadar-transisi-pln-kejar-kemandirian-energi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "DPR Soroti Kinerja MIND ID di Tengah Gejolak Harga Komoditas Global",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfkt7522/dpr-soroti-kinerja-mind-id-di-tengah-gejolak-harga-komoditas-global",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 12:17:21"
     },
     {
       "judul": "Harga Plastik di Jakarta Mahal, Pramono Minta Warga Gunakan Daun Pisang",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfklq423/harga-plastik-di-jakarta-mahal-pramono-minta-warga-gunakan-daun-pisang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Pengelola Baru Kebun Binatang Bandung Rampung Akhir April",
       "link_berita": "https://rejabar.republika.co.id/berita/tdfkl4472/pengelola-baru-kebun-binatang-bandung-rampung-akhir-april",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Saudi Batasi Masuk Makkah Mulai Hari ini, Kemenhaj RI Ingatkan tak Tergiur Iming-Iming",
       "link_berita": "https://khazanah.republika.co.id/berita/tdfkhm430/saudi-batasi-masuk-makkah-mulai-hari-ini-kemenhaj-ri-ingatkan-tak-tergiur-imingiming",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Nadiem Sebut Kerugian Negara Hingga Rp2 T di Kasus Chromebook Hasil Rekayasa",
       "link_berita": "https://news.republika.co.id/berita/tdfkfk409/nadiem-sebut-kerugian-negara-hingga-rp2-t-di-kasus-chromebook-hasil-rekayasa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Sedang Konsolidasi, Pemprov DKI Bakal Sikat Habis Ikan Sapu-Sapu",
       "link_berita": "https://news.republika.co.id/berita/tdfkdu484/sedang-konsolidasi-pemprov-dki-bakal-sikat-habis-ikan-sapusapu",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Ini Susunan Pemain Indonesia vs Timor Leste di Piala AFF U-17 2026",
       "link_berita": "https://news.republika.co.id/berita/tdfkak348/ini-susunan-pemain-indonesia-vs-timor-leste-di-piala-aff-u17-2026",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "KDS: Kita Siapkan Rp 3 Miliar untuk Penanganan Bencana di Kabupaten Bandung",
       "link_berita": "https://rejabar.republika.co.id/berita/tdfk8w472/kds-kita-siapkan-rp-3-miliar-untuk-penanganan-bencana-di-kabupaten-bandung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "InDrive Catatkan Pertumbuhan Pengguna",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfk59416/indrive-catatkan-pertumbuhan-pengguna",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Vietnam Gasak Malaysia 4-0 pada Laga Pertama Grup A Piala AFF U-17",
       "link_berita": "https://news.republika.co.id/berita/tdfjqr348/vietnam-gasak-malaysia-40-pada-laga-pertama-grup-a-piala-aff-u17",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Transaksi Bank Mega Syariah Tembus Rp243 Miliar Selama Ramadhan",
       "link_berita": "https://sharia.republika.co.id/berita/tdfjgv416/transaksi-bank-mega-syariah-tembus-rp243-miliar-selama-ramadhan",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 11:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Di Tengah Krisis Energi, Bobibos Nyatakan Siap Tes Jalan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfj1c393/di-tengah-krisis-energi-bobibos-nyatakan-siap-tes-jalan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "GIICOMVEC 2026 Bukukan Kenaikan Pengunjung dan Transaksi B2B, Tembus 12 Ribu Trade Visitor",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfipi348/giicomvec-2026-bukukan-kenaikan-pengunjung-dan-transaksi-b2b-tembus-12-ribu-trade-visitor",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Ibu Bayi yang Hampir Tertukar di RSHS Bandung Somasi Rumah Sakit",
       "link_berita": "https://rejabar.republika.co.id/berita/tdficb282/ibu-bayi-yang-hampir-tertukar-di-rshs-bandung-somasi-rumah-sakit",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "PT Industri Padi Nusantara Gandeng Unhas dan Lembaga Riset Cina Garap Bibit Padi Unggul",
       "link_berita": "https://ekonomi.republika.co.id/berita/tdfi3o475/pt-industri-padi-nusantara-gandeng-unhas-dan-lembaga-riset-cina-garap-bibit-padi-unggul",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 11:17:21"
     },
     {
       "judul": "Pemerintah Targetkan Stop Open Dumping 2026, Daerah Diminta Bergerak Cepat",
       "link_berita": "https://esgnow.republika.co.id/berita/tdfhfw423/pemerintah-targetkan-stop-open-dumping-2026-daerah-diminta-bergerak-cepat",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 10:17:21"
     },
     {
       "judul": "Granat Diduga Peninggalan Lama Ditemukan di Peti Kayu, Dimusnahkan Gegana Brimob",
       "link_berita": "https://rejogja.republika.co.id/berita/tdfhqm282/granat-diduga-peninggalan-lama-ditemukan-di-peti-kayu-dimusnahkan-gegana-brimob",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
-    },
-    {
-      "judul": "Langkah Kecil Berdampak Besar: Ibu Dewi, Kartini Masa Kini yang Menebar Manfaat untuk Lingkungan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tdfhlt472/langkah-kecil-berdampak-besar-ibu-dewi-kartini-masa-kini-yang-menebar-manfaat-untuk-lingkungan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
-    },
-    {
-      "judul": "RI dan Rusia Perkuat Kerja Sama Energi di Tengah Geopolitik Global",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tdfh42423/ri-dan-rusia-perkuat-kerja-sama-energi-di-tengah-geopolitik-global",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
-    },
-    {
-      "judul": "Sembilan Poin Ini Jelaskan Kegagalan Perundingan AS dan Iran di Islamabad",
-      "link_berita": "https://khazanah.republika.co.id/berita/tdfh25320/sembilan-poin-ini-jelaskan-kegagalan-perundingan-as-dan-iran-di-islamabad",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
-    },
-    {
-      "judul": "Toko Kue Legendaris Jepang Chateraise Tambah Investasi Rp 1,4 T ke Bekasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tdfgwu475/toko-kue-legendaris-jepang-chateraise-tambah-investasi-rp-14-t-ke-bekasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
-    },
-    {
-      "judul": "Kota Bandung Banjir, Walkot Farhan Salahkan Sampah di Saluran Drainase dan Cuaca Ekstrem",
-      "link_berita": "https://rejabar.republika.co.id/berita/tdfgp5282/kota-bandung-banjir-walkot-farhan-salahkan-sampah-di-saluran-drainase-dan-cuaca-ekstrem",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 10:47:17"
-    },
-    {
-      "judul": "Ahli di Sidang Ungkap Sumber Kerugian Negara Rp1,5 Triliun dari Kasus Chromebook",
-      "link_berita": "https://news.republika.co.id/berita/tdfg3j409/ahli-di-sidang-ungkap-sumber-kerugian-negara-rp15-triliun-dari-kasus-chromebook",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 09:47:17"
-    },
-    {
-      "judul": "Jelang Keberangkatan Calon Jamaah Haji DIY, Tiga Skenario Disiapkan Antisipasi Konflik Timur Tengah",
-      "link_berita": "https://rejogja.republika.co.id/berita/tdffqo291/jelang-keberangkatan-calon-jamaah-haji-diy-tiga-skenario-disiapkan-antisipasi-konflik-timur-tengah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 09:47:17"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 10:17:21"
     },
     {
       "judul": "Bayi 1,5 Tahun Hipotermia di Gunung Ungaran, Berapa Usia Ideal Anak Boleh Mendaki?",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Monday, 13 Apr 2026, 20:08:00"
     },
     {
-      "judul": "KKP Gandeng E-Commerce untuk Tingkatkan Literasi Digital Pengelola KNMP",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tdfpmp430/kkp-gandeng-ecommerce-untuk-tingkatkan-literasi-digital-pengelola-knmp",
+      "judul": "Jona Kantongi Dukungan Hipmi Banten Jelang Munas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tdfthf416/jona-kantongi-dukungan-hipmi-banten-jelang-munas",
       "kategori": "Bisnis",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 20:39:00"
+      "tanggal_terbit": "Monday, 13 Apr 2026, 21:56:00"
     },
     {
       "judul": "Transaksi Bank Mega Syariah Tembus Rp243 Miliar Selama Ramadhan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Monday, 13 Apr 2026, 18:20:00"
     },
     {
-      "judul": "Netanyahu Sebut Gencatan Senjata dengan Iran Bisa Kolaps dalam Waktu Dekat",
-      "link_berita": "https://news.republika.co.id/berita/tdfpu7409/netanyahu-sebut-gencatan-senjata-dengan-iran-bisa-kolaps-dalam-waktu-dekat",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Monday, 13 Apr 2026, 20:37:00"
+      "judul": "Timnas Indonesia U-17 Bungkam Timor Leste 4-0, Puncaki Grup A Piala AFF U-17 Bersama Vietnam",
+      "link_berita": "https://news.republika.co.id/berita/tdfs3e348/timnas-indonesia-u17-bungkam-timor-leste-40-puncaki-grup-a-piala-aff-u17-bersama-vietnam",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 13 Apr 2026, 21:26:00"
     }
   ],
-  "waktu_scraping": "Monday, 13 Apr 2026, 20:47:17"
+  "waktu_scraping": "Monday, 13 Apr 2026, 22:17:21"
 }
