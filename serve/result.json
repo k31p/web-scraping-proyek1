@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Ketika Penumpang Perempuan Pilih 'Mengungsi' ke Gerbong Campur",
+      "link_berita": "https://ameera.republika.co.id/berita/te78wy425/ketika-penumpang-perempuan-pilih-mengungsi-ke-gerbong-campur"
+    },
+    {
+      "judul": "Keluarga Menunggu dengan Cemas Hasil Identifikasi Korban Kecelakaan KRL di RS Polri",
+      "link_berita": "https://news.republika.co.id/berita/te77jp328/keluarga-menunggu-dengan-cemas-hasil-identifikasi-korban-kecelakaan-krl-di-rs-polri"
+    },
+    {
       "judul": "MTI Sebut Insiden Taksi Green SM Terjadi 35 Menit Sebelum Tabrakan Kereta",
       "link_berita": "https://news.republika.co.id/berita/te736l416/mti-sebut-insiden-taksi-green-sm-terjadi-35-menit-sebelum-tabrakan-kereta"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Pelaporan SPT 2025 Capai 12 Juta, DJP Ingatkan Batas Waktu",
       "link_berita": "https://ekonomi.republika.co.id/berita/te6xsl370/pelaporan-spt-2025-capai-12-juta-djp-ingatkan-batas-waktu"
-    },
-    {
-      "judul": "Selamat Jalan Bu Guru Nurlaela, Perjalanan Panjang Jakarta-Bekasi Itu Kini Telah Usai",
-      "link_berita": "https://ameera.republika.co.id/berita/te6v2p425/selamat-jalan-bu-guru-nurlaela-perjalanan-panjang-jakartabekasi-itu-kini-telah-usai"
-    },
-    {
-      "judul": "Momen Evakuasi Korban Tabrakan KRL dan KA Argo Bromo Anggrek di Bekasi",
-      "link_berita": "https://visual.republika.co.id/berita/te6upr375/momen-evakuasi-korban-tabrakan-krl-dan-ka-argo-bromo-anggrek-di-bekasi"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Pemprov Jateng Batal Pajaki 20 Ribuan Kendaraan Listrik",
+      "link_berita": "https://rejogja.republika.co.id/berita/te79nn282/pemprov-jateng-batal-pajaki-20-ribuan-kendaraan-listrik"
+    },
+    {
+      "judul": "Penampakan Taksi Listrik yang Diduga Jadi Pemicu Tabrakan Kereta di Bekasi",
+      "link_berita": "https://visual.republika.co.id/berita/te73g2375/penampakan-taksi-listrik-yang-diduga-jadi-pemicu-tabrakan-kereta-di-bekasi"
+    },
     {
       "judul": "Kemenhub akan Evaluasi Taksi Green SM Usai Peristiwa Tabrakan Kereta di Bekasi",
       "link_berita": "https://news.republika.co.id/berita/te73xs409/kemenhub-akan-evaluasi-taksi-green-sm-usai-peristiwa-tabrakan-kereta-di-bekasi"
@@ -73,334 +81,326 @@
     {
       "judul": "Benarkah Banyak Daycare tak Berizin?",
       "link_berita": "https://news.republika.co.id/berita/te5lh4393/benarkah-banyak-daycare-tak-berizin"
-    },
-    {
-      "judul": "Menhub dan Dirut KAI Kawal Evakuasi Kecelakaan Kereta di Bekasi Timur",
-      "link_berita": "https://news.republika.co.id/berita/te692h8330000/menhub-dan-dirut-kai-kawal-evakuasi-kecelakaan-kereta-di-bekasi-timur"
-    },
-    {
-      "judul": "Terkuak Kekejaman di Daycare Little Aresha, Bayi Diikat Hampir Seharian, Hanya Dilepas Saat Mandi",
-      "link_berita": "https://rejogja.republika.co.id/berita/te5vpf282/terkuak-kekejaman-di-daycare-little-aresha-bayi-diikat-hampir-seharian-hanya-dilepas-saat-mandi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "TikTok Tutup 1,7 Juta Akun Anak di Indonesia",
+      "link_berita": "https://ameera.republika.co.id/berita/te7clw328/tiktok-tutup-17-juta-akun-anak-di-indonesia",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:43:57"
+    },
+    {
+      "judul": "UMJ Resmikan Gedung Kampus Tulang Bawang, Perkuat Akses Pendidikan di Lampung",
+      "link_berita": "https://news.republika.co.id/berita/te7c6j472/umj-resmikan-gedung-kampus-tulang-bawang-perkuat-akses-pendidikan-di-lampung",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:34:57"
+    },
+    {
+      "judul": "Rupiah Undervalued tapi Masih Terus Tertekan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/te7bve423/rupiah-undervalued-tapi-masih-terus-tertekan",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:27:57"
+    },
+    {
+      "judul": "Ini Penyebab Kecelakaan Kereta di Bekasi Menurut Korlantas Polri",
+      "link_berita": "https://news.republika.co.id/berita/te7b1h409/ini-penyebab-kecelakaan-kereta-di-bekasi-menurut-korlantas-polri",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:10:57"
+    },
+    {
+      "judul": "Polisi Tuntaskan Identifikasi 10 Jenazah Korban Kecelakaan Kereta Bekasi",
+      "link_berita": "https://news.republika.co.id/berita/te7b1b328/polisi-tuntaskan-identifikasi-10-jenazah-korban-kecelakaan-kereta-bekasi",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:09:57"
+    },
+    {
+      "judul": "Cuan dan Tudingan Premanisme di Perlintasan Sebidang Bekasi Timur",
+      "link_berita": "https://news.republika.co.id/berita/te7aw9393/cuan-dan-tudingan-premanisme-di-perlintasan-sebidang-bekasi-timur",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:06:57"
+    },
+    {
+      "judul": "Warga Dilibatkan dalam Deteksi TPPO",
+      "link_berita": "https://news.republika.co.id/berita/te7atw416/warga-dilibatkan-dalam-deteksi-tppo",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:05:57"
+    },
+    {
+      "judul": "Polisi Ingatkan Masyarakat Hindari Calo Saat Urus Administrasi Kendaraan di Cimahi-KBB",
+      "link_berita": "https://rejabar.republika.co.id/berita/te7ada282/polisi-ingatkan-masyarakat-hindari-calo-saat-urus-administrasi-kendaraan-di-cimahikbb",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:00:57"
+    },
+    {
+      "judul": "Perusahaan Mulai Andalkan Layanan Kesehatan Digital untuk Tekan Biaya dan Jaga Produktivitas",
+      "link_berita": "https://ekonomi.republika.co.id/berita/te7aks349/perusahaan-mulai-andalkan-layanan-kesehatan-digital-untuk-tekan-biaya-dan-jaga-produktivitas",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 11:00:57"
+    },
+    {
+      "judul": "Buntut Tabrakan KRL KA Argo Bromo Menhub Evaluasi Operasional Taksi Green SM",
+      "link_berita": "https://republika.co.id/page/shorts/yt-te7ak11619461524/buntut-tabrakan-krl-ka-argo-bromo-menhub-evaluasi-operasional-taksi-green-sm",
+      "kategori": "Video",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:59:57"
+    },
+    {
+      "judul": "KDM akan Panggil Semua Daycare di Jabar, yang Menyiksa Anak akan Kena Sanksi",
+      "link_berita": "https://rejabar.republika.co.id/berita/te7a53282/kdm-akan-panggil-semua-daycare-di-jabar-yang-menyiksa-anak-akan-kena-sanksi",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:53:57"
+    },
+    {
+      "judul": "Kiandra Ramadhipa Belajar dari Pengalaman Balap Veda Ega dan Mario Aji",
+      "link_berita": "https://news.republika.co.id/berita/te7a5v409/kiandra-ramadhipa-belajar-dari-pengalaman-balap-veda-ega-dan-mario-aji",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:51:57"
+    },
+    {
+      "judul": "Sopir Taksi Green SM Diciduk Polisi Terkait Kecelakaan KRL di Stasiun Bekasi Timur",
+      "link_berita": "https://news.republika.co.id/berita/te7a0q393/sopir-taksi-green-sm-diciduk-polisi-terkait-kecelakaan-krl-di-stasiun-bekasi-timur",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:47:57"
+    },
+    {
+      "judul": "Bengkel di Gunungjati Cirebon Terbakar, Dua Sepeda Motor Ikut Hangus",
+      "link_berita": "https://rejabar.republika.co.id/berita/te79v2282/bengkel-di-gunungjati-cirebon-terbakar-dua-sepeda-motor-ikut-hangus",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:47:57"
+    },
+    {
+      "judul": "Pemprov Jateng Batal Pajaki 20 Ribuan Kendaraan Listrik",
+      "link_berita": "https://rejogja.republika.co.id/berita/te79nn282/pemprov-jateng-batal-pajaki-20-ribuan-kendaraan-listrik",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:47:57"
+    },
+    {
+      "judul": "BPI Danantara Bakal Evaluasi KAI Keamanan dalam Sistem Perkeretaapian Jadi Prioritas",
+      "link_berita": "https://republika.co.id/page/shorts/yt-te79611359932822/bpi-danantara-bakal-evaluasi-kai-keamanan-dalam-sistem-perkeretaapian-jadi-prioritas",
+      "kategori": "Video",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:47:57"
+    },
+    {
+      "judul": "Pemerintah Uji Langsung B50 di Kereta Api",
+      "link_berita": "https://ekonomi.republika.co.id/berita/te78h1423/pemerintah-uji-langsung-b50-di-kereta-api",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:47:57"
+    },
+    {
+      "judul": "Ketika Penumpang Perempuan Pilih 'Mengungsi' ke Gerbong Campur",
+      "link_berita": "https://ameera.republika.co.id/berita/te78wy425/ketika-penumpang-perempuan-pilih-mengungsi-ke-gerbong-campur",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 10:47:57"
+    },
+    {
+      "judul": "Adegan Penyergapan Drone Hizbullah Mengguncang Israel, Publik Terus Meragukan Kemampuan Militer",
+      "link_berita": "https://khazanah.republika.co.id/berita/te78mm320/adegan-penyergapan-drone-hizbullah-mengguncang-israel-publik-terus-meragukan-kemampuan-militer",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "KAI Pastikan Refund 100 Persen Tiket KA Jarak Jauh Terdampak Insiden Bekasi",
+      "link_berita": "https://ekonomi.republika.co.id/berita/te77vn423/kai-pastikan-refund-100-persen-tiket-ka-jarak-jauh-terdampak-insiden-bekasi",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Guru Nurlela Jadi Korban Kecelakaan KRL di Bekasi, Disdik Beri Pendampingan",
+      "link_berita": "https://news.republika.co.id/berita/te77th484/guru-nurlela-jadi-korban-kecelakaan-krl-di-bekasi-disdik-beri-pendampingan",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "IIF Integrasikan Risiko Iklim ke Pembiayaan",
+      "link_berita": "https://esgnow.republika.co.id/berita/te777d416/iif-integrasikan-risiko-iklim-ke-pembiayaan",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Memahami Syahid dan Keutamaan di Balik Musibah Menurut Sabda Rasulullah",
+      "link_berita": "https://khazanah.republika.co.id/berita/te77rm430/memahami-syahid-dan-keutamaan-di-balik-musibah-menurut-sabda-rasulullah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Boston Izinkan Tradisi Tailgating di Piala Dunia, Suporter Bisa Pesta di Area Stadion Sebelum Laga",
+      "link_berita": "https://news.republika.co.id/berita/te77mc348/boston-izinkan-tradisi-tailgating-di-piala-dunia-suporter-bisa-pesta-di-area-stadion-sebelum-laga",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Keluarga Menunggu dengan Cemas Hasil Identifikasi Korban Kecelakaan KRL di RS Polri",
+      "link_berita": "https://news.republika.co.id/berita/te77jp328/keluarga-menunggu-dengan-cemas-hasil-identifikasi-korban-kecelakaan-krl-di-rs-polri",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Kemendagri Catat 504 Kasus Korupsi Kepala Daerah Sejak 2005",
+      "link_berita": "https://news.republika.co.id/berita/te77fl487/kemendagri-catat-504-kasus-korupsi-kepala-daerah-sejak-2005",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Rahasia Mengubah Musibah Jadi Rahmat Menurut Surat Al-Baqarah Ayat 155-157",
+      "link_berita": "https://iqra.republika.co.id/berita/te77cl430/rahasia-mengubah-musibah-jadi-rahmat-menurut-surat-albaqarah-ayat-155157",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "VinFast Masih Investigasi Kecelakaan Green SM di Bekasi Timur",
+      "link_berita": "https://ekonomi.republika.co.id/berita/te776u423/vinfast-masih-investigasi-kecelakaan-green-sm-di-bekasi-timur",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Polisi tak Bisa Pastikan Identifikasi Jenazah Kecelakaan Kereta Bekasi Tuntas Hari Ini",
+      "link_berita": "https://news.republika.co.id/berita/te774j348/polisi-tak-bisa-pastikan-identifikasi-jenazah-kecelakaan-kereta-bekasi-tuntas-hari-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Penampakan Taksi Listrik yang Diduga Jadi Pemicu Tabrakan Kereta di Bekasi",
+      "link_berita": "https://visual.republika.co.id/berita/te73g2375/penampakan-taksi-listrik-yang-diduga-jadi-pemicu-tabrakan-kereta-di-bekasi",
+      "kategori": "Visual",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
+      "judul": "Hak Jawab Penasihat Hukum Eks Menag Yaqut",
+      "link_berita": "https://news.republika.co.id/berita/te76bu393/hak-jawab-penasihat-hukum-eks-menag-yaqut",
+      "kategori": "News",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
+    },
+    {
       "judul": "Bea Cukai Gagalkan Ekspor Ilegal Emas, Negara Terhindar dari Kerugian Rp 41 Miliar",
       "link_berita": "https://republika.co.id/berita//te7654472/bea-cukai-gagalkan-ekspor-ilegal-emas-negara-terhindar-dari-kerugian-rp-41-miliar",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:24:40"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
     },
     {
       "judul": "Ladies, Ini Etika Saat Melewati Perlintasan Sebidang",
       "link_berita": "https://ameera.republika.co.id/berita/te760v328/ladies-ini-etika-saat-melewati-perlintasan-sebidang",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:22:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:47:57"
     },
     {
       "judul": "Susi Pudjiastuti Hadiri RUPS Bank BJB, Jadi Komisaris?",
       "link_berita": "https://ekonomi.republika.co.id/berita/te75p0423/susi-pudjiastuti-hadiri-rups-bank-bjb-jadi-komisaris",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:15:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "BUMN Siapkan Dana Benahi 1.800 Perlintasan Sebidang",
       "link_berita": "https://sharia.republika.co.id/berita/te74xa416/bumn-siapkan-dana-benahi-1800-perlintasan-sebidang",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:10:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Penasihat Jerman: Iran Lebih Kuat dari Dugaan Semua Orang, Sedangkan AS Menuju Jurang Kehinaan",
       "link_berita": "https://khazanah.republika.co.id/berita/te75fg320/penasihat-jerman-iran-lebih-kuat-dari-dugaan-semua-orang-sedangkan-as-menuju-jurang-kehinaan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:09:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Di Banyumas, Presiden Saksikan Sampah Disulap Jadi Genteng dan Bahan Bak",
       "link_berita": "https://esgnow.republika.co.id/berita/te75ca423/di-banyumas-presiden-saksikan-sampah-disulap-jadi-genteng-dan-bahan-bak",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:07:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Kesaksian Warga Pelintas Rutin Perlintasan Kereta Ampera dan Dukungan untuk Kebijakan Prabowo",
       "link_berita": "https://ekonomi.republika.co.id/berita/te7577490/kesaksian-warga-pelintas-rutin-perlintasan-kereta-ampera-dan-dukungan-untuk-kebijakan-prabowo",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 09:04:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "PLN Latih Pengelola Wisata Air Candirejo Tingkatkan Standar Keselamatan",
       "link_berita": "https://esgnow.republika.co.id/berita/te74ic416/pln-latih-pengelola-wisata-air-candirejo-tingkatkan-standar-keselamatan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:58:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Kemenhub akan Evaluasi Taksi Green SM Usai Peristiwa Tabrakan Kereta di Bekasi",
       "link_berita": "https://news.republika.co.id/berita/te73xs409/kemenhub-akan-evaluasi-taksi-green-sm-usai-peristiwa-tabrakan-kereta-di-bekasi",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:37:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Gembong OPM Jeki Murib Tewas Ditembak Mati",
       "link_berita": "https://news.republika.co.id/berita/te73qv377/gembong-opm-jeki-murib-tewas-ditembak-mati",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:33:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Naik Speedboat, Calon Haji Halmahera Barat Tiba di Ternate",
       "link_berita": "https://visual.republika.co.id/berita/te6yr2375/naik-speedboat-calon-haji-halmahera-barat-tiba-di-ternate",
       "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:30:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "MTI Sebut Insiden Taksi Green SM Terjadi 35 Menit Sebelum Tabrakan Kereta",
       "link_berita": "https://news.republika.co.id/berita/te736l416/mti-sebut-insiden-taksi-green-sm-terjadi-35-menit-sebelum-tabrakan-kereta",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "Sampaikan Duka Atas Kecelakaan di Bekasi, YLKI Dorong Pemisahan Jalur KRL dan Kereta Jarak Jauh",
       "link_berita": "https://news.republika.co.id/berita/te733v409/sampaikan-duka-atas-kecelakaan-di-bekasi-ylki-dorong-pemisahan-jalur-krl-dan-kereta-jarak-jauh",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:47:57"
     },
     {
       "judul": "BP BUMN: Pemerintah Siap Evaluasi Ribuan Perlintasan Kereta",
       "link_berita": "https://ekonomi.republika.co.id/berita/te72uu423/bp-bumn-pemerintah-siap-evaluasi-ribuan-perlintasan-kereta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:47:57"
     },
     {
       "judul": "Sidkon Djampi: Media Harus Adaptif Hadapi Tantangan Transformasi Digital",
       "link_berita": "https://rejabar.republika.co.id/berita/te72ek472/sidkon-djampi-media-harus-adaptif-hadapi-tantangan-transformasi-digital",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:47:57"
     },
     {
       "judul": "Duka di Gerbong Wanita, Basarnas Ungkap 100 Persen Korban yang Dievakuasi adalah Perempuan",
       "link_berita": "https://ameera.republika.co.id/berita/te72dz425/duka-di-gerbong-wanita-basarnas-ungkap-100-persen-korban-yang-dievakuasi-adalah-perempuan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:47:57"
     },
     {
       "judul": "Korban Tabrakan Kereta Bekasi Timur Dijamin, Santunan Capai Rp 90 Juta",
       "link_berita": "https://ekonomi.republika.co.id/berita/te72dj423/korban-tabrakan-kereta-bekasi-timur-dijamin-santunan-capai-rp-90-juta",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:47:57"
     },
     {
       "judul": "Polisi: Korban Meninggal Kecelakaan KRL Bekasi Bertambah Jadi 15 Orang",
       "link_berita": "https://news.republika.co.id/berita/te727g377/polisi-korban-meninggal-kecelakaan-krl-bekasi-bertambah-jadi-15-orang",
       "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:47:57"
     },
     {
       "judul": "Akselarasi Literasi Ekonomi Syariah, BI Jabar Luncurkan Buku Khutbah Jumat",
       "link_berita": "https://sharia.republika.co.id/berita/te724v472/akselarasi-literasi-ekonomi-syariah-bi-jabar-luncurkan-buku-khutbah-jumat",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:47:57"
     },
     {
-      "judul": "Pakar Pidana Sebut Peradilan Militer di Bawah MA dan Diawasi KY",
-      "link_berita": "https://news.republika.co.id/berita/te720p484/pakar-pidana-sebut-peradilan-militer-di-bawah-ma-dan-diawasi-ky",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 08:25:03"
+      "judul": "TikTok Tutup 1,7 Juta Akun Anak di Indonesia",
+      "link_berita": "https://ameera.republika.co.id/berita/te7clw328/tiktok-tutup-17-juta-akun-anak-di-indonesia",
+      "kategori": "Tekno",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 18:44:00"
     },
     {
-      "judul": "Pentagon: Efektivitas Pertahanan Rudal AS Menurun di Tengah Ancaman Rudal Hipersonik",
-      "link_berita": "https://news.republika.co.id/berita/te71v7451/pentagon-efektivitas-pertahanan-rudal-as-menurun-di-tengah-ancaman-rudal-hipersonik",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
+      "judul": "IIF Integrasikan Risiko Iklim ke Pembiayaan",
+      "link_berita": "https://esgnow.republika.co.id/berita/te777d416/iif-integrasikan-risiko-iklim-ke-pembiayaan",
+      "kategori": "Tata Kelola",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 17:00:00"
     },
     {
-      "judul": "Jejak Nurlela, Guru Berdedikasi yang Meninggal dalam Tabrakan Komuter di Bekasi",
-      "link_berita": "https://news.republika.co.id/berita/te71ub377/jejak-nurlela-guru-berdedikasi-yang-meninggal-dalam-tabrakan-komuter-di-bekasi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Program BRI-Barcelona Serap Rp 1,29 Triliun, Strategi Gaet Nasabah Pecinta Bola",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te71k8423/program-bribarcelona-serap-rp-129-triliun-strategi-gaet-nasabah-pecinta-bola",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Wagub Rano Sebut 4 dari 14 Korban Jiwa Kecelakaan Kereta Warga Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/te711y484/wagub-rano-sebut-4-dari-14-korban-jiwa-kecelakaan-kereta-warga-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Imbas Tabrakan Kereta, KA Jarak Jauh dari Gambir dan Pasar Senen Dihentikan Sementara",
-      "link_berita": "https://visual.republika.co.id/berita/te6y5m375/imbas-tabrakan-kereta-ka-jarak-jauh-dari-gambir-dan-pasar-senen-dihentikan-sementara",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Danantara Evaluasi Manajemen KAI Usai Insiden di Stasiun Bekasi Timur",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te70og370/danantara-evaluasi-manajemen-kai-usai-insiden-di-stasiun-bekasi-timur",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Lebih Jaksa dari Jaksa",
-      "link_berita": "https://analisis.republika.co.id/berita/te70l7415/lebih-jaksa-dari-jaksa",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Daya Tahan Eropa di Ujung Tanduk? Presiden Estonia Tetiba Ajak Damai dengan Rusia demi Minyak Moskow",
-      "link_berita": "https://news.republika.co.id/berita/te70d6451/daya-tahan-eropa-di-ujung-tanduk-presiden-estonia-tetiba-ajak-damai-dengan-rusia-demi-minyak-moskow",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Menhub Sebut Penyelesaian DDT Jadi Salah satu Fokus Evaluasi Kereta Api",
-      "link_berita": "https://news.republika.co.id/berita/te70d1393/menhub-sebut-penyelesaian-ddt-jadi-salah-satu-fokus-evaluasi-kereta-api",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Momen Evakuasi Gerbong KRL Usai Kecelakaan di Bekasi",
-      "link_berita": "https://republika.co.id/page/shorts/yt-te6zg31932538132/momen-evakuasi-gerbong-krl-usai-kecelakaan-di-bekasi",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "KDM Beri Santunan Rp50 Juta untuk Korban Kecelakaan KA",
-      "link_berita": "https://republika.co.id/page/shorts/yt-te6zg236013203/kdm-beri-santunan-rp50-juta-untuk-korban-kecelakaan-ka",
-      "kategori": "Video",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Negeri Kangguru Jadi Basis Kapal Selam Nuklir Barat, Menlu Australia Justru ke China",
-      "link_berita": "https://news.republika.co.id/berita/te6zer451/negeri-kangguru-jadi-basis-kapal-selam-nuklir-barat-menlu-australia-justru-ke-china",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "Sosok Miliarder Vietnam Pemilik Taksi Green SM",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te6z8z423/sosok-miliarder-vietnam-pemilik-taksi-green-sm",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 07:25:03"
-    },
-    {
-      "judul": "MTI Nilai Perlu SOP Wajib Jika Kendaraan Mogok di Perlintasan Rel",
-      "link_berita": "https://news.republika.co.id/berita/te6z7l425/mti-nilai-perlu-sop-wajib-jika-kendaraan-mogok-di-perlintasan-rel",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "PGN Jaga Kinerja Solid di Kuartal Pertamina Tahun Ini",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te6z1r522/pgn-jaga-kinerja-solid-di-kuartal-pertamina-tahun-ini",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Elnusa Petrofin Dorong Narasi Energi Konstruktif di Momentum 30 Tahun Perusahaan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te6yx0522/elnusa-petrofin-dorong-narasi-energi-konstruktif-di-momentum-30-tahun-perusahaan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Green SM Sampaikan Duka Mendalam atas Insiden, Tegaskan Dukungan Investigasi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te6yjj370/green-sm-sampaikan-duka-mendalam-atas-insiden-tegaskan-dukungan-investigasi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Presiden dan Menhub Temui Korban Kecelakaan Bekasi Timur, Investigasi Dimulai",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te6xx9423/presiden-dan-menhub-temui-korban-kecelakaan-bekasi-timur-investigasi-dimulai",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Polisi: 10 Jenazah di RS Kramat Jati Berjenis Kelamin Perempuan",
-      "link_berita": "https://news.republika.co.id/berita/te6yh3377/polisi-10-jenazah-di-rs-kramat-jati-berjenis-kelamin-perempuan",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Komisi V Dukung Presiden Perbaiki Total Infrastruktur KA, Tragedi Argo Bromo tak Boleh Terulang",
-      "link_berita": "https://news.republika.co.id/berita/te6yfl487/komisi-v-dukung-presiden-perbaiki-total-infrastruktur-ka-tragedi-argo-bromo-tak-boleh-terulang",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Presiden Prabowo Jenguk Korban Kecelakaan Kereta di RSUD Bekasi",
-      "link_berita": "https://visual.republika.co.id/berita/te6x06375/presiden-prabowo-jenguk-korban-kecelakaan-kereta-di-rsud-bekasi",
-      "kategori": "Visual",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Dua Politikus Israel Bersekutu untuk 'Gulingkan' Netanyahu",
-      "link_berita": "https://news.republika.co.id/berita/te6y1y377/dua-politikus-israel-bersekutu-untuk-gulingkan-netanyahu",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Pelaporan SPT 2025 Capai 12 Juta, DJP Ingatkan Batas Waktu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te6xsl370/pelaporan-spt-2025-capai-12-juta-djp-ingatkan-batas-waktu",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Kisah Istri Terakhir Rasulullah",
-      "link_berita": "https://khazanah.republika.co.id/berita/te6xsd458/kisah-istri-terakhir-rasulullah",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "KRL Dibatasi Usai Kecelakaan, Perjalanan Hanya Sampai Stasiun Bekasi",
-      "link_berita": "https://news.republika.co.id/berita/te6xr0423/krl-dibatasi-usai-kecelakaan-perjalanan-hanya-sampai-stasiun-bekasi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "Prabowo Sumbang 14 Ekor Sapi Kurban untuk Warga Sulteng, Beratnya Hampir Satu Ton",
-      "link_berita": "https://khazanah.republika.co.id/berita/te6x8l483/prabowo-sumbang-14-ekor-sapi-kurban-untuk-warga-sulteng-beratnya-hampir-satu-ton",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "KDM Bakal Beri Santunan Rp 50 Juta untuk Korban Meninggal Tabrakan KRL di Bekasi, Soroti Flyover",
-      "link_berita": "https://news.republika.co.id/berita/te6wq4487/kdm-bakal-beri-santunan-rp-50-juta-untuk-korban-meninggal-tabrakan-krl-di-bekasi-soroti-flyover",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "KRL Bekasi Ditabrak Argo Bromo, Pakar Pertanyakan PPKA: Masa tak Lihat Kereta Temper Taksi",
-      "link_berita": "https://news.republika.co.id/berita/te6wi5377/krl-bekasi-ditabrak-argo-bromo-pakar-pertanyakan-ppka-masa-tak-lihat-kereta-temper-taksi",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 06:25:03"
-    },
-    {
-      "judul": "KAI Buka Posko Penanganan di Stasiun Bekasi Timur dan Gambir",
-      "link_berita": "https://news.republika.co.id/berita/te6wb0458/kai-buka-posko-penanganan-di-stasiun-bekasi-timur-dan-gambir",
-      "kategori": "News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 05:25:03"
-    },
-    {
-      "judul": "Temui Aragchi, Putin: Rusia akan Bertindak demi Kepentingan Iran dan Kawasan",
-      "link_berita": "https://khazanah.republika.co.id/berita/te6waz483/temui-aragchi-putin-rusia-akan-bertindak-demi-kepentingan-iran-dan-kawasan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 05:25:03"
-    },
-    {
-      "judul": "Ladies, Ini Etika Saat Melewati Perlintasan Sebidang",
-      "link_berita": "https://ameera.republika.co.id/berita/te760v328/ladies-ini-etika-saat-melewati-perlintasan-sebidang",
-      "kategori": "Happening",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 16:22:00"
-    },
-    {
-      "judul": "Di Banyumas, Presiden Saksikan Sampah Disulap Jadi Genteng dan Bahan Bak",
-      "link_berita": "https://esgnow.republika.co.id/berita/te75ca423/di-banyumas-presiden-saksikan-sampah-disulap-jadi-genteng-dan-bahan-bak",
-      "kategori": "Lingkungan",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 16:07:00"
-    },
-    {
-      "judul": "Susi Pudjiastuti Hadiri RUPS Bank BJB, Jadi Komisaris?",
-      "link_berita": "https://ekonomi.republika.co.id/berita/te75p0423/susi-pudjiastuti-hadiri-rups-bank-bjb-jadi-komisaris",
+      "judul": "Rupiah Undervalued tapi Masih Terus Tertekan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/te7bve423/rupiah-undervalued-tapi-masih-terus-tertekan",
       "kategori": "Finansial",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 16:15:00"
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 18:28:00"
     },
     {
       "judul": "BUMN Siapkan Dana Benahi 1.800 Perlintasan Sebidang",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Tuesday, 28 Apr 2026, 16:10:00"
     },
     {
-      "judul": "Kemenhub akan Evaluasi Taksi Green SM Usai Peristiwa Tabrakan Kereta di Bekasi",
-      "link_berita": "https://news.republika.co.id/berita/te73xs409/kemenhub-akan-evaluasi-taksi-green-sm-usai-peristiwa-tabrakan-kereta-di-bekasi",
-      "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 28 Apr 2026, 15:37:00"
+      "judul": "UMJ Resmikan Gedung Kampus Tulang Bawang, Perkuat Akses Pendidikan di Lampung",
+      "link_berita": "https://news.republika.co.id/berita/te7c6j472/umj-resmikan-gedung-kampus-tulang-bawang-perkuat-akses-pendidikan-di-lampung",
+      "kategori": "Pendidikan",
+      "tanggal_terbit": "Tuesday, 28 Apr 2026, 18:35:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 28 Apr 2026, 16:25:03"
+  "waktu_scraping": "Tuesday, 28 Apr 2026, 18:47:57"
 }
