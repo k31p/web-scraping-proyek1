@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Gabung Petugas Haji Landis, Persembahan Dea demi Kenangan akan Sang Nenek",
+      "link_berita": "https://khazanah.republika.co.id/berita/teo01r291/gabung-petugas-haji-landis-persembahan-dea-demi-kenangan-akan-sang-nenek"
+    },
+    {
+      "judul": "Marketplace tak Lagi Ramah UMKM? Penjual Kini Pilih Bangun Website Sendiri",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tenx6y370/marketplace-tak-lagi-ramah-umkm-penjual-kini-pilih-bangun-website-sendiri"
+    },
+    {
       "judul": "Banyak Yatim Jadi Korban Pelecehan di Ponpes Ndholo Kusumo, Wagub: Mereka Ditakut-takuti",
       "link_berita": "https://khazanah.republika.co.id/berita/tenue1483/banyak-yatim-jadi-korban-pelecehan-di-ponpes-ndholo-kusumo-wagub-mereka-ditakuttakuti"
     },
@@ -11,17 +19,25 @@
     {
       "judul": "Soal Kabar Guru Honorer Dihapus, Mendikdasmen: Dampak UU ASN Baru",
       "link_berita": "https://news.republika.co.id/berita/tenq1h487/soal-kabar-guru-honorer-dihapus-mendikdasmen-dampak-uu-asn-baru"
-    },
-    {
-      "judul": "Sepuluh WNI Ditangkap Saudi Akibat Terlibat Haji Ilegal dalam Sepekan Terakhir",
-      "link_berita": "https://khazanah.republika.co.id/berita/tenp2c483/sepuluh-wni-ditangkap-saudi-akibat-terlibat-haji-ilegal-dalam-sepekan-terakhir"
-    },
-    {
-      "judul": "Tersangka Pencabulan 50 Santriwati di Pati Kabur, Pengacara Korban Bilang Begini",
-      "link_berita": "https://rejogja.republika.co.id/berita/tenm8a282/tersangka-pencabulan-50-santriwati-di-pati-kabur-pengacara-korban-bilang-begini"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Dirjen Pemasyarakatan Benarkan Ada Puluhan Lapas Bakal Kelola MBG",
+      "link_berita": "https://news.republika.co.id/berita/teo0tx475/dirjen-pemasyarakatan-benarkan-ada-puluhan-lapas-bakal-kelola-mbg"
+    },
+    {
+      "judul": "Santriwati di Ponpes Ndholo Kusumo Pati Dicabuli 10 Kali oleh Ashari",
+      "link_berita": "https://news.republika.co.id/berita/tenwyt487/santriwati-di-ponpes-ndholo-kusumo-pati-dicabuli-10-kali-oleh-ashari"
+    },
+    {
+      "judul": "Angka Pengangguran di Jabar Capai 1,79 juta, BPS: Ada Penurunan",
+      "link_berita": "https://rejabar.republika.co.id/berita/tenu1x282/angka-pengangguran-di-jabar-capai-179-juta-bps-ada-penurunan"
+    },
+    {
+      "judul": "Komisi E-Commerce Makin Mahal, Pedagang Daring Putar Otak Cari Cuan",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tentst370/komisi-ecommerce-makin-mahal-pedagang-daring-putar-otak-cari-cuan"
+    },
     {
       "judul": "Ashari Tersangka Pencabulan 50 Santriwati di Pati Bersembunyi di Rumah Juru Kunci Petilasan",
       "link_berita": "https://rejogja.republika.co.id/berita/tenrcs282/ashari-tersangka-pencabulan-50-santriwati-di-pati-bersembunyi-di-rumah-juru-kunci-petilasan"
@@ -65,330 +81,314 @@
     {
       "judul": "Tak Hanya Islam, Lihatlah Kebiadaban Tentara Israel Hina Simbol Kristen: Rokok di Patung Bunda Maria",
       "link_berita": "https://khazanah.republika.co.id/berita/ten49l320/tak-hanya-islam-lihatlah-kebiadaban-tentara-israel-hina-simbol-kristen-rokok-di-patung-bunda-maria"
-    },
-    {
-      "judul": "Israel Bunuh Sembilan Warga, Luaskan Wilayah Caplokan di Gaza",
-      "link_berita": "https://news.republika.co.id/berita/ten27u393/israel-bunuh-sembilan-warga-luaskan-wilayah-caplokan-di-gaza"
-    },
-    {
-      "judul": "Survei: 58 Persen Warga AS tak Puas dengan Kebijakan Ekonomi Trump",
-      "link_berita": "https://news.republika.co.id/berita/ten1c5409/survei-58-persen-warga-as-tak-puas-dengan-kebijakan-ekonomi-trump"
-    },
-    {
-      "judul": "Bayern vs PSG: Rekor, Rivalitas, dan Peluang Hujan Gol pada Leg Penentu Semifinal Liga Champions",
-      "link_berita": "https://news.republika.co.id/berita/teme3g348/bayern-vs-psg-rekor-rivalitas-dan-peluang-hujan-gol-pada-leg-penentu-semifinal-liga-champions"
-    },
-    {
-      "judul": "Persib Hormati Pemindahan Venue Laga Kontra Persija, Fokus Jaga Profesionalisme dan Sportivitas",
-      "link_berita": "https://news.republika.co.id/berita/temddt348/persib-hormati-pemindahan-venue-laga-kontra-persija-fokus-jaga-profesionalisme-dan-sportivitas"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Dirjen Pemasyarakatan Benarkan Ada Puluhan Lapas Bakal Kelola MBG",
+      "link_berita": "https://news.republika.co.id/berita/teo0tx475/dirjen-pemasyarakatan-benarkan-ada-puluhan-lapas-bakal-kelola-mbg",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:49:12"
+    },
+    {
+      "judul": "Indonesia Condemns Latest Israeli Assault on Global Sumud Flotilla",
+      "link_berita": "https://en.republika.co.id/berita/teo0ta415/indonesia-condemns-latest-israeli-assault-on-global-sumud-flotilla",
+      "kategori": "En",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:50:12"
+    },
+    {
+      "judul": "Polisi: AS Lecehkan Santri Sepuluh Kali, Dalihnya Supaya Bisa Menyerap Ilmu Guru",
+      "link_berita": "https://khazanah.republika.co.id/berita/teo0q2483/polisi-as-lecehkan-santri-sepuluh-kali-dalihnya-supaya-bisa-menyerap-ilmu-guru",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:47:12"
+    },
+    {
+      "judul": "Iran Tegaskan AS Wajib Beri Visa untuk Skuad Team Melli Berlaga di Piala Dunia 2026",
+      "link_berita": "https://news.republika.co.id/berita/teo0pq348/iran-tegaskan-as-wajib-beri-visa-untuk-skuad-team-melli-berlaga-di-piala-dunia-2026",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:46:12"
+    },
+    {
+      "judul": "Hasil Rapat KSSK, Purbaya Optimistis Ekonomi RI Bisa Mendekati 6 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/teo0eh370/hasil-rapat-kssk-purbaya-optimistis-ekonomi-ri-bisa-mendekati-6-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:40:12"
+    },
+    {
+      "judul": "Gabung Petugas Haji Landis, Persembahan Dea demi Kenangan akan Sang Nenek",
+      "link_berita": "https://khazanah.republika.co.id/berita/teo01r291/gabung-petugas-haji-landis-persembahan-dea-demi-kenangan-akan-sang-nenek",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:32:12"
+    },
+    {
+      "judul": "AHY Bicara Soal Penanganan Banjir dan Soroti Penanganan Ciliwung",
+      "link_berita": "https://republika.co.id/page/shorts/yt-tenzy21361620858/ahy-bicara-soal-penanganan-banjir-dan-soroti-penanganan-ciliwung",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:30:12"
+    },
+    {
+      "judul": "Ratusan Bangunan Liar di Atas Saluran Air Pasar Kemis Dibongkar",
+      "link_berita": "https://visual.republika.co.id/berita/tenxok375/ratusan-bangunan-liar-di-atas-saluran-air-pasar-kemis-dibongkar",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:30:12"
+    },
+    {
+      "judul": "Hindari Kultus Individu untuk Cegah Kejahatan Berkedok Agama",
+      "link_berita": "https://khazanah.republika.co.id/berita/tenzpt430/hindari-kultus-individu-untuk-cegah-kejahatan-berkedok-agama",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:25:12"
+    },
+    {
+      "judul": "Korban Begal Dianiaya Warga Gegara Diteriaki Pelaku",
+      "link_berita": "https://republika.co.id/page/shorts/yt-tenz92397509713/korban-begal-dianiaya-warga-gegara-diteriaki-pelaku",
+      "kategori": "Video",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:15:12"
+    },
+    {
+      "judul": "Ketika Allah Membongkar Cara Berpikir Kaum Kafir",
+      "link_berita": "https://iqra.republika.co.id/berita/tenr11451/ketika-allah-membongkar-cara-berpikir-kaum-kafir",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Thursday, 07 May 2026, 11:13:12"
+    },
+    {
+      "judul": "TVRI Gratiskan Cuplikan 90 Detik Piala Dunia 2026 untuk Media, Nobar UMKM tanpa Sponsor Digratiskan",
+      "link_berita": "https://news.republika.co.id/berita/teny36348/tvri-gratiskan-cuplikan-90-detik-piala-dunia-2026-untuk-media-nobar-umkm-tanpa-sponsor-digratiskan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Menko AHY: Normalisasi Sungai Ciliwung Terkendala Pembebasan Lahan",
+      "link_berita": "https://news.republika.co.id/berita/tenxww484/menko-ahy-normalisasi-sungai-ciliwung-terkendala-pembebasan-lahan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Sekali Lagi, Soal Visa Haji Non Kuota",
+      "link_berita": "https://analisis.republika.co.id/berita/tenxwp368/sekali-lagi-soal-visa-haji-non-kuota",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Dakwaan yang Sebut Dirjen Bea Cukai Temui Pengusaha Kargo di Hotel dan Respons Purbaya",
+      "link_berita": "https://news.republika.co.id/berita/tenxuu409/dakwaan-yang-sebut-dirjen-bea-cukai-temui-pengusaha-kargo-di-hotel-dan-respons-purbaya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "BTS Sapa 50 Ribu Penggemar di Istana Kepresidenan Meksiko",
+      "link_berita": "https://ameera.republika.co.id/berita/tenxiw425/bts-sapa-50-ribu-penggemar-di-istana-kepresidenan-meksiko",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Marketplace tak Lagi Ramah UMKM? Penjual Kini Pilih Bangun Website Sendiri",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tenx6y370/marketplace-tak-lagi-ramah-umkm-penjual-kini-pilih-bangun-website-sendiri",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Jembatan Putus, Warga Padang Pariaman Andalkan Rakit untuk Seberangi Sungai Batang Anai",
+      "link_berita": "https://visual.republika.co.id/berita/tenwyc375/jembatan-putus-warga-padang-pariaman-andalkan-rakit-untuk-seberangi-sungai-batang-anai",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Santriwati di Ponpes Ndholo Kusumo Pati Dicabuli 10 Kali oleh Ashari",
+      "link_berita": "https://news.republika.co.id/berita/tenwyt487/santriwati-di-ponpes-ndholo-kusumo-pati-dicabuli-10-kali-oleh-ashari",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Indonesia Segrup dengan Vietnam di Piala AFF U-19 2026",
+      "link_berita": "https://news.republika.co.id/berita/tenwtf348/indonesia-segrup-dengan-vietnam-di-piala-aff-u19-2026",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 10:50:12"
+    },
+    {
+      "judul": "Talenta Timnas U-17 Putri Curi Perhatian di Prancis, Pemain Indonesia Dipuji Pelatih Akademi FFF",
+      "link_berita": "https://news.republika.co.id/berita/tenwj8348/talenta-timnas-u17-putri-curi-perhatian-di-prancis-pemain-indonesia-dipuji-pelatih-akademi-fff",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Komisi III DPR Sepakat Polri Berada di Bawah Langsung Presiden",
+      "link_berita": "https://news.republika.co.id/berita/tenwib484/komisi-iii-dpr-sepakat-polri-berada-di-bawah-langsung-presiden",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Eks Dirut BJB Divonis Bebas di Kasus Sritex, Ini Pertimbangan Hakim",
+      "link_berita": "https://news.republika.co.id/berita/tenwg4409/eks-dirut-bjb-divonis-bebas-di-kasus-sritex-ini-pertimbangan-hakim",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Demi Penuhi Nafsu, Tersangka Ashari Paksa 50 Santriwati Yatim Piatu Oral Seks",
+      "link_berita": "https://rejogja.republika.co.id/berita/tenuft282/demi-penuhi-nafsu-tersangka-ashari-paksa-50-santriwati-yatim-piatu-oral-seks",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Angka Pengangguran di Jabar Capai 1,79 juta, BPS: Ada Penurunan",
+      "link_berita": "https://rejabar.republika.co.id/berita/tenu1x282/angka-pengangguran-di-jabar-capai-179-juta-bps-ada-penurunan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Disebut Jadi Penyebab Batalnya Laga Persija-Persib di GBK, GRIB Jaya: Kami Sudah Izin Jauh-Jauh Hari",
+      "link_berita": "https://news.republika.co.id/berita/tenvo4487/disebut-jadi-penyebab-batalnya-laga-persijapersib-di-gbk-grib-jaya-kami-sudah-izin-jauhjauh-hari",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Didukung Insentif, Pertumbuhan Kendaraan Listrik di Bandung Naik Signifikan",
+      "link_berita": "https://rejabar.republika.co.id/berita/tentx8282/didukung-insentif-pertumbuhan-kendaraan-listrik-di-bandung-naik-signifikan",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Saudi-Kuwait Tutup Akses Pangkalan AS, Trump Hentikan Operasi di Selat Hormuz",
+      "link_berita": "https://news.republika.co.id/berita/tenv8w393/saudikuwait-tutup-akses-pangkalan-as-trump-hentikan-operasi-di-selat-hormuz",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Langkah Lama yang Menolak Cahaya Petunjuk Baru",
+      "link_berita": "https://iqra.republika.co.id/berita/tensrh451/langkah-lama-yang-menolak-cahaya-petunjuk-baru",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Penyebab Tewasnya IRT di Bandung Barat Terungkap Usai Polisi Tangkap AS",
+      "link_berita": "https://rejabar.republika.co.id/berita/tenux3487/penyebab-tewasnya-irt-di-bandung-barat-terungkap-usai-polisi-tangkap-as",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
+      "judul": "Korban Penipuan Perumahan Mewah di Bandung Barat Laporkan Developer ke Polisi, Berharap Bisa Refund",
+      "link_berita": "https://rejabar.republika.co.id/berita/tentrb282/korban-penipuan-perumahan-mewah-di-bandung-barat-laporkan-developer-ke-polisi-berharap-bisa-refund",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
+    },
+    {
       "judul": "Uang Palsu Pecahan Rp50 Ribu Beredar di Bandung Barat, Pelaku Pura-Pura Isi Dompet Digital",
       "link_berita": "https://rejabar.republika.co.id/berita/tentjo282/uang-palsu-pecahan-rp50-ribu-beredar-di-bandung-barat-pelaku-purapura-isi-dompet-digital",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:31:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
     },
     {
       "judul": "P2G: Isu Guru Honorer Dirumahkan, Diawali Masalah Kekurangan Guru",
       "link_berita": "https://news.republika.co.id/berita/tenuh8393/p2g-isu-guru-honorer-dirumahkan-diawali-masalah-kekurangan-guru",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:31:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
     },
     {
       "judul": "Banyak Yatim Jadi Korban Pelecehan di Ponpes Ndholo Kusumo, Wagub: Mereka Ditakut-takuti",
       "link_berita": "https://khazanah.republika.co.id/berita/tenue1483/banyak-yatim-jadi-korban-pelecehan-di-ponpes-ndholo-kusumo-wagub-mereka-ditakuttakuti",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:30:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
     },
     {
       "judul": "AHY Susuri Sungai Ciliwung Pantau Proyek Pengendalian Banjir",
       "link_berita": "https://visual.republika.co.id/berita/tenucd375/ahy-susuri-sungai-ciliwung-pantau-proyek-pengendalian-banjir",
       "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:29:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
     },
     {
-      "judul": "Lelang Bandung Zoo Sepi Peminat, Eks Karyawan Harap Segera Ada Kejelasan dan Tidak Terkatung-Katung",
+      "judul": "Lelang Bandung Zoo Sepi Peminat, Eks Karyawan Harap Segera Ada Kejelasan dan tidak Terkatung-katung",
       "link_berita": "https://rejabar.republika.co.id/berita/tentct282/lelang-bandung-zoo-sepi-peminat-eks-karyawan-harap-segera-ada-kejelasan-dan-tidak-terkatungkatung",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:23:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
     },
     {
       "judul": "Media AS Beberkan Kehancuran Pangkalan AS yang Dibom Iran, Kerusakan Lebih Besar dari Laporan",
       "link_berita": "https://news.republika.co.id/berita/tenu2j377/media-as-beberkan-kehancuran-pangkalan-as-yang-dibom-iran-kerusakan-lebih-besar-dari-laporan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:23:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 09:50:12"
     },
     {
       "judul": "Bandung Barat Dikepung 174 Bencana Alam Sepanjang Januari-April 2026",
       "link_berita": "https://rejabar.republika.co.id/berita/tent88282/bandung-barat-dikepung-174-bencana-alam-sepanjang-januariapril-2026",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:17:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Komisi E-Commerce Makin Mahal, Pedagang Daring Putar Otak Cari Cuan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tentst370/komisi-ecommerce-makin-mahal-pedagang-daring-putar-otak-cari-cuan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:17:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Haji Nusantara dan Ketakutan Belanda",
       "link_berita": "https://khazanah.republika.co.id/berita/teno8x458/haji-nusantara-dan-ketakutan-belanda",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:14:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Keutamaan Haji Mabrur: Bak Bayi yang Baru Dilahirkan",
       "link_berita": "https://khazanah.republika.co.id/berita/tentln483/keutamaan-haji-mabrur-bak-bayi-yang-baru-dilahirkan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:12:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Keluarga Korban Pembunuhan Satu Keluarga di Indramayu Desak Hakim Beri Vonis Mati untuk Pelaku",
       "link_berita": "https://rejabar.republika.co.id/berita/tent4x282/keluarga-korban-pembunuhan-satu-keluarga-di-indramayu-desak-hakim-beri-vonis-mati-untuk-pelaku",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:09:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "BNI Hadirkan Fitur Life Goals di wondr, Bantu Nasabah Siapkan Dana Haji Lebih Terarah",
       "link_berita": "https://ekonomi.republika.co.id/berita/tentew368/bni-hadirkan-fitur-life-goals-di-wondr-bantu-nasabah-siapkan-dana-haji-lebih-terarah",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:08:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Truk Kontainer Tabrak Median Jalan, Tewaskan Penyapu Koin di Jembatan Sewo",
       "link_berita": "https://rejabar.republika.co.id/berita/tent6z487/truk-kontainer-tabrak-median-jalan-tewaskan-penyapu-koin-di-jembatan-sewo",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:04:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Final Liga Champions 2026: PSG dan Arsenal Berebut Torehkan Sejarah di Puskas Arena",
       "link_berita": "https://news.republika.co.id/berita/tent1x348/final-liga-champions-2026-psg-dan-arsenal-berebut-torehkan-sejarah-di-puskas-arena",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:01:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Kuartet Islam, Hexagon Israel, dan Hukum Tantangan-Tanggapan Toynbee",
       "link_berita": "https://www.republika.id/posts/60119/kuartet-islam-hexagon-israel-dan-hukum-tantangan-tanggapan-toynbee",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:59:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Diteriaki Begal oleh Pelaku, Korban Begal Malah Babak Belur Dipukuli Warga",
       "link_berita": "https://rejabar.republika.co.id/berita/tensxb282/diteriaki-begal-oleh-pelaku-korban-begal-malah-babak-belur-dipukuli-warga",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:58:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "RUPST Bank Jago Setujui Laporan Tahunan 2025, Tetapkan Susunan Direksi dan Komisaris 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/tenswc368/rupst-bank-jago-setujui-laporan-tahunan-2025-tetapkan-susunan-direksi-dan-komisaris-2026",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:57:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Nasabah Bank Jago Tembus 18,2 Juta, Tren Bank Digital Kian Menguat",
       "link_berita": "https://ekonomi.republika.co.id/berita/tensl7370/nasabah-bank-jago-tembus-182-juta-tren-bank-digital-kian-menguat",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:51:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
       "judul": "Tingkatkan Kesiapsiagaan Darurat, Hotel Borobudur Jakarta Gelar Simulasi Fire Drill",
       "link_berita": "https://ameera.republika.co.id/berita/tensin368/tingkatkan-kesiapsiagaan-darurat-hotel-borobudur-jakarta-gelar-simulasi-fire-drill",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:49:31"
+      "tanggal_terbit": "Thursday, 07 May 2026, 08:50:12"
     },
     {
-      "judul": "Kemenag Bangun 1.758 Gedung KUA dengan Dana SBSN",
-      "link_berita": "https://khazanah.republika.co.id/berita/tensee483/kemenag-bangun-1758-gedung-kua-dengan-dana-sbsn",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:47:31"
-    },
-    {
-      "judul": "Hampir Separuh Siswa Sekolah Negeri Wina Beragama Islam",
-      "link_berita": "https://khazanah.republika.co.id/berita/tens7t366/hampir-separuh-siswa-sekolah-negeri-wina-beragama-islam",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:43:31"
-    },
-    {
-      "judul": "GRIB Jaya Pakai GBK, Laga Persib Versus Persija Dipindah ke Samarinda? Begini Kata Pramono",
-      "link_berita": "https://news.republika.co.id/berita/tens2y377/grib-jaya-pakai-gbk-laga-persib-versus-persija-dipindah-ke-samarinda-begini-kata-pramono",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:40:31"
-    },
-    {
-      "judul": "Sita 14 Ribu Butir Ekstasi, Bea Cukai dan Polri Ringkus Jaringan Ekstasi Antarprovinsi",
-      "link_berita": "https://republika.co.id/berita//tenrdw368/sita-14-ribu-butir-ekstasi-bea-cukai-dan-polri-ringkus-jaringan-ekstasi-antarprovinsi",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "Ashari Tersangka Pencabulan 50 Santriwati di Pati Bersembunyi di Rumah Juru Kunci Petilasan",
-      "link_berita": "https://rejogja.republika.co.id/berita/tenrcs282/ashari-tersangka-pencabulan-50-santriwati-di-pati-bersembunyi-di-rumah-juru-kunci-petilasan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "Ekspor Raya 459 Ton Durian Beku dari Palu ke China",
-      "link_berita": "https://republika.co.id/berita//tenrbz368/ekspor-raya-459-ton-durian-beku-dari-palu-ke-china",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "BUMN Rampungkan Pembangunan Empat Embung di Banyumas",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tenr77416/bumn-rampungkan-pembangunan-empat-embung-di-banyumas",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "PNM dan MES Dorong Pendampingan UMKM Syariah lewat Program Mba Maya 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tenr96423/pnm-dan-mes-dorong-pendampingan-umkm-syariah-lewat-program-mba-maya-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "Nomor KlikBCA Bisnis Resmi dan Tips Aman Bertransaksi, Waspada dari Penipuan!",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tenr1l368/nomor-klikbca-bisnis-resmi-dan-tips-aman-bertransaksi-waspada-dari-penipuan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "ISESS: Rekomendasi Komisi Percepatan Reformasi Polri belum Sentuh Akar Masalah",
-      "link_berita": "https://news.republika.co.id/berita/tenaeq458/isess-rekomendasi-komisi-percepatan-reformasi-polri-belum-sentuh-akar-masalah",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 08:35:31"
-    },
-    {
-      "judul": "OJK Pisahkan Produk Investasi dan Tabungan Bank Syariah, Nasabah Diminta Pahami",
-      "link_berita": "https://sharia.republika.co.id/berita/tenoek416/ojk-pisahkan-produk-investasi-dan-tabungan-bank-syariah-nasabah-diminta-pahami",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Komisi C DPRD DKI Jakarta Lirik Potensi Pendapatan dari Pajak Kendaraan Listrik",
-      "link_berita": "https://news.republika.co.id/berita/tenq5m368/komisi-c-dprd-dki-jakarta-lirik-potensi-pendapatan-dari-pajak-kendaraan-listrik",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Harga Avtur Naik, Industri Logistik Mulai Beralih ke Jalur Laut",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tenq2j370/harga-avtur-naik-industri-logistik-mulai-beralih-ke-jalur-laut",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Soal Kabar Guru Honorer Dihapus, Mendikdasmen: Dampak UU ASN Baru",
-      "link_berita": "https://news.republika.co.id/berita/tenq1h487/soal-kabar-guru-honorer-dihapus-mendikdasmen-dampak-uu-asn-baru",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Permintaan Emas Dunia Naik, BUMN Tambang Didorong Tingkatkan Produksi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tenpx0522/permintaan-emas-dunia-naik-bumn-tambang-didorong-tingkatkan-produksi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "ADPIKI Dorong Sinergi dan Hilirisasi Riset Ilmu Komunikasi di Era Digital",
-      "link_berita": "https://news.republika.co.id/berita/tenpu2368/adpiki-dorong-sinergi-dan-hilirisasi-riset-ilmu-komunikasi-di-era-digital",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Mahasiswa Indonesia di AS Bangun Platform Belajar AI Gratis",
-      "link_berita": "https://ameera.republika.co.id/berita/tenpqx416/mahasiswa-indonesia-di-as-bangun-platform-belajar-ai-gratis",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Pengamat: Reformasi Polri Jangan Jadi 'Check Kosong' tanpa Pengawasan",
-      "link_berita": "https://news.republika.co.id/berita/ten9gd458/pengamat-reformasi-polri-jangan-jadi-check-kosong-tanpa-pengawasan",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Semua Kedutaan Diminta Evakuasi, Jantung Ukraina Dibayangi Sinyal Serangan Rusia",
-      "link_berita": "https://news.republika.co.id/berita/tenpol451/semua-kedutaan-diminta-evakuasi-jantung-ukraina-dibayangi-sinyal-serangan-rusia",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Prajurit TNI AL Dipastikan Meninggal Gantung Diri di Kapal Perang",
-      "link_berita": "https://news.republika.co.id/berita/tenpk7377/prajurit-tni-al-dipastikan-meninggal-gantung-diri-di-kapal-perang",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Indonesia Signs Contract to Purchase 12 Kizilelma Drones from Baykar, T\u00fcrkiye",
-      "link_berita": "https://en.republika.co.id/berita/tenp9x415/indonesia-signs-contract-to-purchase-12-kizilelma-drones-from-baykar-trkiye",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:35:31"
-    },
-    {
-      "judul": "The Nusa Dua Jadi Benchmark Nasional Pengembangan Kawasan Pariwisata Berkelanjutan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tenp3i368/the-nusa-dua-jadi-benchmark-nasional-pengembangan-kawasan-pariwisata-berkelanjutan",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "President Departs for the Philippines to Attend 48th ASEAN Summit",
-      "link_berita": "https://en.republika.co.id/berita/tenp36415/president-departs-for-the-philippines-to-attend-48th-asean-summit",
-      "kategori": "En",
-      "tanggal_terbit": "Thursday, 07 May 2026, 09:35:31"
-    },
-    {
-      "judul": "Sepuluh WNI Ditangkap Saudi Akibat Terlibat Haji Ilegal dalam Sepekan Terakhir",
-      "link_berita": "https://khazanah.republika.co.id/berita/tenp2c483/sepuluh-wni-ditangkap-saudi-akibat-terlibat-haji-ilegal-dalam-sepekan-terakhir",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Sejarah Pelayaran Haji: Perjuangan Jamaah Indonesia Menuju Tanah Suci",
-      "link_berita": "https://khazanah.republika.co.id/berita/tennua458/sejarah-pelayaran-haji-perjuangan-jamaah-indonesia-menuju-tanah-suci",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Sajak Hati yang Tahu Arah Namun Enggan Pulang",
-      "link_berita": "https://iqra.republika.co.id/berita/tenmlz451/sajak-hati-yang-tahu-arah-namun-enggan-pulang",
-      "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Kemenhaj Larang City Tour Bagi Jamaah Sebelum Puncak Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/tenolm483/kemenhaj-larang-city-tour-bagi-jamaah-sebelum-puncak-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Pertumbuhan Ekonomi Kuartal I 2026 Memang Tinggi, tapi Pemerintah Punya Banyak PR",
-      "link_berita": "https://ekonomi.republika.co.id/berita/teno6m370/pertumbuhan-ekonomi-kuartal-i-2026-memang-tinggi-tapi-pemerintah-punya-banyak-pr",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Temui Keluhan Layanan Selama di Tanah Suci, Jamaah Diminta Mengadu ke Kawal Haji",
-      "link_berita": "https://khazanah.republika.co.id/berita/teno59483/temui-keluhan-layanan-selama-di-tanah-suci-jamaah-diminta-mengadu-ke-kawal-haji",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Presiden Iran Curhat ke Macron: Kami Ditusuk dari Belakang Dua Kali oleh Amerika",
-      "link_berita": "https://news.republika.co.id/berita/tennw9377/presiden-iran-curhat-ke-macron-kami-ditusuk-dari-belakang-dua-kali-oleh-amerika",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "5 Cara Main Trading dari Nol Buat Pemula",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tennvx472/5-cara-main-trading-dari-nol-buat-pemula",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 07 May 2026, 07:35:31"
-    },
-    {
-      "judul": "Tingkatkan Kesiapsiagaan Darurat, Hotel Borobudur Jakarta Gelar Simulasi Fire Drill",
-      "link_berita": "https://ameera.republika.co.id/berita/tensin368/tingkatkan-kesiapsiagaan-darurat-hotel-borobudur-jakarta-gelar-simulasi-fire-drill",
+      "judul": "BTS Sapa 50 Ribu Penggemar di Istana Kepresidenan Meksiko",
+      "link_berita": "https://ameera.republika.co.id/berita/tenxiw425/bts-sapa-50-ribu-penggemar-di-istana-kepresidenan-meksiko",
       "kategori": "Happening",
-      "tanggal_terbit": "Thursday, 07 May 2026, 15:49:00"
+      "tanggal_terbit": "Thursday, 07 May 2026, 17:37:00"
     },
     {
       "judul": "Indonesia Bidik Jadi Hub Baterai Asia Lewat Ekosistem Industri Berkelanjutan",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 07 May 2026, 12:10:00"
     },
     {
-      "judul": "Komisi E-Commerce Makin Mahal, Pedagang Daring Putar Otak Cari Cuan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tentst370/komisi-ecommerce-makin-mahal-pedagang-daring-putar-otak-cari-cuan",
-      "kategori": "Bisnis",
-      "tanggal_terbit": "Thursday, 07 May 2026, 16:17:00"
+      "judul": "Hasil Rapat KSSK, Purbaya Optimistis Ekonomi RI Bisa Mendekati 6 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/teo0eh370/hasil-rapat-kssk-purbaya-optimistis-ekonomi-ri-bisa-mendekati-6-persen",
+      "kategori": "Finansial",
+      "tanggal_terbit": "Thursday, 07 May 2026, 18:39:00"
     },
     {
       "judul": "OJK Pisahkan Produk Investasi dan Tabungan Bank Syariah, Nasabah Diminta Pahami",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 07 May 2026, 15:00:00"
     },
     {
-      "judul": "P2G: Isu Guru Honorer Dirumahkan, Diawali Masalah Kekurangan Guru",
-      "link_berita": "https://news.republika.co.id/berita/tenuh8393/p2g-isu-guru-honorer-dirumahkan-diawali-masalah-kekurangan-guru",
+      "judul": "Dirjen Pemasyarakatan Benarkan Ada Puluhan Lapas Bakal Kelola MBG",
+      "link_berita": "https://news.republika.co.id/berita/teo0tx475/dirjen-pemasyarakatan-benarkan-ada-puluhan-lapas-bakal-kelola-mbg",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Thursday, 07 May 2026, 16:31:00"
+      "tanggal_terbit": "Thursday, 07 May 2026, 18:49:00"
     }
   ],
-  "waktu_scraping": "Thursday, 07 May 2026, 16:35:31"
+  "waktu_scraping": "Thursday, 07 May 2026, 18:50:12"
 }
