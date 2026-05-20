@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Berkah dari Mengurus Orang Tua",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfc6yr458/berkah-dari-mengurus-orang-tua"
+    },
+    {
+      "judul": "VinFast Produksi Lokal VF MPV 7, Tambah Fitur Baru untuk Konsumen Indonesia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfc780348/vinfast-produksi-lokal-vf-mpv-7-tambah-fitur-baru-untuk-konsumen-indonesia"
+    },
+    {
       "judul": "Panitia Ungkap Israel Kasari Para Aktivis Global Sumud, Saatnya Tingkatkan Tekanan",
       "link_berita": "https://news.republika.co.id/berita/tfc49i393/panitia-ungkap-israel-kasari-para-aktivis-global-sumud-saatnya-tingkatkan-tekanan"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Kesiapan Tenda Jamaah Haji di Mina Hampir Rampung Jelang Armuzna",
       "link_berita": "https://khazanah.republika.co.id/berita/tfbzig366/kesiapan-tenda-jamaah-haji-di-mina-hampir-rampung-jelang-armuzna"
-    },
-    {
-      "judul": "Laporan: IDF Sebut Sembilan WNI Baik-Baik Saja, Bakal Dibebaskan",
-      "link_berita": "https://news.republika.co.id/berita/tfbwul393/laporan-idf-sebut-sembilan-wni-baikbaik-saja-bakal-dibebaskan"
-    },
-    {
-      "judul": "Presiden Pertanyakan Pertumbuhan Ekonomi 35 Persen, tapi Kelas Menengah Turun",
-      "link_berita": "https://news.republika.co.id/berita/tfbwpz484/presiden-pertanyakan-pertumbuhan-ekonomi-35-persen-tapi-kelas-menengah-turun"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Persija Jadi Klub Sepak Bola Pertama di Indonesia yang Gunakan Bus Listrik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfcbkt348/persija-jadi-klub-sepak-bola-pertama-di-indonesia-yang-gunakan-bus-listrik"
+    },
+    {
+      "judul": "Jangan Pandang Rendah Orang Miskin",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfc6jt458/jangan-pandang-rendah-orang-miskin"
+    },
     {
       "judul": "VinFast Luncurkan VF MPV 7 Rakitan Indonesia, Ramaikan Pasar MPV Listrik untuk Keluarga",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc6al348/vinfast-luncurkan-vf-mpv-7-rakitan-indonesia-ramaikan-pasar-mpv-listrik-untuk-keluarga"
@@ -73,316 +81,308 @@
     {
       "judul": "Prabowo Beberkan Target Pertumbuhan Ekonomi dan Kurs Rupiah 2027 di DPR, Segini Angkanya",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfbifk416/prabowo-beberkan-target-pertumbuhan-ekonomi-dan-kurs-rupiah-2027-di-dpr-segini-angkanya"
-    },
-    {
-      "judul": "Pesan Terakhir Penjaga Masjid San Diego yang Gugur Terbunuh, Inginkan Kematian Husnul Khatimah",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfbgne320/pesan-terakhir-penjaga-masjid-san-diego-yang-gugur-terbunuh-inginkan-kematian-husnul-khatimah"
-    },
-    {
-      "judul": "Relawan Global Sumud Flotilla Bakal Dibawa ke Penjara Ketziot",
-      "link_berita": "https://news.republika.co.id/berita/tfbg85393/relawan-global-sumud-flotilla-bakal-dibawa-ke-penjara-ketziot"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Kemenhaj Pastikan Makanan Instan Jamaah Haji Bisa Langsung Dimakan",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfbyrh366/kemenhaj-pastikan-makanan-instan-jamaah-haji-bisa-langsung-dimakan",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:49:42"
+    },
+    {
+      "judul": "PBVSI Tambah Dua Amunisi Baru untuk Timnas Voli Putra",
+      "link_berita": "https://news.republika.co.id/berita/tfch9o348/pbvsi-tambah-dua-amunisi-baru-untuk-timnas-voli-putra",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:46:42"
+    },
+    {
+      "judul": "Polda Metro Jaya Tangkap 16 Pelaku Begal dalam Tiga Hari",
+      "link_berita": "https://news.republika.co.id/berita/tfch27348/polda-metro-jaya-tangkap-16-pelaku-begal-dalam-tiga-hari",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:41:42"
+    },
+    {
+      "judul": "Sindiran Menohok Rasulullah untuk Teman Buruk",
+      "link_berita": "https://iqra.republika.co.id/berita/tfceip451/sindiran-menohok-rasulullah-untuk-teman-buruk",
+      "kategori": "Iqra",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:39:42"
+    },
+    {
+      "judul": "Inkopontren Gelar Rakernas, Kiai Marsudi: Santri Harus Jadi Penggerak Ekonomi",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfbywf320/inkopontren-gelar-rakernas-kiai-marsudi-santri-harus-jadi-penggerak-ekonomi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:29:42"
+    },
+    {
+      "judul": "UEFA Nations League akan Pakai Format Mirip Liga Champions",
+      "link_berita": "https://news.republika.co.id/berita/tfcg91348/uefa-nations-league-akan-pakai-format-mirip-liga-champions",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:24:42"
+    },
+    {
+      "judul": "Fermin Lopez Jalani Operasi, Pasrah Jadi Penonton Saat Piala Dunia 2026 Bergulir",
+      "link_berita": "https://news.republika.co.id/berita/tfcfmk348/fermin-lopez-jalani-operasi-pasrah-jadi-penonton-saat-piala-dunia-2026-bergulir",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 16:10:42"
+    },
+    {
+      "judul": "Capaian Satgas PKH Diapresiasi, Ini Beberapa Catatan Penting yang Harus Diperhatikan",
+      "link_berita": "https://news.republika.co.id/berita/tfbyat320/capaian-satgas-pkh-diapresiasi-ini-beberapa-catatan-penting-yang-harus-diperhatikan",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:59:42"
+    },
+    {
+      "judul": "Ribuan Paket Sembako Gratis Disalurkan kepada Mahasiswa di Kalteng",
+      "link_berita": "https://visual.republika.co.id/berita/tfccaj375/ribuan-paket-sembako-gratis-disalurkan-kepada-mahasiswa-di-kalteng",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:59:42"
+    },
+    {
+      "judul": "Manajer Persija Akui Timnya tak Punya Goal Getter Musim Ini",
+      "link_berita": "https://news.republika.co.id/berita/tfcezy348/manajer-persija-akui-timnya-tak-punya-goal-getter-musim-ini",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:57:42"
+    },
+    {
+      "judul": "Asia Pacific Cup 2026, Turnamen Basket Bergengsi Usia Muda Kini Hadir di Jakarta",
+      "link_berita": "https://news.republika.co.id/berita/tfcepz348/asia-pacific-cup-2026-turnamen-basket-bergengsi-usia-muda-kini-hadir-di-jakarta",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:53:42"
+    },
+    {
+      "judul": "Menkum Supratman Pastikan Negara Hadir Lindungi WNI yang Duculik Zionis Israel",
+      "link_berita": "https://news.republika.co.id/berita/tfceaq348/menkum-supratman-pastikan-negara-hadir-lindungi-wni-yang-duculik-zionis-israel",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:53:42"
+    },
+    {
+      "judul": "Beda Gaya dengan Jakarta, Bogor Pilih Sulap Ikan Sapu-Sapu Jadi Pupuk Organik",
+      "link_berita": "https://republika.co.id/berita//tfce4z451/beda-gaya-dengan-jakarta-bogor-pilih-sulap-ikan-sapu-sapu-jadi-pupuk-organik",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:53:42"
+    },
+    {
+      "judul": "Tips Pilih Kambing Kurban Bukan Asal Gemuk Saja",
+      "link_berita": "https://republika.co.id/page/shorts/yt-tfcdq11003791275/tips-pilih-kambing-kurban-bukan-asal-gemuk-saja",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:53:42"
+    },
+    {
+      "judul": "Alumnusnya Diculik Israel, UII Minta Tindakan Lekas Pemerintah",
+      "link_berita": "https://news.republika.co.id/berita/tfcdhh393/alumnusnya-diculik-israel-uii-minta-tindakan-lekas-pemerintah",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 15:53:42"
+    },
+    {
+      "judul": "Soal WNI Ditahan Zionis, Menteri HAM: Kami tak Bisa ke Israel karena tidak Punya Hubungan Diplomatik",
+      "link_berita": "https://news.republika.co.id/berita/tfccra377/soal-wni-ditahan-zionis-menteri-ham-kami-tak-bisa-ke-israel-karena-tidak-punya-hubungan-diplomatik",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 14:53:42"
+    },
+    {
+      "judul": "Command Center Pupuk Indonesia Pantau Stok dan Distribusi Secara Real Time",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfca9k416/command-center-pupuk-indonesia-pantau-stok-dan-distribusi-secara-real-time",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 14:53:42"
+    },
+    {
+      "judul": "Ribuan Ojol Se-Jateng Gelar Aksi Demo, Tuntut Tarif Adil dan Tolak Opsen Pajak",
+      "link_berita": "https://visual.republika.co.id/berita/tfcbyf375/ribuan-ojol-sejateng-gelar-aksi-demo-tuntut-tarif-adil-dan-tolak-opsen-pajak",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 14:53:42"
+    },
+    {
+      "judul": "Persija Jadi Klub Sepak Bola Pertama di Indonesia yang Gunakan Bus Listrik",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfcbkt348/persija-jadi-klub-sepak-bola-pertama-di-indonesia-yang-gunakan-bus-listrik",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 14:53:42"
+    },
+    {
+      "judul": "Jangan Asal Ini Cara Lempar Jumrah yang Benar",
+      "link_berita": "https://republika.co.id/page/shorts/yt-tfcay21431877191/jangan-asal-ini-cara-lempar-jumrah-yang-benar",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 14:53:42"
+    },
+    {
+      "judul": "Berkah dari Mengurus Orang Tua",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfc6yr458/berkah-dari-mengurus-orang-tua",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 13:53:42"
+    },
+    {
+      "judul": "Wakapolri Sebut Terorisme Kini Bergerak Lewat Jejaring yang Sulit Dideteksi",
+      "link_berita": "https://news.republika.co.id/berita/tfc9ki368/wakapolri-sebut-terorisme-kini-bergerak-lewat-jejaring-yang-sulit-dideteksi",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 13:53:42"
+    },
+    {
+      "judul": "Ketika Sahabat Meninggikan Suara di Depan Nabi",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfc6td458/ketika-sahabat-meninggikan-suara-di-depan-nabi",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 13:53:42"
+    },
+    {
       "judul": "Hari Kebangkitan Nasional, UMJ Luncurkan I-CHIP untuk Kawal Masa Depan Kesehatan Indonesia",
       "link_berita": "https://news.republika.co.id/berita/tfc89b368/hari-kebangkitan-nasional-umj-luncurkan-ichip-untuk-kawal-masa-depan-kesehatan-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:32:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 13:53:42"
     },
     {
       "judul": "Rasulullah dan Ikatan Batu Pengganjal Lapar",
       "link_berita": "https://khazanah.republika.co.id/berita/tfc6ol458/rasulullah-dan-ikatan-batu-pengganjal-lapar",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:30:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 13:53:42"
     },
     {
       "judul": "Peringati Hari Kebangkitan Nasional, Bank Mandiri Salurkan 2.800 Paket Sembako di Bandung",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc7mj368/peringati-hari-kebangkitan-nasional-bank-mandiri-salurkan-2800-paket-sembako-di-bandung",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:18:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Jangan Pandang Rendah Orang Miskin",
       "link_berita": "https://khazanah.republika.co.id/berita/tfc6jt458/jangan-pandang-rendah-orang-miskin",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:16:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Buku Karya Polri Kupas Perspektif Baru tentang Ancaman Digital",
       "link_berita": "https://news.republika.co.id/berita/tfc7aa368/buku-karya-polri-kupas-perspektif-baru-tentang-ancaman-digital",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:11:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "VinFast Produksi Lokal VF MPV 7, Tambah Fitur Baru untuk Konsumen Indonesia",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc780348/vinfast-produksi-lokal-vf-mpv-7-tambah-fitur-baru-untuk-konsumen-indonesia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:09:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Organisasi Petani Soroti Rencana Pemerintah Ekspor Sawit Wajib Lewat BUMN",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc6x3484/organisasi-petani-soroti-rencana-pemerintah-ekspor-sawit-wajib-lewat-bumn",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 13:03:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Lintas Armada Indonesia Salurkan Bantuan ke Empat Panti di Jakarta",
       "link_berita": "https://news.republika.co.id/berita/tfc6o1487/lintas-armada-indonesia-salurkan-bantuan-ke-empat-panti-di-jakarta",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:57:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Siap-Siap Jadi Miliarder! Pengundian BAGI HOKI 2026 Periode 1 Segera Digelar",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc6i8368/siapsiap-jadi-miliarder-pengundian-bagi-hoki-2026-periode-1-segera-digelar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:54:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Larangan Menyerupai Lawan Jenis",
       "link_berita": "https://khazanah.republika.co.id/berita/tfc6g7458/larangan-menyerupai-lawan-jenis",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "VinFast Luncurkan VF MPV 7 Rakitan Indonesia, Ramaikan Pasar MPV Listrik untuk Keluarga",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc6al348/vinfast-luncurkan-vf-mpv-7-rakitan-indonesia-ramaikan-pasar-mpv-listrik-untuk-keluarga",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:49:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "WNI Ditangkap Israel Ini Langkah Menteri HAM",
       "link_berita": "https://republika.co.id/page/shorts/yt-tfc6312142515832/wni-ditangkap-israel-ini-langkah-menteri-ham",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:45:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Pramono Naik Haji, Jakarta Sementara Dipimpin Rano Karno",
       "link_berita": "https://news.republika.co.id/berita/tfc609487/pramono-naik-haji-jakarta-sementara-dipimpin-rano-karno",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:43:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "DPRD Kawal 3.600 Koperasi Merah Putih di Jabar",
       "link_berita": "https://rejabar.republika.co.id/berita/tfc5y5368/dprd-kawal-3600-koperasi-merah-putih-di-jabar",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "IAEI Lantik 13 Komisariat Baru di Wilayah Jabodetabek, Siap Perkuat Ekonomi Islam",
       "link_berita": "https://sharia.republika.co.id/berita/tfc5r9368/iaei-lantik-13-komisariat-baru-di-wilayah-jabodetabek-siap-perkuat-ekonomi-islam",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Infrastruktur SPKLU Khusus Jadi Kunci, Kalista Paparkan Alasan Transisi EV Logistik Kian Masuk Akal",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc5fg348/infrastruktur-spklu-khusus-jadi-kunci-kalista-paparkan-alasan-transisi-ev-logistik-kian-masuk-akal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 12:53:42"
     },
     {
       "judul": "Pembentukan 750 Yon TP, Gubernur Lemhannas: Sudah Dirancang Kementerian Pertahanan",
       "link_berita": "https://news.republika.co.id/berita/tfc510484/pembentukan-750-yon-tp-gubernur-lemhannas-sudah-dirancang-kementerian-pertahanan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 12:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Tekanan Biaya Hidup, Ratusan Ojol di Jateng Demo Desak UU Transportasi Online Disahkan",
       "link_berita": "https://rejogja.republika.co.id/berita/tfc4e3282/tekanan-biaya-hidup-ratusan-ojol-di-jateng-demo-desak-uu-transportasi-online-disahkan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Panitia Ungkap Israel Kasari Para Aktivis Global Sumud, Saatnya Tingkatkan Tekanan",
       "link_berita": "https://news.republika.co.id/berita/tfc49i393/panitia-ungkap-israel-kasari-para-aktivis-global-sumud-saatnya-tingkatkan-tekanan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Airlangga dan Rosan Bakal Umumkan Skema Teknis Danantara Sumberdaya Indonesia Besok",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc44u490/airlangga-dan-rosan-bakal-umumkan-skema-teknis-danantara-sumberdaya-indonesia-besok",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Pemprov Jakarta Putuskan LRT Diperpanjang hingga Dukuh Atas",
       "link_berita": "https://republika.co.id/page/shorts/yt-tfc4021713198432/pemprov-jakarta-putuskan-lrt-diperpanjang-hingga-dukuh-atas",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Pertanyaan Rasulullah untuk yang Ingin Berzina",
       "link_berita": "https://khazanah.republika.co.id/berita/tfc2v1458/pertanyaan-rasulullah-untuk-yang-ingin-berzina",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Tradisi Marosok, Cara Unik Pedagang dan Pembeli Ternak Bertransaksi di Padang Pariaman",
       "link_berita": "https://visual.republika.co.id/berita/tfc182375/tradisi-marosok-cara-unik-pedagang-dan-pembeli-ternak-bertransaksi-di-padang-pariaman",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Kemendagri: Mojokerto Jadi Daerah Paling Inovatif Lima Tahun Berturut-turut",
       "link_berita": "https://rejogja.republika.co.id/berita/tfc3nl483/kemendagri-mojokerto-jadi-daerah-paling-inovatif-lima-tahun-berturutturut",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Ekspor Sawit-Tambang Wajib Lewat DSI, Ini Upaya Danantara Tepis Kekhawatiran Pengusaha",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc3kz490/ekspor-sawittambang-wajib-lewat-dsi-ini-upaya-danantara-tepis-kekhawatiran-pengusaha",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "'Aisyiyah Luncurkan 116 Posbakum di Momen Milad ke-109, Jadi Bagian Dakwah Kemanusiaan",
       "link_berita": "https://rejogja.republika.co.id/berita/tfc3kp291/aisyiyah-luncurkan-116-posbakum-di-momen-milad-ke109-jadi-bagian-dakwah-kemanusiaan",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "CORE Prediksi Risiko PHK Meningkat pada Kuartal II 2026 Akibat Tekanan Global",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfc3db370/core-prediksi-risiko-phk-meningkat-pada-kuartal-ii-2026-akibat-tekanan-global",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Tiga Metode Dakwah Nabi",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfc2of458/tiga-metode-dakwah-nabi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Kebangkitan Nasional dan Krisis Imajinasi Pembangunan Negara",
-      "link_berita": "https://analisis.republika.co.id/berita/tfc369282/kebangkitan-nasional-dan-krisis-imajinasi-pembangunan-negara",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "NATO Pertimbangkan Gelar Operasi Pengawalan Kapal-Kapal Lintasi Selat Hormuz",
-      "link_berita": "https://news.republika.co.id/berita/tfc309409/nato-pertimbangkan-gelar-operasi-pengawalan-kapalkapal-lintasi-selat-hormuz",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "KKRG UMJ Gaungkan Kepedulian Lingkungan Lewat Gerakan Pembuatan Ecoenzym",
-      "link_berita": "https://news.republika.co.id/berita/tfc2pr368/kkrg-umj-gaungkan-kepedulian-lingkungan-lewat-gerakan-pembuatan-ecoenzym",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Syuhada yang Berjalan di Muka Bumi",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfc2ja458/syuhada-yang-berjalan-di-muka-bumi",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Ini Tahapan Danantara Sumberdaya Indonesia dari Perantara Jadi Trader Komoditas Strategis",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tfc2ie490/ini-tahapan-danantara-sumberdaya-indonesia-dari-perantara-jadi-trader-komoditas-strategis",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Cek Lapak Pedagang, Bupati Jeje Jamin Kesehatan Hewan Kurban di Bandung Barat",
-      "link_berita": "https://rejabar.republika.co.id/berita/tfc2a4368/cek-lapak-pedagang-bupati-jeje-jamin-kesehatan-hewan-kurban-di-bandung-barat",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Adalah: Israel Batasi Akses Informasi Aktivis Global Sumud Flotilla yang Ditahan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfc24z483/adalah-israel-batasi-akses-informasi-aktivis-global-sumud-flotilla-yang-ditahan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Pemerintah Jadikan Kesehatan Perempuan Prioritas Pembangunan Manusia",
-      "link_berita": "https://news.republika.co.id/berita/tfc1yy416/pemerintah-jadikan-kesehatan-perempuan-prioritas-pembangunan-manusia",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Wakil Wali Kota Cimahi Beberkan Siasat Atasi Tekanan Fiskal Daerah di Hadapan KSP",
-      "link_berita": "https://rejabar.republika.co.id/berita/tfc1y4368/wakil-wali-kota-cimahi-beberkan-siasat-atasi-tekanan-fiskal-daerah-di-hadapan-ksp",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 11:42:14"
-    },
-    {
-      "judul": "Suasana Haru Selimuti Aksi Doa Bersama untuk Korban Penembakan di Masjid San Diego",
-      "link_berita": "https://visual.republika.co.id/berita/tfc134375/suasana-haru-selimuti-aksi-doa-bersama-untuk-korban-penembakan-di-masjid-san-diego",
-      "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Sumber: Sembilan WNI yang Diculik Israel Sehat, tak Dikenai Pasal Kriminal",
-      "link_berita": "https://news.republika.co.id/berita/tfc0rg393/sumber-sembilan-wni-yang-diculik-israel-sehat-tak-dikenai-pasal-kriminal",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Bea Cukai dan TNI Bongkar Sindikat Produksi Pita Cukai Ilegal di Jawa Tengah",
-      "link_berita": "https://republika.co.id/berita//tfc0ls368/bea-cukai-dan-tni-bongkar-sindikat-produksi-pita-cukai-ilegal-di-jawa-tengah",
-      "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Spill Cara Ikutan Gladi Bersih Padang Mahsyar",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tfc0j2273257368/spill-cara-ikutan-gladi-bersih-padang-mahsyar",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Menko Polkam Upayakan Pembebasan WNI yang Diculik Israel",
-      "link_berita": "https://news.republika.co.id/berita/tfc04w393/menko-polkam-upayakan-pembebasan-wni-yang-diculik-israel",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "DPRD Jabar Usulkan Raperda Soal LGBT",
-      "link_berita": "https://news.republika.co.id/berita/tfbziw377/dprd-jabar-usulkan-raperda-soal-lgbt",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Kesiapan Tenda Jamaah Haji di Mina Hampir Rampung Jelang Armuzna",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfbzig366/kesiapan-tenda-jamaah-haji-di-mina-hampir-rampung-jelang-armuzna",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Ibunda Thoudy Badai Fotografer Republika yang Diculik Israel, Berdoa Anaknya Cepat Pulang",
-      "link_berita": "https://rejabar.republika.co.id/berita/tfbzf9282/ibunda-thoudy-badai-fotografer-republika-yang-diculik-israel-berdoa-anaknya-cepat-pulang",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Bahlil Jelaskan Alasan Hulu Migas Dikecualikan dari Aturan Ekspor Satu Pintu",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tfbz9j490/bahlil-jelaskan-alasan-hulu-migas-dikecualikan-dari-aturan-ekspor-satu-pintu",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Sayonara Adi Daya, Putin - Xi Jinping Tanda Tangani 20 Pakta, Dunia Multipolar Dimulai",
-      "link_berita": "https://news.republika.co.id/berita/tfbz8h451/sayonara-adi-daya-putin-xi-jinping-tanda-tangani-20-pakta-dunia-multipolar-dimulai",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 10:42:14"
-    },
-    {
-      "judul": "Cashback Hingga Rp100 Ribu, bank bjb Ajak Nasabah Bayar Pajak Lewat DIGI",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tfbyxo368/cashback-hingga-rp100-ribu-bank-bjb-ajak-nasabah-bayar-pajak-lewat-digi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 09:42:14"
-    },
-    {
-      "judul": "Cegah Hantavirus, Pemprov Jateng akan Tekan Populasi Tikus",
-      "link_berita": "https://rejogja.republika.co.id/berita/tfbyqj282/cegah-hantavirus-pemprov-jateng-akan-tekan-populasi-tikus",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 09:42:14"
-    },
-    {
-      "judul": "Imigrasi Bongkar Sindikat Love Scamming, 19 WNA Dideportasi",
-      "link_berita": "https://news.republika.co.id/berita/tfbyac416/imigrasi-bongkar-sindikat-love-scamming-19-wna-dideportasi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 09:42:14"
+      "tanggal_terbit": "Wednesday, 20 May 2026, 11:53:42"
     },
     {
       "judul": "Protes Warganet Korea atas Kontroversi Drama \u2018Perfect Crown\u2019",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 20 May 2026, 16:00:00"
     },
     {
-      "judul": "Peringati Hari Kebangkitan Nasional, Bank Mandiri Salurkan 2.800 Paket Sembako di Bandung",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tfc7mj368/peringati-hari-kebangkitan-nasional-bank-mandiri-salurkan-2800-paket-sembako-di-bandung",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 20:18:00"
+      "judul": "Command Center Pupuk Indonesia Pantau Stok dan Distribusi Secara Real Time",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfca9k416/command-center-pupuk-indonesia-pantau-stok-dan-distribusi-secara-real-time",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 22:00:00"
     },
     {
       "judul": "IAEI Lantik 13 Komisariat Baru di Wilayah Jabodetabek, Siap Perkuat Ekonomi Islam",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 20 May 2026, 19:37:00"
     },
     {
-      "judul": "Hari Kebangkitan Nasional, UMJ Luncurkan I-CHIP untuk Kawal Masa Depan Kesehatan Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/tfc89b368/hari-kebangkitan-nasional-umj-luncurkan-ichip-untuk-kawal-masa-depan-kesehatan-indonesia",
-      "kategori": "Pendidikan",
-      "tanggal_terbit": "Wednesday, 20 May 2026, 20:31:00"
+      "judul": "PBVSI Tambah Dua Amunisi Baru untuk Timnas Voli Putra",
+      "link_berita": "https://news.republika.co.id/berita/tfch9o348/pbvsi-tambah-dua-amunisi-baru-untuk-timnas-voli-putra",
+      "kategori": "Sport",
+      "tanggal_terbit": "Wednesday, 20 May 2026, 23:46:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 20 May 2026, 20:42:14"
+  "waktu_scraping": "Wednesday, 20 May 2026, 23:53:42"
 }
