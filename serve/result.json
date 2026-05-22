@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Konjen RI Ungkap WNI yang Diculik Israel Alami Penyiksaan: Ditendang hingga Disetrum",
+      "link_berita": "https://news.republika.co.id/berita/tfetep502/konjen-ri-ungkap-wni-yang-diculik-israel-alami-penyiksaan-ditendang-hingga-disetrum"
+    },
+    {
       "judul": "Khutbah Arafah 2026 Disiarkan dalam 34 Bahasa, Disampaikan Syekh Hudhaify",
       "link_berita": "https://khazanah.republika.co.id/berita/tfdzjk366/khutbah-arafah-2026-disiarkan-dalam-34-bahasa-disampaikan-syekh-hudhaify"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "BREAKING NEWS: Semua Pesawat Pembawa Relawan Global Sumud Flotilla Tiba di Turki",
       "link_berita": "https://news.republika.co.id/berita/tfe68k393/breaking-news-semua-pesawat-pembawa-relawan-global-sumud-flotilla-tiba-di-turki"
-    },
-    {
-      "judul": "Menlu RI: Sembilan WNI Ditangkap Israel Telah Dibebaskan, Sekarang Menuju Turki",
-      "link_berita": "https://news.republika.co.id/berita/tfe3ft377/menlu-ri-sembilan-wni-ditangkap-israel-telah-dibebaskan-sekarang-menuju-turki"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Zohar Regev Dilepas, Seluruh Relawan Global Sumud Flotilla Bebas",
+      "link_berita": "https://news.republika.co.id/berita/tfeumx393/zohar-regev-dilepas-seluruh-relawan-global-sumud-flotilla-bebas"
+    },
+    {
+      "judul": "Nekat Terbang dari Negara Ebola, Penumpang Air France Bikin AS Panik, Pesawat Dilarang Mendarat",
+      "link_berita": "https://news.republika.co.id/berita/tfe9hv451/nekat-terbang-dari-negara-ebola-penumpang-air-france-bikin-as-panik-pesawat-dilarang-mendarat"
+    },
     {
       "judul": "Media Israel Ungkap Mengapa Komandan Tertinggi Al-Qassam Berjuluk Sang Hantu Bisa Terbunuh",
       "link_berita": "https://khazanah.republika.co.id/berita/tfed2q320/media-israel-ungkap-mengapa-komandan-tertinggi-alqassam-berjuluk-sang-hantu-bisa-terbunuh"
@@ -73,316 +81,308 @@
     {
       "judul": "Teheran Tegaskan tak Ada Kapal Bisa Melintas Selat Hormuz tanpa Koordinasi dengan Iran",
       "link_berita": "https://ekonomi.republika.co.id/berita/tfde61409/teheran-tegaskan-tak-ada-kapal-bisa-melintas-selat-hormuz-tanpa-koordinasi-dengan-iran"
-    },
-    {
-      "judul": "KUHAP Baru Dinilai Jadi Momentum Reformasi Hukum Nasional",
-      "link_berita": "https://news.republika.co.id/berita/tfd7ol416/kuhap-baru-dinilai-jadi-momentum-reformasi-hukum-nasional"
-    },
-    {
-      "judul": "BPKH Pastikan Dana Haji tak Dikelola dengan Skema Ponzi",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfd5va416/bpkh-pastikan-dana-haji-tak-dikelola-dengan-skema-ponzi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Siap-Siap! BTN Keluarkan KPR Tenor 40 Tahun demi Dukung Program 3 Juta Rumah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfevgn423/siapsiap-btn-keluarkan-kpr-tenor-40-tahun-demi-dukung-program-3-juta-rumah",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:47:54"
+    },
+    {
+      "judul": "Kurangi Reduksi Gas Metan, Menteri Jumhur Gandeng Korsel",
+      "link_berita": "https://news.republika.co.id/berita/tfevao484/kurangi-reduksi-gas-metan-menteri-jumhur-gandeng-korsel",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:44:54"
+    },
+    {
+      "judul": "Kepala BP BUMN Ungkap Syarat Jadi Direksi BUMN",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfev1s423/kepala-bp-bumn-ungkap-syarat-jadi-direksi-bumn",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:39:54"
+    },
+    {
+      "judul": "Usai Bertemu Trump, Xi Jingping Dilaporkan akan Kunjungi Pyongyang",
+      "link_berita": "https://news.republika.co.id/berita/tfeusm484/usai-bertemu-trump-xi-jingping-dilaporkan-akan-kunjungi-pyongyang",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:33:54"
+    },
+    {
+      "judul": "Zohar Regev Dilepas, Seluruh Relawan Global Sumud Flotilla Bebas",
+      "link_berita": "https://news.republika.co.id/berita/tfeumx393/zohar-regev-dilepas-seluruh-relawan-global-sumud-flotilla-bebas",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:30:54"
+    },
+    {
+      "judul": "Timwas DPR Nilai Pelayanan Haji 2026 Lebih Baik dan Tertata",
+      "link_berita": "https://khazanah.republika.co.id/berita/tfe9zh416/timwas-dpr-nilai-pelayanan-haji-2026-lebih-baik-dan-tertata",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:29:54"
+    },
+    {
+      "judul": "Kepala BGN Bantah Kabar KPK Ciduk Anak Buahnya",
+      "link_berita": "https://news.republika.co.id/berita/tfeuf0484/kepala-bgn-bantah-kabar-kpk-ciduk-anak-buahnya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:25:54"
+    },
+    {
+      "judul": "ESDM Tawarkan 118 Wilayah Kerja Migas, Bahlil: Tak Perlu Nego di Belakang Meja",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfeu4i502/esdm-tawarkan-118-wilayah-kerja-migas-bahlil-tak-perlu-nego-di-belakang-meja",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:19:54"
+    },
+    {
+      "judul": "Hana Bank Raup Laba Rp200,78 Miliar, Dorong Bisnis Lewat LINE Bank",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfetsv502/hana-bank-raup-laba-rp20078-miliar-dorong-bisnis-lewat-line-bank",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:12:54"
+    },
+    {
+      "judul": "Konjen RI Ungkap WNI yang Diculik Israel Alami Penyiksaan: Ditendang hingga Disetrum",
+      "link_berita": "https://news.republika.co.id/berita/tfetep502/konjen-ri-ungkap-wni-yang-diculik-israel-alami-penyiksaan-ditendang-hingga-disetrum",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:05:54"
+    },
+    {
+      "judul": "Penguatan Tata Kelola Ekspor Sawit Diharapkan Tetap Prioritaskan Petani",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfe8sy416/penguatan-tata-kelola-ekspor-sawit-diharapkan-tetap-prioritaskan-petani",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:05:54"
+    },
+    {
+      "judul": "Anggota Geng Motor Dituntut 20 Tahun Penjara atas Kasus Pembunuhan di Medan",
+      "link_berita": "https://news.republika.co.id/berita/tfesj63530000/anggota-geng-motor-dituntut-20-tahun-penjara-atas-kasus-pembunuhan-di-medan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 23:05:54"
+    },
+    {
+      "judul": "CCTV Diskominfo Badung Bantu Polisi Ungkap Kasus Pembunuhan",
+      "link_berita": "https://news.republika.co.id/berita/tferu78030000/cctv-diskominfo-badung-bantu-polisi-ungkap-kasus-pembunuhan",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 21 May 2026, 22:05:54"
+    },
+    {
       "judul": "Anggota Geng Motor Dituntut 20 Tahun Penjara Atas Kasus Pembunuhan di Medan",
       "link_berita": "https://news.republika.co.id/berita/tfer647630000/anggota-geng-motor-dituntut-20-tahun-penjara-atas-kasus-pembunuhan-di-medan",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 22:16:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 22:05:54"
     },
     {
       "judul": "Bangun Jembatan Gantung 240 Meter di Aceh Tamiang, TNI AD: Puluhan Tahun Warga tak Punya Akses",
       "link_berita": "https://republika.co.id/berita//tfeawy451/bangun-jembatan-gantung-240-meter-di-aceh-tamiang-tni-ad-puluhan-tahun-warga-tak-punya-akses",
       "kategori": "Resumatra",
-      "tanggal_terbit": "Thursday, 21 May 2026, 22:14:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 22:05:54"
     },
     {
       "judul": "Kemenkum Sulbar Dorong UMKM Tingkatkan Legalitas Usaha",
       "link_berita": "https://news.republika.co.id/berita/tfeqgy4030000/kemenkum-sulbar-dorong-umkm-tingkatkan-legalitas-usaha",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 22:01:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 22:05:54"
     },
     {
       "judul": "YLBH Desak Polisi Usut Dugaan Pengeroyokan oleh Anggota DPRK Nagan Raya",
       "link_berita": "https://news.republika.co.id/berita/tfeprj9430000/ylbh-desak-polisi-usut-dugaan-pengeroyokan-oleh-anggota-dprk-nagan-raya",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 21:45:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 22:05:54"
     },
     {
       "judul": "Nekat Terbang dari Negara Ebola, Penumpang Air France Bikin AS Panik, Pesawat Dilarang Mendarat",
       "link_berita": "https://news.republika.co.id/berita/tfe9hv451/nekat-terbang-dari-negara-ebola-penumpang-air-france-bikin-as-panik-pesawat-dilarang-mendarat",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 21:45:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 22:05:54"
     },
     {
       "judul": "Kejari Bulukumba Terima Pengembalian Rp1,41 Miliar dari Kasus Korupsi Beras",
       "link_berita": "https://news.republika.co.id/berita/tfep273530000/kejari-bulukumba-terima-pengembalian-rp141-miliar-dari-kasus-korupsi-beras",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 21:30:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 21:05:54"
     },
     {
       "judul": "Polda Jabar Siagakan 2.000 Personel Amankan Laga Persib vs Persijap",
       "link_berita": "https://news.republika.co.id/berita/tfeod92030000/polda-jabar-siagakan-2000-personel-amankan-laga-persib-vs-persijap",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 21:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 21:05:54"
     },
     {
       "judul": "Gubernur Sumut Tolak Proyek OPD yang Diduga Mark-Up",
       "link_berita": "https://news.republika.co.id/berita/tfeno82130000/gubernur-sumut-tolak-proyek-opd-yang-diduga-markup",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 21:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 21:05:54"
     },
     {
       "judul": "Menhub Pastikan Lahan Kertajati Cukup untuk Pusat MRO Hercules",
       "link_berita": "https://news.republika.co.id/berita/tfemze4830000/menhub-pastikan-lahan-kertajati-cukup-untuk-pusat-mro-hercules",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 20:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 21:05:54"
     },
     {
       "judul": "Menhub Bahas Tarif Batas Atas Tiket Pesawat Akibat Geopolitik",
       "link_berita": "https://news.republika.co.id/berita/tfema93230000/menhub-bahas-tarif-batas-atas-tiket-pesawat-akibat-geopolitik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 20:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Bupati Banyuwangi Kukuhkan 40 Kepala Desa sebagai Paralegal",
       "link_berita": "https://news.republika.co.id/berita/tfell72430000/bupati-banyuwangi-kukuhkan-40-kepala-desa-sebagai-paralegal",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 20:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Menhaj Tekankan Pentingnya Persiapan Matang Hadapi Fase Armuzna",
       "link_berita": "https://news.republika.co.id/berita/tfel066330000/menhaj-tekankan-pentingnya-persiapan-matang-hadapi-fase-armuzna",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 20:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Ayat Ini Hancurkan Keyakinan Manusia yang Tuhankan Uang",
       "link_berita": "https://iqra.republika.co.id/berita/tfea43451/ayat-ini-hancurkan-keyakinan-manusia-yang-tuhankan-uang",
       "kategori": "Iqra",
-      "tanggal_terbit": "Thursday, 21 May 2026, 20:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Disdukcapil Kudus Buka Layanan Adminduk di Mall Pelayanan Publik",
       "link_berita": "https://news.republika.co.id/berita/tfekyp9430000/disdukcapil-kudus-buka-layanan-adminduk-di-mall-pelayanan-publik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 20:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Jawa Tengah Naik Peringkat dalam Indeks Demokrasi Indonesia 2025",
       "link_berita": "https://news.republika.co.id/berita/tfekag2730000/jawa-tengah-naik-peringkat-dalam-indeks-demokrasi-indonesia-2025",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 19:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Gus Falah Dorong Legalisasi Tambang Rakyat untuk Kepastian Hukum",
       "link_berita": "https://news.republika.co.id/berita/tfeka61230000/gus-falah-dorong-legalisasi-tambang-rakyat-untuk-kepastian-hukum",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 19:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "Wamen PU Dorong Percepatan Pembebasan Lahan untuk Perlintasan KA",
       "link_berita": "https://news.republika.co.id/berita/tfek8q5630000/wamen-pu-dorong-percepatan-pembebasan-lahan-untuk-perlintasan-ka",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 19:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 20:05:54"
     },
     {
       "judul": "I.League Rilis Jadwal Musim 2026/27, Super League Dimulai 4 September",
       "link_berita": "https://news.republika.co.id/berita/tfejid1930000/ileague-rilis-jadwal-musim-202627-super-league-dimulai-4-september",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 19:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 19:05:54"
     },
     {
       "judul": "Jateng Media Summit 2026 Rumuskan Peta Jalan di Era Disrupsi Digital",
       "link_berita": "https://news.republika.co.id/berita/tfeita5430000/jateng-media-summit-2026-rumuskan-peta-jalan-di-era-disrupsi-digital",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 19:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 19:05:54"
     },
     {
       "judul": "Gubernur Sumut Dorong Hukuman Berat bagi ASN Pengguna Vape Getar",
       "link_berita": "https://news.republika.co.id/berita/tfei4u7330000/gubernur-sumut-dorong-hukuman-berat-bagi-asn-pengguna-vape-getar",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 19:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 19:05:54"
     },
     {
       "judul": "Gus Lilur: Muktamar ke-35 NU Sebagai Penjaga Moral RI",
       "link_berita": "https://news.republika.co.id/berita/tfehff3130000/gus-lilur-muktamar-ke35-nu-sebagai-penjaga-moral-ri",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 18:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 19:05:54"
     },
     {
       "judul": "Indonesia dan Azerbaijan Perkuat Kerja Sama Pengembangan Sumber Daya Manusia",
       "link_berita": "https://news.republika.co.id/berita/tfegqa230000/indonesia-dan-azerbaijan-perkuat-kerja-sama-pengembangan-sumber-daya-manusia",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 18:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 18:05:54"
     },
     {
       "judul": "172 Perlintasan Sebidang Ilegal Ditutup Demi Keselamatan Kereta Api",
       "link_berita": "https://news.republika.co.id/berita/tfeg189130000/172-perlintasan-sebidang-ilegal-ditutup-demi-keselamatan-kereta-api",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 18:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 18:05:54"
     },
     {
       "judul": "Kebakaran Hanguskan Warung dan Pos Polisi di Cengkareng",
       "link_berita": "https://news.republika.co.id/berita/tfefc710030000/kebakaran-hanguskan-warung-dan-pos-polisi-di-cengkareng",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 18:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 18:05:54"
     },
     {
       "judul": "Kodaeral VIII Gagalkan Penyelundupan Cap Tikus di Bitung",
       "link_berita": "https://news.republika.co.id/berita/tfeen8030000/kodaeral-viii-gagalkan-penyelundupan-cap-tikus-di-bitung",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 18:05:54"
     },
     {
       "judul": "ESDM Uji Sampel Solar dari Sampah di 12 Lokasi",
       "link_berita": "https://news.republika.co.id/berita/tfedy9130000/esdm-uji-sampel-solar-dari-sampah-di-12-lokasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Dari Negeri Rempah Menjadi Negara Adidaya",
       "link_berita": "https://analisis.republika.co.id/berita/tfedid320/dari-negeri-rempah-menjadi-negara-adidaya",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Bawaslu Sulsel dan Unibos Makassar Kolaborasi Awasi Pemilu",
       "link_berita": "https://news.republika.co.id/berita/tfed9a6030000/bawaslu-sulsel-dan-unibos-makassar-kolaborasi-awasi-pemilu",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Media Israel Ungkap Mengapa Komandan Tertinggi Al-Qassam Berjuluk Sang Hantu Bisa Terbunuh",
       "link_berita": "https://khazanah.republika.co.id/berita/tfed2q320/media-israel-ungkap-mengapa-komandan-tertinggi-alqassam-berjuluk-sang-hantu-bisa-terbunuh",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Khutbah Arafah 2026 Disiarkan dalam 34 Bahasa, Disampaikan Syekh Hudhaify",
       "link_berita": "https://khazanah.republika.co.id/berita/tfdzjk366/khutbah-arafah-2026-disiarkan-dalam-34-bahasa-disampaikan-syekh-hudhaify",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Menhub: Dana Rp4 Triliun dari Presiden untuk Keselamatan Kereta Api",
       "link_berita": "https://news.republika.co.id/berita/tfeckb4130000/menhub-dana-rp4-triliun-dari-presiden-untuk-keselamatan-kereta-api",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Sejumlah Tokoh Nonton Bareng Film 'Pesta Babi', Ini Tanggapan Mereka",
       "link_berita": "https://news.republika.co.id/berita/tfecgk320/sejumlah-tokoh-nonton-bareng-film-pesta-babi-ini-tanggapan-mereka",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 17:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 17:05:54"
     },
     {
       "judul": "Menuju Armuzna: Rencana, Ikhtiar, dan Doa Terselip untuk Kesuksesan Haji Tahun Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/tfebd1320/menuju-armuzna-rencana-ikhtiar-dan-doa-terselip-untuk-kesuksesan-haji-tahun-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 16:05:54"
     },
     {
       "judul": "BTS akan Tampil di American Music Awards 2026 Setelah Empat Tahun Absen",
       "link_berita": "https://ameera.republika.co.id/berita/tfeb24425/bts-akan-tampil-di-american-music-awards-2026-setelah-empat-tahun-absen",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 16:05:54"
     },
     {
       "judul": "Dari Saigon ke Teheran: Inilah Kemiripan Perang Iran dan Vietnam",
       "link_berita": "https://khazanah.republika.co.id/berita/tfeavl320/dari-saigon-ke-teheran-inilah-kemiripan-perang-iran-dan-vietnam",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 16:05:54"
     },
     {
       "judul": "Neuer Kembali, Gnabry Dicoret, Ini Skuad Lengkap Jerman untuk Piala Dunia 2026",
       "link_berita": "https://news.republika.co.id/berita/tfe8kt451/neuer-kembali-gnabry-dicoret-ini-skuad-lengkap-jerman-untuk-piala-dunia-2026",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 16:05:54"
     },
     {
       "judul": "Jelang Puncak Haji, Arab Saudi Rampungkan Persiapan Layanan di Dua Miqat",
       "link_berita": "https://khazanah.republika.co.id/berita/tfe5iz366/jelang-puncak-haji-arab-saudi-rampungkan-persiapan-layanan-di-dua-miqat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Percakapan Pertama dengan ThoudyAbeng Usai Diculik Israel",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tfeah2556792651/percakapan-pertama-dengan-thoudyabeng-usai-diculik-israel",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Apresiasi Pidato Sang Kepala Negara, Optimisme dan Catatan Penting",
-      "link_berita": "https://analisis.republika.co.id/berita/tfdzgw320/apresiasi-pidato-sang-kepala-negara-optimisme-dan-catatan-penting",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "I.League Rilis Jadwal Super League dan Championship Musim 2026/2027",
-      "link_berita": "https://news.republika.co.id/berita/tfe9y6348/ileague-rilis-jadwal-super-league-dan-championship-musim-20262027",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Wakil Rektor UIN Jakarta Ungkit Tantangan Baru Hijrah di Era Digital",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfe9wo320/wakil-rektor-uin-jakarta-ungkit-tantangan-baru-hijrah-di-era-digital",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "9 WNI yang Diculik Israel Diterbangkan ke Turki",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tfe9s21682329244/9-wni-yang-diculik-israel-diterbangkan-ke-turki",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Kementerian PKP dan BSI Perluas Pembiayaan Program Perumahan",
-      "link_berita": "https://sharia.republika.co.id/berita/tfe8f4416/kementerian-pkp-dan-bsi-perluas-pembiayaan-program-perumahan",
-      "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Direktur PT Terra Drone Divonis 1,4 Tahun Penjara dalam Kasus Kebakaran Maut",
-      "link_berita": "https://visual.republika.co.id/berita/tfe2gt375/direktur-pt-terra-drone-divonis-14-tahun-penjara-dalam-kasus-kebakaran-maut",
-      "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Telkom Perkuat Fondasi Kemandirian Digital Bangsa Lewat Indonesia Tech Sovereignty Forum 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tfe9nb368/telkom-perkuat-fondasi-kemandirian-digital-bangsa-lewat-indonesia-tech-sovereignty-forum-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 21 May 2026, 16:22:02"
-    },
-    {
-      "judul": "Hizbullah Masih Tetap Melawan, Tentara Israel Terus Bertumbangan di Lebanon Selatan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tfe9aw320/hizbullah-masih-tetap-melawan-tentara-israel-terus-bertumbangan-di-lebanon-selatan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 21 May 2026, 15:22:02"
-    },
-    {
-      "judul": "Dua Jurnalis Republika Tiba di Turki",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tfe8e11374002804/dua-jurnalis-republika-tiba-di-turki",
-      "kategori": "Video",
-      "tanggal_terbit": "Thursday, 21 May 2026, 15:22:02"
-    },
-    {
-      "judul": "MUI Gelar Konsolidasi Bahas Penculikan WNI Peserta Global Sumud Flotilla",
-      "link_berita": "https://visual.republika.co.id/berita/tfe2ao375/mui-gelar-konsolidasi-bahas-penculikan-wni-peserta-global-sumud-flotilla",
-      "kategori": "Visual",
-      "tanggal_terbit": "Thursday, 21 May 2026, 15:22:02"
-    },
-    {
-      "judul": "BREAKING NEWS: Dua Jurnalis Republika yang Sempat Diculik Israel Tiba di Turki",
-      "link_berita": "https://news.republika.co.id/berita/tfe88z393/breaking-news-dua-jurnalis-republika-yang-sempat-diculik-israel-tiba-di-turki",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 21 May 2026, 15:22:02"
-    },
-    {
-      "judul": "Film Pendek Berlatar Yogyakarta Sabet Penghargaan Bergengsi di Cannes Prancis",
-      "link_berita": "https://ameera.republika.co.id/berita/tfe7iq451/film-pendek-berlatar-yogyakarta-sabet-penghargaan-bergengsi-di-cannes-prancis",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 21 May 2026, 15:22:02"
+      "tanggal_terbit": "Thursday, 21 May 2026, 16:05:54"
     },
     {
       "judul": "BTS akan Tampil di American Music Awards 2026 Setelah Empat Tahun Absen",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Thursday, 21 May 2026, 21:34:00"
     },
     {
-      "judul": "Telkom Perkuat Fondasi Kemandirian Digital Bangsa Lewat Indonesia Tech Sovereignty Forum 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tfe9nb368/telkom-perkuat-fondasi-kemandirian-digital-bangsa-lewat-indonesia-tech-sovereignty-forum-2026",
+      "judul": "Siap-Siap! BTN Keluarkan KPR Tenor 40 Tahun demi Dukung Program 3 Juta Rumah",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tfevgn423/siapsiap-btn-keluarkan-kpr-tenor-40-tahun-demi-dukung-program-3-juta-rumah",
       "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 21 May 2026, 22:57:00"
+      "tanggal_terbit": "Friday, 22 May 2026, 06:48:00"
     },
     {
       "judul": "Kementerian PKP dan BSI Perluas Pembiayaan Program Perumahan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Thursday, 21 May 2026, 23:00:00"
     },
     {
-      "judul": "Anggota Geng Motor Dituntut 20 Tahun Penjara Atas Kasus Pembunuhan di Medan",
-      "link_berita": "https://news.republika.co.id/berita/tfer647630000/anggota-geng-motor-dituntut-20-tahun-penjara-atas-kasus-pembunuhan-di-medan",
-      "kategori": "Nasional",
-      "tanggal_terbit": "Friday, 22 May 2026, 05:15:00"
+      "judul": "Kurangi Reduksi Gas Metan, Menteri Jumhur Gandeng Korsel",
+      "link_berita": "https://news.republika.co.id/berita/tfevao484/kurangi-reduksi-gas-metan-menteri-jumhur-gandeng-korsel",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Friday, 22 May 2026, 06:44:00"
     }
   ],
-  "waktu_scraping": "Friday, 22 May 2026, 05:22:02"
+  "waktu_scraping": "Friday, 22 May 2026, 07:05:54"
 }
