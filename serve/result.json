@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Jonatan Christie Akhirnya Tembus Final Indonesia Open",
+      "link_berita": "https://news.republika.co.id/berita/tg7ljy348/jonatan-christie-akhirnya-tembus-final-indonesia-open"
+    },
+    {
       "judul": "Dua Menteri Israel Itamar Ben Gvir dan Bezalel Smotrich Dilarang Masuk ke Irlandia",
       "link_berita": "https://news.republika.co.id/berita/tg7kt7348/dua-menteri-israel-itamar-ben-gvir-dan-bezalel-smotrich-dilarang-masuk-ke-irlandia"
     },
@@ -15,13 +19,21 @@
     {
       "judul": "IHSG Amblas, Ekonom Senior Indef Minta Pemerintah Jaga Kepercayaan Pasar",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg788b490/ihsg-amblas-ekonom-senior-indef-minta-pemerintah-jaga-kepercayaan-pasar"
-    },
-    {
-      "judul": "Kasus Dugaan Santri Dibakar Terjadi di Lombok, Polisi Sedang Usut Laporannya",
-      "link_berita": "https://khazanah.republika.co.id/berita/tg7685430/kasus-dugaan-santri-dibakar-terjadi-di-lombok-polisi-sedang-usut-laporannya"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "'Bunyikan Klakson Kalau Capek Jadi WNI', Aksi Damai di Bundaran UGM Protes Warga ke Pemerintah",
+      "link_berita": "https://rejogja.republika.co.id/berita/tg7p2i282/bunyikan-klakson-kalau-capek-jadi-wni-aksi-damai-di-bundaran-ugm-protes-warga-ke-pemerintah"
+    },
+    {
+      "judul": "Pemprov DKI Buka 2.843 Lowongan Kerja dengan Gaji Setara UMP, Syaratnya Cukup KTP",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tg7ltj423/pemprov-dki-buka-2843-lowongan-kerja-dengan-gaji-setara-ump-syaratnya-cukup-ktp"
+    },
+    {
+      "judul": "Pemprov Jabar Siapkan Langkah Mitigasi Hadapi Krisis Sampah dan Kemarau Panjang",
+      "link_berita": "https://rejabar.republika.co.id/berita/tg7jee368/pemprov-jabar-siapkan-langkah-mitigasi-hadapi-krisis-sampah-dan-kemarau-panjang"
+    },
     {
       "judul": "Mengapa Pertolongan Allah SWT Seolah-olah Datang 'Terlambat' saat Musibah Datang Bertubi-tubi?",
       "link_berita": "https://khazanah.republika.co.id/berita/tg7gom320/mengapa-pertolongan-allah-swt-seolaholah-datang-terlambat-saat-musibah-datang-bertubitubi"
@@ -69,320 +81,308 @@
     {
       "judul": "Ghost Jobs Jadi Fenomena yang Bikin Resah Pencari Kerja",
       "link_berita": "https://republika.co.id/page/shorts/yt-tg6rh11283589214/ghost-jobs-jadi-fenomena-yang-bikin-resah-pencari-kerja"
-    },
-    {
-      "judul": "Pulau Sampah di Muara Angke, Pemprov DKI Jakarta Targetkan Bersih Hari Ini",
-      "link_berita": "https://news.republika.co.id/berita/tg6okb328/pulau-sampah-di-muara-angke-pemprov-dki-jakarta-targetkan-bersih-hari-ini"
-    },
-    {
-      "judul": "Dubes RI untuk Saudi Harapkan tak Ada Lagi Razia Wisma Haji di Masa Mendatang",
-      "link_berita": "https://khazanah.republika.co.id/berita/tg6ivv430/dubes-ri-untuk-saudi-harapkan-tak-ada-lagi-razia-wisma-haji-di-masa-mendatang"
-    },
-    {
-      "judul": "Pengetatan Istithaah Jadi Kunci Angka Jamaah Haji Sakit Tahun Ini Menurun",
-      "link_berita": "https://khazanah.republika.co.id/berita/tg6iro430/pengetatan-istithaah-jadi-kunci-angka-jamaah-haji-sakit-tahun-ini-menurun"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pertamina Patra Niaga Perkuat Ketahanan Pangan Berkelanjutan Lewat Inovasi Budidaya",
+      "link_berita": "https://esgnow.republika.co.id/berita/tg7sot522/pertamina-patra-niaga-perkuat-ketahanan-pangan-berkelanjutan-lewat-inovasi-budidaya",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Kemenekraf-SHOW Token Dorong IP Kreatif Indonesia Bersaing di Pasar Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tg7n9r416/kemenekrafshow-token-dorong-ip-kreatif-indonesia-bersaing-di-pasar-global",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Jamaah Haji Kloter Pertama Debarkasi Lampung Tiba di Tanah Air",
+      "link_berita": "https://visual.republika.co.id/berita/tg7p91375/jamaah-haji-kloter-pertama-debarkasi-lampung-tiba-di-tanah-air",
+      "kategori": "Visual",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Trump-Netanyahu Bertengkar, Pentagon Tingkatkan Ancaman Spionase Israel Hingga ke Level Kritis",
+      "link_berita": "https://khazanah.republika.co.id/berita/tg7qpm483/trumpnetanyahu-bertengkar-pentagon-tingkatkan-ancaman-spionase-israel-hingga-ke-level-kritis",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Jelang Penutupan PCMB, Pendaftaran ke Sekolah Favorit Membludak",
+      "link_berita": "https://rejabar.republika.co.id/berita/tg7qhs282/jelang-penutupan-pcmb-pendaftaran-ke-sekolah-favorit-membludak",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Kapal Tanker Minyak Jepang Lolos Lagi Melintasi Selat Hormuz",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tg7q47502/kapal-tanker-minyak-jepang-lolos-lagi-melintasi-selat-hormuz",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "'Bunyikan Klakson Kalau Capek Jadi WNI', Aksi Damai di Bundaran UGM Protes Warga ke Pemerintah",
+      "link_berita": "https://rejogja.republika.co.id/berita/tg7p2i282/bunyikan-klakson-kalau-capek-jadi-wni-aksi-damai-di-bundaran-ugm-protes-warga-ke-pemerintah",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Belantara Budaya Indonesia Hadirkan Pentas Budaya Lintas Negara",
+      "link_berita": "https://visual.republika.co.id/berita/tg7oxw375/belantara-budaya-indonesia-hadirkan-pentas-budaya-lintas-negara",
+      "kategori": "Visual",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Data WGII Ungkap Luas Wilayah Kelola Masyarakat yang Berpotensi Jadi Kawasan Konservasi",
+      "link_berita": "https://esgnow.republika.co.id/berita/tg7mkx416/data-wgii-ungkap-luas-wilayah-kelola-masyarakat-yang-berpotensi-jadi-kawasan-konservasi",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Digestion Expert Lab Jadi Cara Inovatif Lactogrow Agar Orang Tua Jaga Kesehatan Pencernaan Anak",
+      "link_berita": "https://republika.co.id/berita//tg7mqv456/digestion-expert-lab-jadi-cara-inovatif-lactogrow-agar-orang-tua-jaga-kesehatan-pencernaan-anak",
+      "kategori": "Rejakarta",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Polytron Gelar Kompetisi Desain Fox 200 untuk Pelajar dan Mahasiswa",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tg7m50348/polytron-gelar-kompetisi-desain-fox-200-untuk-pelajar-dan-mahasiswa",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
+      "judul": "Pemprov DKI Buka 2.843 Lowongan Kerja dengan Gaji Setara UMP, Syaratnya Cukup KTP",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tg7ltj423/pemprov-dki-buka-2843-lowongan-kerja-dengan-gaji-setara-ump-syaratnya-cukup-ktp",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
+    },
+    {
       "judul": "Jonatan Christie Akhirnya Tembus Final Indonesia Open",
       "link_berita": "https://news.republika.co.id/berita/tg7ljy348/jonatan-christie-akhirnya-tembus-final-indonesia-open",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Dua Menteri Israel Itamar Ben Gvir dan Bezalel Smotrich Dilarang Masuk ke Irlandia",
       "link_berita": "https://news.republika.co.id/berita/tg7kt7348/dua-menteri-israel-itamar-ben-gvir-dan-bezalel-smotrich-dilarang-masuk-ke-irlandia",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Distribusi 40 Ribu Alqur'an Tuntas di Sumatra Utara",
       "link_berita": "https://khazanah.republika.co.id/berita/tg7kn8483/distribusi-40-ribu-alquran-tuntas-di-sumatra-utara",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Pemprov Jabar Siapkan Langkah Mitigasi Hadapi Krisis Sampah dan Kemarau Panjang",
       "link_berita": "https://rejabar.republika.co.id/berita/tg7jee368/pemprov-jabar-siapkan-langkah-mitigasi-hadapi-krisis-sampah-dan-kemarau-panjang",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Mengapa Pertolongan Allah SWT Seolah-olah Datang 'Terlambat' saat Musibah Datang Bertubi-tubi?",
       "link_berita": "https://khazanah.republika.co.id/berita/tg7gom320/mengapa-pertolongan-allah-swt-seolaholah-datang-terlambat-saat-musibah-datang-bertubitubi",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Purbaya: Rupiah Stabil akan Ringankan Beban Rumah Tangga",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7h52423/purbaya-rupiah-stabil-akan-ringankan-beban-rumah-tangga",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Pasar Valas Indonesia Diproyeksikan Terus Tumbuh",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7gv9416/pasar-valas-indonesia-diproyeksikan-terus-tumbuh",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Kemenkeu Ungkap Penerimaan Pajak dari Bawah Mewah Naik 41,3 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7gpg502/kemenkeu-ungkap-penerimaan-pajak-dari-bawah-mewah-naik-413-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Marc Marquez Rebut Pole Position GP Hungaria Meski Sempat Terjatuh",
       "link_berita": "https://news.republika.co.id/berita/tg7ge8348/marc-marquez-rebut-pole-position-gp-hungaria-meski-sempat-terjatuh",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Wacana Kenaikan Tarif Transjabodetabek, Pengamat Sebut Masih Wajar",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7gcn423/wacana-kenaikan-tarif-transjabodetabek-pengamat-sebut-masih-wajar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Ketika AI Menjadi HRD, Wajah Baru Rekrutmen di Era Digital",
       "link_berita": "https://news.republika.co.id/berita/tg7fgg368/ketika-ai-menjadi-hrd-wajah-baru-rekrutmen-di-era-digital",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Menenangkan Kurs Rupiah",
       "link_berita": "https://analisis.republika.co.id/berita/tg7g1m502/menenangkan-kurs-rupiah",
       "kategori": "Kolom",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "6 Cara \u2018Satset\u2019 Tingkatkan Nutrisi pada Makanan, Yuk Dicoba!",
       "link_berita": "https://ameera.republika.co.id/berita/tg7foz425/6-cara-satset-tingkatkan-nutrisi-pada-makanan-yuk-dicoba",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Purbaya Akui Persepsi Negatif Jadi Kendala Utama Pasar",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7fks502/purbaya-akui-persepsi-negatif-jadi-kendala-utama-pasar",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "PresGo International Culture Dorong Siswa Sekolah Prestasi Global Berdaya Saing Global",
       "link_berita": "https://news.republika.co.id/berita/tg7ff4368/presgo-international-culture-dorong-siswa-sekolah-prestasi-global-berdaya-saing-global",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "PNM Siapkan Babak Baru Transformasi Berbasis Kebermanfaatan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7ewz368/pnm-siapkan-babak-baru-transformasi-berbasis-kebermanfaatan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Campus League 2026, Tim-Tim Basket Terbaik dari Lima Regional Segera Diadu",
       "link_berita": "https://news.republika.co.id/berita/tg7ewq456/campus-league-2026-timtim-basket-terbaik-dari-lima-regional-segera-diadu",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Kapal Mini Penyedot Sampah di Laut Cukup Dikendalikan dengan Remote Control",
       "link_berita": "https://republika.co.id/page/shorts/yt-tg7ee11937174769/kapal-mini-penyedot-sampah-di-laut-cukup-dikendalikan-dengan-remote-control",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Shakira Bakal Meriahkan Pembukaan Piala Dunia 2026 dengan Lagu 'Dai Dai'",
       "link_berita": "https://ameera.republika.co.id/berita/tg7edv425/shakira-bakal-meriahkan-pembukaan-piala-dunia-2026-dengan-lagu-dai-dai",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Vaksin Buatan Al Diuji pada Manusia",
       "link_berita": "https://ameera.republika.co.id/berita/tg7dxr425/vaksin-buatan-al-diuji-pada-manusia",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Jihad tak Kenal Umur, Perkenalkan Pejuang Qassam Tertua yang Syahid di Medan Perang Ini",
       "link_berita": "https://khazanah.republika.co.id/berita/tg7dkc320/jihad-tak-kenal-umur-perkenalkan-pejuang-qassam-tertua-yang-syahid-di-medan-perang-ini",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Niall Horan Ungkap Kekagumannya Terhadap BTS, Disebut Mirip Atlet di Panggung",
       "link_berita": "https://ameera.republika.co.id/berita/tg7d0i425/niall-horan-ungkap-kekagumannya-terhadap-bts-disebut-mirip-atlet-di-panggung",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Wisata Edukasi Penyu di Sambas Dorong Kesadaran Pelestarian Tukik",
       "link_berita": "https://visual.republika.co.id/berita/tg78d5375/wisata-edukasi-penyu-di-sambas-dorong-kesadaran-pelestarian-tukik",
       "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Ekspor Produk Halal Tumbuh Pesat, Kontribusi Industri Halal ke PDB Capai 24,8 Persen",
       "link_berita": "https://sharia.republika.co.id/berita/tg7csk502/ekspor-produk-halal-tumbuh-pesat-kontribusi-industri-halal-ke-pdb-capai-248-persen",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Dituduh Eksploitasi Lebanon, Iran Balas Presiden Aoun: Selamatkan Negara Anda dari Musuh Sebenarnya",
       "link_berita": "https://khazanah.republika.co.id/berita/tg7bcp320/dituduh-eksploitasi-lebanon-iran-balas-presiden-aoun-selamatkan-negara-anda-dari-musuh-sebenarnya",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Purbaya: Indonesia tidak Mengarah ke Krisis seperti 1997-1998",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7ah7423/purbaya-indonesia-tidak-mengarah-ke-krisis-seperti-19971998",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Stres Bisa Picu Tiga Penyakit Kulit Ini, Jangan Anggap Sepele",
       "link_berita": "https://ameera.republika.co.id/berita/tg7b0z425/stres-bisa-picu-tiga-penyakit-kulit-ini-jangan-anggap-sepele",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Mensesneg Kordinasi Dibutuhkan Jaga Ekonomi Indonesia",
       "link_berita": "https://republika.co.id/page/shorts/yt-tg7ax128644254/mensesneg-kordinasi-dibutuhkan-jaga-ekonomi-indonesia",
       "kategori": "Video",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Minat Berobat ke Luar Negeri Meningkat, Malaysia Tawarkan Opsi Medis Kedua",
       "link_berita": "https://ameera.republika.co.id/berita/tg7aq1522/minat-berobat-ke-luar-negeri-meningkat-malaysia-tawarkan-opsi-medis-kedua",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Prof Dede Rosyada: Pengelolaan Yayasan Sudah Diserahkan ke Pemerintah Lewat UIN Jakarta",
       "link_berita": "https://khazanah.republika.co.id/berita/tg5rfo320/prof-dede-rosyada-pengelolaan-yayasan-sudah-diserahkan-ke-pemerintah-lewat-uin-jakarta",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Menkeu: Kita tidak Sedang Menuju Keadaan Seperti 1997-1998, Ekonomi Bagus",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7ahl487/menkeu-kita-tidak-sedang-menuju-keadaan-seperti-19971998-ekonomi-bagus",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Aktor Top Gun: Maverick James Handy Meninggal Tragis Ditikam",
       "link_berita": "https://ameera.republika.co.id/berita/tg7ah6425/aktor-top-gun-maverick-james-handy-meninggal-tragis-ditikam",
       "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "BI Perkuat Ekonomi Syariah Lewat Wakaf Produktif dan Sertifikasi Halal",
       "link_berita": "https://ekonomi.republika.co.id/berita/tg7974423/bi-perkuat-ekonomi-syariah-lewat-wakaf-produktif-dan-sertifikasi-halal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Peringati Hari Lingkungan Hidup, Puluhan Pelajar Bersihkan Sampah di Sungai Cibanten",
       "link_berita": "https://visual.republika.co.id/berita/tg7894375/peringati-hari-lingkungan-hidup-puluhan-pelajar-bersihkan-sampah-di-sungai-cibanten",
       "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Truk Tangki Pembawa Solar Terbakar di Tol Cipali, Arus Lalu Lintas Tersendat",
       "link_berita": "https://rejabar.republika.co.id/berita/tg79wf487/truk-tangki-pembawa-solar-terbakar-di-tol-cipali-arus-lalu-lintas-tersendat",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Dalami Hubungan dengan Tiga Korporasi, KPK Periksa Rita Widyasari",
       "link_berita": "https://news.republika.co.id/berita/tg78ze487/dalami-hubungan-dengan-tiga-korporasi-kpk-periksa-rita-widyasari",
       "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "Bank Mandiri Taspen Dorong Lansia Tetap Produktif di Masa Pensiun",
       "link_berita": "https://esgnow.republika.co.id/berita/tg78ck416/bank-mandiri-taspen-dorong-lansia-tetap-produktif-di-masa-pensiun",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "72 Persen Muslim Tertarik Wakaf Uang, Tapi Hanya 5,8 Persen yang Berwakaf",
       "link_berita": "https://sharia.republika.co.id/berita/tg77wx423/72-persen-muslim-tertarik-wakaf-uang-tapi-hanya-58-persen-yang-berwakaf",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "IHSG Amblas, Ekonom Senior Indef Minta Pemerintah Jaga Kepercayaan Pasar",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg788b490/ihsg-amblas-ekonom-senior-indef-minta-pemerintah-jaga-kepercayaan-pasar",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "UPT BPOM di Jatim-Buleleng Ajak Masyarakat Selamatkan Masa Depan Jamu dari Ancaman Bahan Kimia Obat",
-      "link_berita": "https://news.republika.co.id/berita/tg7dw0291/upt-bpom-di-jatimbuleleng-ajak-masyarakatselamatkan-masa-depan-jamu-dari-ancaman-bahan-kimia-obat",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Ada Ajang Lari, Transjakarta Modifikasi Layanan Koridor 1 pada Ahad Pagi",
-      "link_berita": "https://news.republika.co.id/berita/tg786i487/ada-ajang-lari-transjakarta-modifikasi-layanan-koridor-1-pada-ahad-pagi",
-      "kategori": "News",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Pemerintah, DPR, dan BI Sepakat Perkuat Sinergi Fiskal-Moneter untuk Stabilkan Rupiah",
-      "link_berita": "https://visual.republika.co.id/berita/tg7853375/pemerintah-dpr-dan-bi-sepakat-perkuat-sinergi-fiskalmoneter-untuk-stabilkan-rupiah",
-      "kategori": "Visual",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Kloning Suara Makin Ngeri, Android Luncurkan Fitur Deteksi Panggilan Palsu",
-      "link_berita": "https://ameera.republika.co.id/berita/tg77wk425/kloning-suara-makin-ngeri-android-luncurkan-fitur-deteksi-panggilan-palsu",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Rupiah Melemah, Muhammadiyah Ingatkan Akhlak Bisnis saat Ekonomi Sulit",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg77it423/rupiah-melemah-muhammadiyah-ingatkan-akhlak-bisnis-saat-ekonomi-sulit",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Piagam Madinah: Cermin Jernih Peradaban Manusia dan Kemanusiaan",
-      "link_berita": "https://khazanah.republika.co.id/berita/tg5o66320/piagam-madinah-cermin-jernih-peradaban-manusia-dan-kemanusiaan",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "DPR Pertemukan Perry dan Purbaya, Pengelolaan Kas Pemerintah akan Tetap di Bank Indonesia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg776z490/dpr-pertemukan-perry-dan-purbaya-pengelolaan-kas-pemerintah-akan-tetap-di-bank-indonesia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Lebih dari 21 Ribu Hewan Kurban Disembelih di Kabupaten Bandung Barat, Ini Hasil Pemeriksaannya",
-      "link_berita": "https://rejabar.republika.co.id/berita/tg76qa368/lebih-dari-21-ribu-hewan-kurban-disembelih-di-kabupaten-bandung-barat-ini-hasil-pemeriksaannya",
-      "kategori": "Rejabar",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "PLN Indonesia Power Incar Proyek Energi Bersih di Amerika Latin dan Karibia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg76wq522/pln-indonesia-power-incar-proyek-energi-bersih-di-amerika-latin-dan-karibia",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Syngenta Luncurkan Teknologi Baru, Dukung Swasembada Beras",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg76t3522/syngenta-luncurkan-teknologi-baru-dukung-swasembada-beras",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
-    },
-    {
-      "judul": "Istana Respons Usulan Sipil Isi Jabatan Strategis di Polri",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg76sw423/istana-respons-usulan-sipil-isi-jabatan-strategis-di-polri",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 12:06:38"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:43:36"
     },
     {
       "judul": "6 Cara \u2018Satset\u2019 Tingkatkan Nutrisi pada Makanan, Yuk Dicoba!",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Saturday, 06 Jun 2026, 16:58:00"
     },
     {
-      "judul": "Bank Mandiri Taspen Dorong Lansia Tetap Produktif di Masa Pensiun",
-      "link_berita": "https://esgnow.republika.co.id/berita/tg78ck416/bank-mandiri-taspen-dorong-lansia-tetap-produktif-di-masa-pensiun",
+      "judul": "Pertamina Patra Niaga Perkuat Ketahanan Pangan Berkelanjutan Lewat Inovasi Budidaya",
+      "link_berita": "https://esgnow.republika.co.id/berita/tg7sot522/pertamina-patra-niaga-perkuat-ketahanan-pangan-berkelanjutan-lewat-inovasi-budidaya",
       "kategori": "Csr Esg Now",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 14:25:00"
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 21:38:00"
     },
     {
-      "judul": "Purbaya: Rupiah Stabil akan Ringankan Beban Rumah Tangga",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tg7h52423/purbaya-rupiah-stabil-akan-ringankan-beban-rumah-tangga",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 17:29:00"
+      "judul": "Kemenekraf-SHOW Token Dorong IP Kreatif Indonesia Bersaing di Pasar Global",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tg7n9r416/kemenekrafshow-token-dorong-ip-kreatif-indonesia-bersaing-di-pasar-global",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 21:00:00"
     },
     {
       "judul": "Ekspor Produk Halal Tumbuh Pesat, Kontribusi Industri Halal ke PDB Capai 24,8 Persen",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Saturday, 06 Jun 2026, 15:55:00"
     },
     {
-      "judul": "Jonatan Christie Akhirnya Tembus Final Indonesia Open",
-      "link_berita": "https://news.republika.co.id/berita/tg7ljy348/jonatan-christie-akhirnya-tembus-final-indonesia-open",
-      "kategori": "Sport",
-      "tanggal_terbit": "Saturday, 06 Jun 2026, 19:04:00"
+      "judul": "Digestion Expert Lab Jadi Cara Inovatif Lactogrow Agar Orang Tua Jaga Kesehatan Pencernaan Anak",
+      "link_berita": "https://republika.co.id/berita//tg7mqv456/digestion-expert-lab-jadi-cara-inovatif-lactogrow-agar-orang-tua-jaga-kesehatan-pencernaan-anak",
+      "kategori": "Jabodetabek Nusantara",
+      "tanggal_terbit": "Saturday, 06 Jun 2026, 19:30:00"
     }
   ],
-  "waktu_scraping": "Saturday, 06 Jun 2026, 19:06:38"
+  "waktu_scraping": "Saturday, 06 Jun 2026, 21:43:36"
 }
