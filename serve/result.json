@@ -1,6 +1,10 @@
 {
   "berita_headline": [
     {
+      "judul": "Indonesia Utus Wamenlu ke Yordania Bahas Krisis Al Aqsa",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjatci430/indonesia-utus-wamenlu-ke-yordania-bahas-krisis-al-aqsa"
+    },
+    {
       "judul": "Airlangga: Pertumbuhan Ekonomi Semester I 2026 Capai 5,45 Persen, Salah Satu Tertinggi di ASEAN",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjaqdq423/airlangga-pertumbuhan-ekonomi-semester-i-2026-capai-545-persen-salah-satu-tertinggi-di-asean"
     },
@@ -15,13 +19,17 @@
     {
       "judul": "Purbaya Optimistis Ekonomi Indonesia Tumbuh 6 Persen pada Kuartal III dan IV 2026",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjah3b423/purbaya-optimistis-ekonomi-indonesia-tumbuh-6-persen-pada-kuartal-iii-dan-iv-2026"
-    },
-    {
-      "judul": "Jenderal Listyo Sigit Respons Isu Surat Presiden Penggantian Kapolri, Begini Katanya",
-      "link_berita": "https://news.republika.co.id/berita/tjaea8487/jenderal-listyo-sigit-respons-isu-surat-presiden-penggantian-kapolri-begini-katanya"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Harga Pakan Melambung, Peternak Ayam di Solo Gelar Aksi Protes",
+      "link_berita": "https://visual.republika.co.id/berita/tjamqf375/harga-pakan-melambung-peternak-ayam-di-solo-gelar-aksi-protes"
+    },
+    {
+      "judul": "Satpol PP Ungkap Penebang 10 Pohon di Depan Lapangan Padel",
+      "link_berita": "https://rejabar.republika.co.id/berita/tjas5a282/satpol-pp-ungkap-penebang-10-pohon-di-depan-lapangan-padel"
+    },
     {
       "judul": "Mengapa Orang Mudah Berkomentar Jahat dan Nirempati di Medsos?",
       "link_berita": "https://ameera.republika.co.id/berita/tjard1425/mengapa-orang-mudah-berkomentar-jahat-dan-nirempati-di-medsos"
@@ -73,322 +81,314 @@
     {
       "judul": "Alutsista TNI AU Terus Diperkuat, Pesawat Tempur Hingga Sistem Rudal Ditambah",
       "link_berita": "https://rejogja.republika.co.id/berita/tja5kg282/alutsista-tni-au-terus-diperkuat-pesawat-tempur-hingga-sistem-rudal-ditambah"
-    },
-    {
-      "judul": "KPK Tahan 3 Tersangka Kasus Digitalisasi SPBU, Begini Konstruksi Perkaranya",
-      "link_berita": "https://news.republika.co.id/berita/tja0br487/kpk-tahan-3-tersangka-kasus-digitalisasi-spbu-begini-konstruksi-perkaranya"
-    },
-    {
-      "judul": "Soal Penebangan Pohon tak Jua Tuntas, Aksi Marah-Marah Farhan Dikritik Anggota Dewan",
-      "link_berita": "https://news.republika.co.id/berita/tj9zvo377/soal-penebangan-pohon-tak-jua-tuntas-aksi-marahmarah-farhan-dikritik-anggota-dewan"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Bendera Merah Putih Raksasa Berkibar di Stadion Pakansari Jelang HUT RI",
+      "link_berita": "https://visual.republika.co.id/berita/tjamw4375/bendera-merah-putih-raksasa-berkibar-di-stadion-pakansari-jelang-hut-ri",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:59:38"
+    },
+    {
+      "judul": "Tuntun Sekuritas Kembangkan AI, Investor Diingatkan Tetap Utamakan Analisis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjaxjt416/tuntun-sekuritas-kembangkan-ai-investor-diingatkan-tetap-utamakan-analisis",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:59:38"
+    },
+    {
+      "judul": "Dedi Mulyadi Minta Nakes yang Hina Pasien BPJS Disanksi Berat",
+      "link_berita": "https://news.republika.co.id/berita/tjaxej409/dedi-mulyadi-minta-nakes-yang-hina-pasien-bpjs-disanksi-berat",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:54:38"
+    },
+    {
+      "judul": "Respons Kasus Pasien BPJS Yurizal Meninggal dan Viral Dirundung Nakes, Menkes: Saya Merasa Gagal",
+      "link_berita": "https://news.republika.co.id/berita/tjax4d409/respons-kasus-pasien-bpjs-yurizal-meninggal-dan-viral-dirundung-nakes-menkes-saya-merasa-gagal",
+      "kategori": "News",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:48:38"
+    },
+    {
+      "judul": "Tim Gabungan Padamkan Kebakaran Hutan di Trenggalek",
+      "link_berita": "https://retizen.republika.co.id/posts/775216/tim-gabungan-padamkan-kebakaran-hutan-di-trenggalek",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:43:38"
+    },
+    {
+      "judul": "Terseret Skandal Pelecehan Seksual, Jared Leto 'Didepak' Film Assassination",
+      "link_berita": "https://ameera.republika.co.id/berita/tjawep425/terseret-skandal-pelecehan-seksual-jared-leto-didepak-film-assassination",
+      "kategori": "Ameera",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:32:38"
+    },
+    {
+      "judul": "Obat Kangen Indonesia di Luar Negeri Cuma Modal YouTube",
+      "link_berita": "https://republika.co.id/page/shorts/yt-tjawa22144550183/obat-kangen-indonesia-di-luar-negeri-cuma-modal-youtube",
+      "kategori": "Video",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:29:38"
+    },
+    {
+      "judul": "Harga Pakan Melambung, Peternak Ayam di Solo Gelar Aksi Protes",
+      "link_berita": "https://visual.republika.co.id/berita/tjamqf375/harga-pakan-melambung-peternak-ayam-di-solo-gelar-aksi-protes",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 14:16:38"
+    },
+    {
+      "judul": "Pekerjaan Layak di Indonesia: Mewujudkan Dunia Kerja yang Adil, Aman, dan Produktif",
+      "link_berita": "https://retizen.republika.co.id/posts/775174/pekerjaan-layak-di-indonesia-mewujudkan-dunia-kerja-yang-adil-aman-dan-produktif",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Inflasi Terkendali dan Kredibilitas Kebijakan Moneter",
+      "link_berita": "https://retizen.republika.co.id/posts/775180/inflasi-terkendali-dan-kredibilitas-kebijakan-moneter",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "BNPB Siapkan Helikopter Water Bombing untuk Padamkan Kebakaran di Gunung Bromo",
+      "link_berita": "https://rejogja.republika.co.id/berita/tjaraw282/bnpb-siapkan-helikopter-water-bombing-untuk-padamkan-kebakaran-di-gunung-bromo",
+      "kategori": "Rejogja",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Bukan Sekadar Berani Bicara: Pentingnya Teknik Vokal dalam Public Speaking",
+      "link_berita": "https://retizen.republika.co.id/posts/775124/bukan-sekadar-berani-bicara-pentingnya-teknik-vokal-dalam-public-speaking",
+      "kategori": "Retizen",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Indonesia Utus Wamenlu ke Yordania Bahas Krisis Al Aqsa",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjatci430/indonesia-utus-wamenlu-ke-yordania-bahas-krisis-al-aqsa",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Sinergi Pemberdayaan Masyarakat dan Wakaf, 40 Ribu Alquran Didistribusikan di Kalbar",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjase8483/sinergi-pemberdayaan-masyarakat-dan-wakaf-40-ribu-alquran-didistribusikan-di-kalbar",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Satpol PP Ungkap Penebang 10 Pohon di Depan Lapangan Padel",
+      "link_berita": "https://rejabar.republika.co.id/berita/tjas5a282/satpol-pp-ungkap-penebang-10-pohon-di-depan-lapangan-padel",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Mata Air Menyusut, Ratusan Keluarga di Grobogan Kesulitan Air Bersih",
+      "link_berita": "https://visual.republika.co.id/berita/tjamg2375/mata-air-menyusut-ratusan-keluarga-di-grobogan-kesulitan-air-bersih",
+      "kategori": "Visual",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
+      "judul": "Dunia Usaha Sebut Pertumbuhan Ekonomi 5,29 Persen Belum Kokoh",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjas1j423/dunia-usaha-sebut-pertumbuhan-ekonomi-529-persen-belum-kokoh",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 13:16:38"
+    },
+    {
       "judul": "Kebakaran Karhutla Meluas, 7,9 Hektare Hutan Gunung Bromo Ludes Dilalap Api",
       "link_berita": "https://rejogja.republika.co.id/berita/tjaqnu282/kebakaran-karhutla-meluas-79-hektare-hutan-gunung-bromo-ludes-dilalap-api",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:44:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Mengapa Orang Mudah Berkomentar Jahat dan Nirempati di Medsos?",
       "link_berita": "https://ameera.republika.co.id/berita/tjard1425/mengapa-orang-mudah-berkomentar-jahat-dan-nirempati-di-medsos",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:43:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Iran Bantah Bernegosiasi dengan AS, Hanya Berunding dengan Oman Soal Selat Hormuz",
       "link_berita": "https://news.republika.co.id/berita/tjarc2409/iran-bantah-bernegosiasi-dengan-as-hanya-berunding-dengan-oman-soal-selat-hormuz",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:43:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Airlangga: Pertumbuhan Ekonomi Semester I 2026 Capai 5,45 Persen, Salah Satu Tertinggi di ASEAN",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjaqdq423/airlangga-pertumbuhan-ekonomi-semester-i-2026-capai-545-persen-salah-satu-tertinggi-di-asean",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:22:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Marak OTT KPK, DPD RI Sebut Fungsi Inspektorat di Pemda Jateng Bermasalah",
       "link_berita": "https://rejogja.republika.co.id/berita/tjaq9x282/marak-ott-kpk-dpd-ri-sebut-fungsi-inspektorat-di-pemda-jateng-bermasalah",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:20:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "DPRD Jabar dan Pemprov Sepakati Arah Kebijakan APBD 2027",
       "link_berita": "https://rejabar.republika.co.id/berita/tjaq98472/dprd-jabar-dan-pemprov-sepakati-arah-kebijakan-apbd-2027",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:19:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "V BTS Dikabarkan Alami Kecelakaan Mobil Usai Konser di New Jersey",
       "link_berita": "https://ameera.republika.co.id/berita/tjaq1w425/v-bts-dikabarkan-alami-kecelakaan-mobil-usai-konser-di-new-jersey",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:15:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Perkuat Jejaring internasional, STIQ Ar-Rahman Jajaki Kerja Sama dengan IUA Sudan",
       "link_berita": "https://khazanah.republika.co.id/berita/tjapiq320/perkuat-jejaring-internasional-stiq-arrahman-jajaki-kerja-sama-dengan-iua-sudan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:03:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Berburu Peluang Kerja, Ribuan Pelamar Padati Bursa Kerja di Bogor",
       "link_berita": "https://visual.republika.co.id/berita/tjam8w375/berburu-peluang-kerja-ribuan-pelamar-padati-bursa-kerja-di-bogor",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:59:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "150 Kampus Ikuti Munas BEM SI 2026, Siapa Nahkoda Barunya?",
       "link_berita": "https://news.republika.co.id/berita/tjap2j483/150-kampus-ikuti-munas-bem-si-2026-siapa-nahkoda-barunya",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "BRI Dukung Optimalisasi Instrumen Pengelolaan Kas Negara, Perkuat Penyaluran Kredit Berkualitas",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjaoz6472/bri-dukung-optimalisasi-instrumen-pengelolaan-kas-negara-perkuat-penyaluran-kredit-berkualitas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 12:16:38"
     },
     {
       "judul": "Bea Cukai Gagalkan Penyelundupan 99,5 Ton Rotan Ilegal, Lindungi Industri Mebel dan UMKM Nasional",
       "link_berita": "https://republika.co.id/berita//tjaoku472/bea-cukai-gagalkan-penyelundupan-995-ton-rotan-ilegal-lindungi-industri-mebel-dan-umkm-nasional",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "3 Bentuk Kenikmatan yang Dinikmati Manusia, Mana yang Lebih Berharga?",
       "link_berita": "https://khazanah.republika.co.id/berita/tjao6n320/3-bentuk-kenikmatan-yang-dinikmati-manusia-mana-yang-lebih-berharga",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Nova Widianto Pulang ke Pelatnas Cipayung, PBSI Bidik Kebangkitan Ganda Campuran Indonesia",
       "link_berita": "https://news.republika.co.id/berita/tjandg348/nova-widianto-pulang-ke-pelatnas-cipayung-pbsi-bidik-kebangkitan-ganda-campuran-indonesia",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Curhat ke IMF, Purbaya Sebut Dirinya Menteri Paling Tidak Beruntung di Dunia",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjancy484/curhat-ke-imf-purbaya-sebut-dirinya-menteri-paling-tidak-beruntung-di-dunia",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Drone Laut Nirawak Unjuk Kemampuan di Latihan Operasi TNI Terintegrasi 2026",
       "link_berita": "https://visual.republika.co.id/berita/tjaltp375/drone-laut-nirawak-unjuk-kemampuan-di-latihan-operasi-tni-terintegrasi-2026",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "KAI Catat Angkutan Perkebunan Naik 18 Persen, Dukung Rantai Pasok B50",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjan7d349/kai-catat-angkutan-perkebunan-naik-18-persen-dukung-rantai-pasok-b50",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Honda Super-One Dibanderol Mulai dari Rp 438 Juta, Sudah Bisa Dipesan Hari Ini di Dealer Tertentu",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjan4q348/honda-superone-dibanderol-mulai-dari-rp-438-juta-sudah-bisa-dipesan-hari-ini-di-dealer-tertentu",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Setahun Pascademo Ricuh di Polda DIY, Kapolda Pastikan Situasi Keamanan Jogja Kondusif",
       "link_berita": "https://rejogja.republika.co.id/berita/tjan2t282/setahun-pascademo-ricuh-di-polda-diy-kapolda-pastikan-situasi-keamanan-jogja-kondusif",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "BMKG Wantiwanti Risiko El Nino Ganggu Sektor Ketahanan Pangan hingga Sumber Air",
       "link_berita": "https://republika.co.id/page/shorts/yt-tjamk1156814316/bmkg-wantiwanti-risiko-el-nino-ganggu-sektor-ketahanan-pangan-hingga-sumber-air",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Bank Mantap Jalin Kerja Sama dengan IPB, Buka Akses Magang Mahasiswa",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjaljk416/bank-mantap-jalin-kerja-sama-dengan-ipb-buka-akses-magang-mahasiswa",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "Dikira Kambing Masuk Rumah Ternyata Babi Hutan, Dua Warga Bandung Barat Digigit dan Diseruduk",
       "link_berita": "https://rejabar.republika.co.id/berita/tjambr282/dikira-kambing-masuk-rumah-ternyata-babi-hutan-dua-warga-bandung-barat-digigit-dan-diseruduk",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 11:16:38"
     },
     {
       "judul": "KH Ahmad Rifa'i Pahlawan Nasional Tokoh Pembaru Pendidikan Islam dari Abad 18",
       "link_berita": "https://khazanah.republika.co.id/berita/tjalxi430/kh-ahmad-rifai-pahlawan-nasional-tokoh-pembaru-pendidikan-islam-dari-abad-18",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "KDM Minta Wali Kota Tasik Sanksi Nakes Penghina Pasien BPJS",
       "link_berita": "https://republika.co.id/page/shorts/yt-tjalv11586203080/kdm-minta-wali-kota-tasik-sanksi-nakes-penghina-pasien-bpjs",
       "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "LRT Jakarta Fase 1B Beroperasi, Kelapa Gading-Manggarai Hanya 28 Menit",
       "link_berita": "https://news.republika.co.id/berita/tjalub484/lrt-jakarta-fase-1b-beroperasi-kelapa-gadingmanggarai-hanya-28-menit",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Kandidat Senat Muslim Permalukan Raksasa Lobi Yahudi di Michigan",
       "link_berita": "https://news.republika.co.id/berita/tjalrc393/kandidat-senat-muslim-permalukan-raksasa-lobi-yahudi-di-michigan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "DPD RI Sebut OTT Kepala Daerah di Jateng Sudah Darurat",
       "link_berita": "https://rejogja.republika.co.id/berita/tjalnf282/dpd-ri-sebut-ott-kepala-daerah-di-jateng-sudah-darurat",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Kemarau Diprediksi Terjadi Hingga Oktober, Pemprov DKI Bakal Lakukan OMC Dua Kali Sepekan",
       "link_berita": "https://news.republika.co.id/berita/tjalku430/kemarau-diprediksi-terjadi-hingga-oktober-pemprov-dki-bakal-lakukan-omc-dua-kali-sepekan",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Calon Jamaah Tak Cukup Hanya Fit to Fly, Perdokhi Dorong Klinik Terpadu Kesehatan Haji dan Umrah",
       "link_berita": "https://khazanah.republika.co.id/berita/tjalg6483/calon-jamaah-tak-cukup-hanya-fit-to-fly-perdokhi-dorong-klinik-terpadu-kesehatan-haji-dan-umrah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Qatar: Hamas Telah Penuhi Kewajibannya, Masyarakat Internasional Harus Tekan Israel",
       "link_berita": "https://khazanah.republika.co.id/berita/tjalee320/qatar-hamas-telah-penuhi-kewajibannya-masyarakat-internasional-harus-tekan-israel",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Rakernas AFEB PTMA 2026 di UMJ Bahas Transformasi Perguruan Tinggi Berbasis Dampak",
       "link_berita": "https://news.republika.co.id/berita/tjal7g472/rakernas-afeb-ptma-2026-di-umj-bahas-transformasi-perguruan-tinggi-berbasis-dampak",
       "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Prof Tjandra Ingatkan Dokter Perlu Punya Empati dan Einf\u00fchlung, Apa Itu?",
       "link_berita": "https://ameera.republika.co.id/berita/tjal3j425/prof-tjandra-ingatkan-dokter-perlu-punya-empati-dan-einfhlung-apa-itu",
       "kategori": "Ameera",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
       "judul": "Bea Cukai Gagalkan Penyelundupan Moge Harley Davidson Bekas di Tanjung Priok",
       "link_berita": "https://visual.republika.co.id/berita/tjakwn375/bea-cukai-gagalkan-penyelundupan-moge-harley-davidson-bekas-di-tanjung-priok",
       "kategori": "Visual",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 10:16:38"
     },
     {
-      "judul": "DPRD Jateng Bentuk Pansus Pembentukan CDOB Brebes Selatan",
-      "link_berita": "https://rejogja.republika.co.id/berita/tjakto282/dprd-jateng-bentuk-pansus-pembentukan-cdob-brebes-selatan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Industri Servis Gawai Ubah Strategi, tak Cuma Kejar Harga Murah",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjak03416/industri-servis-gawai-ubah-strategi-tak-cuma-kejar-harga-murah",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Purbaya Batal Tarik Pajak Marketplace Mulai Agustus 2026",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjakm4490/purbaya-batal-tarik-pajak-marketplace-mulai-agustus-2026",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Indonesia Membayar, Siapa yang Menikmati? Menagih Keberpihakan Stakeholder di Kebijakan Dam Haji",
-      "link_berita": "https://analisis.republika.co.id/berita/tjakiq483/indonesia-membayar-siapa-yang-menikmati-menagih-keberpihakan-stakeholder-di-kebijakan-dam-haji",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "BCC UBSI Kampus Pontianak Fasilitasi Mahasiswa Magang di BRI KC Pontianak",
-      "link_berita": "https://news.republika.co.id/berita/tjakf1472/bcc-ubsi-kampus-pontianak-fasilitasi-mahasiswa-magang-di-bri-kc-pontianak",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Menhan dan Wapang TNI Jadi Warga Kehormatan Korps Marinir",
-      "link_berita": "https://news.republika.co.id/berita/tjak6p484/menhan-dan-wapang-tni-jadi-warga-kehormatan-korps-marinir",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Rektor UBSI Ikut PKM Internasional Paguyuban Profesor LLDIKTI Wilayah IV, Perkuat Kolaborasi",
-      "link_berita": "https://news.republika.co.id/berita/tjajzh472/rektor-ubsi-ikut-pkm-internasional-paguyuban-profesor-lldikti-wilayah-iv-perkuat-kolaborasi",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "UMY Jadi Tuan Rumah Konferensi Perpustakaan Digital Indonesia 2026",
-      "link_berita": "https://rejogja.republika.co.id/berita/tjaejo291/umy-jadi-tuan-rumah-konferensi-perpustakaan-digital-indonesia-2026",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Waduk Saguling Sandaran Petani saat Kemarau",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tjajs238793894/waduk-saguling-sandaran-petani-saat-kemarau",
-      "kategori": "Video",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Bittime: Investor Kripto Masih Wait and See, Bitcoin Bergerak Terbatas",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjacbi416/bittime-investor-kripto-masih-wait-and-see-bitcoin-bergerak-terbatas",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Pemerintah Pastikan Pagar di Sejumlah Mal Sudah Dibongkar",
-      "link_berita": "https://news.republika.co.id/berita/tjajq9409/pemerintah-pastikan-pagar-di-sejumlah-mal-sudah-dibongkar",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "BSI Explore 2026 Digelar, Mahasiswa UBSI Siap Mengabdi dan Menginspirasi Masyarakat",
-      "link_berita": "https://news.republika.co.id/berita/tjajhl472/bsi-explore-2026-digelar-mahasiswa-ubsi-siap-mengabdi-dan-menginspirasi-masyarakat",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Nadiem Optimistis Bebas dari Vonis 10 Tahun Penjara Lewat Sidang Banding",
-      "link_berita": "https://news.republika.co.id/berita/tjajgo409/nadiem-optimistis-bebas-dari-vonis-10-tahun-penjara-lewat-sidang-banding",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Pemerasan THR oleh Bupati Cilacap Sempat Ditentang Anak Buah",
-      "link_berita": "https://rejogja.republika.co.id/berita/tjajed282/pemerasan-thr-oleh-bupati-cilacap-sempat-ditentang-anak-buah",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Dukung Smart City, \u201cTeman BST\u201d Karya Mahasiswa UBSI Raih Perunggu pada Pekan Inovasi Nasional 2026",
-      "link_berita": "https://news.republika.co.id/berita/tjaj3f472/dukung-smart-city-teman-bst-karya-mahasiswa-ubsi-raih-perunggu-pada-pekan-inovasi-nasional-2026",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Purbaya: Kalau Gaji Manajer Kopdes Rp16 Juta, Kita tidak Setujui Saja",
-      "link_berita": "https://news.republika.co.id/berita/tjaj1g409/purbaya-kalau-gaji-manajer-kopdes-rp16-juta-kita-tidak-setujui-saja",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Isu Surpres Pergantian Kapolri, Jenderal Listyo: Kita Menunggu Saja",
-      "link_berita": "https://news.republika.co.id/berita/tjaiy2484/isu-surpres-pergantian-kapolri-jenderal-listyo-kita-menunggu-saja",
-      "kategori": "News",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 09:55:37"
-    },
-    {
-      "judul": "Mengapa Orang Mudah Berkomentar Jahat dan Nirempati di Medsos?",
-      "link_berita": "https://ameera.republika.co.id/berita/tjard1425/mengapa-orang-mudah-berkomentar-jahat-dan-nirempati-di-medsos",
+      "judul": "Terseret Skandal Pelecehan Seksual, Jared Leto 'Didepak' Film Assassination",
+      "link_berita": "https://ameera.republika.co.id/berita/tjawep425/terseret-skandal-pelecehan-seksual-jared-leto-didepak-film-assassination",
       "kategori": "Happening",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 19:43:00"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 21:32:00"
     },
     {
       "judul": "Perhutani Ajak Anak Belajar Mencintai Hutan Sejak Dini",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Wednesday, 05 Aug 2026, 16:00:00"
     },
     {
-      "judul": "Airlangga: Pertumbuhan Ekonomi Semester I 2026 Capai 5,45 Persen, Salah Satu Tertinggi di ASEAN",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjaqdq423/airlangga-pertumbuhan-ekonomi-semester-i-2026-capai-545-persen-salah-satu-tertinggi-di-asean",
+      "judul": "Tuntun Sekuritas Kembangkan AI, Investor Diingatkan Tetap Utamakan Analisis",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjaxjt416/tuntun-sekuritas-kembangkan-ai-investor-diingatkan-tetap-utamakan-analisis",
       "kategori": "Finansial",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 19:22:00"
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 21:59:00"
     },
     {
       "judul": "INCEIF: AI tak Boleh Gantikan Penilaian Manusia dalam Keuangan Syariah",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 05 Aug 2026, 15:19:00"
     },
     {
-      "judul": "Iran Bantah Bernegosiasi dengan AS, Hanya Berunding dengan Oman Soal Selat Hormuz",
-      "link_berita": "https://news.republika.co.id/berita/tjarc2409/iran-bantah-bernegosiasi-dengan-as-hanya-berunding-dengan-oman-soal-selat-hormuz",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Wednesday, 05 Aug 2026, 19:43:00"
+      "judul": "Dedi Mulyadi Minta Nakes yang Hina Pasien BPJS Disanksi Berat",
+      "link_berita": "https://news.republika.co.id/berita/tjaxej409/dedi-mulyadi-minta-nakes-yang-hina-pasien-bpjs-disanksi-berat",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Wednesday, 05 Aug 2026, 21:54:00"
     }
   ],
-  "waktu_scraping": "Wednesday, 05 Aug 2026, 19:55:37"
+  "waktu_scraping": "Wednesday, 05 Aug 2026, 22:16:38"
 }
