@@ -1,27 +1,31 @@
 {
   "berita_headline": [
     {
+      "judul": "BREAKING NEWS: Saudi, Turki, dan Pakistan Teken Pakta Pertahanan Bersama",
+      "link_berita": "https://news.republika.co.id/berita/tjeck2393/breaking-news-saudi-turki-dan-pakistan-teken-pakta-pertahanan-bersama"
+    },
+    {
+      "judul": "Polda Metro Sebut Ratusan Senjata di Sekolah Swasta di Jaksel Bukan Senpi, Tapi Senapan Angin",
+      "link_berita": "https://news.republika.co.id/berita/tjebp3409/polda-metro-sebut-ratusan-senjata-di-sekolah-swasta-di-jaksel-bukan-senpi-tapi-senapan-angin"
+    },
+    {
       "judul": "Pemprov DKI Berencana Terbitkan Obligasi Rp 5,2 Triliun, BI Ingatkan Risikonya",
       "link_berita": "https://news.republika.co.id/berita/tje7ty484/pemprov-dki-berencana-terbitkan-obligasi-rp-52-triliun-bi-ingatkan-risikonya"
     },
     {
-      "judul": "Polres Jaksel: Tidak Ada Ekskul Menembak di Sekolah Tempat Ditemukannya Ratusan Senpi",
-      "link_berita": "https://news.republika.co.id/berita/tje5qt409/polres-jaksel-tidak-ada-ekskul-menembak-di-sekolah-tempat-ditemukannya-ratusan-senpi"
+      "judul": "Polres Jaksel: Tidak Ada Ekskul Menembak di Sekolah Tempat Ditemukannya Ratusan Senjata",
+      "link_berita": "https://news.republika.co.id/berita/tje5qt409/polres-jaksel-tidak-ada-ekskul-menembak-di-sekolah-tempat-ditemukannya-ratusan-senjata"
     },
     {
       "judul": "Respons Meninggalnya Pasien BPJS Kesehatan Yurizal, Prof Dasaad Berduka",
       "link_berita": "https://news.republika.co.id/berita/tje1v9484/respons-meninggalnya-pasien-bpjs-kesehatan-yurizal-prof-dasaad-berduka"
-    },
-    {
-      "judul": "Senjata hingga Narkoba Ditemukan di Sekolah Swasta Jakarta, Pramono: Harus Ditindak Tegas",
-      "link_berita": "https://news.republika.co.id/berita/tjdzk8377/senjata-hingga-narkoba-ditemukan-di-sekolah-swasta-jakarta-pramono-harus-ditindak-tegas"
-    },
-    {
-      "judul": "Yurizal Berobat di RSCM Sebelum Meninggal, Alasan Ia Menunggu Hingga 8 Jam Terungkap",
-      "link_berita": "https://news.republika.co.id/berita/tjdvdx409/yurizal-berobat-di-rscm-sebelum-meninggal-alasan-ia-menunggu-hingga-8-jam-terungkap"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "LHS Minta Muktamar ke-35 NU Utamakan Musyawarah, Hindari Voting",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjech1451/lhs-minta-muktamar-ke35-nu-utamakan-musyawarah-hindari-voting"
+    },
     {
       "judul": "Kapitalisasi Saham Syariah Susut Rp 1.745 Triliun, Pangsa Pasar Tertekan",
       "link_berita": "https://sharia.republika.co.id/berita/tje98q423/kapitalisasi-saham-syariah-susut-rp-1745-triliun-pangsa-pasar-tertekan"
@@ -77,312 +81,308 @@
     {
       "judul": "Ketika Abu Hurairah Mengganjal Perutnya dengan Batu dan Rahasia Hikmah di Baliknya",
       "link_berita": "https://khazanah.republika.co.id/berita/tjcuia320/ketika-abu-hurairah-mengganjal-perutnya-dengan-batu-dan-rahasia-hikmah-di-baliknya"
-    },
-    {
-      "judul": "Analis Peringatkan Ancaman Konflik Regional di Balik Ilusi Israel Raya dan Perang Proksi",
-      "link_berita": "https://khazanah.republika.co.id/berita/tjcsc0320/analis-peringatkan-ancaman-konflik-regional-di-balik-ilusi-israel-raya-dan-perang-proksi"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Asprindo Dorong KDMP Berkolaborasi dengan Kampung Industri",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tje63l416/asprindo-dorong-kdmp-berkolaborasi-dengan-kampung-industri",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:29:31"
+    },
+    {
+      "judul": "DJKI Sita 9.609 Sepatu Pakai Merek Ilegal, Omzet Usaha Capai Rp 1 Miliar",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjed7o370/djki-sita-9609-sepatu-pakai-merek-ilegal-omzet-usaha-capai-rp-1-miliar",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:28:31"
+    },
+    {
+      "judul": "Industri IVD Perkuat Ekspansi, Indonesia Dibidik Jadi Basis Manufaktur Asia Tenggara",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjecht416/industri-ivd-perkuat-ekspansi-indonesia-dibidik-jadi-basis-manufaktur-asia-tenggara",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:24:31"
+    },
+    {
+      "judul": "BP BUMN Targetkan Jumlah Entitas BUMN Tinggal 250",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjebly423/bp-bumn-targetkan-jumlah-entitas-bumn-tinggal-250",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:19:31"
+    },
+    {
+      "judul": "BREAKING NEWS: Saudi, Turki, dan Pakistan Teken Pakta Pertahanan Bersama",
+      "link_berita": "https://news.republika.co.id/berita/tjeck2393/breaking-news-saudi-turki-dan-pakistan-teken-pakta-pertahanan-bersama",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:14:31"
+    },
+    {
+      "judul": "LHS Minta Muktamar ke-35 NU Utamakan Musyawarah, Hindari Voting",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjech1451/lhs-minta-muktamar-ke35-nu-utamakan-musyawarah-hindari-voting",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:12:31"
+    },
+    {
+      "judul": "Berkah HUT RI, Pedagang Pernak-pernik Merah Putih di Pasar Jatinegara Kebanjiran Pembeli",
+      "link_berita": "https://visual.republika.co.id/berita/tjecb7375/berkah-hut-ri-pedagang-pernakpernik-merah-putih-di-pasar-jatinegara-kebanjiran-pembeli",
+      "kategori": "Visual",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:09:31"
+    },
+    {
+      "judul": "Dedi Mulyadi Sayembarakan Tangkap Pelaku Pembakaran Bendera Merah Putih",
+      "link_berita": "https://rejabar.republika.co.id/berita/tjec5w484/dedi-mulyadi-sayembarakan-tangkap-pelaku-pembakaran-bendera-merah-putih",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:05:31"
+    },
+    {
+      "judul": "KNEKS Dorong Indonesia Miliki PDB Syariah Pertama di Dunia",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tjeb60423/kneks-dorong-indonesia-miliki-pdb-syariah-pertama-di-dunia",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:00:31"
+    },
+    {
+      "judul": "Produksi Perikanan Budidaya di Cirebon Melonjak",
+      "link_berita": "https://rejabar.republika.co.id/berita/tjebx7282/produksi-perikanan-budidaya-di-cirebon-melonjak",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 11:00:31"
+    },
+    {
+      "judul": "Polda Metro Sebut Ratusan Senjata di Sekolah Swasta di Jaksel Bukan Senpi, Tapi Senapan Angin",
+      "link_berita": "https://news.republika.co.id/berita/tjebp3409/polda-metro-sebut-ratusan-senjata-di-sekolah-swasta-di-jaksel-bukan-senpi-tapi-senapan-angin",
+      "kategori": "News",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:55:31"
+    },
+    {
       "judul": "Akademisi Usulkan Roadmap Bertahap untuk Target PLTS 100 GW",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje3bu522/akademisi-usulkan-roadmap-bertahap-untuk-target-plts-100-gw",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:52:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:52:31"
     },
     {
       "judul": "Polda Jabar Ungkap 352 Kasus, Pemkot Bandung Dukung Perang Melawan Kejahatan Jalanan",
       "link_berita": "https://rejabar.republika.co.id/berita/tjeaw4472/polda-jabar-ungkap-352-kasus-pemkot-bandung-dukung-perang-melawan-kejahatan-jalanan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:37:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "Air Minum Bisa Mengurangi Sampah Plastik, Mungkinkah?",
       "link_berita": "https://republika.co.id/page/shorts/yt-tjeai2631870283/air-minum-bisa-mengurangi-sampah-plastik-mungkinkah",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:29:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "Regulasi yang Stabil Dinilai Perkuat Industri Pertambangan Nasional",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje38q522/regulasi-yang-stabil-dinilai-perkuat-industri-pertambangan-nasional",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:29:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "Jakarta Butuh Aturan Baru Pengendalian Polusi Udara",
       "link_berita": "https://esgnow.republika.co.id/berita/tjeac8416/jakarta-butuh-aturan-baru-pengendalian-polusi-udara",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:26:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "Hari Kucing Sedunia, Dokter Ingatkan Bahaya Obesitas pada Anabul",
       "link_berita": "https://ameera.republika.co.id/berita/tjeaav425/hari-kucing-sedunia-dokter-ingatkan-bahaya-obesitas-pada-anabul",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:25:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "HUT JAKARTA 499, Kerak Telur Tetap Menjadi Sejarah Kulineran",
       "link_berita": "https://retizen.republika.co.id/posts/775412/hut-jakarta-499-kerak-telur-tetap-menjadi-sejarah-kulineran",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:20:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "Kapitalisasi Saham Syariah Susut Rp 1.745 Triliun, Pangsa Pasar Tertekan",
       "link_berita": "https://sharia.republika.co.id/berita/tje98q423/kapitalisasi-saham-syariah-susut-rp-1745-triliun-pangsa-pasar-tertekan",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:20:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 10:48:31"
     },
     {
       "judul": "Erick Thohir Konfirmasi FIFA Lepas Larangan Suporter Tandang",
       "link_berita": "https://republika.co.id/page/shorts/yt-tje9t31216615249/erick-thohir-konfirmasi-fifa-lepas-larangan-suporter-tandang",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:14:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "AIR BANJIR JADI AIR MINUM",
       "link_berita": "https://republika.co.id/page/shorts/yt-tje9t1507704040/air-banjir-jadi-air-minum",
       "kategori": "Video",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:14:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Apa Bekal Menuju Kampung Akhirat?",
       "link_berita": "https://retizen.republika.co.id/posts/775427/apa-bekal-menuju-kampung-akhirat",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:11:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Krom Bank Bidik Pertumbuhan Industri Pergadaian yang Melonjak 50 Persen",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje9jj416/krom-bank-bidik-pertumbuhan-industri-pergadaian-yang-melonjak-50-persen",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:08:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Di Titik Terendah Pun, Manusia Tetap Berharga",
       "link_berita": "https://retizen.republika.co.id/posts/775429/di-titik-terendah-pun-manusia-tetap-berharga",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:08:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Renungan Jumat: Mensyukuri Nikmat yang Sering Terlupakan",
       "link_berita": "https://retizen.republika.co.id/posts/775437/renungan-jumat-mensyukuri-nikmat-yang-sering-terlupakan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:04:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Pendakian Gunung Gede Pangrango Ditutup Lima Hari akibat Kebakaran",
       "link_berita": "https://rejabar.republika.co.id/berita/tje9bg370/pendakian-gunung-gede-pangrango-ditutup-lima-hari-akibat-kebakaran",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:03:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Turki, Saudi, Pakistan Dilaporkan Bakal Teken Pakta Pertahanan di Makkah",
       "link_berita": "https://news.republika.co.id/berita/tje99q393/turki-saudi-pakistan-dilaporkan-bakal-teken-pakta-pertahanan-di-makkah",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:02:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Mentan Pastikan Kekeringan Belum Ganggu Ketersediaan Pangan Nasional",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje8l6423/mentan-pastikan-kekeringan-belum-ganggu-ketersediaan-pangan-nasional",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:00:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Ketiga Ego Tunduk: Sujud sebagai Jalan Pulang kepada Sang Pencipta",
       "link_berita": "https://retizen.republika.co.id/posts/775469/ketiga-ego-tunduk-sujud-sebagai-jalan-pulang-kepada-sang-pencipta",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 10:00:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "BPK: Opini WTP Bukan Tujuan Akhir Pengelolaan Keuangan Negara",
       "link_berita": "https://esgnow.republika.co.id/berita/tje410416/bpk-opini-wtp-bukan-tujuan-akhir-pengelolaan-keuangan-negara",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:59:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Bandara Husein Sastranegara Bersiap Sambut Kembali Penerbangan Jet Komersial",
       "link_berita": "https://visual.republika.co.id/berita/tje06v375/bandara-husein-sastranegara-bersiap-sambut-kembali-penerbangan-jet-komersial",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:59:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Berdiri di Atas Instruksi: Menyoal Status Hukum KDMP di Tengah Bayang-Bayang UU Perkoperasian",
       "link_berita": "https://retizen.republika.co.id/posts/775475/berdiri-di-atas-instruksi-menyoal-status-hukum-kdmp-di-tengah-bayang-bayang-uu-perkoperasian",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:58:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Pajak, Kepercayaan, dan Bayang-Bayang Kekuasaan",
       "link_berita": "https://retizen.republika.co.id/posts/775519/pajak-kepercayaan-dan-bayang-bayang-kekuasaan",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Cara Menghitung Pemakaian Listrik dengan Rumus dan Contohnya",
       "link_berita": "https://retizen.republika.co.id/posts/775527/cara-menghitung-pemakaian-listrik-dengan-rumus-dan-contohnya",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Meta Disanksi Rp10 Triliun Lebih oleh Hakim New Mexico karena Dinilai Rusak Mental Anak",
       "link_berita": "https://ameera.republika.co.id/berita/tje8n0425/meta-disanksi-rp10-triliun-lebih-oleh-hakim-new-mexico-karena-dinilai-rusak-mental-anak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Metode SMART dalam Manajemen Strategi: Rahasia Mencapai Target Bisnis",
       "link_berita": "https://retizen.republika.co.id/posts/775525/metode-smart-dalam-manajemen-strategi-rahasia-mencapai-target-bisnis",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Grounding Technique sebagai Cara Mengelola Emosi dalam Menghadapi Burnout",
       "link_berita": "https://retizen.republika.co.id/posts/775533/grounding-technique-sebagai-cara-mengelola-emosi-dalam-menghadapi-burnout",
       "kategori": "Retizen",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Bahlil: Transformasi Ekonomi Indonesia tak akan Terjadi Tanpa Hilirisasi",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje81w423/bahlil-transformasi-ekonomi-indonesia-tak-akan-terjadi-tanpa-hilirisasi",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Pemprov DKI Berencana Terbitkan Obligasi Rp 5,2 Triliun, BI Ingatkan Risikonya",
       "link_berita": "https://news.republika.co.id/berita/tje7ty484/pemprov-dki-berencana-terbitkan-obligasi-rp-52-triliun-bi-ingatkan-risikonya",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 09:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
+    },
+    {
+      "judul": "Kompetisi Safety Riding Nasional Perkuat Edukasi Keselamatan Berkendara",
+      "link_berita": "https://visual.republika.co.id/berita/tjeck0375/kompetisi-safety-riding-nasional-perkuat-edukasi-keselamatan-berkendara",
+      "kategori": "Visual",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Menguak Gelombang Migran Ilegal Maroko dan Afrika Ke Spanyol",
       "link_berita": "https://analisis.republika.co.id/berita/tje7ei282/menguak-gelombang-migran-ilegal-maroko-dan-afrika-ke-spanyol",
       "kategori": "Kolom",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 09:48:31"
     },
     {
       "judul": "Fikih di Persimpangan Polycrisis: Menguatkan Maqashid untuk Abad 21",
       "link_berita": "https://analisis.republika.co.id/berita/tje76g451/fikih-di-persimpangan-polycrisis-menguatkan-maqashid-untuk-abad-21",
       "kategori": "Kolom",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Erick Thohir Serahkan Mekanisme Suporter Tandang kepada Liga dan Klub, Keselamatan Jadi Prioritas",
       "link_berita": "https://news.republika.co.id/berita/tje763348/erick-thohir-serahkan-mekanisme-suporter-tandang-kepada-liga-dan-klub-keselamatan-jadi-prioritas",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Kementerian PU Segera Operasikan Tol Prosiwangi Seksi 1 dan 2",
       "link_berita": "https://news.republika.co.id/berita/tje6yx484/kementerian-pu-segera-operasikan-tol-prosiwangi-seksi-1-dan-2",
       "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Ayah yang Siksa Anaknya di Bandung Barat Coba Kabur Saat Hendak Ditangkap",
       "link_berita": "https://rejabar.republika.co.id/berita/tje6vz282/ayah-yang-siksa-anaknya-di-bandung-barat-coba-kabur-saat-hendak-ditangkap",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "IAEI-KNEKS: Indonesia Perlu Perkuat MEKSI dan PDB Syariah Demi Pimpin Ekonomi Syariah Global",
       "link_berita": "https://sharia.republika.co.id/berita/tje6vh472/iaeikneks-indonesia-perlu-perkuat-meksi-dan-pdb-syariah-demi-pimpin-ekonomi-syariah-global",
       "kategori": "Ekonomi Syariah",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Warga Gunungkidul Jual Ternak demi Beli Air karena Kekeringan, Bupati Pastikan Dropping Air Bersih",
       "link_berita": "https://rejogja.republika.co.id/berita/tje6iu282/warga-gunungkidul-jual-ternak-demi-beli-air-karena-kekeringan-bupati-pastikan-dropping-air-bersih",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Adidaya Institute Dorong Pembenahan Tata Kelola MBG di Era Sudaryono",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje5ne416/adidaya-institute-dorong-pembenahan-tata-kelola-mbg-di-era-sudaryono",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Sambut HUT Ke-81 RI, Pelajar di Solo Cuci Bendera Merah Putih Bersama",
       "link_berita": "https://visual.republika.co.id/berita/tje00l375/sambut-hut-ke81-ri-pelajar-di-solo-cuci-bendera-merah-putih-bersama",
       "kategori": "Visual",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Kementan dan Pemerintah Aceh Percepat Pemulihan Sektor Pertanian Pascabencana",
       "link_berita": "https://ekonomi.republika.co.id/berita/tje5xu472/kementan-dan-pemerintah-aceh-percepat-pemulihan-sektor-pertanian-pascabencana",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
-    },
-    {
-      "judul": "Polres Jaksel: Tidak Ada Ekskul Menembak di Sekolah Tempat Ditemukannya Ratusan Senpi",
-      "link_berita": "https://news.republika.co.id/berita/tje5qt409/polres-jaksel-tidak-ada-ekskul-menembak-di-sekolah-tempat-ditemukannya-ratusan-senpi",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
-    },
-    {
-      "judul": "Ratusan Senpi di Sekolah Jaksel Milik Pengurus Yayasan Lama",
-      "link_berita": "https://news.republika.co.id/berita/tje5ky484/ratusan-senpi-di-sekolah-jaksel-milik-pengurus-yayasan-lama",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
-    },
-    {
-      "judul": "Anak Sering Diabaikan karena Ponsel? Kenali Bahaya Technoference Bagi Keluarga",
-      "link_berita": "https://ameera.republika.co.id/berita/tje5cu425/anak-sering-diabaikan-karena-ponsel-kenali-bahaya-technoference-bagi-keluarga",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
-    },
-    {
-      "judul": "Bisakah Sukun Jadi Alternatif Pengganti Nasi?",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tje4y22040300481/bisakah-sukun-jadi-alternatif-pengganti-nasi",
-      "kategori": "Video",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 08:54:58"
-    },
-    {
-      "judul": "PTPN Ubah Strategi Bisnis Karet, tak Lagi Kejar Volume Produksi",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tje4kv416/ptpn-ubah-strategi-bisnis-karet-tak-lagi-kejar-volume-produksi",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "BI DKI: Ekonomi Kreatif Bisa Jadi Mesin Pertumbuhan Baru Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/tje4j5484/bi-dki-ekonomi-kreatif-bisa-jadi-mesin-pertumbuhan-baru-jakarta",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "Muktamar Nasyiatul Aisyiyah Usung Tema Perempuan Muda Berkemajuan untuk Peradaban Berkelanjutan",
-      "link_berita": "https://rejogja.republika.co.id/berita/tje4a6291/muktamar-nasyiatul-aisyiyah-usung-tema-perempuan-muda-berkemajuan-untuk-peradaban-berkelanjutan",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "Mahasiswa UBSI Raih Medali Perunggu di PEKAN 2026 Lewat Platform EXORA",
-      "link_berita": "https://news.republika.co.id/berita/tje41v472/mahasiswa-ubsi-raih-medali-perunggu-di-pekan-2026-lewat-platform-exora",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "Nasib Presenter Inggris Nadia Sawalha Dicopot karena Suarakan Keadilan untuk Palestina",
-      "link_berita": "https://ameera.republika.co.id/berita/tje3xs425/nasib-presenter-inggris-nadia-sawalha-dicopot-karena-suarakan-keadilan-untuk-palestina",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "Pemerintah Targetkan TPST Bantar Gebang Bebas Open Dumping pada 2027",
-      "link_berita": "https://esgnow.republika.co.id/berita/tje3xr490/pemerintah-targetkan-tpst-bantar-gebang-bebas-open-dumping-pada-2027",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "Cuma Berlaku 17 Agustus! Daftar PMB UBSI dan Amankan Jaket Varsity Eksklusif Sebelum Kehabisan",
-      "link_berita": "https://news.republika.co.id/berita/tje3tv472/cuma-berlaku-17-agustus-daftar-pmb-ubsi-dan-amankan-jaket-varsity-eksklusif-sebelum-kehabisan",
-      "kategori": "News",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
-    },
-    {
-      "judul": "Water Bombing Dikerahkan untuk Padamkan Kebakaran TPA Rasau Jaya",
-      "link_berita": "https://visual.republika.co.id/berita/tjdztx375/water-bombing-dikerahkan-untuk-padamkan-kebakaran-tpa-rasau-jaya",
-      "kategori": "Visual",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 07:54:58"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 08:48:31"
     },
     {
       "judul": "Hari Kucing Sedunia, Dokter Ingatkan Bahaya Obesitas pada Anabul",
@@ -397,10 +397,10 @@
       "tanggal_terbit": "Friday, 07 Aug 2026, 17:27:00"
     },
     {
-      "judul": "Akademisi Usulkan Roadmap Bertahap untuk Target PLTS 100 GW",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tje3bu522/akademisi-usulkan-roadmap-bertahap-untuk-target-plts-100-gw",
-      "kategori": "Energi",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 17:53:00"
+      "judul": "Asprindo Dorong KDMP Berkolaborasi dengan Kampung Industri",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tje63l416/asprindo-dorong-kdmp-berkolaborasi-dengan-kampung-industri",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Friday, 07 Aug 2026, 18:30:00"
     },
     {
       "judul": "Kapitalisasi Saham Syariah Susut Rp 1.745 Triliun, Pangsa Pasar Tertekan",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Friday, 07 Aug 2026, 17:21:00"
     },
     {
-      "judul": "Turki, Saudi, Pakistan Dilaporkan Bakal Teken Pakta Pertahanan di Makkah",
-      "link_berita": "https://news.republika.co.id/berita/tje99q393/turki-saudi-pakistan-dilaporkan-bakal-teken-pakta-pertahanan-di-makkah",
+      "judul": "BREAKING NEWS: Saudi, Turki, dan Pakistan Teken Pakta Pertahanan Bersama",
+      "link_berita": "https://news.republika.co.id/berita/tjeck2393/breaking-news-saudi-turki-dan-pakistan-teken-pakta-pertahanan-bersama",
       "kategori": "Internasional",
-      "tanggal_terbit": "Friday, 07 Aug 2026, 17:03:00"
+      "tanggal_terbit": "Friday, 07 Aug 2026, 18:14:00"
     }
   ],
-  "waktu_scraping": "Friday, 07 Aug 2026, 17:54:58"
+  "waktu_scraping": "Friday, 07 Aug 2026, 18:48:31"
 }
