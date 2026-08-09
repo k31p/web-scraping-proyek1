@@ -1,8 +1,16 @@
 {
   "berita_headline": [
     {
+      "judul": "Arsenal dan Liverpool Tumbang dalam Laga Pramusim",
+      "link_berita": "https://news.republika.co.id/berita/tjiz45348/arsenal-dan-liverpool-tumbang-dalam-laga-pramusim"
+    },
+    {
       "judul": "Netanyahu Resmi Tolak 15 Poin Kesepakatan BoP",
       "link_berita": "https://news.republika.co.id/berita/tjix3y393/netanyahu-resmi-tolak-15-poin-kesepakatan-bop"
+    },
+    {
+      "judul": "Operasi Darat dan Udara Dikerahkan Padamkan Kebakaran di Taman Nasional Bromo",
+      "link_berita": "https://news.republika.co.id/berita/tjijzh5830000/operasi-darat-dan-udara-dikerahkan-padamkan-kebakaran-di-taman-nasional-bromo"
     },
     {
       "judul": "Evaluasi Total Usai Kegagalan di Piala AFF, Sekjen PSSI Minta Maaf: Tolong Jangan Hujat Pemain",
@@ -11,17 +19,17 @@
     {
       "judul": "Polresta Bandung 'Panen' Pengungkapan Kasus Kejahatan Jalanan",
       "link_berita": "https://rejabar.republika.co.id/berita/tjia56282/polresta-bandung-panen-pengungkapan-kasus-kejahatan-jalanan"
-    },
-    {
-      "judul": "Ditargetkan Juara Liga, STY Bakal Berupaya Maksimal untuk Persija Jakarta",
-      "link_berita": "https://news.republika.co.id/berita/tji5xc348/ditargetkan-juara-liga-sty-bakal-berupaya-maksimal-untuk-persija-jakarta"
-    },
-    {
-      "judul": "Dahsyatnya Karhutla yang Membakar Kawasan Taman Nasional Bromo",
-      "link_berita": "https://visual.republika.co.id/berita/tji56d375/dahsyatnya-karhutla-yang-membakar-kawasan-taman-nasional-bromo"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Memahami Akhlak Nabi Muhammad sebagai Cerminan Alquran",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjiz9u430/memahami-akhlak-nabi-muhammad-sebagai-cerminan-alquran"
+    },
+    {
+      "judul": "Houthi Lancarkan Serangan Besar-Besaran ke Saudi",
+      "link_berita": "https://news.republika.co.id/berita/tjiy0q393/houthi-lancarkan-serangan-besarbesaran-ke-saudi"
+    },
     {
       "judul": "Posisi Veda Ega di Klasemen Moto3 2026 Usai Finish Kesembilan di Silverstone Inggris",
       "link_berita": "https://news.republika.co.id/berita/tjickj409/posisi-veda-ega-di-klasemen-moto3-2026-usai-finish-kesembilan-di-silverstone-inggris"
@@ -73,28 +81,62 @@
     {
       "judul": "Berapa Biaya yang Dikeluarkan AS untuk Perang Iran? Ternyata Jumlahnya Fantastis",
       "link_berita": "https://khazanah.republika.co.id/berita/tjhjv4320/berapa-biaya-yang-dikeluarkan-as-untuk-perang-iran-ternyata-jumlahnya-fantastis"
-    },
-    {
-      "judul": "Sebuah Memo Ungkap Pentagon Desak Industri Genjot Produksi Senjata Akibat Stok Menipis",
-      "link_berita": "https://news.republika.co.id/berita/tjhfwo409/sebuah-memo-ungkap-pentagon-desak-industri-genjot-produksi-senjata-akibat-stok-menipis"
-    },
-    {
-      "judul": "Elon Musk Akan Bangun \u2018Raksasa\u2019 Chip AI di Texas, Gedungnya Jadi yang Terbesar Dunia",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjhde9502/elon-musk-akan-bangun-raksasa-chip-ai-di-texas-gedungnya-jadi-yang-terbesar-dunia"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Alquran Abad Ke-18 Dipamerkan di Museum Makkah",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjj00m430/alquran-abad-ke18-dipamerkan-di-museum-makkah",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 23:31:04"
+    },
+    {
+      "judul": "Como Rekrut Bek Inggris Trevoh Chalobah dari Chelsea",
+      "link_berita": "https://news.republika.co.id/berita/tjizlm348/como-rekrut-bek-inggris-trevoh-chalobah-dari-chelsea",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 23:22:04"
+    },
+    {
+      "judul": "Memahami Akhlak Nabi Muhammad sebagai Cerminan Alquran",
+      "link_berita": "https://khazanah.republika.co.id/berita/tjiz9u430/memahami-akhlak-nabi-muhammad-sebagai-cerminan-alquran",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 23:15:04"
+    },
+    {
+      "judul": "Arsenal dan Liverpool Tumbang dalam Laga Pramusim",
+      "link_berita": "https://news.republika.co.id/berita/tjiz45348/arsenal-dan-liverpool-tumbang-dalam-laga-pramusim",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 23:12:04"
+    },
+    {
+      "judul": "Polresta Bandung 'Panen' Preman dan Pelaku Kejahatan Jalanan",
+      "link_berita": "https://news.republika.co.id/berita/tjiypd393/polresta-bandung-panen-preman-dan-pelaku-kejahatan-jalanan",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 23:03:04"
+    },
+    {
+      "judul": "Raul Fernandez tak Terbendung di Silverstone, Jorge Martin Runner-up",
+      "link_berita": "https://news.republika.co.id/berita/tjiyn6348/raul-fernandez-tak-terbendung-di-silverstone-jorge-martin-runnerup",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 23:02:04"
+    },
+    {
+      "judul": "Houthi Lancarkan Serangan Besar-Besaran ke Saudi",
+      "link_berita": "https://news.republika.co.id/berita/tjiy0q393/houthi-lancarkan-serangan-besarbesaran-ke-saudi",
+      "kategori": "News",
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 22:48:04"
+    },
+    {
       "judul": "Netanyahu Resmi Tolak 15 Poin Kesepakatan BoP",
       "link_berita": "https://news.republika.co.id/berita/tjix3y393/netanyahu-resmi-tolak-15-poin-kesepakatan-bop",
       "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 22:29:04"
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 22:34:04"
     },
     {
       "judul": "1.308 Hektare Sawah Rusak Akibat Banjir, Aceh Barat Percepat Pemulihan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjiw8v451/1308-hektare-sawah-rusak-akibat-banjir-aceh-barat-percepat-pemulihan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 22:10:04"
+      "tanggal_terbit": "Sunday, 09 Aug 2026, 22:34:04"
     },
     {
       "judul": "Menko Zulhas Minta Doa Jatma Aswaja demi Optimalisasi Program Pemerintah",
@@ -343,48 +385,6 @@
       "tanggal_terbit": "Sunday, 09 Aug 2026, 10:34:04"
     },
     {
-      "judul": "BMHS Perkuat Peran Keluarga Dukung Tumbuh Kembang Anak di Era Modern",
-      "link_berita": "https://ameera.republika.co.id/berita/tjhmgg522/bmhs-perkuat-peran-keluarga-dukung-tumbuh-kembang-anak-di-era-modern",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 10:34:04"
-    },
-    {
-      "judul": "Didukung Penuh Trump, Politisi Anti Islam Ini Kalah dalam Pemilu Pendahuluan Partai Republik",
-      "link_berita": "https://khazanah.republika.co.id/berita/tji06w483/didukung-penuh-trump-politisi-anti-islam-ini-kalah-dalam-pemilu-pendahuluan-partai-republik",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 10:34:04"
-    },
-    {
-      "judul": "New Daihatsu Sigra 1.2R Hadir dengan Sejumlah Penyegaran",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjhyv4348/new-daihatsu-sigra-12r-hadir-dengan-sejumlah-penyegaran",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 10:34:04"
-    },
-    {
-      "judul": "Penderitaan di Gaza Terus Bertambah Kini Tikus Merajalela",
-      "link_berita": "https://republika.co.id/page/shorts/yt-tjhyg2673861257/penderitaan-di-gaza-terus-bertambah-kini-tikus-merajalela",
-      "kategori": "Video",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 09:34:04"
-    },
-    {
-      "judul": "Tingkatkan Layanan, Pertamina Resmikan Integrasi Informasi Publik",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tjhy40472/tingkatkan-layanan-pertamina-resmikan-integrasi-informasi-publik",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 09:34:04"
-    },
-    {
-      "judul": "Kala Umar Kejar Sendiri Unta Baitul Mal yang Terlepas",
-      "link_berita": "https://khazanah.republika.co.id/berita/tjhy1m483/kala-umar-kejar-sendiri-unta-baitul-mal-yang-terlepas",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 09:34:04"
-    },
-    {
-      "judul": "Daftar Kuliah di Hari Kemerdekaan, Jaket Varsity UBSI Jadi Hadiah Spesial Mahasiswa Baru",
-      "link_berita": "https://news.republika.co.id/berita/tjhxnf472/daftar-kuliah-di-hari-kemerdekaan-jaket-varsity-ubsi-jadi-hadiah-spesial-mahasiswa-baru",
-      "kategori": "News",
-      "tanggal_terbit": "Sunday, 09 Aug 2026, 09:34:04"
-    },
-    {
       "judul": "Wellness Tourism Berpotensi Jadi Andalan Baru Pariwisata Indonesia",
       "link_berita": "https://ameera.republika.co.id/berita/tji6ia349/wellness-tourism-berpotensi-jadi-andalan-baru-pariwisata-indonesia",
       "kategori": "Happening",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Sunday, 09 Aug 2026, 19:00:00"
     },
     {
-      "judul": "Netanyahu Resmi Tolak 15 Poin Kesepakatan BoP",
-      "link_berita": "https://news.republika.co.id/berita/tjix3y393/netanyahu-resmi-tolak-15-poin-kesepakatan-bop",
-      "kategori": "Internasional",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 05:28:00"
+      "judul": "Como Rekrut Bek Inggris Trevoh Chalobah dari Chelsea",
+      "link_berita": "https://news.republika.co.id/berita/tjizlm348/como-rekrut-bek-inggris-trevoh-chalobah-dari-chelsea",
+      "kategori": "Sport",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 06:22:00"
     }
   ],
-  "waktu_scraping": "Monday, 10 Aug 2026, 05:34:04"
+  "waktu_scraping": "Monday, 10 Aug 2026, 06:34:04"
 }
