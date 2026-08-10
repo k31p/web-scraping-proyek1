@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "Makin Kalap, Trump Minta Kompensasi dari Perang yang Dimulainya di Iran",
+      "link_berita": "https://news.republika.co.id/berita/tjktje393/makin-kalap-trump-minta-kompensasi-dari-perang-yang-dimulainya-di-iran"
+    },
+    {
+      "judul": "Israel Tembak Gadis 13 Tahun, Langgar Kesepakatan Gencatan Senjata Gaza",
+      "link_berita": "https://news.republika.co.id/berita/tjkr6o393/israel-tembak-gadis-13-tahun-langgar-kesepakatan-gencatan-senjata-gaza"
+    },
+    {
       "judul": "BMKG Catat 7.578 Titik Panas Sampai Agustus",
       "link_berita": "https://news.republika.co.id/berita/tjkqvb393/bmkg-catat-7578-titik-panas-sampai-agustus"
     },
@@ -11,17 +19,21 @@
     {
       "judul": "Kebakaran TNBTS, Akses Masuk Wisata Bromo Ditutup Sementara",
       "link_berita": "https://visual.republika.co.id/berita/tjjyrv375/kebakaran-tnbts-akses-masuk-wisata-bromo-ditutup-sementara"
-    },
-    {
-      "judul": "Polisi Jaga Makam Sutrimo Jelang Ekshumasi",
-      "link_berita": "https://news.republika.co.id/berita/tjk00c377/polisi-jaga-makam-sutrimo-jelang-ekshumasi"
-    },
-    {
-      "judul": "Indonesia Jadi Tuan Rumah FIFA ASEAN Cup 2026, Erick Thohir: Jadwal Segera Diumumkan",
-      "link_berita": "https://news.republika.co.id/berita/tjjzqq348/indonesia-jadi-tuan-rumah-fifa-asean-cup-2026-erick-thohir-jadwal-segera-diumumkan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Eks Jenderal Pakistan: Pakta Makkah tak Ada Gunanya Tanpa Iran",
+      "link_berita": "https://news.republika.co.id/berita/tjksje393/eks-jenderal-pakistan-pakta-makkah-tak-ada-gunanya-tanpa-iran"
+    },
+    {
+      "judul": "Pramono Janji Prioritaskan JIS untuk Persija",
+      "link_berita": "https://news.republika.co.id/berita/tjkrg1393/pramono-janji-prioritaskan-jis-untuk-persija"
+    },
+    {
+      "judul": "KPK Buka Peluang Periksa Lagi Ridwan Kamil Usai Tahan 4 Tersangka",
+      "link_berita": "https://news.republika.co.id/berita/tjkk8k5830000/kpk-buka-peluang-periksa-lagi-ridwan-kamil-usai-tahan-4-tersangka"
+    },
     {
       "judul": "KDM akan Gabungkan Seluruh BUMD Jabar Jadi Superholding, Mirip Danantara",
       "link_berita": "https://rejabar.republika.co.id/berita/tjkc80282/kdm-akan-gabungkan-seluruh-bumd-jabar-jadi-superholding-mirip-danantara"
@@ -69,320 +81,308 @@
     {
       "judul": "Iran: Pakta Pertahanan Saudi-Turki-Pakistan Bukti Runtuhnya Hegemoni AS",
       "link_berita": "https://news.republika.co.id/berita/tjj6ok393/iran-pakta-pertahanan-sauditurkipakistan-bukti-runtuhnya-hegemoni-as"
-    },
-    {
-      "judul": "Netanyahu Tolak Dokumen 15 Poin, akankah Gaza Kembali Dilanda Perang?",
-      "link_berita": "https://khazanah.republika.co.id/berita/tjj3ex320/netanyahu-tolak-dokumen-15-poin-akankah-gaza-kembali-dilanda-perang"
-    },
-    {
-      "judul": "Luas Panen Padi Indonesia Hingga September 2026 Capai 9,46 Juta Hektare",
-      "link_berita": "https://visual.republika.co.id/berita/tji7o2375/luas-panen-padi-indonesia-hingga-september-2026-capai-946-juta-hektare"
-    },
-    {
-      "judul": "Memahami Akhlak Nabi Muhammad sebagai Cerminan Alquran",
-      "link_berita": "https://khazanah.republika.co.id/berita/tjiz9u430/memahami-akhlak-nabi-muhammad-sebagai-cerminan-alquran"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Pergerakan Penumpang Meningkat, Stasiun Manggari Bakal Dikembangkan",
+      "link_berita": "https://news.republika.co.id/berita/tjkunt484/pergerakan-penumpang-meningkat-stasiun-manggari-bakal-dikembangkan",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:31:27"
+    },
+    {
+      "judul": "Perubahan Iklim Mulai Gerus Ekonomi Eropa",
+      "link_berita": "https://esgnow.republika.co.id/berita/tjkucm502/perubahan-iklim-mulai-gerus-ekonomi-eropa",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:24:27"
+    },
+    {
+      "judul": "Djamari Ingatkan Pangdam dan Kapolda Bisa Dicopot Gagal Atasi Karhutla",
+      "link_berita": "https://news.republika.co.id/berita/tjkubj484/djamari-ingatkan-pangdam-dan-kapolda-bisa-dicopot-gagal-atasi-karhutla",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:23:27"
+    },
+    {
+      "judul": "Tingkat Literasi dan Inklusi Keuangan Syariah Malah Turun pada 2026, Kenapa?",
+      "link_berita": "https://sharia.republika.co.id/berita/tjktxd502/tingkat-literasi-dan-inklusi-keuangan-syariah-malah-turun-pada-2026-kenapa",
+      "kategori": "Ekonomi Syariah",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:15:27"
+    },
+    {
+      "judul": "Mojtaba Khamenei Tunjuk Dua Jenderal Pimpin Angkatan Bersenjata Iran dan IRGC",
+      "link_berita": "https://news.republika.co.id/berita/tjktqi409/mojtaba-khamenei-tunjuk-dua-jenderal-pimpin-angkatan-bersenjata-iran-dan-irgc",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:11:27"
+    },
+    {
+      "judul": "Ada Jalan Sukarno di Tunisia, Ratusan WNI Berlari Merayakan HUT RI",
+      "link_berita": "https://news.republika.co.id/berita/tjkqzg451/ada-jalan-sukarno-di-tunisia-ratusan-wni-berlari-merayakan-hut-ri",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:08:27"
+    },
+    {
+      "judul": "Makin Kalap, Trump Minta Kompensasi dari Perang yang Dimulainya di Iran",
+      "link_berita": "https://news.republika.co.id/berita/tjktje393/makin-kalap-trump-minta-kompensasi-dari-perang-yang-dimulainya-di-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 23:06:27"
+    },
+    {
+      "judul": "BMKG: Cuaca Sulawesi Utara Cerah hingga Hujan Ringan Sampai 16 Agustus",
+      "link_berita": "https://news.republika.co.id/berita/tjksjh7230000/bmkg-cuaca-sulawesi-utara-cerah-hingga-hujan-ringan-sampai-16-agustus",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 22:45:27"
+    },
+    {
+      "judul": "Eks Jenderal Pakistan: Pakta Makkah tak Ada Gunanya Tanpa Iran",
+      "link_berita": "https://news.republika.co.id/berita/tjksje393/eks-jenderal-pakistan-pakta-makkah-tak-ada-gunanya-tanpa-iran",
+      "kategori": "News",
+      "tanggal_terbit": "Monday, 10 Aug 2026, 22:45:27"
+    },
+    {
       "judul": "Pramono Janji Prioritaskan JIS untuk Persija",
       "link_berita": "https://news.republika.co.id/berita/tjkrg1393/pramono-janji-prioritaskan-jis-untuk-persija",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 22:21:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 22:37:27"
     },
     {
       "judul": "Israel Tembak Gadis 13 Tahun, Langgar Kesepakatan Gencatan Senjata Gaza",
       "link_berita": "https://news.republika.co.id/berita/tjkr6o393/israel-tembak-gadis-13-tahun-langgar-kesepakatan-gencatan-senjata-gaza",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 22:16:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 22:37:27"
     },
     {
       "judul": "BMKG Catat 7.578 Titik Panas Sampai Agustus",
       "link_berita": "https://news.republika.co.id/berita/tjkqvb393/bmkg-catat-7578-titik-panas-sampai-agustus",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 22:09:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 22:37:27"
     },
     {
       "judul": "Wali Kota Balikpapan Minta Kadin Hasilkan Langkah Konkret Hadapi Tantangan Ekonomi",
       "link_berita": "https://republika.co.id/berita//tjkqro451/wali-kota-balikpapan-minta-kadin-hasilkan-langkah-konkret-hadapi-tantangan-ekonomi",
       "kategori": "Rekalimantan",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 22:07:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 21:37:27"
     },
     {
       "judul": "32 Pramuka Garuda Kota Tangerang Siap Berprestasi di Jambore Nasional XII Cibubur",
       "link_berita": "https://news.republika.co.id/berita/tjkp2l2130000/32-pramuka-garuda-kota-tangerang-siap-berprestasi-di-jambore-nasional-xii-cibubur",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 21:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 21:37:27"
     },
     {
-      "judul": "KPK Buka Peluang Periksa Lagi Ridwan Kamil Usai Tahan 4 Tersangka Bank BJB",
-      "link_berita": "https://news.republika.co.id/berita/tjkk8k5830000/kpk-buka-peluang-periksa-lagi-ridwan-kamil-usai-tahan-4-tersangka-bank-bjb",
+      "judul": "KPK Buka Peluang Periksa Lagi Ridwan Kamil Usai Tahan 4 Tersangka",
+      "link_berita": "https://news.republika.co.id/berita/tjkk8k5830000/kpk-buka-peluang-periksa-lagi-ridwan-kamil-usai-tahan-4-tersangka",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 19:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 19:37:27"
     },
     {
-      "judul": "KPK Duga Tersangka Bank BJB Upayakan Pengondisian Audit BPK",
-      "link_berita": "https://news.republika.co.id/berita/tjkjj67930000/kpk-duga-tersangka-bank-bjb-upayakan-pengondisian-audit-bpk",
+      "judul": "KPK Duga Tersangka Upayakan Pengondisian Audit BPK",
+      "link_berita": "https://news.republika.co.id/berita/tjkjj67930000/kpk-duga-tersangka-upayakan-pengondisian-audit-bpk",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 19:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 19:37:27"
     },
     {
-      "judul": "KPK Dalami Aliran Dana Korupsi Bank BJB ke Selebgram Lisa Mariana",
-      "link_berita": "https://news.republika.co.id/berita/tjkitk2930000/kpk-dalami-aliran-dana-korupsi-bank-bjb-ke-selebgram-lisa-mariana",
+      "judul": "KPK Dalami Aliran Dana Korupsi ke Selebgram Lisa Mariana",
+      "link_berita": "https://news.republika.co.id/berita/tjkitk2930000/kpk-dalami-aliran-dana-korupsi-ke-selebgram-lisa-mariana",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 19:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 19:37:27"
     },
     {
       "judul": "Pemkab Bangka Barat Dampingi Pokdarwis Kembangkan Potensi Wisata Bukit Kukus",
       "link_berita": "https://news.republika.co.id/berita/tjki893930000/pemkab-bangka-barat-dampingi-pokdarwis-kembangkan-potensi-wisata-bukit-kukus",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 18:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 18:37:27"
     },
     {
       "judul": "36 GTK SRMA 1 Aceh Besar Dampingi Operasional Sekolah Rakyat di Nagan Raya",
       "link_berita": "https://news.republika.co.id/berita/tjkhhq7330000/36-gtk-srma-1-aceh-besar-dampingi-operasional-sekolah-rakyat-di-nagan-raya",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 18:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 18:37:27"
     },
     {
       "judul": "ATR/BPN dan Kemendagri Sepakat Integrasikan NIB dan NOP PBB",
       "link_berita": "https://news.republika.co.id/berita/tjkgsa2630000/atrbpn-dan-kemendagri-sepakat-integrasikan-nib-dan-nop-pbb",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 18:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 18:37:27"
     },
     {
       "judul": "Pemprov DKI Jakarta Siapkan Dua Lapangan untuk Latihan Tim Peserta FIFA ASEAN Cup 2026",
       "link_berita": "https://news.republika.co.id/berita/tjkg28348/pemprov-dki-jakarta-siapkan-dua-lapangan-untuk-latihan-tim-peserta-fifa-asean-cup-2026",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 18:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 18:37:27"
     },
     {
       "judul": "Fatmah Faisal Nahdi Akui Paling Penakut di Film Bisikan Desa Gringsing",
       "link_berita": "https://news.republika.co.id/berita/tjkg2h2130000/fatmah-faisal-nahdi-akui-paling-penakut-di-film-bisikan-desa-gringsing",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 18:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 18:37:27"
     },
     {
       "judul": "Biaya Pakan Terus Naik Tapi Harga Telur Anljok, Peternak Yogya Pilih Bagikan 1.200 Ayam ke Warga",
       "link_berita": "https://rejogja.republika.co.id/berita/tjkfup282/biaya-pakan-terus-naik-tapi-harga-telur-anljok-peternak-yogya-pilih-bagikan-1200-ayam-ke-warga",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 18:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 18:37:27"
     },
     {
       "judul": "Sempat Gagal Jadi Wasit Piala Dunia karena Ditolak AS, Omar Artan Dipercaya Pimpin Piala Super Eropa",
       "link_berita": "https://news.republika.co.id/berita/tjkffh348/sempat-gagal-jadi-wasit-piala-dunia-karena-ditolak-as-omar-artan-dipercaya-pimpin-piala-super-eropa",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 17:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 17:37:27"
     },
     {
       "judul": "Gempa M 5,1 Guncang Enggano Bengkulu, BMKG: Tidak Berpotensi Tsunami",
       "link_berita": "https://news.republika.co.id/berita/tjkfcc6130000/gempa-m-51-guncang-enggano-bengkulu-bmkg-tidak-berpotensi-tsunami",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 17:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 17:37:27"
     },
     {
       "judul": "31 Kecamatan di Kabupaten Bogor Kekeringan, Pemkab Salurkan 1,8 Juta Liter Air Bersih",
       "link_berita": "https://rejabar.republika.co.id/berita/tjkeub282/31-kecamatan-di-kabupaten-bogor-kekeringan-pemkab-salurkan-18-juta-liter-air-bersih",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 17:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 17:37:27"
     },
     {
       "judul": "SNLIK 2026: 62,51 Persen Masyarakat Sadar Simpanan di Bank Dijamin LPS",
       "link_berita": "https://news.republika.co.id/berita/tjkenm1830000/snlik-2026-6251-persen-masyarakat-sadar-simpanan-di-bank-dijamin-lps",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 17:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 17:37:27"
     },
     {
       "judul": "BPBD Medan Latih Paskibraka Teknik Water Rescue untuk Mitigasi Bencana Air",
       "link_berita": "https://news.republika.co.id/berita/tjkdyj1930000/bpbd-medan-latih-paskibraka-teknik-water-rescue-untuk-mitigasi-bencana-air",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 17:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 17:37:27"
     },
     {
       "judul": "TNI dan Warga Gunungkidul Gotong Royong Bangun Jembatan Beton untuk Akses Pertanian",
       "link_berita": "https://news.republika.co.id/berita/tjkd9h5830000/tni-dan-warga-gunungkidul-gotong-royong-bangun-jembatan-beton-untuk-akses-pertanian",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 17:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 17:37:27"
     },
     {
       "judul": "DPRD DKI Desak Pemda Perkuat Bantuan Tepat Sasaran untuk Siswa Kurang Mampu",
       "link_berita": "https://news.republika.co.id/berita/tjkckm6530000/dprd-dki-desak-pemda-perkuat-bantuan-tepat-sasaran-untuk-siswa-kurang-mampu",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 16:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 16:37:27"
     },
     {
       "judul": "Sederet Kejanggalan di Kematian Sutrimo Penjaga Kediaman Jampidsus Febrie Diungkap Keluarga",
       "link_berita": "https://rejogja.republika.co.id/berita/tjkcjm282/sederet-kejanggalan-di-kematian-sutrimo-penjaga-kediaman-jampidsus-febrie-diungkap-keluarga",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 16:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 16:37:27"
     },
     {
       "judul": "KDM akan Gabungkan Seluruh BUMD Jabar Jadi Superholding, Mirip Danantara",
       "link_berita": "https://rejabar.republika.co.id/berita/tjkc80282/kdm-akan-gabungkan-seluruh-bumd-jabar-jadi-superholding-mirip-danantara",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 16:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 16:37:27"
     },
     {
       "judul": "Kapolda Jabar Minta Pelaku Begal dan Curanmor di Bandung Disikat Habis",
       "link_berita": "https://rejabar.republika.co.id/berita/tjkbyl282/kapolda-jabar-minta-pelaku-begal-dan-curanmor-di-bandung-disikat-habis",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 16:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 16:37:27"
     },
     {
       "judul": "KPK Tahan Lima Tersangka Kasus Dugaan Korupsi Pengadaan Iklan di BUMD Jabar",
       "link_berita": "https://visual.republika.co.id/berita/tjk7ro375/kpk-tahan-lima-tersangka-kasus-dugaan-korupsi-pengadaan-iklan-di-bumd-jabar",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 16:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 16:37:27"
     },
     {
       "judul": "Pemulihan Pendidikan Pascabencana, MIN 4 Aceh Tamiang Kembali Layak Digunakan",
       "link_berita": "https://esgnow.republika.co.id/berita/tjk1b7349/pemulihan-pendidikan-pascabencana-min-4-aceh-tamiang-kembali-layak-digunakan",
       "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 15:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 15:37:27"
     },
     {
       "judul": "Generasi Manusia Terbaik Setelah Kalangan Para Nabi dan Rasul",
       "link_berita": "https://khazanah.republika.co.id/berita/tjk898320/generasi-manusia-terbaik-setelah-kalangan-para-nabi-dan-rasul",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 15:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 15:37:27"
     },
     {
       "judul": "Jalan Rawa Jadi Akses Tunggal Penghubung Desa Renah Kasah Kerinci",
       "link_berita": "https://visual.republika.co.id/berita/tjk2ff375/jalan-rawa-jadi-akses-tunggal-penghubung-desa-renah-kasah-kerinci",
       "kategori": "Visual",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Sambut HUT ke-81 RI, Warga Diajak Rawat Persatuan",
       "link_berita": "https://news.republika.co.id/berita/tjjwy3416/sambut-hut-ke81-ri-warga-diajak-rawat-persatuan",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Menggali Metode Pembelajaran Baca Tulis Alquran yang Ramah Anak",
       "link_berita": "https://ameera.republika.co.id/berita/tjk6re425/menggali-metode-pembelajaran-baca-tulis-alquran-yang-ramah-anak",
       "kategori": "Ameera",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Sebanyak 50 Dhuafa Kendal Dibekali Keterampilan Siap Kerja Ruang Amal Indonesia",
       "link_berita": "https://khazanah.republika.co.id/berita/tjk6kf320/sebanyak-50-dhuafa-kendal-dibekali-keterampilan-siap-kerja-ruang-amal-indonesia",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "FIFA ASEAN Cup 2026 Erick Jadwal Segera Diumumkan",
       "link_berita": "https://republika.co.id/page/shorts/yt-tjk6b11370249881/fifa-asean-cup-2026-erick-jadwal-segera-diumumkan",
       "kategori": "Video",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Padukan Zikir dan Menjaga Wudhu, Ini Kisah Berkahnya Panen Cabai di Pesantren Az-Zikra",
       "link_berita": "https://khazanah.republika.co.id/berita/tjk68s483/padukan-zikir-dan-menjaga-wudhu-ini-kisah-berkahnya-panen-cabai-di-pesantren-azzikra",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Kemarau Panjang, Dompet Dhuafa Distribusi Air Bersih Sasar 370 Warga Boyolali dan Grobogan",
       "link_berita": "https://khazanah.republika.co.id/berita/tjk5zg368/kemarau-panjang-dompet-dhuafa-distribusi-air-bersih-sasar-370-warga-boyolali-dan-grobogan",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Disentil KDM Soal Begal dan Tramadol, Walkot Malu Cimahi Kota Tentara tapi Banyak Begal",
       "link_berita": "https://rejabar.republika.co.id/berita/tjk66a282/disentil-kdm-soal-begal-dan-tramadol-walkot-malu-cimahi-kota-tentara-tapi-banyak-begal",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Primecare Hospital Samarinda Bidik Perluasan Layanan Kesehatan Kaltim",
       "link_berita": "https://republika.co.id/berita//tjjv7q370/primecare-hospital-samarinda-bidik-perluasan-layanan-kesehatan-kaltim",
       "kategori": "Rekalimantan",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Ditemani Istri, Bupati Jeje Tinjau Jalan Rusak yang Akhirnya Tersentuh Perbaikan",
       "link_berita": "https://rejabar.republika.co.id/berita/tjk5ou368/ditemani-istri-bupati-jeje-tinjau-jalan-rusak-yang-akhirnya-tersentuh-perbaikan",
       "kategori": "Rejabar",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Nama Presiden RI Dicatut dalam Naskah Ilmiah di Platform SSRN, Ini Penjelasan Mendiktisaintek",
       "link_berita": "https://news.republika.co.id/berita/tjk5nw377/nama-presiden-ri-dicatut-dalam-naskah-ilmiah-di-platform-ssrn-ini-penjelasan-mendiktisaintek",
       "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Jelang HUT ke-42, KBI Raih Tiga Penghargaan dalam Dua Ajang",
       "link_berita": "https://ekonomi.republika.co.id/berita/tjk0lg349/jelang-hut-ke42-kbi-raih-tiga-penghargaan-dalam-dua-ajang",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Mengapa Warga Yaman Tidak Takut Perang Baru?",
       "link_berita": "https://khazanah.republika.co.id/berita/tjk5jv320/mengapa-warga-yaman-tidak-takut-perang-baru",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 14:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 14:37:27"
     },
     {
       "judul": "Ketika Algoritma Menggantikan Guru",
       "link_berita": "https://analisis.republika.co.id/berita/tjk3gs451/ketika-algoritma-menggantikan-guru",
       "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Pesanan Batang Pinang Meningkat Jelang HUT RI",
-      "link_berita": "https://visual.republika.co.id/berita/tjk1w5375/pesanan-batang-pinang-meningkat-jelang-hut-ri",
-      "kategori": "Visual",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Pemkot Tangsel Perkuat Intervensi Stunting, Siapkan Generasi Sehat Menuju Indonesia Emas 2045",
-      "link_berita": "https://republika.co.id/berita//tjk34g451/pemkot-tangsel-perkuat-intervensi-stunting-siapkan-generasi-sehat-menuju-indonesia-emas-2045",
-      "kategori": "Rejakarta",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Kompolnas Dukung Polisi Naikkan Kasus Kematian Sutrimo ke Tahap Penyidikan",
-      "link_berita": "https://news.republika.co.id/berita/tjk3e8487/kompolnas-dukung-polisi-naikkan-kasus-kematian-sutrimo-ke-tahap-penyidikan",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "PLN Perkuat Pendidikan Vokasi untuk Siapkan SDM Industri Kendaraan Listrik",
-      "link_berita": "https://esgnow.republika.co.id/berita/tjk39p370/pln-perkuat-pendidikan-vokasi-untuk-siapkan-sdm-industri-kendaraan-listrik",
-      "kategori": "Esgnow",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Tambakberas dan Ujian Kepemimpinan NU",
-      "link_berita": "https://analisis.republika.co.id/berita/tjk2us451/tambakberas-dan-ujian-kepemimpinan-nu",
-      "kategori": "Kolom",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Kisah Almarhum Sutrimo, dari Tukang hingga Jadi Orang Kepercayaan Eks Jampidsus Febrie Adriansyah",
-      "link_berita": "https://news.republika.co.id/berita/tjk2td487/kisah-almarhum-sutrimo-dari-tukang-hingga-jadi-orang-kepercayaan-eks-jampidsus-febrie-adriansyah",
-      "kategori": "News",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Di Tengah Scroll dan Jawaban Instan, Mengapa Kita Harus Membaca?",
-      "link_berita": "https://retizen.republika.co.id/posts/775904/di-tengah-scroll-dan-jawaban-instan-mengapa-kita-harus-membaca",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 13:40:09"
-    },
-    {
-      "judul": "Belajar Menghidupkan BUMDes dari Desa Talang Duku",
-      "link_berita": "https://retizen.republika.co.id/posts/775874/belajar-menghidupkan-bumdes-dari-desa-talang-duku",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 12:40:09"
-    },
-    {
-      "judul": "Dari Desa ke Pasar Global: Akselerasi Ekonomi Daerah Melalui Konektivitas Digital",
-      "link_berita": "https://retizen.republika.co.id/posts/775878/dari-desa-ke-pasar-global-akselerasi-ekonomi-daerah-melalui-konektivitas-digital",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 12:40:09"
+      "tanggal_terbit": "Monday, 10 Aug 2026, 13:37:27"
     },
     {
       "judul": "Menggali Metode Pembelajaran Baca Tulis Alquran yang Ramah Anak",
@@ -391,10 +391,10 @@
       "tanggal_terbit": "Monday, 10 Aug 2026, 21:54:00"
     },
     {
-      "judul": "PLN Perkuat Pendidikan Vokasi untuk Siapkan SDM Industri Kendaraan Listrik",
-      "link_berita": "https://esgnow.republika.co.id/berita/tjk39p370/pln-perkuat-pendidikan-vokasi-untuk-siapkan-sdm-industri-kendaraan-listrik",
-      "kategori": "Csr Esg Now",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 20:39:00"
+      "judul": "Perubahan Iklim Mulai Gerus Ekonomi Eropa",
+      "link_berita": "https://esgnow.republika.co.id/berita/tjkucm502/perubahan-iklim-mulai-gerus-ekonomi-eropa",
+      "kategori": "Lingkungan",
+      "tanggal_terbit": "Tuesday, 11 Aug 2026, 06:24:00"
     },
     {
       "judul": "Jelang HUT ke-42, KBI Raih Tiga Penghargaan dalam Dua Ajang",
@@ -403,17 +403,17 @@
       "tanggal_terbit": "Monday, 10 Aug 2026, 21:30:00"
     },
     {
-      "judul": "Transaksi Makin Digital, BSI Tetap Perluas Layanan Tatap Muka",
-      "link_berita": "https://sharia.republika.co.id/berita/tjjz7r349/transaksi-makin-digital-bsi-tetap-perluas-layanan-tatap-muka",
+      "judul": "Tingkat Literasi dan Inklusi Keuangan Syariah Malah Turun pada 2026, Kenapa?",
+      "link_berita": "https://sharia.republika.co.id/berita/tjktxd502/tingkat-literasi-dan-inklusi-keuangan-syariah-malah-turun-pada-2026-kenapa",
       "kategori": "Keuangan Ekonomi Syariah",
-      "tanggal_terbit": "Monday, 10 Aug 2026, 19:11:00"
+      "tanggal_terbit": "Tuesday, 11 Aug 2026, 06:15:00"
     },
     {
-      "judul": "Pramono Janji Prioritaskan JIS untuk Persija",
-      "link_berita": "https://news.republika.co.id/berita/tjkrg1393/pramono-janji-prioritaskan-jis-untuk-persija",
+      "judul": "Pergerakan Penumpang Meningkat, Stasiun Manggari Bakal Dikembangkan",
+      "link_berita": "https://news.republika.co.id/berita/tjkunt484/pergerakan-penumpang-meningkat-stasiun-manggari-bakal-dikembangkan",
       "kategori": "Nasional News",
-      "tanggal_terbit": "Tuesday, 11 Aug 2026, 05:21:00"
+      "tanggal_terbit": "Tuesday, 11 Aug 2026, 06:31:00"
     }
   ],
-  "waktu_scraping": "Tuesday, 11 Aug 2026, 05:40:09"
+  "waktu_scraping": "Tuesday, 11 Aug 2026, 06:37:27"
 }
