@@ -1,6 +1,14 @@
 {
   "berita_headline": [
     {
+      "judul": "MAKI: Praperadilan Malah Buktikan 74 Kilogram Emas Milik Febrie",
+      "link_berita": "https://news.republika.co.id/berita/tk23nv409/maki-praperadilan-malah-buktikan-74-kilogram-emas-milik-febrie"
+    },
+    {
+      "judul": "Laporan Keuangan Danantara Belum Kunjung Diterbitkan, Ini Sorotan Ekonom",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tk2116490/laporan-keuangan-danantara-belum-kunjung-diterbitkan-ini-sorotan-ekonom"
+    },
+    {
       "judul": "Pengacara: Eks Jampidsus Minta Polisi Kembalikan Barang Pribadinya, Termasuk Foto, Bukan Emas 74 Kg",
       "link_berita": "https://news.republika.co.id/berita/tk20v6377/pengacara-eks-jampidsus-minta-polisi-kembalikan-barang-pribadinya-termasuk-foto-bukan-emas-74-kg"
     },
@@ -11,17 +19,17 @@
     {
       "judul": "Jenderal Gatot Ingatkan Meritrokasi Ditegakkan, TNI Dipimpin Orang Berprestasi",
       "link_berita": "https://news.republika.co.id/berita/tk1w4w484/jenderal-gatot-ingatkan-meritrokasi-ditegakkan-tni-dipimpin-orang-berprestasi"
-    },
-    {
-      "judul": "Bandara Internasional Kertajati akan Jadi Bengkel Jet Tempur Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/tk1ss3377/bandara-internasional-kertajati-akan-jadi-bengkel-jet-tempur-indonesia"
-    },
-    {
-      "judul": "Ada Gangguan Commuter Line Bogor-Jakarta Kota, Transjakarta Operasikan Armada Bantuan",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tk1qoi370/ada-gangguan-commuter-line-bogorjakarta-kota-transjakarta-operasikan-armada-bantuan"
     }
   ],
   "berita_unggulan": [
+    {
+      "judul": "Yenny Wahid: Rekonsiliasi Mutlak Dilakukan Usai Muktamar ke-35 NU",
+      "link_berita": "https://khazanah.republika.co.id/berita/tk1zaw366/yenny-wahid-rekonsiliasi-mutlak-dilakukan-usai-muktamar-ke35-nu"
+    },
+    {
+      "judul": "Israel Bersitegang dengan Turki, Apakah Arab Saudi dan Pakistan akan Membela Ankara?",
+      "link_berita": "https://news.republika.co.id/berita/tk23eg377/israel-bersitegang-dengan-turki-apakah-arab-saudi-dan-pakistan-akan-membela-ankara"
+    },
     {
       "judul": "Persebaya Fokus Pulihkan Kondisi Fisik Jelang BRI Super League 2026/2027",
       "link_berita": "https://news.republika.co.id/berita/tk225a348/persebaya-fokus-pulihkan-kondisi-fisik-jelang-bri-super-league-20262027"
@@ -73,316 +81,308 @@
     {
       "judul": "Gempa NTT, Kemenhaj Pastikan Layanan Jamaah Haji Tetap Berjalan",
       "link_berita": "https://khazanah.republika.co.id/berita/tk0lit430/gempa-ntt-kemenhaj-pastikan-layanan-jamaah-haji-tetap-berjalan"
-    },
-    {
-      "judul": "Senat Muslim Pertama AS dan Mengapa Politisi dari Komunitas Islam Sukses Menang Pemilihan?",
-      "link_berita": "https://khazanah.republika.co.id/berita/tk0jja320/senat-muslim-pertama-as-dan-mengapa-politisi-dari-komunitas-islam-sukses-menang-pemilihan"
-    },
-    {
-      "judul": "Iran Siap Balas Setimpal Jika Dibom Nuklir AS",
-      "link_berita": "https://news.republika.co.id/berita/tk0hxb393/iran-siap-balas-setimpal-jika-dibom-nuklir-as"
     }
   ],
   "berita_lainnya": [
     {
+      "judul": "Usai Sejumlah Kecelakaan Kapal, Menhub Perkuat Sistem Keselamatan Pelayaran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tk24qa423/usai-sejumlah-kecelakaan-kapal-menhub-perkuat-sistem-keselamatan-pelayaran",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:39:38"
+    },
+    {
+      "judul": "Dapat KITE Pembebasan, Nilai Investasi Produsen Sarung Tangan Ini Diproyeksikan Naik Pesat",
+      "link_berita": "https://republika.co.id/berita//tk252r472/dapat-kite-pembebasan-nilai-investasi-produsen-sarung-tangan-ini-diproyeksikan-naik-pesat",
+      "kategori": "Beacukai",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:35:38"
+    },
+    {
+      "judul": "Pengiriman Jet KAAN, Kemitraan Turki-Indonesia Capai Puncaknya",
+      "link_berita": "https://news.republika.co.id/berita/tk251a484/pengiriman-jet-kaan-kemitraan-turkiindonesia-capai-puncaknya",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:34:38"
+    },
+    {
+      "judul": "Imbas Kemarau, Ribuan Ton Ikan Keramba di Sungai Batanghari Mati",
+      "link_berita": "https://visual.republika.co.id/berita/tk250f375/imbas-kemarau-ribuan-ton-ikan-keramba-di-sungai-batanghari-mati",
+      "kategori": "Visual",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:33:38"
+    },
+    {
+      "judul": "Membaca Data BPS, Siapa Penutur Bahasa Daerah 30 Tahun Lagi?",
+      "link_berita": "https://analisis.republika.co.id/berita/tk24lh487/membaca-data-bps-siapa-penutur-bahasa-daerah-30-tahun-lagi",
+      "kategori": "Kolom",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:24:38"
+    },
+    {
+      "judul": "Purbaya Siapkan Rp 31 Triliun untuk Pengalihan Status PPPK ke Pemerintah Pusat",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tk242t423/purbaya-siapkan-rp-31-triliun-untuk-pengalihan-status-pppk-ke-pemerintah-pusat",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:19:38"
+    },
+    {
+      "judul": "Kirab Merah Putih Ajak Generasi Muda Rawat Persatuan dan Toleransi",
+      "link_berita": "https://news.republika.co.id/berita/tk23yk416/kirab-merah-putih-ajak-generasi-muda-rawat-persatuan-dan-toleransi",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:13:38"
+    },
+    {
+      "judul": "MAKI: Praperadilan Malah Buktikan 74 Kilogram Emas Milik Febrie",
+      "link_berita": "https://news.republika.co.id/berita/tk23nv409/maki-praperadilan-malah-buktikan-74-kilogram-emas-milik-febrie",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:04:38"
+    },
+    {
+      "judul": "Yenny Wahid: Rekonsiliasi Mutlak Dilakukan Usai Muktamar ke-35 NU",
+      "link_berita": "https://khazanah.republika.co.id/berita/tk1zaw366/yenny-wahid-rekonsiliasi-mutlak-dilakukan-usai-muktamar-ke35-nu",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 07:04:38"
+    },
+    {
+      "judul": "PKT Salurkan Bantuan Kebutuhan Mendesak Warga Terdampak Gempa NTT",
+      "link_berita": "https://esgnow.republika.co.id/berita/tk215f416/pkt-salurkan-bantuan-kebutuhan-mendesak-warga-terdampak-gempa-ntt",
+      "kategori": "Esgnow",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:59:38"
+    },
+    {
+      "judul": "Israel Bersitegang dengan Turki, Apakah Arab Saudi dan Pakistan akan Membela Ankara?",
+      "link_berita": "https://news.republika.co.id/berita/tk23eg377/israel-bersitegang-dengan-turki-apakah-arab-saudi-dan-pakistan-akan-membela-ankara",
+      "kategori": "News",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:58:38"
+    },
+    {
+      "judul": "Mengenal Desil Ekonomi dan Kaitannya dengan DTSEN serta Bansos",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tk237t370/mengenal-desil-ekonomi-dan-kaitannya-dengan-dtsen-serta-bansos",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:54:38"
+    },
+    {
+      "judul": "Kala Waduk Saguling Mengering, Lalu Berubah Jadi Area Pertanian",
+      "link_berita": "https://rejabar.republika.co.id/berita/tk2347487/kala-waduk-saguling-mengering-lalu-berubah-jadi-area-pertanian",
+      "kategori": "Rejabar",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:52:38"
+    },
+    {
+      "judul": "Menkeu: Pembatasan Subsidi BBM Bisa Hemat Anggaran 10 Persen",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tk233l423/menkeu-pembatasan-subsidi-bbm-bisa-hemat-anggaran-10-persen",
+      "kategori": "Ekonomi",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:52:38"
+    },
+    {
+      "judul": "Jangan Tinggalkan Sholat Istikharah Meski Sudah Yakin",
+      "link_berita": "https://khazanah.republika.co.id/berita/tk2311430/jangan-tinggalkan-sholat-istikharah-meski-sudah-yakin",
+      "kategori": "Khazanah",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:50:38"
+    },
+    {
       "judul": "PMHU Nomor 2 Tahun 2026, Antara Perlindungan Jemaah dan Keadilan Berusaha",
       "link_berita": "https://analisis.republika.co.id/berita/tk22vg368/pmhu-nomor-2-tahun-2026-antara-perlindungan-jemaah-dan-keadilan-berusaha",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:47:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:47:38"
     },
     {
       "judul": "Dari Drag Speed Challenge Hingga Custom, Komunitas Motor Siap Ramaikan Throttle LAnd 2026",
       "link_berita": "https://news.republika.co.id/berita/tk22o3348/dari-drag-speed-challenge-hingga-custom-komunitas-motor-siap-ramaikan-throttle-land-2026",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:43:38"
     },
     {
       "judul": "CLGS FH UI: Penetapan Batas Harga akan Cegah Kegagalan Pasar",
       "link_berita": "https://republika.co.id/berita//tk229m483/clgs-fh-ui-penetapan-batas-harga-akan-cegah-kegagalan-pasar",
       "kategori": "Rejakarta",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:34:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:38"
     },
     {
       "judul": "Persebaya Fokus Pulihkan Kondisi Fisik Jelang BRI Super League 2026/2027",
       "link_berita": "https://news.republika.co.id/berita/tk225a348/persebaya-fokus-pulihkan-kondisi-fisik-jelang-bri-super-league-20262027",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:31:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:38"
     },
     {
       "judul": "Musim Mas Raih Mahayuga Award 2026 sebagai Pelopor Industri Hijau",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk21zm368/musim-mas-raih-mahayuga-award-2026-sebagai-pelopor-industri-hijau",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:28:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:38"
     },
     {
       "judul": "Hikayat Situs Bongal di Tapanuli Tengah, Berawal dari Temuan Emas Hingga Koin Bani Umayyah",
       "link_berita": "https://khazanah.republika.co.id/berita/tk21sp483/hikayat-situs-bongal-di-tapanuli-tengah-berawal-dari-temuan-emas-hingga-koin-bani-umayyah",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:24:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:38"
     },
     {
       "judul": "HUT ke-81 RI, Rektor UBSI Tekankan Pentingnya Kolaborasi dan Kontribusi Nyata",
       "link_berita": "https://news.republika.co.id/berita/tk1yux368/hut-ke81-ri-rektor-ubsi-tekankan-pentingnya-kolaborasi-dan-kontribusi-nyata",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:23:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:38"
     },
     {
       "judul": "Bank Emas Berkembang, Pajak ETF Emas Masih Dibahas",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk21pf423/bank-emas-berkembang-pajak-etf-emas-masih-dibahas",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:22:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:42:38"
     },
     {
       "judul": "Rayakan HUT RI ke-81, Gedung FIB UGM Garapan Waskita Karya Diresmikan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk217h490/rayakan-hut-ri-ke81-gedung-fib-ugm-garapan-waskita-karya-diresmikan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:11:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "PKM Internasional, Dosen UBSI Perkuat UMKM Gula Gendis Asri Hadapi Era Digital",
       "link_berita": "https://news.republika.co.id/berita/tk1ynp368/pkm-internasional-dosen-ubsi-perkuat-umkm-gula-gendis-asri-hadapi-era-digital",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:08:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Laporan Keuangan Danantara Belum Kunjung Diterbitkan, Ini Sorotan Ekonom",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk2116490/laporan-keuangan-danantara-belum-kunjung-diterbitkan-ini-sorotan-ekonom",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:07:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "BNI Hadirkan Layanan Kesehatan dan Trauma Healing bagi Masyarakat Terdampak Bencana NTT",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk20vp368/bni-hadirkan-layanan-kesehatan-dan-trauma-healing-bagi-masyarakat-terdampak-bencana-ntt",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:04:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Pengacara: Eks Jampidsus Minta Polisi Kembalikan Barang Pribadinya, Termasuk Foto, Bukan Emas 74 Kg",
       "link_berita": "https://news.republika.co.id/berita/tk20v6377/pengacara-eks-jampidsus-minta-polisi-kembalikan-barang-pribadinya-termasuk-foto-bukan-emas-74-kg",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 06:04:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Mesin Desil",
       "link_berita": "https://analisis.republika.co.id/berita/tk20jt415/mesin-desil",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:57:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Kesalahan dalam Sholat: Memakai Pakaian Tipis dan Menerawang",
       "link_berita": "https://khazanah.republika.co.id/berita/tk20js430/kesalahan-dalam-sholat-memakai-pakaian-tipis-dan-menerawang",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:57:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Merdeka Itu Berdaulat Digital",
       "link_berita": "https://news.republika.co.id/berita/tk1yho368/merdeka-itu-berdaulat-digital",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "BRI Insurance Perkuat Fondasi Bisnis untuk Dorong Pertumbuhan Berkelanjutan",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk203k370/bri-insurance-perkuat-fondasi-bisnis-untuk-dorong-pertumbuhan-berkelanjutan",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Wapres Gibran Ajak Mahasiswa UI ke NTT",
       "link_berita": "https://republika.co.id/page/shorts/yt-tk1zz1313679818/wapres-gibran-ajak-mahasiswa-ui-ke-ntt",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Pendapat Ulama tentang Memuji Pemerintah saat Khutbah Jumat",
       "link_berita": "https://khazanah.republika.co.id/berita/tk1zmz430/pendapat-ulama-tentang-memuji-pemerintah-saat-khutbah-jumat",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Kreasi 2026 UNM Jadi Panggung Generasi Emas, Pelajar Jabodetabek Unjuk Talenta dan Sportivitas",
       "link_berita": "https://news.republika.co.id/berita/tk1ybw368/kreasi-2026-unm-jadi-panggung-generasi-emas-pelajar-jabodetabek-unjuk-talenta-dan-sportivitas",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Laknat bagi yang Buang Hajat di Sumber Air, Jalanan, dan Tempat Berteduh",
       "link_berita": "https://khazanah.republika.co.id/berita/tk1z4s430/laknat-bagi-yang-buang-hajat-di-sumber-air-jalanan-dan-tempat-berteduh",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Apotek Hutan Gajah Sumatera",
       "link_berita": "https://analisis.republika.co.id/berita/tk1yy1483/apotek-hutan-gajah-sumatera",
       "kategori": "Kolom",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Big Bad Wolf 2026 Boyong Satu Juta Buku ke Yogyakarta, dari Genre Novel hingga Sains",
       "link_berita": "https://rejogja.republika.co.id/berita/tk1yx7291/bigbad-wolf-2026-boyong-satu-juta-buku-ke-yogyakartadari-genre-novel-hingga-sains",
       "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "Tingkatkan Panen di Kutamukti, Tm UPNVJ Hadirkan Teknologi Pengendalian Hama",
       "link_berita": "https://news.republika.co.id/berita/tk1yub484/tingkatkan-panen-di-kutamukti-tm-upnvj-hadirkan-teknologi-pengendalian-hama",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 05:42:38"
     },
     {
       "judul": "BPKH Beberkan Simulasi Dana Haji Jika BPIH 2027 Dikabulkan: Ada Selisih Minus Rp6,87 T",
       "link_berita": "https://khazanah.republika.co.id/berita/tk1yfu483/bpkh-beberkan-simulasi-dana-haji-jika-bpih-2027-dikabulkan-ada-selisih-minus-rp687-t",
       "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "UBSI Gandeng UNDIP Buka Peluang Kolaborasi Akademik",
       "link_berita": "https://news.republika.co.id/berita/tk1ybc368/ubsi-gandeng-undip-buka-peluang-kolaborasi-akademik",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "Rajangan Daun Talas Kering Cilacap Siap Tembus Pasar Internasional",
       "link_berita": "https://republika.co.id/berita//tk1xuh368/rajangan-daun-talas-kering-cilacap-siap-tembus-pasar-internasional",
       "kategori": "Beacukai",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "20 Jam Lawan Angin Gelombang Laut Relawan Bawa 3 Ton Logistik ke Flores",
       "link_berita": "https://republika.co.id/page/shorts/yt-tk1x721791640472/20-jam-lawan-angin-gelombang-laut-relawan-bawa-3-ton-logistik-ke-flores",
       "kategori": "Video",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "Mahasiswa Manajemen UNM Magang di RedDoorz, Asah Kompetensi Sales dan Marketing",
       "link_berita": "https://news.republika.co.id/berita/tk01ws368/mahasiswa-manajemen-unm-magang-di-reddoorz-asah-kompetensi-sales-dan-marketing",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "ASDP Kerahkan Dua Armada Tangguh Bantu Pemulihan NTT",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk1wdz490/asdp-kerahkan-dua-armada-tangguh-bantu-pemulihan-ntt",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "Jenderal Gatot Ingatkan Meritrokasi Ditegakkan, TNI Dipimpin Orang Berprestasi",
       "link_berita": "https://news.republika.co.id/berita/tk1w4w484/jenderal-gatot-ingatkan-meritrokasi-ditegakkan-tni-dipimpin-orang-berprestasi",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "KAI Sebut Layanan Commuter Line Bogor dan Tangerang Sudah Kembali Normal",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk1w0d490/kai-sebut-layanan-commuter-line-bogor-dan-tangerang-sudah-kembali-normal",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 04:42:38"
     },
     {
       "judul": "GMF Rampungkan Modernisasi Pesawat Hercules C-130H TNI AU",
       "link_berita": "https://news.republika.co.id/berita/tk1vcp484/gmf-rampungkan-modernisasi-pesawat-hercules-c130h-tni-au",
       "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:42:38"
     },
     {
       "judul": "IHSG dan Rupiah Kompak Positif, Ini Pemicunya",
       "link_berita": "https://ekonomi.republika.co.id/berita/tk1v92490/ihsg-dan-rupiah-kompak-positif-ini-pemicunya",
       "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:42:38"
     },
     {
       "judul": "IFA Archipelago Perluas Ekosistem Fashion dan Estetika ke Kalimantan Selatan",
       "link_berita": "https://ameera.republika.co.id/berita/tk1u08328/ifa-archipelago-perluas-ekosistem-fashion-dan-estetika-ke-kalimantan-selatan",
       "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
-    },
-    {
-      "judul": "Bangkit dari Abu Semeru, Warga Supiturang Kembangkan Bata Ringan dan Olahan Salak",
-      "link_berita": "https://rejogja.republika.co.id/berita/tk1txj291/bangkit-dari-abu-semeru-warga-supiturang-kembangkan-bata-ringan-dan-olahan-salak",
-      "kategori": "Rejogja",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
-    },
-    {
-      "judul": "Persiapan Muktamar ke-35 NU di Tambakberas Capai 80 Persen",
-      "link_berita": "https://khazanah.republika.co.id/berita/tk1tqq366/persiapan-muktamar-ke35-nu-di-tambakberas-capai-80-persen",
-      "kategori": "Khazanah",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
-    },
-    {
-      "judul": "Laba BUMN Rp39,92 Triliun Jadi Modal Danantara Perkuat Ekonomi Nasional",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tk1teu416/laba-bumn-rp3992-triliun-jadi-modal-danantara-perkuat-ekonomi-nasional",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:50:46"
-    },
-    {
-      "judul": "Bandara Internasional Kertajati akan Jadi Bengkel Jet Tempur Indonesia",
-      "link_berita": "https://news.republika.co.id/berita/tk1ss3377/bandara-internasional-kertajati-akan-jadi-bengkel-jet-tempur-indonesia",
-      "kategori": "News",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Harga Emas Antam Melejit Naik, Tembus Rp2.725.000 per Gram",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tk1sm5490/harga-emas-antam-melejit-naik-tembus-rp2725000-per-gram",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Devano Cerita Tantangan Hingga Isi Soundtrack Film Rumah Singgah",
-      "link_berita": "https://ameera.republika.co.id/berita/tk1sl8328/devano-cerita-tantangan-hingga-isi-soundtrack-film-rumah-singgah",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "KAI Commuter Gunakan Satu Jalur Imbas Gangguan Commuter Line Bogor dan Tangerang",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tk1skr370/kai-commuter-gunakan-satu-jalur-imbas-gangguan-commuter-line-bogor-dan-tangerang",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Bahaya Tersembunyi di Balik Kebiasaan Tidur Sore",
-      "link_berita": "https://retizen.republika.co.id/posts/777433/bahaya-tersembunyi-di-balik-kebiasaan-tidur-sore",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "OJK Siapkan Bursa Mineral dan Komoditas Strategis, Lantik Deputi Komisioner Baru",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tk1s7w490/ojk-siapkan-bursa-mineral-dan-komoditas-strategis-lantik-deputi-komisioner-baru",
-      "kategori": "Ekonomi",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Dimensi Agama dalam Selebrasi Perayaan Kemerdekaan Bangsa Indonesia",
-      "link_berita": "https://retizen.republika.co.id/posts/777425/dimensi-agama-dalam-selebrasi-perayaan-kemerdekaan-bangsa-indonesia",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Bengong Itu tidak Gratis",
-      "link_berita": "https://retizen.republika.co.id/posts/777442/bengong-itu-tidak-gratis",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Menata Rimba Raya: Komersialisasi dan Tata Kelola Pendakian Gunung",
-      "link_berita": "https://retizen.republika.co.id/posts/777454/menata-rimba-raya-komersialisasi-dan-tata-kelola-pendakian-gunung",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Rian D'Masiv Rajin Makan Kencur Jaga Daya Tahan Pita Suara",
-      "link_berita": "https://ameera.republika.co.id/berita/tk1rkm328/rian-dmasiv-rajin-makan-kencur-jaga-daya-tahan-pita-suara",
-      "kategori": "Ameera",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Gen Z dan Agenda Pembangunan Berkelanjutan",
-      "link_berita": "https://retizen.republika.co.id/posts/777479/gen-z-dan-agenda-pembangunan-berkelanjutan",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
-    },
-    {
-      "judul": "Belajar dari Pengalaman Baru: Cerita Pekan Pertama Magang di Pimpinan Pusat Muhammadiyah",
-      "link_berita": "https://retizen.republika.co.id/posts/777483/belajar-dari-pengalaman-baru-cerita-pekan-pertama-magang-di-pimpinan-pusat-muhammadiyah",
-      "kategori": "Retizen",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 02:50:46"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 03:42:38"
     },
     {
       "judul": "IFA Archipelago Perluas Ekosistem Fashion dan Estetika ke Kalimantan Selatan",
@@ -391,16 +391,16 @@
       "tanggal_terbit": "Thursday, 20 Aug 2026, 10:36:00"
     },
     {
-      "judul": "Bantu Korban Gempa NTT, Ini Cara Pertamina Hidupkan Gotong Royong",
-      "link_berita": "https://esgnow.republika.co.id/berita/tk1pii416/bantu-korban-gempa-ntt-ini-cara-pertamina-hidupkan-gotong-royong",
+      "judul": "PKT Salurkan Bantuan Kebutuhan Mendesak Warga Terdampak Gempa NTT",
+      "link_berita": "https://esgnow.republika.co.id/berita/tk215f416/pkt-salurkan-bantuan-kebutuhan-mendesak-warga-terdampak-gempa-ntt",
       "kategori": "Csr Esg Now",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 09:04:00"
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 14:00:00"
     },
     {
-      "judul": "Musim Mas Raih Mahayuga Award 2026 sebagai Pelopor Industri Hijau",
-      "link_berita": "https://ekonomi.republika.co.id/berita/tk21zm368/musim-mas-raih-mahayuga-award-2026-sebagai-pelopor-industri-hijau",
-      "kategori": "Finansial",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 13:28:00"
+      "judul": "Usai Sejumlah Kecelakaan Kapal, Menhub Perkuat Sistem Keselamatan Pelayaran",
+      "link_berita": "https://ekonomi.republika.co.id/berita/tk24qa423/usai-sejumlah-kecelakaan-kapal-menhub-perkuat-sistem-keselamatan-pelayaran",
+      "kategori": "Bisnis",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 14:40:00"
     },
     {
       "judul": "Bank Aladin Syariah Catat Laba Rp38,3 Miliar, Nasabah Tembus 3,9 Juta",
@@ -409,11 +409,11 @@
       "tanggal_terbit": "Wednesday, 19 Aug 2026, 15:00:00"
     },
     {
-      "judul": "PMHU Nomor 2 Tahun 2026, Antara Perlindungan Jemaah dan Keadilan Berusaha",
-      "link_berita": "https://analisis.republika.co.id/berita/tk22vg368/pmhu-nomor-2-tahun-2026-antara-perlindungan-jemaah-dan-keadilan-berusaha",
-      "kategori": "Wacana",
-      "tanggal_terbit": "Thursday, 20 Aug 2026, 13:47:00"
+      "judul": "Pengiriman Jet KAAN, Kemitraan Turki-Indonesia Capai Puncaknya",
+      "link_berita": "https://news.republika.co.id/berita/tk251a484/pengiriman-jet-kaan-kemitraan-turkiindonesia-capai-puncaknya",
+      "kategori": "Nasional News",
+      "tanggal_terbit": "Thursday, 20 Aug 2026, 14:34:00"
     }
   ],
-  "waktu_scraping": "Thursday, 20 Aug 2026, 13:50:46"
+  "waktu_scraping": "Thursday, 20 Aug 2026, 14:42:38"
 }
